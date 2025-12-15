@@ -1,0 +1,218 @@
+"user+"	
+{
+	"allow"	
+	{
+	}
+	"inherit_from"	"user"
+}
+"senioreventolog"	
+{
+	"allow"	
+	{
+	}
+	"inherit_from"	"user"
+}
+"invalid"	
+{
+	"allow"	
+	{
+		"admin"
+		"admin chat"
+		"analytics"
+		"announce"
+		"awarn_delete"
+		"awarn_immune"
+		"awarn_options"
+		"awarn_remove"
+		"awarn_view"
+		"awarn_warn"
+		"ban"
+		"bring"
+		"bypass prop blacklist"
+		"bypass prop deletion"
+		"bypass prop spam"
+		"bypass prop-protection"
+		"clear decals"
+		"custom vote"
+		"delete all private messages"
+		"delete all reports"
+		"edit ban"
+		"extinguish"
+		"fpp_cleanup"
+		"fpp_settings"
+		"freeze"
+		"freeze props"
+		"fspectate"
+		"gag"
+		"get friends"
+		"give ammo"
+		"give weapon"
+		"god mode"
+		"goto"
+		"ignite"
+		"invisible"
+		"jail"
+		"kick"
+		"manage advertisements"
+		"manage chat settings"
+		"manage motd"
+		"manage players"
+		"manage plugins"
+		"manage private messages"
+		"manage prop blacklist"
+		"manage prop-protection"
+		"manage reports"
+		"manage reserved slots"
+		"manage restrictions"
+		"manage watchlist"
+		"map"
+		"map restart"
+		"model"
+		"mute"
+		"no collide"
+		"noclip"
+		"npc target"
+		"physgun player"
+		"play song"
+		"quick menu"
+		"ragdoll"
+		"remove slaynr"
+		"respawn"
+		"respond to help requests"
+		"restart round"
+		"restrict"
+		"return"
+		"sandbox settings"
+		"screencap"
+		"see help requests"
+		"send"
+		"server logs"
+		"set armor"
+		"set credits"
+		"set health"
+		"set karma"
+		"set rank"
+		"set role"
+		"set team"
+		"slap"
+		"slay"
+		"slaynr"
+		"strip weapons"
+		"superadmin"
+		"tab hide mode"
+		"tab unhide mode"
+		"unban"
+		"ungag"
+		"unmute"
+		"view disconnects"
+	}
+	"inherit_from"	"user"
+}
+"senioradmin"	
+{
+	"allow"	
+	{
+	}
+	"inherit_from"	"user"
+}
+"sadmin"	
+{
+	"allow"	
+	{
+	}
+	"inherit_from"	"user"
+}
+"moderator"	
+{
+	"allow"	
+	{
+	}
+	"inherit_from"	"admin"
+}
+"curator"	
+{
+	"allow"	
+	{
+	}
+	"inherit_from"	"user"
+}
+"helper"	
+{
+	"allow"	
+	{
+	}
+	"inherit_from"	"user"
+}
+"eventolog"	
+{
+	"allow"	
+	{
+	}
+	"inherit_from"	"user"
+}
+"founder"	
+{
+	"allow"	
+	{
+	}
+	"inherit_from"	"superadmin"
+}
+"superadmin"	
+{
+	"allow"	
+	{
+		"ember_ban"
+		"ember_unban"
+	}
+	"inherit_from"	"admin"
+}
+"user++"	
+{
+	"allow"	
+	{
+	}
+	"inherit_from"	"user"
+}
+"sudocurator"	
+{
+	"allow"	
+	{
+	}
+	"inherit_from"	"user"
+}
+"admin"	
+{
+	"can_target"	"!%superadmin"
+	"allow"	
+	{
+	}
+	"inherit_from"	"operator"
+}
+"admin-j"	
+{
+	"allow"	
+	{
+	}
+	"inherit_from"	"user"
+}
+"operator"	
+{
+	"can_target"	"!%admin"
+	"allow"	
+	{
+	}
+	"inherit_from"	"user"
+}
+"user"	
+{
+	"allow"	
+	{
+	}
+}
+"media"	
+{
+	"allow"	
+	{
+	}
+	"inherit_from"	"user"
+}

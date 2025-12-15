@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "munch/jtf/mp_milsim_jtf2_shirt_1_2"
+	"$bumpmap" "munch/jtf/vm_golem_arms_black_n"
+}

@@ -1,0 +1,128 @@
+[Fri Nov 21 19:16:48 2025] Player "BloodySmile" <STEAM_0:1:54838838> is attempting to connect.
+[Fri Nov 21 19:19:58 2025] Player "BloodySmile" <STEAM_0:1:54838838> has spawned in the server
+[Fri Nov 21 19:22:59 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [368][sw_rocket_agm114_v3]"
+[Fri Nov 21 19:23:06 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [368][bodygroup]"
+[Fri Nov 21 19:23:24 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [369][lvs_wheeldrive_hummer]"
+[Fri Nov 21 19:23:27 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [369][lvs_wheeldrive_hummer_m134]"
+[Fri Nov 21 19:23:28 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [506][lvs_wheeldrive_hummer_mk19]"
+[Fri Nov 21 19:23:31 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [369][lvs_wheeldrive_rp_dabrams_m1a1]"
+[Fri Nov 21 19:23:33 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [560][lvs_wheeldrive_dabrams_m1a1]"
+[Fri Nov 21 19:24:00 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [368][sw_bmp1]"
+[Fri Nov 21 19:24:02 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [368][sw_bmp2m]"
+[Fri Nov 21 19:24:06 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [368][armor_take]"
+[Fri Nov 21 19:33:55 2025] Player "BloodySmile" <STEAM_0:1:54838838> has left the server
+[Fri Nov 21 20:30:33 2025] Player "ФаНАТ СОВЫ" <STEAM_0:1:455594560> is attempting to connect.
+[Fri Nov 21 20:33:01 2025] Player "ФаНАТ СОВЫ" <STEAM_0:1:455594560> has spawned in the server
+[Fri Nov 21 20:33:49 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ spawned SENT "Entity [267][lvs_wheeldrive_dabrams_m1a1]"
+[Fri Nov 21 20:33:52 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ spawned SENT "Entity [557][lvs_wheeldrive_rp_dabrams_m1a1]"
+[Fri Nov 21 20:33:54 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ spawned SENT "Entity [267][lvs_wheeldrive_m3a3]"
+[Fri Nov 21 20:34:34 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ spawned SENT "Entity [267][lvs_wheeldrive_bmw_r75]"
+[Fri Nov 21 20:35:32 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ: !noclip
+[Fri Nov 21 20:36:10 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ: !noclip
+[Fri Nov 21 20:36:10 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ ran command "noclip Белов"
+[Fri Nov 21 20:36:30 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ spawned SENT "Entity [497][sw_bomb_agm154_v3]"
+[Fri Nov 21 20:36:35 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ spawned SENT "Entity [497][bodygroup]"
+[Fri Nov 21 20:36:41 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ spawned SENT "Entity [497][lvs_wheeldrive_dodwillyjeep_mg]"
+[Fri Nov 21 20:36:57 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ spawned SENT "Entity [497][lvs_wheeldrive_dodsherman_zippo]"
+[Fri Nov 21 20:37:09 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ spawned SENT "Entity [497][lvs_wheeldrive_dodtiger]"
+[Fri Nov 21 20:37:51 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ spawned SENT "Entity [497][lvs_wheeldrive_dodwillyjeep]"
+[Fri Nov 21 20:37:56 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ spawned SENT "Entity [267][lvs_wheeldrive_dodtiger]"
+[Fri Nov 21 20:38:05 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ spawned SENT "Entity [267][lvs_wheeldrive_dodkuebelwagen_mg]"
+[Fri Nov 21 20:38:24 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ spawned SENT "Entity [267][lvs_trailer_pak40]"
+[Fri Nov 21 20:38:33 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ spawned SENT "Entity [267][lvs_trailer_flaktrailer]"
+[Fri Nov 21 20:38:40 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ spawned SENT "Entity [379][lvs_item_compressor]"
+[Fri Nov 21 20:38:48 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ spawned SENT "Entity [379][lvs_item_spikestrip]"
+[Fri Nov 21 20:38:50 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ spawned SENT "Entity [491][lvs_item_spikestrip]"
+[Fri Nov 21 20:38:53 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ spawned SENT "Entity [379][lvs_item_transmission_automatic]"
+[Fri Nov 21 20:38:56 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ spawned SENT "Entity [491][lvs_item_transmission_manual]"
+[Fri Nov 21 20:39:01 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ spawned SENT "Entity [379][lvs_missile]"
+[Fri Nov 21 20:39:03 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ spawned SENT "Entity [379][lvs_missile]"
+[Fri Nov 21 20:39:05 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ spawned SENT "Entity [379][lvs_missile]"
+[Fri Nov 21 20:39:06 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ spawned SENT "Entity [490][lvs_missile]"
+[Fri Nov 21 20:39:06 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ spawned SENT "Entity [491][lvs_missile]"
+[Fri Nov 21 20:39:06 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ spawned SENT "Entity [379][lvs_missile]"
+[Fri Nov 21 20:39:10 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ spawned SENT "Entity [379][lvs_concussionmissile]"
+[Fri Nov 21 20:39:12 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ spawned SENT "Entity [379][lvs_concussionmissile]"
+[Fri Nov 21 20:39:13 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ spawned SENT "Entity [490][lvs_protontorpedo]"
+[Fri Nov 21 20:39:13 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ spawned SENT "Entity [491][lvs_protontorpedo]"
+[Fri Nov 21 20:39:17 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ spawned SENT "Entity [379][lvs_item_exhaust]"
+[Fri Nov 21 20:39:18 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ spawned SENT "Entity [490][lvs_item_exhaust]"
+[Fri Nov 21 20:39:22 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ spawned SENT "Entity [379][sw_item_refuel]"
+[Fri Nov 21 20:39:33 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ spawned SENT "Entity [492][lvs_trailer_flak]"
+[Fri Nov 21 20:39:40 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ spawned SENT "Entity [491][lvs_item_gauge]"
+[Fri Nov 21 20:39:43 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ spawned SENT "Entity [492][lvs_item_gauge]"
+[Fri Nov 21 20:39:43 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ spawned SENT "Entity [491][lvs_item_exhaust]"
+[Fri Nov 21 20:39:44 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ spawned SENT "Entity [493][lvs_item_turbo]"
+[Fri Nov 21 20:39:56 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ spawned SENT "Entity [494][lvs_wheeldrive_dodsherman]"
+[Fri Nov 21 20:40:06 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ spawned SENT "Entity [491][lvs_wheeldrive_rp_dabrams_m1a1]"
+[Fri Nov 21 20:40:08 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ spawned SENT "Entity [491][lvs_wheeldrive_rp_dabrams_m1a1]"
+[Fri Nov 21 20:40:12 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ spawned SENT "Entity [571][lvs_wheeldrive_rp_dabrams_m1a1]"
+[Fri Nov 21 20:40:34 2025] Player "Fernández" <STEAM_0:0:79873507> is attempting to connect.
+[Fri Nov 21 20:41:54 2025] Player "Fernández" <STEAM_0:0:79873507> has spawned in the server
+[Fri Nov 21 20:42:13 2025] <STEAM_0:0:79873507> Fernández spawned SENT "Entity [510][lvs_wheeldrive_hummer]"
+[Fri Nov 21 20:42:27 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ spawned SENT "Entity [369][armor_take]"
+[Fri Nov 21 20:44:07 2025] <STEAM_0:0:79873507> Fernández spawned prop "Entity [374][prop_physics] (models/sw/ground/bmp1/bmp1.mdl)"
+[Fri Nov 21 20:48:13 2025] Player "Fernández" <STEAM_0:0:79873507> has left the server
+[Fri Nov 21 21:08:56 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ spawned SENT "Entity [267][armor_take]"
+[Fri Nov 21 21:14:24 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ spawned SENT "Entity [372][sw_rocket_9m131_v3]"
+[Fri Nov 21 21:14:26 2025] ФаНАТ СОВЫ has killed ФаНАТ СОВЫ.
+[Fri Nov 21 21:14:27 2025] ФаНАТ СОВЫ has killed ФаНАТ СОВЫ.
+[Fri Nov 21 21:14:34 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ spawned SENT "Entity [370][sw_mine_pfm1_v3]"
+[Fri Nov 21 21:14:36 2025] ФаНАТ СОВЫ has killed ФаНАТ СОВЫ.
+[Fri Nov 21 21:14:41 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ spawned SENT "Entity [370][sw_mine_tm62_v3]"
+[Fri Nov 21 21:14:57 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ spawned SENT "Entity [370][sw_mine_ozm72_v3]"
+[Fri Nov 21 21:15:01 2025] ФаНАТ СОВЫ has killed ФаНАТ СОВЫ.
+[Fri Nov 21 21:15:20 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ spawned SENT "Entity [370][sw_airdrop_large_v3]"
+[Fri Nov 21 21:15:26 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ spawned SENT "Entity [373][sw_parachute_v3]"
+[Fri Nov 21 21:15:30 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ spawned SENT "Entity [370][sw_uav_catapult]"
+[Fri Nov 21 21:15:33 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ spawned SENT "Entity [373][sw_uav_catapult]"
+[Fri Nov 21 21:15:37 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ spawned SENT "Entity [370][sw_parachute_v3]"
+[Fri Nov 21 21:15:38 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ spawned SENT "Entity [375][sw_parachute_heavy_v3]"
+[Fri Nov 21 21:15:40 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ spawned SENT "Entity [370][sw_airdrop_v3]"
+[Fri Nov 21 21:15:47 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ spawned SENT "Entity [370][sw_rocket_agm114_v3]"
+[Fri Nov 21 21:17:58 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ spawned SENT "Entity [370][sent_ball]"
+[Fri Nov 21 21:26:07 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ spawned SENT "Entity [377][bodygroup]"
+[Fri Nov 21 21:42:53 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ spawned SENT "Entity [378][armor_take]"
+[Fri Nov 21 21:43:30 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ spawned SENT "Entity [369][bodygroup]"
+[Fri Nov 21 21:45:54 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ: tfa_ins2_pm
+[Fri Nov 21 21:46:01 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ: tfa_ins2_wpn_makarovpistol
+[Fri Nov 21 21:47:57 2025] Player "ФаНАТ СОВЫ" <STEAM_0:1:455594560> is attempting to connect.
+[Fri Nov 21 21:49:10 2025] Player "ФаНАТ СОВЫ" <STEAM_0:1:455594560> has spawned in the server
+[Fri Nov 21 21:50:07 2025] Player "Fernández" <STEAM_0:0:79873507> is attempting to connect.
+[Fri Nov 21 21:53:57 2025] Player "ФаНАТ СОВЫ" <STEAM_0:1:455594560> is attempting to connect.
+[Fri Nov 21 21:54:27 2025] Player "ФаНАТ СОВЫ" <STEAM_0:1:455594560> has spawned in the server
+[Fri Nov 21 21:55:18 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ spawned SENT "Entity [267][bodygroup]"
+[Fri Nov 21 21:56:18 2025] Player "Fernández" <STEAM_0:0:79873507> is attempting to connect.
+[Fri Nov 21 21:59:46 2025] Player "Fernández" <STEAM_0:0:79873507> is attempting to connect.
+[Fri Nov 21 21:59:56 2025] Player "Fernández" <STEAM_0:0:79873507> is attempting to connect.
+[Fri Nov 21 22:01:08 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ spawned SENT "Entity [267][bodygroup]"
+[Fri Nov 21 22:01:52 2025] Player "Fernández" <STEAM_0:0:79873507> is attempting to connect.
+[Fri Nov 21 22:07:12 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ spawned SENT "Entity [267][bodygroup]"
+[Fri Nov 21 22:07:50 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ spawned SENT "Entity [267][bodygroup]"
+[Fri Nov 21 22:30:35 2025] Player "ФаНАТ СОВЫ" <STEAM_0:1:455594560> has left the server
+[Fri Nov 21 22:37:42 2025] Player "Fernández" <STEAM_0:0:79873507> is attempting to connect.
+[Fri Nov 21 22:37:50 2025] Player "Fernández" <STEAM_0:0:79873507> is attempting to connect.
+[Fri Nov 21 22:39:30 2025] Player "Fernández" <STEAM_0:0:79873507> is attempting to connect.
+[Fri Nov 21 22:40:02 2025] Player "Fernández" <STEAM_0:0:79873507> is attempting to connect.
+[Fri Nov 21 22:41:00 2025] Player "Fernández" <STEAM_0:0:79873507> is attempting to connect.
+[Fri Nov 21 22:43:04 2025] Player "Fernández" <STEAM_0:0:79873507> is attempting to connect.
+[Fri Nov 21 23:45:01 2025] Player "Fernández" <STEAM_0:0:79873507> is attempting to connect.
+[Fri Nov 21 23:45:44 2025] Player "Fernández" <STEAM_0:0:79873507> has spawned in the server
+[Fri Nov 21 23:49:03 2025] <STEAM_0:0:79873507> Fernández spawned SENT "Entity [366][lvs_wheeldrive_hummer]"
+[Fri Nov 21 23:49:13 2025] <STEAM_0:0:79873507> Fernández spawned SENT "Entity [366][lvs_wheeldrive_m3a3]"
+[Fri Nov 21 23:49:35 2025] <STEAM_0:0:79873507> Fernández spawned SENT "Entity [545][lvs_wheeldrive_dabrams_m1a1]"
+[Fri Nov 21 23:50:14 2025] <STEAM_0:0:79873507> Fernández spawned SENT "Entity [621][lvs_wheeldrive_hummer_m134]"
+[Fri Nov 21 23:50:19 2025] <STEAM_0:0:79873507> Fernández spawned SENT "Entity [621][lvs_wheeldrive_hummer_m134]"
+[Fri Nov 21 23:50:37 2025] <STEAM_0:0:79873507> Fernández spawned SENT "Entity [620][lvs_wheeldrive_hummer_m240]"
+[Fri Nov 21 23:50:40 2025] <STEAM_0:0:79873507> Fernández spawned SENT "Entity [644][lvs_wheeldrive_hummer_mk19]"
+[Fri Nov 21 23:50:41 2025] <STEAM_0:0:79873507> Fernández spawned SENT "Entity [620][lvs_wheeldrive_hummer_tow]"
+[Fri Nov 21 23:55:46 2025] <STEAM_0:0:79873507> Fernández used tool "ledscreen"
+[Fri Nov 21 23:55:50 2025] <STEAM_0:0:79873507> Fernández used tool "ledscreen"
+[Fri Nov 21 23:55:51 2025] <STEAM_0:0:79873507> Fernández used tool "ledscreen"
+[Fri Nov 21 23:55:52 2025] <STEAM_0:0:79873507> Fernández used tool "ledscreen"
+[Fri Nov 21 23:56:02 2025] <STEAM_0:0:79873507> Fernández used tool "ledscreen"
+[Fri Nov 21 23:56:03 2025] <STEAM_0:0:79873507> Fernández used tool "ledscreen"
+[Fri Nov 21 23:56:14 2025] <STEAM_0:0:79873507> Fernández used tool "ledscreen"
+[Fri Nov 21 23:56:21 2025] <STEAM_0:0:79873507> Fernández used tool "ledscreen"
+[Fri Nov 21 23:56:24 2025] <STEAM_0:0:79873507> Fernández used tool "textscreen"
+[Fri Nov 21 23:56:55 2025] <STEAM_0:0:79873507> Fernández spawned npc "NPC [490][npc_combine_s]"

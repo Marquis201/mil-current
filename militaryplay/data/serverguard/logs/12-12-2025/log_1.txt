@@ -1,0 +1,223 @@
+[Fri Dec 12 02:24:39 2025] Player "OZOR" <STEAM_0:0:85754053> has left the server
+[Fri Dec 12 18:09:26 2025] Player "费尔南德斯" <STEAM_0:0:79873507> is attempting to connect.
+[Fri Dec 12 18:09:43 2025] Player "费尔南德斯" <STEAM_0:0:79873507> is attempting to connect.
+[Fri Dec 12 18:10:45 2025] Player "费尔南德斯" <STEAM_0:0:79873507> has spawned in the server
+[Fri Dec 12 18:11:13 2025] <STEAM_0:0:79873507> 费尔南德斯: !capture
+[Fri Dec 12 18:12:01 2025] <STEAM_0:0:79873507> 费尔南德斯: /conquest
+[Fri Dec 12 18:15:57 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [371][armor_take]"
+[Fri Dec 12 18:16:14 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "NPC [371][vehicles_sales]"
+[Fri Dec 12 18:16:27 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "NPC [371][vehicles_sales]"
+[Fri Dec 12 18:16:43 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [375][sw_bmp1]"
+[Fri Dec 12 18:17:05 2025] Player "费尔南德斯" <STEAM_0:0:79873507> has left the server
+[Fri Dec 12 20:45:13 2025] Player "Soldier Boy" <STEAM_0:1:620808428> is attempting to connect.
+[Fri Dec 12 20:51:56 2025] Player "Soldier Boy" <STEAM_0:1:620808428> has spawned in the server
+[Fri Dec 12 20:55:02 2025] <STEAM_0:1:620808428> Soldier Boy: /wl
+[Fri Dec 12 20:56:34 2025] <STEAM_0:1:620808428> Soldier Boy spawned prop "Entity [370][prop_physics] (models/props_borealis/mooring_cleat01.mdl)"
+[Fri Dec 12 20:56:34 2025] <STEAM_0:1:620808428> Soldier Boy spawned prop "Entity [372][prop_physics] (models/props_borealis/mooring_cleat01.mdl)"
+[Fri Dec 12 20:56:34 2025] <STEAM_0:1:620808428> Soldier Boy spawned prop "Entity [373][prop_physics] (models/props_borealis/mooring_cleat01.mdl)"
+[Fri Dec 12 20:56:34 2025] <STEAM_0:1:620808428> Soldier Boy spawned prop "Entity [376][prop_physics] (models/props_borealis/mooring_cleat01.mdl)"
+[Fri Dec 12 20:57:26 2025] <STEAM_0:1:620808428> Soldier Boy spawned npc "NPC [373][npc_antlion]"
+[Fri Dec 12 20:57:43 2025] <STEAM_0:1:620808428> Soldier Boy spawned npc "NPC [367][npc_antlionguard]"
+[Fri Dec 12 20:58:13 2025] Soldier Boy has killed Soldier Boy.
+[Fri Dec 12 20:59:47 2025] <STEAM_0:1:620808428> Soldier Boy: /bot
+[Fri Dec 12 21:00:03 2025] <STEAM_0:1:620808428> Soldier Boy: botadd
+[Fri Dec 12 21:01:22 2025] <STEAM_0:1:620808428> Soldier Boy spawned npc "NPC [482][npc_antlion]"
+[Fri Dec 12 21:01:27 2025] <STEAM_0:1:620808428> Soldier Boy spawned npc "NPC [482][npc_monk]"
+[Fri Dec 12 21:01:33 2025] <STEAM_0:1:620808428> Soldier Boy spawned npc "NextBot [482][npc_tf2_ghost]"
+[Fri Dec 12 21:01:38 2025] <STEAM_0:1:620808428> Soldier Boy spawned npc "NPC [482][npc_combine_s]"
+[Fri Dec 12 21:01:38 2025] <STEAM_0:1:620808428> Soldier Boy spawned npc "NPC [486][npc_combine_s]"
+[Fri Dec 12 21:01:39 2025] <STEAM_0:1:620808428> Soldier Boy spawned npc "NPC [483][npc_combine_s]"
+[Fri Dec 12 21:01:41 2025] <STEAM_0:1:620808428> Soldier Boy spawned npc "NPC [488][npc_combine_s]"
+[Fri Dec 12 21:01:47 2025] <STEAM_0:1:620808428> Soldier Boy spawned npc "NPC [490][npc_manhack]"
+[Fri Dec 12 21:01:52 2025] <STEAM_0:1:620808428> Soldier Boy spawned npc "NPC [372][npc_turret_floor]"
+[Fri Dec 12 21:02:39 2025] <STEAM_0:1:620808428> Soldier Boy: !umvesebul
+[Fri Dec 12 21:03:05 2025] <STEAM_0:1:620808428> Soldier Boy: uninvisible
+[Fri Dec 12 21:03:16 2025] <STEAM_0:1:620808428> Soldier Boy: !uninvisible
+[Fri Dec 12 21:03:26 2025] <STEAM_0:1:620808428> Soldier Boy: /uninvisible
+[Fri Dec 12 21:03:35 2025] <STEAM_0:1:620808428> Soldier Boy: god
+[Fri Dec 12 21:03:40 2025] <STEAM_0:1:620808428> Soldier Boy: !god
+[Fri Dec 12 21:11:10 2025] <STEAM_0:1:620808428> Soldier Boy: !menu
+[Fri Dec 12 21:11:10 2025] <STEAM_0:1:620808428> Soldier Boy ran command "menu"
+[Fri Dec 12 21:13:15 2025] <STEAM_0:1:620808428> Soldier Boy: !invisible
+[Fri Dec 12 21:13:15 2025] <STEAM_0:1:620808428> Soldier Boy ran command "invisible Хохлов"
+[Fri Dec 12 21:13:28 2025] <STEAM_0:1:620808428> Soldier Boy: !uninvisible
+[Fri Dec 12 21:13:38 2025] <STEAM_0:1:620808428> Soldier Boy: !uninvisible
+[Fri Dec 12 21:13:40 2025] Player "xlupalshik" <STEAM_0:0:150825634> is attempting to connect.
+[Fri Dec 12 21:13:47 2025] Player "xlupalshik" <STEAM_0:0:150825634> is attempting to connect.
+[Fri Dec 12 21:13:54 2025] <STEAM_0:1:620808428> Soldier Boy: !uninvisible
+[Fri Dec 12 21:14:15 2025] Player "xlupalshik" <STEAM_0:0:150825634> is attempting to connect.
+[Fri Dec 12 21:14:21 2025] Player "xlupalshik" <STEAM_0:0:150825634> is attempting to connect.
+[Fri Dec 12 21:14:52 2025] Player "xlupalshik" <STEAM_0:0:150825634> is attempting to connect.
+[Fri Dec 12 21:15:35 2025] Player "xlupalshik" <STEAM_0:0:150825634> is attempting to connect.
+[Fri Dec 12 21:15:40 2025] Player "xlupalshik" <STEAM_0:0:150825634> is attempting to connect.
+[Fri Dec 12 21:16:31 2025] Player "Аллашка ебанашка" <STEAM_0:1:520072139> is attempting to connect.
+[Fri Dec 12 21:18:55 2025] Player "xlupalshik" <STEAM_0:0:150825634> is attempting to connect.
+[Fri Dec 12 21:20:30 2025] Player "xlupalshik" <STEAM_0:0:150825634> is attempting to connect.
+[Fri Dec 12 21:26:07 2025] Player "xlupalshik" <STEAM_0:0:150825634> has spawned in the server
+[Fri Dec 12 21:27:08 2025] Soldier Boy has killed xlupalshik.
+[Fri Dec 12 21:28:07 2025] Soldier Boy has killed xlupalshik.
+[Fri Dec 12 21:28:08 2025] xlupalshik has killed xlupalshik.
+[Fri Dec 12 21:28:27 2025] Soldier Boy has killed xlupalshik.
+[Fri Dec 12 21:30:13 2025] Soldier Boy has killed xlupalshik.
+[Fri Dec 12 21:30:35 2025] <STEAM_0:0:150825634> xlupalshik: НЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕТ
+[Fri Dec 12 21:30:52 2025] worldspawn has killed xlupalshik.
+[Fri Dec 12 21:32:40 2025] Player "Аллашка ебанашка" <STEAM_0:1:520072139> has spawned in the server
+[Fri Dec 12 21:33:11 2025] <STEAM_0:1:620808428> Soldier Boy: RP
+[Fri Dec 12 21:33:25 2025] <STEAM_0:1:620808428> Soldier Boy: !ammo
+[Fri Dec 12 21:33:25 2025] <STEAM_0:1:620808428> Soldier Boy ran command "ammo Хохлов"
+[Fri Dec 12 21:33:25 2025] <STEAM_0:0:150825634> xlupalshik: I DIDN'T EAT THOSE CHOCOLATE SHARIKI....
+[Fri Dec 12 21:33:36 2025] Soldier Boy has killed xlupalshik.
+[Fri Dec 12 21:33:37 2025] xlupalshik has killed xlupalshik.
+[Fri Dec 12 21:33:41 2025] Player "xlupalshik" <STEAM_0:0:150825634> has left the server
+[Fri Dec 12 21:33:41 2025] Player "xlupalshik" <STEAM_0:0:150825634> is attempting to connect.
+[Fri Dec 12 21:34:02 2025] Player "xlupalshik" <STEAM_0:0:150825634> has spawned in the server
+[Fri Dec 12 21:34:11 2025] Player "xlupalshik" <STEAM_0:0:150825634> has left the server
+[Fri Dec 12 21:34:27 2025] Player "xlupalshik" <STEAM_0:0:150825634> is attempting to connect.
+[Fri Dec 12 21:34:54 2025] Player "xlupalshik" <STEAM_0:0:150825634> has spawned in the server
+[Fri Dec 12 21:35:21 2025] <STEAM_0:1:620808428> Soldier Boy: Войс работает?
+[Fri Dec 12 21:35:37 2025] Soldier Boy has killed Аллашка ебанашка.
+[Fri Dec 12 21:35:39 2025] Soldier Boy has killed xlupalshik.
+[Fri Dec 12 21:35:39 2025] xlupalshik has killed xlupalshik.
+[Fri Dec 12 21:36:44 2025] <STEAM_0:1:620808428> Soldier Boy ran command "rank Fernandez founder 0"
+[Fri Dec 12 21:37:17 2025] <STEAM_0:1:520072139> Аллашка ебанашка: !menu
+[Fri Dec 12 21:37:17 2025] <STEAM_0:1:520072139> Аллашка ебанашка ran command "menu"
+[Fri Dec 12 21:37:22 2025] <STEAM_0:1:620808428> Soldier Boy ran command "rank Джэксон helper 0"
+[Fri Dec 12 21:38:39 2025] xlupalshik has killed xlupalshik.
+[Fri Dec 12 21:39:34 2025] Аллашка ебанашка has killed xlupalshik.
+[Fri Dec 12 21:39:35 2025] xlupalshik has killed xlupalshik.
+[Fri Dec 12 21:39:40 2025] Soldier Boy has killed Аллашка ебанашка.
+[Fri Dec 12 21:39:41 2025] Аллашка ебанашка has killed Аллашка ебанашка.
+[Fri Dec 12 21:40:01 2025] <STEAM_0:1:520072139> Аллашка ебанашка: !menu
+[Fri Dec 12 21:40:01 2025] <STEAM_0:1:520072139> Аллашка ебанашка ran command "menu"
+[Fri Dec 12 21:41:53 2025] Player "Soldier Boy" <STEAM_0:1:620808428> has left the server
+[Fri Dec 12 21:42:03 2025] Player "Soldier Boy" <STEAM_0:1:620808428> is attempting to connect.
+[Fri Dec 12 21:42:07 2025] <STEAM_0:1:520072139> Аллашка ебанашка: /logs
+[Fri Dec 12 21:42:28 2025] Player "Soldier Boy" <STEAM_0:1:620808428> has spawned in the server
+[Fri Dec 12 21:43:00 2025] <STEAM_0:1:520072139> Аллашка ебанашка ran command "rank Джэксон founder 0"
+[Fri Dec 12 21:43:01 2025] Soldier Boy has killed xlupalshik.
+[Fri Dec 12 21:43:01 2025] xlupalshik has killed xlupalshik.
+[Fri Dec 12 21:43:42 2025] <STEAM_0:0:150825634> xlupalshik ran command "spectate Джэксон"
+[Fri Dec 12 21:44:20 2025] xlupalshik has killed Аллашка ебанашка.
+[Fri Dec 12 21:44:21 2025] Аллашка ебанашка has killed Аллашка ебанашка.
+[Fri Dec 12 21:44:45 2025] xlupalshik has killed Аллашка ебанашка.
+[Fri Dec 12 21:44:46 2025] Аллашка ебанашка has killed Аллашка ебанашка.
+[Fri Dec 12 21:45:11 2025] xlupalshik has killed Аллашка ебанашка.
+[Fri Dec 12 21:45:21 2025] Аллашка ебанашка has killed xlupalshik.
+[Fri Dec 12 21:45:22 2025] xlupalshik has killed xlupalshik.
+[Fri Dec 12 21:45:24 2025] <STEAM_0:1:520072139> Аллашка ебанашка: !menu
+[Fri Dec 12 21:45:24 2025] <STEAM_0:1:520072139> Аллашка ебанашка ran command "menu"
+[Fri Dec 12 21:45:27 2025] Player "xlupalshik" <STEAM_0:0:150825634> has left the server
+[Fri Dec 12 21:47:36 2025] Soldier Boy has killed Аллашка ебанашка.
+[Fri Dec 12 21:47:37 2025] Аллашка ебанашка has killed Аллашка ебанашка.
+[Fri Dec 12 21:47:53 2025] <STEAM_0:1:620808428> Soldier Boy: /conquest
+[Fri Dec 12 21:49:49 2025] Player "Аллашка ебанашка" <STEAM_0:1:520072139> has left the server
+[Fri Dec 12 21:50:21 2025] <STEAM_0:1:620808428> Soldier Boy spawned SENT "Entity [372][lvs_trailer_pak40]"
+[Fri Dec 12 21:50:26 2025] <STEAM_0:1:620808428> Soldier Boy spawned SENT "Entity [372][lvs_wheeldrive_dodsherman_zippo]"
+[Fri Dec 12 21:50:44 2025] <STEAM_0:1:620808428> Soldier Boy spawned SENT "Entity [372][lvs_wheeldrive_dodkuebelwagen]"
+[Fri Dec 12 21:51:10 2025] <STEAM_0:1:620808428> Soldier Boy spawned SENT "Entity [372][sw_bomb_gbu53_v3]"
+[Fri Dec 12 21:51:13 2025] <STEAM_0:1:620808428> Soldier Boy spawned SENT "Entity [372][sw_rocket_agm114_v3]"
+[Fri Dec 12 21:51:18 2025] <STEAM_0:1:620808428> Soldier Boy spawned SENT "Entity [372][sw_airdrop_large_v3]"
+[Fri Dec 12 21:51:19 2025] <STEAM_0:1:620808428> Soldier Boy spawned SENT "Entity [372][sw_rocket_9m133_v3]"
+[Fri Dec 12 21:51:29 2025] <STEAM_0:1:620808428> Soldier Boy spawned SENT "Entity [372][lvs_wheeldrive_dodwillyjeep]"
+[Fri Dec 12 21:51:32 2025] <STEAM_0:1:620808428> Soldier Boy spawned SENT "Entity [498][sw_rocket_9m14_2_v3]"
+[Fri Dec 12 21:51:45 2025] <STEAM_0:1:620808428> Soldier Boy spawned SENT "Entity [372][lvs_wheeldrive_hummer_m134]"
+[Fri Dec 12 21:51:47 2025] <STEAM_0:1:620808428> Soldier Boy spawned SENT "Entity [372][lvs_wheeldrive_hummer_m134]"
+[Fri Dec 12 21:52:02 2025] <STEAM_0:1:620808428> Soldier Boy spawned SENT "Entity [372][lvs_wheeldrive_dodwillyjeep_mg]"
+[Fri Dec 12 21:52:17 2025] <STEAM_0:1:620808428> Soldier Boy spawned SENT "Entity [372][lvs_wheeldrive_hummer_m2]"
+[Fri Dec 12 21:52:28 2025] <STEAM_0:1:620808428> Soldier Boy spawned SENT "Entity [372][lvs_wheeldrive_hummer]"
+[Fri Dec 12 21:52:34 2025] <STEAM_0:1:620808428> Soldier Boy spawned SENT "Entity [372][lvs_wheeldrive_bmw_r75]"
+[Fri Dec 12 21:52:54 2025] <STEAM_0:1:620808428> Soldier Boy spawned SENT "Entity [372][lvs_wheeldrive_dodkuebelwagen_mg]"
+[Fri Dec 12 21:54:11 2025] Player "Soldier Boy" <STEAM_0:1:620808428> has left the server
+[Fri Dec 12 22:04:11 2025] Player "Аллашка ебанашка" <STEAM_0:1:520072139> is attempting to connect.
+[Fri Dec 12 22:04:54 2025] Player "Аллашка ебанашка" <STEAM_0:1:520072139> has spawned in the server
+[Fri Dec 12 22:05:27 2025] Player "费尔南德斯" <STEAM_0:0:79873507> is attempting to connect.
+[Fri Dec 12 22:06:08 2025] <STEAM_0:1:520072139> Аллашка ебанашка spawned SENT "Entity [367][armor_take]"
+[Fri Dec 12 22:06:55 2025] Player "费尔南德斯" <STEAM_0:0:79873507> has spawned in the server
+[Fri Dec 12 22:07:31 2025] Аллашка ебанашка has killed Аллашка ебанашка.
+[Fri Dec 12 22:07:31 2025] Аллашка ебанашка has killed 费尔南德斯.
+[Fri Dec 12 22:07:51 2025] Аллашка ебанашка has killed 费尔南德斯.
+[Fri Dec 12 22:08:13 2025] <STEAM_0:1:520072139> Аллашка ебанашка spawned SENT "Entity [378][armor_take]"
+[Fri Dec 12 22:09:59 2025] 费尔南德斯 has killed 费尔南德斯.
+[Fri Dec 12 22:10:14 2025] <STEAM_0:0:79873507> 费尔南德斯: !menu
+[Fri Dec 12 22:10:14 2025] <STEAM_0:0:79873507> 费尔南德斯 ran command "menu"
+[Fri Dec 12 22:10:38 2025] <STEAM_0:0:79873507> 费尔南德斯: !menu
+[Fri Dec 12 22:10:38 2025] <STEAM_0:0:79873507> 费尔南德斯 ran command "menu"
+[Fri Dec 12 22:11:10 2025] <STEAM_0:1:520072139> Аллашка ебанашка used tool "material"
+[Fri Dec 12 22:11:11 2025] <STEAM_0:1:520072139> Аллашка ебанашка used tool "material"
+[Fri Dec 12 22:11:11 2025] <STEAM_0:1:520072139> Аллашка ебанашка used tool "material"
+[Fri Dec 12 22:11:11 2025] <STEAM_0:1:520072139> Аллашка ебанашка used tool "material"
+[Fri Dec 12 22:11:11 2025] <STEAM_0:1:520072139> Аллашка ебанашка used tool "material"
+[Fri Dec 12 22:11:12 2025] <STEAM_0:1:520072139> Аллашка ебанашка used tool "material"
+[Fri Dec 12 22:11:12 2025] <STEAM_0:1:520072139> Аллашка ебанашка used tool "material"
+[Fri Dec 12 22:11:12 2025] <STEAM_0:1:520072139> Аллашка ебанашка used tool "material"
+[Fri Dec 12 22:11:12 2025] <STEAM_0:1:520072139> Аллашка ебанашка used tool "material"
+[Fri Dec 12 22:11:13 2025] <STEAM_0:1:520072139> Аллашка ебанашка used tool "material"
+[Fri Dec 12 22:11:14 2025] <STEAM_0:1:520072139> Аллашка ебанашка used tool "material"
+[Fri Dec 12 22:12:35 2025] Аллашка ебанашка has killed 费尔南德斯.
+[Fri Dec 12 22:16:10 2025] Аллашка ебанашка has killed 费尔南德斯.
+[Fri Dec 12 22:16:11 2025] 费尔南德斯 has killed 费尔南德斯.
+[Fri Dec 12 22:16:34 2025] Аллашка ебанашка has killed 费尔南德斯.
+[Fri Dec 12 22:16:48 2025] Аллашка ебанашка has killed 费尔南德斯.
+[Fri Dec 12 22:17:01 2025] Аллашка ебанашка has killed 费尔南德斯.
+[Fri Dec 12 22:19:25 2025] Аллашка ебанашка has killed 费尔南德斯.
+[Fri Dec 12 22:19:26 2025] 费尔南德斯 has killed 费尔南德斯.
+[Fri Dec 12 22:20:07 2025] worldspawn has killed 费尔南德斯.
+[Fri Dec 12 22:20:28 2025] 费尔南德斯 has killed Аллашка ебанашка.
+[Fri Dec 12 22:20:28 2025] Аллашка ебанашка has killed Аллашка ебанашка.
+[Fri Dec 12 22:20:40 2025] 费尔南德斯 has killed Аллашка ебанашка.
+[Fri Dec 12 22:20:41 2025] Аллашка ебанашка has killed Аллашка ебанашка.
+[Fri Dec 12 22:20:47 2025] 费尔南德斯 has killed Аллашка ебанашка.
+[Fri Dec 12 22:20:54 2025] 费尔南德斯 has killed Аллашка ебанашка.
+[Fri Dec 12 22:20:55 2025] Аллашка ебанашка has killed Аллашка ебанашка.
+[Fri Dec 12 22:21:14 2025] 费尔南德斯 has killed Аллашка ебанашка.
+[Fri Dec 12 22:22:04 2025] <STEAM_0:0:79873507> 费尔南德斯: !menu
+[Fri Dec 12 22:22:04 2025] <STEAM_0:0:79873507> 费尔南德斯 ran command "menu"
+[Fri Dec 12 22:23:09 2025] 费尔南德斯 has killed Аллашка ебанашка.
+[Fri Dec 12 22:23:33 2025] Аллашка ебанашка has killed Аллашка ебанашка.
+[Fri Dec 12 22:23:33 2025] <STEAM_0:0:79873507> 费尔南德斯 ran command "slay Fernandez"
+[Fri Dec 12 22:23:48 2025] 费尔南德斯 has killed Аллашка ебанашка.
+[Fri Dec 12 22:23:49 2025] Аллашка ебанашка has killed Аллашка ебанашка.
+[Fri Dec 12 22:23:59 2025] Аллашка ебанашка has killed 费尔南德斯.
+[Fri Dec 12 22:24:00 2025] 费尔南德斯 has killed 费尔南德斯.
+[Fri Dec 12 22:24:17 2025] Аллашка ебанашка has killed 费尔南德斯.
+[Fri Dec 12 22:24:18 2025] 费尔南德斯 has killed 费尔南德斯.
+[Fri Dec 12 22:25:01 2025] Аллашка ебанашка has killed 费尔南德斯.
+[Fri Dec 12 22:25:02 2025] 费尔南德斯 has killed 费尔南德斯.
+[Fri Dec 12 22:25:18 2025] Аллашка ебанашка has killed 费尔南德斯.
+[Fri Dec 12 22:25:19 2025] 费尔南德斯 has killed 费尔南德斯.
+[Fri Dec 12 22:25:34 2025] Аллашка ебанашка has killed 费尔南德斯.
+[Fri Dec 12 22:25:35 2025] 费尔南德斯 has killed 费尔南德斯.
+[Fri Dec 12 22:25:57 2025] Аллашка ебанашка has killed 费尔南德斯.
+[Fri Dec 12 22:26:45 2025] <STEAM_0:1:520072139> Аллашка ебанашка spawned SENT "NPC [484][vehicles_sales]"
+[Fri Dec 12 22:26:50 2025] <STEAM_0:1:520072139> Аллашка ебанашка spawned SENT "Entity [490][sw_bmp1am]"
+[Fri Dec 12 22:26:54 2025] <STEAM_0:1:520072139> Аллашка ебанашка spawned SENT "Entity [490][lvs_wheeldrive_dodsherman_zippo]"
+[Fri Dec 12 22:27:05 2025] Аллашка ебанашка has killed 费尔南德斯.
+[Fri Dec 12 22:27:23 2025] <STEAM_0:1:520072139> Аллашка ебанашка spawned SENT "Entity [490][lvs_wheeldrive_dodsherman]"
+[Fri Dec 12 22:27:27 2025] <STEAM_0:1:520072139> Аллашка ебанашка spawned SENT "Entity [490][lvs_wheeldrive_dodsherman]"
+[Fri Dec 12 22:28:01 2025] Аллашка ебанашка has killed 费尔南德斯.
+[Fri Dec 12 22:28:16 2025] <STEAM_0:1:520072139> Аллашка ебанашка spawned SENT "Entity [490][lvs_wheeldrive_dodwillyjeep_mg]"
+[Fri Dec 12 22:28:18 2025] <STEAM_0:1:520072139> Аллашка ебанашка spawned SENT "Entity [519][lvs_wheeldrive_dodwillyjeep_mg]"
+[Fri Dec 12 22:28:31 2025] <STEAM_0:1:520072139> Аллашка ебанашка spawned SENT "Entity [490][lvs_wheeldrive_dabrams_m1a1]"
+[Fri Dec 12 22:28:36 2025] <STEAM_0:1:520072139> Аллашка ебанашка spawned SENT "Entity [490][lvs_item_gear]"
+[Fri Dec 12 22:28:39 2025] <STEAM_0:1:520072139> Аллашка ебанашка spawned SENT "Entity [490][lvs_concussionmissile]"
+[Fri Dec 12 22:28:39 2025] Аллашка ебанашка has killed Аллашка ебанашка.
+[Fri Dec 12 22:28:48 2025] <STEAM_0:1:520072139> Аллашка ебанашка spawned SENT "Entity [373][lvs_missile]"
+[Fri Dec 12 22:28:48 2025] Аллашка ебанашка has killed 费尔南德斯.
+[Fri Dec 12 22:29:20 2025] <STEAM_0:1:520072139> Аллашка ебанашка spawned SENT "Entity [373][lvs_missile]"
+[Fri Dec 12 22:29:21 2025] Аллашка ебанашка has killed 费尔南德斯.
+[Fri Dec 12 22:29:28 2025] <STEAM_0:1:520072139> Аллашка ебанашка spawned SENT "Entity [373][lvs_concussionmissile]"
+[Fri Dec 12 22:30:46 2025] <STEAM_0:1:520072139> Аллашка ебанашка ran command "spectate Fernandez"
+[Fri Dec 12 22:31:18 2025] <STEAM_0:1:520072139> Аллашка ебанашка ran command "spectate Fernandez"
+[Fri Dec 12 22:31:34 2025] <STEAM_0:1:520072139> Аллашка ебанашка ran command "spectate Fernandez"
+[Fri Dec 12 22:35:05 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "remover"
+[Fri Dec 12 22:35:06 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "remover"
+[Fri Dec 12 22:35:31 2025] worldspawn has killed Аллашка ебанашка.
+[Fri Dec 12 22:39:51 2025] Аллашка ебанашка has killed 费尔南德斯.
+[Fri Dec 12 22:40:26 2025] worldspawn has killed Аллашка ебанашка.
+[Fri Dec 12 22:40:31 2025] worldspawn has killed Аллашка ебанашка.
+[Fri Dec 12 22:41:46 2025] <STEAM_0:1:520072139> Аллашка ебанашка: /goto w
+[Fri Dec 12 22:41:50 2025] <STEAM_0:0:79873507> 费尔南德斯: !bring F
+[Fri Dec 12 22:41:50 2025] <STEAM_0:0:79873507> 费尔南德斯 ran command "bring F"
+[Fri Dec 12 22:43:16 2025] worldspawn has killed Аллашка ебанашка.
+[Fri Dec 12 22:48:13 2025] Player "Аллашка ебанашка" <STEAM_0:1:520072139> has left the server
+[Fri Dec 12 22:48:16 2025] Player "费尔南德斯" <STEAM_0:0:79873507> has left the server

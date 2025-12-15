@@ -1,0 +1,13 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/hoff/weapons/briefcasebomb/~-gt5_weapon_briefcase_bomb_glass_c"
+	"$surfaceprop" "glass"
+	"$envmap" "env_cubemap"
+	"$translucent" "1"
+	"$translucentblend" "1"
+	"$additive" "1"
+	"$selfillum" "0.5"
+	"$envmapfresnel" "0.5"
+	"$envmapcontrast" "1.1"
+	"$brightness" "0.25"
+}

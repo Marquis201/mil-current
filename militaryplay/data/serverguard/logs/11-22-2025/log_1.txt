@@ -1,0 +1,169 @@
+[Sat Nov 22 00:01:55 2025] Player "Fernández" <STEAM_0:0:79873507> has left the server
+[Sat Nov 22 13:55:53 2025] Player "Fernández" <STEAM_0:0:79873507> is attempting to connect.
+[Sat Nov 22 14:15:26 2025] Player "Fernández" <STEAM_0:0:79873507> is attempting to connect.
+[Sat Nov 22 14:29:00 2025] Player "Fernández" <STEAM_0:0:79873507> is attempting to connect.
+[Sat Nov 22 14:32:52 2025] Player "Fernández" <STEAM_0:0:79873507> is attempting to connect.
+[Sat Nov 22 14:34:03 2025] Player "Fernández" <STEAM_0:0:79873507> has spawned in the server
+[Sat Nov 22 14:34:11 2025] Player "Fernández" <STEAM_0:0:79873507> has left the server
+[Sat Nov 22 14:34:12 2025] Player "Fernández" <STEAM_0:0:79873507> is attempting to connect.
+[Sat Nov 22 14:34:30 2025] Player "Fernández" <STEAM_0:0:79873507> has spawned in the server
+[Sat Nov 22 14:34:31 2025] Player "Fernández" <STEAM_0:0:79873507> has left the server
+[Sat Nov 22 14:34:51 2025] Player "Fernández" <STEAM_0:0:79873507> is attempting to connect.
+[Sat Nov 22 14:36:00 2025] Player "Fernández" <STEAM_0:0:79873507> is attempting to connect.
+[Sat Nov 22 14:45:09 2025] Player "Fernández" <STEAM_0:0:79873507> is attempting to connect.
+[Sat Nov 22 14:50:49 2025] Player "Fernández" <STEAM_0:0:79873507> is attempting to connect.
+[Sat Nov 22 14:53:22 2025] Player "Fernández" <STEAM_0:0:79873507> is attempting to connect.
+[Sat Nov 22 14:53:40 2025] Player "Fernández" <STEAM_0:0:79873507> is attempting to connect.
+[Sat Nov 22 14:55:47 2025] Player "Fernández" <STEAM_0:0:79873507> is attempting to connect.
+[Sat Nov 22 14:59:09 2025] Player "Fernández" <STEAM_0:0:79873507> is attempting to connect.
+[Sat Nov 22 15:02:12 2025] Player "Fernández" <STEAM_0:0:79873507> is attempting to connect.
+[Sat Nov 22 15:03:59 2025] Player "Fernández" <STEAM_0:0:79873507> is attempting to connect.
+[Sat Nov 22 15:04:18 2025] Player "Fernández" <STEAM_0:0:79873507> has spawned in the server
+[Sat Nov 22 15:06:05 2025] Player "Fernández" <STEAM_0:0:79873507> has left the server
+[Sat Nov 22 15:06:16 2025] Player "Fernández" <STEAM_0:0:79873507> is attempting to connect.
+[Sat Nov 22 15:06:35 2025] Player "Fernández" <STEAM_0:0:79873507> has spawned in the server
+[Sat Nov 22 15:10:43 2025] <STEAM_0:0:79873507> Fernández spawned SENT "Entity [370][sw_bmp1]"
+[Sat Nov 22 15:11:19 2025] <STEAM_0:0:79873507> Fernández spawned SENT "Entity [370][sw_gaz2330]"
+[Sat Nov 22 15:11:31 2025] <STEAM_0:0:79873507> Fernández spawned SENT "Entity [370][sw_matv]"
+[Sat Nov 22 15:11:44 2025] <STEAM_0:0:79873507> Fernández spawned SENT "Entity [370][sw_bmp2]"
+[Sat Nov 22 15:11:52 2025] <STEAM_0:0:79873507> Fernández spawned SENT "Entity [553][sw_bmp2m]"
+[Sat Nov 22 15:13:11 2025] <STEAM_0:0:79873507> Fernández spawned SENT "Entity [377][sw_bomb_ao1_v3]"
+[Sat Nov 22 15:13:23 2025] <STEAM_0:0:79873507> Fernández spawned SENT "Entity [366][sw_bomb_gbu43_v3]"
+[Sat Nov 22 15:13:26 2025] Fernández has killed Fernández.
+[Sat Nov 22 15:13:27 2025] Fernández has killed Fernández.
+[Sat Nov 22 15:13:53 2025] <STEAM_0:0:79873507> Fernández spawned SENT "Entity [373][sw_bomb_kab1500kr_v3]"
+[Sat Nov 22 15:13:53 2025] Fernández has killed Fernández.
+[Sat Nov 22 15:13:54 2025] Fernández has killed Fernández.
+[Sat Nov 22 15:14:29 2025] <STEAM_0:0:79873507> Fernández spawned SENT "Entity [370][arctic_nvg_pvs14]"
+[Sat Nov 22 15:14:34 2025] <STEAM_0:0:79873507> Fernández spawned SENT "NPC [370][vehicles_sales]"
+[Sat Nov 22 15:14:42 2025] <STEAM_0:0:79873507> Fernández spawned SENT "Entity [370][sw_bmp3m]"
+[Sat Nov 22 15:15:00 2025] <STEAM_0:0:79873507> Fernández spawned SENT "Entity [370][sw_matv]"
+[Sat Nov 22 15:15:10 2025] <STEAM_0:0:79873507> Fernández spawned SENT "Entity [376][sw_gaz2330]"
+[Sat Nov 22 15:15:37 2025] <STEAM_0:0:79873507> Fernández spawned SENT "Entity [370][bodygroup]"
+[Sat Nov 22 15:16:39 2025] <STEAM_0:0:79873507> Fernández: !menu
+[Sat Nov 22 15:16:39 2025] <STEAM_0:0:79873507> Fernández ran command "menu"
+[Sat Nov 22 15:17:26 2025] <STEAM_0:0:79873507> Fernández: !slay *
+[Sat Nov 22 15:17:26 2025] Fernández has killed Fernández.
+[Sat Nov 22 15:17:26 2025] <STEAM_0:0:79873507> Fernández ran command "slay *"
+[Sat Nov 22 15:17:34 2025] <STEAM_0:0:79873507> Fernández: !slay ^
+[Sat Nov 22 15:17:34 2025] Fernández has killed Fernández.
+[Sat Nov 22 15:17:34 2025] <STEAM_0:0:79873507> Fernández ran command "slay ^"
+[Sat Nov 22 15:17:53 2025] <STEAM_0:0:79873507> Fernández spawned SENT "Entity [369][sw_rocket_bgm71_v3]"
+[Sat Nov 22 15:17:54 2025] Fernández has killed Fernández.
+[Sat Nov 22 15:17:55 2025] Fernández has killed Fernández.
+[Sat Nov 22 15:18:00 2025] Player "Fernández" <STEAM_0:0:79873507> has left the server
+[Sat Nov 22 15:37:23 2025] Player "Fernández" <STEAM_0:0:79873507> is attempting to connect.
+[Sat Nov 22 15:37:48 2025] Player "Fernández" <STEAM_0:0:79873507> has spawned in the server
+[Sat Nov 22 15:38:00 2025] <STEAM_0:0:79873507> Fernández: !menu
+[Sat Nov 22 15:38:00 2025] <STEAM_0:0:79873507> Fernández ran command "menu"
+[Sat Nov 22 15:58:52 2025] Player "Bot01" <BOT> has spawned in the server
+[Sat Nov 22 16:05:46 2025] <STEAM_0:0:79873507> Fernández: !menu
+[Sat Nov 22 16:05:46 2025] <STEAM_0:0:79873507> Fernández ran command "menu"
+[Sat Nov 22 16:05:55 2025] <STEAM_0:0:79873507> Fernández: !menu
+[Sat Nov 22 16:05:55 2025] <STEAM_0:0:79873507> Fernández ran command "menu"
+[Sat Nov 22 16:06:08 2025] <STEAM_0:0:79873507> Fernández ran command "kick Bot01 Spammer"
+[Sat Nov 22 16:06:08 2025] Player "Bot01" <BOT> has left the server
+[Sat Nov 22 16:07:55 2025] Player "Fernández" <STEAM_0:0:79873507> has left the server
+[Sat Nov 22 16:53:18 2025] Player "Талиб2004" <STEAM_0:0:58776451> is attempting to connect.
+[Sat Nov 22 18:44:33 2025] Player "Fernández" <STEAM_0:0:79873507> is attempting to connect.
+[Sat Nov 22 18:46:40 2025] Player "Fernández" <STEAM_0:0:79873507> has spawned in the server
+[Sat Nov 22 18:46:55 2025] <STEAM_0:0:79873507> Fernández: rtdwada
+[Sat Nov 22 18:59:17 2025] Player "ghoprhd" <STEAM_0:0:453883455> is attempting to connect.
+[Sat Nov 22 18:59:39 2025] Player "ghoprhd" <STEAM_0:0:453883455> is attempting to connect.
+[Sat Nov 22 19:37:09 2025] Player "Juk" <STEAM_0:0:586457449> is attempting to connect.
+[Sat Nov 22 19:46:40 2025] Player "BloodySmile" <STEAM_0:1:54838838> is attempting to connect.
+[Sat Nov 22 19:47:29 2025] Player "BloodySmile" <STEAM_0:1:54838838> has spawned in the server
+[Sat Nov 22 19:51:56 2025] <STEAM_0:0:79873507> Fernández: !menu
+[Sat Nov 22 19:51:56 2025] <STEAM_0:0:79873507> Fernández ran command "menu"
+[Sat Nov 22 19:52:03 2025] <STEAM_0:0:79873507> Fernández ran command "rank Anderson founder 0"
+[Sat Nov 22 19:55:05 2025] <STEAM_0:1:54838838> BloodySmile ran command "invisible Anderson"
+[Sat Nov 22 19:55:11 2025] <STEAM_0:1:54838838> BloodySmile ran command "invisible Anderson"
+[Sat Nov 22 19:56:24 2025] <STEAM_0:0:79873507> Fernández: !respawn ^
+[Sat Nov 22 19:56:24 2025] <STEAM_0:0:79873507> Fernández ran command "respawn ^"
+[Sat Nov 22 19:58:16 2025] <STEAM_0:1:54838838> BloodySmile ran command "invisible Anderson"
+[Sat Nov 22 19:58:37 2025] <STEAM_0:1:54838838> BloodySmile ran command "invisible Anderson"
+[Sat Nov 22 20:00:06 2025] <STEAM_0:1:54838838> BloodySmile: и
+[Sat Nov 22 20:00:11 2025] <STEAM_0:1:54838838> BloodySmile: b и
+[Sat Nov 22 20:05:56 2025] Player "BloodySmile" <STEAM_0:1:54838838> has left the server
+[Sat Nov 22 20:07:05 2025] Player "BloodySmile" <STEAM_0:1:54838838> is attempting to connect.
+[Sat Nov 22 20:07:29 2025] Player "BloodySmile" <STEAM_0:1:54838838> has spawned in the server
+[Sat Nov 22 20:08:19 2025] Player "BloodySmile" <STEAM_0:1:54838838> has left the server
+[Sat Nov 22 20:08:22 2025] Player "BloodySmile" <STEAM_0:1:54838838> is attempting to connect.
+[Sat Nov 22 20:08:44 2025] Player "BloodySmile" <STEAM_0:1:54838838> has spawned in the server
+[Sat Nov 22 20:09:24 2025] <STEAM_0:0:79873507> Fernández spawned SENT "Entity [370][sw_gaz2330]"
+[Sat Nov 22 20:09:45 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [370][sw_bmp1am]"
+[Sat Nov 22 20:09:49 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [370][sw_matv]"
+[Sat Nov 22 20:09:52 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [493][sw_gaz2330]"
+[Sat Nov 22 20:09:54 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [370][sw_bmp3m]"
+[Sat Nov 22 20:09:57 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [567][sw_bmp3]"
+[Sat Nov 22 20:10:06 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [370][sw_bmp3m]"
+[Sat Nov 22 20:10:09 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [370][sw_bmp3]"
+[Sat Nov 22 20:10:47 2025] <STEAM_0:0:79873507> Fernández spawned SENT "Entity [569][lvs_item_racingtires]"
+[Sat Nov 22 20:10:52 2025] <STEAM_0:0:79873507> Fernández spawned SENT "Entity [569][lvs_missile]"
+[Sat Nov 22 20:10:54 2025] <STEAM_0:0:79873507> Fernández spawned SENT "Entity [569][lvs_missile]"
+[Sat Nov 22 20:10:56 2025] <STEAM_0:0:79873507> Fernández spawned SENT "Entity [569][lvs_missile]"
+[Sat Nov 22 20:10:58 2025] <STEAM_0:0:79873507> Fernández spawned SENT "Entity [569][lvs_missile]"
+[Sat Nov 22 20:11:00 2025] <STEAM_0:0:79873507> Fernández spawned SENT "Entity [585][lvs_concussionmissile]"
+[Sat Nov 22 20:11:02 2025] <STEAM_0:0:79873507> Fernández spawned SENT "Entity [575][lvs_concussionmissile]"
+[Sat Nov 22 20:11:02 2025] <STEAM_0:0:79873507> Fernández spawned SENT "Entity [576][lvs_concussionmissile]"
+[Sat Nov 22 20:11:03 2025] <STEAM_0:0:79873507> Fernández spawned SENT "Entity [577][lvs_concussionmissile]"
+[Sat Nov 22 20:11:03 2025] <STEAM_0:0:79873507> Fernández spawned SENT "Entity [579][lvs_concussionmissile]"
+[Sat Nov 22 20:11:06 2025] <STEAM_0:0:79873507> Fernández spawned SENT "Entity [572][lvs_protontorpedo]"
+[Sat Nov 22 20:11:06 2025] <STEAM_0:0:79873507> Fernández spawned SENT "Entity [573][lvs_protontorpedo]"
+[Sat Nov 22 20:11:06 2025] <STEAM_0:0:79873507> Fernández spawned SENT "Entity [576][lvs_protontorpedo]"
+[Sat Nov 22 20:11:06 2025] <STEAM_0:0:79873507> Fernández spawned SENT "Entity [599][lvs_protontorpedo]"
+[Sat Nov 22 20:11:19 2025] <STEAM_0:0:79873507> Fernández spawned SENT "Entity [375][lvs_concussionmissile]"
+[Sat Nov 22 20:11:19 2025] <STEAM_0:0:79873507> Fernández spawned SENT "Entity [491][lvs_concussionmissile]"
+[Sat Nov 22 20:11:21 2025] <STEAM_0:0:79873507> Fernández spawned SENT "Entity [375][lvs_concussionmissile]"
+[Sat Nov 22 20:11:21 2025] <STEAM_0:0:79873507> Fernández spawned SENT "Entity [491][lvs_concussionmissile]"
+[Sat Nov 22 20:11:22 2025] <STEAM_0:0:79873507> Fernández spawned SENT "Entity [493][lvs_concussionmissile]"
+[Sat Nov 22 20:11:24 2025] <STEAM_0:0:79873507> Fernández spawned SENT "Entity [375][lvs_protontorpedo]"
+[Sat Nov 22 20:11:28 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [375][sw_bmp2m]"
+[Sat Nov 22 20:11:29 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [561][sw_bmp2]"
+[Sat Nov 22 20:11:31 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [375][sw_bmp1p]"
+[Sat Nov 22 20:11:35 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [375][sw_bmp1p]"
+[Sat Nov 22 20:11:37 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [559][sw_bmp1m]"
+[Sat Nov 22 20:12:04 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [375][sw_bmp1]"
+[Sat Nov 22 20:12:05 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [559][sw_bmp1am]"
+[Sat Nov 22 20:12:10 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [370][sw_bmp1am]"
+[Sat Nov 22 20:12:11 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [558][sw_bmp1]"
+[Sat Nov 22 20:12:14 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [558][sw_bmp1m]"
+[Sat Nov 22 20:12:15 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [628][sw_bmp1p]"
+[Sat Nov 22 20:12:16 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [695][sw_bmp2]"
+[Sat Nov 22 20:12:18 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [764][sw_bmp2m]"
+[Sat Nov 22 20:12:20 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [695][sw_bmp3]"
+[Sat Nov 22 20:12:21 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [764][sw_bmp3m]"
+[Sat Nov 22 20:12:23 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [764][sw_gaz2330]"
+[Sat Nov 22 20:12:24 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [766][sw_matv]"
+[Sat Nov 22 20:12:35 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [764][sw_bmp1]"
+[Sat Nov 22 20:12:37 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [764][sw_bmp1p]"
+[Sat Nov 22 20:12:38 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [831][sw_bmp1m]"
+[Sat Nov 22 20:12:39 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [764][sw_bmp1am]"
+[Sat Nov 22 20:12:41 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [831][sw_bmp2]"
+[Sat Nov 22 20:12:55 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [764][sw_bmp2]"
+[Sat Nov 22 20:12:56 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [831][sw_bmp2m]"
+[Sat Nov 22 20:12:59 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [911][sw_bmp3]"
+[Sat Nov 22 20:13:02 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [911][sw_bmp3m]"
+[Sat Nov 22 20:13:32 2025] <STEAM_0:0:79873507> Fernández spawned SENT "Entity [987][sw_bmp1]"
+[Sat Nov 22 20:13:36 2025] <STEAM_0:0:79873507> Fernández spawned SENT "Entity [1054][sw_bmp1am]"
+[Sat Nov 22 20:13:38 2025] <STEAM_0:0:79873507> Fernández spawned SENT "Entity [1121][sw_bmp1m]"
+[Sat Nov 22 20:13:40 2025] <STEAM_0:0:79873507> Fernández spawned SENT "Entity [1191][sw_bmp1p]"
+[Sat Nov 22 20:13:42 2025] <STEAM_0:0:79873507> Fernández spawned SENT "Entity [1258][sw_bmp2]"
+[Sat Nov 22 20:13:43 2025] <STEAM_0:0:79873507> Fernández spawned SENT "Entity [1327][sw_bmp2m]"
+[Sat Nov 22 20:13:45 2025] <STEAM_0:0:79873507> Fernández spawned SENT "Entity [1396][sw_bmp3]"
+[Sat Nov 22 20:13:47 2025] <STEAM_0:0:79873507> Fernández spawned SENT "Entity [1474][sw_bmp3m]"
+[Sat Nov 22 20:14:10 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [370][sw_bmp1]"
+[Sat Nov 22 20:14:13 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [558][sw_bmp2]"
+[Sat Nov 22 20:14:30 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [370][sw_bmp3m]"
+[Sat Nov 22 20:14:32 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [567][sw_bmp3]"
+[Sat Nov 22 20:14:38 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [370][sw_bmp1am]"
+[Sat Nov 22 20:14:40 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [370][sw_bmp1m]"
+[Sat Nov 22 20:14:56 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [561][lvs_wheeldrive_dabrams_m1a1]"
+[Sat Nov 22 20:14:58 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [561][lvs_wheeldrive_m3a3]"
+[Sat Nov 22 20:15:02 2025] Player "BloodySmile" <STEAM_0:1:54838838> has left the server
+[Sat Nov 22 20:15:54 2025] Player "Fernández" <STEAM_0:0:79873507> has left the server
+[Sat Nov 22 21:47:19 2025] Player "Fernández" <STEAM_0:0:79873507> is attempting to connect.
+[Sat Nov 22 21:47:44 2025] Player "Fernández" <STEAM_0:0:79873507> has spawned in the server
+[Sat Nov 22 21:51:38 2025] Player "Bot01" <BOT> has spawned in the server
+[Sat Nov 22 21:52:45 2025] Player "Bot01" <BOT> has left the server
+[Sat Nov 22 22:06:56 2025] Player "Fernández" <STEAM_0:0:79873507> has left the server

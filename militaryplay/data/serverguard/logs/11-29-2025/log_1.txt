@@ -1,0 +1,20 @@
+[Sat Nov 29 08:06:17 2025] Player "Sen" <STEAM_0:0:753313956> is attempting to connect.
+[Sat Nov 29 22:09:48 2025] Player "Fernández" <STEAM_0:0:79873507> is attempting to connect.
+[Sat Nov 29 22:10:44 2025] Player "Fernández" <STEAM_0:0:79873507> has spawned in the server
+[Sat Nov 29 22:14:04 2025] <STEAM_0:0:79873507> Fernández spawned SENT "Entity [369][sw_bmp1am]"
+[Sat Nov 29 22:14:11 2025] <STEAM_0:0:79873507> Fernández spawned SENT "Entity [369][sw_airdrop_large_v3]"
+[Sat Nov 29 22:14:14 2025] <STEAM_0:0:79873507> Fernández spawned SENT "Entity [369][sw_rocket_3m14k_v3]"
+[Sat Nov 29 22:15:26 2025] Player "Fernández" <STEAM_0:0:79873507> has left the server
+[Sat Nov 29 22:42:14 2025] Player "Fernández" <STEAM_0:0:79873507> is attempting to connect.
+[Sat Nov 29 22:42:33 2025] Player "Fernández" <STEAM_0:0:79873507> has spawned in the server
+[Sat Nov 29 23:15:44 2025] <STEAM_0:0:79873507> Fernández: !menu
+[Sat Nov 29 23:15:44 2025] <STEAM_0:0:79873507> Fernández ran command "menu"
+[Sat Nov 29 23:31:16 2025] <STEAM_0:0:79873507> Fernández: !logs
+[Sat Nov 29 23:31:27 2025] <STEAM_0:0:79873507> Fernández: !menu
+[Sat Nov 29 23:31:27 2025] <STEAM_0:0:79873507> Fernández ran command "menu"
+[Sat Nov 29 23:37:19 2025] <STEAM_0:0:79873507> Fernández ran command "plugintoggle votes"
+[Sat Nov 29 23:37:22 2025] <STEAM_0:0:79873507> Fernández ran command "plugintoggle familysharing"
+[Sat Nov 29 23:37:29 2025] <STEAM_0:0:79873507> Fernández ran command "plugintoggle familysharing"
+[Sat Nov 29 23:38:48 2025] <STEAM_0:0:79873507> Fernández: /NATO 1
+[Sat Nov 29 23:38:52 2025] <STEAM_0:0:79873507> Fernández: wdwadwa
+[Sat Nov 29 23:42:14 2025] Player "Fernández" <STEAM_0:0:79873507> has left the server

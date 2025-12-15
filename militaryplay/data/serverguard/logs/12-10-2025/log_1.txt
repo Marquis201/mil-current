@@ -1,0 +1,40 @@
+[Wed Dec 10 05:04:38 2025] Player "OZOR" <STEAM_0:0:85754053> has spawned in the server
+[Wed Dec 10 05:21:17 2025] worldspawn has killed OZOR.
+[Wed Dec 10 05:21:34 2025] worldspawn has killed OZOR.
+[Wed Dec 10 05:22:17 2025] worldspawn has killed OZOR.
+[Wed Dec 10 05:23:34 2025] worldspawn has killed OZOR.
+[Wed Dec 10 05:23:52 2025] worldspawn has killed OZOR.
+[Wed Dec 10 05:24:10 2025] worldspawn has killed OZOR.
+[Wed Dec 10 05:24:56 2025] worldspawn has killed OZOR.
+[Wed Dec 10 05:25:25 2025] worldspawn has killed OZOR.
+[Wed Dec 10 05:25:35 2025] OZOR has killed OZOR.
+[Wed Dec 10 05:26:42 2025] OZOR has killed OZOR.
+[Wed Dec 10 05:26:42 2025] <STEAM_0:0:85754053> OZOR ran command "slay Виноградов"
+[Wed Dec 10 05:27:25 2025] OZOR has killed OZOR.
+[Wed Dec 10 05:27:25 2025] <STEAM_0:0:85754053> OZOR ran command "slay Виноградов"
+[Wed Dec 10 05:27:42 2025] worldspawn has killed OZOR.
+[Wed Dec 10 05:29:52 2025] Player "Bot01" <BOT> has spawned in the server
+[Wed Dec 10 05:30:00 2025] <STEAM_0:0:85754053> OZOR ran command "goto Bot01"
+[Wed Dec 10 05:30:15 2025] OZOR has killed Bot01.
+[Wed Dec 10 05:30:16 2025] Bot01 has killed Bot01.
+[Wed Dec 10 05:30:37 2025] OZOR has killed Bot01.
+[Wed Dec 10 06:03:14 2025] OZOR has killed Bot01.
+[Wed Dec 10 06:03:15 2025] Bot01 has killed Bot01.
+[Wed Dec 10 06:09:44 2025] OZOR has killed Bot01.
+[Wed Dec 10 06:13:32 2025] OZOR has killed Bot01.
+[Wed Dec 10 06:13:45 2025] OZOR has killed Bot01.
+[Wed Dec 10 06:17:36 2025] Player "OZOR" <STEAM_0:0:85754053> has spawned in the server
+[Wed Dec 10 06:20:50 2025] Player "Bot01" <BOT> has spawned in the server
+[Wed Dec 10 06:21:00 2025] <STEAM_0:0:85754053> OZOR ran command "goto Bot01"
+[Wed Dec 10 06:21:10 2025] OZOR has killed Bot01.
+[Wed Dec 10 06:22:51 2025] OZOR has killed Bot01.
+[Wed Dec 10 06:32:24 2025] Player "OZOR" <STEAM_0:0:85754053> has left the server
+[Wed Dec 10 06:32:24 2025] Player "Bot01" <BOT> has left the server
+[Wed Dec 10 06:33:12 2025] Player "OZOR" <STEAM_0:0:85754053> has spawned in the server
+[Wed Dec 10 06:33:47 2025] Player "Bot02" <BOT> has spawned in the server
+[Wed Dec 10 06:33:52 2025] <STEAM_0:0:85754053> OZOR ran command "goto Bot02"
+[Wed Dec 10 06:34:12 2025] OZOR has killed Bot02.
+[Wed Dec 10 06:45:40 2025] OZOR has killed Bot02.
+[Wed Dec 10 06:46:04 2025] Player "OZOR" <STEAM_0:0:85754053> has left the server
+[Wed Dec 10 06:46:04 2025] Player "Bot02" <BOT> has left the server
+[Wed Dec 10 19:27:38 2025] Player "пахан" <STEAM_0:0:538790058> is attempting to connect.

@@ -1,0 +1,54 @@
+[Sun Nov 16 19:00:38 2025] Player "ФаНАТ СОВЫ" <STEAM_0:1:455594560> is attempting to connect.
+[Sun Nov 16 19:00:44 2025] Player "ФаНАТ СОВЫ" <STEAM_0:1:455594560> is attempting to connect.
+[Sun Nov 16 19:02:24 2025] Player "ФаНАТ СОВЫ" <STEAM_0:1:455594560> has spawned in the server
+[Sun Nov 16 19:05:03 2025] Player "ФаНАТ СОВЫ" <STEAM_0:1:455594560> is attempting to connect.
+[Sun Nov 16 19:05:39 2025] Player "ФаНАТ СОВЫ" <STEAM_0:1:455594560> has spawned in the server
+[Sun Nov 16 19:12:55 2025] Player "ФаНАТ СОВЫ" <STEAM_0:1:455594560> is attempting to connect.
+[Sun Nov 16 19:13:00 2025] Player "ФаНАТ СОВЫ" <STEAM_0:1:455594560> is attempting to connect.
+[Sun Nov 16 19:13:21 2025] Player "ФаНАТ СОВЫ" <STEAM_0:1:455594560> has spawned in the server
+[Sun Nov 16 19:16:34 2025] Player "ФаНАТ СОВЫ" <STEAM_0:1:455594560> is attempting to connect.
+[Sun Nov 16 19:18:09 2025] Player "ФаНАТ СОВЫ" <STEAM_0:1:455594560> has spawned in the server
+[Sun Nov 16 19:27:19 2025] Player "ФаНАТ СОВЫ" <STEAM_0:1:455594560> is attempting to connect.
+[Sun Nov 16 19:27:49 2025] Player "ФаНАТ СОВЫ" <STEAM_0:1:455594560> has spawned in the server
+[Sun Nov 16 19:29:58 2025] Player "Fernández" <STEAM_0:0:79873507> is attempting to connect.
+[Sun Nov 16 19:32:47 2025] Player "Fernández" <STEAM_0:0:79873507> has spawned in the server
+[Sun Nov 16 19:33:49 2025] <STEAM_0:0:79873507> Fernández ran command "goto Белов"
+[Sun Nov 16 19:33:55 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ: /menu
+[Sun Nov 16 19:33:57 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ: !menu
+[Sun Nov 16 19:33:57 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ ran command "menu"
+[Sun Nov 16 19:41:52 2025] <STEAM_0:0:79873507> Fernández used tool "textscreen"
+[Sun Nov 16 19:42:25 2025] <STEAM_0:0:79873507> Fernández used tool "textscreen"
+[Sun Nov 16 19:46:06 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ used tool "vanilla_hyperspacetool"
+[Sun Nov 16 19:46:06 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ used tool "vanilla_hyperspacetool"
+[Sun Nov 16 19:46:06 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ used tool "vanilla_hyperspacetool"
+[Sun Nov 16 19:46:16 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ used tool "turbolaser"
+[Sun Nov 16 19:46:17 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ used tool "turbolaser"
+[Sun Nov 16 19:46:17 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ used tool "turbolaser"
+[Sun Nov 16 19:46:19 2025] <STEAM_0:0:79873507> Fernández used tool "turbolaser"
+[Sun Nov 16 19:46:20 2025] <STEAM_0:0:79873507> Fernández used tool "turbolaser"
+[Sun Nov 16 19:46:20 2025] <STEAM_0:0:79873507> Fernández used tool "turbolaser"
+[Sun Nov 16 19:46:21 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ used tool "vanilla_shipdestruction_tool"
+[Sun Nov 16 19:46:22 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ used tool "vanilla_shipdestruction_tool"
+[Sun Nov 16 19:46:22 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ used tool "vanilla_shipdestruction_tool"
+[Sun Nov 16 20:06:10 2025] <STEAM_0:0:79873507> Fernández spawned SENT "NPC [517][npc_igs]"
+[Sun Nov 16 20:09:00 2025] <STEAM_0:0:79873507> Fernández spawned npc "NPC [520][npc_monk]"
+[Sun Nov 16 20:09:16 2025] <STEAM_0:0:79873507> Fernández spawned npc "NPC [520][npc_rollermine]"
+[Sun Nov 16 20:09:20 2025] <STEAM_0:0:79873507> Fernández spawned npc "NPC [520][npc_citizen]"
+[Sun Nov 16 20:09:25 2025] <STEAM_0:0:79873507> Fernández spawned npc "NPC [520][npc_citizen]"
+[Sun Nov 16 20:09:30 2025] <STEAM_0:0:79873507> Fernández spawned npc "NPC [520][npc_citizen]"
+[Sun Nov 16 20:09:56 2025] <STEAM_0:0:79873507> Fernández spawned SENT "Entity [520][armor_take]"
+[Sun Nov 16 20:10:31 2025] <STEAM_0:0:79873507> Fernández spawned SENT "NPC [377][vehicles_sales]"
+[Sun Nov 16 20:10:37 2025] <STEAM_0:0:79873507> Fernández spawned SENT "Entity [377][armor_take]"
+[Sun Nov 16 20:11:11 2025] Player "Fernández" <STEAM_0:0:79873507> has left the server
+[Sun Nov 16 20:26:42 2025] Player "ФаНАТ СОВЫ" <STEAM_0:1:455594560> is attempting to connect.
+[Sun Nov 16 20:33:25 2025] Player "ФаНАТ СОВЫ" <STEAM_0:1:455594560> has spawned in the server
+[Sun Nov 16 20:38:15 2025] ФаНАТ СОВЫ has killed ФаНАТ СОВЫ.
+[Sun Nov 16 20:39:41 2025] Player "ФаНАТ СОВЫ" <STEAM_0:1:455594560> has left the server
+[Sun Nov 16 20:39:44 2025] Player "ФаНАТ СОВЫ" <STEAM_0:1:455594560> is attempting to connect.
+[Sun Nov 16 20:40:11 2025] Player "ФаНАТ СОВЫ" <STEAM_0:1:455594560> has spawned in the server
+[Sun Nov 16 20:42:54 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ: !noclip
+[Sun Nov 16 20:42:54 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ ran command "noclip Белов"
+[Sun Nov 16 20:43:08 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ: !noclip
+[Sun Nov 16 20:43:08 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ ran command "noclip Белов"
+[Sun Nov 16 20:43:10 2025] worldspawn has killed ФаНАТ СОВЫ.
+[Sun Nov 16 20:45:33 2025] Player "ФаНАТ СОВЫ" <STEAM_0:1:455594560> has left the server

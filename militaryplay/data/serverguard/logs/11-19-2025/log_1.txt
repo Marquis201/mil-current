@@ -1,0 +1,153 @@
+[Wed Nov 19 00:46:12 2025] Player "OZOR" <STEAM_0:0:85754053> has left the server
+[Wed Nov 19 17:46:53 2025] Player "Fernández" <STEAM_0:0:79873507> is attempting to connect.
+[Wed Nov 19 17:47:54 2025] Player "Fernández" <STEAM_0:0:79873507> has spawned in the server
+[Wed Nov 19 17:51:20 2025] Fernández has killed Fernández.
+[Wed Nov 19 17:51:20 2025] <STEAM_0:0:79873507> Fernández ran command "slay Gonzalez"
+[Wed Nov 19 17:51:47 2025] <STEAM_0:0:79873507> Fernández ran command "extinguish Gonzalez"
+[Wed Nov 19 17:51:59 2025] <STEAM_0:0:79873507> Fernández ran command "invisible Gonzalez"
+[Wed Nov 19 17:52:02 2025] <STEAM_0:0:79873507> Fernández ran command "invisible Gonzalez"
+[Wed Nov 19 17:54:06 2025] <STEAM_0:0:79873507> Fernández: Ghots - NATO
+[Wed Nov 19 17:56:58 2025] <STEAM_0:0:79873507> Fernández: /dropweapon
+[Wed Nov 19 17:57:02 2025] <STEAM_0:0:79873507> Fernández: /drop
+[Wed Nov 19 17:58:01 2025] <STEAM_0:0:79873507> Fernández: !menu
+[Wed Nov 19 17:58:01 2025] <STEAM_0:0:79873507> Fernández ran command "menu"
+[Wed Nov 19 17:59:33 2025] <STEAM_0:0:79873507> Fernández: !menu
+[Wed Nov 19 17:59:33 2025] <STEAM_0:0:79873507> Fernández ran command "menu"
+[Wed Nov 19 18:00:21 2025] <STEAM_0:0:79873507> Fernández ran command "plugintoggle votes"
+[Wed Nov 19 18:00:34 2025] <STEAM_0:0:79873507> Fernández ran command "plugintoggle reports"
+[Wed Nov 19 18:00:39 2025] <STEAM_0:0:79873507> Fernández ran command "plugintoggle private_messaging"
+[Wed Nov 19 18:00:40 2025] <STEAM_0:0:79873507> Fernández ran command "plugintoggle private_messaging"
+[Wed Nov 19 18:23:55 2025] Player "FasterS" <STEAM_0:0:157900573> is attempting to connect.
+[Wed Nov 19 18:28:33 2025] Player "Soldier Boy" <STEAM_0:1:620808428> is attempting to connect.
+[Wed Nov 19 18:28:51 2025] Player "Soldier Boy" <STEAM_0:1:620808428> is attempting to connect.
+[Wed Nov 19 18:29:50 2025] Player "Soldier Boy" <STEAM_0:1:620808428> has spawned in the server
+[Wed Nov 19 18:32:40 2025] <STEAM_0:0:79873507> Fernández ran command "rank Moore founder 0"
+[Wed Nov 19 18:33:14 2025] <STEAM_0:0:79873507> Fernández ran command "goto Moore"
+[Wed Nov 19 18:33:22 2025] <STEAM_0:0:79873507> Fernández: йоу
+[Wed Nov 19 18:33:25 2025] <STEAM_0:1:620808428> Soldier Boy: Паааааааааааа
+[Wed Nov 19 18:33:28 2025] <STEAM_0:0:79873507> Fernández: шо
+[Wed Nov 19 18:33:37 2025] <STEAM_0:0:79873507> Fernández: за нато временно зайдем
+[Wed Nov 19 18:33:42 2025] <STEAM_0:1:620808428> Soldier Boy: Ок
+[Wed Nov 19 18:34:25 2025] <STEAM_0:0:79873507> Fernández: ты меня видишь?
+[Wed Nov 19 18:34:31 2025] <STEAM_0:1:620808428> Soldier Boy: Нет
+[Wed Nov 19 18:34:35 2025] <STEAM_0:1:620808428> Soldier Boy: вижу
+[Wed Nov 19 18:34:36 2025] <STEAM_0:0:79873507> Fernández: а сейчас?
+[Wed Nov 19 18:34:38 2025] <STEAM_0:0:79873507> Fernández: бля
+[Wed Nov 19 18:34:41 2025] <STEAM_0:0:79873507> Fernández: а сейчас?
+[Wed Nov 19 18:34:51 2025] <STEAM_0:1:620808428> Soldier Boy: Нет
+[Wed Nov 19 18:34:54 2025] <STEAM_0:0:79873507> Fernández: пон
+[Wed Nov 19 18:35:02 2025] <STEAM_0:0:79873507> Fernández ran command "invisible Gonzalez"
+[Wed Nov 19 18:35:08 2025] <STEAM_0:0:79873507> Fernández ran command "invisible Gonzalez"
+[Wed Nov 19 18:35:14 2025] <STEAM_0:0:79873507> Fernández: !invi @
+[Wed Nov 19 18:35:20 2025] <STEAM_0:0:79873507> Fernández: ну я тебя тоже не вижу
+[Wed Nov 19 18:35:21 2025] <STEAM_0:0:79873507> Fernández: пхах
+[Wed Nov 19 18:35:23 2025] <STEAM_0:0:79873507> Fernández: ладно
+[Wed Nov 19 18:35:28 2025] <STEAM_0:1:620808428> Soldier Boy: да
+[Wed Nov 19 18:35:36 2025] <STEAM_0:0:79873507> Fernández: сделай себя видимым два раза
+[Wed Nov 19 18:35:41 2025] <STEAM_0:1:620808428> Soldier Boy: Как*
+[Wed Nov 19 18:35:43 2025] <STEAM_0:1:620808428> Soldier Boy: ?
+[Wed Nov 19 18:35:50 2025] <STEAM_0:0:79873507> Fernández: invincible в табе
+[Wed Nov 19 18:35:59 2025] <STEAM_0:0:79873507> Fernández: я потом переведу админку
+[Wed Nov 19 18:36:21 2025] <STEAM_0:1:620808428> Soldier Boy: Нету такой команды
+[Wed Nov 19 18:36:30 2025] <STEAM_0:0:79873507> Fernández ran command "invisible Moore"
+[Wed Nov 19 18:36:34 2025] <STEAM_0:0:79873507> Fernández ran command "invisible Moore"
+[Wed Nov 19 18:36:40 2025] <STEAM_0:1:620808428> Soldier Boy: Привет
+[Wed Nov 19 18:36:42 2025] <STEAM_0:0:79873507> Fernández: !invisibility @
+[Wed Nov 19 18:36:49 2025] <STEAM_0:0:79873507> Fernández: ладно
+[Wed Nov 19 18:36:50 2025] <STEAM_0:0:79873507> Fernández: так
+[Wed Nov 19 18:36:57 2025] <STEAM_0:0:79873507> Fernández: надо бы наручники проверить и арест
+[Wed Nov 19 18:37:04 2025] <STEAM_0:1:620808428> Soldier Boy: бля
+[Wed Nov 19 18:37:07 2025] <STEAM_0:1:620808428> Soldier Boy: Грег проверял
+[Wed Nov 19 18:37:09 2025] <STEAM_0:1:620808428> Soldier Boy: Вчера
+[Wed Nov 19 18:37:14 2025] <STEAM_0:1:620808428> Soldier Boy: Меня в камере сгноил
+[Wed Nov 19 18:37:18 2025] <STEAM_0:0:79873507> Fernández: пхах
+[Wed Nov 19 18:37:23 2025] <STEAM_0:0:79873507> Fernández: ты что-то делать можешь?
+[Wed Nov 19 18:37:24 2025] <STEAM_0:1:620808428> Soldier Boy: о
+[Wed Nov 19 18:37:28 2025] <STEAM_0:1:620808428> Soldier Boy: Как на МСТ
+[Wed Nov 19 18:37:32 2025] <STEAM_0:1:620808428> Soldier Boy: \
+[Wed Nov 19 18:37:36 2025] <STEAM_0:1:620808428> Soldier Boy: Нет
+[Wed Nov 19 18:37:40 2025] <STEAM_0:0:79873507> Fernández: понял
+[Wed Nov 19 18:38:01 2025] <STEAM_0:0:79873507> Fernández: бля
+[Wed Nov 19 18:38:12 2025] <STEAM_0:0:79873507> Fernández: я технику убрал временно
+[Wed Nov 19 18:38:13 2025] <STEAM_0:0:79873507> Fernández: ладно
+[Wed Nov 19 18:38:16 2025] <STEAM_0:0:79873507> Fernández spawned vehicle "Vehicle [366][prop_vehicle_jeep_old]"
+[Wed Nov 19 18:38:19 2025] <STEAM_0:0:79873507> Fernández: садись
+[Wed Nov 19 18:38:22 2025] <STEAM_0:0:79873507> Fernández: блять
+[Wed Nov 19 18:38:26 2025] <STEAM_0:0:79873507> Fernández: блять
+[Wed Nov 19 18:38:29 2025] <STEAM_0:0:79873507> Fernández: пхахах
+[Wed Nov 19 18:38:37 2025] <STEAM_0:1:620808428> Soldier Boy spawned vehicle "Vehicle [366][prop_vehicle_jeep]"
+[Wed Nov 19 18:38:48 2025] <STEAM_0:0:79873507> Fernández: тебя выкидывает из нее?
+[Wed Nov 19 18:38:49 2025] <STEAM_0:1:620808428> Soldier Boy: Выкидывает
+[Wed Nov 19 18:38:51 2025] <STEAM_0:1:620808428> Soldier Boy: ДА
+[Wed Nov 19 18:38:52 2025] <STEAM_0:0:79873507> Fernández: понял
+[Wed Nov 19 18:38:53 2025] <STEAM_0:0:79873507> Fernández: ок
+[Wed Nov 19 18:39:18 2025] <STEAM_0:0:79873507> Fernández: ты прозрачный
+[Wed Nov 19 18:39:30 2025] <STEAM_0:0:79873507> Fernández: бля
+[Wed Nov 19 18:39:31 2025] <STEAM_0:1:620808428> Soldier Boy: Не могу двигаться
+[Wed Nov 19 18:39:56 2025] <STEAM_0:0:79873507> Fernández: !slay *
+[Wed Nov 19 18:39:56 2025] Fernández has killed Fernández.
+[Wed Nov 19 18:39:56 2025] Soldier Boy has killed Soldier Boy.
+[Wed Nov 19 18:39:56 2025] <STEAM_0:0:79873507> Fernández ran command "slay *"
+[Wed Nov 19 18:40:09 2025] <STEAM_0:0:79873507> Fernández ran command "invisible Gonzalez"
+[Wed Nov 19 18:40:12 2025] <STEAM_0:0:79873507> Fernández ran command "invisible Gonzalez"
+[Wed Nov 19 18:40:16 2025] <STEAM_0:0:79873507> Fernández: !cloak *
+[Wed Nov 19 18:40:16 2025] <STEAM_0:0:79873507> Fernández ran command "invisible *"
+[Wed Nov 19 18:40:20 2025] <STEAM_0:0:79873507> Fernández: !cloak *
+[Wed Nov 19 18:40:20 2025] <STEAM_0:0:79873507> Fernández ran command "invisible *"
+[Wed Nov 19 18:40:33 2025] <STEAM_0:0:79873507> Fernández: в каком смысле
+[Wed Nov 19 18:40:45 2025] <STEAM_0:1:620808428> Soldier Boy: Щас откат скину те
+[Wed Nov 19 18:42:11 2025] <STEAM_0:0:79873507> Fernández: /conquest
+[Wed Nov 19 18:42:41 2025] <STEAM_0:0:79873507> Fernández: /conquest
+[Wed Nov 19 18:42:55 2025] <STEAM_0:0:79873507> Fernández: /conquest
+[Wed Nov 19 18:43:04 2025] <STEAM_0:0:79873507> Fernández: /conquest
+[Wed Nov 19 18:43:37 2025] <STEAM_0:0:79873507> Fernández: !cloak *
+[Wed Nov 19 18:43:37 2025] <STEAM_0:0:79873507> Fernández ran command "invisible *"
+[Wed Nov 19 18:43:40 2025] <STEAM_0:0:79873507> Fernández: !cloak *
+[Wed Nov 19 18:43:40 2025] <STEAM_0:0:79873507> Fernández ran command "invisible *"
+[Wed Nov 19 18:43:49 2025] <STEAM_0:0:79873507> Fernández: куда отправил?
+[Wed Nov 19 18:44:06 2025] <STEAM_0:0:79873507> Fernández: в какой
+[Wed Nov 19 18:44:10 2025] <STEAM_0:0:79873507> Fernández: я ничего просто не вижу
+[Wed Nov 19 18:44:11 2025] <STEAM_0:0:79873507> Fernández: пхах
+[Wed Nov 19 18:44:16 2025] <STEAM_0:0:79873507> Fernández: увидел
+[Wed Nov 19 18:44:57 2025] <STEAM_0:0:79873507> Fernández: чет наручники поломанные какие-то
+[Wed Nov 19 18:45:07 2025] <STEAM_0:0:79873507> Fernández: ты прозрачным становится не должен по сути
+[Wed Nov 19 18:45:08 2025] <STEAM_0:0:79873507> Fernández: пхах
+[Wed Nov 19 18:46:07 2025] <STEAM_0:0:79873507> Fernández: !cloak *
+[Wed Nov 19 18:46:07 2025] <STEAM_0:0:79873507> Fernández ran command "invisible *"
+[Wed Nov 19 18:46:09 2025] <STEAM_0:0:79873507> Fernández: !cloak *
+[Wed Nov 19 18:46:09 2025] <STEAM_0:0:79873507> Fernández ran command "invisible *"
+[Wed Nov 19 18:46:18 2025] <STEAM_0:0:79873507> Fernández: !hide
+[Wed Nov 19 18:46:24 2025] <STEAM_0:0:79873507> Fernández used tool "camera"
+[Wed Nov 19 18:46:32 2025] <STEAM_0:0:79873507> Fernández used tool "camera"
+[Wed Nov 19 18:47:59 2025] <STEAM_0:0:79873507> Fernández used tool "camera"
+[Wed Nov 19 18:48:37 2025] <STEAM_0:0:79873507> Fernández used tool "camera"
+[Wed Nov 19 18:48:40 2025] Player "Fernández" <STEAM_0:0:79873507> has left the server
+[Wed Nov 19 18:59:30 2025] Player "Fernández" <STEAM_0:0:79873507> is attempting to connect.
+[Wed Nov 19 18:59:46 2025] Player "Fernández" <STEAM_0:0:79873507> has spawned in the server
+[Wed Nov 19 19:00:06 2025] <STEAM_0:0:79873507> Fernández: !menu
+[Wed Nov 19 19:00:06 2025] <STEAM_0:0:79873507> Fernández ran command "menu"
+[Wed Nov 19 19:00:34 2025] <STEAM_0:0:79873507> Fernández: !menu
+[Wed Nov 19 19:00:34 2025] <STEAM_0:0:79873507> Fernández ran command "menu"
+[Wed Nov 19 19:01:27 2025] Player "Fernández" <STEAM_0:0:79873507> has left the server
+[Wed Nov 19 19:03:09 2025] Player "Fernández" <STEAM_0:0:79873507> is attempting to connect.
+[Wed Nov 19 19:03:25 2025] Player "Fernández" <STEAM_0:0:79873507> has spawned in the server
+[Wed Nov 19 19:03:48 2025] Player "Fernández" <STEAM_0:0:79873507> has left the server
+[Wed Nov 19 19:04:47 2025] Player "Fernández" <STEAM_0:0:79873507> is attempting to connect.
+[Wed Nov 19 19:05:02 2025] Player "Fernández" <STEAM_0:0:79873507> has spawned in the server
+[Wed Nov 19 19:05:22 2025] Player "Fernández" <STEAM_0:0:79873507> has left the server
+[Wed Nov 19 19:05:22 2025] Player "Fernández" <STEAM_0:0:79873507> is attempting to connect.
+[Wed Nov 19 19:05:34 2025] Player "Fernández" <STEAM_0:0:79873507> has spawned in the server
+[Wed Nov 19 19:05:50 2025] <STEAM_0:0:79873507> Fernández: !menu
+[Wed Nov 19 19:05:50 2025] <STEAM_0:0:79873507> Fernández ran command "menu"
+[Wed Nov 19 19:06:21 2025] <STEAM_0:0:79873507> Fernández: !menu
+[Wed Nov 19 19:06:21 2025] <STEAM_0:0:79873507> Fernández ran command "menu"
+[Wed Nov 19 19:07:27 2025] <STEAM_0:0:79873507> Fernández: !menu
+[Wed Nov 19 19:07:27 2025] <STEAM_0:0:79873507> Fernández ran command "menu"
+[Wed Nov 19 19:07:36 2025] <STEAM_0:0:79873507> Fernández ran command "plugintoggle analytics"
+[Wed Nov 19 19:07:40 2025] <STEAM_0:0:79873507> Fernández ran command "plugintoggle analytics"
+[Wed Nov 19 19:07:58 2025] <STEAM_0:0:79873507> Fernández ran command "plugintoggle sandbox"
+[Wed Nov 19 19:12:47 2025] <STEAM_0:0:79873507> Fernández: !menu
+[Wed Nov 19 19:12:47 2025] <STEAM_0:0:79873507> Fernández ran command "menu"
+[Wed Nov 19 19:33:37 2025] <STEAM_0:0:79873507> Fernández: !menu
+[Wed Nov 19 19:33:37 2025] <STEAM_0:0:79873507> Fernández ran command "menu"
+[Wed Nov 19 19:39:28 2025] Player "Fernández" <STEAM_0:0:79873507> has left the server

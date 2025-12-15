@@ -1,0 +1,4 @@
+[Fri Nov 28 21:38:23 2025] Player "Fernández" <STEAM_0:0:79873507> is attempting to connect.
+[Fri Nov 28 21:39:51 2025] Player "Fernández" <STEAM_0:0:79873507> has spawned in the server
+[Fri Nov 28 21:41:07 2025] <STEAM_0:0:79873507> Fernández: !whitelist
+[Fri Nov 28 21:41:29 2025] Player "Fernández" <STEAM_0:0:79873507> has left the server

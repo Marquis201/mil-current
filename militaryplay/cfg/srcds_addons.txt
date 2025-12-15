@@ -1,0 +1,53 @@
+"srcds_addons"
+{
+	"3605140228"
+	{
+		"name"		"Military Play | Map"
+		"path"		"/home/server118201/game/steam_cache/content/4000/3605140228"
+	}
+	"3605134499"
+	{
+		"name"		"Military Play | Map content"
+		"path"		"/home/server118201/game/steam_cache/content/4000/3605134499"
+	}
+	"3605125660"
+	{
+		"name"		"Military Play | Materials"
+		"path"		"/home/server118201/game/steam_cache/content/4000/3605125660"
+	}
+	"3605130532"
+	{
+		"name"		"Military Play | Props #1"
+		"path"		"/home/server118201/game/steam_cache/content/4000/3605130532"
+	}
+	"3605131080"
+	{
+		"name"		"Military Play | Props #2"
+		"path"		"/home/server118201/game/steam_cache/content/4000/3605131080"
+	}
+	"3605161894"
+	{
+		"name"		"Military Play | Weapon #1"
+		"path"		"/home/server118201/game/steam_cache/content/4000/3605161894"
+	}
+	"3606987158"
+	{
+		"name"		"Military Play | Weapon #2"
+		"path"		"/home/server118201/game/steam_cache/content/4000/3606987158"
+	}
+	"3605124591"
+	{
+		"name"		"Military Play | Models"
+		"path"		"/home/server118201/game/steam_cache/content/4000/3605124591"
+	}
+	"3623336566"
+	{
+		"name"		"Military Play | Vehicles #1"
+		"path"		"/home/server118201/game/steam_cache/content/4000/3623336566"
+	}
+	"3623337607"
+	{
+		"name"		"Military Play | Vehicles #2"
+		"path"		"/home/server118201/game/steam_cache/content/4000/3623337607"
+	}
+}

@@ -1,0 +1,8 @@
+"militaryrp"
+{
+	"base"			"sandbox"
+	"title"			"Egor idi nahui"
+	"maps"			"^"
+	"author"		"Stal-PlayCommands"
+	"menusystem"		"1"
+}

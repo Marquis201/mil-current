@@ -1,0 +1,32 @@
+[Tue Nov 25 09:52:48 2025] Player "OZOR" <STEAM_0:0:85754053> is attempting to connect.
+[Tue Nov 25 09:53:25 2025] Player "OZOR" <STEAM_0:0:85754053> is attempting to connect.
+[Tue Nov 25 09:56:53 2025] Player "OZOR" <STEAM_0:0:85754053> has spawned in the server
+[Tue Nov 25 10:02:06 2025] Player "OZOR" <STEAM_0:0:85754053> has spawned in the server
+[Tue Nov 25 10:05:23 2025] Player "OZOR" <STEAM_0:0:85754053> has left the server
+[Tue Nov 25 10:05:50 2025] Player "OZOR" <STEAM_0:0:85754053> has spawned in the server
+[Tue Nov 25 10:07:11 2025] Player "OZOR" <STEAM_0:0:85754053> has left the server
+[Tue Nov 25 10:07:40 2025] Player "OZOR" <STEAM_0:0:85754053> has spawned in the server
+[Tue Nov 25 10:09:57 2025] Player "OZOR" <STEAM_0:0:85754053> has left the server
+[Tue Nov 25 10:10:26 2025] Player "OZOR" <STEAM_0:0:85754053> has spawned in the server
+[Tue Nov 25 10:31:02 2025] Player "OZOR" <STEAM_0:0:85754053> has left the server
+[Tue Nov 25 10:31:35 2025] Player "OZOR" <STEAM_0:0:85754053> has spawned in the server
+[Tue Nov 25 10:58:39 2025] Player "OZOR" <STEAM_0:0:85754053> has left the server
+[Tue Nov 25 10:59:09 2025] Player "OZOR" <STEAM_0:0:85754053> has spawned in the server
+[Tue Nov 25 11:00:48 2025] Player "OZOR" <STEAM_0:0:85754053> has left the server
+[Tue Nov 25 11:01:20 2025] Player "OZOR" <STEAM_0:0:85754053> has spawned in the server
+[Tue Nov 25 11:03:46 2025] Player "OZOR" <STEAM_0:0:85754053> has left the server
+[Tue Nov 25 11:04:16 2025] Player "OZOR" <STEAM_0:0:85754053> has spawned in the server
+[Tue Nov 25 11:05:32 2025] Player "OZOR" <STEAM_0:0:85754053> has left the server
+[Tue Nov 25 11:06:03 2025] Player "OZOR" <STEAM_0:0:85754053> has spawned in the server
+[Tue Nov 25 11:09:59 2025] Player "OZOR" <STEAM_0:0:85754053> has left the server
+[Tue Nov 25 11:10:31 2025] Player "OZOR" <STEAM_0:0:85754053> has spawned in the server
+[Tue Nov 25 11:12:10 2025] Player "OZOR" <STEAM_0:0:85754053> has left the server
+[Tue Nov 25 11:12:40 2025] Player "OZOR" <STEAM_0:0:85754053> has spawned in the server
+[Tue Nov 25 11:17:03 2025] Player "OZOR" <STEAM_0:0:85754053> has left the server
+[Tue Nov 25 11:17:34 2025] Player "OZOR" <STEAM_0:0:85754053> has spawned in the server
+[Tue Nov 25 11:19:52 2025] <STEAM_0:0:85754053> OZOR: /character
+[Tue Nov 25 11:31:42 2025] <STEAM_0:0:85754053> OZOR: !menu
+[Tue Nov 25 11:31:42 2025] <STEAM_0:0:85754053> OZOR ran command "menu"
+[Tue Nov 25 12:04:56 2025] <STEAM_0:0:85754053> OZOR: !menu
+[Tue Nov 25 12:04:56 2025] <STEAM_0:0:85754053> OZOR ran command "menu"
+[Tue Nov 25 12:05:12 2025] Player "OZOR" <STEAM_0:0:85754053> has left the server

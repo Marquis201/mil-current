@@ -1,0 +1,29 @@
+[Thu Nov 27 11:10:15 2025] Player "OZOR" <STEAM_0:0:85754053> has spawned in the server
+[Thu Nov 27 13:35:29 2025] Player "OZOR" <STEAM_0:0:85754053> has left the server
+[Thu Nov 27 13:36:01 2025] Player "OZOR" <STEAM_0:0:85754053> has spawned in the server
+[Thu Nov 27 15:31:56 2025] <STEAM_0:0:85754053> OZOR: sd
+[Thu Nov 27 15:43:19 2025] <STEAM_0:0:85754053> OZOR: asdfadsf
+[Thu Nov 27 15:45:17 2025] <STEAM_0:0:85754053> OZOR: фыв
+[Thu Nov 27 15:58:13 2025] <STEAM_0:0:85754053> OZOR: ads
+[Thu Nov 27 15:58:17 2025] <STEAM_0:0:85754053> OZOR: sdfd
+[Thu Nov 27 15:58:21 2025] <STEAM_0:0:85754053> OZOR: ydsafasdfsadfasdfasdf
+[Thu Nov 27 16:11:32 2025] <STEAM_0:0:85754053> OZOR: !hide
+[Thu Nov 27 16:11:32 2025] <STEAM_0:0:85754053> OZOR ran command "hide Новиков"
+[Thu Nov 27 16:11:33 2025] <STEAM_0:0:85754053> OZOR: !unhide
+[Thu Nov 27 16:11:33 2025] <STEAM_0:0:85754053> OZOR ran command "unhide Новиков"
+[Thu Nov 27 16:13:00 2025] Player "OZOR" <STEAM_0:0:85754053> has left the server
+[Thu Nov 27 16:17:04 2025] Player "OZOR" <STEAM_0:0:85754053> has spawned in the server
+[Thu Nov 27 16:20:45 2025] Player "OZOR" <STEAM_0:0:85754053> has left the server
+[Thu Nov 27 16:21:16 2025] Player "OZOR" <STEAM_0:0:85754053> has spawned in the server
+[Thu Nov 27 16:23:33 2025] Player "OZOR" <STEAM_0:0:85754053> has left the server
+[Thu Nov 27 16:24:08 2025] Player "OZOR" <STEAM_0:0:85754053> has spawned in the server
+[Thu Nov 27 16:31:11 2025] Player "OZOR" <STEAM_0:0:85754053> has left the server
+[Thu Nov 27 16:32:03 2025] Player "OZOR" <STEAM_0:0:85754053> has spawned in the server
+[Thu Nov 27 16:34:17 2025] Player "OZOR" <STEAM_0:0:85754053> has left the server
+[Thu Nov 27 16:34:49 2025] Player "OZOR" <STEAM_0:0:85754053> has spawned in the server
+[Thu Nov 27 16:36:16 2025] Player "OZOR" <STEAM_0:0:85754053> has left the server
+[Thu Nov 27 16:36:50 2025] Player "OZOR" <STEAM_0:0:85754053> has spawned in the server
+[Thu Nov 27 16:37:32 2025] worldspawn has killed OZOR.
+[Thu Nov 27 16:37:56 2025] worldspawn has killed OZOR.
+[Thu Nov 27 16:39:22 2025] worldspawn has killed OZOR.
+[Thu Nov 27 16:43:01 2025] Player "OZOR" <STEAM_0:0:85754053> has left the server

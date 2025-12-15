@@ -1,0 +1,15 @@
+[Sat Dec 13 13:45:17 2025] Player "suriiiii" <STEAM_0:0:762554235> is attempting to connect.
+[Sat Dec 13 16:52:13 2025] Player "Osgood_15" <STEAM_0:1:928937365> is attempting to connect.
+[Sat Dec 13 23:13:35 2025] Player "OZOR" <STEAM_0:0:85754053> has spawned in the server
+[Sat Dec 13 23:18:24 2025] Player "OZOR" <STEAM_0:0:85754053> has spawned in the server
+[Sat Dec 13 23:20:03 2025] Player "Bot01" <BOT> has spawned in the server
+[Sat Dec 13 23:20:19 2025] <STEAM_0:0:85754053> OZOR ran command "send Bot01"
+[Sat Dec 13 23:20:35 2025] OZOR has killed Bot01.
+[Sat Dec 13 23:20:35 2025] Bot01 has killed Bot01.
+[Sat Dec 13 23:22:42 2025] OZOR has killed Bot01.
+[Sat Dec 13 23:22:43 2025] Bot01 has killed Bot01.
+[Sat Dec 13 23:47:43 2025] Player "OZOR" <STEAM_0:0:85754053> has spawned in the server
+[Sat Dec 13 23:48:54 2025] Player "Bot01" <BOT> has spawned in the server
+[Sat Dec 13 23:48:59 2025] <STEAM_0:0:85754053> OZOR ran command "send Bot01"
+[Sat Dec 13 23:49:09 2025] OZOR has killed Bot01.
+[Sat Dec 13 23:58:30 2025] OZOR has killed Bot01.

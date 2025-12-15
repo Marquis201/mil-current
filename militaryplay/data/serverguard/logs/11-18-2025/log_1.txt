@@ -1,0 +1,156 @@
+[Tue Nov 18 19:09:50 2025] Player "ФаНАТ СОВЫ" <STEAM_0:1:455594560> is attempting to connect.
+[Tue Nov 18 19:10:48 2025] Player "ФаНАТ СОВЫ" <STEAM_0:1:455594560> has spawned in the server
+[Tue Nov 18 19:14:07 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ spawned npc "NPC [376][npc_monk]"
+[Tue Nov 18 19:23:51 2025] Player "Soldier Boy" <STEAM_0:1:620808428> is attempting to connect.
+[Tue Nov 18 19:23:56 2025] Player "Soldier Boy" <STEAM_0:1:620808428> is attempting to connect.
+[Tue Nov 18 19:24:30 2025] Player "Soldier Boy" <STEAM_0:1:620808428> is attempting to connect.
+[Tue Nov 18 19:25:34 2025] Player "Soldier Boy" <STEAM_0:1:620808428> is attempting to connect.
+[Tue Nov 18 19:25:44 2025] Player "Soldier Boy" <STEAM_0:1:620808428> is attempting to connect.
+[Tue Nov 18 19:32:20 2025] Player "Soldier Boy" <STEAM_0:1:620808428> has spawned in the server
+[Tue Nov 18 19:35:03 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ spawned npc "NPC [498][npc_monk]"
+[Tue Nov 18 19:35:34 2025] <STEAM_0:1:620808428> Soldier Boy ran command "goto Белов"
+[Tue Nov 18 19:36:57 2025] Soldier Boy has killed ФаНАТ СОВЫ.
+[Tue Nov 18 19:36:58 2025] ФаНАТ СОВЫ has killed ФаНАТ СОВЫ.
+[Tue Nov 18 19:41:06 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ ran command "send Moore"
+[Tue Nov 18 19:41:28 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ: !uninvisible
+[Tue Nov 18 19:41:33 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ: !invisible
+[Tue Nov 18 19:41:33 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ ran command "invisible Белов"
+[Tue Nov 18 19:41:34 2025] <STEAM_0:1:620808428> Soldier Boy: !uninvisible
+!uninvisible
+[Tue Nov 18 19:41:38 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ: !invisible
+[Tue Nov 18 19:41:38 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ ran command "invisible Белов"
+[Tue Nov 18 19:41:45 2025] Soldier Boy has killed ФаНАТ СОВЫ.
+[Tue Nov 18 19:41:46 2025] ФаНАТ СОВЫ has killed ФаНАТ СОВЫ.
+[Tue Nov 18 19:43:07 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ spawned SENT "Entity [375][item_healthkit]"
+[Tue Nov 18 19:43:07 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ spawned SENT "Entity [376][item_healthkit]"
+[Tue Nov 18 19:43:07 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ spawned SENT "Entity [377][item_healthkit]"
+[Tue Nov 18 19:43:07 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ spawned SENT "Entity [378][item_healthkit]"
+[Tue Nov 18 19:44:32 2025] <STEAM_0:1:620808428> Soldier Boy: !ammo
+[Tue Nov 18 19:44:32 2025] <STEAM_0:1:620808428> Soldier Boy ran command "ammo Moore"
+[Tue Nov 18 19:44:52 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ ran command "send Белов"
+[Tue Nov 18 19:44:58 2025] <STEAM_0:1:620808428> Soldier Boy: !uninvisible
+!uninvisible
+[Tue Nov 18 19:45:00 2025] <STEAM_0:1:620808428> Soldier Boy: !uninvisible
+[Tue Nov 18 19:46:32 2025] Player "Soldier Boy" <STEAM_0:1:620808428> is attempting to connect.
+[Tue Nov 18 19:46:36 2025] Player "ФаНАТ СОВЫ" <STEAM_0:1:455594560> is attempting to connect.
+[Tue Nov 18 19:46:51 2025] Player "Soldier Boy" <STEAM_0:1:620808428> has spawned in the server
+[Tue Nov 18 19:48:29 2025] Player "ФаНАТ СОВЫ" <STEAM_0:1:455594560> is attempting to connect.
+[Tue Nov 18 19:48:52 2025] Player "ФаНАТ СОВЫ" <STEAM_0:1:455594560> has spawned in the server
+[Tue Nov 18 19:49:22 2025] Player "Soldier Boy" <STEAM_0:1:620808428> is attempting to connect.
+[Tue Nov 18 19:49:40 2025] Player "Soldier Boy" <STEAM_0:1:620808428> has spawned in the server
+[Tue Nov 18 20:20:47 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ: !noclip
+[Tue Nov 18 20:23:29 2025] Player "ФаНАТ СОВЫ" <STEAM_0:1:455594560> is attempting to connect.
+[Tue Nov 18 20:23:52 2025] Player "ФаНАТ СОВЫ" <STEAM_0:1:455594560> has spawned in the server
+[Tue Nov 18 20:24:53 2025] Player "Soldier Boy" <STEAM_0:1:620808428> is attempting to connect.
+[Tue Nov 18 20:25:19 2025] Player "Soldier Boy" <STEAM_0:1:620808428> has spawned in the server
+[Tue Nov 18 20:25:45 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ ran command "send Moore"
+[Tue Nov 18 20:25:52 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ: !menu
+[Tue Nov 18 20:25:52 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ ran command "menu"
+[Tue Nov 18 20:26:19 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ ran command "rank Moore admin-j 0"
+[Tue Nov 18 20:26:32 2025] Soldier Boy has killed Soldier Boy.
+[Tue Nov 18 20:26:32 2025] <STEAM_0:1:620808428> Soldier Boy ran command "slay Moore"
+[Tue Nov 18 20:26:39 2025] <STEAM_0:1:620808428> Soldier Boy ran command "slap Белов"
+[Tue Nov 18 20:26:51 2025] <STEAM_0:1:620808428> Soldier Boy ran command "respawn Белов"
+[Tue Nov 18 20:26:56 2025] <STEAM_0:1:620808428> Soldier Boy ran command "send Белов"
+[Tue Nov 18 20:27:15 2025] <STEAM_0:1:620808428> Soldier Boy ran command "send Белов"
+[Tue Nov 18 20:28:22 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ: /conquest
+[Tue Nov 18 20:28:39 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ: /conquest
+[Tue Nov 18 20:36:17 2025] Player "Soldier Boy" <STEAM_0:1:620808428> has left the server
+[Tue Nov 18 20:36:20 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ: f
+[Tue Nov 18 20:37:01 2025] Player "ФаНАТ СОВЫ" <STEAM_0:1:455594560> has left the server
+[Tue Nov 18 21:03:15 2025] Player "ФаНАТ СОВЫ" <STEAM_0:1:455594560> is attempting to connect.
+[Tue Nov 18 21:04:01 2025] Player "ФаНАТ СОВЫ" <STEAM_0:1:455594560> has spawned in the server
+[Tue Nov 18 21:05:13 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ: tfa_ins2_wpn_ak74izh
+[Tue Nov 18 21:10:41 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ used tool "creator"
+[Tue Nov 18 21:10:41 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ spawned SWEP "Weapon [372][tfa_ins2_wpn_ak74izh]"
+[Tue Nov 18 21:12:56 2025] Player "ФаНАТ СОВЫ" <STEAM_0:1:455594560> is attempting to connect.
+[Tue Nov 18 21:13:16 2025] Player "ФаНАТ СОВЫ" <STEAM_0:1:455594560> has spawned in the server
+[Tue Nov 18 21:13:49 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ: tfa_ins2_wpn_ak74izh
+[Tue Nov 18 21:15:24 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ used tool "camera"
+[Tue Nov 18 21:19:29 2025] Player "ФаНАТ СОВЫ" <STEAM_0:1:455594560> is attempting to connect.
+[Tue Nov 18 21:19:49 2025] Player "ФаНАТ СОВЫ" <STEAM_0:1:455594560> has spawned in the server
+[Tue Nov 18 21:22:21 2025] Player "Soldier Boy" <STEAM_0:1:620808428> is attempting to connect.
+[Tue Nov 18 21:22:45 2025] Player "Soldier Boy" <STEAM_0:1:620808428> has spawned in the server
+[Tue Nov 18 21:23:36 2025] <STEAM_0:1:620808428> Soldier Boy ran command "goto Белов"
+[Tue Nov 18 21:23:39 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ ran command "send Moore"
+[Tue Nov 18 21:24:12 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ ran command "send Moore"
+[Tue Nov 18 21:24:19 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ: !menu
+[Tue Nov 18 21:24:19 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ ran command "menu"
+[Tue Nov 18 21:24:48 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ ran command "send Moore"
+[Tue Nov 18 21:25:02 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ: !noclip
+[Tue Nov 18 21:25:02 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ ran command "noclip Белов"
+[Tue Nov 18 21:28:01 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ ran command "extinguish Moore"
+[Tue Nov 18 21:28:07 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ ran command "send Moore"
+[Tue Nov 18 21:28:14 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ ran command "rank Moore user 0"
+[Tue Nov 18 21:28:21 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ: !menu
+[Tue Nov 18 21:28:21 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ ran command "menu"
+[Tue Nov 18 21:28:38 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ ran command "send Moore"
+[Tue Nov 18 21:28:53 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ used tool "spawn_points"
+[Tue Nov 18 21:30:37 2025] Player "ФаНАТ СОВЫ" <STEAM_0:1:455594560> is attempting to connect.
+[Tue Nov 18 21:30:57 2025] Player "ФаНАТ СОВЫ" <STEAM_0:1:455594560> has spawned in the server
+[Tue Nov 18 21:32:47 2025] Player "Soldier Boy" <STEAM_0:1:620808428> is attempting to connect.
+[Tue Nov 18 21:33:04 2025] Player "Soldier Boy" <STEAM_0:1:620808428> has spawned in the server
+[Tue Nov 18 21:33:48 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ ran command "send Moore"
+[Tue Nov 18 21:34:25 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ used tool "spawn_points"
+[Tue Nov 18 21:35:06 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ: !noclip
+[Tue Nov 18 21:35:06 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ ran command "noclip Белов"
+[Tue Nov 18 21:35:10 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ used tool "spawn_points"
+[Tue Nov 18 21:35:26 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ used tool "spawn_points"
+[Tue Nov 18 21:36:27 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ ran command "rank Moore founder 0"
+[Tue Nov 18 21:36:38 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ ran command "rank Moore admin-j 0"
+[Tue Nov 18 21:36:49 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ ran command "rank Moore superadmin 0"
+[Tue Nov 18 21:36:54 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ ran command "rank Moore user 0"
+[Tue Nov 18 21:37:07 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ spawned SENT "Entity [490][armor_take]"
+[Tue Nov 18 21:37:09 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ spawned SENT "Entity [491][armor_take]"
+[Tue Nov 18 21:41:36 2025] Soldier Boy has killed ФаНАТ СОВЫ.
+[Tue Nov 18 21:41:37 2025] ФаНАТ СОВЫ has killed ФаНАТ СОВЫ.
+[Tue Nov 18 21:42:46 2025] Soldier Boy has killed ФаНАТ СОВЫ.
+[Tue Nov 18 21:42:47 2025] ФаНАТ СОВЫ has killed ФаНАТ СОВЫ.
+[Tue Nov 18 21:48:25 2025] Player "OZOR" <STEAM_0:0:85754053> is attempting to connect.
+[Tue Nov 18 21:50:08 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ ran command "send Moore"
+[Tue Nov 18 21:52:08 2025] ФаНАТ СОВЫ has killed Soldier Boy.
+[Tue Nov 18 21:52:09 2025] Soldier Boy has killed Soldier Boy.
+[Tue Nov 18 21:52:20 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ ran command "send Moore"
+[Tue Nov 18 21:52:42 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ ran command "send Moore"
+[Tue Nov 18 21:53:35 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ: !noclip
+[Tue Nov 18 21:53:35 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ ran command "noclip Белов"
+[Tue Nov 18 21:53:43 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ: !noclip
+[Tue Nov 18 21:53:43 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ ran command "noclip Белов"
+[Tue Nov 18 21:54:05 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ ran command "send Moore"
+[Tue Nov 18 21:54:08 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ ran command "send Белов"
+[Tue Nov 18 21:57:14 2025] Player "OZOR" <STEAM_0:0:85754053> has spawned in the server
+[Tue Nov 18 21:58:43 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ: !noclip
+[Tue Nov 18 21:58:43 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ ran command "noclip Белов"
+[Tue Nov 18 21:58:46 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ: !noclip
+[Tue Nov 18 21:58:46 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ ran command "noclip Белов"
+[Tue Nov 18 21:58:56 2025] Player "Soldier Boy" <STEAM_0:1:620808428> has left the server
+[Tue Nov 18 22:01:41 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ spawned SENT "Entity [267][armor_take]"
+[Tue Nov 18 22:03:31 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ ran command "goto Smith"
+[Tue Nov 18 22:08:50 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ: !noclip
+[Tue Nov 18 22:08:50 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ ran command "noclip Белов"
+[Tue Nov 18 22:09:16 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ: !noclip
+[Tue Nov 18 22:09:16 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ ran command "noclip Белов"
+[Tue Nov 18 22:10:29 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ: !noclip
+[Tue Nov 18 22:10:29 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ ran command "noclip Белов"
+[Tue Nov 18 22:10:39 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ: !noclip
+[Tue Nov 18 22:10:39 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ ran command "noclip Белов"
+[Tue Nov 18 22:12:26 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ: !noclip
+[Tue Nov 18 22:12:26 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ ran command "noclip Белов"
+[Tue Nov 18 22:12:35 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ: !noclip
+[Tue Nov 18 22:12:35 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ ran command "noclip Белов"
+[Tue Nov 18 22:12:43 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ spawned npc "NPC [521][npc_monk]"
+[Tue Nov 18 22:14:50 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ spawned npc "NPC [521][npc_monk]"
+[Tue Nov 18 22:15:36 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ spawned npc "NPC [521][npc_monk]"
+[Tue Nov 18 22:17:17 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ spawned npc "NPC [532][npc_monk]"
+[Tue Nov 18 22:18:00 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ ran command "send Smith"
+[Tue Nov 18 22:18:08 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ ran command "goto Smith"
+[Tue Nov 18 22:18:48 2025] <STEAM_0:0:85754053> OZOR: сука как же фризит, ДА УЙДИ ТЫ ОТ МЕНЯ, Я ОТЛЕТЕЛ ЧТОБ ПО МОЗГАМ Н Е БИЛА
+[Tue Nov 18 22:18:53 2025] <STEAM_0:0:85754053> OZOR: И СТОИТ ХУЯРИТ
+[Tue Nov 18 22:20:41 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ: !noclip
+[Tue Nov 18 22:20:41 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ ran command "noclip Белов"
+[Tue Nov 18 22:22:59 2025] <STEAM_0:1:455594560> ФаНАТ СОВЫ: я вышел, не забудь про оружейную пирамиду, и еще whitelist отсортировка по профам рф и нато и давать возможноть давать оружие прописано в профессии по деньгам ты сам потом скажешь
+[Tue Nov 18 22:23:15 2025] Player "ФаНАТ СОВЫ" <STEAM_0:1:455594560> has left the server
+[Tue Nov 18 22:46:53 2025] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [371][armor_take]"
+[Tue Nov 18 23:06:51 2025] Player "OZOR" <STEAM_0:0:85754053> has left the server
+[Tue Nov 18 23:06:53 2025] Player "OZOR" <STEAM_0:0:85754053> is attempting to connect.
+[Tue Nov 18 23:07:54 2025] Player "OZOR" <STEAM_0:0:85754053> has spawned in the server

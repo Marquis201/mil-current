@@ -1,0 +1,303 @@
+--[[
+	Based on netstream 2.1.0 https://github.com/alexgrist/NetStream
+	Copyright alexgrist 2015
+
+	Размер пакета 64 кб, где 256 байт зарезервированы для имени хука и служебной информации.
+	Подразделения на большие сообщения нет, потому что формирование 1-го пакета происходит мгновенно.
+	Данные серилизуются с помощью pon.
+	Данные сжимаются если их размер больше минимальной длинны "эффективного сжатия".
+	Максимальный размер сообщения в коде ограничен числом пакетов, это примерно 16 мб.
+
+	Пока нет эффективного способа проверять пакеты от клиента, поэтому на сервере установлен SILENT_ON_SERVER,
+	чтобы не вызывать ассерт и не спамить в консоль.
+
+	Скорость передачи определяется net_maxfragments вызывающемся 20 раз в секунду. Не зависит от тикрейта.
+	По умолчанию равна 1260 что пример 24 кб/с.	Можно поднять до 1792 и получить 35 кб/с. net_splitrate не влияет.
+	net_splitpacket_maxrate определяет сколько сплитить пакетов, но это лишь столит сервер при меньших значениях.
+--]]
+-- luacheck: globals netstream SERVER pon Stack
+
+local net = net
+local ErrorNoHalt = ErrorNoHalt
+local pairs = pairs
+local _c = _c
+local type = type
+local util = util
+
+netstream = netstream or {}
+
+local stored = netstream.stored or {}
+netstream.stored = stored
+
+local cache = netstream.cache or {}
+netstream.cache = cache
+
+local SILENT_ON_SERVER = true
+
+local COMPRESS_EFFICIENCY = 128
+-- max possible message size controlled by PACKETS_BITS is ~ 16 mb
+local PACKETS_BITS = 8
+local BUFFER_BITS = 16
+local BUFFER_SIZE = 65536 - 256
+
+-- A function to split data for a data stream.
+function netstream.Split(data)
+	local slices = Stack()
+
+	while #data > BUFFER_SIZE do
+		slices:Push(string.sub(data, 1, BUFFER_SIZE))
+		data = string.sub(data, BUFFER_SIZE + 1)
+	end
+	slices:Push(data)
+
+	return slices
+end
+
+-- A function to hook a net stream.
+function netstream.Hook(name, callback)
+	stored[name] = callback
+end
+
+-- A function to start a net stream.
+function netstream.Start(ply, name, ...)
+	if SERVER then
+		ply = ply or player.GetAll()
+	end
+
+	local compressed = false
+	local data = pon.encode({...})
+	if #data > COMPRESS_EFFICIENCY then
+		local lzma = util.Compress(data)
+		if isstring(lzma) then
+			compressed = true
+			data = lzma
+		end
+	end
+
+	local packetsStack = netstream.Split(data)
+	local packetsCount = packetsStack:Size()
+
+	for i, pack in ipairs(packetsStack) do
+		local packLength = #pack
+
+		net.Start("NetStreamDS")
+		net.WriteBool(compressed)
+		net.WriteString(name)
+		net.WriteUInt(packetsCount, PACKETS_BITS)
+		net.WriteUInt(i, PACKETS_BITS)
+		net.WriteUInt(packLength, BUFFER_BITS)
+		net.WriteData(pack, packLength)
+		if SERVER then
+			net.Send(ply)
+		else
+			net.SendToServer()
+		end
+	end
+end
+
+if not SERVER then
+	netstream._Start = netstream._Start or netstream.Start
+	function netstream.Start(name, ...)
+		netstream._Start(nil, name, ...)
+	end
+end
+
+local function NetStreamReceive(_, ply)
+	local compressed = net.ReadBool()
+	local name = net.ReadString()
+	local packetsCount = net.ReadUInt(PACKETS_BITS)
+	local packNumber = net.ReadUInt(PACKETS_BITS)
+	local packLength = net.ReadUInt(BUFFER_BITS)
+	local pack = net.ReadData(packLength)
+
+	-- if SERVER and SILENT_ON_SERVER then
+		if not stored[name] then
+			hook.Run("NetStreamUnlisted", ply, name)
+			return
+		end
+	-- else
+		-- return
+	-- 	assert(stored[name], "Attempt to receive packets for unlisted hook!")
+	-- end
+
+	cache[name] = cache[name] or {}
+	cache[name][packNumber] = pack
+
+	if packNumber == packetsCount then
+		-- if SERVER and SILENT_ON_SERVER then
+			if #cache[name] ~= packetsCount then
+				hook.Run("NetStreamCacheMismatch", ply, name)
+				cache[name] = nil
+				return
+			end
+		-- else
+			-- return
+		-- 	assert(#cache[name] == packetsCount, "Cache size must be equal to number of packets!")
+		-- end
+
+		local data = table.concat(cache[name])
+		if compressed then
+			data = util.Decompress(data)
+		end
+
+		local bStatus, value = _c(pon.decode, data)
+
+		if bStatus then
+			if SERVER then
+				stored[name](ply, unpack(value))
+			else
+				stored[name](unpack(value))
+			end
+		else
+			ErrorNoHalt("NetStream: '" .. name .. "'\n" .. value .. "\n")
+		end
+
+		cache[name] = nil
+	end
+end
+net.Receive("NetStreamDS", NetStreamReceive)
+
+if SERVER then
+	util.AddNetworkString("NetStreamDS")
+
+	-- A function to listen for a request.
+	function netstream.Listen(name, Callback)
+		netstream.Hook(
+			name,
+			function(player, data)
+				local bShouldReply, reply = Callback(player, data)
+
+				if bShouldReply then
+					netstream.Start(player, name, reply)
+				end
+			end
+		)
+	end
+else
+	-- A function to send a request.
+	function netstream.Request(name, data, Callback)
+		netstream.Hook(name, Callback)
+		netstream.Start(name, data)
+	end
+end
+
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------
+
+local txnid = 0
+
+local BLOCK_SIZE = 2^16-2^10
+local BLODK_SIZE_m1 = BLOCK_SIZE - 1
+
+if SERVER then
+	util.AddNetworkString('net.Stream')
+end
+
+function net.WriteStream(data, targs)
+	-- generate a unique id for this txn
+	txnid = (txnid + 1) % 0xFFFF
+
+	-- iterate over the data to send
+	local count = 0
+	local iter = function()
+		local seg = data:sub(count, count + BLODK_SIZE_m1)
+		count = count + BLOCK_SIZE
+
+		return seg
+	end
+
+	-- send a chunk of data
+	local function send()
+		local block = iter()
+
+		-- compression
+		block = util.Compress(block)
+
+		if block and (block ~= '') then
+			local size = block:len()
+			net.Start('net.Stream')
+				net.WriteUInt(txnid, 16)
+				net.WriteUInt(size, 16)
+				net.WriteData(block, size)
+			if SERVER then
+				net.Send(targs)
+			else
+				net.SendToServer()
+			end
+
+			timer.Simple(0.1, send)
+		end
+
+	end
+
+	-- write txnid and chunks to be expected
+	net.WriteUInt(txnid, 16)
+	net.WriteUInt(math.ceil(data:len() / BLOCK_SIZE), 16)
+
+	timer.Simple(0.1, send)
+end
+
+local buckets = {}
+if SERVER then
+	function net.ReadStream(src, callback)
+		if not src then
+			error('stream source must be provided to receive a stream from a player')
+		end
+		if not callback then
+			error('callback must be provided for stream read completion')
+		end
+		if not buckets[src] then buckets[src] = {} end
+		buckets[src][net.ReadUInt(16)] = {len=net.ReadUInt(16), callback=callback}
+	end
+
+	net.Receive('net.Stream', function(_,pl)
+		local txnid = net.ReadUInt(16)
+		if not buckets[pl] or not buckets[pl][txnid] then
+			error('could not receive stream from client. player bucket does not exist or txnid invalid')
+		end
+
+		local bucket = buckets[pl][txnid]
+
+		local size = net.ReadUInt(16)
+		local data = net.ReadData(size)
+
+		-- decompression
+		data = util.Decompress(data)
+
+		bucket[#bucket+1] = data
+
+		if #bucket == bucket.len then
+			buckets[pl][txnid] = nil
+			bucket.callback(table.concat(bucket))
+		end
+	end)
+else
+	function net.ReadStream(callback)
+		if not callback then
+			error('callback must be provided for stream read completion')
+		end
+		buckets[net.ReadUInt(16)] = {len=net.ReadUInt(16), callback=callback}
+	end
+
+	net.Receive('net.Stream', function(_)
+		local txnid = net.ReadUInt(16)
+		if not buckets[txnid] then
+			error('could not receive stream from server. txnid invalid.')
+		end
+
+		local bucket = buckets[txnid]
+
+		local size = net.ReadUInt(16)
+		local data = net.ReadData(size)
+
+		-- decompression
+		data = util.Decompress(data)
+
+		bucket[#bucket+1] = data
+
+		if #bucket == bucket.len then
+			buckets[txnid] = nil
+			bucket.callback(table.concat(bucket))
+		end
+	end)
+end

@@ -1,0 +1,77 @@
+"STEAM_0:0:150825634"	
+{
+	"allow"	
+	{
+	}
+	"name"	"xlupalshik"
+	"deny"	
+	{
+	}
+	"group"	"founder"
+}
+"STEAM_0:1:520072139"	
+{
+	"allow"	
+	{
+	}
+	"name"	"Аллашка ебанашка"
+	"deny"	
+	{
+	}
+	"group"	"founder"
+}
+"STEAM_0:1:455594560"	
+{
+	"allow"	
+	{
+	}
+	"name"	"ФаНАТ СОВЫ"
+	"deny"	
+	{
+	}
+	"group"	"founder"
+}
+"STEAM_0:0:85754053"	
+{
+	"name"	"OZOR"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"founder"
+}
+"STEAM_0:1:620808428"	
+{
+	"allow"	
+	{
+	}
+	"name"	"Soldier Boy"
+	"deny"	
+	{
+	}
+	"group"	"founder"
+}
+"STEAM_0:1:54838838"	
+{
+	"allow"	
+	{
+	}
+	"name"	"BloodySmile"
+	"deny"	
+	{
+	}
+	"group"	"founder"
+}
+"STEAM_0:0:79873507"	
+{
+	"allow"	
+	{
+	}
+	"name"	"费尔南德斯"
+	"deny"	
+	{
+	}
+	"group"	"founder"
+}

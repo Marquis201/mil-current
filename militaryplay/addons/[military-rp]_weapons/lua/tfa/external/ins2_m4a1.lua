@@ -1,0 +1,12 @@
+TFA.AddFireSound("INS2_M4A1.1", "weapons/tfa_ins2/m4a1/m4a1_fp.wav", false, ")")
+TFA.AddFireSound("INS2_M4A1.2", "weapons/tfa_ins2/m4a1/m4a1_suppressed_fp.wav", false, ")")
+
+TFA.AddWeaponSound("INS2_M4A1.MagRelease", "weapons/tfa_ins2/m4a1/m4a1_magrelease.wav")
+TFA.AddWeaponSound("INS2_M4A1.ROF", "weapons/tfa_ins2/m4a1/m4a1_fireselect.wav")
+TFA.AddWeaponSound("INS2_M4A1.Magout", "weapons/tfa_ins2/m4a1/m4a1_magout.wav")
+TFA.AddWeaponSound("INS2_M4A1.Hit", "weapons/tfa_ins2/m4a1/m4a1_hit.wav")
+TFA.AddWeaponSound("INS2_M4A1.Empty", "weapons/tfa_ins2/m4a1/m4a1_empty.wav")
+TFA.AddWeaponSound("INS2_M4A1.Magrelease", "weapons/tfa_ins2/m4a1/m4a1_magrelease.wav")
+TFA.AddWeaponSound("INS2_M4A1.Magin", "weapons/tfa_ins2/m4a1/m4a1_magin.wav")
+TFA.AddWeaponSound("INS2_M4A1.Boltback", "weapons/tfa_ins2/m4a1/m4a1_boltback.wav")
+TFA.AddWeaponSound("INS2_M4A1.Boltrelease", "weapons/tfa_ins2/m4a1/m4a1_boltrelease.wav")

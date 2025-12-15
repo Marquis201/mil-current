@@ -1,0 +1,7 @@
+[Sun Dec  7 04:05:54 2025] Player "OZOR" <STEAM_0:0:85754053> has spawned in the server
+[Sun Dec  7 04:30:08 2025] Player "Bot01" <BOT> has spawned in the server
+[Sun Dec  7 04:30:16 2025] <STEAM_0:0:85754053> OZOR ran command "goto Bot01"
+[Sun Dec  7 05:15:24 2025] <STEAM_0:0:85754053> OZOR ran command "goto Bot01"
+[Sun Dec  7 05:18:13 2025] <STEAM_0:0:85754053> OZOR ran command "goto Bot01"
+[Sun Dec  7 05:22:40 2025] Player "OZOR" <STEAM_0:0:85754053> has left the server
+[Sun Dec  7 05:22:40 2025] Player "Bot01" <BOT> has left the server

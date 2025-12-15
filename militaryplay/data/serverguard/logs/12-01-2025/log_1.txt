@@ -1,0 +1,30 @@
+[Mon Dec  1 15:18:09 2025] Player "OZOR" <STEAM_0:0:85754053> has spawned in the server
+[Mon Dec  1 15:29:42 2025] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [371][arctic_nvg_pvs14]"
+[Mon Dec  1 15:29:46 2025] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [371][sent_purchasable_ball]"
+[Mon Dec  1 15:29:51 2025] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [371][ifak_ammo]"
+[Mon Dec  1 15:29:53 2025] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [371][bodygroup]"
+[Mon Dec  1 15:31:48 2025] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [371][bodygroup]"
+[Mon Dec  1 15:31:51 2025] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [374][bodygroup]"
+[Mon Dec  1 15:35:07 2025] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [371][bodygroup]"
+[Mon Dec  1 15:35:30 2025] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [374][bodygroup]"
+[Mon Dec  1 15:35:32 2025] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [371][bodygroup]"
+[Mon Dec  1 15:36:08 2025] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [374][bodygroup]"
+[Mon Dec  1 15:37:02 2025] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [371][armor_take]"
+[Mon Dec  1 15:40:09 2025] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [371][armor_take]"
+[Mon Dec  1 15:41:14 2025] <STEAM_0:0:85754053> OZOR spawned SENT "NPC [371][vehicles_sales]"
+[Mon Dec  1 15:44:50 2025] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [371][lvs_wheeldrive_dodspaehwagen]"
+[Mon Dec  1 15:45:22 2025] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [371][lvs_wheeldrive_dabrams_m1a1]"
+[Mon Dec  1 15:45:30 2025] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [371][sw_rocket_9m120_v3]"
+[Mon Dec  1 15:45:32 2025] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [371][sw_airdrop_large_v3]"
+[Mon Dec  1 15:45:38 2025] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [371][lvs_wheeldrive_hummer]"
+[Mon Dec  1 15:45:41 2025] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [371][lvs_wheeldrive_dodtiger]"
+[Mon Dec  1 15:46:30 2025] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [371][lvs_wheeldrive_m3a3]"
+[Mon Dec  1 15:46:34 2025] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [371][lvs_wheeldrive_rp_dabrams_m1a1]"
+[Mon Dec  1 15:46:36 2025] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [371][lvs_trailer_flaktrailer]"
+[Mon Dec  1 15:46:38 2025] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [491][lvs_trailer_flak]"
+[Mon Dec  1 16:49:34 2025] Player "OZOR" <STEAM_0:0:85754053> has left the server
+[Mon Dec  1 21:47:39 2025] Player "Fernández" <STEAM_0:0:79873507> is attempting to connect.
+[Mon Dec  1 21:49:11 2025] Player "Fernández" <STEAM_0:0:79873507> has spawned in the server
+[Mon Dec  1 21:51:20 2025] <STEAM_0:0:79873507> Fernández spawned SENT "Entity [376][bodygroup]"
+[Mon Dec  1 21:58:47 2025] <STEAM_0:0:79873507> Fernández spawned SENT "Entity [370][bodygroup]"
+[Mon Dec  1 22:07:52 2025] Player "Fernández" <STEAM_0:0:79873507> has left the server

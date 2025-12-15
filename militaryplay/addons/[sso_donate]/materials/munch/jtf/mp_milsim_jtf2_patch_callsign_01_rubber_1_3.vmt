@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "munch/jtf/mp_milsim_jtf2_patch_callsign_01_rubber_1_3"
+	"$bumpmap" "munch/jtf/opforce_juggernaut_visor_n"
+}

@@ -1,0 +1,2 @@
+[Sat Dec  6 16:57:00 2025] Player "SlippY" <STEAM_0:1:857927478> is attempting to connect.
+[Sat Dec  6 19:02:48 2025] Player "Blander" <STEAM_0:0:785702861> is attempting to connect.

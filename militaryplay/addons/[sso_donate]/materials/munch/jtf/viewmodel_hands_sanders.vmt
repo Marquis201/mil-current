@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "munch/jtf/viewmodel_hands_sanders"
+	"$translucent" 1
+}

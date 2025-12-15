@@ -1,0 +1,399 @@
+[Fri Nov 14 17:32:44 2025] Player "Питка" <STEAM_0:0:532926116> is attempting to connect.
+[Fri Nov 14 17:32:49 2025] Player "Питка" <STEAM_0:0:532926116> is attempting to connect.
+[Fri Nov 14 17:32:57 2025] Player "NGT | Miheei" <STEAM_0:1:455818937> is attempting to connect.
+[Fri Nov 14 17:41:57 2025] Player "Fernández" <STEAM_0:0:79873507> is attempting to connect.
+[Fri Nov 14 17:43:41 2025] Player "Fernández" <STEAM_0:0:79873507> has spawned in the server
+[Fri Nov 14 17:51:18 2025] Player "Fernández" <STEAM_0:0:79873507> is attempting to connect.
+[Fri Nov 14 17:51:35 2025] Player "Fernández" <STEAM_0:0:79873507> has spawned in the server
+[Fri Nov 14 17:53:07 2025] Player "Fernández" <STEAM_0:0:79873507> is attempting to connect.
+[Fri Nov 14 17:53:24 2025] Player "Fernández" <STEAM_0:0:79873507> has spawned in the server
+[Fri Nov 14 17:54:08 2025] Player "NGT | Miheei" <STEAM_0:1:455818937> is attempting to connect.
+[Fri Nov 14 17:54:36 2025] Player "NGT | Miheei" <STEAM_0:1:455818937> is attempting to connect.
+[Fri Nov 14 17:54:59 2025] Player "𝔼Б𝕐 𝕏𝔸Ч𝔼Й" <STEAM_0:0:532926116> is attempting to connect.
+[Fri Nov 14 17:55:03 2025] Player "𝔼Б𝕐 𝕏𝔸Ч𝔼Й" <STEAM_0:0:532926116> is attempting to connect.
+[Fri Nov 14 17:55:13 2025] Player "BloodySmile" <STEAM_0:1:54838838> is attempting to connect.
+[Fri Nov 14 17:55:25 2025] Player "𝔼Б𝕐 𝕏𝔸Ч𝔼Й" <STEAM_0:0:532926116> is attempting to connect.
+[Fri Nov 14 17:56:32 2025] <STEAM_0:0:79873507> Fernández spawned SENT "Entity [369][ent_spawn_cube]"
+[Fri Nov 14 17:56:38 2025] <STEAM_0:0:79873507> Fernández spawned SENT "Entity [371][ent_spawn_cube]"
+[Fri Nov 14 17:56:41 2025] <STEAM_0:0:79873507> Fernández spawned SENT "Entity [372][ent_spawn_cube]"
+[Fri Nov 14 17:56:44 2025] <STEAM_0:0:79873507> Fernández spawned SENT "Entity [373][ent_spawn_cube]"
+[Fri Nov 14 17:58:08 2025] <STEAM_0:0:79873507> Fernández spawned SENT "Entity [374][sw_gaz2330]"
+[Fri Nov 14 17:58:28 2025] <STEAM_0:0:79873507> Fernández spawned SENT "Entity [374][lvs_wheeldrive_hummer]"
+[Fri Nov 14 17:58:32 2025] Player "BloodySmile" <STEAM_0:1:54838838> has spawned in the server
+[Fri Nov 14 17:59:30 2025] <STEAM_0:0:79873507> Fernández ran command "rank BloodySmile founder 0"
+[Fri Nov 14 17:59:42 2025] <STEAM_0:1:54838838> BloodySmile: !menu
+[Fri Nov 14 17:59:42 2025] <STEAM_0:1:54838838> BloodySmile ran command "menu"
+[Fri Nov 14 17:59:51 2025] <STEAM_0:0:79873507> Fernández: !menu
+[Fri Nov 14 17:59:51 2025] <STEAM_0:0:79873507> Fernández ran command "menu"
+[Fri Nov 14 18:00:46 2025] <STEAM_0:0:79873507> Fernández ran command "plugintoggle levelchange"
+[Fri Nov 14 18:00:51 2025] <STEAM_0:0:79873507> Fernández ran command "plugintoggle chat_settings"
+[Fri Nov 14 18:01:48 2025] Player "𝔼Б𝕐 𝕏𝔸Ч𝔼Й" <STEAM_0:0:532926116> has spawned in the server
+[Fri Nov 14 18:02:29 2025] <STEAM_0:0:79873507> Fernández: !menu
+[Fri Nov 14 18:02:29 2025] <STEAM_0:0:79873507> Fernández ran command "menu"
+[Fri Nov 14 18:02:39 2025] BloodySmile has killed 𝔼Б𝕐 𝕏𝔸Ч𝔼Й.
+[Fri Nov 14 18:02:42 2025] <STEAM_0:0:79873507> Fernández ran command "rank 𝔼Б𝕐 𝕏𝔸Ч𝔼Й founder 0"
+[Fri Nov 14 18:03:32 2025] Player "NGT | Miheei" <STEAM_0:1:455818937> has spawned in the server
+[Fri Nov 14 18:03:53 2025] <STEAM_0:0:79873507> Fernández: !menu
+[Fri Nov 14 18:03:53 2025] <STEAM_0:0:79873507> Fernández ran command "menu"
+[Fri Nov 14 18:03:56 2025] <STEAM_0:0:79873507> Fernández ran command "rank NGT | Miheei founder 0"
+[Fri Nov 14 18:04:27 2025] BloodySmile has killed NGT | Miheei.
+[Fri Nov 14 18:04:43 2025] <STEAM_0:0:532926116> 𝔼Б𝕐 𝕏𝔸Ч𝔼Й spawned SWEP "Weapon [489][cw_ar15]"
+[Fri Nov 14 18:04:50 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "NPC [504][mp_car]"
+[Fri Nov 14 18:05:29 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [490][lvs_wheeldrive_dabrams_m1a1]"
+[Fri Nov 14 18:06:36 2025] <STEAM_0:0:79873507> Fernández: /map
+[Fri Nov 14 18:06:36 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [48][lvs_wheeldrive_hummer_m134]"
+[Fri Nov 14 18:06:38 2025] <STEAM_0:1:455818937> NGT | Miheei: /map
+[Fri Nov 14 18:06:40 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [522][lvs_wheeldrive_hummer_m2]"
+[Fri Nov 14 18:06:48 2025] <STEAM_0:0:532926116> 𝔼Б𝕐 𝕏𝔸Ч𝔼Й: /map
+[Fri Nov 14 18:06:57 2025] <STEAM_0:0:79873507> Fernández: /conquest
+[Fri Nov 14 18:07:54 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [367][lvs_wheeldrive_hummer_tow]"
+[Fri Nov 14 18:08:15 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [367][lvs_trailer_flak]"
+[Fri Nov 14 18:08:18 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [374][lvs_trailer_flaktrailer]"
+[Fri Nov 14 18:08:19 2025] <STEAM_0:1:455818937> NGT | Miheei: /map
+[Fri Nov 14 18:08:26 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [370][lvs_trailer_flaktrailer]"
+[Fri Nov 14 18:08:27 2025] <STEAM_0:0:532926116> 𝔼Б𝕐 𝕏𝔸Ч𝔼Й: /map
+[Fri Nov 14 18:08:29 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [513][lvs_trailer_flak]"
+[Fri Nov 14 18:08:30 2025] <STEAM_0:0:79873507> Fernández: /map
+[Fri Nov 14 18:08:42 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [370][lvs_wheeldrive_dodkuebelwagen]"
+[Fri Nov 14 18:09:54 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [370][lvs_wheeldrive_dodwillyjeep_mg]"
+[Fri Nov 14 18:10:06 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [370][sw_bmp1]"
+[Fri Nov 14 18:11:01 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [370][sw_bmp2]"
+[Fri Nov 14 18:11:05 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [370][sw_gaz2330]"
+[Fri Nov 14 18:11:35 2025] <STEAM_0:0:532926116> 𝔼Б𝕐 𝕏𝔸Ч𝔼Й spawned SWEP "Weapon [550][cw_xm1014_official]"
+[Fri Nov 14 18:12:25 2025] <STEAM_0:0:79873507> Fernández: /conquest
+[Fri Nov 14 18:12:57 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [370][sw_matv]"
+[Fri Nov 14 18:13:04 2025] <STEAM_0:1:455818937> NGT | Miheei ran command "goto Fernández"
+[Fri Nov 14 18:13:30 2025] BloodySmile has killed 𝔼Б𝕐 𝕏𝔸Ч𝔼Й.
+[Fri Nov 14 18:13:30 2025] BloodySmile has killed BloodySmile.
+[Fri Nov 14 18:14:05 2025] <STEAM_0:0:79873507> Fernández spawned SWEP "Weapon [506][alydus_fortificationbuildertablet]"
+[Fri Nov 14 18:14:05 2025] <STEAM_0:0:79873507> Fernández spawned SWEP "Weapon [543][alydus_fortificationbuildertablet]"
+[Fri Nov 14 18:14:36 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [501][sw_gaz2330]"
+[Fri Nov 14 18:14:42 2025] <STEAM_0:1:455818937> NGT | Miheei: /drop
+[Fri Nov 14 18:14:43 2025] <STEAM_0:1:455818937> NGT | Miheei: /drop
+[Fri Nov 14 18:14:46 2025] <STEAM_0:1:455818937> NGT | Miheei: /drop
+[Fri Nov 14 18:14:49 2025] <STEAM_0:1:455818937> NGT | Miheei: /drop
+[Fri Nov 14 18:14:50 2025] <STEAM_0:1:455818937> NGT | Miheei: /drop
+[Fri Nov 14 18:14:52 2025] <STEAM_0:1:455818937> NGT | Miheei: /drop
+[Fri Nov 14 18:14:55 2025] <STEAM_0:0:532926116> 𝔼Б𝕐 𝕏𝔸Ч𝔼Й ran command "goto NGT | Miheei"
+[Fri Nov 14 18:15:42 2025] <STEAM_0:1:54838838> BloodySmile ran command "goto NGT | Miheei"
+[Fri Nov 14 18:15:48 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [490][sw_t80bvm]"
+[Fri Nov 14 18:15:50 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [585][sw_t80bvm]"
+[Fri Nov 14 18:15:53 2025] 𝔼Б𝕐 𝕏𝔸Ч𝔼Й has killed 𝔼Б𝕐 𝕏𝔸Ч𝔼Й.
+[Fri Nov 14 18:15:53 2025] <STEAM_0:1:455818937> NGT | Miheei ran command "slay 𝔼Б𝕐 𝕏𝔸Ч𝔼Й"
+[Fri Nov 14 18:16:46 2025] <STEAM_0:0:532926116> 𝔼Б𝕐 𝕏𝔸Ч𝔼Й ran command "goto NGT | Miheei"
+[Fri Nov 14 18:17:34 2025] sw_t80bvm has killed NGT | Miheei.
+[Fri Nov 14 18:19:30 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [487][sw_t80bvm]"
+[Fri Nov 14 18:19:44 2025] NGT | Miheei has killed 𝔼Б𝕐 𝕏𝔸Ч𝔼Й.
+[Fri Nov 14 18:19:53 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [490][sw_t80bvm]"
+[Fri Nov 14 18:20:29 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [490][sw_bmp3m]"
+[Fri Nov 14 18:20:48 2025] Fernández has killed 𝔼Б𝕐 𝕏𝔸Ч𝔼Й.
+[Fri Nov 14 18:21:04 2025] BloodySmile has killed NGT | Miheei.
+[Fri Nov 14 18:21:41 2025] <STEAM_0:1:455818937> NGT | Miheei: /drop
+[Fri Nov 14 18:22:01 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [490][sw_bmp1m]"
+[Fri Nov 14 18:22:15 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [490][sw_gaz2330]"
+[Fri Nov 14 18:22:24 2025] <STEAM_0:1:455818937> NGT | Miheei ran command "respawn NGT | Miheei"
+[Fri Nov 14 18:22:46 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [490][lvs_concussionmissile]"
+[Fri Nov 14 18:22:49 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [490][lvs_concussionmissile]"
+[Fri Nov 14 18:22:51 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [490][lvs_concussionmissile]"
+[Fri Nov 14 18:22:52 2025] <STEAM_0:1:455818937> NGT | Miheei ran command "goto BloodySmile"
+[Fri Nov 14 18:22:53 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [490][lvs_protontorpedo]"
+[Fri Nov 14 18:22:55 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [490][lvs_missile]"
+[Fri Nov 14 18:23:01 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [502][lvs_trailer_pak40]"
+[Fri Nov 14 18:23:09 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [503][lvs_item_ammocrate]"
+[Fri Nov 14 18:23:17 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [503][ent_spawn_cube]"
+[Fri Nov 14 18:23:21 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [503][cupboard_take]"
+[Fri Nov 14 18:23:25 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [503][sw_bmp2]"
+[Fri Nov 14 18:23:32 2025] 𝔼Б𝕐 𝕏𝔸Ч𝔼Й has killed NGT | Miheei.
+[Fri Nov 14 18:23:36 2025] BloodySmile has killed 𝔼Б𝕐 𝕏𝔸Ч𝔼Й.
+[Fri Nov 14 18:24:13 2025] BloodySmile has killed 𝔼Б𝕐 𝕏𝔸Ч𝔼Й.
+[Fri Nov 14 18:24:15 2025] NGT | Miheei has killed BloodySmile.
+[Fri Nov 14 18:24:29 2025] <STEAM_0:1:54838838> BloodySmile ran command "respawn BloodySmile"
+[Fri Nov 14 18:24:33 2025] <STEAM_0:1:54838838> BloodySmile ran command "goto NGT | Miheei"
+[Fri Nov 14 18:24:48 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "NPC [486][mp_svetlana]"
+[Fri Nov 14 18:24:56 2025] <STEAM_0:0:532926116> 𝔼Б𝕐 𝕏𝔸Ч𝔼Й ran command "goto NGT | Miheei"
+[Fri Nov 14 18:25:01 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [486][alydus_destructiblefortification]"
+[Fri Nov 14 18:25:41 2025] 𝔼Б𝕐 𝕏𝔸Ч𝔼Й has killed NGT | Miheei.
+[Fri Nov 14 18:25:58 2025] <STEAM_0:1:455818937> NGT | Miheei ran command "respawn NGT | Miheei"
+[Fri Nov 14 18:26:02 2025] <STEAM_0:1:455818937> NGT | Miheei ran command "goto 𝔼Б𝕐 𝕏𝔸Ч𝔼Й"
+[Fri Nov 14 18:26:35 2025] 𝔼Б𝕐 𝕏𝔸Ч𝔼Й has killed NGT | Miheei.
+[Fri Nov 14 18:26:40 2025] <STEAM_0:1:455818937> NGT | Miheei ran command "goto NGT | Miheei"
+[Fri Nov 14 18:26:45 2025] <STEAM_0:1:455818937> NGT | Miheei ran command "respawn NGT | Miheei"
+[Fri Nov 14 18:26:48 2025] <STEAM_0:1:455818937> NGT | Miheei ran command "goto 𝔼Б𝕐 𝕏𝔸Ч𝔼Й"
+[Fri Nov 14 18:28:05 2025] NGT | Miheei has killed 𝔼Б𝕐 𝕏𝔸Ч𝔼Й.
+[Fri Nov 14 18:28:13 2025] BloodySmile has killed NGT | Miheei.
+[Fri Nov 14 18:28:36 2025] BloodySmile has killed NGT | Miheei.
+[Fri Nov 14 18:28:40 2025] <STEAM_0:1:54838838> BloodySmile spawned SWEP "Weapon [510][cw_vss]"
+[Fri Nov 14 18:28:41 2025] <STEAM_0:1:54838838> BloodySmile spawned SWEP "Weapon [511][cw_vss]"
+[Fri Nov 14 18:28:41 2025] <STEAM_0:1:54838838> BloodySmile spawned SWEP "Weapon [513][cw_vss]"
+[Fri Nov 14 18:28:58 2025] <STEAM_0:1:455818937> NGT | Miheei ran command "respawn NGT | Miheei"
+[Fri Nov 14 18:28:58 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [513][cw_ammo_9x39]"
+[Fri Nov 14 18:29:01 2025] <STEAM_0:1:455818937> NGT | Miheei ran command "goto 𝔼Б𝕐 𝕏𝔸Ч𝔼Й"
+[Fri Nov 14 18:29:05 2025] NGT | Miheei has killed BloodySmile.
+[Fri Nov 14 18:29:08 2025] NGT | Miheei has killed 𝔼Б𝕐 𝕏𝔸Ч𝔼Й.
+[Fri Nov 14 18:29:21 2025] <STEAM_0:0:79873507> Fernández: /conquest
+[Fri Nov 14 18:29:37 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [486][lvs_missile]"
+[Fri Nov 14 18:29:39 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [486][lvs_missile]"
+[Fri Nov 14 18:29:49 2025] 𝔼Б𝕐 𝕏𝔸Ч𝔼Й has killed NGT | Miheei.
+[Fri Nov 14 18:30:01 2025] BloodySmile has killed 𝔼Б𝕐 𝕏𝔸Ч𝔼Й.
+[Fri Nov 14 18:30:21 2025] <STEAM_0:1:455818937> NGT | Miheei: /ammo ^ 999
+[Fri Nov 14 18:30:32 2025] <STEAM_0:1:455818937> NGT | Miheei: ammo ^ 999
+[Fri Nov 14 18:30:41 2025] NGT | Miheei has killed 𝔼Б𝕐 𝕏𝔸Ч𝔼Й.
+[Fri Nov 14 18:30:48 2025] BloodySmile has killed NGT | Miheei.
+[Fri Nov 14 18:31:25 2025] 𝔼Б𝕐 𝕏𝔸Ч𝔼Й has killed NGT | Miheei.
+[Fri Nov 14 18:31:32 2025] BloodySmile has killed 𝔼Б𝕐 𝕏𝔸Ч𝔼Й.
+[Fri Nov 14 18:32:10 2025] NGT | Miheei has killed 𝔼Б𝕐 𝕏𝔸Ч𝔼Й.
+[Fri Nov 14 18:32:37 2025] NGT | Miheei has killed BloodySmile.
+[Fri Nov 14 18:33:18 2025] <STEAM_0:1:54838838> BloodySmile ran command "goto 𝔼Б𝕐 𝕏𝔸Ч𝔼Й"
+[Fri Nov 14 18:33:22 2025] <STEAM_0:1:455818937> NGT | Miheei ran command "goto 𝔼Б𝕐 𝕏𝔸Ч𝔼Й"
+[Fri Nov 14 18:33:53 2025] BloodySmile has killed NGT | Miheei.
+[Fri Nov 14 18:34:20 2025] <STEAM_0:1:455818937> NGT | Miheei: /ammo ^ 10
+[Fri Nov 14 18:34:31 2025] NGT | Miheei has killed 𝔼Б𝕐 𝕏𝔸Ч𝔼Й.
+[Fri Nov 14 18:35:23 2025] 𝔼Б𝕐 𝕏𝔸Ч𝔼Й has killed NGT | Miheei.
+[Fri Nov 14 18:35:35 2025] <STEAM_0:0:79873507> Fernández: !giveammo ^ 9899
+[Fri Nov 14 18:35:36 2025] <STEAM_0:0:532926116> 𝔼Б𝕐 𝕏𝔸Ч𝔼Й ran command "ammo 𝔼Б𝕐 𝕏𝔸Ч𝔼Й"
+[Fri Nov 14 18:35:37 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [367][cw_attpack_mp5_stocks]"
+[Fri Nov 14 18:35:40 2025] <STEAM_0:0:79873507> Fernández: !ammo ^ 9899
+[Fri Nov 14 18:35:40 2025] <STEAM_0:0:79873507> Fernández ran command "ammo ^ 9899"
+[Fri Nov 14 18:36:04 2025] <STEAM_0:1:455818937> NGT | Miheei: /ammo ^ 999
+[Fri Nov 14 18:36:09 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [513][lvs_wheeldrive_hummer_mk19]"
+[Fri Nov 14 18:36:13 2025] <STEAM_0:1:455818937> NGT | Miheei: ./ammo ^ 999
+[Fri Nov 14 18:36:15 2025] worldspawn has killed Fernández.
+[Fri Nov 14 18:36:17 2025] BloodySmile has killed 𝔼Б𝕐 𝕏𝔸Ч𝔼Й.
+[Fri Nov 14 18:36:22 2025] <STEAM_0:1:455818937> NGT | Miheei ran command "goto Fernández"
+[Fri Nov 14 18:36:31 2025] <STEAM_0:1:455818937> NGT | Miheei ran command "goto 𝔼Б𝕐 𝕏𝔸Ч𝔼Й"
+[Fri Nov 14 18:36:34 2025] BloodySmile has killed NGT | Miheei.
+[Fri Nov 14 18:36:38 2025] <STEAM_0:1:455818937> NGT | Miheei ran command "ammo NGT | Miheei"
+[Fri Nov 14 18:37:01 2025] <STEAM_0:1:455818937> NGT | Miheei ran command "ammo NGT | Miheei"
+[Fri Nov 14 18:37:11 2025] <STEAM_0:0:532926116> 𝔼Б𝕐 𝕏𝔸Ч𝔼Й ran command "ammo 𝔼Б𝕐 𝕏𝔸Ч𝔼Й"
+[Fri Nov 14 18:37:24 2025] <STEAM_0:0:532926116> 𝔼Б𝕐 𝕏𝔸Ч𝔼Й spawned SENT "Entity [539][cw_attpack_sights_longrange]"
+[Fri Nov 14 18:37:24 2025] <STEAM_0:0:532926116> 𝔼Б𝕐 𝕏𝔸Ч𝔼Й spawned SENT "Entity [540][cw_attpack_sights_midrange]"
+[Fri Nov 14 18:37:38 2025] <STEAM_0:1:455818937> NGT | Miheei ran command "goto BloodySmile"
+[Fri Nov 14 18:37:40 2025] <STEAM_0:0:532926116> 𝔼Б𝕐 𝕏𝔸Ч𝔼Й ran command "goto BloodySmile"
+[Fri Nov 14 18:38:04 2025] BloodySmile has killed 𝔼Б𝕐 𝕏𝔸Ч𝔼Й.
+[Fri Nov 14 18:38:31 2025] <STEAM_0:0:532926116> 𝔼Б𝕐 𝕏𝔸Ч𝔼Й ran command "goto NGT | Miheei"
+[Fri Nov 14 18:40:22 2025] <STEAM_0:1:455818937> NGT | Miheei ran command "ammo NGT | Miheei"
+[Fri Nov 14 18:40:58 2025] 𝔼Б𝕐 𝕏𝔸Ч𝔼Й has killed NGT | Miheei.
+[Fri Nov 14 18:41:11 2025] 𝔼Б𝕐 𝕏𝔸Ч𝔼Й has killed BloodySmile.
+[Fri Nov 14 18:41:21 2025] <STEAM_0:1:455818937> NGT | Miheei ran command "respawn NGT | Miheei"
+[Fri Nov 14 18:41:24 2025] <STEAM_0:1:455818937> NGT | Miheei ran command "goto 𝔼Б𝕐 𝕏𝔸Ч𝔼Й"
+[Fri Nov 14 18:41:43 2025] <STEAM_0:1:455818937> NGT | Miheei ran command "ammo NGT | Miheei"
+[Fri Nov 14 18:42:45 2025] 𝔼Б𝕐 𝕏𝔸Ч𝔼Й has killed NGT | Miheei.
+[Fri Nov 14 18:42:52 2025] <STEAM_0:1:455818937> NGT | Miheei ran command "respawn NGT | Miheei"
+[Fri Nov 14 18:42:56 2025] <STEAM_0:1:455818937> NGT | Miheei ran command "goto 𝔼Б𝕐 𝕏𝔸Ч𝔼Й"
+[Fri Nov 14 18:43:06 2025] <STEAM_0:1:455818937> NGT | Miheei ran command "ammo NGT | Miheei"
+[Fri Nov 14 18:43:15 2025] NGT | Miheei has killed 𝔼Б𝕐 𝕏𝔸Ч𝔼Й.
+[Fri Nov 14 18:43:35 2025] NGT | Miheei has killed 𝔼Б𝕐 𝕏𝔸Ч𝔼Й.
+[Fri Nov 14 18:44:08 2025] 𝔼Б𝕐 𝕏𝔸Ч𝔼Й has killed NGT | Miheei.
+[Fri Nov 14 18:44:28 2025] <STEAM_0:1:455818937> NGT | Miheei ran command "ammo NGT | Miheei"
+[Fri Nov 14 18:45:02 2025] 𝔼Б𝕐 𝕏𝔸Ч𝔼Й has killed NGT | Miheei.
+[Fri Nov 14 18:45:19 2025] <STEAM_0:1:455818937> NGT | Miheei ran command "respawn NGT | Miheei"
+[Fri Nov 14 18:45:23 2025] <STEAM_0:1:455818937> NGT | Miheei ran command "npctarget 𝔼Б𝕐 𝕏𝔸Ч𝔼Й"
+[Fri Nov 14 18:45:26 2025] <STEAM_0:1:455818937> NGT | Miheei ran command "goto 𝔼Б𝕐 𝕏𝔸Ч𝔼Й"
+[Fri Nov 14 18:45:45 2025] <STEAM_0:0:79873507> Fernández ran command "goto NGT | Miheei"
+[Fri Nov 14 18:45:46 2025] 𝔼Б𝕐 𝕏𝔸Ч𝔼Й has killed NGT | Miheei.
+[Fri Nov 14 18:46:17 2025] <STEAM_0:1:455818937> NGT | Miheei ran command "goto 𝔼Б𝕐 𝕏𝔸Ч𝔼Й"
+[Fri Nov 14 18:46:27 2025] <STEAM_0:1:455818937> NGT | Miheei ran command "goto Fernández"
+[Fri Nov 14 18:47:03 2025] worldspawn has killed NGT | Miheei.
+[Fri Nov 14 18:47:08 2025] <STEAM_0:1:455818937> NGT | Miheei ran command "respawn NGT | Miheei"
+[Fri Nov 14 18:47:10 2025] <STEAM_0:1:455818937> NGT | Miheei ran command "goto 𝔼Б𝕐 𝕏𝔸Ч𝔼Й"
+[Fri Nov 14 18:47:49 2025] <STEAM_0:0:79873507> Fernández: /nato 1
+[Fri Nov 14 18:48:09 2025] <STEAM_0:1:54838838> BloodySmile ran command "goto NGT | Miheei"
+[Fri Nov 14 18:48:13 2025] BloodySmile has killed NGT | Miheei.
+[Fri Nov 14 18:48:14 2025] BloodySmile has killed 𝔼Б𝕐 𝕏𝔸Ч𝔼Й.
+[Fri Nov 14 18:48:19 2025] <STEAM_0:1:455818937> NGT | Miheei: !respawn ^
+[Fri Nov 14 18:48:19 2025] <STEAM_0:1:455818937> NGT | Miheei ran command "respawn ^"
+[Fri Nov 14 18:48:24 2025] <STEAM_0:1:455818937> NGT | Miheei: !tp
+[Fri Nov 14 18:48:24 2025] <STEAM_0:1:455818937> NGT | Miheei ran command "goto NGT | Miheei"
+[Fri Nov 14 18:48:29 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [367][lvs_wheeldrive_dodsherman_zippo]"
+[Fri Nov 14 18:48:30 2025] <STEAM_0:1:455818937> NGT | Miheei: !tp Bloo
+[Fri Nov 14 18:48:30 2025] <STEAM_0:1:455818937> NGT | Miheei ran command "goto Bloo"
+[Fri Nov 14 18:48:52 2025] <STEAM_0:1:455818937> NGT | Miheei ran command "goto 𝔼Б𝕐 𝕏𝔸Ч𝔼Й"
+[Fri Nov 14 18:48:52 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [367][lvs_wheeldrive_dodwillyjeep_mg]"
+[Fri Nov 14 18:48:57 2025] BloodySmile has killed NGT | Miheei.
+[Fri Nov 14 18:49:00 2025] <STEAM_0:1:455818937> NGT | Miheei: !respawn ^
+[Fri Nov 14 18:49:00 2025] <STEAM_0:1:455818937> NGT | Miheei ran command "respawn ^"
+[Fri Nov 14 18:49:01 2025] <STEAM_0:1:455818937> NGT | Miheei: !tp Bloo
+[Fri Nov 14 18:49:01 2025] <STEAM_0:1:455818937> NGT | Miheei ran command "goto Bloo"
+[Fri Nov 14 18:49:13 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [538][lvs_wheeldrive_dodspaehwagen]"
+[Fri Nov 14 18:49:22 2025] NGT | Miheei has killed 𝔼Б𝕐 𝕏𝔸Ч𝔼Й.
+[Fri Nov 14 18:49:33 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [488][lvs_wheeldrive_bmw_r75]"
+[Fri Nov 14 18:49:48 2025] <STEAM_0:1:455818937> NGT | Miheei: !ammo ^ 999
+[Fri Nov 14 18:49:48 2025] <STEAM_0:1:455818937> NGT | Miheei ran command "ammo ^ 999"
+[Fri Nov 14 18:49:51 2025] <STEAM_0:0:532926116> 𝔼Б𝕐 𝕏𝔸Ч𝔼Й ran command "goto NGT | Miheei"
+[Fri Nov 14 18:50:07 2025] <STEAM_0:1:455818937> NGT | Miheei: !ammo ^ 999
+[Fri Nov 14 18:50:07 2025] <STEAM_0:1:455818937> NGT | Miheei ran command "ammo ^ 999"
+[Fri Nov 14 18:50:28 2025] NGT | Miheei has killed 𝔼Б𝕐 𝕏𝔸Ч𝔼Й.
+[Fri Nov 14 18:50:48 2025] <STEAM_0:1:455818937> NGT | Miheei: !ammo ^ 999
+[Fri Nov 14 18:50:48 2025] <STEAM_0:1:455818937> NGT | Miheei ran command "ammo ^ 999"
+[Fri Nov 14 18:50:59 2025] <STEAM_0:0:532926116> 𝔼Б𝕐 𝕏𝔸Ч𝔼Й ran command "goto NGT | Miheei"
+[Fri Nov 14 18:51:23 2025] <STEAM_0:0:532926116> 𝔼Б𝕐 𝕏𝔸Ч𝔼Й spawned SENT "Entity [516][sw_t80bvm]"
+[Fri Nov 14 18:51:26 2025] worldspawn has killed NGT | Miheei.
+[Fri Nov 14 18:51:27 2025] <STEAM_0:0:532926116> 𝔼Б𝕐 𝕏𝔸Ч𝔼Й spawned SENT "Entity [516][sw_t80bvm]"
+[Fri Nov 14 18:51:28 2025] <STEAM_0:1:455818937> NGT | Miheei: !tp Bloo
+[Fri Nov 14 18:51:28 2025] <STEAM_0:1:455818937> NGT | Miheei ran command "goto Bloo"
+[Fri Nov 14 18:51:31 2025] <STEAM_0:1:455818937> NGT | Miheei: !respawn ^
+[Fri Nov 14 18:51:31 2025] <STEAM_0:1:455818937> NGT | Miheei ran command "respawn ^"
+[Fri Nov 14 18:51:32 2025] <STEAM_0:1:455818937> NGT | Miheei: !tp Bloo
+[Fri Nov 14 18:51:32 2025] <STEAM_0:1:455818937> NGT | Miheei ran command "goto Bloo"
+[Fri Nov 14 18:51:53 2025] <STEAM_0:1:455818937> NGT | Miheei: !ammo ^ 999
+[Fri Nov 14 18:51:53 2025] <STEAM_0:1:455818937> NGT | Miheei ran command "ammo ^ 999"
+[Fri Nov 14 18:51:59 2025] <STEAM_0:0:532926116> 𝔼Б𝕐 𝕏𝔸Ч𝔼Й spawned SENT "Entity [516][sw_bmp1]"
+[Fri Nov 14 18:52:02 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [596][lvs_wheeldrive_dabrams_m1a1]"
+[Fri Nov 14 18:52:11 2025] BloodySmile has killed 𝔼Б𝕐 𝕏𝔸Ч𝔼Й.
+[Fri Nov 14 18:52:21 2025] BloodySmile has killed NGT | Miheei.
+[Fri Nov 14 18:52:24 2025] <STEAM_0:1:455818937> NGT | Miheei: !respawn ^
+[Fri Nov 14 18:52:24 2025] <STEAM_0:1:455818937> NGT | Miheei ran command "respawn ^"
+[Fri Nov 14 18:52:26 2025] <STEAM_0:1:455818937> NGT | Miheei: !tp Bloo
+[Fri Nov 14 18:52:26 2025] <STEAM_0:1:455818937> NGT | Miheei ran command "goto Bloo"
+[Fri Nov 14 18:52:37 2025] <STEAM_0:1:455818937> NGT | Miheei: !ammo ^ 999
+[Fri Nov 14 18:52:37 2025] <STEAM_0:1:455818937> NGT | Miheei ran command "ammo ^ 999"
+[Fri Nov 14 18:52:40 2025] <STEAM_0:0:532926116> 𝔼Б𝕐 𝕏𝔸Ч𝔼Й ran command "goto NGT | Miheei"
+[Fri Nov 14 18:52:46 2025] <STEAM_0:0:532926116> 𝔼Б𝕐 𝕏𝔸Ч𝔼Й spawned SENT "Entity [516][sw_bmp3]"
+[Fri Nov 14 18:52:51 2025] NGT | Miheei has killed 𝔼Б𝕐 𝕏𝔸Ч𝔼Й.
+[Fri Nov 14 18:52:59 2025] NGT | Miheei has killed NGT | Miheei.
+[Fri Nov 14 18:52:59 2025] <STEAM_0:0:532926116> 𝔼Б𝕐 𝕏𝔸Ч𝔼Й ran command "slay NGT | Miheei"
+[Fri Nov 14 18:53:00 2025] <STEAM_0:1:455818937> NGT | Miheei ran command "respawn 𝔼Б𝕐 𝕏𝔸Ч𝔼Й"
+[Fri Nov 14 18:53:06 2025] <STEAM_0:0:532926116> 𝔼Б𝕐 𝕏𝔸Ч𝔼Й ran command "goto 𝔼Б𝕐 𝕏𝔸Ч𝔼Й"
+[Fri Nov 14 18:53:07 2025] 𝔼Б𝕐 𝕏𝔸Ч𝔼Й has killed 𝔼Б𝕐 𝕏𝔸Ч𝔼Й.
+[Fri Nov 14 18:53:07 2025] <STEAM_0:1:455818937> NGT | Miheei ran command "slay 𝔼Б𝕐 𝕏𝔸Ч𝔼Й"
+[Fri Nov 14 18:53:19 2025] <STEAM_0:1:455818937> NGT | Miheei ran command "jail 𝔼Б𝕐 𝕏𝔸Ч𝔼Й 60"
+[Fri Nov 14 18:53:25 2025] <STEAM_0:0:532926116> 𝔼Б𝕐 𝕏𝔸Ч𝔼Й ran command "unjail 𝔼Б𝕐 𝕏𝔸Ч𝔼Й"
+[Fri Nov 14 18:53:27 2025] <STEAM_0:1:455818937> NGT | Miheei: !respawn ^
+[Fri Nov 14 18:53:27 2025] <STEAM_0:1:455818937> NGT | Miheei ran command "respawn ^"
+[Fri Nov 14 18:53:30 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [486][lvs_wheeldrive_rp_dabrams_m1a1]"
+[Fri Nov 14 18:53:33 2025] <STEAM_0:1:455818937> NGT | Miheei: !tp еб
+[Fri Nov 14 18:53:33 2025] <STEAM_0:1:455818937> NGT | Miheei ran command "goto еб"
+[Fri Nov 14 18:53:38 2025] <STEAM_0:1:455818937> NGT | Miheei ran command "goto 𝔼Б𝕐 𝕏𝔸Ч𝔼Й"
+[Fri Nov 14 18:53:48 2025] <STEAM_0:1:455818937> NGT | Miheei: !unjail @
+[Fri Nov 14 18:53:48 2025] <STEAM_0:1:455818937> NGT | Miheei ran command "unjail @"
+[Fri Nov 14 18:53:52 2025] <STEAM_0:1:455818937> NGT | Miheei ran command "unjail 𝔼Б𝕐 𝕏𝔸Ч𝔼Й"
+[Fri Nov 14 18:53:53 2025] <STEAM_0:0:532926116> 𝔼Б𝕐 𝕏𝔸Ч𝔼Й ran command "goto BloodySmile"
+[Fri Nov 14 18:54:00 2025] <STEAM_0:1:455818937> NGT | Miheei: !tp Bloo
+[Fri Nov 14 18:54:00 2025] <STEAM_0:1:455818937> NGT | Miheei ran command "goto Bloo"
+[Fri Nov 14 18:54:01 2025] <STEAM_0:0:532926116> 𝔼Б𝕐 𝕏𝔸Ч𝔼Й spawned SENT "Entity [516][sw_bmp3m]"
+[Fri Nov 14 18:54:08 2025] <STEAM_0:1:455818937> NGT | Miheei: !ammo ^ 999
+[Fri Nov 14 18:54:08 2025] <STEAM_0:1:455818937> NGT | Miheei ran command "ammo ^ 999"
+[Fri Nov 14 18:55:16 2025] <STEAM_0:1:455818937> NGT | Miheei: !tp Bloo
+[Fri Nov 14 18:55:16 2025] <STEAM_0:1:455818937> NGT | Miheei ran command "goto Bloo"
+[Fri Nov 14 18:55:30 2025] BloodySmile has killed 𝔼Б𝕐 𝕏𝔸Ч𝔼Й.
+[Fri Nov 14 18:55:54 2025] <STEAM_0:0:532926116> 𝔼Б𝕐 𝕏𝔸Ч𝔼Й ran command "goto NGT | Miheei"
+[Fri Nov 14 18:56:02 2025] <STEAM_0:0:532926116> 𝔼Б𝕐 𝕏𝔸Ч𝔼Й spawned SENT "Entity [504][sw_bmp1p]"
+[Fri Nov 14 18:56:18 2025] BloodySmile has killed 𝔼Б𝕐 𝕏𝔸Ч𝔼Й.
+[Fri Nov 14 18:56:25 2025] <STEAM_0:0:532926116> 𝔼Б𝕐 𝕏𝔸Ч𝔼Й ran command "respawn 𝔼Б𝕐 𝕏𝔸Ч𝔼Й"
+[Fri Nov 14 18:56:28 2025] <STEAM_0:0:532926116> 𝔼Б𝕐 𝕏𝔸Ч𝔼Й ran command "goto 𝔼Б𝕐 𝕏𝔸Ч𝔼Й"
+[Fri Nov 14 18:56:32 2025] BloodySmile has killed NGT | Miheei.
+[Fri Nov 14 18:56:32 2025] <STEAM_0:0:532926116> 𝔼Б𝕐 𝕏𝔸Ч𝔼Й ran command "goto NGT | Miheei"
+[Fri Nov 14 18:56:33 2025] BloodySmile has killed 𝔼Б𝕐 𝕏𝔸Ч𝔼Й.
+[Fri Nov 14 18:56:37 2025] <STEAM_0:1:455818937> NGT | Miheei: !respawn ^
+[Fri Nov 14 18:56:37 2025] <STEAM_0:1:455818937> NGT | Miheei ran command "respawn ^"
+[Fri Nov 14 18:56:38 2025] <STEAM_0:1:455818937> NGT | Miheei: !tp Bloo
+[Fri Nov 14 18:56:38 2025] <STEAM_0:1:455818937> NGT | Miheei ran command "goto Bloo"
+[Fri Nov 14 18:56:38 2025] <STEAM_0:0:532926116> 𝔼Б𝕐 𝕏𝔸Ч𝔼Й ran command "respawn 𝔼Б𝕐 𝕏𝔸Ч𝔼Й"
+[Fri Nov 14 18:56:42 2025] <STEAM_0:0:532926116> 𝔼Б𝕐 𝕏𝔸Ч𝔼Й ran command "goto BloodySmile"
+[Fri Nov 14 18:56:54 2025] BloodySmile has killed 𝔼Б𝕐 𝕏𝔸Ч𝔼Й.
+[Fri Nov 14 18:57:02 2025] <STEAM_0:0:532926116> 𝔼Б𝕐 𝕏𝔸Ч𝔼Й ran command "respawn 𝔼Б𝕐 𝕏𝔸Ч𝔼Й"
+[Fri Nov 14 18:57:10 2025] <STEAM_0:0:532926116> 𝔼Б𝕐 𝕏𝔸Ч𝔼Й ran command "hp 𝔼Б𝕐 𝕏𝔸Ч𝔼Й 10000"
+[Fri Nov 14 18:57:14 2025] <STEAM_0:1:455818937> NGT | Miheei: !ammo ^ 999
+[Fri Nov 14 18:57:14 2025] <STEAM_0:1:455818937> NGT | Miheei ran command "ammo ^ 999"
+[Fri Nov 14 18:57:15 2025] <STEAM_0:0:532926116> 𝔼Б𝕐 𝕏𝔸Ч𝔼Й ran command "goto BloodySmile"
+[Fri Nov 14 18:57:22 2025] <STEAM_0:0:532926116> 𝔼Б𝕐 𝕏𝔸Ч𝔼Й ran command "goto BloodySmile"
+[Fri Nov 14 18:57:26 2025] <STEAM_0:0:532926116> 𝔼Б𝕐 𝕏𝔸Ч𝔼Й ran command "goto NGT | Miheei"
+[Fri Nov 14 18:57:47 2025] <STEAM_0:0:532926116> 𝔼Б𝕐 𝕏𝔸Ч𝔼Й spawned SENT "Entity [491][lvs_wheeldrive_rp_dabrams_m1a1]"
+[Fri Nov 14 18:58:12 2025] <STEAM_0:1:455818937> NGT | Miheei ran command "goto 𝔼Б𝕐 𝕏𝔸Ч𝔼Й"
+[Fri Nov 14 18:58:16 2025] <STEAM_0:1:455818937> NGT | Miheei: !respawn ^
+[Fri Nov 14 18:58:16 2025] <STEAM_0:1:455818937> NGT | Miheei ran command "respawn ^"
+[Fri Nov 14 18:58:19 2025] <STEAM_0:1:455818937> NGT | Miheei ran command "goto 𝔼Б𝕐 𝕏𝔸Ч𝔼Й"
+[Fri Nov 14 18:58:22 2025] <STEAM_0:0:532926116> 𝔼Б𝕐 𝕏𝔸Ч𝔼Й spawned SENT "Entity [494][lvs_wheeldrive_rp_dabrams_m1a1]"
+[Fri Nov 14 18:58:25 2025] <STEAM_0:0:532926116> 𝔼Б𝕐 𝕏𝔸Ч𝔼Й spawned SENT "Entity [494][lvs_wheeldrive_rp_dabrams_m1a1]"
+[Fri Nov 14 18:59:01 2025] <STEAM_0:1:455818937> NGT | Miheei: !ammo ^ 999
+[Fri Nov 14 18:59:01 2025] <STEAM_0:1:455818937> NGT | Miheei ran command "ammo ^ 999"
+[Fri Nov 14 18:59:10 2025] 𝔼Б𝕐 𝕏𝔸Ч𝔼Й has killed NGT | Miheei.
+[Fri Nov 14 18:59:16 2025] <STEAM_0:1:455818937> NGT | Miheei: !respawn ^
+[Fri Nov 14 18:59:16 2025] <STEAM_0:1:455818937> NGT | Miheei ran command "respawn ^"
+[Fri Nov 14 18:59:20 2025] <STEAM_0:1:455818937> NGT | Miheei ran command "goto 𝔼Б𝕐 𝕏𝔸Ч𝔼Й"
+[Fri Nov 14 19:00:04 2025] 𝔼Б𝕐 𝕏𝔸Ч𝔼Й has killed NGT | Miheei.
+[Fri Nov 14 19:00:09 2025] <STEAM_0:0:79873507> Fernández: /conquest
+[Fri Nov 14 19:00:24 2025] <STEAM_0:1:455818937> NGT | Miheei: !respawn ^
+[Fri Nov 14 19:00:24 2025] <STEAM_0:1:455818937> NGT | Miheei ran command "respawn ^"
+[Fri Nov 14 19:00:29 2025] <STEAM_0:1:455818937> NGT | Miheei ran command "goto 𝔼Б𝕐 𝕏𝔸Ч𝔼Й"
+[Fri Nov 14 19:00:29 2025] 𝔼Б𝕐 𝕏𝔸Ч𝔼Й has killed NGT | Miheei.
+[Fri Nov 14 19:00:32 2025] <STEAM_0:1:455818937> NGT | Miheei: !respawn ^
+[Fri Nov 14 19:00:32 2025] <STEAM_0:1:455818937> NGT | Miheei ran command "respawn ^"
+[Fri Nov 14 19:00:36 2025] <STEAM_0:1:455818937> NGT | Miheei ran command "goto 𝔼Б𝕐 𝕏𝔸Ч𝔼Й"
+[Fri Nov 14 19:00:36 2025] 𝔼Б𝕐 𝕏𝔸Ч𝔼Й has killed NGT | Miheei.
+[Fri Nov 14 19:00:45 2025] <STEAM_0:1:455818937> NGT | Miheei: !respawn ^
+[Fri Nov 14 19:00:45 2025] <STEAM_0:1:455818937> NGT | Miheei ran command "respawn ^"
+[Fri Nov 14 19:00:50 2025] <STEAM_0:1:455818937> NGT | Miheei: !tp 76561199026117960
+[Fri Nov 14 19:00:50 2025] <STEAM_0:1:455818937> NGT | Miheei ran command "goto 76561199026117960"
+[Fri Nov 14 19:01:00 2025] <STEAM_0:0:79873507> Fernández: /conquest
+[Fri Nov 14 19:01:04 2025] 𝔼Б𝕐 𝕏𝔸Ч𝔼Й has killed NGT | Miheei.
+[Fri Nov 14 19:01:08 2025] <STEAM_0:1:455818937> NGT | Miheei: !respawn ^
+[Fri Nov 14 19:01:08 2025] <STEAM_0:1:455818937> NGT | Miheei ran command "respawn ^"
+[Fri Nov 14 19:01:09 2025] <STEAM_0:1:455818937> NGT | Miheei: !tp 76561199026117960
+[Fri Nov 14 19:01:09 2025] <STEAM_0:1:455818937> NGT | Miheei ran command "goto 76561199026117960"
+[Fri Nov 14 19:01:42 2025] <STEAM_0:0:79873507> Fernández: /conquest
+[Fri Nov 14 19:02:24 2025] <STEAM_0:0:79873507> Fernández: /map
+[Fri Nov 14 19:02:27 2025] <STEAM_0:1:455818937> NGT | Miheei: /map
+[Fri Nov 14 19:02:33 2025] <STEAM_0:0:532926116> 𝔼Б𝕐 𝕏𝔸Ч𝔼Й: /map
+[Fri Nov 14 19:02:56 2025] <STEAM_0:0:79873507> Fernández: !menu
+[Fri Nov 14 19:02:56 2025] <STEAM_0:0:79873507> Fernández ran command "menu"
+[Fri Nov 14 19:02:59 2025] <STEAM_0:0:79873507> Fernández: /conquest
+[Fri Nov 14 19:03:15 2025] <STEAM_0:0:79873507> Fernández: /conquest
+[Fri Nov 14 19:03:45 2025] 𝔼Б𝕐 𝕏𝔸Ч𝔼Й has killed NGT | Miheei.
+[Fri Nov 14 19:03:48 2025] <STEAM_0:1:455818937> NGT | Miheei: !respawn ^
+[Fri Nov 14 19:03:48 2025] <STEAM_0:1:455818937> NGT | Miheei ran command "respawn ^"
+[Fri Nov 14 19:03:50 2025] <STEAM_0:1:455818937> NGT | Miheei: !tp 76561199026117960
+[Fri Nov 14 19:03:50 2025] <STEAM_0:1:455818937> NGT | Miheei ran command "goto 76561199026117960"
+[Fri Nov 14 19:03:56 2025] <STEAM_0:0:79873507> Fernández: /conquest
+[Fri Nov 14 19:03:58 2025] NGT | Miheei has killed 𝔼Б𝕐 𝕏𝔸Ч𝔼Й.
+[Fri Nov 14 19:04:06 2025] <STEAM_0:0:532926116> 𝔼Б𝕐 𝕏𝔸Ч𝔼Й ran command "respawn 𝔼Б𝕐 𝕏𝔸Ч𝔼Й"
+[Fri Nov 14 19:04:07 2025] <STEAM_0:0:79873507> Fernández: /conquest
+[Fri Nov 14 19:04:09 2025] <STEAM_0:0:532926116> 𝔼Б𝕐 𝕏𝔸Ч𝔼Й ran command "goto NGT | Miheei"
+[Fri Nov 14 19:04:13 2025] <STEAM_0:0:79873507> Fernández: /conquest
+[Fri Nov 14 19:04:25 2025] <STEAM_0:1:455818937> NGT | Miheei ran command "send NGT | Miheei"
+[Fri Nov 14 19:04:30 2025] <STEAM_0:1:455818937> NGT | Miheei: !tp 76561199026117960
+[Fri Nov 14 19:04:30 2025] <STEAM_0:1:455818937> NGT | Miheei ran command "goto 76561199026117960"
+[Fri Nov 14 19:04:34 2025] <STEAM_0:0:79873507> Fernández: /conquest
+[Fri Nov 14 19:05:06 2025] <STEAM_0:1:455818937> NGT | Miheei ran command "hp 𝔼Б𝕐 𝕏𝔸Ч𝔼Й 1"
+[Fri Nov 14 19:05:20 2025] <STEAM_0:0:79873507> Fernández: /conquest
+[Fri Nov 14 19:05:33 2025] <STEAM_0:0:532926116> 𝔼Б𝕐 𝕏𝔸Ч𝔼Й ran command "hp 𝔼Б𝕐 𝕏𝔸Ч𝔼Й 1000"
+[Fri Nov 14 19:05:38 2025] NGT | Miheei has killed Fernández.
+[Fri Nov 14 19:06:06 2025] <STEAM_0:0:79873507> Fernández ran command "goto BloodySmile"
+[Fri Nov 14 19:06:11 2025] <STEAM_0:0:79873507> Fernández ran command "goto NGT | Miheei"
+[Fri Nov 14 19:06:15 2025] <STEAM_0:0:79873507> Fernández: /conquest
+[Fri Nov 14 19:06:30 2025] <STEAM_0:1:455818937> NGT | Miheei: /rp оглушил хохлика
+[Fri Nov 14 19:06:57 2025] <STEAM_0:0:79873507> Fernández: /conquest
+[Fri Nov 14 19:06:57 2025] <STEAM_0:1:455818937> NGT | Miheei: @
+[Fri Nov 14 19:07:06 2025] <STEAM_0:1:455818937> NGT | Miheei: !report
+[Fri Nov 14 19:07:06 2025] <STEAM_0:1:455818937> NGT | Miheei ran command "report"
+[Fri Nov 14 19:07:10 2025] <STEAM_0:0:79873507> Fernández: /conquest
+[Fri Nov 14 19:07:21 2025] <STEAM_0:0:79873507> Fernández: /conquest
+[Fri Nov 14 19:07:31 2025] 𝔼Б𝕐 𝕏𝔸Ч𝔼Й has killed NGT | Miheei.
+[Fri Nov 14 19:07:36 2025] <STEAM_0:1:455818937> NGT | Miheei ran command "jail 𝔼Б𝕐 𝕏𝔸Ч𝔼Й 60"
+[Fri Nov 14 19:07:40 2025] <STEAM_0:1:455818937> NGT | Miheei: !respawn ^
+[Fri Nov 14 19:07:40 2025] <STEAM_0:1:455818937> NGT | Miheei ran command "respawn ^"
+[Fri Nov 14 19:07:41 2025] <STEAM_0:0:79873507> Fernández: /conquest
+[Fri Nov 14 19:07:42 2025] <STEAM_0:0:532926116> 𝔼Б𝕐 𝕏𝔸Ч𝔼Й ran command "unjail 𝔼Б𝕐 𝕏𝔸Ч𝔼Й"
+[Fri Nov 14 19:07:44 2025] <STEAM_0:1:455818937> NGT | Miheei: !tp 76561199026117960
+[Fri Nov 14 19:07:44 2025] <STEAM_0:1:455818937> NGT | Miheei ran command "goto 76561199026117960"
+[Fri Nov 14 19:08:05 2025] <STEAM_0:1:455818937> NGT | Miheei: !ammo ^ 999
+[Fri Nov 14 19:08:05 2025] <STEAM_0:1:455818937> NGT | Miheei ran command "ammo ^ 999"
+[Fri Nov 14 19:08:19 2025] <STEAM_0:0:79873507> Fernández: /conquest
+[Fri Nov 14 19:09:24 2025] <STEAM_0:0:79873507> Fernández: /conquest
+[Fri Nov 14 19:09:37 2025] <STEAM_0:0:79873507> Fernández: /conquest
+[Fri Nov 14 19:10:01 2025] <STEAM_0:0:79873507> Fernández: /conquest
+[Fri Nov 14 19:10:34 2025] <STEAM_0:0:79873507> Fernández: /conquest
+[Fri Nov 14 19:11:15 2025] <STEAM_0:0:79873507> Fernández: /conquest
+[Fri Nov 14 19:11:27 2025] <STEAM_0:0:79873507> Fernández: /conquest
+[Fri Nov 14 19:13:20 2025] <STEAM_0:0:79873507> Fernández: /conquest
+[Fri Nov 14 19:13:47 2025] <STEAM_0:0:79873507> Fernández: /conquest
+[Fri Nov 14 19:13:57 2025] <STEAM_0:0:79873507> Fernández: /conquest
+[Fri Nov 14 19:14:01 2025] worldspawn has killed BloodySmile.
+[Fri Nov 14 19:14:11 2025] <STEAM_0:0:79873507> Fernández: /conquest
+[Fri Nov 14 19:14:26 2025] <STEAM_0:0:79873507> Fernández: /conquest
+[Fri Nov 14 19:14:44 2025] Player "𝔼Б𝕐 𝕏𝔸Ч𝔼Й" <STEAM_0:0:532926116> has left the server
+[Fri Nov 14 19:15:06 2025] <STEAM_0:0:79873507> Fernández: /map
+[Fri Nov 14 19:19:42 2025] worldspawn has killed BloodySmile.
+[Fri Nov 14 19:19:53 2025] Player "NGT | Miheei" <STEAM_0:1:455818937> has left the server
+[Fri Nov 14 19:25:03 2025] Player "BloodySmile" <STEAM_0:1:54838838> has left the server
+[Fri Nov 14 19:25:11 2025] Player "Fernández" <STEAM_0:0:79873507> has left the server
