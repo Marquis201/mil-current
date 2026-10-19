@@ -12,8 +12,8 @@ mp.commands = mp.commands or {}
 
 --	Gamemode
 GM.Name = 'MilitaryRP'
-GM.Author = 'Greg'
-GM.Email = 'games_off1337@mail.ru'
+GM.Author = 'Kedr Greg Ozor Fernandez'
+GM.Email = 'mpteam@gmail.com'
 GM.Website = 'sss'
 
 --	Metatables.

@@ -1,7 +1,7 @@
 {
-        "Host": "db3.myarena.ru",
-        "Database": "u41736_military",
-        "Username": "u41736_military",
+        "Host": "Host",
+        "Database": "Database",
+        "Username": "Username",
         "Port": 3306,
-        "Password": "8J3o0I6l9L"
+        "Password": "Password"
 }
