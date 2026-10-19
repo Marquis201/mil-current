@@ -1,0 +1,17 @@
+[Fri Mar  6 09:50:33 2026] Player "basalt" <STEAM_0:1:629522870> is attempting to connect.
+[Fri Mar  6 13:08:14 2026] Player "Baster_51rus" <STEAM_0:0:38313331> is attempting to connect.
+[Fri Mar  6 15:46:33 2026] Player "Дима Адидас" <STEAM_0:1:506932638> is attempting to connect.
+[Fri Mar  6 19:39:18 2026] Player "Позывной Капуста" <STEAM_0:1:28319428> is attempting to connect.
+[Fri Mar  6 20:28:21 2026] Player "Поножа" <STEAM_0:1:412028969> is attempting to connect.
+[Fri Mar  6 20:33:41 2026] Player "egorpavlov256" <STEAM_0:0:390107185> is attempting to connect.
+[Fri Mar  6 20:37:02 2026] Player "Поножа" <STEAM_0:1:412028969> has spawned in the server
+[Fri Mar  6 20:46:06 2026] Player "egorpavlov256" <STEAM_0:0:390107185> has spawned in the server
+[Fri Mar  6 20:50:13 2026] Player "Поножа" <STEAM_0:1:412028969> has left the server
+[Fri Mar  6 20:52:39 2026] Player "egorpavlov256" <STEAM_0:0:390107185> has left the server
+[Fri Mar  6 23:07:24 2026] Player "LOSPEH#magixrust" <STEAM_0:0:956523917> is attempting to connect.
+[Fri Mar  6 23:19:42 2026] Player "OZOR" <STEAM_0:0:85754053> has spawned in the server
+[Fri Mar  6 23:22:50 2026] Player "OZOR" <STEAM_0:0:85754053> has left the server
+[Fri Mar  6 23:27:42 2026] Player "OZOR" <STEAM_0:0:85754053> has spawned in the server
+[Fri Mar  6 23:28:52 2026] <STEAM_0:0:85754053> OZOR: /character
+[Fri Mar  6 23:30:25 2026] Player "OZOR" <STEAM_0:0:85754053> has left the server
+[Fri Mar  6 23:32:15 2026] Player "OZOR" <STEAM_0:0:85754053> has spawned in the server

@@ -1,0 +1,15 @@
+[Mon Jan  5 00:32:41 2026] Player "Камера" <STEAM_0:1:854549082> is attempting to connect.
+[Mon Jan  5 00:44:15 2026] Player "Камера" <STEAM_0:1:854549082> has spawned in the server
+[Mon Jan  5 00:45:07 2026] Player "Камера" <STEAM_0:1:854549082> has left the server
+[Mon Jan  5 02:09:38 2026] Player "iljaborodin777" <STEAM_0:1:947000217> is attempting to connect.
+[Mon Jan  5 02:09:42 2026] Player "о боже чел" <STEAM_0:0:701772044> is attempting to connect.
+[Mon Jan  5 02:24:11 2026] Player "mimimimi" <STEAM_0:0:859589553> is attempting to connect.
+[Mon Jan  5 13:33:34 2026] Player "Igruha" <STEAM_0:0:914720065> is attempting to connect.
+[Mon Jan  5 15:38:39 2026] Player "Kirkenstocks" <STEAM_0:0:245100804> is attempting to connect.
+[Mon Jan  5 15:38:46 2026] Player "Kirkenstocks" <STEAM_0:0:245100804> is attempting to connect.
+[Mon Jan  5 20:37:45 2026] Player "Denji" <STEAM_0:1:750457971> is attempting to connect.
+[Mon Jan  5 21:38:52 2026] Player "Vicent" <STEAM_0:1:513220525> is attempting to connect.
+[Mon Jan  5 22:51:05 2026] Player "Metkiy" <STEAM_0:0:923150053> is attempting to connect.
+[Mon Jan  5 23:01:35 2026] Player "Metkiy" <STEAM_0:0:923150053> has spawned in the server
+[Mon Jan  5 23:05:14 2026] Player "Metkiy" <STEAM_0:0:923150053> has left the server
+[Mon Jan  5 23:50:17 2026] Player "Dobriy" <STEAM_0:1:774974579> is attempting to connect.

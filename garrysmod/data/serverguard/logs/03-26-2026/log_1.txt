@@ -1,0 +1,263 @@
+[Thu Mar 26 10:53:52 2026] Player "david280911" <STEAM_0:1:839860057> is attempting to connect.
+[Thu Mar 26 10:54:22 2026] Player "david280911" <STEAM_0:1:839860057> has spawned in the server
+[Thu Mar 26 11:01:18 2026] <STEAM_0:1:839860057> david280911: /me взял боеприпасы и 2 комплекта брони в свой рюкзак и 3 пистолета глок
+[Thu Mar 26 11:07:21 2026] <STEAM_0:1:839860057> david280911: /me положил все припасы
+[Thu Mar 26 11:07:31 2026] Player "david280911" <STEAM_0:1:839860057> has left the server
+[Thu Mar 26 11:36:55 2026] Player "Летов" <STEAM_0:1:411221606> is attempting to connect.
+[Thu Mar 26 11:37:01 2026] Player "Летов" <STEAM_0:1:411221606> is attempting to connect.
+[Thu Mar 26 11:41:23 2026] Player "Летов" <STEAM_0:1:411221606> has spawned in the server
+[Thu Mar 26 11:48:05 2026] Player "Летов" <STEAM_0:1:411221606> has left the server
+[Thu Mar 26 12:17:41 2026] Player "ＳＵＰＲＥＭＥ ＬＥＧ" <STEAM_0:1:926211186> is attempting to connect.
+[Thu Mar 26 12:40:49 2026] Player "Махорка" <STEAM_0:0:563533126> is attempting to connect.
+[Thu Mar 26 12:42:04 2026] Player "Махорка" <STEAM_0:0:563533126> has spawned in the server
+[Thu Mar 26 13:00:34 2026] Player "Летов" <STEAM_0:1:411221606> is attempting to connect.
+[Thu Mar 26 13:03:52 2026] Player "Летов" <STEAM_0:1:411221606> has spawned in the server
+[Thu Mar 26 13:09:03 2026] <STEAM_0:1:411221606> Летов: /rf товарищь подполковник вы где?
+[Thu Mar 26 13:09:13 2026] <STEAM_0:0:563533126> Махорка: /rf в штабе
+[Thu Mar 26 13:17:42 2026] <STEAM_0:1:411221606> Летов: /me принял упор лежа
+[Thu Mar 26 13:17:54 2026] <STEAM_0:1:411221606> Летов: /me опустился
+[Thu Mar 26 13:18:01 2026] <STEAM_0:1:411221606> Летов: /me поднялся
+[Thu Mar 26 13:18:05 2026] <STEAM_0:1:411221606> Летов: /me опустился
+[Thu Mar 26 13:18:08 2026] <STEAM_0:1:411221606> Летов: /me поднялся
+[Thu Mar 26 13:18:12 2026] <STEAM_0:1:411221606> Летов: /me опустился
+[Thu Mar 26 13:18:16 2026] <STEAM_0:1:411221606> Летов: /me поднялся
+[Thu Mar 26 13:18:33 2026] <STEAM_0:1:411221606> Летов: /me встал в строй
+[Thu Mar 26 13:18:51 2026] <STEAM_0:1:411221606> Летов: /me опустился
+[Thu Mar 26 13:22:32 2026] <STEAM_0:1:411221606> Летов: /me принял упор лежа
+[Thu Mar 26 13:23:06 2026] <STEAM_0:1:411221606> Летов: /me поднялся
+[Thu Mar 26 13:23:14 2026] <STEAM_0:1:411221606> Летов: /me принял упор лежа
+[Thu Mar 26 13:24:26 2026] <STEAM_0:1:411221606> Летов: /me поднялся
+[Thu Mar 26 13:27:06 2026] <STEAM_0:1:411221606> Летов: /me равнясь
+[Thu Mar 26 13:27:34 2026] <STEAM_0:1:411221606> Летов: есть стать на дежерстуво!
+[Thu Mar 26 13:28:14 2026] <STEAM_0:1:411221606> Летов: /rf поклад каждые 10 мин?
+[Thu Mar 26 13:33:05 2026] <STEAM_0:1:411221606> Летов: // я мусор выносит потом приду как вынесу)
+[Thu Mar 26 14:10:08 2026] Player "Летов" <STEAM_0:1:411221606> has left the server
+[Thu Mar 26 14:10:51 2026] Player "smirnaginasofia" <STEAM_0:1:381039182> is attempting to connect.
+[Thu Mar 26 14:16:44 2026] Player "𝗺𝟏𝗿𝗮𝗰𝗹𝗲" <STEAM_0:0:869238922> is attempting to connect.
+[Thu Mar 26 14:21:25 2026] Player "𝗺𝟏𝗿𝗮𝗰𝗹𝗲" <STEAM_0:0:869238922> has spawned in the server
+[Thu Mar 26 14:24:25 2026] Player "76561199226343026" <STEAM_0:0:633038649> is attempting to connect.
+[Thu Mar 26 14:31:56 2026] Player "smirnaginasofia" <STEAM_0:1:381039182> is attempting to connect.
+[Thu Mar 26 14:45:06 2026] Player "marina310824" <STEAM_0:1:902575649> is attempting to connect.
+[Thu Mar 26 14:45:38 2026] Player "marina310824" <STEAM_0:1:902575649> has spawned in the server
+[Thu Mar 26 15:03:49 2026] Player "marina310824" <STEAM_0:1:902575649> has left the server
+[Thu Mar 26 16:03:10 2026] Player "Летов" <STEAM_0:1:411221606> is attempting to connect.
+[Thu Mar 26 16:08:03 2026] Player "Летов" <STEAM_0:1:411221606> has spawned in the server
+[Thu Mar 26 16:14:33 2026] Летов has killed 𝗺𝟏𝗿𝗮𝗰𝗹𝗲.
+[Thu Mar 26 16:20:53 2026] Летов has killed 𝗺𝟏𝗿𝗮𝗰𝗹𝗲.
+[Thu Mar 26 16:20:54 2026] 𝗺𝟏𝗿𝗮𝗰𝗹𝗲 has killed 𝗺𝟏𝗿𝗮𝗰𝗹𝗲.
+[Thu Mar 26 16:23:16 2026] Летов has killed 𝗺𝟏𝗿𝗮𝗰𝗹𝗲.
+[Thu Mar 26 16:24:42 2026] Летов has killed 𝗺𝟏𝗿𝗮𝗰𝗹𝗲.
+[Thu Mar 26 16:28:59 2026] Player "умный" <STEAM_0:0:581431723> is attempting to connect.
+[Thu Mar 26 16:31:46 2026] 𝗺𝟏𝗿𝗮𝗰𝗹𝗲 has killed Летов.
+[Thu Mar 26 16:31:47 2026] Player "Tigry" <STEAM_0:1:397146796> is attempting to connect.
+[Thu Mar 26 16:34:18 2026] Player "умный" <STEAM_0:0:581431723> has spawned in the server
+[Thu Mar 26 16:44:13 2026] Летов has killed 𝗺𝟏𝗿𝗮𝗰𝗹𝗲.
+[Thu Mar 26 16:45:11 2026] Летов has killed 𝗺𝟏𝗿𝗮𝗰𝗹𝗲.
+[Thu Mar 26 16:48:39 2026] Летов has killed 𝗺𝟏𝗿𝗮𝗰𝗹𝗲.
+[Thu Mar 26 16:49:04 2026] Летов has killed 𝗺𝟏𝗿𝗮𝗰𝗹𝗲.
+[Thu Mar 26 16:49:20 2026] Летов has killed 𝗺𝟏𝗿𝗮𝗰𝗹𝗲.
+[Thu Mar 26 16:49:33 2026] Летов has killed 𝗺𝟏𝗿𝗮𝗰𝗹𝗲.
+[Thu Mar 26 16:49:48 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: // да блять
+[Thu Mar 26 16:51:12 2026] <STEAM_0:1:411221606> Летов: /rf начали!
+[Thu Mar 26 16:51:48 2026] Летов has killed 𝗺𝟏𝗿𝗮𝗰𝗹𝗲.
+[Thu Mar 26 16:52:35 2026] Летов has killed 𝗺𝟏𝗿𝗮𝗰𝗹𝗲.
+[Thu Mar 26 17:01:20 2026] Player "Dent1st" <STEAM_0:0:899892561> is attempting to connect.
+[Thu Mar 26 17:02:33 2026] Летов has killed умный.
+[Thu Mar 26 17:05:16 2026] <STEAM_0:1:411221606> Летов: /rf начали!
+[Thu Mar 26 17:07:56 2026] Player "умный" <STEAM_0:0:581431723> has left the server
+[Thu Mar 26 17:07:57 2026] Player "умный" <STEAM_0:0:581431723> is attempting to connect.
+[Thu Mar 26 17:08:01 2026] Player "умный" <STEAM_0:0:581431723> is attempting to connect.
+[Thu Mar 26 17:08:23 2026] Player "умный" <STEAM_0:0:581431723> has spawned in the server
+[Thu Mar 26 17:10:09 2026] <STEAM_0:1:411221606> Летов: /rf начали!
+[Thu Mar 26 17:10:59 2026] Летов has killed умный.
+[Thu Mar 26 17:11:09 2026] <STEAM_0:0:581431723> умный: d
+[Thu Mar 26 17:11:11 2026] <STEAM_0:1:411221606> Летов: /rf штурм будет?
+[Thu Mar 26 17:11:20 2026] <STEAM_0:0:581431723> умный: я умер
+[Thu Mar 26 17:14:05 2026] <STEAM_0:1:411221606> Летов: /rf начали!
+[Thu Mar 26 17:14:40 2026] Летов has killed умный.
+[Thu Mar 26 17:14:43 2026] Player "Dent1st" <STEAM_0:0:899892561> has spawned in the server
+[Thu Mar 26 17:15:04 2026] Летов has killed умный.
+[Thu Mar 26 17:16:51 2026] Player "умный" <STEAM_0:0:581431723> has left the server
+[Thu Mar 26 17:16:56 2026] Player "credo[sad" <STEAM_0:1:415021283> is attempting to connect.
+[Thu Mar 26 17:18:06 2026] Player "Dent1st" <STEAM_0:0:899892561> has left the server
+[Thu Mar 26 17:18:08 2026] Player "Dent1st" <STEAM_0:0:899892561> is attempting to connect.
+[Thu Mar 26 17:18:29 2026] Player "Dent1st" <STEAM_0:0:899892561> has spawned in the server
+[Thu Mar 26 17:33:54 2026] Player "𝗺𝟏𝗿𝗮𝗰𝗹𝗲" <STEAM_0:0:869238922> has left the server
+[Thu Mar 26 17:38:34 2026] Летов has killed Dent1st.
+[Thu Mar 26 17:38:57 2026] Летов has killed Dent1st.
+[Thu Mar 26 17:42:10 2026] Dent1st has killed Летов.
+[Thu Mar 26 17:42:20 2026] <STEAM_0:1:411221606> Летов: // перезайди
+[Thu Mar 26 17:42:35 2026] Player "Dent1st" <STEAM_0:0:899892561> has left the server
+[Thu Mar 26 17:42:35 2026] <STEAM_0:1:411221606> Летов: // перезайди
+[Thu Mar 26 17:42:36 2026] <STEAM_0:1:411221606> Летов: // перезайди
+[Thu Mar 26 17:42:37 2026] Player "Dent1st" <STEAM_0:0:899892561> is attempting to connect.
+[Thu Mar 26 17:43:01 2026] Player "Dent1st" <STEAM_0:0:899892561> has spawned in the server
+[Thu Mar 26 17:45:50 2026] Dent1st has killed Махорка.
+[Thu Mar 26 17:47:25 2026] Player "Летов" <STEAM_0:1:411221606> is attempting to connect.
+[Thu Mar 26 17:47:29 2026] Player "Летов" <STEAM_0:1:411221606> is attempting to connect.
+[Thu Mar 26 17:47:33 2026] Player "Летов" <STEAM_0:1:411221606> is attempting to connect.
+[Thu Mar 26 17:47:39 2026] Player "Летов" <STEAM_0:1:411221606> is attempting to connect.
+[Thu Mar 26 17:47:40 2026] Player "Летов" <STEAM_0:1:411221606> has left the server
+[Thu Mar 26 17:47:47 2026] Player "Летов" <STEAM_0:1:411221606> is attempting to connect.
+[Thu Mar 26 17:51:28 2026] Player "Летов" <STEAM_0:1:411221606> has spawned in the server
+[Thu Mar 26 17:51:51 2026] <STEAM_0:1:411221606> Летов: // бля у меня кикнуло пизда
+[Thu Mar 26 17:56:53 2026] <STEAM_0:0:899892561> Dent1st: га
+[Thu Mar 26 18:00:17 2026] Летов has killed Dent1st.
+[Thu Mar 26 18:00:17 2026] Dent1st has killed Dent1st.
+[Thu Mar 26 18:02:04 2026] Dent1st has killed Летов.
+[Thu Mar 26 18:02:23 2026] Летов has killed Dent1st.
+[Thu Mar 26 18:02:53 2026] Летов has killed Dent1st.
+[Thu Mar 26 18:03:36 2026] Летов has killed Dent1st.
+[Thu Mar 26 18:04:27 2026] Player "новеньки" <STEAM_0:1:196569949> is attempting to connect.
+[Thu Mar 26 18:07:48 2026] Летов has killed Dent1st.
+[Thu Mar 26 18:08:16 2026] Player "новеньки" <STEAM_0:1:196569949> has spawned in the server
+[Thu Mar 26 18:08:33 2026] Летов has killed Dent1st.
+[Thu Mar 26 18:08:41 2026] Летов has killed Dent1st.
+[Thu Mar 26 18:12:17 2026] <STEAM_0:1:411221606> Летов: // хай натовец
+[Thu Mar 26 18:12:44 2026] <STEAM_0:1:411221606> Летов: // приешай к нам
+[Thu Mar 26 18:13:44 2026] <STEAM_0:1:196569949> новеньки: // пакеда
+[Thu Mar 26 18:13:46 2026] Player "новеньки" <STEAM_0:1:196569949> has left the server
+[Thu Mar 26 18:15:51 2026] Летов has killed Dent1st.
+[Thu Mar 26 18:19:12 2026] <STEAM_0:0:563533126> Махорка: // Кто меня убил суки
+[Thu Mar 26 18:19:27 2026] <STEAM_0:1:411221606> Летов: // котик наш ты так славно лежал
+[Thu Mar 26 18:19:37 2026] <STEAM_0:0:563533126> Махорка: // Понижен нахуй
+[Thu Mar 26 18:19:42 2026] <STEAM_0:0:899892561> Dent1st: /ooc отсыпался
+[Thu Mar 26 18:19:47 2026] <STEAM_0:1:411221606> Летов: // так это не я убил даже
+[Thu Mar 26 18:20:00 2026] <STEAM_0:0:563533126> Махорка: // пока не найдешь кто убил - понижен
+[Thu Mar 26 18:20:19 2026] <STEAM_0:0:563533126> Махорка: // в дс мне отпишешь яща занят
+[Thu Mar 26 18:20:21 2026] <STEAM_0:1:411221606> Летов: // нашел
+[Thu Mar 26 18:20:53 2026] <STEAM_0:1:411221606> Летов: /l львенок лежал так мило)))
+[Thu Mar 26 18:24:03 2026] Летов has killed Dent1st.
+[Thu Mar 26 18:24:26 2026] <STEAM_0:0:563533126> Махорка: //  Белов
+[Thu Mar 26 18:24:36 2026] <STEAM_0:0:899892561> Dent1st: /OOC таб посмотри
+[Thu Mar 26 18:24:42 2026] <STEAM_0:0:899892561> Dent1st: /ooc таб посмотри
+[Thu Mar 26 18:24:48 2026] <STEAM_0:0:563533126> Махорка: // обьяснительную в дс пишешь, а иначе в гражданку уйдешь
+[Thu Mar 26 18:24:52 2026] <STEAM_0:0:899892561> Dent1st: /ooc у меня 1 убийство у твоего еффрейтора 1 смерть
+[Thu Mar 26 18:24:58 2026] <STEAM_0:0:899892561> Dent1st: /ooc я тебя не трогал
+[Thu Mar 26 18:25:07 2026] <STEAM_0:1:411221606> Летов: '// окак
+[Thu Mar 26 18:25:11 2026] <STEAM_0:1:411221606> Летов: // откат
+[Thu Mar 26 18:25:12 2026] <STEAM_0:0:899892561> Dent1st: /ooc и эту инфформацию мне кажется легче говорить в РП формате нежали через ООС
+[Thu Mar 26 18:25:14 2026] <STEAM_0:1:411221606> Летов: // окак
+[Thu Mar 26 18:25:17 2026] <STEAM_0:0:563533126> Махорка: // анзур если это ты, то пизда
+[Thu Mar 26 18:25:30 2026] <STEAM_0:0:563533126> Махорка: в дискорд
+[Thu Mar 26 18:25:33 2026] <STEAM_0:0:563533126> Махорка: обьяснение
+[Thu Mar 26 18:25:38 2026] <STEAM_0:0:899892561> Dent1st: /ooc оос это же нон рп чатв
+[Thu Mar 26 18:25:39 2026] Player "niki_dr" <STEAM_0:1:57467412> is attempting to connect.
+[Thu Mar 26 18:27:16 2026] <STEAM_0:0:563533126> Махорка: // да
+[Thu Mar 26 18:27:27 2026] <STEAM_0:1:411221606> Летов: // что да?
+[Thu Mar 26 18:27:36 2026] <STEAM_0:0:899892561> Dent1st: /ooc а зачем тогда рп процесс переводить через нон рп чат?
+[Thu Mar 26 18:27:41 2026] <STEAM_0:0:899892561> Dent1st: /ooc доклады же часть РП
+[Thu Mar 26 18:28:17 2026] <STEAM_0:0:899892561> Dent1st: /ooc а если я в отчете укажу что по приказу а приказ был в ООС меня могут потом набутылить за клевету в отчете
+[Thu Mar 26 18:39:06 2026] <STEAM_0:0:563533126> Махорка: /rf Что хотели?
+[Thu Mar 26 18:39:35 2026] <STEAM_0:0:899892561> Dent1st: /r Никак нет товарищ подполковник
+[Thu Mar 26 18:39:48 2026] <STEAM_0:1:411221606> Летов: / /rf
+[Thu Mar 26 18:39:56 2026] <STEAM_0:0:899892561> Dent1st: /rf Никак нет товарищ подполковник
+[Thu Mar 26 18:40:07 2026] <STEAM_0:0:563533126> Махорка: /rf Анзуров ко мне!
+[Thu Mar 26 18:40:24 2026] <STEAM_0:1:411221606> Летов: /rf хех а мы на заправке
+[Thu Mar 26 18:40:58 2026] <STEAM_0:0:563533126> Махорка: /rf Что значит ХЕХ? - я сказало кабаном в штаб!
+[Thu Mar 26 18:41:33 2026] <STEAM_0:1:411221606> Летов: /rf никак нет товарищь подполковник лимонадов
+[Thu Mar 26 18:42:01 2026] <STEAM_0:0:563533126> Махорка: /rf ты ниче не путаешь?
+[Thu Mar 26 18:42:24 2026] <STEAM_0:1:411221606> Летов: /rf можно узнать товарищь подполковник
+[Thu Mar 26 18:42:31 2026] <STEAM_0:0:563533126> Махорка: /rf бегом
+[Thu Mar 26 18:43:59 2026] <STEAM_0:1:411221606> Летов: товарищь подполковник Ефрейтор Анзуров прибыл по вашему указанию!
+[Thu Mar 26 18:45:05 2026] <STEAM_0:1:411221606> Летов: /l он уже в оос написал
+[Thu Mar 26 18:45:15 2026] Player "Boboher123" <STEAM_0:0:208481474> is attempting to connect.
+[Thu Mar 26 18:45:37 2026] <STEAM_0:1:411221606> Летов: /l это отрыжка была?
+[Thu Mar 26 18:45:43 2026] <STEAM_0:1:411221606> Летов: /l это отрыжка была?
+[Thu Mar 26 18:46:53 2026] <STEAM_0:1:411221606> Летов: /l БЛЯЯЯ АХАХАХ
+[Thu Mar 26 18:47:38 2026] <STEAM_0:1:411221606> Летов: /l СУКААА МНЕК ПИЗДА
+[Thu Mar 26 18:49:32 2026] <STEAM_0:1:411221606> Летов: /l АЗА-ХАХАХ
+[Thu Mar 26 18:51:02 2026] <STEAM_0:0:899892561> Dent1st: /looc поддержал воздух, не слышно тебя
+[Thu Mar 26 18:56:35 2026] Player "Boboher123" <STEAM_0:0:208481474> has spawned in the server
+[Thu Mar 26 19:00:38 2026] Player "Boboher123" <STEAM_0:0:208481474> has left the server
+[Thu Mar 26 19:01:45 2026] <STEAM_0:0:899892561> Dent1st: /looc ноги не соотвествуют
+[Thu Mar 26 19:02:43 2026] <STEAM_0:0:899892561> Dent1st: /looc не позваляет игра
+[Thu Mar 26 19:07:04 2026] <STEAM_0:0:563533126> Махорка: погоди
+[Thu Mar 26 19:08:20 2026] Player "lesnaudyr" <STEAM_0:0:774162732> is attempting to connect.
+[Thu Mar 26 19:08:26 2026] Player "Discar" <STEAM_0:0:650470378> is attempting to connect.
+[Thu Mar 26 19:09:12 2026] Player "Discar" <STEAM_0:0:650470378> has spawned in the server
+[Thu Mar 26 19:11:03 2026] <STEAM_0:1:411221606> Летов: /l щя я окно закрою
+[Thu Mar 26 19:13:21 2026] <STEAM_0:0:650470378> Discar: /ooc Я если что в АФК стою
+[Thu Mar 26 19:21:07 2026] <STEAM_0:0:650470378> Discar: /looc У вас так весело
+[Thu Mar 26 19:21:53 2026] <STEAM_0:1:411221606> Летов: /l боди блок
+[Thu Mar 26 19:22:06 2026] <STEAM_0:0:650470378> Discar: /looc Эх когда грэг давал роль сделал ограничение на доебывание ССО
+[Thu Mar 26 19:22:22 2026] <STEAM_0:0:650470378> Discar: /ooc  То бы я шумел как мог
+[Thu Mar 26 19:22:45 2026] <STEAM_0:1:411221606> Летов: // ты бы даже не пукнул рядом с под полковником
+[Thu Mar 26 19:22:57 2026] <STEAM_0:1:411221606> Летов: // а мы сюрприз сделали
+[Thu Mar 26 19:23:20 2026] <STEAM_0:0:650470378> Discar: /looc Понтуешся?
+[Thu Mar 26 19:24:04 2026] Player "lesnaudyr" <STEAM_0:0:774162732> has spawned in the server
+[Thu Mar 26 19:24:49 2026] <STEAM_0:0:650470378> Discar: /looc Безпорядки на части, друг друга все убивают
+[Thu Mar 26 19:24:52 2026] Dent1st has killed Dent1st.
+[Thu Mar 26 19:24:52 2026] Dent1st has killed Dent1st.
+[Thu Mar 26 19:26:05 2026] Player "lesnaudyr" <STEAM_0:0:774162732> has left the server
+[Thu Mar 26 19:26:21 2026] <STEAM_0:0:650470378> Discar: /looc У нас призывник, Лимонадов дуй в штаб
+[Thu Mar 26 19:26:31 2026] <STEAM_0:0:650470378> Discar: /looc Пропал
+[Thu Mar 26 19:26:37 2026] <STEAM_0:1:411221606> Летов: // НУ НЕХУЯТЫ МОЛОЖЕС
+[Thu Mar 26 19:27:37 2026] Летов has killed Dent1st.
+[Thu Mar 26 19:29:01 2026] <STEAM_0:0:650470378> Discar: /looc анзур, отстань от бедного
+[Thu Mar 26 19:29:05 2026] Player "minoga1982" <STEAM_0:0:852556530> is attempting to connect.
+[Thu Mar 26 19:30:10 2026] Dent1st has killed Махорка.
+[Thu Mar 26 19:30:10 2026] Dent1st has killed Discar.
+[Thu Mar 26 19:30:16 2026] Player "Летов" <STEAM_0:1:411221606> has left the server
+[Thu Mar 26 19:30:16 2026] Player "Летов" <STEAM_0:1:411221606> is attempting to connect.
+[Thu Mar 26 19:30:53 2026] <STEAM_0:0:650470378> Discar: /looc Я просыпаюсь
+[Thu Mar 26 19:33:27 2026] Player "Discar" <STEAM_0:0:650470378> has left the server
+[Thu Mar 26 19:33:31 2026] Player "Discar" <STEAM_0:0:650470378> is attempting to connect.
+[Thu Mar 26 19:34:06 2026] Player "Discar" <STEAM_0:0:650470378> has spawned in the server
+[Thu Mar 26 19:34:51 2026] Player "Летов" <STEAM_0:1:411221606> has spawned in the server
+[Thu Mar 26 19:35:08 2026] <STEAM_0:0:899892561> Dent1st: /ooc а че подполковник снова мертвый
+[Thu Mar 26 19:35:34 2026] Dent1st has killed Летов.
+[Thu Mar 26 19:36:14 2026] Player "minoga1982" <STEAM_0:0:852556530> has spawned in the server
+[Thu Mar 26 19:37:03 2026] Player "minoga1982" <STEAM_0:0:852556530> has left the server
+[Thu Mar 26 19:38:32 2026] <STEAM_0:1:411221606> Летов: помогите мне
+[Thu Mar 26 19:39:31 2026] Player "Dent1st" <STEAM_0:0:899892561> has left the server
+[Thu Mar 26 19:39:36 2026] <STEAM_0:1:411221606> Летов: // ДА УБЕЙТЕ МЕНЯ СУКИ
+[Thu Mar 26 19:40:09 2026] <STEAM_0:1:411221606> Летов: // ДА УБЕЙТЕ МЕНя
+[Thu Mar 26 19:40:10 2026] <STEAM_0:1:411221606> Летов: // ДА УБЕЙТЕ МЕНЯ СУКИ
+[Thu Mar 26 19:40:11 2026] <STEAM_0:1:411221606> Летов: // ДА УБЕЙТЕ МЕНЯ СУКИ
+[Thu Mar 26 19:40:13 2026] <STEAM_0:1:411221606> Летов: // ДА УБЕЙТЕ МЕНя
+[Thu Mar 26 19:40:14 2026] <STEAM_0:1:411221606> Летов: // ДА УБЕЙТЕ МЕНя
+[Thu Mar 26 19:40:54 2026] Discar has killed Летов.
+[Thu Mar 26 19:43:06 2026] <STEAM_0:1:411221606> Летов: /rf а что мне делать??
+[Thu Mar 26 19:43:18 2026] Летов has killed Discar.
+[Thu Mar 26 19:43:56 2026] Летов has killed Discar.
+[Thu Mar 26 19:43:56 2026] Летов has killed Летов.
+[Thu Mar 26 19:43:57 2026] Летов has killed Летов.
+[Thu Mar 26 19:43:57 2026] <STEAM_0:0:650470378> Discar: /ooc Услышал тебя родной
+[Thu Mar 26 19:44:01 2026] Player "Летов" <STEAM_0:1:411221606> has left the server
+[Thu Mar 26 19:44:04 2026] Player "Летов" <STEAM_0:1:411221606> is attempting to connect.
+[Thu Mar 26 19:44:24 2026] <STEAM_0:0:650470378> Discar: /ooc Спавн килл у тя)
+[Thu Mar 26 19:46:03 2026] Player "Discar" <STEAM_0:0:650470378> has left the server
+[Thu Mar 26 19:48:29 2026] Player "Махорка" <STEAM_0:0:563533126> has left the server
+[Thu Mar 26 20:01:28 2026] Player "Летов" <STEAM_0:1:411221606> is attempting to connect.
+[Thu Mar 26 20:02:21 2026] Player "gREG4IK" <STEAM_0:1:455594560> is attempting to connect.
+[Thu Mar 26 20:03:57 2026] Player "gREG4IK" <STEAM_0:1:455594560> has spawned in the server
+[Thu Mar 26 20:04:49 2026] Player "Летов" <STEAM_0:1:411221606> has spawned in the server
+[Thu Mar 26 20:05:54 2026] <STEAM_0:1:411221606> Летов: // ГРЭГ
+[Thu Mar 26 20:06:08 2026] <STEAM_0:1:455594560> gREG4IK ran command "goto Анзуров"
+[Thu Mar 26 20:06:12 2026] <STEAM_0:1:411221606> Летов: // ДАЙ ПОЖАЛУЙСТА ССО СПЕЦНАЗОВЦА И ЕФР
+[Thu Mar 26 20:06:12 2026] Player "Discar" <STEAM_0:0:650470378> is attempting to connect.
+[Thu Mar 26 20:06:57 2026] Player "Discar" <STEAM_0:0:650470378> has spawned in the server
+[Thu Mar 26 20:07:38 2026] <STEAM_0:0:650470378> Discar: /ooc  привет грэгчик
+[Thu Mar 26 20:08:58 2026] <STEAM_0:0:650470378> Discar: /ooc Грэг я остаюсь в ФСБ или в 68?
+[Thu Mar 26 20:09:28 2026] Летов has killed Discar.
+[Thu Mar 26 20:10:08 2026] Discar has killed Летов.
+[Thu Mar 26 20:10:31 2026] <STEAM_0:1:411221606> Летов: // даже крысы так не поступат
+[Thu Mar 26 20:10:58 2026] Летов has killed Discar.
+[Thu Mar 26 20:11:41 2026] Летов has killed Discar.
+[Thu Mar 26 20:11:57 2026] Летов has killed Discar.
+[Thu Mar 26 20:13:25 2026] Player "Летов" <STEAM_0:1:411221606> has left the server
+[Thu Mar 26 20:20:59 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [662][sw_laser_pointer_v3]"
+[Thu Mar 26 20:21:01 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [680][sw_laser_pointer_v3]"
+[Thu Mar 26 20:35:12 2026] Player "OZOR" <STEAM_0:0:85754053> has spawned in the server
+[Thu Mar 26 20:36:11 2026] <STEAM_0:0:85754053> OZOR ran command "goto Грэг"
+[Thu Mar 26 20:38:59 2026] Player "OZOR" <STEAM_0:0:85754053> has left the server
+[Thu Mar 26 21:01:39 2026] Player "gREG4IK" <STEAM_0:1:455594560> has left the server
+[Thu Mar 26 21:03:38 2026] Player "Discar" <STEAM_0:0:650470378> has left the server
+[Thu Mar 26 21:17:05 2026] Player "gREG4IK" <STEAM_0:1:455594560> is attempting to connect.
+[Thu Mar 26 21:20:53 2026] Player "gREG4IK" <STEAM_0:1:455594560> is attempting to connect.
+[Thu Mar 26 21:22:52 2026] Player "gREG4IK" <STEAM_0:1:455594560> is attempting to connect.
+[Thu Mar 26 21:27:46 2026] Player "gREG4IK" <STEAM_0:1:455594560> is attempting to connect.
+[Thu Mar 26 21:28:36 2026] Player "gREG4IK" <STEAM_0:1:455594560> has spawned in the server
+[Thu Mar 26 21:33:51 2026] Player "fenya" <STEAM_0:1:389600235> is attempting to connect.
+[Thu Mar 26 21:50:36 2026] Player "gREG4IK" <STEAM_0:1:455594560> has left the server

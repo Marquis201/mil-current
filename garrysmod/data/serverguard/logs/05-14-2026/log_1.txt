@@ -1,0 +1,22 @@
+[Thu May 14 09:40:12 2026] Player "feddy" <STEAM_0:1:962248849> is attempting to connect.
+[Thu May 14 12:20:32 2026] Player "name" <STEAM_0:1:44594049> is attempting to connect.
+[Thu May 14 16:08:33 2026] Player "kishka_araba" <STEAM_0:0:845296178> is attempting to connect.
+[Thu May 14 18:27:49 2026] Player "NESTER" <STEAM_0:0:395043816> is attempting to connect.
+[Thu May 14 20:03:58 2026] Player "АДМИН" <STEAM_0:0:566634820> is attempting to connect.
+[Thu May 14 20:25:58 2026] Player "АДМИН" <STEAM_0:0:566634820> has spawned in the server
+[Thu May 14 20:26:26 2026] Player "АДМИН" <STEAM_0:0:566634820> has left the server
+[Thu May 14 20:33:49 2026] Player "BIRDIE" <STEAM_0:0:81381324> is attempting to connect.
+[Thu May 14 20:49:46 2026] Player "BIRDIE" <STEAM_0:0:81381324> has spawned in the server
+[Thu May 14 20:52:26 2026] Player "BIRDIE" <STEAM_0:0:81381324> has left the server
+[Thu May 14 20:52:49 2026] Player "Tuesday6" <STEAM_0:1:779473008> is attempting to connect.
+[Thu May 14 20:56:18 2026] Player "kzakksteam.ru" <STEAM_0:1:388948225> is attempting to connect.
+[Thu May 14 20:56:23 2026] Player "kzakksteam.ru" <STEAM_0:1:388948225> is attempting to connect.
+[Thu May 14 21:11:03 2026] Player "TYURBALE" <STEAM_0:1:223548399> is attempting to connect.
+[Thu May 14 21:11:30 2026] Player "TYURBALE" <STEAM_0:1:223548399> has spawned in the server
+[Thu May 14 21:11:41 2026] Player "kzakksteam.ru" <STEAM_0:1:388948225> has spawned in the server
+[Thu May 14 21:11:49 2026] Player "TYURBALE" <STEAM_0:1:223548399> has left the server
+[Thu May 14 21:15:42 2026] Player "kzakksteam.ru" <STEAM_0:1:388948225> has left the server
+[Thu May 14 21:15:43 2026] Player "Aleksik" <STEAM_0:1:159692687> is attempting to connect.
+[Thu May 14 22:49:00 2026] Player "TYURBALE" <STEAM_0:1:223548399> is attempting to connect.
+[Thu May 14 22:49:21 2026] Player "TYURBALE" <STEAM_0:1:223548399> has spawned in the server
+[Thu May 14 22:49:35 2026] Player "TYURBALE" <STEAM_0:1:223548399> has left the server

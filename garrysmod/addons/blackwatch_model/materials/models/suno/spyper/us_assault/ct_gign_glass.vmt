@@ -1,0 +1,13 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\suno\spyper\us_assault\ct_gign_glass"
+
+
+// Specularity
+	"$envmap" 			"env_cubemap"
+	"$bumpmap" "models\suno\spyper\us_assault\ct_gign_glass_spec"
+
+// Transparency
+	"$translucent" 1
+	"$nocull" 1
+}

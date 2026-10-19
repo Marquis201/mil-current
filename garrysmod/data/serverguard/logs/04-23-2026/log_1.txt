@@ -1,0 +1,232 @@
+[Thu Apr 23 00:40:38 2026] Player "Beep" <STEAM_0:0:570454016> is attempting to connect.
+[Thu Apr 23 00:42:20 2026] Player "impotent" <STEAM_0:1:425612974> is attempting to connect.
+[Thu Apr 23 00:42:54 2026] Player "Beep" <STEAM_0:0:570454016> has spawned in the server
+[Thu Apr 23 00:45:58 2026] Player "impotent" <STEAM_0:1:425612974> has spawned in the server
+[Thu Apr 23 00:51:25 2026] <STEAM_0:1:425612974> impotent ran command "model Mont models/motoess/sas/sas-2.mdl"
+[Thu Apr 23 00:51:38 2026] <STEAM_0:1:425612974> impotent spawned SENT "Entity [721][bodygroup]"
+[Thu Apr 23 00:51:44 2026] <STEAM_0:0:570454016> Beep spawned SENT "Entity [725][bodygroup]"
+[Thu Apr 23 00:51:45 2026] <STEAM_0:0:570454016> Beep spawned SENT "Entity [737][bodygroup_admin]"
+[Thu Apr 23 00:51:49 2026] <STEAM_0:1:425612974> impotent spawned SENT "Entity [739][bodygroup_admin]"
+[Thu Apr 23 00:52:28 2026] <STEAM_0:1:425612974> impotent ran command "model Mont models/motoess/sas/sas-1.mdl"
+[Thu Apr 23 01:34:30 2026] <STEAM_0:1:425612974> impotent spawned SENT "Entity [837][item_healthkit]"
+[Thu Apr 23 01:34:30 2026] <STEAM_0:1:425612974> impotent spawned SENT "Entity [838][item_healthkit]"
+[Thu Apr 23 01:34:30 2026] <STEAM_0:1:425612974> impotent spawned SENT "Entity [839][item_healthkit]"
+[Thu Apr 23 01:34:30 2026] <STEAM_0:1:425612974> impotent spawned SENT "Entity [840][item_healthkit]"
+[Thu Apr 23 01:34:30 2026] <STEAM_0:1:425612974> impotent spawned SENT "Entity [841][item_healthkit]"
+[Thu Apr 23 01:36:05 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [750][npc_vj_re5_em80b]"
+[Thu Apr 23 01:36:20 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [750][npc_vj_re5_em81]"
+[Thu Apr 23 01:36:23 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [750][npc_vj_re5_em81_boss]"
+[Thu Apr 23 01:36:24 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [751][npc_vj_re5_em80]"
+[Thu Apr 23 01:36:26 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [750][npc_vj_re5_em84]"
+[Thu Apr 23 01:36:34 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [750][npc_vj_re5_em84]"
+[Thu Apr 23 01:36:35 2026] <STEAM_0:1:425612974> impotent: !
+[Thu Apr 23 01:36:49 2026] <STEAM_0:0:570454016> Beep ran command "npctarget Keating"
+[Thu Apr 23 01:36:51 2026] <STEAM_0:1:425612974> impotent ran command "model mont models/Combine_Strider.mdl"
+[Thu Apr 23 01:36:59 2026] npc_vj_re5_em84 has killed impotent.
+[Thu Apr 23 01:37:11 2026] <STEAM_0:1:425612974> impotent ran command "respawn Montgomery"
+[Thu Apr 23 01:37:22 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [747][npc_vj_re5_em82a]"
+[Thu Apr 23 01:38:04 2026] <STEAM_0:1:425612974> impotent spawned SENT "Entity [625][sw_bomb_fab9000m54_v3]"
+[Thu Apr 23 01:38:05 2026] <STEAM_0:1:425612974> impotent spawned SENT "Entity [755][sw_bomb_fab9000m54_v3]"
+[Thu Apr 23 01:38:14 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [625][npc_vj_re5_em81]"
+[Thu Apr 23 01:38:29 2026] <STEAM_0:0:570454016> Beep spawned SENT "Entity [625][sw_airdrop_large_v3]"
+[Thu Apr 23 01:38:51 2026] <STEAM_0:0:570454016> Beep spawned SENT "Entity [625][sw_airdrop_large_v3]"
+[Thu Apr 23 01:39:01 2026] <STEAM_0:0:570454016> Beep spawned SENT "Entity [625][sw_airdrop_large_v3]"
+[Thu Apr 23 01:39:38 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [625][npc_vj_re5_em81]"
+[Thu Apr 23 01:39:44 2026] npc_vj_re5_em81 has killed impotent.
+[Thu Apr 23 01:39:48 2026] <STEAM_0:1:425612974> impotent ran command "respawn Montgomery"
+[Thu Apr 23 01:40:39 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [625][npc_vj_re5_em81]"
+[Thu Apr 23 01:40:42 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [742][npc_vj_re5_em81_boss]"
+[Thu Apr 23 01:40:44 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [747][npc_vj_re5_em80]"
+[Thu Apr 23 01:40:46 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [750][npc_vj_re5_em80b]"
+[Thu Apr 23 01:40:48 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [751][npc_vj_re5_em82a]"
+[Thu Apr 23 01:41:27 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [752][npc_vj_re5_em84]"
+[Thu Apr 23 01:41:46 2026] <STEAM_0:1:425612974> impotent spawned SENT "Entity [753][sw_bomb_fab9000m54_v3]"
+[Thu Apr 23 01:41:46 2026] <STEAM_0:1:425612974> impotent spawned SENT "Entity [755][sw_bomb_fab9000m54_v3]"
+[Thu Apr 23 01:41:46 2026] <STEAM_0:1:425612974> impotent spawned SENT "Entity [756][sw_bomb_fab9000m54_v3]"
+[Thu Apr 23 01:41:46 2026] <STEAM_0:1:425612974> impotent spawned SENT "Entity [757][sw_bomb_fab9000m54_v3]"
+[Thu Apr 23 01:41:46 2026] <STEAM_0:1:425612974> impotent spawned SENT "Entity [760][sw_bomb_fab9000m54_v3]"
+[Thu Apr 23 01:41:47 2026] <STEAM_0:1:425612974> impotent spawned SENT "Entity [825][sw_bomb_fab9000m54_v3]"
+[Thu Apr 23 01:41:56 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [625][npc_vj_re5_em81_boss]"
+[Thu Apr 23 01:42:39 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [625][npc_vj_re5_em81_boss]"
+[Thu Apr 23 01:44:04 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [742][npc_citizen]"
+[Thu Apr 23 01:44:06 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [752][npc_combine_s]"
+[Thu Apr 23 01:44:28 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [742][npc_vj_re5_em81_boss]"
+[Thu Apr 23 01:45:06 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Thu Apr 23 01:45:06 2026] <STEAM_0:0:570454016> Beep spawned SENT "Entity [742][sw_airdrop_large_v3]"
+[Thu Apr 23 01:45:08 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Thu Apr 23 01:45:08 2026] <STEAM_0:0:570454016> Beep spawned SENT "Entity [747][sw_airdrop_large_v3]"
+[Thu Apr 23 01:48:00 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [725][npc_vj_re5_em81_boss]"
+[Thu Apr 23 01:48:15 2026] npc_vj_re5_em81_boss has killed Beep.
+[Thu Apr 23 01:48:21 2026] <STEAM_0:0:570454016> Beep ran command "respawn Keating"
+[Thu Apr 23 01:50:25 2026] <STEAM_0:0:570454016> Beep spawned SENT "Entity [756][sw_uh60j]"
+[Thu Apr 23 01:53:06 2026] <STEAM_0:0:570454016> Beep spawned SENT "Entity [739][sw_mi35m]"
+[Thu Apr 23 01:53:11 2026] <STEAM_0:0:570454016> Beep spawned SENT "Entity [739][sw_ah1w]"
+[Thu Apr 23 01:53:12 2026] <STEAM_0:0:570454016> Beep spawned SENT "Entity [752][sw_ah1s]"
+[Thu Apr 23 01:53:20 2026] <STEAM_0:0:570454016> Beep spawned SENT "Entity [739][sw_uh60]"
+[Thu Apr 23 01:55:39 2026] worldspawn has killed Beep.
+[Thu Apr 23 01:55:42 2026] <STEAM_0:0:570454016> Beep ran command "respawn Keating"
+[Thu Apr 23 01:55:48 2026] <STEAM_0:0:570454016> Beep spawned SENT "Entity [741][sw_uh60]"
+[Thu Apr 23 01:57:35 2026] <STEAM_0:0:570454016> Beep spawned SENT "Entity [753][sw_uh60]"
+[Thu Apr 23 01:59:55 2026] impotent has killed Beep.
+[Thu Apr 23 01:59:56 2026] <STEAM_0:0:570454016> Beep ran command "respawn Keating"
+[Thu Apr 23 02:00:25 2026] <STEAM_0:1:425612974> impotent spawned npc "NPC [749][npc_combine_s]"
+[Thu Apr 23 02:00:28 2026] <STEAM_0:1:425612974> impotent spawned npc "NPC [754][npc_combine_s]"
+[Thu Apr 23 02:00:29 2026] <STEAM_0:1:425612974> impotent spawned npc "NPC [757][npc_combine_s]"
+[Thu Apr 23 02:00:42 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [749][npc_vj_re5_em81_boss]"
+[Thu Apr 23 02:00:44 2026] npc_vj_re5_em81_boss has killed impotent.
+[Thu Apr 23 02:00:45 2026] impotent has killed impotent.
+[Thu Apr 23 02:00:49 2026] <STEAM_0:1:425612974> impotent ran command "respawn Montgomery"
+[Thu Apr 23 02:00:52 2026] <STEAM_0:0:570454016> Beep ran command "npctarget Keating"
+[Thu Apr 23 02:01:21 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [741][npc_vj_re5_em81_boss]"
+[Thu Apr 23 02:01:43 2026] <STEAM_0:0:570454016> Beep ran command "npctarget Keating"
+[Thu Apr 23 02:01:56 2026] npc_vj_re5_em81_boss has killed impotent.
+[Thu Apr 23 02:01:59 2026] <STEAM_0:1:425612974> impotent ran command "respawn Montgomery"
+[Thu Apr 23 02:02:10 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [741][npc_vj_re5_em81]"
+[Thu Apr 23 02:02:35 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [741][npc_vj_re5_em80b]"
+[Thu Apr 23 02:02:50 2026] <STEAM_0:1:425612974> impotent spawned npc "NPC [743][npc_combine_s]"
+[Thu Apr 23 02:02:55 2026] <STEAM_0:1:425612974> impotent spawned npc "NPC [742][npc_combine_s]"
+[Thu Apr 23 02:03:00 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [741][npc_vj_re5_em81]"
+[Thu Apr 23 02:03:01 2026] <STEAM_0:1:425612974> impotent spawned npc "NPC [747][npc_combine_s]"
+[Thu Apr 23 02:03:01 2026] <STEAM_0:1:425612974> impotent spawned npc "NPC [752][npc_combine_s]"
+[Thu Apr 23 02:03:02 2026] <STEAM_0:1:425612974> impotent spawned npc "NPC [756][npc_combine_s]"
+[Thu Apr 23 02:03:02 2026] <STEAM_0:1:425612974> impotent spawned npc "NPC [759][npc_combine_s]"
+[Thu Apr 23 02:03:08 2026] <STEAM_0:1:425612974> impotent spawned npc "NPC [770][npc_combine_s]"
+[Thu Apr 23 02:03:08 2026] <STEAM_0:1:425612974> impotent spawned npc "NPC [776][npc_combine_s]"
+[Thu Apr 23 02:03:08 2026] <STEAM_0:1:425612974> impotent spawned npc "NPC [763][npc_combine_s]"
+[Thu Apr 23 02:03:08 2026] <STEAM_0:1:425612974> impotent spawned npc "NPC [764][npc_combine_s]"
+[Thu Apr 23 02:03:09 2026] <STEAM_0:1:425612974> impotent spawned npc "NPC [765][npc_combine_s]"
+[Thu Apr 23 02:03:10 2026] <STEAM_0:1:425612974> impotent spawned npc "NPC [772][npc_combine_s]"
+[Thu Apr 23 02:03:10 2026] <STEAM_0:1:425612974> impotent spawned npc "NPC [786][npc_combine_s]"
+[Thu Apr 23 02:03:10 2026] <STEAM_0:1:425612974> impotent spawned npc "NPC [767][npc_combine_s]"
+[Thu Apr 23 02:03:10 2026] <STEAM_0:1:425612974> impotent spawned npc "NPC [791][npc_combine_s]"
+[Thu Apr 23 02:03:13 2026] <STEAM_0:1:425612974> impotent spawned npc "NPC [795][npc_rollermine]"
+[Thu Apr 23 02:03:14 2026] <STEAM_0:1:425612974> impotent spawned npc "NPC [798][npc_rollermine]"
+[Thu Apr 23 02:03:15 2026] <STEAM_0:1:425612974> impotent spawned npc "NPC [743][npc_manhack]"
+[Thu Apr 23 02:03:15 2026] <STEAM_0:1:425612974> impotent spawned npc "NPC [800][npc_manhack]"
+[Thu Apr 23 02:03:17 2026] <STEAM_0:1:425612974> impotent spawned npc "NPC [742][npc_hunter]"
+[Thu Apr 23 02:03:24 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [799][npc_vj_re5_em81_boss]"
+[Thu Apr 23 02:03:31 2026] <STEAM_0:1:425612974> impotent ran command "npctarget Montgomery"
+[Thu Apr 23 02:04:03 2026] <STEAM_0:1:425612974> impotent spawned npc "NPC [741][npc_metropolice]"
+[Thu Apr 23 02:04:04 2026] <STEAM_0:1:425612974> impotent spawned npc "NPC [746][npc_metropolice]"
+[Thu Apr 23 02:04:04 2026] <STEAM_0:1:425612974> impotent spawned npc "NPC [749][npc_metropolice]"
+[Thu Apr 23 02:04:04 2026] <STEAM_0:1:425612974> impotent spawned npc "NPC [756][npc_metropolice]"
+[Thu Apr 23 02:04:05 2026] <STEAM_0:1:425612974> impotent spawned npc "NPC [742][npc_metropolice]"
+[Thu Apr 23 02:04:05 2026] <STEAM_0:1:425612974> impotent spawned npc "NPC [764][npc_metropolice]"
+[Thu Apr 23 02:04:05 2026] <STEAM_0:1:425612974> impotent spawned npc "NPC [766][npc_metropolice]"
+[Thu Apr 23 02:04:05 2026] <STEAM_0:1:425612974> impotent spawned npc "NPC [777][npc_metropolice]"
+[Thu Apr 23 02:05:01 2026] <STEAM_0:1:425612974> impotent spawned npc "NPC [742][npc_combine_s]"
+[Thu Apr 23 02:05:01 2026] <STEAM_0:1:425612974> impotent spawned npc "NPC [761][npc_combine_s]"
+[Thu Apr 23 02:05:01 2026] <STEAM_0:1:425612974> impotent spawned npc "NPC [767][npc_combine_s]"
+[Thu Apr 23 02:05:01 2026] <STEAM_0:1:425612974> impotent spawned npc "NPC [776][npc_combine_s]"
+[Thu Apr 23 02:05:03 2026] <STEAM_0:1:425612974> impotent spawned npc "NPC [749][npc_combine_s]"
+[Thu Apr 23 02:05:05 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [747][npc_vj_re5_em82a]"
+[Thu Apr 23 02:05:10 2026] <STEAM_0:1:425612974> impotent spawned npc "NPC [765][npc_hunter]"
+[Thu Apr 23 02:05:11 2026] <STEAM_0:1:425612974> impotent spawned npc "NPC [783][npc_hunter]"
+[Thu Apr 23 02:05:12 2026] <STEAM_0:1:425612974> impotent spawned npc "NPC [780][npc_hunter]"
+[Thu Apr 23 02:05:12 2026] <STEAM_0:1:425612974> impotent spawned npc "NPC [792][npc_combine_s]"
+[Thu Apr 23 02:05:13 2026] <STEAM_0:1:425612974> impotent spawned npc "NPC [799][npc_combine_s]"
+[Thu Apr 23 02:05:13 2026] <STEAM_0:1:425612974> impotent spawned npc "NPC [803][npc_combine_s]"
+[Thu Apr 23 02:05:13 2026] <STEAM_0:1:425612974> impotent spawned npc "NPC [789][npc_combine_s]"
+[Thu Apr 23 02:05:14 2026] <STEAM_0:1:425612974> impotent spawned npc "NPC [788][npc_combine_s]"
+[Thu Apr 23 02:05:14 2026] <STEAM_0:1:425612974> impotent spawned npc "NPC [833][npc_combine_s]"
+[Thu Apr 23 02:05:15 2026] <STEAM_0:1:425612974> impotent spawned npc "NPC [774][npc_rollermine]"
+[Thu Apr 23 02:05:16 2026] <STEAM_0:1:425612974> impotent spawned npc "NPC [782][npc_rollermine]"
+[Thu Apr 23 02:05:19 2026] <STEAM_0:1:425612974> impotent spawned npc "NPC [802][npc_manhack]"
+[Thu Apr 23 02:05:19 2026] <STEAM_0:1:425612974> impotent spawned npc "NPC [781][npc_manhack]"
+[Thu Apr 23 02:05:19 2026] <STEAM_0:1:425612974> impotent spawned npc "NPC [773][npc_manhack]"
+[Thu Apr 23 02:05:19 2026] <STEAM_0:1:425612974> impotent spawned npc "NPC [824][npc_manhack]"
+[Thu Apr 23 02:05:19 2026] <STEAM_0:1:425612974> impotent spawned npc "NPC [790][npc_manhack]"
+[Thu Apr 23 02:05:19 2026] <STEAM_0:1:425612974> impotent spawned npc "NPC [808][npc_manhack]"
+[Thu Apr 23 02:05:20 2026] <STEAM_0:1:425612974> impotent spawned npc "NPC [836][npc_manhack]"
+[Thu Apr 23 02:05:20 2026] <STEAM_0:1:425612974> impotent spawned npc "NPC [839][npc_manhack]"
+[Thu Apr 23 02:05:20 2026] <STEAM_0:1:425612974> impotent spawned npc "NPC [847][npc_manhack]"
+[Thu Apr 23 02:05:20 2026] <STEAM_0:1:425612974> impotent spawned npc "NPC [850][npc_manhack]"
+[Thu Apr 23 02:05:20 2026] <STEAM_0:1:425612974> impotent spawned npc "NPC [770][npc_manhack]"
+[Thu Apr 23 02:05:38 2026] <STEAM_0:1:425612974> impotent spawned npc "NPC [743][npc_turret_floor]"
+[Thu Apr 23 02:05:44 2026] <STEAM_0:1:425612974> impotent spawned npc "NPC [822][npc_turret_floor]"
+[Thu Apr 23 02:05:46 2026] <STEAM_0:1:425612974> impotent spawned npc "NPC [770][npc_turret_floor]"
+[Thu Apr 23 02:05:48 2026] <STEAM_0:1:425612974> impotent spawned npc "NPC [814][npc_turret_floor]"
+[Thu Apr 23 10:18:24 2026] Player "ni363078" <STEAM_0:1:395906538> is attempting to connect.
+[Thu Apr 23 10:19:49 2026] Player "ni363078" <STEAM_0:1:395906538> is attempting to connect.
+[Thu Apr 23 11:51:06 2026] Player "Дегустатор пива" <STEAM_0:1:862887967> is attempting to connect.
+[Thu Apr 23 11:51:59 2026] Player "Дегустатор пива" <STEAM_0:1:862887967> has spawned in the server
+[Thu Apr 23 12:16:36 2026] <STEAM_0:1:862887967> Дегустатор пива: :checkered_flag:
+[Thu Apr 23 12:16:42 2026] <STEAM_0:1:862887967> Дегустатор пива: э
+[Thu Apr 23 12:17:09 2026] <STEAM_0:1:862887967> Дегустатор пива: ггнн\
+[Thu Apr 23 12:19:50 2026] <STEAM_0:1:862887967> Дегустатор пива: Внимание на квадрат: C1
+[Thu Apr 23 12:19:50 2026] <STEAM_0:1:862887967> Дегустатор пива: Внимание на квадрат: C1
+[Thu Apr 23 12:20:52 2026] <STEAM_0:1:862887967> Дегустатор пива: Внимание на квадрат: G4
+[Thu Apr 23 12:20:52 2026] <STEAM_0:1:862887967> Дегустатор пива: Внимание на квадрат: G4
+[Thu Apr 23 12:20:53 2026] <STEAM_0:1:862887967> Дегустатор пива: Внимание на квадрат: G8
+[Thu Apr 23 12:20:53 2026] <STEAM_0:1:862887967> Дегустатор пива: Внимание на квадрат: G8
+[Thu Apr 23 12:20:54 2026] <STEAM_0:1:862887967> Дегустатор пива: Внимание на квадрат: H8
+[Thu Apr 23 12:20:55 2026] <STEAM_0:1:862887967> Дегустатор пива: Внимание на квадрат: H8
+[Thu Apr 23 12:27:07 2026] Player "Дегустатор пива" <STEAM_0:1:862887967> has left the server
+[Thu Apr 23 14:27:29 2026] Player "Дегустатор пива" <STEAM_0:1:862887967> is attempting to connect.
+[Thu Apr 23 14:28:17 2026] Player "Дегустатор пива" <STEAM_0:1:862887967> has spawned in the server
+[Thu Apr 23 14:33:59 2026] <STEAM_0:1:862887967> Дегустатор пива: /me Исполнил воинское Приветствие
+[Thu Apr 23 14:35:24 2026] <STEAM_0:1:862887967> Дегустатор пива: /me Предъявил удостоверение Рекурт | Thompson | Cтрелок NATO, закрыл удостове�
+[Thu Apr 23 14:35:43 2026] <STEAM_0:1:862887967> Дегустатор пива: /me Предъявил удостоверение Рекурт | Thompson | Cтрелок NATO, закрыл удостове�
+[Thu Apr 23 14:35:44 2026] <STEAM_0:1:862887967> Дегустатор пива: /me Предъявил удостоверение Рекурт | Thompson | Cтрелок NATO, закрыл удостове�
+[Thu Apr 23 14:35:44 2026] <STEAM_0:1:862887967> Дегустатор пива: /me Предъявил удостоверение Рекурт | Thompson | Cтрелок NATO, закрыл удостове�
+[Thu Apr 23 14:35:50 2026] <STEAM_0:1:862887967> Дегустатор пива: /me Предъявил удостоверение Рекурт | Thompson | Cтрелок NATO, закрыл удостове�
+[Thu Apr 23 14:35:57 2026] <STEAM_0:1:862887967> Дегустатор пива: /me Исполнил воинское Приветствие
+[Thu Apr 23 14:35:59 2026] <STEAM_0:1:862887967> Дегустатор пива: /me Предъявил удостоверение Рекурт | Thompson | Cтрелок NATO, закрыл удостове�
+[Thu Apr 23 14:35:59 2026] <STEAM_0:1:862887967> Дегустатор пива: /me Предъявил удостоверение Рекурт | Thompson | Cтрелок NATO, закрыл удостове�
+[Thu Apr 23 14:36:19 2026] <STEAM_0:1:862887967> Дегустатор пива: /me Предъявил удостоверение Рекурт | Thompson | Cтрелок NATO
+[Thu Apr 23 14:42:41 2026] <STEAM_0:1:862887967> Дегустатор пива: /me Исполнил воинское Приветствие
+[Thu Apr 23 14:42:42 2026] <STEAM_0:1:862887967> Дегустатор пива: /me Предъявил удостоверение Рекурт | Thompson | Cтрелок NATO
+[Thu Apr 23 14:42:42 2026] <STEAM_0:1:862887967> Дегустатор пива: /me Предъявил удостоверение Рекурт | Thompson | Cтрелок NATO
+[Thu Apr 23 14:42:49 2026] <STEAM_0:1:862887967> Дегустатор пива: /me Предъявил удостоверение Рекурт | Thompson | Cтрелок NATO
+[Thu Apr 23 14:42:51 2026] <STEAM_0:1:862887967> Дегустатор пива: /me Предъявил удостоверение Рекурт | Thompson | Cтрелок NATO
+[Thu Apr 23 14:42:54 2026] <STEAM_0:1:862887967> Дегустатор пива: /me Предъявил удостоверение Рекурт | Thompson | Cтрелок NATO
+[Thu Apr 23 14:46:14 2026] <STEAM_0:1:862887967> Дегустатор пива: /me Исполнил воинское Приветствие
+[Thu Apr 23 14:46:15 2026] <STEAM_0:1:862887967> Дегустатор пива: /me Исполнил воинское Приветствие
+[Thu Apr 23 14:46:15 2026] <STEAM_0:1:862887967> Дегустатор пива: /me Исполнил воинское Приветствие
+[Thu Apr 23 14:46:18 2026] <STEAM_0:1:862887967> Дегустатор пива: /me Исполнил воинское Приветствие
+[Thu Apr 23 14:53:49 2026] <STEAM_0:1:862887967> Дегустатор пива: /me Предъявил удостоверение Рекурт | Thompson | Cтрелок NATO
+[Thu Apr 23 14:56:46 2026] <STEAM_0:1:862887967> Дегустатор пива: /me Предъявил удостоверение Рекурт | Thompson | Cтрелок NATO
+[Thu Apr 23 15:01:08 2026] <STEAM_0:1:862887967> Дегустатор пива: /me Исполнил воинское Приветствие
+[Thu Apr 23 15:10:59 2026] Player "Дегустатор пива" <STEAM_0:1:862887967> has left the server
+[Thu Apr 23 16:19:58 2026] Player "Discar" <STEAM_0:0:650470378> is attempting to connect.
+[Thu Apr 23 16:21:54 2026] Player "Дегустатор пива" <STEAM_0:1:862887967> is attempting to connect.
+[Thu Apr 23 16:22:27 2026] Player "Zxc_Frik" <STEAM_0:1:385981940> is attempting to connect.
+[Thu Apr 23 16:22:38 2026] Player "Discar" <STEAM_0:0:650470378> has spawned in the server
+[Thu Apr 23 16:22:44 2026] Player "Дегустатор пива" <STEAM_0:1:862887967> has spawned in the server
+[Thu Apr 23 16:24:09 2026] <STEAM_0:1:862887967> Дегустатор пива: // есть онлайн?
+[Thu Apr 23 16:24:39 2026] <STEAM_0:1:862887967> Дегустатор пива: io
+[Thu Apr 23 16:35:39 2026] Player "tohiro" <STEAM_0:0:99492375> is attempting to connect.
+[Thu Apr 23 16:36:05 2026] Player "tohiro" <STEAM_0:0:99492375> is attempting to connect.
+[Thu Apr 23 16:37:17 2026] Player "tohiro" <STEAM_0:0:99492375> has spawned in the server
+[Thu Apr 23 16:39:07 2026] <STEAM_0:1:862887967> Дегустатор пива: // О Дискаров привет
+[Thu Apr 23 16:42:31 2026] Player "Discar" <STEAM_0:0:650470378> has left the server
+[Thu Apr 23 16:42:41 2026] Player "Zxc_Frik" <STEAM_0:1:385981940> has spawned in the server
+[Thu Apr 23 16:43:06 2026] <STEAM_0:1:862887967> Дегустатор пива: Внимание на квадрат: E4
+[Thu Apr 23 16:43:06 2026] <STEAM_0:1:862887967> Дегустатор пива: Внимание на квадрат: E4
+[Thu Apr 23 16:43:08 2026] <STEAM_0:1:862887967> Дегустатор пива: Внимание на квадрат: G4
+[Thu Apr 23 16:43:08 2026] <STEAM_0:1:862887967> Дегустатор пива: Внимание на квадрат: G4
+[Thu Apr 23 16:43:08 2026] <STEAM_0:1:862887967> Дегустатор пива: Внимание на квадрат: D8
+[Thu Apr 23 16:43:08 2026] <STEAM_0:1:862887967> Дегустатор пива: Внимание на квадрат: D8
+[Thu Apr 23 16:44:16 2026] Player "Zxc_Frik" <STEAM_0:1:385981940> has left the server
+[Thu Apr 23 16:46:32 2026] <STEAM_0:1:862887967> Дегустатор пива: Внимание на квадрат: E4
+[Thu Apr 23 16:46:32 2026] <STEAM_0:1:862887967> Дегустатор пива: Внимание на квадрат: E4
+[Thu Apr 23 16:47:39 2026] <STEAM_0:1:862887967> Дегустатор пива: Внимание на квадрат: C6
+[Thu Apr 23 16:47:39 2026] <STEAM_0:1:862887967> Дегустатор пива: Внимание на квадрат: C6
+[Thu Apr 23 16:49:15 2026] <STEAM_0:1:862887967> Дегустатор пива: Внимание на квадрат: B4
+[Thu Apr 23 16:49:15 2026] <STEAM_0:1:862887967> Дегустатор пива: Внимание на квадрат: B4
+[Thu Apr 23 16:51:25 2026] Player "Дегустатор пива" <STEAM_0:1:862887967> has left the server
+[Thu Apr 23 16:57:02 2026] Player "tohiro" <STEAM_0:0:99492375> has left the server
+[Thu Apr 23 18:06:22 2026] Player "gg" <STEAM_0:1:632726439> is attempting to connect.
+[Thu Apr 23 18:47:56 2026] Player "Discar" <STEAM_0:0:650470378> is attempting to connect.
+[Thu Apr 23 18:49:12 2026] Player "Discar" <STEAM_0:0:650470378> has spawned in the server
+[Thu Apr 23 18:52:43 2026] Player "Sou1" <STEAM_0:1:618974024> is attempting to connect.
+[Thu Apr 23 18:53:52 2026] Player "Sou1" <STEAM_0:1:618974024> is attempting to connect.
+[Thu Apr 23 18:54:45 2026] Player "Discar" <STEAM_0:0:650470378> has left the server
+[Thu Apr 23 18:55:08 2026] Player "Sou1" <STEAM_0:1:618974024> has spawned in the server
+[Thu Apr 23 18:56:22 2026] Player "Sou1" <STEAM_0:1:618974024> has left the server
+[Thu Apr 23 20:52:02 2026] Player "𝗺𝟏𝗿𝗮𝗰𝗹𝗲" <STEAM_0:0:869238922> is attempting to connect.
+[Thu Apr 23 20:57:12 2026] Player "𝗺𝟏𝗿𝗮𝗰𝗹𝗲" <STEAM_0:0:869238922> has spawned in the server
+[Thu Apr 23 21:00:35 2026] Player "𝗺𝟏𝗿𝗮𝗰𝗹𝗲" <STEAM_0:0:869238922> has left the server
+[Thu Apr 23 21:28:05 2026] Player "marina310824" <STEAM_0:1:902575649> is attempting to connect.
+[Thu Apr 23 21:31:02 2026] Player "marina310824" <STEAM_0:1:902575649> has spawned in the server
+[Thu Apr 23 21:31:30 2026] Player "marina310824" <STEAM_0:1:902575649> has left the server

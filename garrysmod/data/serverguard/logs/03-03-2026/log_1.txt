@@ -1,0 +1,32 @@
+[Tue Mar  3 00:15:39 2026] worldspawn has killed OZOR.
+[Tue Mar  3 00:15:46 2026] <STEAM_0:0:85754053> OZOR ran command "respawn Ковалев"
+[Tue Mar  3 00:15:54 2026] worldspawn has killed OZOR.
+[Tue Mar  3 00:15:56 2026] <STEAM_0:0:85754053> OZOR ran command "respawn Ковалев"
+[Tue Mar  3 00:36:16 2026] <STEAM_0:0:85754053> OZOR used tool "remover"
+[Tue Mar  3 00:36:16 2026] <STEAM_0:0:85754053> OZOR used tool "remover"
+[Tue Mar  3 00:36:16 2026] <STEAM_0:0:85754053> OZOR used tool "remover"
+[Tue Mar  3 00:47:24 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [267][bodyman_closet]"
+[Tue Mar  3 00:47:28 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [267][ifak_ammo]"
+[Tue Mar  3 00:47:29 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [357][ifak_ammo]"
+[Tue Mar  3 00:47:33 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [267][ladder_small2]"
+[Tue Mar  3 00:48:22 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [267][sw_airdrop_large_v3]"
+[Tue Mar  3 00:48:25 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [267][sw_airdrop_v3]"
+[Tue Mar  3 00:48:37 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [267][sw_parachute_v3]"
+[Tue Mar  3 00:48:40 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [267][sw_bomb_kab500l_v3]"
+[Tue Mar  3 00:48:43 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [358][sw_bomb_kab500l_v3]"
+[Tue Mar  3 00:48:44 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [267][sw_bomb_kab500l_v3]"
+[Tue Mar  3 00:49:26 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [267][sw_bomb_kab500kr_v3]"
+[Tue Mar  3 00:49:30 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [267][sw_rocket_ros132_v3]"
+[Tue Mar  3 00:49:31 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [357][sw_bomb_ofab250sh_v3]"
+[Tue Mar  3 00:49:40 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [357][sw_bomb_ofab250sh_v3]"
+[Tue Mar  3 00:49:44 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [357][sw_bomb_ofab250sh_v3]"
+[Tue Mar  3 01:18:10 2026] Player "DENDY HOOK" <STEAM_0:0:547312516> is attempting to connect.
+[Tue Mar  3 02:02:40 2026] Player "OZOR" <STEAM_0:0:85754053> has left the server
+[Tue Mar  3 11:24:17 2026] Player "NEV$$$KII" <STEAM_0:0:506846414> is attempting to connect.
+[Tue Mar  3 12:17:24 2026] Player "omuragabriel7" <STEAM_0:1:959381660> is attempting to connect.
+[Tue Mar  3 14:26:08 2026] Player "Centaurus" <STEAM_0:1:176906490> is attempting to connect.
+[Tue Mar  3 16:31:12 2026] Player "cemeren351" <STEAM_0:0:403795109> is attempting to connect.
+[Tue Mar  3 17:39:47 2026] Player "ZentoS" <STEAM_0:0:926444595> is attempting to connect.
+[Tue Mar  3 22:33:01 2026] Player "impotent" <STEAM_0:1:425612974> is attempting to connect.
+[Tue Mar  3 22:34:29 2026] Player "impotent" <STEAM_0:1:425612974> has spawned in the server
+[Tue Mar  3 22:45:21 2026] Player "impotent" <STEAM_0:1:425612974> has left the server

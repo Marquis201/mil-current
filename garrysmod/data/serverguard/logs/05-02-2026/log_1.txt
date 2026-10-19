@@ -1,0 +1,163 @@
+[Sat May  2 10:10:09 2026] Player "marina310824" <STEAM_0:1:902575649> is attempting to connect.
+[Sat May  2 10:11:28 2026] Player "marina310824" <STEAM_0:1:902575649> has spawned in the server
+[Sat May  2 10:11:55 2026] Player "marina310824" <STEAM_0:1:902575649> has left the server
+[Sat May  2 11:11:44 2026] Player "fishka" <STEAM_0:0:410942985> is attempting to connect.
+[Sat May  2 14:33:16 2026] Player "Casebook" <STEAM_0:0:585468466> is attempting to connect.
+[Sat May  2 14:34:54 2026] Player "Casebook" <STEAM_0:0:585468466> has spawned in the server
+[Sat May  2 14:39:47 2026] Player "King of 67 666" <STEAM_0:1:38151914> is attempting to connect.
+[Sat May  2 15:00:10 2026] Player "༒︎シ︎ʰᵉⁿᵗᵃⁱシ" <STEAM_0:0:851601344> is attempting to connect.
+[Sat May  2 15:08:29 2026] Player "Casebook" <STEAM_0:0:585468466> has left the server
+[Sat May  2 17:00:05 2026] Player "Casebook" <STEAM_0:0:585468466> is attempting to connect.
+[Sat May  2 17:00:54 2026] Player "Casebook" <STEAM_0:0:585468466> has spawned in the server
+[Sat May  2 17:19:39 2026] Player "Электровоз ВЛ80" <STEAM_0:1:862887967> is attempting to connect.
+[Sat May  2 17:20:10 2026] Player "Casebook" <STEAM_0:0:585468466> has left the server
+[Sat May  2 17:20:24 2026] Player "Электровоз ВЛ80" <STEAM_0:1:862887967> has spawned in the server
+[Sat May  2 17:22:00 2026] Player "Электровоз ВЛ80" <STEAM_0:1:862887967> has left the server
+[Sat May  2 18:07:40 2026] Player "gREG4IK" <STEAM_0:1:455594560> is attempting to connect.
+[Sat May  2 18:09:09 2026] Player "gREG4IK" <STEAM_0:1:455594560> has spawned in the server
+[Sat May  2 18:10:49 2026] Player "Boboher123" <STEAM_0:0:208481474> is attempting to connect.
+[Sat May  2 18:10:51 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [628][sent_vj_ply_healthkit]"
+[Sat May  2 18:14:15 2026] <STEAM_0:1:455594560> gREG4IK: а
+[Sat May  2 18:14:21 2026] <STEAM_0:1:455594560> gREG4IK: вав
+[Sat May  2 18:14:24 2026] <STEAM_0:1:455594560> gREG4IK: апап
+[Sat May  2 18:18:14 2026] <STEAM_0:1:455594560> gREG4IK: а
+[Sat May  2 18:20:07 2026] <STEAM_0:1:455594560> gREG4IK: а
+[Sat May  2 18:21:30 2026] <STEAM_0:1:455594560> gREG4IK ran command "menu"
+[Sat May  2 18:23:28 2026] Player "Boboher123" <STEAM_0:0:208481474> has spawned in the server
+[Sat May  2 18:28:18 2026] Player "Boboher123" <STEAM_0:0:208481474> has left the server
+[Sat May  2 18:29:11 2026] Player "gREG4IK" <STEAM_0:1:455594560> has left the server
+[Sat May  2 18:29:17 2026] Player "Boboher123" <STEAM_0:0:208481474> is attempting to connect.
+[Sat May  2 18:30:02 2026] Player "Boboher123" <STEAM_0:0:208481474> has spawned in the server
+[Sat May  2 18:31:55 2026] Player "Boboher123" <STEAM_0:0:208481474> has left the server
+[Sat May  2 19:24:49 2026] Player "gREG4IK" <STEAM_0:1:455594560> is attempting to connect.
+[Sat May  2 19:26:16 2026] Player "gREG4IK" <STEAM_0:1:455594560> has spawned in the server
+[Sat May  2 19:30:36 2026] Player "gREG4IK" <STEAM_0:1:455594560> has left the server
+[Sat May  2 19:30:40 2026] Player "gREG4IK" <STEAM_0:1:455594560> is attempting to connect.
+[Sat May  2 19:31:13 2026] Player "gREG4IK" <STEAM_0:1:455594560> has spawned in the server
+[Sat May  2 19:32:18 2026] <STEAM_0:1:455594560> gREG4IK un-froze (reloaded) using the physgun
+[Sat May  2 19:44:51 2026] Player "Sou1" <STEAM_0:1:618974024> is attempting to connect.
+[Sat May  2 19:46:15 2026] Player "Sou1" <STEAM_0:1:618974024> has spawned in the server
+[Sat May  2 19:46:41 2026] <STEAM_0:1:455594560> gREG4IK ran command "goto Dalzmann"
+[Sat May  2 19:48:22 2026] <STEAM_0:1:455594560> gREG4IK ran command "send Dalzmann"
+[Sat May  2 19:51:15 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [642][tfa_ins2_remington_m870]"
+[Sat May  2 19:51:16 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [644][tfa_ins2_remington_m870]"
+[Sat May  2 19:51:31 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [642][sent_vj_ply_healthkit]"
+[Sat May  2 19:52:12 2026] gREG4IK has killed Sou1.
+[Sat May  2 19:53:05 2026] <STEAM_0:1:455594560> gREG4IK ran command "respawn Dalzmann"
+[Sat May  2 19:54:09 2026] <STEAM_0:1:455594560> gREG4IK: steamid_menu
+[Sat May  2 19:57:48 2026] <STEAM_0:1:618974024> Sou1 spawned prop "Entity [642][alydus_destructiblefortification] (models/props_wasteland/exterior_fence002b.mdl)"
+[Sat May  2 19:57:52 2026] <STEAM_0:1:618974024> Sou1 spawned prop "Entity [643][alydus_destructiblefortification] (models/props_wasteland/exterior_fence002b.mdl)"
+[Sat May  2 19:57:55 2026] <STEAM_0:1:618974024> Sou1 spawned prop "Entity [644][alydus_destructiblefortification] (models/props_wasteland/exterior_fence002b.mdl)"
+[Sat May  2 19:58:02 2026] gREG4IK has killed Sou1.
+[Sat May  2 19:58:03 2026] Sou1 has killed Sou1.
+[Sat May  2 19:58:19 2026] <STEAM_0:1:455594560> gREG4IK ran command "send Dalzmann"
+[Sat May  2 19:58:50 2026] gREG4IK has killed Sou1.
+[Sat May  2 19:58:50 2026] Sou1 has killed Sou1.
+[Sat May  2 20:01:27 2026] <STEAM_0:1:618974024> Sou1 spawned prop "Entity [626][alydus_destructiblefortification] (models/props_wasteland/exterior_fence002b.mdl)"
+[Sat May  2 20:01:30 2026] <STEAM_0:1:618974024> Sou1 spawned prop "Entity [627][alydus_destructiblefortification] (models/props_wasteland/exterior_fence002b.mdl)"
+[Sat May  2 20:01:37 2026] <STEAM_0:1:618974024> Sou1 spawned prop "Entity [628][alydus_destructiblefortification] (models/props_wasteland/exterior_fence002b.mdl)"
+[Sat May  2 20:01:50 2026] <STEAM_0:1:618974024> Sou1 spawned prop "Entity [632][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1_tall.mdl)"
+[Sat May  2 20:01:53 2026] <STEAM_0:1:618974024> Sou1 spawned prop "Entity [644][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1_tall.mdl)"
+[Sat May  2 20:01:58 2026] <STEAM_0:1:618974024> Sou1 spawned prop "Entity [644][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1_tall.mdl)"
+[Sat May  2 20:02:02 2026] <STEAM_0:1:618974024> Sou1 spawned prop "Entity [645][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1_tall.mdl)"
+[Sat May  2 20:02:06 2026] <STEAM_0:1:618974024> Sou1 spawned prop "Entity [646][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1_tall.mdl)"
+[Sat May  2 20:02:09 2026] <STEAM_0:1:618974024> Sou1 spawned prop "Entity [647][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1_tall.mdl)"
+[Sat May  2 20:02:11 2026] <STEAM_0:1:618974024> Sou1 spawned prop "Entity [648][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1_tall.mdl)"
+[Sat May  2 20:02:12 2026] <STEAM_0:1:618974024> Sou1 spawned prop "Entity [649][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1_tall.mdl)"
+[Sat May  2 20:02:16 2026] <STEAM_0:1:618974024> Sou1 spawned prop "Entity [650][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1_tall.mdl)"
+[Sat May  2 20:02:17 2026] <STEAM_0:1:618974024> Sou1 spawned prop "Entity [651][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1_tall.mdl)"
+[Sat May  2 20:02:19 2026] <STEAM_0:1:618974024> Sou1 spawned prop "Entity [652][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1_tall.mdl)"
+[Sat May  2 20:02:19 2026] <STEAM_0:1:618974024> Sou1 spawned prop "Entity [653][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1_tall.mdl)"
+[Sat May  2 20:02:20 2026] <STEAM_0:1:618974024> Sou1 spawned prop "Entity [654][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1_tall.mdl)"
+[Sat May  2 20:02:21 2026] <STEAM_0:1:618974024> Sou1 spawned prop "Entity [655][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1_tall.mdl)"
+[Sat May  2 20:02:22 2026] <STEAM_0:1:618974024> Sou1 spawned prop "Entity [656][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1_tall.mdl)"
+[Sat May  2 20:02:27 2026] <STEAM_0:1:618974024> Sou1 spawned prop "Entity [656][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1_tall.mdl)"
+[Sat May  2 20:02:28 2026] <STEAM_0:1:618974024> Sou1 spawned prop "Entity [657][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1_tall.mdl)"
+[Sat May  2 20:02:31 2026] <STEAM_0:1:618974024> Sou1 spawned prop "Entity [658][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1_tall.mdl)"
+[Sat May  2 20:02:35 2026] <STEAM_0:1:618974024> Sou1 spawned prop "Entity [660][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1_tall.mdl)"
+[Sat May  2 20:03:10 2026] gREG4IK has killed gREG4IK.
+[Sat May  2 20:03:10 2026] <STEAM_0:1:455594560> gREG4IK ran command "slay Грэг"
+[Sat May  2 20:03:16 2026] <STEAM_0:1:455594560> gREG4IK: /repsawn ^
+[Sat May  2 20:03:22 2026] <STEAM_0:1:455594560> gREG4IK ran command "respawn ^"
+[Sat May  2 20:03:27 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [613][sent_vj_ply_healthkit]"
+[Sat May  2 20:03:39 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [636][tfa_ins2_warface_orsis_t5000]"
+[Sat May  2 20:03:40 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [638][tfa_ins2_warface_orsis_t5000]"
+[Sat May  2 20:03:40 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [641][tfa_ins2_panzerfaust3]"
+[Sat May  2 20:03:41 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [645][tfa_ins2_panzerfaust3]"
+[Sat May  2 20:03:41 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [628][tfa_ins2_panzerfaust3]"
+[Sat May  2 20:03:52 2026] gREG4IK has killed Sou1.
+[Sat May  2 20:05:21 2026] Player "Palpatine" <STEAM_0:1:162089133> is attempting to connect.
+[Sat May  2 20:05:51 2026] <STEAM_0:1:455594560> gREG4IK ran command "respawn ^"
+[Sat May  2 20:05:54 2026] <STEAM_0:1:455594560> gREG4IK ran command "respawn ^"
+[Sat May  2 20:07:23 2026] <STEAM_0:1:618974024> Sou1 spawned prop "Entity [658][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1.mdl)"
+[Sat May  2 20:07:23 2026] <STEAM_0:1:618974024> Sou1 spawned prop "Entity [659][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1.mdl)"
+[Sat May  2 20:07:24 2026] <STEAM_0:1:618974024> Sou1 spawned prop "Entity [660][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1.mdl)"
+[Sat May  2 20:07:24 2026] <STEAM_0:1:618974024> Sou1 spawned prop "Entity [662][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1.mdl)"
+[Sat May  2 20:07:25 2026] <STEAM_0:1:618974024> Sou1 spawned prop "Entity [663][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1.mdl)"
+[Sat May  2 20:07:25 2026] <STEAM_0:1:618974024> Sou1 spawned prop "Entity [664][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1.mdl)"
+[Sat May  2 20:07:26 2026] <STEAM_0:1:618974024> Sou1 spawned prop "Entity [665][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1.mdl)"
+[Sat May  2 20:07:26 2026] <STEAM_0:1:618974024> Sou1 spawned prop "Entity [666][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1.mdl)"
+[Sat May  2 20:07:33 2026] gREG4IK has killed Sou1.
+[Sat May  2 20:07:39 2026] <STEAM_0:1:455594560> gREG4IK ran command "respawn Грэг"
+[Sat May  2 20:08:22 2026] worldspawn has killed Sou1.
+[Sat May  2 20:08:28 2026] <STEAM_0:1:455594560> gREG4IK ran command "send Dalzmann"
+[Sat May  2 20:10:22 2026] <STEAM_0:1:618974024> Sou1: /com Грег лох
+[Sat May  2 20:11:05 2026] <STEAM_0:1:455594560> gREG4IK ran command "goto Dalzmann"
+[Sat May  2 20:11:21 2026] Player "klaawtozi" <STEAM_0:0:889527196> is attempting to connect.
+[Sat May  2 20:12:55 2026] <STEAM_0:1:618974024> Sou1 spawned prop "Entity [658][alydus_destructiblefortification] (models/props_wasteland/exterior_fence002d.mdl)"
+[Sat May  2 20:13:05 2026] <STEAM_0:1:618974024> Sou1 spawned prop "Entity [658][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner3.mdl)"
+[Sat May  2 20:13:11 2026] <STEAM_0:1:618974024> Sou1 spawned prop "Entity [658][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner3.mdl)"
+[Sat May  2 20:14:46 2026] <STEAM_0:1:618974024> Sou1 spawned prop "Entity [636][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1.mdl)"
+[Sat May  2 20:14:49 2026] <STEAM_0:1:618974024> Sou1 spawned prop "Entity [636][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1.mdl)"
+[Sat May  2 20:15:27 2026] <STEAM_0:1:618974024> Sou1 spawned prop "Entity [624][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1.mdl)"
+[Sat May  2 20:15:32 2026] <STEAM_0:1:618974024> Sou1 spawned prop "Entity [624][alydus_destructiblefortification] (models/props_street/police_barricade2.mdl)"
+[Sat May  2 20:15:38 2026] <STEAM_0:1:618974024> Sou1 spawned prop "Entity [626][alydus_destructiblefortification] (models/iraq/ir_hesco_basket_01.mdl)"
+[Sat May  2 20:16:13 2026] <STEAM_0:1:618974024> Sou1 spawned prop "Entity [624][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1.mdl)"
+[Sat May  2 20:16:15 2026] <STEAM_0:1:618974024> Sou1 spawned prop "Entity [626][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1.mdl)"
+[Sat May  2 20:16:34 2026] <STEAM_0:1:618974024> Sou1 spawned prop "Entity [640][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1.mdl)"
+[Sat May  2 20:20:21 2026] worldspawn has killed gREG4IK.
+[Sat May  2 20:20:24 2026] <STEAM_0:1:455594560> gREG4IK ran command "respawn ^"
+[Sat May  2 20:20:37 2026] <STEAM_0:1:455594560> gREG4IK ran command "send Dalzmann"
+[Sat May  2 20:20:58 2026] <STEAM_0:1:455594560> gREG4IK ran command "send Dalzmann"
+[Sat May  2 20:21:01 2026] <STEAM_0:1:455594560> gREG4IK ran command "send Dalzmann"
+[Sat May  2 20:25:39 2026] Sou1 has killed gREG4IK.
+[Sat May  2 20:30:41 2026] Sou1 has killed gREG4IK.
+[Sat May  2 20:30:44 2026] <STEAM_0:1:455594560> gREG4IK ran command "respawn ^"
+[Sat May  2 20:30:56 2026] <STEAM_0:1:618974024> Sou1 spawned prop "Entity [614][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1.mdl)"
+[Sat May  2 20:30:58 2026] <STEAM_0:1:618974024> Sou1 spawned prop "Entity [624][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1.mdl)"
+[Sat May  2 20:31:00 2026] <STEAM_0:1:618974024> Sou1 spawned prop "Entity [626][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1.mdl)"
+[Sat May  2 20:32:01 2026] <STEAM_0:1:618974024> Sou1 spawned prop "Entity [640][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner2.mdl)"
+[Sat May  2 20:32:14 2026] Sou1 has killed gREG4IK.
+[Sat May  2 20:32:17 2026] <STEAM_0:1:455594560> gREG4IK ran command "respawn ^"
+[Sat May  2 20:32:21 2026] <STEAM_0:1:618974024> Sou1 spawned prop "Entity [621][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner2.mdl)"
+[Sat May  2 20:32:21 2026] <STEAM_0:1:618974024> Sou1 spawned prop "Entity [635][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner2.mdl)"
+[Sat May  2 20:33:11 2026] <STEAM_0:1:455594560> gREG4IK ran command "goto Dalzmann"
+[Sat May  2 20:33:25 2026] worldspawn has killed Sou1.
+[Sat May  2 20:35:18 2026] <STEAM_0:1:455594560> gREG4IK ran command "goto Dalzmann"
+[Sat May  2 20:35:24 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [625][sw_mi24v]"
+[Sat May  2 20:35:26 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [635][sw_mi35m]"
+[Sat May  2 20:35:27 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [625][sw_mi24a]"
+[Sat May  2 20:35:29 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [635][sw_superhind]"
+[Sat May  2 20:35:32 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [625][sw_uh60q]"
+[Sat May  2 20:35:41 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [625][lvs_helicopter_rebel]"
+[Sat May  2 20:35:47 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [625][lvs_helicopter_rebel]"
+[Sat May  2 20:36:47 2026] worldspawn has killed Sou1.
+[Sat May  2 20:38:19 2026] <STEAM_0:1:455594560> gREG4IK ran command "goto Dalzmann"
+[Sat May  2 20:38:22 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Sat May  2 20:38:22 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [623][tfa_ins2_wpn_m1911colt]"
+[Sat May  2 20:38:30 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [626][lvs_helicopter_combine]"
+[Sat May  2 20:40:43 2026] <STEAM_0:1:618974024> Sou1 spawned prop "Entity [650][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1.mdl)"
+[Sat May  2 20:40:46 2026] <STEAM_0:1:618974024> Sou1 spawned prop "Entity [651][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1.mdl)"
+[Sat May  2 20:40:53 2026] <STEAM_0:1:618974024> Sou1 spawned prop "Entity [650][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1.mdl)"
+[Sat May  2 20:40:53 2026] <STEAM_0:1:618974024> Sou1 spawned prop "Entity [651][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1.mdl)"
+[Sat May  2 20:41:24 2026] Sou1 has killed Sou1.
+[Sat May  2 20:41:29 2026] Player "Sou1" <STEAM_0:1:618974024> has left the server
+[Sat May  2 20:45:20 2026] Player "baj198714" <STEAM_0:1:383919696> is attempting to connect.
+[Sat May  2 21:09:33 2026] Player "denver1106" <STEAM_0:1:862908757> is attempting to connect.
+[Sat May  2 21:37:41 2026] Player "gREG4IK" <STEAM_0:1:455594560> has left the server
+[Sat May  2 21:38:59 2026] Player "Крутой Сигма" <STEAM_0:0:631664025> is attempting to connect.
+[Sat May  2 21:39:07 2026] Player "Bay Harbor Gooner" <STEAM_0:0:452567795> is attempting to connect.
+[Sat May  2 23:01:30 2026] Player "Blue Putis" <STEAM_0:0:953983565> is attempting to connect.
+[Sat May  2 23:14:51 2026] Player "Pioner" <STEAM_0:1:923042528> is attempting to connect.
+[Sat May  2 23:16:05 2026] Player "Pioner" <STEAM_0:1:923042528> has spawned in the server
+[Sat May  2 23:17:45 2026] Player "Pioner" <STEAM_0:1:923042528> has left the server

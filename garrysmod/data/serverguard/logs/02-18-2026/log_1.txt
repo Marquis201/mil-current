@@ -1,0 +1,20 @@
+[Wed Feb 18 15:48:22 2026] Player "∇Xceℓ" <STEAM_0:1:849443122> is attempting to connect.
+[Wed Feb 18 15:48:34 2026] Player "∇Xceℓ" <STEAM_0:1:849443122> is attempting to connect.
+[Wed Feb 18 18:47:13 2026] Player "punk" <STEAM_0:0:921324874> is attempting to connect.
+[Wed Feb 18 18:47:56 2026] Player "punk" <STEAM_0:0:921324874> has spawned in the server
+[Wed Feb 18 19:42:14 2026] Player "SEPblY" <STEAM_0:1:775477485> is attempting to connect.
+[Wed Feb 18 20:53:25 2026] Player "zef1rke_htrspeek" <STEAM_0:1:400181315> is attempting to connect.
+[Wed Feb 18 20:53:35 2026] Player "zef1rke_htrspeek" <STEAM_0:1:400181315> is attempting to connect.
+[Wed Feb 18 20:53:41 2026] Player "Discar" <STEAM_0:0:650470378> is attempting to connect.
+[Wed Feb 18 20:54:33 2026] Player "Discar" <STEAM_0:0:650470378> has spawned in the server
+[Wed Feb 18 20:55:30 2026] <STEAM_0:0:650470378> Discar: /ooc Здарова бандиты
+[Wed Feb 18 20:57:40 2026] <STEAM_0:0:921324874> punk: // нихуя
+[Wed Feb 18 20:57:54 2026] <STEAM_0:0:921324874> punk: // живой человек
+[Wed Feb 18 20:58:09 2026] Player "Discar" <STEAM_0:0:650470378> has left the server
+[Wed Feb 18 20:58:12 2026] Player "Discar" <STEAM_0:0:650470378> is attempting to connect.
+[Wed Feb 18 20:58:57 2026] Player "Discar" <STEAM_0:0:650470378> has spawned in the server
+[Wed Feb 18 21:01:55 2026] Player "Discar" <STEAM_0:0:650470378> has left the server
+[Wed Feb 18 21:07:13 2026] Player "76561198082050760" <STEAM_0:1:413064979> is attempting to connect.
+[Wed Feb 18 21:16:47 2026] Player "76561198082050760" <STEAM_0:1:413064979> has spawned in the server
+[Wed Feb 18 21:19:07 2026] Player "76561198082050760" <STEAM_0:1:413064979> has left the server
+[Wed Feb 18 21:40:20 2026] Player "punk" <STEAM_0:0:921324874> has left the server

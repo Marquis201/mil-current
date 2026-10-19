@@ -1,0 +1,86 @@
+[Wed Dec 31 07:48:57 2025] Player "༒︎シ︎ʰᵉⁿᵗᵃⁱシ" <STEAM_0:0:851601344> is attempting to connect.
+[Wed Dec 31 07:50:01 2025] Player "༒︎シ︎ʰᵉⁿᵗᵃⁱシ" <STEAM_0:0:851601344> has spawned in the server
+[Wed Dec 31 07:51:16 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "ammo CPT A.E. Evergarden"
+[Wed Dec 31 07:57:34 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [505][sw_matv]"
+[Wed Dec 31 07:57:37 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [505][sw_matv]"
+[Wed Dec 31 08:58:03 2025] Player "༒︎シ︎ʰᵉⁿᵗᵃⁱシ" <STEAM_0:0:851601344> has left the server
+[Wed Dec 31 13:17:18 2025] Player "Stasyan" <STEAM_0:1:540259518> is attempting to connect.
+[Wed Dec 31 14:23:15 2025] Player "Фурион Фурион" <STEAM_0:0:623811675> is attempting to connect.
+[Wed Dec 31 14:25:40 2025] Player "thninga" <STEAM_0:1:934870840> is attempting to connect.
+[Wed Dec 31 14:27:35 2025] Player "thninga" <STEAM_0:1:934870840> has spawned in the server
+[Wed Dec 31 14:35:54 2025] Player "Фурион Фурион" <STEAM_0:0:623811675> has spawned in the server
+[Wed Dec 31 14:36:57 2025] Player "thninga" <STEAM_0:1:934870840> has left the server
+[Wed Dec 31 14:37:03 2025] Player "thninga" <STEAM_0:1:934870840> is attempting to connect.
+[Wed Dec 31 14:37:23 2025] <STEAM_0:0:623811675> Фурион Фурион: /name Carter
+[Wed Dec 31 14:37:45 2025] Player "thninga" <STEAM_0:1:934870840> has spawned in the server
+[Wed Dec 31 14:42:32 2025] Player "༒︎シ︎ʰᵉⁿᵗᵃⁱシ" <STEAM_0:0:851601344> is attempting to connect.
+[Wed Dec 31 14:43:35 2025] Player "༒︎シ︎ʰᵉⁿᵗᵃⁱシ" <STEAM_0:0:851601344> has spawned in the server
+[Wed Dec 31 14:46:32 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "ammo CPT A.E. Evergarden"
+[Wed Dec 31 14:48:31 2025] <STEAM_0:0:623811675> Фурион Фурион: капитан
+[Wed Dec 31 14:48:34 2025] <STEAM_0:0:623811675> Фурион Фурион: капитан
+[Wed Dec 31 14:48:38 2025] <STEAM_0:0:623811675> Фурион Фурион: выдайте нам форму
+[Wed Dec 31 14:51:35 2025] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Фурион Фурион.
+[Wed Dec 31 14:52:14 2025] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed thninga.
+[Wed Dec 31 14:52:15 2025] thninga has killed thninga.
+[Wed Dec 31 14:52:42 2025] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Фурион Фурион.
+[Wed Dec 31 14:52:42 2025] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed thninga.
+[Wed Dec 31 14:52:43 2025] Фурион Фурион has killed Фурион Фурион.
+[Wed Dec 31 14:53:32 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "respawn Амнямов"
+[Wed Dec 31 14:53:34 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "send Амнямов"
+[Wed Dec 31 14:53:39 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "respawn ПИДОРАС"
+[Wed Dec 31 14:53:42 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "send ПИДОРАС"
+[Wed Dec 31 14:55:27 2025] <STEAM_0:0:623811675> Фурион Фурион: сам ты пидор
+[Wed Dec 31 14:56:32 2025] Фурион Фурион has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Wed Dec 31 14:56:33 2025] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Wed Dec 31 14:57:06 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [519][sw_rocket_kh47m2_v3]"
+[Wed Dec 31 14:57:12 2025] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Фурион Фурион.
+[Wed Dec 31 14:57:12 2025] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed thninga.
+[Wed Dec 31 14:57:12 2025] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Wed Dec 31 14:57:13 2025] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Wed Dec 31 14:58:31 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "ammo CPT A.E. Evergarden"
+[Wed Dec 31 14:58:42 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [523][lvs_wheeldrive_m3a3]"
+[Wed Dec 31 14:58:46 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [523][sw_matv]"
+[Wed Dec 31 14:59:02 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [523][lvs_wheeldrive_m3a3]"
+[Wed Dec 31 14:59:16 2025] thninga has killed Фурион Фурион.
+[Wed Dec 31 14:59:17 2025] Фурион Фурион has killed Фурион Фурион.
+[Wed Dec 31 15:00:01 2025] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed thninga.
+[Wed Dec 31 15:00:09 2025] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Фурион Фурион.
+[Wed Dec 31 15:00:49 2025] thninga has killed Фурион Фурион.
+[Wed Dec 31 15:00:50 2025] Фурион Фурион has killed Фурион Фурион.
+[Wed Dec 31 15:02:30 2025] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Фурион Фурион.
+[Wed Dec 31 15:02:37 2025] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed thninga.
+[Wed Dec 31 15:02:50 2025] Фурион Фурион has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Wed Dec 31 15:03:58 2025] Фурион Фурион has killed thninga.
+[Wed Dec 31 15:03:58 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "ammo CPT A.E. Evergarden"
+[Wed Dec 31 15:03:58 2025] thninga has killed thninga.
+[Wed Dec 31 15:04:02 2025] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Фурион Фурион.
+[Wed Dec 31 15:04:28 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "hp CPT A.E. Evergarden 1000"
+[Wed Dec 31 15:04:46 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "hp CPT A.E. Evergarden 100000"
+[Wed Dec 31 15:04:57 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [521][sw_rocket_kh47m2_v3]"
+[Wed Dec 31 15:05:04 2025] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Фурион Фурион.
+[Wed Dec 31 15:06:32 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "witchergate"
+[Wed Dec 31 15:06:33 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "witchergate"
+[Wed Dec 31 15:06:33 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "witchergate"
+[Wed Dec 31 15:06:33 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "witchergate"
+[Wed Dec 31 15:06:34 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "witchergate"
+[Wed Dec 31 15:06:58 2025] Player "thninga" <STEAM_0:1:934870840> has left the server
+[Wed Dec 31 15:07:07 2025] Player "Фурион Фурион" <STEAM_0:0:623811675> has left the server
+[Wed Dec 31 17:09:16 2025] Player "ghoprhd" <STEAM_0:0:453883455> is attempting to connect.
+[Wed Dec 31 17:09:29 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "respawn CPT A.E. Evergarden"
+[Wed Dec 31 17:09:40 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "ammo CPT A.E. Evergarden"
+[Wed Dec 31 17:29:21 2025] Player "love.alt.chery" <STEAM_0:1:960383891> is attempting to connect.
+[Wed Dec 31 17:51:13 2025] Player "༒︎シ︎ʰᵉⁿᵗᵃⁱシ" <STEAM_0:0:851601344> has left the server
+[Wed Dec 31 21:15:42 2025] Player "༒︎シ︎ʰᵉⁿᵗᵃⁱシ" <STEAM_0:0:851601344> is attempting to connect.
+[Wed Dec 31 21:16:53 2025] Player "༒︎シ︎ʰᵉⁿᵗᵃⁱシ" <STEAM_0:0:851601344> has spawned in the server
+[Wed Dec 31 21:17:46 2025] Player "༒︎シ︎ʰᵉⁿᵗᵃⁱシ" <STEAM_0:0:851601344> has left the server
+[Wed Dec 31 23:39:26 2025] Player "༒︎シ︎ʰᵉⁿᵗᵃⁱシ" <STEAM_0:0:851601344> is attempting to connect.
+[Wed Dec 31 23:40:39 2025] Player "༒︎シ︎ʰᵉⁿᵗᵃⁱシ" <STEAM_0:0:851601344> has spawned in the server
+[Wed Dec 31 23:41:35 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "ammo CPT A.E. Evergarden"
+[Wed Dec 31 23:42:04 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "ammo CPT A.E. Evergarden"
+[Wed Dec 31 23:42:41 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "ammo CPT A.E. Evergarden"
+[Wed Dec 31 23:43:10 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [507][lvs_wheeldrive_m3a3]"
+[Wed Dec 31 23:43:26 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [507][lvs_wheeldrive_hummer]"
+[Wed Dec 31 23:47:47 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [529][lvs_item_jerrycan]"
+[Wed Dec 31 23:47:52 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [530][lvs_item_jerrycan]"
+[Wed Dec 31 23:48:21 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [529][sw_item_refuel]"
+[Wed Dec 31 23:48:34 2025] Player "༒︎シ︎ʰᵉⁿᵗᵃⁱシ" <STEAM_0:0:851601344> has left the server

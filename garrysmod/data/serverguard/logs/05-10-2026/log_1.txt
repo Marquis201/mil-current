@@ -1,0 +1,156 @@
+[Sun May 10 11:09:58 2026] Player "Резонанс" <STEAM_0:0:756779765> is attempting to connect.
+[Sun May 10 11:30:23 2026] Player "Резонанс" <STEAM_0:0:756779765> has spawned in the server
+[Sun May 10 11:42:58 2026] Player "david280911" <STEAM_0:1:839860057> is attempting to connect.
+[Sun May 10 11:44:18 2026] Player "david280911" <STEAM_0:1:839860057> has spawned in the server
+[Sun May 10 11:54:45 2026] <STEAM_0:1:839860057> david280911: /me взял ящики с патронами и начал тащить в тигр
+[Sun May 10 11:55:24 2026] <STEAM_0:1:839860057> david280911: /me положил в тигр патроны
+[Sun May 10 11:56:28 2026] <STEAM_0:1:839860057> david280911: /pass
+[Sun May 10 12:07:02 2026] Player "david280911" <STEAM_0:1:839860057> has left the server
+[Sun May 10 12:11:11 2026] Player "Резонанс" <STEAM_0:0:756779765> has left the server
+[Sun May 10 13:23:33 2026] Player "VANE4K1NG" <STEAM_0:0:415426226> is attempting to connect.
+[Sun May 10 13:41:26 2026] Player "ПаРаВоЗиК" <STEAM_0:0:621445539> is attempting to connect.
+[Sun May 10 13:58:05 2026] Player "Po_rA1" <STEAM_0:0:887714123> is attempting to connect.
+[Sun May 10 13:59:27 2026] Player "Po_rA1" <STEAM_0:0:887714123> has spawned in the server
+[Sun May 10 14:03:04 2026] Player "Pioner" <STEAM_0:1:923042528> is attempting to connect.
+[Sun May 10 14:04:40 2026] Player "Pioner" <STEAM_0:1:923042528> has spawned in the server
+[Sun May 10 14:05:34 2026] <STEAM_0:0:887714123> Po_rA1: /nato хуй
+[Sun May 10 14:05:39 2026] <STEAM_0:0:887714123> Po_rA1: /rf хуй
+[Sun May 10 14:07:11 2026] <STEAM_0:0:887714123> Po_rA1: /ooc Даров
+[Sun May 10 14:07:20 2026] <STEAM_0:1:923042528> Pioner: /ooc здарова
+[Sun May 10 14:07:28 2026] <STEAM_0:0:887714123> Po_rA1: /ooc Че как дела?
+[Sun May 10 14:07:39 2026] <STEAM_0:0:887714123> Po_rA1: /ooc Че как дела?
+[Sun May 10 14:08:12 2026] <STEAM_0:1:923042528> Pioner: /ooc прекрасно, мне недавно медаль выдали на другом сервере
+[Sun May 10 14:08:29 2026] <STEAM_0:0:887714123> Po_rA1: /ooc Заебись. А че за медаль?
+[Sun May 10 14:08:39 2026] <STEAM_0:1:923042528> Pioner: /ooc Солдатская слава
+[Sun May 10 14:08:51 2026] <STEAM_0:1:923042528> Pioner: /ooc и медаль свободы раньше была
+[Sun May 10 14:08:53 2026] <STEAM_0:0:887714123> Po_rA1: /ooc Красавчик
+[Sun May 10 14:09:51 2026] <STEAM_0:1:923042528> Pioner: /ooc это на MST Война на Вьетнаме
+[Sun May 10 14:10:16 2026] <STEAM_0:0:887714123> Po_rA1: /ooc Нормально. Я вчера буквально на Афган залетел
+[Sun May 10 14:10:49 2026] Player "умный" <STEAM_0:0:581431723> is attempting to connect.
+[Sun May 10 14:11:11 2026] <STEAM_0:1:923042528> Pioner: /ooc у меня в подразделение 3 афганцев кинули
+[Sun May 10 14:11:22 2026] <STEAM_0:0:887714123> Po_rA1: /ooc Нихуя
+[Sun May 10 14:11:44 2026] <STEAM_0:1:923042528> Pioner: /ooc они говорят 67 и друность
+[Sun May 10 14:12:10 2026] <STEAM_0:0:887714123> Po_rA1: /ooc А ты там за кого воюешь?
+[Sun May 10 14:12:26 2026] <STEAM_0:1:923042528> Pioner: /ooc за Вьетнам подразделение Дак Конг
+[Sun May 10 14:12:38 2026] <STEAM_0:0:887714123> Po_rA1: /ooc А. Ну ясно
+[Sun May 10 14:13:15 2026] <STEAM_0:1:923042528> Pioner: /ooc это ты там гранаты кидаешь?
+[Sun May 10 14:13:18 2026] <STEAM_0:0:887714123> Po_rA1: /ooc Ага
+[Sun May 10 14:13:47 2026] <STEAM_0:0:887714123> Po_rA1: /ooc Планируешь сюда возвращаться?
+[Sun May 10 14:13:50 2026] <STEAM_0:0:887714123> Po_rA1: /ooc Планируешь сюда возвращаться?
+[Sun May 10 14:13:59 2026] <STEAM_0:1:923042528> Pioner: /ooc тут онлайна нету
+[Sun May 10 14:14:08 2026] <STEAM_0:1:923042528> Pioner: /ooc а так впринципе готов играть тут
+[Sun May 10 14:14:08 2026] <STEAM_0:0:887714123> Po_rA1: /ooc Ну когда онлайн появится само собой
+[Sun May 10 14:14:11 2026] <STEAM_0:0:887714123> Po_rA1: /ooc Ну когда онлайн появится само собой
+[Sun May 10 14:14:21 2026] <STEAM_0:1:923042528> Pioner: /ooc конечно
+[Sun May 10 14:14:27 2026] <STEAM_0:1:923042528> Pioner: /ooc конечно
+[Sun May 10 14:14:40 2026] <STEAM_0:1:923042528> Pioner: /ooc да буду
+[Sun May 10 14:15:28 2026] <STEAM_0:1:923042528> Pioner: /ooc может своих позовем?
+[Sun May 10 14:15:40 2026] <STEAM_0:0:887714123> Po_rA1: /ooc А че нет?
+[Sun May 10 14:15:49 2026] <STEAM_0:1:923042528> Pioner: /ooc щас позову своих
+[Sun May 10 14:15:57 2026] <STEAM_0:1:923042528> Pioner: /ooc щас позову
+[Sun May 10 14:16:04 2026] <STEAM_0:0:887714123> Po_rA1: /ooc Щас тоже позову
+[Sun May 10 14:17:55 2026] <STEAM_0:1:923042528> Pioner: /ooc все я всех позвал на сервак
+[Sun May 10 14:18:33 2026] Player "умный" <STEAM_0:0:581431723> has spawned in the server
+[Sun May 10 14:18:42 2026] <STEAM_0:0:887714123> Po_rA1: /ooc Та же песня
+[Sun May 10 14:21:04 2026] <STEAM_0:0:581431723> умный: щас
+[Sun May 10 14:21:43 2026] <STEAM_0:1:923042528> Pioner: Пройди инструктора
+[Sun May 10 14:22:09 2026] <STEAM_0:0:581431723> умный: недостаточно средств
+[Sun May 10 14:22:09 2026] <STEAM_0:1:923042528> Pioner: если что писать в чат Y
+[Sun May 10 14:22:20 2026] <STEAM_0:1:923042528> Pioner: что бы говорить нужно зажать X
+[Sun May 10 14:22:50 2026] <STEAM_0:0:581431723> умный: ты меня слышиш
+[Sun May 10 14:22:57 2026] <STEAM_0:1:923042528> Pioner: нет
+[Sun May 10 14:23:53 2026] <STEAM_0:0:581431723> умный: так я же задиние не взял
+[Sun May 10 14:24:01 2026] Player "Совиная попка" <STEAM_0:1:581228616> is attempting to connect.
+[Sun May 10 14:24:15 2026] <STEAM_0:1:923042528> Pioner: какое у тебя сейчас задание?
+[Sun May 10 14:25:06 2026] <STEAM_0:0:581431723> умный: нет
+[Sun May 10 14:25:26 2026] <STEAM_0:1:923042528> Pioner: на E нажми на него
+[Sun May 10 14:25:34 2026] <STEAM_0:0:581431723> умный: скажи есле слыша
+[Sun May 10 14:25:43 2026] <STEAM_0:0:581431723> умный: будеш
+[Sun May 10 14:27:33 2026] <STEAM_0:0:581431723> умный: сбережение ноль
+[Sun May 10 14:28:01 2026] <STEAM_0:0:581431723> умный: у меня сбережение ноль
+[Sun May 10 14:28:11 2026] <STEAM_0:0:581431723> умный: я немагу
+[Sun May 10 14:28:40 2026] <STEAM_0:0:581431723> умный: да
+[Sun May 10 14:28:53 2026] <STEAM_0:0:581431723> умный: пишет недостаточно средств
+[Sun May 10 14:29:15 2026] <STEAM_0:0:581431723> умный: да
+[Sun May 10 14:30:32 2026] <STEAM_0:0:581431723> умный: неть
+[Sun May 10 14:30:34 2026] <STEAM_0:0:581431723> умный: нет
+[Sun May 10 14:31:19 2026] <STEAM_0:0:581431723> умный: нет
+[Sun May 10 14:31:57 2026] <STEAM_0:0:581431723> умный: да
+[Sun May 10 14:32:55 2026] <STEAM_0:0:581431723> умный: а у тебя есть деньги
+[Sun May 10 14:33:13 2026] <STEAM_0:0:581431723> умный: так ани и нужны
+[Sun May 10 14:33:19 2026] <STEAM_0:0:581431723> умный: мне
+[Sun May 10 14:33:27 2026] <STEAM_0:0:581431723> умный: нада
+[Sun May 10 14:33:35 2026] Player "Po_rA1" <STEAM_0:0:887714123> has left the server
+[Sun May 10 14:34:14 2026] <STEAM_0:0:581431723> умный: нельзя
+[Sun May 10 14:35:03 2026] <STEAM_0:0:581431723> умный: да
+[Sun May 10 14:35:19 2026] <STEAM_0:0:581431723> умный: замной
+[Sun May 10 14:36:11 2026] <STEAM_0:0:581431723> умный: нужна 1550\
+[Sun May 10 14:36:22 2026] <STEAM_0:0:581431723> умный: там
+[Sun May 10 14:37:47 2026] <STEAM_0:0:581431723> умный: нужно 1550
+[Sun May 10 14:37:57 2026] <STEAM_0:0:581431723> умный: в абучалке
+[Sun May 10 14:39:04 2026] <STEAM_0:0:581431723> умный: 1. побуйте личный рекорд в тире
+[Sun May 10 14:39:17 2026] <STEAM_0:0:581431723> умный: да\
+[Sun May 10 14:40:11 2026] <STEAM_0:0:581431723> умный: можно если ктото даст 1550
+[Sun May 10 14:43:03 2026] <STEAM_0:0:581431723> умный: Внимание на квадрат: E4
+[Sun May 10 14:43:04 2026] <STEAM_0:0:581431723> умный: Внимание на квадрат: E4
+[Sun May 10 14:49:38 2026] Player "Tesack#OldRust" <STEAM_0:0:390862311> is attempting to connect.
+[Sun May 10 14:52:32 2026] worldspawn has killed умный.
+[Sun May 10 14:56:35 2026] <STEAM_0:0:581431723> умный: lfq 1550
+[Sun May 10 14:56:39 2026] <STEAM_0:0:581431723> умный: дай
+[Sun May 10 14:56:43 2026] <STEAM_0:1:923042528> Pioner: я не знаю как
+[Sun May 10 14:57:04 2026] Player "Tesack#OldRust" <STEAM_0:0:390862311> is attempting to connect.
+[Sun May 10 14:58:06 2026] <STEAM_0:0:581431723> умный: попробуй на е наменя
+[Sun May 10 14:58:47 2026] Player "Tesack#OldRust" <STEAM_0:0:390862311> has spawned in the server
+[Sun May 10 14:59:43 2026] Player "doster" <STEAM_0:1:784931299> is attempting to connect.
+[Sun May 10 15:00:30 2026] <STEAM_0:0:581431723> умный: а чо какда я нажимаю esc у меня показана rub 100
+[Sun May 10 15:00:55 2026] <STEAM_0:0:581431723> умный: рф
+[Sun May 10 15:01:39 2026] <STEAM_0:0:581431723> умный: спроси у него как деньги давать
+[Sun May 10 15:01:53 2026] <STEAM_0:1:923042528> Pioner: /ooc РФ как деньги людям передавать?
+[Sun May 10 15:02:07 2026] <STEAM_0:0:390862311> Tesack#OldRust: /ooc сам не ебу
+[Sun May 10 15:02:26 2026] <STEAM_0:0:390862311> Tesack#OldRust: /ooc че за обдобос слева
+[Sun May 10 15:02:37 2026] <STEAM_0:0:390862311> Tesack#OldRust: /ooc че за обдолбос слева
+[Sun May 10 15:02:56 2026] <STEAM_0:1:923042528> Pioner: /ooc ты про кого?
+[Sun May 10 15:03:24 2026] <STEAM_0:0:390862311> Tesack#OldRust: /ooc ну блять шприц
+[Sun May 10 15:04:53 2026] <STEAM_0:0:390862311> Tesack#OldRust: /ooc ну не захватывайте точки, я выйти из базы не могу что бы дать вам отпор(((
+[Sun May 10 15:05:10 2026] <STEAM_0:1:923042528> Pioner: /ooc почему ты не можешь выйти из базы?
+[Sun May 10 15:05:20 2026] <STEAM_0:0:390862311> Tesack#OldRust: /ooc устав
+[Sun May 10 15:05:28 2026] <STEAM_0:0:390862311> Tesack#OldRust: /ooc устав не велит
+[Sun May 10 15:05:43 2026] <STEAM_0:1:923042528> Pioner: /ooc так похуй никого нет
+[Sun May 10 15:06:03 2026] <STEAM_0:0:390862311> Tesack#OldRust: /ooc бля если щя подполковник зайдёт мне такая пизда будет
+[Sun May 10 15:07:29 2026] <STEAM_0:1:923042528> Pioner: /ooc запроси выхох и жди 1 минуту если нету ответа то можешь идти на бв
+[Sun May 10 15:07:53 2026] <STEAM_0:0:390862311> Tesack#OldRust: /ooc разрещение только в устом виде
+[Sun May 10 15:07:56 2026] Player "умный" <STEAM_0:0:581431723> has left the server
+[Sun May 10 15:08:12 2026] <STEAM_0:1:923042528> Pioner: /ooc ну запрашивай тогда
+[Sun May 10 15:08:34 2026] Pioner has killed Tesack#OldRust.
+[Sun May 10 15:08:42 2026] <STEAM_0:0:390862311> Tesack#OldRust: /ooc ебана рот
+[Sun May 10 15:09:04 2026] <STEAM_0:1:923042528> Pioner: /ooc я этого не ожидал
+[Sun May 10 15:15:27 2026] <STEAM_0:1:923042528> Pioner: /ooc ты где?
+[Sun May 10 15:15:37 2026] <STEAM_0:0:390862311> Tesack#OldRust: /ooc я пирог хаваю
+[Sun May 10 15:16:12 2026] <STEAM_0:0:390862311> Tesack#OldRust: /ooc готов к локдауну?
+[Sun May 10 15:16:40 2026] <STEAM_0:1:923042528> Pioner: /ooc эт че
+[Sun May 10 15:16:50 2026] <STEAM_0:0:390862311> Tesack#OldRust: /ooc карантин как ковид-19
+[Sun May 10 15:17:04 2026] <STEAM_0:1:923042528> Pioner: /ooc я уже
+[Sun May 10 15:17:27 2026] <STEAM_0:1:923042528> Pioner: /ooc да готов
+[Sun May 10 15:17:43 2026] <STEAM_0:0:390862311> Tesack#OldRust: /ooc ns ult&
+[Sun May 10 15:17:56 2026] <STEAM_0:0:390862311> Tesack#OldRust: /ooc ыт где?
+[Sun May 10 15:18:01 2026] <STEAM_0:0:390862311> Tesack#OldRust: /looc ты где?
+[Sun May 10 15:18:55 2026] Pioner has killed Tesack#OldRust.
+[Sun May 10 15:22:25 2026] <STEAM_0:1:923042528> Pioner: /ooc ладно я пожалуй ливну, давай удачи
+[Sun May 10 15:22:27 2026] Player "Pioner" <STEAM_0:1:923042528> has left the server
+[Sun May 10 15:22:32 2026] <STEAM_0:0:390862311> Tesack#OldRust: /ooc удачи
+[Sun May 10 15:25:51 2026] Player "Tesack#OldRust" <STEAM_0:0:390862311> has left the server
+[Sun May 10 15:26:41 2026] Player "Tesack#OldRust" <STEAM_0:0:390862311> is attempting to connect.
+[Sun May 10 15:28:21 2026] Player "Tesack#OldRust" <STEAM_0:0:390862311> has spawned in the server
+[Sun May 10 15:36:33 2026] Player "Tesack#OldRust" <STEAM_0:0:390862311> has left the server
+[Sun May 10 15:37:49 2026] Player "Space" <STEAM_0:1:158116693> is attempting to connect.
+[Sun May 10 15:51:19 2026] Player "Space" <STEAM_0:1:158116693> has spawned in the server
+[Sun May 10 15:55:11 2026] Player "Space" <STEAM_0:1:158116693> has left the server
+[Sun May 10 15:57:46 2026] Player "david280911" <STEAM_0:1:839860057> is attempting to connect.
+[Sun May 10 15:58:48 2026] Player "david280911" <STEAM_0:1:839860057> has spawned in the server
+[Sun May 10 15:59:13 2026] Player "david280911" <STEAM_0:1:839860057> has left the server
+[Sun May 10 17:50:34 2026] Player "КИм ЧИН киН" <STEAM_0:1:395090526> is attempting to connect.
+[Sun May 10 17:54:00 2026] Player "Наш русский тапок" <STEAM_0:0:954458083> is attempting to connect.
+[Sun May 10 19:36:53 2026] Player "dedbaraded83" <STEAM_0:0:756535042> is attempting to connect.
+[Sun May 10 21:01:27 2026] Player "FoxKummannn" <STEAM_0:0:840818498> is attempting to connect.
+[Sun May 10 22:44:05 2026] Player "Igor43709" <STEAM_0:1:416283659> is attempting to connect.
+[Sun May 10 23:07:17 2026] Player "nooK" <STEAM_0:1:819553182> is attempting to connect.

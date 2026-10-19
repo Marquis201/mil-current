@@ -1,0 +1,15 @@
+[Sat Dec 20 09:20:07 2025] Player "OZOR" <STEAM_0:0:85754053> has spawned in the server
+[Sat Dec 20 09:20:57 2025] <STEAM_0:0:85754053> OZOR: /conquest 
+[Sat Dec 20 09:21:00 2025] <STEAM_0:0:85754053> OZOR: !conquest 
+[Sat Dec 20 09:21:20 2025] <STEAM_0:0:85754053> OZOR: //conquest
+[Sat Dec 20 10:17:05 2025] Player "Bot01" <BOT> has spawned in the server
+[Sat Dec 20 10:17:16 2025] <STEAM_0:0:85754053> OZOR ran command "send Bot01"
+[Sat Dec 20 11:09:39 2025] Player "OZOR" <STEAM_0:0:85754053> has left the server
+[Sat Dec 20 11:09:39 2025] Player "Bot01" <BOT> has left the server
+[Sat Dec 20 17:44:44 2025] Player "Аллашка ебанашка" <STEAM_0:1:520072139> is attempting to connect.
+[Sat Dec 20 17:46:25 2025] Player "Аллашка ебанашка" <STEAM_0:1:520072139> has spawned in the server
+[Sat Dec 20 17:47:55 2025] <STEAM_0:1:520072139> Аллашка ебанашка spawned SENT "Entity [267][sw_bmp1]"
+[Sat Dec 20 17:47:57 2025] <STEAM_0:1:520072139> Аллашка ебанашка spawned SENT "Entity [540][sw_bmp1am]"
+[Sat Dec 20 17:48:00 2025] <STEAM_0:1:520072139> Аллашка ебанашка spawned SENT "Entity [267][sw_gaz2330]"
+[Sat Dec 20 17:48:02 2025] <STEAM_0:1:520072139> Аллашка ебанашка spawned SENT "Entity [267][lvs_trailer_flak]"
+[Sat Dec 20 17:59:49 2025] Player "Аллашка ебанашка" <STEAM_0:1:520072139> has left the server

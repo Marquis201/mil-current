@@ -1,0 +1,68 @@
+[Tue Jan 13 18:26:01 2026] Player "Fernández" <STEAM_0:0:79873507> is attempting to connect.
+[Tue Jan 13 18:26:17 2026] Player "Fernández" <STEAM_0:0:79873507> is attempting to connect.
+[Tue Jan 13 18:27:28 2026] Player "Fernández" <STEAM_0:0:79873507> has spawned in the server
+[Tue Jan 13 18:33:55 2026] Player "OZOR" <STEAM_0:0:85754053> has spawned in the server
+[Tue Jan 13 18:34:45 2026] <STEAM_0:0:85754053> OZOR ran command "goto Martinez"
+[Tue Jan 13 18:34:54 2026] <STEAM_0:0:85754053> OZOR: и тут нет свепов
+[Tue Jan 13 18:34:57 2026] <STEAM_0:0:79873507> Fernández: я того рот ебал
+[Tue Jan 13 18:35:04 2026] <STEAM_0:0:79873507> Fernández: это пздц
+[Tue Jan 13 18:35:08 2026] <STEAM_0:0:85754053> OZOR: значит это чтото в сборке
+[Tue Jan 13 18:35:10 2026] <STEAM_0:0:85754053> OZOR: А ЧТО
+[Tue Jan 13 18:35:13 2026] <STEAM_0:0:79873507> Fernández: именно
+[Tue Jan 13 18:35:14 2026] <STEAM_0:0:79873507> Fernández: а что
+[Tue Jan 13 18:35:17 2026] <STEAM_0:0:85754053> OZOR: нахуя удалю igs
+[Tue Jan 13 18:35:22 2026] <STEAM_0:0:79873507> Fernández: я его удалял
+[Tue Jan 13 18:35:22 2026] <STEAM_0:0:85754053> OZOR: а какие ты инструменты добавлял?
+[Tue Jan 13 18:35:24 2026] <STEAM_0:0:79873507> Fernández: не поменяло
+[Tue Jan 13 18:35:32 2026] <STEAM_0:0:79873507> Fernández: я ничего не добавлял в этом и прикол
+[Tue Jan 13 18:35:35 2026] <STEAM_0:0:79873507> Fernández: а что добавил - удалил
+[Tue Jan 13 18:35:40 2026] <STEAM_0:0:79873507> Fernández: для проверки теории
+[Tue Jan 13 18:35:41 2026] <STEAM_0:0:85754053> OZOR: ты просто дал доступ
+[Tue Jan 13 18:35:47 2026] <STEAM_0:0:79873507> Fernández: куда?
+[Tue Jan 13 18:35:59 2026] <STEAM_0:0:85754053> OZOR: ну игрокам
+[Tue Jan 13 18:36:35 2026] <STEAM_0:0:85754053> OZOR: пиздост, самое смешное, что по факту не прогружается часть гмодовских файлов, которые автоматически ранятся
+[Tue Jan 13 18:36:41 2026] <STEAM_0:0:85754053> OZOR: может в адоны кинем?
+[Tue Jan 13 18:36:45 2026] <STEAM_0:0:85754053> OZOR: попробовать
+[Tue Jan 13 18:36:50 2026] <STEAM_0:0:79873507> Fernández: что именно
+[Tue Jan 13 18:36:52 2026] <STEAM_0:0:85754053> OZOR: ваще можно фулл перенести в адоны все
+[Tue Jan 13 18:36:55 2026] <STEAM_0:0:85754053> OZOR: оно будет работать
+[Tue Jan 13 18:36:57 2026] <STEAM_0:0:79873507> Fernández: кхммм
+[Tue Jan 13 18:36:59 2026] <STEAM_0:0:85754053> OZOR: gamemode нахуй не нужен
+[Tue Jan 13 18:37:04 2026] <STEAM_0:0:79873507> Fernández: можно попробовать
+[Tue Jan 13 18:37:18 2026] <STEAM_0:0:85754053> OZOR: ну щас попробую ентити и свепы перенесу, посмотрим
+[Tue Jan 13 18:37:26 2026] <STEAM_0:0:79873507> Fernández: просто прикол в том, что работало ведь до этого
+[Tue Jan 13 18:37:31 2026] <STEAM_0:0:79873507> Fernández: какого хуя перестало в моменте
+[Tue Jan 13 18:37:43 2026] <STEAM_0:0:79873507> Fernández: притом без ошибок нормальных
+[Tue Jan 13 18:37:48 2026] <STEAM_0:0:85754053> OZOR: это произошло в моменте, я с кедром фиксил оружие, пофиксили, сделал рестарт и пизда
+[Tue Jan 13 18:37:59 2026] <STEAM_0:0:85754053> OZOR: но оружие там ничего не влияет точно на это
+[Tue Jan 13 18:38:07 2026] <STEAM_0:0:79873507> Fernández: даже если оружие фиксили то не могло повлиять
+[Tue Jan 13 18:38:11 2026] <STEAM_0:0:79873507> Fernández: я нпс добавил на сервер
+[Tue Jan 13 18:38:17 2026] <STEAM_0:0:79873507> Fernández: они тоже не должны были влиять
+[Tue Jan 13 18:38:23 2026] <STEAM_0:0:85754053> OZOR: вуди сказал владельцу хосту обращаться
+[Tue Jan 13 18:38:24 2026] <STEAM_0:0:79873507> Fernández: даже удалил чисто чтобы проверить
+[Tue Jan 13 18:38:36 2026] <STEAM_0:0:85754053> OZOR: кста проверим доступ к файлам
+[Tue Jan 13 18:38:44 2026] <STEAM_0:0:85754053> OZOR: тута есть
+[Tue Jan 13 18:38:55 2026] <STEAM_0:0:85754053> OZOR: а в том хосте нельзя было редактировать права на папки даже
+[Tue Jan 13 18:41:39 2026] <STEAM_0:0:79873507> Fernández: на крайний случай у меня на гитхабе есть версия с того момента как сервер вышел из тех работ
+[Tue Jan 13 18:41:53 2026] <STEAM_0:0:79873507> Fernández: и потихоньку заливать файлы и смотреть что да как будет
+[Tue Jan 13 18:42:01 2026] <STEAM_0:0:79873507> Fernández: а то это не смешно
+[Tue Jan 13 18:42:09 2026] <STEAM_0:0:79873507> Fernández: :alien:
+[Tue Jan 13 18:42:28 2026] <STEAM_0:0:85754053> OZOR: та я думаю решение перенсти в адоны должно помочь, там же авторан в реальном времени, а в gamemode ебаные подгрузки нужны
+[Tue Jan 13 18:42:41 2026] <STEAM_0:0:79873507> Fernández: supreme moment
+[Tue Jan 13 18:42:51 2026] <STEAM_0:0:85754053> OZOR: sperma moment
+[Tue Jan 13 18:42:59 2026] <STEAM_0:0:79873507> Fernández: мне кажется, дарк рп было бы легче переделать, пхахах
+[Tue Jan 13 18:43:07 2026] <STEAM_0:0:79873507> Fernández: чем заставить работать суприм
+[Tue Jan 13 18:43:17 2026] <STEAM_0:0:85754053> OZOR: ну я с 2015 года сервера делаю, такого не припомню ни разу
+[Tue Jan 13 18:43:25 2026] <STEAM_0:0:79873507> Fernández: да я такая же хуйня
+[Tue Jan 13 18:43:32 2026] <STEAM_0:0:79873507> Fernández: это прикол какой-то
+[Tue Jan 13 18:46:34 2026] Player "Fernández" <STEAM_0:0:79873507> is attempting to connect.
+[Tue Jan 13 18:47:56 2026] Player "OZOR" <STEAM_0:0:85754053> has spawned in the server
+[Tue Jan 13 18:48:38 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [489][bodygroup]"
+[Tue Jan 13 18:50:06 2026] Player "Fernández" <STEAM_0:0:79873507> is attempting to connect.
+[Tue Jan 13 18:50:28 2026] Player "Fernández" <STEAM_0:0:79873507> has spawned in the server
+[Tue Jan 13 18:50:52 2026] <STEAM_0:0:79873507> Fernández ran command "goto ozor"
+[Tue Jan 13 18:55:09 2026] <STEAM_0:0:79873507> Fernández spawned SENT "Entity [495][witcher_gateway]"
+[Tue Jan 13 19:04:28 2026] <STEAM_0:0:79873507> Fernández ran command "menu"
+[Tue Jan 13 19:27:27 2026] Player "Fernández" <STEAM_0:0:79873507> is attempting to connect.
+[Tue Jan 13 19:27:47 2026] Player "Fernández" <STEAM_0:0:79873507> has spawned in the server
+[Tue Jan 13 19:28:07 2026] Player "Fernández" <STEAM_0:0:79873507> has left the server

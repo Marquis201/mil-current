@@ -1,0 +1,381 @@
+[Sun Apr 19 10:47:48 2026] Player "Glass_ton" <STEAM_0:0:827151005> is attempting to connect.
+[Sun Apr 19 10:51:03 2026] Player "Glass_ton" <STEAM_0:0:827151005> has spawned in the server
+[Sun Apr 19 10:53:24 2026] Player "Glass_ton" <STEAM_0:0:827151005> has left the server
+[Sun Apr 19 10:53:26 2026] Player "Glass_ton" <STEAM_0:0:827151005> is attempting to connect.
+[Sun Apr 19 11:18:54 2026] Player "Discar" <STEAM_0:0:650470378> is attempting to connect.
+[Sun Apr 19 12:50:10 2026] Player "kamekadz.banzai" <STEAM_0:0:390862311> is attempting to connect.
+[Sun Apr 19 12:51:44 2026] Player "kamekadz.banzai" <STEAM_0:0:390862311> has spawned in the server
+[Sun Apr 19 12:55:17 2026] worldspawn has killed kamekadz.banzai.
+[Sun Apr 19 12:59:52 2026] worldspawn has killed kamekadz.banzai.
+[Sun Apr 19 13:14:45 2026] worldspawn has killed kamekadz.banzai.
+[Sun Apr 19 13:19:49 2026] Player "fox-white" <STEAM_0:1:92337929> is attempting to connect.
+[Sun Apr 19 13:19:57 2026] Player "kamekadz.banzai" <STEAM_0:0:390862311> has left the server
+[Sun Apr 19 13:47:18 2026] Player "JacketedGaming" <STEAM_0:1:53065620> is attempting to connect.
+[Sun Apr 19 14:18:32 2026] Player "kamekadz.banzai" <STEAM_0:0:390862311> is attempting to connect.
+[Sun Apr 19 14:20:02 2026] Player "kamekadz.banzai" <STEAM_0:0:390862311> has spawned in the server
+[Sun Apr 19 14:44:15 2026] Player "kamekadz.banzai" <STEAM_0:0:390862311> has left the server
+[Sun Apr 19 15:23:37 2026] Player "plusevivan77" <STEAM_0:0:403872493> is attempting to connect.
+[Sun Apr 19 15:26:15 2026] Player "v1c" <STEAM_0:0:105852323> is attempting to connect.
+[Sun Apr 19 15:36:01 2026] Player "76561198778174217" <STEAM_0:1:408954244> is attempting to connect.
+[Sun Apr 19 15:38:06 2026] Player "kamekadz.banzai" <STEAM_0:0:390862311> is attempting to connect.
+[Sun Apr 19 15:39:20 2026] Player "plusevivan77" <STEAM_0:0:403872493> is attempting to connect.
+[Sun Apr 19 15:39:38 2026] Player "kamekadz.banzai" <STEAM_0:0:390862311> has spawned in the server
+[Sun Apr 19 15:45:23 2026] Player "kamekadz.banzai" <STEAM_0:0:390862311> has left the server
+[Sun Apr 19 16:24:00 2026] Player "kamekadz.banzai" <STEAM_0:0:390862311> is attempting to connect.
+[Sun Apr 19 16:24:10 2026] Player "༒︎シ︎ʰᵉⁿᵗᵃⁱシ" <STEAM_0:0:851601344> is attempting to connect.
+[Sun Apr 19 16:25:53 2026] Player "༒︎シ︎ʰᵉⁿᵗᵃⁱシ" <STEAM_0:0:851601344> has spawned in the server
+[Sun Apr 19 16:26:53 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [614][sw_kamaz5350_2b26]"
+[Sun Apr 19 16:27:48 2026] Player "kamekadz.banzai" <STEAM_0:0:390862311> has spawned in the server
+[Sun Apr 19 16:27:51 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [623][sw_kamaz5350_2b26]"
+[Sun Apr 19 16:30:05 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed kamekadz.banzai.
+[Sun Apr 19 16:31:46 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed kamekadz.banzai.
+[Sun Apr 19 16:32:00 2026] kamekadz.banzai has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Sun Apr 19 16:32:20 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "ammo Ангел"
+[Sun Apr 19 16:32:30 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "hp Ангел 100"
+[Sun Apr 19 16:32:37 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "armor Ангел 100"
+[Sun Apr 19 16:32:46 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [631][lvs_helicopter_combine]"
+[Sun Apr 19 16:32:50 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [631][lvs_helicopter_combine]"
+[Sun Apr 19 16:32:53 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [631][lvs_helicopter_combine]"
+[Sun Apr 19 16:34:00 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [650][sw_mi35m]"
+[Sun Apr 19 16:35:13 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "ammo Ангел"
+[Sun Apr 19 16:35:20 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed kamekadz.banzai.
+[Sun Apr 19 16:36:14 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [649][sw_rocket_spikelr_v3]"
+[Sun Apr 19 16:36:15 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Sun Apr 19 16:36:18 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "respawn Ангел"
+[Sun Apr 19 16:36:21 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [621][sw_rocket_spikelr_v3]"
+[Sun Apr 19 16:36:21 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Sun Apr 19 16:36:24 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "respawn Ангел"
+[Sun Apr 19 16:36:27 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [623][sw_rocket_spikelr_v3]"
+[Sun Apr 19 16:36:34 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [623][sw_rocket_spikelr_v3]"
+[Sun Apr 19 16:36:45 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [623][sw_rocket_zt6_v3]"
+[Sun Apr 19 16:36:54 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [623][sw_mh60s]"
+[Sun Apr 19 16:37:11 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [624][sw_mh60l]"
+[Sun Apr 19 16:37:24 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [623][sw_rocket_9m17m_v3]"
+[Sun Apr 19 16:37:27 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [623][sw_rocket_9m17m_v3]"
+[Sun Apr 19 16:37:33 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [623][sw_bomb_brab1000m43_v3]"
+[Sun Apr 19 16:37:36 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed kamekadz.banzai.
+[Sun Apr 19 16:38:26 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [620][sw_bomb_p50t_v3]"
+[Sun Apr 19 16:38:31 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [623][sw_bomb_ofab100_v3]"
+[Sun Apr 19 16:38:39 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [623][sw_bomb_ofab250_v3]"
+[Sun Apr 19 16:38:41 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [623][sw_bomb_ofab250_v3]"
+[Sun Apr 19 16:38:53 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [630][sw_bomb_ofab250_umpk_v3]"
+[Sun Apr 19 16:38:56 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [630][sw_bomb_ofab250_umpk_v3]"
+[Sun Apr 19 16:38:59 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [630][sw_bomb_ofab250_umpk_v3]"
+[Sun Apr 19 16:39:27 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [620][sw_bomb_p50t_v3]"
+[Sun Apr 19 16:39:29 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [620][sw_bomb_p50t_v3]"
+[Sun Apr 19 16:39:33 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [620][sw_bomb_ofab250sh_v3]"
+[Sun Apr 19 16:39:38 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [620][sw_bomb_ofab250sh_v3]"
+[Sun Apr 19 16:39:43 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [620][sw_bomb_ofab250sh_v3]"
+[Sun Apr 19 16:39:54 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Sun Apr 19 16:39:54 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [620][sw_bomb_ofab250sh_v3]"
+[Sun Apr 19 16:40:02 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Sun Apr 19 16:40:02 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [620][sw_bomb_ofab250sh_v3]"
+[Sun Apr 19 16:40:17 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Sun Apr 19 16:40:17 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [620][sw_bomb_odab500_v3]"
+[Sun Apr 19 16:40:25 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Sun Apr 19 16:40:25 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [623][sw_mine_ozm72_v3]"
+[Sun Apr 19 16:40:28 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Sun Apr 19 16:40:28 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [625][sw_mine_ozm72_v3]"
+[Sun Apr 19 16:40:34 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Sun Apr 19 16:40:34 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [625][sw_mine_ozm72_v3]"
+[Sun Apr 19 16:40:35 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Sun Apr 19 16:40:35 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [630][sw_mine_ozm72_v3]"
+[Sun Apr 19 16:40:36 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Sun Apr 19 16:40:36 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [631][sw_mine_ozm72_v3]"
+[Sun Apr 19 16:40:48 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [625][sw_mine_pfm1_v3]"
+[Sun Apr 19 16:40:50 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed kamekadz.banzai.
+[Sun Apr 19 16:41:02 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed kamekadz.banzai.
+[Sun Apr 19 16:41:08 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Sun Apr 19 16:41:11 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "respawn Ангел"
+[Sun Apr 19 16:41:37 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "hp Псковский  1000000000000"
+[Sun Apr 19 16:41:49 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [638][sw_bomb_upab1500v_v3]"
+[Sun Apr 19 16:42:22 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [638][sw_bomb_upab1500v_v3]"
+[Sun Apr 19 16:42:25 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [638][sw_bomb_upab1500v_v3]"
+[Sun Apr 19 16:42:30 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [638][sw_bomb_upab1500v_v3]"
+[Sun Apr 19 16:42:48 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Sun Apr 19 16:42:48 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [630][sw_rocket_kh22_v3]"
+[Sun Apr 19 16:43:04 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [630][sw_rocket_kh101_v3]"
+[Sun Apr 19 16:43:19 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [630][sw_bomb_fab9000m54_v3]"
+[Sun Apr 19 16:43:24 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [630][sw_bomb_fab9000m54_v3]"
+[Sun Apr 19 16:43:31 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [630][sw_bomb_fab9000m54_v3]"
+[Sun Apr 19 16:43:32 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [639][sw_bomb_fab9000m54_v3]"
+[Sun Apr 19 16:43:32 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [640][sw_bomb_fab9000m54_v3]"
+[Sun Apr 19 16:44:11 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Sun Apr 19 16:44:11 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned npc "NPC [66][npc_combine_s]"
+[Sun Apr 19 16:44:11 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Sun Apr 19 16:44:11 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned npc "NPC [76][npc_combine_s]"
+[Sun Apr 19 16:44:13 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Sun Apr 19 16:44:13 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned npc "NPC [70][npc_combine_s]"
+[Sun Apr 19 16:44:13 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Sun Apr 19 16:44:13 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned npc "NPC [81][npc_combine_s]"
+[Sun Apr 19 16:44:14 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Sun Apr 19 16:44:14 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned npc "NPC [84][npc_combine_s]"
+[Sun Apr 19 16:44:14 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Sun Apr 19 16:44:14 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned npc "NPC [87][npc_combine_s]"
+[Sun Apr 19 16:44:14 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Sun Apr 19 16:44:14 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned npc "NPC [90][npc_combine_s]"
+[Sun Apr 19 16:44:14 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Sun Apr 19 16:44:14 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned npc "NPC [93][npc_combine_s]"
+[Sun Apr 19 16:44:15 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Sun Apr 19 16:44:15 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned npc "NPC [97][npc_combine_s]"
+[Sun Apr 19 16:44:15 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Sun Apr 19 16:44:15 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned npc "NPC [100][npc_combine_s]"
+[Sun Apr 19 16:44:15 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Sun Apr 19 16:44:15 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned npc "NPC [103][npc_combine_s]"
+[Sun Apr 19 16:44:15 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Sun Apr 19 16:44:15 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned npc "NPC [106][npc_combine_s]"
+[Sun Apr 19 16:44:15 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Sun Apr 19 16:44:15 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned npc "NPC [109][npc_combine_s]"
+[Sun Apr 19 16:44:16 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Sun Apr 19 16:44:16 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned npc "NPC [112][npc_combine_s]"
+[Sun Apr 19 16:44:16 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Sun Apr 19 16:44:16 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned npc "NPC [115][npc_combine_s]"
+[Sun Apr 19 16:44:24 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "npctarget Ангел"
+[Sun Apr 19 16:44:29 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Sun Apr 19 16:44:29 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned npc "NPC [66][npc_combine_s]"
+[Sun Apr 19 16:44:29 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Sun Apr 19 16:44:29 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned npc "NPC [119][npc_combine_s]"
+[Sun Apr 19 16:44:29 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Sun Apr 19 16:44:29 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned npc "NPC [122][npc_combine_s]"
+[Sun Apr 19 16:44:29 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Sun Apr 19 16:44:29 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned npc "NPC [125][npc_combine_s]"
+[Sun Apr 19 16:44:29 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Sun Apr 19 16:44:29 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned npc "NPC [129][npc_combine_s]"
+[Sun Apr 19 16:44:30 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Sun Apr 19 16:44:30 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned npc "NPC [133][npc_combine_s]"
+[Sun Apr 19 16:44:30 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Sun Apr 19 16:44:30 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned npc "NPC [140][npc_combine_s]"
+[Sun Apr 19 16:44:30 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Sun Apr 19 16:44:30 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned npc "NPC [143][npc_combine_s]"
+[Sun Apr 19 16:44:30 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Sun Apr 19 16:44:30 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned npc "NPC [146][npc_combine_s]"
+[Sun Apr 19 16:44:30 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Sun Apr 19 16:44:30 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned npc "NPC [149][npc_combine_s]"
+[Sun Apr 19 16:44:31 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Sun Apr 19 16:44:31 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned npc "NPC [153][npc_combine_s]"
+[Sun Apr 19 16:44:31 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Sun Apr 19 16:44:31 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned npc "NPC [157][npc_combine_s]"
+[Sun Apr 19 16:44:31 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Sun Apr 19 16:44:31 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned npc "NPC [160][npc_combine_s]"
+[Sun Apr 19 16:44:31 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Sun Apr 19 16:44:31 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned npc "NPC [163][npc_combine_s]"
+[Sun Apr 19 16:44:31 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Sun Apr 19 16:44:31 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned npc "NPC [166][npc_combine_s]"
+[Sun Apr 19 16:44:32 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Sun Apr 19 16:44:32 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned npc "NPC [170][npc_combine_s]"
+[Sun Apr 19 16:44:32 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Sun Apr 19 16:44:32 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned npc "NPC [174][npc_combine_s]"
+[Sun Apr 19 16:44:32 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Sun Apr 19 16:44:32 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned npc "NPC [177][npc_combine_s]"
+[Sun Apr 19 16:44:32 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Sun Apr 19 16:44:32 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned npc "NPC [181][npc_combine_s]"
+[Sun Apr 19 16:44:33 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Sun Apr 19 16:44:33 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned npc "NPC [184][npc_combine_s]"
+[Sun Apr 19 16:44:33 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Sun Apr 19 16:44:33 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned npc "NPC [188][npc_combine_s]"
+[Sun Apr 19 16:44:33 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Sun Apr 19 16:44:33 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned npc "NPC [191][npc_combine_s]"
+[Sun Apr 19 16:44:33 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Sun Apr 19 16:44:33 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned npc "NPC [194][npc_combine_s]"
+[Sun Apr 19 16:44:33 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Sun Apr 19 16:44:33 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned npc "NPC [197][npc_combine_s]"
+[Sun Apr 19 16:44:34 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Sun Apr 19 16:44:34 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned npc "NPC [200][npc_combine_s]"
+[Sun Apr 19 16:44:43 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Sun Apr 19 16:44:43 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [100][sw_rocket_kh29t_v3]"
+[Sun Apr 19 16:44:51 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Sun Apr 19 16:44:51 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [83][sw_rocket_kh29t_v3]"
+[Sun Apr 19 16:45:02 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Sun Apr 19 16:45:02 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [66][sw_rocket_kh29t_v3]"
+[Sun Apr 19 16:45:02 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Sun Apr 19 16:45:02 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [70][sw_rocket_kh29t_v3]"
+[Sun Apr 19 16:45:02 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Sun Apr 19 16:45:02 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [72][sw_rocket_kh29t_v3]"
+[Sun Apr 19 16:45:02 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Sun Apr 19 16:45:02 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [73][sw_rocket_kh29t_v3]"
+[Sun Apr 19 16:45:02 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Sun Apr 19 16:45:02 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [74][sw_rocket_kh29t_v3]"
+[Sun Apr 19 16:45:05 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Sun Apr 19 16:45:05 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [70][sw_rocket_kh29t_v3]"
+[Sun Apr 19 16:45:05 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Sun Apr 19 16:45:05 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [72][sw_rocket_kh29t_v3]"
+[Sun Apr 19 16:45:06 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Sun Apr 19 16:45:06 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [73][sw_rocket_kh29t_v3]"
+[Sun Apr 19 16:45:06 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Sun Apr 19 16:45:06 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [74][sw_rocket_kh29t_v3]"
+[Sun Apr 19 16:45:06 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Sun Apr 19 16:45:06 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [75][sw_rocket_kh29t_v3]"
+[Sun Apr 19 16:45:16 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Sun Apr 19 16:45:16 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [66][sw_rocket_kh29t_v3]"
+[Sun Apr 19 16:45:17 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Sun Apr 19 16:45:17 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Sun Apr 19 16:45:17 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [70][sw_rocket_kh29t_v3]"
+[Sun Apr 19 16:45:17 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Sun Apr 19 16:45:17 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [72][sw_rocket_kh29t_v3]"
+[Sun Apr 19 16:45:17 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Sun Apr 19 16:45:17 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [73][sw_rocket_kh29t_v3]"
+[Sun Apr 19 16:45:17 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Sun Apr 19 16:45:17 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [74][sw_rocket_kh29t_v3]"
+[Sun Apr 19 16:45:18 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Sun Apr 19 16:45:18 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [75][sw_rocket_kh29t_v3]"
+[Sun Apr 19 16:45:21 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed kamekadz.banzai.
+[Sun Apr 19 16:45:37 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [76][lvs_helicopter_rebel]"
+[Sun Apr 19 16:45:42 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [84][lvs_helicopter_rebel]"
+[Sun Apr 19 16:45:44 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [99][lvs_helicopter_rebel]"
+[Sun Apr 19 16:46:55 2026] worldspawn has killed kamekadz.banzai.
+[Sun Apr 19 16:47:22 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "respawn Псковский "
+[Sun Apr 19 16:47:42 2026] Player "Beep" <STEAM_0:0:570454016> is attempting to connect.
+[Sun Apr 19 16:48:56 2026] <STEAM_0:0:390862311> kamekadz.banzai: меня слышно?
+[Sun Apr 19 16:49:03 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed kamekadz.banzai.
+[Sun Apr 19 16:49:26 2026] Player "Beep" <STEAM_0:0:570454016> has spawned in the server
+[Sun Apr 19 16:51:04 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "hp Ангел 100"
+[Sun Apr 19 16:51:30 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "ammo Ангел"
+[Sun Apr 19 16:51:49 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [107][sw_kamaz5350_2b26]"
+[Sun Apr 19 16:52:36 2026] Player "kamekadz.banzai" <STEAM_0:0:390862311> has left the server
+[Sun Apr 19 16:53:18 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [73][sw_kamaz5350_2b26]"
+[Sun Apr 19 16:54:17 2026] Player "kamekadz.banzai" <STEAM_0:0:390862311> is attempting to connect.
+[Sun Apr 19 16:54:29 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [73][sw_hemtt_cargo]"
+[Sun Apr 19 16:54:35 2026] <STEAM_0:0:570454016> Beep ran command "a Остановись"
+[Sun Apr 19 16:54:38 2026] Player "impotent" <STEAM_0:1:425612974> is attempting to connect.
+[Sun Apr 19 16:54:41 2026] <STEAM_0:0:570454016> Beep ran command "a Хватит мой ПК уничтожать."
+[Sun Apr 19 16:54:50 2026] <STEAM_0:0:570454016> Beep ran command "a У меня щас видюха взорвется."
+[Sun Apr 19 16:55:03 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "a ладно"
+[Sun Apr 19 16:55:42 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [74][lvs_helicopter_rebel]"
+[Sun Apr 19 16:56:36 2026] Player "kamekadz.banzai" <STEAM_0:0:390862311> has spawned in the server
+[Sun Apr 19 16:56:39 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [108][sw_puma]"
+[Sun Apr 19 16:56:56 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [108][sw_quadbike]"
+[Sun Apr 19 16:57:01 2026] Player "impotent" <STEAM_0:1:425612974> has spawned in the server
+[Sun Apr 19 16:57:05 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [112][lvs_trailer_flak]"
+[Sun Apr 19 16:57:16 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [112][lvs_trailer_flak]"
+[Sun Apr 19 16:57:23 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [112][lvs_trailer_flak]"
+[Sun Apr 19 16:57:33 2026] Player "uspi" <STEAM_0:0:430990831> is attempting to connect.
+[Sun Apr 19 16:58:36 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [113][lvs_helicopter_rebel]"
+[Sun Apr 19 16:58:45 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [152][lvs_item_gear]"
+[Sun Apr 19 16:58:52 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [201][lvs_item_gear]"
+[Sun Apr 19 16:58:54 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [202][lvs_item_compressor]"
+[Sun Apr 19 16:59:07 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [202][lvs_item_turbo]"
+[Sun Apr 19 16:59:10 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [202][lvs_item_transmission_manual]"
+[Sun Apr 19 16:59:14 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [203][lvs_item_gauge]"
+[Sun Apr 19 16:59:52 2026] Player "uspi" <STEAM_0:0:430990831> has spawned in the server
+[Sun Apr 19 17:07:53 2026] worldspawn has killed kamekadz.banzai.
+[Sun Apr 19 17:17:28 2026] Player "kamekadz.banzai" <STEAM_0:0:390862311> has left the server
+[Sun Apr 19 17:24:25 2026] Player "༒︎シ︎ʰᵉⁿᵗᵃⁱシ" <STEAM_0:0:851601344> has left the server
+[Sun Apr 19 17:27:30 2026] <STEAM_0:0:570454016> Beep spawned SENT "Entity [72][sw_uh60]"
+[Sun Apr 19 17:29:16 2026] impotent has killed Beep.
+[Sun Apr 19 17:29:24 2026] <STEAM_0:0:570454016> Beep ran command "respawn Juggernaut"
+[Sun Apr 19 17:30:39 2026] <STEAM_0:0:570454016> Beep ran command "send Invoker"
+[Sun Apr 19 17:51:15 2026] Player "Sou1" <STEAM_0:1:618974024> is attempting to connect.
+[Sun Apr 19 17:52:50 2026] Player "Sou1" <STEAM_0:1:618974024> has spawned in the server
+[Sun Apr 19 17:53:16 2026] <STEAM_0:1:618974024> Sou1: // ебать я думал тут рф сидит, а все нато в итоге
+[Sun Apr 19 17:53:36 2026] Beep has killed uspi.
+[Sun Apr 19 17:55:07 2026] <STEAM_0:1:618974024> Sou1: // montgomery можешь подлететь?
+[Sun Apr 19 17:55:50 2026] <STEAM_0:1:425612974> impotent: Какую?
+[Sun Apr 19 17:56:55 2026] <STEAM_0:0:570454016> Beep spawned prop "Entity [76][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1_tall.mdl)"
+[Sun Apr 19 17:56:57 2026] impotent has killed Beep.
+[Sun Apr 19 17:56:58 2026] Beep has killed Beep.
+[Sun Apr 19 17:57:00 2026] <STEAM_0:0:570454016> Beep ran command "respawn Juggernaut"
+[Sun Apr 19 18:03:08 2026] Player "shamsutdinovpz" <STEAM_0:0:936907635> is attempting to connect.
+[Sun Apr 19 18:05:28 2026] Player "uspi" <STEAM_0:0:430990831> has left the server
+[Sun Apr 19 18:05:39 2026] Beep has killed impotent.
+[Sun Apr 19 18:09:06 2026] <STEAM_0:0:570454016> Beep spawned prop "Entity [109][alydus_destructiblefortification] (models/props_fortifications/concrete_wall001_96_reference.mdl)"
+[Sun Apr 19 18:10:00 2026] <STEAM_0:1:425612974> impotent spawned npc "NPC [115][npc_hunter]"
+[Sun Apr 19 18:10:05 2026] Player "Discar" <STEAM_0:0:650470378> is attempting to connect.
+[Sun Apr 19 18:10:30 2026] <STEAM_0:0:570454016> Beep spawned SENT "Entity [121][sw_uh60]"
+[Sun Apr 19 18:10:54 2026] <STEAM_0:1:425612974> impotent spawned npc "NPC [119][npc_hunter]"
+[Sun Apr 19 18:11:04 2026] <STEAM_0:1:425612974> impotent spawned npc "NPC [119][npc_combine_s]"
+[Sun Apr 19 18:11:09 2026] Player "Discar" <STEAM_0:0:650470378> has spawned in the server
+[Sun Apr 19 18:11:10 2026] <STEAM_0:1:425612974> impotent spawned npc "NPC [119][npc_combine_s]"
+[Sun Apr 19 18:11:31 2026] <STEAM_0:1:425612974> impotent spawned npc "NPC [119][npc_monk]"
+[Sun Apr 19 18:11:36 2026] <STEAM_0:1:425612974> impotent spawned npc "NPC [119][npc_monk]"
+[Sun Apr 19 18:11:43 2026] <STEAM_0:1:425612974> impotent spawned npc "NPC [119][npc_poisonzombie]"
+[Sun Apr 19 18:11:50 2026] <STEAM_0:1:425612974> impotent spawned npc "NPC [119][npc_antlion_worker]"
+[Sun Apr 19 18:11:51 2026] <STEAM_0:1:425612974> impotent spawned npc "NPC [120][npc_poisonzombie]"
+[Sun Apr 19 18:11:53 2026] <STEAM_0:1:425612974> impotent spawned npc "NPC [119][npc_poisonzombie]"
+[Sun Apr 19 18:11:57 2026] <STEAM_0:0:650470378> Discar: /ooc Еп твою пиздец
+[Sun Apr 19 18:12:04 2026] <STEAM_0:1:425612974> impotent spawned npc "NPC [119][npc_antlionguard]"
+[Sun Apr 19 18:12:06 2026] <STEAM_0:0:650470378> Discar: /ooc мой были?
+[Sun Apr 19 18:12:13 2026] worldspawn has killed Sou1.
+[Sun Apr 19 18:12:13 2026] worldspawn has killed Beep.
+[Sun Apr 19 18:12:16 2026] <STEAM_0:0:570454016> Beep ran command "respawn Juggernaut"
+[Sun Apr 19 18:12:19 2026] <STEAM_0:1:618974024> Sou1: // ахаххаха
+[Sun Apr 19 18:12:20 2026] <STEAM_0:0:570454016> Beep ran command "respawn Dalzmann"
+[Sun Apr 19 18:12:25 2026] <STEAM_0:0:650470378> Discar: /ooc мой были?
+[Sun Apr 19 18:12:40 2026] <STEAM_0:1:425612974> impotent spawned npc "NPC [114][npc_antlionguard]"
+[Sun Apr 19 18:12:49 2026] <STEAM_0:0:570454016> Beep: /ooc Шо?
+[Sun Apr 19 18:12:55 2026] <STEAM_0:0:570454016> Beep spawned SENT "Entity [96][sw_uh60]"
+[Sun Apr 19 18:13:05 2026] <STEAM_0:0:650470378> Discar: /ooc мой дэбики были?
+[Sun Apr 19 18:13:14 2026] <STEAM_0:0:570454016> Beep: /ooc Неи
+[Sun Apr 19 18:13:27 2026] <STEAM_0:0:650470378> Discar: /ooc значит снова без отчета
+[Sun Apr 19 18:13:39 2026] <STEAM_0:1:618974024> Sou1: // готовь пво
+[Sun Apr 19 18:14:05 2026] <STEAM_0:0:650470378> Discar: /ooc я танкист а не водитель ПВО
+[Sun Apr 19 18:14:16 2026] Player "impotent" <STEAM_0:1:425612974> has left the server
+[Sun Apr 19 18:16:37 2026] <STEAM_0:0:570454016> Beep spawned SENT "Entity [96][sw_uh60]"
+[Sun Apr 19 18:18:45 2026] Player "АРБУЗИК" <STEAM_0:0:959824042> is attempting to connect.
+[Sun Apr 19 18:19:38 2026] <STEAM_0:0:570454016> Beep spawned SENT "Entity [96][sw_mi24v]"
+[Sun Apr 19 18:19:44 2026] <STEAM_0:0:570454016> Beep spawned SENT "Entity [96][sw_mi24a]"
+[Sun Apr 19 18:19:55 2026] <STEAM_0:0:570454016> Beep spawned SENT "Entity [96][sw_mi35m]"
+[Sun Apr 19 18:20:32 2026] <STEAM_0:0:570454016> Beep spawned SENT "Entity [96][sw_superhind]"
+[Sun Apr 19 18:20:37 2026] <STEAM_0:0:570454016> Beep spawned SENT "Entity [96][sw_uh60j]"
+[Sun Apr 19 18:21:57 2026] <STEAM_0:0:570454016> Beep ran command "goto Dalzmann"
+[Sun Apr 19 18:22:13 2026] Player "shamsutdinovpz" <STEAM_0:0:936907635> has spawned in the server
+[Sun Apr 19 18:22:15 2026] <STEAM_0:0:570454016> Beep spawned SENT "Entity [96][sw_uh60q]"
+[Sun Apr 19 18:22:21 2026] Player "Discar" <STEAM_0:0:650470378> has left the server
+[Sun Apr 19 18:22:34 2026] <STEAM_0:0:570454016> Beep spawned SENT "Entity [72][sw_ah1z]"
+[Sun Apr 19 18:22:41 2026] <STEAM_0:0:570454016> Beep spawned SENT "Entity [72][sw_uh60]"
+[Sun Apr 19 18:22:57 2026] <STEAM_0:0:570454016> Beep spawned SENT "Entity [72][sw_mi35m]"
+[Sun Apr 19 18:23:17 2026] worldspawn has killed Beep.
+[Sun Apr 19 18:23:21 2026] <STEAM_0:0:570454016> Beep ran command "respawn Juggernaut"
+[Sun Apr 19 18:23:53 2026] <STEAM_0:0:570454016> Beep spawned SENT "Entity [72][sw_superhind]"
+[Sun Apr 19 18:23:56 2026] <STEAM_0:0:570454016> Beep spawned SENT "Entity [72][sw_mi35m]"
+[Sun Apr 19 18:26:10 2026] worldspawn has killed Sou1.
+[Sun Apr 19 18:26:50 2026] <STEAM_0:0:570454016> Beep ran command "send Dalzmann"
+[Sun Apr 19 18:27:08 2026] Player "Beep" <STEAM_0:0:570454016> has left the server
+[Sun Apr 19 18:28:09 2026] Player "Sou1" <STEAM_0:1:618974024> has left the server
+[Sun Apr 19 18:30:39 2026] Player "DEPO" <STEAM_0:1:923161118> is attempting to connect.
+[Sun Apr 19 18:37:13 2026] Player "shamsutdinovpz" <STEAM_0:0:936907635> has left the server
+[Sun Apr 19 18:37:13 2026] Player "shamsutdinovpz" <STEAM_0:0:936907635> is attempting to connect.
+[Sun Apr 19 18:40:31 2026] Player "tohiro" <STEAM_0:0:99492375> is attempting to connect.
+[Sun Apr 19 18:41:19 2026] Player "tohiro" <STEAM_0:0:99492375> has spawned in the server
+[Sun Apr 19 19:10:13 2026] Player "tohiro" <STEAM_0:0:99492375> has left the server
+[Sun Apr 19 19:41:11 2026] Player "Rubik" <STEAM_0:1:414468803> is attempting to connect.
+[Sun Apr 19 20:02:28 2026] Player "Pioner" <STEAM_0:1:923042528> is attempting to connect.
+[Sun Apr 19 20:05:29 2026] Player "Pioner" <STEAM_0:1:923042528> is attempting to connect.
+[Sun Apr 19 20:06:56 2026] Player "Pioner" <STEAM_0:1:923042528> has spawned in the server
+[Sun Apr 19 20:12:22 2026] Player "Pioner" <STEAM_0:1:923042528> has left the server
+[Sun Apr 19 20:26:29 2026] Player "kamekadz.banzai" <STEAM_0:0:390862311> is attempting to connect.
+[Sun Apr 19 20:37:24 2026] Player "gREG4IK" <STEAM_0:1:455594560> is attempting to connect.
+[Sun Apr 19 20:38:57 2026] Player "gREG4IK" <STEAM_0:1:455594560> has spawned in the server
+[Sun Apr 19 21:03:34 2026] Player "kpplaya12" <STEAM_0:0:743691779> is attempting to connect.
+[Sun Apr 19 21:07:33 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [72][sw_uh60]"
+[Sun Apr 19 21:07:36 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [72][sw_mi24a]"
+[Sun Apr 19 21:07:39 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [72][sw_ah1s]"
+[Sun Apr 19 21:07:41 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [72][sw_mi24p]"
+[Sun Apr 19 21:07:42 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [76][sw_mi24p]"
+[Sun Apr 19 21:07:43 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [72][sw_mi24v]"
+[Sun Apr 19 21:07:46 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [72][sw_superhind]"
+[Sun Apr 19 21:07:49 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [72][sw_ah1z]"
+[Sun Apr 19 21:07:52 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [72][sw_uh60]"
+[Sun Apr 19 21:07:55 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [72][sw_uh60j]"
+[Sun Apr 19 21:11:07 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [72][sw_uh60j]"
+[Sun Apr 19 21:11:12 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [72][sw_uh60q]"
+[Sun Apr 19 21:11:13 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [108][sw_uh60q]"
+[Sun Apr 19 21:11:22 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [72][sw_mi35m]"
+[Sun Apr 19 21:11:23 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [76][sw_mi24v]"
+[Sun Apr 19 21:12:29 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [72][sw_uh60j]"
+[Sun Apr 19 21:12:30 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [123][sw_uh60]"
+[Sun Apr 19 21:13:15 2026] Player "Beep" <STEAM_0:0:570454016> is attempting to connect.
+[Sun Apr 19 21:15:19 2026] Player "Beep" <STEAM_0:0:570454016> has spawned in the server
+[Sun Apr 19 21:22:45 2026] <STEAM_0:0:570454016> Beep spawned SENT "Entity [105][sw_uh60]"
+[Sun Apr 19 21:25:07 2026] <STEAM_0:0:570454016> Beep spawned SENT "Entity [104][sw_uh60]"
+[Sun Apr 19 21:30:43 2026] worldspawn has killed Beep.
+[Sun Apr 19 21:34:10 2026] <STEAM_0:0:570454016> Beep spawned SENT "Entity [96][lvs_helicopter_combinegunship]"
+[Sun Apr 19 21:34:25 2026] worldspawn has killed Beep.
+[Sun Apr 19 21:34:33 2026] <STEAM_0:0:570454016> Beep ran command "respawn Juggernaut"
+[Sun Apr 19 21:34:47 2026] <STEAM_0:0:570454016> Beep spawned SENT "Entity [95][sw_vdvbuggy]"
+[Sun Apr 19 21:34:53 2026] <STEAM_0:0:570454016> Beep spawned SENT "Entity [95][sw_matv]"
+[Sun Apr 19 21:35:22 2026] <STEAM_0:0:570454016> Beep spawned SENT "Entity [95][sw_mh60l]"
+[Sun Apr 19 21:35:31 2026] <STEAM_0:0:570454016> Beep spawned SENT "Entity [135][sw_mh60s]"
+[Sun Apr 19 21:35:59 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [95][npc_vj_re5_em81]"
+[Sun Apr 19 21:36:20 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [95][npc_vj_re5_em84]"
+[Sun Apr 19 21:36:42 2026] Player "Beep" <STEAM_0:0:570454016> has left the server
+[Sun Apr 19 21:43:31 2026] Player "gREG4IK" <STEAM_0:1:455594560> has left the server

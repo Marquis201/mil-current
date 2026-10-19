@@ -1,0 +1,21 @@
+[Mon Mar  2 01:16:19 2026] Player "❤️Sweety❤" <STEAM_0:1:802315130> is attempting to connect.
+[Mon Mar  2 01:25:22 2026] Player "❤️Sweety❤" <STEAM_0:1:802315130> has spawned in the server
+[Mon Mar  2 02:24:40 2026] Player "❤️Sweety❤" <STEAM_0:1:802315130> has left the server
+[Mon Mar  2 15:35:48 2026] Player "MAN" <STEAM_0:0:903102139> is attempting to connect.
+[Mon Mar  2 16:30:01 2026] Player "ХЕДШОТ" <STEAM_0:1:915308720> is attempting to connect.
+[Mon Mar  2 19:52:08 2026] Player "2ac M1RamI" <STEAM_0:1:761638898> is attempting to connect.
+[Mon Mar  2 19:59:51 2026] Player "SpermoBak228" <STEAM_0:0:153914366> is attempting to connect.
+[Mon Mar  2 21:18:51 2026] Player "OZOR" <STEAM_0:0:85754053> has spawned in the server
+[Mon Mar  2 22:00:51 2026] Player "Desruktor" <STEAM_0:0:787889461> is attempting to connect.
+[Mon Mar  2 22:10:45 2026] Player "Desruktor" <STEAM_0:0:787889461> has spawned in the server
+[Mon Mar  2 22:14:37 2026] Player "< blank >" <STEAM_0:1:408916003> is attempting to connect.
+[Mon Mar  2 22:52:46 2026] worldspawn has killed OZOR.
+[Mon Mar  2 22:52:54 2026] <STEAM_0:0:85754053> OZOR ran command "respawn Ковалев"
+[Mon Mar  2 22:53:41 2026] Player "OZOR" <STEAM_0:0:85754053> has left the server
+[Mon Mar  2 22:56:17 2026] Player "OZOR" <STEAM_0:0:85754053> has spawned in the server
+[Mon Mar  2 22:57:23 2026] Player "Desruktor" <STEAM_0:0:787889461> has left the server
+[Mon Mar  2 22:57:27 2026] Player "DonaldJack" <STEAM_0:1:646441276> is attempting to connect.
+[Mon Mar  2 23:02:10 2026] Player "OZOR" <STEAM_0:0:85754053> has left the server
+[Mon Mar  2 23:04:05 2026] Player "OZOR" <STEAM_0:0:85754053> has spawned in the server
+[Mon Mar  2 23:08:31 2026] <STEAM_0:0:85754053> OZOR: фвыа
+[Mon Mar  2 23:45:32 2026] <STEAM_0:0:85754053> OZOR: фыва

@@ -1,0 +1,338 @@
+[Fri Apr  3 06:33:12 2026] Player "Po_rA1" <STEAM_0:0:887714123> is attempting to connect.
+[Fri Apr  3 06:34:06 2026] Player "Po_rA1" <STEAM_0:0:887714123> has spawned in the server
+[Fri Apr  3 06:44:50 2026] Player "Po_rA1" <STEAM_0:0:887714123> has left the server
+[Fri Apr  3 08:28:20 2026] Player "Sou1" <STEAM_0:1:618974024> is attempting to connect.
+[Fri Apr  3 08:29:35 2026] Player "Sou1" <STEAM_0:1:618974024> has spawned in the server
+[Fri Apr  3 08:30:19 2026] Player "Sou1" <STEAM_0:1:618974024> has left the server
+[Fri Apr  3 08:31:14 2026] Player "Sou1" <STEAM_0:1:618974024> is attempting to connect.
+[Fri Apr  3 08:31:34 2026] Player "Sou1" <STEAM_0:1:618974024> has spawned in the server
+[Fri Apr  3 08:32:26 2026] Player "Sou1" <STEAM_0:1:618974024> has left the server
+[Fri Apr  3 08:32:58 2026] Player "Sou1" <STEAM_0:1:618974024> is attempting to connect.
+[Fri Apr  3 08:33:22 2026] Player "Sou1" <STEAM_0:1:618974024> has spawned in the server
+[Fri Apr  3 08:34:34 2026] Player "Sou1" <STEAM_0:1:618974024> has left the server
+[Fri Apr  3 08:36:11 2026] Player "Sou1" <STEAM_0:1:618974024> is attempting to connect.
+[Fri Apr  3 08:36:32 2026] Player "Sou1" <STEAM_0:1:618974024> has spawned in the server
+[Fri Apr  3 08:37:00 2026] Player "Sou1" <STEAM_0:1:618974024> has left the server
+[Fri Apr  3 08:37:41 2026] Player "Sou1" <STEAM_0:1:618974024> is attempting to connect.
+[Fri Apr  3 08:38:08 2026] Player "Sou1" <STEAM_0:1:618974024> has spawned in the server
+[Fri Apr  3 08:45:36 2026] <STEAM_0:1:618974024> Sou1: /adminzone
+[Fri Apr  3 08:46:25 2026] <STEAM_0:1:618974024> Sou1: /heal
+[Fri Apr  3 08:46:26 2026] <STEAM_0:1:618974024> Sou1: /hp 100
+[Fri Apr  3 08:46:35 2026] <STEAM_0:1:618974024> Sou1 ran command "hp ^ 100"
+[Fri Apr  3 08:47:17 2026] <STEAM_0:1:618974024> Sou1 ran command "hp ^ 100"
+[Fri Apr  3 08:47:37 2026] <STEAM_0:1:618974024> Sou1 ran command "hp ^ 100"
+[Fri Apr  3 08:49:55 2026] <STEAM_0:1:618974024> Sou1 ran command "hp ^ 100"
+[Fri Apr  3 08:50:21 2026] Player "Sou1" <STEAM_0:1:618974024> has left the server
+[Fri Apr  3 08:50:27 2026] Player "Sou1" <STEAM_0:1:618974024> is attempting to connect.
+[Fri Apr  3 08:50:49 2026] Player "Sou1" <STEAM_0:1:618974024> has spawned in the server
+[Fri Apr  3 09:30:32 2026] Player "Pioner" <STEAM_0:1:923042528> is attempting to connect.
+[Fri Apr  3 09:40:19 2026] Player "marina310824" <STEAM_0:1:902575649> is attempting to connect.
+[Fri Apr  3 09:41:52 2026] Player "Pioner" <STEAM_0:1:923042528> has spawned in the server
+[Fri Apr  3 09:42:41 2026] Player "marina310824" <STEAM_0:1:902575649> has spawned in the server
+[Fri Apr  3 09:43:04 2026] Player "marina310824" <STEAM_0:1:902575649> has left the server
+[Fri Apr  3 09:46:53 2026] Player "marina310824" <STEAM_0:1:902575649> is attempting to connect.
+[Fri Apr  3 09:46:59 2026] Player "marina310824" <STEAM_0:1:902575649> is attempting to connect.
+[Fri Apr  3 09:47:56 2026] Player "marina310824" <STEAM_0:1:902575649> has spawned in the server
+[Fri Apr  3 09:48:17 2026] Player "marina310824" <STEAM_0:1:902575649> has left the server
+[Fri Apr  3 09:55:17 2026] <STEAM_0:1:618974024> Sou1: // ты новенький, натовец?
+[Fri Apr  3 09:55:25 2026] <STEAM_0:1:923042528> Pioner: /ooc да
+[Fri Apr  3 09:55:54 2026] <STEAM_0:1:618974024> Sou1: // в КХО там шкафчик по сути есть зелёный, можешь одежду поменять
+[Fri Apr  3 09:56:53 2026] Player "Болотный Навальн" <STEAM_0:0:586457449> is attempting to connect.
+[Fri Apr  3 09:58:31 2026] Player "Болотный Навальн" <STEAM_0:0:586457449> has spawned in the server
+[Fri Apr  3 10:00:29 2026] <STEAM_0:0:586457449> Болотный Навальн: /ooc если че я пока афк. Devis не позорь нас и не проиграй русу
+[Fri Apr  3 10:07:47 2026] Player "XXX | BLAZE" <STEAM_0:0:945510105> is attempting to connect.
+[Fri Apr  3 10:37:50 2026] <STEAM_0:1:618974024> Sou1: // я вернулся
+[Fri Apr  3 10:48:00 2026] Player "Sou1" <STEAM_0:1:618974024> has left the server
+[Fri Apr  3 11:18:13 2026] <STEAM_0:0:586457449> Болотный Навальн: /ooc я тут
+[Fri Apr  3 11:19:45 2026] worldspawn has killed Болотный Навальн.
+[Fri Apr  3 11:19:54 2026] <STEAM_0:0:586457449> Болотный Навальн: /ooc А ты не афк..
+[Fri Apr  3 11:20:03 2026] <STEAM_0:0:586457449> Болотный Навальн: /ooc ща реснусь возражу
+[Fri Apr  3 11:20:19 2026] <STEAM_0:0:586457449> Болотный Навальн: // ща реснусь осовобожу
+[Fri Apr  3 11:20:23 2026] <STEAM_0:0:586457449> Болотный Навальн: // ща
+[Fri Apr  3 11:23:14 2026] worldspawn has killed Pioner.
+[Fri Apr  3 11:29:27 2026] Pioner has killed Болотный Навальн.
+[Fri Apr  3 11:29:38 2026] <STEAM_0:0:586457449> Болотный Навальн: // лан давай второй раунд
+[Fri Apr  3 11:32:18 2026] Pioner has killed Болотный Навальн.
+[Fri Apr  3 11:32:24 2026] <STEAM_0:0:586457449> Болотный Навальн: // скок хп?
+[Fri Apr  3 11:32:34 2026] <STEAM_0:1:923042528> Pioner: /ooc 92
+[Fri Apr  3 11:32:42 2026] <STEAM_0:1:923042528> Pioner: /ooc 62 брони
+[Fri Apr  3 11:32:44 2026] <STEAM_0:0:586457449> Болотный Навальн: // у тебя что по броне?
+[Fri Apr  3 11:32:56 2026] <STEAM_0:0:586457449> Болотный Навальн: // че по броне? я в тебя ровно въебал магазин
+[Fri Apr  3 11:35:01 2026] Pioner has killed Болотный Навальн.
+[Fri Apr  3 11:35:06 2026] <STEAM_0:0:586457449> Болотный Навальн: // скок хп?
+[Fri Apr  3 11:35:14 2026] <STEAM_0:1:923042528> Pioner: /OOC 67
+[Fri Apr  3 11:35:21 2026] <STEAM_0:1:923042528> Pioner: /ooc 67
+[Fri Apr  3 11:35:34 2026] <STEAM_0:1:923042528> Pioner: /ooc я чутка подлечился
+[Fri Apr  3 11:35:49 2026] <STEAM_0:0:586457449> Болотный Навальн: // бля м4 хуета
+[Fri Apr  3 11:36:40 2026] Player "Болотный Навальн" <STEAM_0:0:586457449> has left the server
+[Fri Apr  3 11:36:55 2026] Player "Pioner" <STEAM_0:1:923042528> has left the server
+[Fri Apr  3 12:31:10 2026] Player "ТАГИЛЛА" <STEAM_0:1:782845482> is attempting to connect.
+[Fri Apr  3 12:33:00 2026] Player "ТАГИЛЛА" <STEAM_0:1:782845482> has spawned in the server
+[Fri Apr  3 12:38:06 2026] Player "Po_rA1" <STEAM_0:0:887714123> is attempting to connect.
+[Fri Apr  3 12:39:15 2026] Player "Po_rA1" <STEAM_0:0:887714123> has spawned in the server
+[Fri Apr  3 12:40:13 2026] <STEAM_0:0:887714123> Po_rA1: /ooc Нормалды вообще
+[Fri Apr  3 12:48:26 2026] Po_rA1 has killed ТАГИЛЛА.
+[Fri Apr  3 12:51:06 2026] Po_rA1 has killed ТАГИЛЛА.
+[Fri Apr  3 12:51:08 2026] <STEAM_0:1:782845482> ТАГИЛЛА: .. хавхыахх\
+[Fri Apr  3 12:51:10 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // хавхыахыа
+[Fri Apr  3 12:51:21 2026] <STEAM_0:0:887714123> Po_rA1: /ooc С прилетом
+[Fri Apr  3 12:51:28 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // ххыхых спасибо
+[Fri Apr  3 12:53:12 2026] ТАГИЛЛА has killed Po_rA1.
+[Fri Apr  3 12:53:30 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /me забрал оружие и сс
+[Fri Apr  3 12:54:31 2026] ТАГИЛЛА has killed Po_rA1.
+[Fri Apr  3 12:54:51 2026] <STEAM_0:0:887714123> Po_rA1: /ooc СС средства связи?
+[Fri Apr  3 12:54:54 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // да
+[Fri Apr  3 12:55:24 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // cc- сиськи собаки
+[Fri Apr  3 12:59:44 2026] worldspawn has killed Po_rA1.
+[Fri Apr  3 13:00:41 2026] worldspawn has killed Po_rA1.
+[Fri Apr  3 13:01:16 2026] worldspawn has killed Po_rA1.
+[Fri Apr  3 13:04:14 2026] ТАГИЛЛА has killed Po_rA1.
+[Fri Apr  3 13:06:10 2026] ТАГИЛЛА has killed Po_rA1.
+[Fri Apr  3 13:06:26 2026] Po_rA1 has killed ТАГИЛЛА.
+[Fri Apr  3 13:07:17 2026] Po_rA1 has killed ТАГИЛЛА.
+[Fri Apr  3 13:07:25 2026] <STEAM_0:0:887714123> Po_rA1: /me Предьявил военный билет [Черданцев А.А. Чугун][РЯД][6-я ОУЭ][ВСРФ]
+[Fri Apr  3 13:07:46 2026] Po_rA1 has killed ТАГИЛЛА.
+[Fri Apr  3 13:10:03 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // ээээээ
+[Fri Apr  3 13:23:20 2026] <STEAM_0:1:782845482> ТАГИЛЛА spawned prop "Entity [645][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1.mdl)"
+[Fri Apr  3 13:23:22 2026] <STEAM_0:1:782845482> ТАГИЛЛА spawned prop "Entity [652][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1.mdl)"
+[Fri Apr  3 13:23:23 2026] <STEAM_0:1:782845482> ТАГИЛЛА spawned prop "Entity [668][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1.mdl)"
+[Fri Apr  3 13:23:24 2026] <STEAM_0:1:782845482> ТАГИЛЛА spawned prop "Entity [669][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1.mdl)"
+[Fri Apr  3 13:23:25 2026] <STEAM_0:1:782845482> ТАГИЛЛА spawned prop "Entity [670][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1.mdl)"
+[Fri Apr  3 13:23:27 2026] <STEAM_0:1:782845482> ТАГИЛЛА spawned prop "Entity [671][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1.mdl)"
+[Fri Apr  3 13:23:28 2026] <STEAM_0:1:782845482> ТАГИЛЛА spawned prop "Entity [672][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1.mdl)"
+[Fri Apr  3 13:23:29 2026] <STEAM_0:1:782845482> ТАГИЛЛА spawned prop "Entity [673][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1.mdl)"
+[Fri Apr  3 13:23:30 2026] <STEAM_0:1:782845482> ТАГИЛЛА spawned prop "Entity [674][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1.mdl)"
+[Fri Apr  3 13:23:47 2026] <STEAM_0:1:782845482> ТАГИЛЛА spawned prop "Entity [645][alydus_destructiblefortification] (models/props_fortifications/concrete_wall001_96_reference.mdl)"
+[Fri Apr  3 13:23:48 2026] <STEAM_0:1:782845482> ТАГИЛЛА spawned prop "Entity [652][alydus_destructiblefortification] (models/props_fortifications/concrete_wall001_96_reference.mdl)"
+[Fri Apr  3 13:23:49 2026] <STEAM_0:1:782845482> ТАГИЛЛА spawned prop "Entity [668][alydus_destructiblefortification] (models/props_fortifications/concrete_wall001_96_reference.mdl)"
+[Fri Apr  3 13:23:50 2026] <STEAM_0:1:782845482> ТАГИЛЛА spawned prop "Entity [669][alydus_destructiblefortification] (models/props_fortifications/concrete_wall001_96_reference.mdl)"
+[Fri Apr  3 13:23:51 2026] <STEAM_0:1:782845482> ТАГИЛЛА spawned prop "Entity [670][alydus_destructiblefortification] (models/props_fortifications/concrete_wall001_96_reference.mdl)"
+[Fri Apr  3 13:23:52 2026] <STEAM_0:1:782845482> ТАГИЛЛА spawned prop "Entity [671][alydus_destructiblefortification] (models/props_fortifications/concrete_wall001_96_reference.mdl)"
+[Fri Apr  3 13:23:53 2026] <STEAM_0:1:782845482> ТАГИЛЛА spawned prop "Entity [672][alydus_destructiblefortification] (models/props_fortifications/concrete_wall001_96_reference.mdl)"
+[Fri Apr  3 13:23:55 2026] <STEAM_0:1:782845482> ТАГИЛЛА spawned prop "Entity [673][alydus_destructiblefortification] (models/props_fortifications/concrete_wall001_96_reference.mdl)"
+[Fri Apr  3 13:23:56 2026] <STEAM_0:1:782845482> ТАГИЛЛА spawned prop "Entity [674][alydus_destructiblefortification] (models/props_fortifications/concrete_wall001_96_reference.mdl)"
+[Fri Apr  3 13:23:57 2026] <STEAM_0:1:782845482> ТАГИЛЛА spawned prop "Entity [675][alydus_destructiblefortification] (models/props_fortifications/concrete_wall001_96_reference.mdl)"
+[Fri Apr  3 13:23:57 2026] <STEAM_0:1:782845482> ТАГИЛЛА spawned prop "Entity [676][alydus_destructiblefortification] (models/props_fortifications/concrete_wall001_96_reference.mdl)"
+[Fri Apr  3 13:24:01 2026] <STEAM_0:1:782845482> ТАГИЛЛА spawned prop "Entity [677][alydus_destructiblefortification] (models/props_fortifications/concrete_wall001_96_reference.mdl)"
+[Fri Apr  3 13:24:02 2026] <STEAM_0:1:782845482> ТАГИЛЛА spawned prop "Entity [678][alydus_destructiblefortification] (models/props_fortifications/concrete_wall001_96_reference.mdl)"
+[Fri Apr  3 13:24:03 2026] <STEAM_0:1:782845482> ТАГИЛЛА spawned prop "Entity [679][alydus_destructiblefortification] (models/props_fortifications/concrete_wall001_96_reference.mdl)"
+[Fri Apr  3 13:24:12 2026] <STEAM_0:1:782845482> ТАГИЛЛА spawned prop "Entity [680][alydus_destructiblefortification] (models/props_street/police_barricade2.mdl)"
+[Fri Apr  3 13:24:13 2026] <STEAM_0:1:782845482> ТАГИЛЛА spawned prop "Entity [681][alydus_destructiblefortification] (models/props_street/police_barricade2.mdl)"
+[Fri Apr  3 13:24:14 2026] <STEAM_0:1:782845482> ТАГИЛЛА spawned prop "Entity [682][alydus_destructiblefortification] (models/props_street/police_barricade2.mdl)"
+[Fri Apr  3 13:25:39 2026] Po_rA1 has killed ТАГИЛЛА.
+[Fri Apr  3 13:25:43 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // да сука нечестно
+[Fri Apr  3 13:26:05 2026] <STEAM_0:0:887714123> Po_rA1: /ooc Говорит мне человек с флаем
+[Fri Apr  3 13:26:12 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // так я пешком бегал
+[Fri Apr  3 13:26:33 2026] <STEAM_0:0:887714123> Po_rA1: /ooc Так быстро точки отхватываешь
+[Fri Apr  3 13:26:46 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /com суки русские сьебались с завода или пизды выхватите
+[Fri Apr  3 13:27:07 2026] <STEAM_0:0:887714123> Po_rA1: /com Мы тут пендосам бургеры раздаем
+[Fri Apr  3 13:27:14 2026] <STEAM_0:0:887714123> Po_rA1: /com Сюда пиздуйте
+[Fri Apr  3 13:27:17 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /com у вас 1
+[Fri Apr  3 13:27:23 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /com минута
+[Fri Apr  3 13:27:29 2026] <STEAM_0:0:887714123> Po_rA1: /com у нас тысяча бургеров
+[Fri Apr  3 13:28:49 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /me скинул оружие на землю
+[Fri Apr  3 13:29:06 2026] <STEAM_0:0:887714123> Po_rA1: /me Забрал сс
+[Fri Apr  3 13:29:09 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /me точным ударом локтем в лицо
+[Fri Apr  3 13:29:19 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /me точным ударом локтем в лицо вырубил
+[Fri Apr  3 13:29:32 2026] Po_rA1 has killed ТАГИЛЛА.
+[Fri Apr  3 13:29:38 2026] <STEAM_0:1:782845482> ТАГИЛЛА: воч демо
+[Fri Apr  3 13:29:53 2026] <STEAM_0:0:887714123> Po_rA1: /me Забрал тазер
+[Fri Apr  3 13:30:15 2026] <STEAM_0:1:782845482> ТАГИЛЛА spawned prop "Entity [636][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1.mdl)"
+[Fri Apr  3 13:33:07 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /com пошел нахуй русский
+[Fri Apr  3 13:33:17 2026] <STEAM_0:0:887714123> Po_rA1: /com Пизда тебе бургер
+[Fri Apr  3 13:33:25 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /com бургер в пузе у тебя
+[Fri Apr  3 13:33:33 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /com бургер в пузе у тебя
+[Fri Apr  3 13:33:57 2026] <STEAM_0:0:887714123> Po_rA1: /com Ну хоть съел, а не в жопу запихал как вы
+[Fri Apr  3 13:34:04 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /rp взял новое оружие
+[Fri Apr  3 13:36:22 2026] Po_rA1 has killed ТАГИЛЛА.
+[Fri Apr  3 13:36:44 2026] <STEAM_0:0:887714123> Po_rA1: /rp Снял штаны и помочился на труп Нато
+[Fri Apr  3 13:37:02 2026] <STEAM_0:0:887714123> Po_rA1: /rp Одел штаны
+[Fri Apr  3 13:37:15 2026] <STEAM_0:0:887714123> Po_rA1: /ooc Без обид
+[Fri Apr  3 13:37:18 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // похуй
+[Fri Apr  3 13:37:37 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // убил
+[Fri Apr  3 13:38:11 2026] Po_rA1 has killed ТАГИЛЛА.
+[Fri Apr  3 13:38:16 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // я ебал этот оружие
+[Fri Apr  3 13:38:22 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // скок осталось хп
+[Fri Apr  3 13:38:33 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // скок осталось хп
+[Fri Apr  3 13:38:35 2026] <STEAM_0:0:887714123> Po_rA1: /rp Достал нож и вырезал на лбу натовца надпись "Мы русские, с нами бог"
+[Fri Apr  3 13:39:50 2026] ТАГИЛЛА has killed Po_rA1.
+[Fri Apr  3 13:40:11 2026] <STEAM_0:1:782845482> ТАГИЛЛА: нармалды
+[Fri Apr  3 13:40:19 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /rp снял штаны и паписал
+[Fri Apr  3 13:40:23 2026] Po_rA1 has killed ТАГИЛЛА.
+[Fri Apr  3 13:40:25 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /RP ОДЕЛ ШТАны
+[Fri Apr  3 13:40:38 2026] <STEAM_0:1:782845482> ТАГИЛЛА: лан я пошелл бб
+[Fri Apr  3 13:40:39 2026] Player "ТАГИЛЛА" <STEAM_0:1:782845482> has left the server
+[Fri Apr  3 13:40:48 2026] <STEAM_0:0:887714123> Po_rA1: /rp  Выреазл на лбу натовца надпись "333"
+[Fri Apr  3 13:42:28 2026] <STEAM_0:0:887714123> Po_rA1: /rp Достал нож и вырезал на лбу натовца надпись (Мы русские, с нами бог)
+[Fri Apr  3 13:43:05 2026] <STEAM_0:0:887714123> Po_rA1: /rp Достал нож и вырезал на лбу натовца надпись (Мы русские, с нами бог)
+[Fri Apr  3 13:44:17 2026] <STEAM_0:0:887714123> Po_rA1: /me Показал доккументы [Колесников] [Должность: 3-я Мотострелковая Бриг
+[Fri Apr  3 13:44:37 2026] <STEAM_0:0:887714123> Po_rA1: /me Показал доккументы Колесников Должность: 3-я Мотострелковая Брига�
+[Fri Apr  3 13:44:40 2026] <STEAM_0:0:887714123> Po_rA1: /me Показал доккументы Колесников Должность: 3-я Мотострелковая Брига�
+[Fri Apr  3 13:44:44 2026] <STEAM_0:0:887714123> Po_rA1: /me Показал доккументы Колесников Должность: 3-я Мотострелковая Брига�
+[Fri Apr  3 13:44:52 2026] Player "Po_rA1" <STEAM_0:0:887714123> has left the server
+[Fri Apr  3 15:15:38 2026] Player "Kotik" <STEAM_0:1:558349975> is attempting to connect.
+[Fri Apr  3 15:16:15 2026] Player "Kotik" <STEAM_0:1:558349975> has spawned in the server
+[Fri Apr  3 15:20:40 2026] Player "Po_rA1" <STEAM_0:0:887714123> is attempting to connect.
+[Fri Apr  3 15:21:43 2026] Player "Po_rA1" <STEAM_0:0:887714123> has spawned in the server
+[Fri Apr  3 15:22:55 2026] <STEAM_0:0:887714123> Po_rA1: /ooc Воевать пойдешь?
+[Fri Apr  3 15:33:44 2026] Player "THE-_-Reper" <STEAM_0:1:526999954> is attempting to connect.
+[Fri Apr  3 15:34:54 2026] Player "THE-_-Reper" <STEAM_0:1:526999954> has spawned in the server
+[Fri Apr  3 15:36:54 2026] Player ""White"" <STEAM_0:1:514738252> is attempting to connect.
+[Fri Apr  3 15:38:21 2026] Player ""White"" <STEAM_0:1:514738252> has spawned in the server
+[Fri Apr  3 15:42:35 2026] <STEAM_0:1:558349975> Kotik: /nato есть РЧ?
+[Fri Apr  3 15:44:11 2026] <STEAM_0:1:558349975> Kotik: /nato есть РЧ?
+[Fri Apr  3 15:44:36 2026] <STEAM_0:1:558349975> Kotik: /nato раз нету то жду всех на 124
+[Fri Apr  3 15:47:41 2026] Player "Po_rA1" <STEAM_0:0:887714123> has left the server
+[Fri Apr  3 15:50:09 2026] worldspawn has killed Kotik.
+[Fri Apr  3 15:50:30 2026] Player "Discar" <STEAM_0:0:650470378> is attempting to connect.
+[Fri Apr  3 15:51:20 2026] Player "Discar" <STEAM_0:0:650470378> has spawned in the server
+[Fri Apr  3 15:52:39 2026] THE-_-Reper has killed Kotik.
+[Fri Apr  3 15:52:39 2026] Kotik has killed Kotik.
+[Fri Apr  3 15:52:50 2026] THE-_-Reper has killed Kotik.
+[Fri Apr  3 15:53:03 2026] <STEAM_0:0:650470378> Discar: /ooc Всем привет
+[Fri Apr  3 15:53:33 2026] "White" has killed Kotik.
+[Fri Apr  3 15:54:24 2026] "White" has killed Kotik.
+[Fri Apr  3 15:55:23 2026] "White" has killed Kotik.
+[Fri Apr  3 15:56:00 2026] Player "Discar" <STEAM_0:0:650470378> has left the server
+[Fri Apr  3 15:56:58 2026] Player "marina310824" <STEAM_0:1:902575649> is attempting to connect.
+[Fri Apr  3 15:57:31 2026] Player "marina310824" <STEAM_0:1:902575649> has spawned in the server
+[Fri Apr  3 15:58:41 2026] Player "marina310824" <STEAM_0:1:902575649> has left the server
+[Fri Apr  3 16:03:37 2026] Player "Lord of the world" <STEAM_0:1:425432238> is attempting to connect.
+[Fri Apr  3 16:05:12 2026] Player "Lord of the world" <STEAM_0:1:425432238> has spawned in the server
+[Fri Apr  3 16:14:23 2026] "White" has killed THE-_-Reper.
+[Fri Apr  3 16:14:35 2026] "White" has killed THE-_-Reper.
+[Fri Apr  3 16:22:50 2026] Player "Kotik" <STEAM_0:1:558349975> has left the server
+[Fri Apr  3 16:26:26 2026] Player "Болотный Навальн" <STEAM_0:0:586457449> is attempting to connect.
+[Fri Apr  3 16:28:23 2026] Player "Болотный Навальн" <STEAM_0:0:586457449> has spawned in the server
+[Fri Apr  3 16:29:34 2026] Player "Beep" <STEAM_0:0:570454016> is attempting to connect.
+[Fri Apr  3 16:30:45 2026] <STEAM_0:0:586457449> Болотный Навальн: // ахуенно.давайте друг друга хуярить
+[Fri Apr  3 16:31:03 2026] <STEAM_0:1:526999954> THE-_-Reper: /ooc тут уже один обиделся на нас
+[Fri Apr  3 16:31:08 2026] <STEAM_0:0:586457449> Болотный Навальн: // ?
+[Fri Apr  3 16:31:13 2026] <STEAM_0:1:526999954> THE-_-Reper: /ooc из немчуры
+[Fri Apr  3 16:31:15 2026] <STEAM_0:0:586457449> Болотный Навальн: // ?
+[Fri Apr  3 16:33:07 2026] worldspawn has killed Болотный Навальн.
+[Fri Apr  3 16:33:15 2026] <STEAM_0:0:586457449> Болотный Навальн: // ХАХАХАХАХ
+[Fri Apr  3 16:33:46 2026] Player "THE-_-Reper" <STEAM_0:1:526999954> has left the server
+[Fri Apr  3 16:33:56 2026] Player "THE-_-Reper" <STEAM_0:1:526999954> is attempting to connect.
+[Fri Apr  3 16:34:04 2026] <STEAM_0:0:586457449> Болотный Навальн: // где ты мйо хороший
+[Fri Apr  3 16:34:40 2026] Player "THE-_-Reper" <STEAM_0:1:526999954> has spawned in the server
+[Fri Apr  3 16:35:48 2026] <STEAM_0:0:586457449> Болотный Навальн: // всем пока это навальный и меня шукаэ тцк
+[Fri Apr  3 16:35:50 2026] Player "Болотный Навальн" <STEAM_0:0:586457449> has left the server
+[Fri Apr  3 16:37:56 2026] Player "Lord of the world" <STEAM_0:1:425432238> has left the server
+[Fri Apr  3 16:45:20 2026] Player "Limbo" <STEAM_0:0:791981714> is attempting to connect.
+[Fri Apr  3 16:46:52 2026] Player ""White"" <STEAM_0:1:514738252> has left the server
+[Fri Apr  3 16:50:05 2026] Player "Po_rA1" <STEAM_0:0:887714123> is attempting to connect.
+[Fri Apr  3 16:51:12 2026] Player "Po_rA1" <STEAM_0:0:887714123> has spawned in the server
+[Fri Apr  3 16:51:13 2026] Player "THE-_-Reper" <STEAM_0:1:526999954> has left the server
+[Fri Apr  3 17:25:03 2026] Player "Po_rA1" <STEAM_0:0:887714123> has left the server
+[Fri Apr  3 18:29:35 2026] Player "Discar" <STEAM_0:0:650470378> is attempting to connect.
+[Fri Apr  3 18:30:23 2026] Player "Discar" <STEAM_0:0:650470378> has spawned in the server
+[Fri Apr  3 18:32:07 2026] Player "david280911" <STEAM_0:1:839860057> is attempting to connect.
+[Fri Apr  3 18:38:47 2026] Player "david280911" <STEAM_0:1:839860057> has spawned in the server
+[Fri Apr  3 18:41:18 2026] Player "Discar" <STEAM_0:0:650470378> has left the server
+[Fri Apr  3 18:47:27 2026] Player "david280911" <STEAM_0:1:839860057> has left the server
+[Fri Apr  3 20:34:41 2026] Player "marina310824" <STEAM_0:1:902575649> is attempting to connect.
+[Fri Apr  3 20:35:42 2026] Player "marina310824" <STEAM_0:1:902575649> has spawned in the server
+[Fri Apr  3 20:35:58 2026] Player "marina310824" <STEAM_0:1:902575649> has left the server
+[Fri Apr  3 20:36:57 2026] Player "punk" <STEAM_0:0:921324874> is attempting to connect.
+[Fri Apr  3 20:37:37 2026] Player "punk" <STEAM_0:0:921324874> has spawned in the server
+[Fri Apr  3 20:38:40 2026] <STEAM_0:0:921324874> punk spawned prop "Entity [651][prop_physics] (models/props_borealis/door_wheel001a.mdl)"
+[Fri Apr  3 20:38:46 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [651][sent_ball]"
+[Fri Apr  3 20:38:46 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [652][sent_ball]"
+[Fri Apr  3 20:38:46 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [653][sent_ball]"
+[Fri Apr  3 20:38:46 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [654][sent_ball]"
+[Fri Apr  3 20:38:46 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [658][sent_ball]"
+[Fri Apr  3 20:38:46 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [659][sent_ball]"
+[Fri Apr  3 20:38:47 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [660][sent_ball]"
+[Fri Apr  3 20:38:47 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [661][sent_ball]"
+[Fri Apr  3 20:38:47 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [665][sent_ball]"
+[Fri Apr  3 20:38:47 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [666][sent_ball]"
+[Fri Apr  3 20:38:47 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [667][sent_ball]"
+[Fri Apr  3 20:38:48 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [668][sent_ball]"
+[Fri Apr  3 20:38:48 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [669][sent_ball]"
+[Fri Apr  3 20:38:48 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [670][sent_ball]"
+[Fri Apr  3 20:38:48 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [671][sent_ball]"
+[Fri Apr  3 20:38:49 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [672][sent_ball]"
+[Fri Apr  3 20:38:49 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [673][sent_ball]"
+[Fri Apr  3 20:38:49 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [674][sent_ball]"
+[Fri Apr  3 20:38:49 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [675][sent_ball]"
+[Fri Apr  3 20:39:04 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [651][sw_uav_catapult]"
+[Fri Apr  3 20:39:06 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [652][sw_bomb_brab500m43_v3]"
+[Fri Apr  3 20:39:11 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [652][sw_bomb_brab500m43_v3]"
+[Fri Apr  3 20:39:39 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [654][sw_bomb_ao1_v3]"
+[Fri Apr  3 20:39:44 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [654][sw_bomb_brab500m43_v3]"
+[Fri Apr  3 20:39:57 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [654][sw_rocket_3m7_v3]"
+[Fri Apr  3 20:40:08 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [654][sw_rocket_9m131_v3]"
+[Fri Apr  3 20:40:30 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [651][sw_bomb_fab9000m54_v3]"
+[Fri Apr  3 20:40:56 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [651][sw_rocket_kh47m2_v3]"
+[Fri Apr  3 20:41:00 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [651][sw_rocket_kh66_v3]"
+[Fri Apr  3 20:41:13 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [651][sw_rocket_s25ofm_v3]"
+[Fri Apr  3 20:41:17 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [651][sw_rocket_kh23m_v3]"
+[Fri Apr  3 20:41:19 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [651][sw_rocket_kh22_v3]"
+[Fri Apr  3 20:41:38 2026] <STEAM_0:0:921324874> punk spawned npc "NPC [653][npc_combine_s]"
+[Fri Apr  3 20:41:38 2026] <STEAM_0:0:921324874> punk spawned npc "NPC [661][npc_combine_s]"
+[Fri Apr  3 20:41:38 2026] <STEAM_0:0:921324874> punk spawned npc "NPC [667][npc_combine_s]"
+[Fri Apr  3 20:41:38 2026] <STEAM_0:0:921324874> punk spawned npc "NPC [669][npc_combine_s]"
+[Fri Apr  3 20:41:39 2026] <STEAM_0:0:921324874> punk spawned npc "NPC [654][npc_combine_s]"
+[Fri Apr  3 20:41:39 2026] <STEAM_0:0:921324874> punk spawned npc "NPC [674][npc_combine_s]"
+[Fri Apr  3 20:41:39 2026] <STEAM_0:0:921324874> punk spawned npc "NPC [678][npc_combine_s]"
+[Fri Apr  3 20:41:39 2026] <STEAM_0:0:921324874> punk spawned npc "NPC [681][npc_combine_s]"
+[Fri Apr  3 20:41:39 2026] <STEAM_0:0:921324874> punk spawned npc "NPC [685][npc_combine_s]"
+[Fri Apr  3 20:41:39 2026] <STEAM_0:0:921324874> punk spawned npc "NPC [689][npc_combine_s]"
+[Fri Apr  3 20:41:40 2026] <STEAM_0:0:921324874> punk spawned npc "NPC [692][npc_combine_s]"
+[Fri Apr  3 20:41:40 2026] <STEAM_0:0:921324874> punk spawned npc "NPC [694][npc_combine_s]"
+[Fri Apr  3 20:41:40 2026] <STEAM_0:0:921324874> punk spawned npc "NPC [699][npc_combine_s]"
+[Fri Apr  3 20:41:40 2026] <STEAM_0:0:921324874> punk spawned npc "NPC [703][npc_combine_s]"
+[Fri Apr  3 20:41:41 2026] <STEAM_0:0:921324874> punk spawned npc "NPC [707][npc_combine_s]"
+[Fri Apr  3 20:41:41 2026] <STEAM_0:0:921324874> punk spawned npc "NPC [710][npc_combine_s]"
+[Fri Apr  3 20:41:41 2026] <STEAM_0:0:921324874> punk spawned npc "NPC [714][npc_combine_s]"
+[Fri Apr  3 20:41:41 2026] <STEAM_0:0:921324874> punk spawned npc "NPC [718][npc_combine_s]"
+[Fri Apr  3 20:41:41 2026] <STEAM_0:0:921324874> punk spawned npc "NPC [722][npc_combine_s]"
+[Fri Apr  3 20:41:42 2026] <STEAM_0:0:921324874> punk spawned npc "NPC [725][npc_combine_s]"
+[Fri Apr  3 20:41:42 2026] <STEAM_0:0:921324874> punk spawned npc "NPC [728][npc_combine_s]"
+[Fri Apr  3 20:41:42 2026] <STEAM_0:0:921324874> punk spawned npc "NPC [731][npc_combine_s]"
+[Fri Apr  3 20:41:42 2026] <STEAM_0:0:921324874> punk spawned npc "NPC [734][npc_combine_s]"
+[Fri Apr  3 20:41:42 2026] <STEAM_0:0:921324874> punk spawned npc "NPC [737][npc_combine_s]"
+[Fri Apr  3 20:41:43 2026] <STEAM_0:0:921324874> punk spawned npc "NPC [740][npc_combine_s]"
+[Fri Apr  3 20:41:43 2026] <STEAM_0:0:921324874> punk spawned npc "NPC [743][npc_combine_s]"
+[Fri Apr  3 20:41:43 2026] <STEAM_0:0:921324874> punk spawned npc "NPC [746][npc_combine_s]"
+[Fri Apr  3 20:41:43 2026] <STEAM_0:0:921324874> punk spawned npc "NPC [749][npc_combine_s]"
+[Fri Apr  3 20:41:43 2026] <STEAM_0:0:921324874> punk spawned npc "NPC [753][npc_combine_s]"
+[Fri Apr  3 20:41:44 2026] <STEAM_0:0:921324874> punk spawned npc "NPC [756][npc_combine_s]"
+[Fri Apr  3 20:41:44 2026] <STEAM_0:0:921324874> punk spawned npc "NPC [759][npc_combine_s]"
+[Fri Apr  3 20:41:44 2026] <STEAM_0:0:921324874> punk spawned npc "NPC [761][npc_combine_s]"
+[Fri Apr  3 20:41:44 2026] <STEAM_0:0:921324874> punk spawned npc "NPC [766][npc_combine_s]"
+[Fri Apr  3 20:41:45 2026] <STEAM_0:0:921324874> punk spawned npc "NPC [770][npc_combine_s]"
+[Fri Apr  3 20:41:45 2026] <STEAM_0:0:921324874> punk spawned npc "NPC [774][npc_combine_s]"
+[Fri Apr  3 20:41:45 2026] <STEAM_0:0:921324874> punk spawned npc "NPC [777][npc_combine_s]"
+[Fri Apr  3 20:41:45 2026] <STEAM_0:0:921324874> punk spawned npc "NPC [779][npc_combine_s]"
+[Fri Apr  3 20:41:45 2026] <STEAM_0:0:921324874> punk spawned npc "NPC [783][npc_combine_s]"
+[Fri Apr  3 20:41:45 2026] <STEAM_0:0:921324874> punk spawned npc "NPC [785][npc_combine_s]"
+[Fri Apr  3 20:41:46 2026] <STEAM_0:0:921324874> punk spawned npc "NPC [789][npc_combine_s]"
+[Fri Apr  3 20:41:46 2026] <STEAM_0:0:921324874> punk spawned npc "NPC [792][npc_combine_s]"
+[Fri Apr  3 20:41:46 2026] <STEAM_0:0:921324874> punk spawned npc "NPC [794][npc_combine_s]"
+[Fri Apr  3 20:42:03 2026] <STEAM_0:0:921324874> punk spawned npc "NPC [651][npc_combine_s]"
+[Fri Apr  3 20:42:18 2026] <STEAM_0:0:921324874> punk spawned npc "NPC [651][npc_vj_test_aerial]"
+[Fri Apr  3 20:42:30 2026] <STEAM_0:0:921324874> punk spawned npc "NPC [651][npc_vj_test_player]"
+[Fri Apr  3 20:42:33 2026] <STEAM_0:0:921324874> punk spawned npc "NPC [651][npc_vj_test_player]"
+[Fri Apr  3 20:42:40 2026] <STEAM_0:0:921324874> punk spawned npc "NPC [651][npc_vj_test_interactive]"
+[Fri Apr  3 20:42:49 2026] <STEAM_0:0:921324874> punk spawned npc "NPC [651][npc_vj_test_player]"
+[Fri Apr  3 20:42:53 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [658][sw_hemtt_cargo]"
+[Fri Apr  3 20:42:58 2026] <STEAM_0:0:921324874> punk spawned vehicle "Vehicle [658][prop_vehicle_jeep]"
+[Fri Apr  3 20:43:12 2026] <STEAM_0:0:921324874> punk: /logs
+[Fri Apr  3 20:46:01 2026] <STEAM_0:0:921324874> punk ran command "respawn Панков"
+[Fri Apr  3 20:46:08 2026] worldspawn has killed punk.
+[Fri Apr  3 20:46:10 2026] <STEAM_0:0:921324874> punk ran command "respawn Панков"
+[Fri Apr  3 20:46:17 2026] worldspawn has killed punk.
+[Fri Apr  3 20:46:18 2026] <STEAM_0:0:921324874> punk ran command "respawn Панков"
+[Fri Apr  3 20:46:24 2026] worldspawn has killed punk.
+[Fri Apr  3 20:46:25 2026] <STEAM_0:0:921324874> punk ran command "respawn Панков"
+[Fri Apr  3 20:46:28 2026] <STEAM_0:0:921324874> punk: /logs
+[Fri Apr  3 20:46:48 2026] <STEAM_0:0:921324874> punk spawned npc "NPC [630][npc_combine_s]"
+[Fri Apr  3 20:46:48 2026] <STEAM_0:0:921324874> punk spawned npc "NPC [640][npc_combine_s]"
+[Fri Apr  3 20:46:49 2026] npc_combine_s has killed punk.
+[Fri Apr  3 20:46:52 2026] <STEAM_0:0:921324874> punk ran command "respawn Панков"
+[Fri Apr  3 20:46:54 2026] <STEAM_0:0:921324874> punk: /logs
+[Fri Apr  3 20:47:05 2026] <STEAM_0:0:921324874> punk: /logs
+[Fri Apr  3 20:47:14 2026] <STEAM_0:0:921324874> punk: /logs
+[Fri Apr  3 20:59:09 2026] Player "punk" <STEAM_0:0:921324874> has left the server

@@ -1,0 +1,15 @@
+[Fri Feb 27 06:53:42 2026] Player "БОЛЬШОЙ БРАТ" <STEAM_0:1:69505253> is attempting to connect.
+[Fri Feb 27 07:03:33 2026] Player "БОЛЬШОЙ БРАТ" <STEAM_0:1:69505253> has spawned in the server
+[Fri Feb 27 07:05:56 2026] Player "БОЛЬШОЙ БРАТ" <STEAM_0:1:69505253> has left the server
+[Fri Feb 27 16:27:45 2026] Player "NAVI" <STEAM_0:1:410036396> is attempting to connect.
+[Fri Feb 27 16:57:38 2026] Player "AdamWest2075" <STEAM_0:1:893935327> is attempting to connect.
+[Fri Feb 27 18:06:50 2026] Player "Misha262017" <STEAM_0:1:391244697> is attempting to connect.
+[Fri Feb 27 18:30:09 2026] Player "artemPRO" <STEAM_0:1:387604523> is attempting to connect.
+[Fri Feb 27 18:36:47 2026] Player "Дошик с курицей" <STEAM_0:1:837487355> is attempting to connect.
+[Fri Feb 27 18:38:37 2026] Player "likil" <STEAM_0:0:886654735> is attempting to connect.
+[Fri Feb 27 18:51:25 2026] Player "likil" <STEAM_0:0:886654735> has spawned in the server
+[Fri Feb 27 18:53:57 2026] Player "likil" <STEAM_0:0:886654735> has left the server
+[Fri Feb 27 19:02:23 2026] Player "Чапаев" <STEAM_0:0:774073964> is attempting to connect.
+[Fri Feb 27 19:15:01 2026] Player "Чапаев" <STEAM_0:0:774073964> has spawned in the server
+[Fri Feb 27 19:27:33 2026] Player "Чапаев" <STEAM_0:0:774073964> has left the server
+[Fri Feb 27 20:35:25 2026] Player "Lynhoe" <STEAM_0:0:586992439> is attempting to connect.

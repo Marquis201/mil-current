@@ -1,0 +1,1 @@
+{"seethrough":true,"enableFlags":true,"rewardTick":10,"showRadiusCircle":true,"enabledMap":true,"annouceCaptures":true,"rewardTickAmount":53,"reward":true}

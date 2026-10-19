@@ -1,0 +1,892 @@
+[Tue Apr  7 01:46:00 2026] Player "OZOR" <STEAM_0:0:85754053> has spawned in the server
+[Tue Apr  7 01:53:31 2026] <STEAM_0:0:85754053> OZOR: /character
+[Tue Apr  7 02:00:18 2026] <STEAM_0:0:85754053> OZOR: /character
+[Tue Apr  7 02:32:31 2026] Player "OZOR" <STEAM_0:0:85754053> has left the server
+[Tue Apr  7 09:47:38 2026] Player "Simple настаящi" <STEAM_0:1:795521724> is attempting to connect.
+[Tue Apr  7 09:51:22 2026] Player "Simple настаящi" <STEAM_0:1:795521724> has spawned in the server
+[Tue Apr  7 10:05:32 2026] Player "КАЛЛОВАЯ_МАССА" <STEAM_0:0:600184991> is attempting to connect.
+[Tue Apr  7 10:06:11 2026] Player "КАЛЛОВАЯ_МАССА" <STEAM_0:0:600184991> has spawned in the server
+[Tue Apr  7 10:07:17 2026] Player "КАЛЛОВАЯ_МАССА" <STEAM_0:0:600184991> has left the server
+[Tue Apr  7 10:46:19 2026] Player "Simple настаящi" <STEAM_0:1:795521724> has left the server
+[Tue Apr  7 11:05:37 2026] Player "cars" <STEAM_0:0:412862103> is attempting to connect.
+[Tue Apr  7 11:06:36 2026] Player "cars" <STEAM_0:0:412862103> is attempting to connect.
+[Tue Apr  7 15:05:42 2026] Player "Pioner" <STEAM_0:1:923042528> is attempting to connect.
+[Tue Apr  7 15:07:11 2026] Player "Pioner" <STEAM_0:1:923042528> has spawned in the server
+[Tue Apr  7 15:24:44 2026] Player "Friezer" <STEAM_0:0:779197535> is attempting to connect.
+[Tue Apr  7 15:28:59 2026] Player "Kotik" <STEAM_0:1:558349975> is attempting to connect.
+[Tue Apr  7 15:29:20 2026] Player "Friezer" <STEAM_0:0:779197535> has spawned in the server
+[Tue Apr  7 15:29:47 2026] Player "Kotik" <STEAM_0:1:558349975> has spawned in the server
+[Tue Apr  7 15:32:43 2026] Player "Po_rA1" <STEAM_0:0:887714123> is attempting to connect.
+[Tue Apr  7 15:33:29 2026] <STEAM_0:1:558349975> Kotik: /nato 124 частота
+[Tue Apr  7 15:33:55 2026] Player "Po_rA1" <STEAM_0:0:887714123> has spawned in the server
+[Tue Apr  7 15:34:35 2026] Player "Friezer" <STEAM_0:0:779197535> has left the server
+[Tue Apr  7 15:38:27 2026] <STEAM_0:1:558349975> Kotik: /ooc колесников
+[Tue Apr  7 15:38:31 2026] <STEAM_0:0:887714123> Po_rA1: /ooc Я
+[Tue Apr  7 15:38:31 2026] <STEAM_0:1:558349975> Kotik: /ooc зови своих плиз
+[Tue Apr  7 15:38:48 2026] <STEAM_0:1:558349975> Kotik: /ooc зови своих плиз
+[Tue Apr  7 15:38:59 2026] <STEAM_0:0:887714123> Po_rA1: /ooc Если зайдут
+[Tue Apr  7 15:39:01 2026] <STEAM_0:0:887714123> Po_rA1: /ooc Если зайдут
+[Tue Apr  7 15:39:06 2026] <STEAM_0:1:558349975> Kotik: /ooc зови
+[Tue Apr  7 15:39:10 2026] <STEAM_0:1:558349975> Kotik: /ooc зови
+[Tue Apr  7 15:39:12 2026] <STEAM_0:1:558349975> Kotik: /ooc зови
+[Tue Apr  7 15:46:07 2026] Po_rA1 has killed Po_rA1.
+[Tue Apr  7 15:54:30 2026] Player "SHULER" <STEAM_0:0:736080205> is attempting to connect.
+[Tue Apr  7 15:54:59 2026] Player "SHULER" <STEAM_0:0:736080205> is attempting to connect.
+[Tue Apr  7 15:59:55 2026] <STEAM_0:1:558349975> Kotik: 1500 хп
+[Tue Apr  7 16:13:39 2026] <STEAM_0:1:558349975> Kotik: M1097
+[Tue Apr  7 16:20:07 2026] Kotik has killed Po_rA1.
+[Tue Apr  7 16:20:42 2026] Kotik has killed Po_rA1.
+[Tue Apr  7 16:21:11 2026] Kotik has killed Po_rA1.
+[Tue Apr  7 16:21:33 2026] <STEAM_0:0:887714123> Po_rA1: /ooc Ура кататься
+[Tue Apr  7 16:23:12 2026] Kotik has killed Pioner.
+[Tue Apr  7 16:24:02 2026] Kotik has killed Pioner.
+[Tue Apr  7 16:24:41 2026] Kotik has killed Pioner.
+[Tue Apr  7 16:25:21 2026] Kotik has killed Kotik.
+[Tue Apr  7 16:25:42 2026] Kotik has killed Pioner.
+[Tue Apr  7 16:25:42 2026] Kotik has killed Po_rA1.
+[Tue Apr  7 16:26:24 2026] Kotik has killed Kotik.
+[Tue Apr  7 16:26:44 2026] Kotik has killed Kotik.
+[Tue Apr  7 16:27:17 2026] Kotik has killed Kotik.
+[Tue Apr  7 16:27:19 2026] Player "Kotik" <STEAM_0:1:558349975> has left the server
+[Tue Apr  7 16:27:37 2026] <STEAM_0:0:887714123> Po_rA1: /ooc воевать будем?
+[Tue Apr  7 16:28:11 2026] <STEAM_0:1:923042528> Pioner: /oocда
+[Tue Apr  7 16:28:14 2026] <STEAM_0:1:923042528> Pioner: /ooc да
+[Tue Apr  7 16:30:58 2026] Pioner has killed Po_rA1.
+[Tue Apr  7 16:34:34 2026] Player "BloodySmile" <STEAM_0:1:54838838> is attempting to connect.
+[Tue Apr  7 16:35:04 2026] Po_rA1 has killed Pioner.
+[Tue Apr  7 16:35:20 2026] Player "BloodySmile" <STEAM_0:1:54838838> has spawned in the server
+[Tue Apr  7 16:38:08 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [646][lvs_wheeldrive_m3a3]"
+[Tue Apr  7 16:38:50 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [646][lvs_wheeldrive_m3a3]"
+[Tue Apr  7 16:40:16 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [666][bodygroup_admin]"
+[Tue Apr  7 16:40:38 2026] Player "BloodySmile" <STEAM_0:1:54838838> has left the server
+[Tue Apr  7 16:44:04 2026] Player "Po_rA1" <STEAM_0:0:887714123> has left the server
+[Tue Apr  7 17:04:52 2026] Player "★☾₳ⱤØ₦₦ł₭☽★" <STEAM_0:0:456016030> is attempting to connect.
+[Tue Apr  7 17:06:05 2026] Player "Pioner" <STEAM_0:1:923042528> has left the server
+[Tue Apr  7 17:06:50 2026] Player "★☾₳ⱤØ₦₦ł₭☽★" <STEAM_0:0:456016030> has spawned in the server
+[Tue Apr  7 17:24:20 2026] Player "Po_rA1" <STEAM_0:0:887714123> is attempting to connect.
+[Tue Apr  7 17:25:05 2026] Player "Po_rA1" <STEAM_0:0:887714123> has spawned in the server
+[Tue Apr  7 17:35:49 2026] Player "Discar" <STEAM_0:0:650470378> is attempting to connect.
+[Tue Apr  7 17:36:48 2026] Player "Discar" <STEAM_0:0:650470378> has spawned in the server
+[Tue Apr  7 17:38:18 2026] <STEAM_0:0:650470378> Discar: /ooc  да бля
+[Tue Apr  7 17:40:06 2026] Player "termisters play" <STEAM_0:1:44333849> is attempting to connect.
+[Tue Apr  7 17:41:26 2026] Player "Болотный Навальн" <STEAM_0:0:586457449> is attempting to connect.
+[Tue Apr  7 17:44:20 2026] Player "Болотный Навальн" <STEAM_0:0:586457449> has spawned in the server
+[Tue Apr  7 17:45:14 2026] <STEAM_0:0:586457449> Болотный Навальн: // о ебать мясо для ебли в сети
+[Tue Apr  7 17:48:31 2026] Player "termisters play" <STEAM_0:1:44333849> has spawned in the server
+[Tue Apr  7 17:48:33 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /rf МОЯ ТОЧКА БЛЯТЬ
+[Tue Apr  7 17:48:49 2026] Player "Kotik" <STEAM_0:1:558349975> is attempting to connect.
+[Tue Apr  7 17:49:05 2026] <STEAM_0:0:586457449> Болотный Навальн: // Да бля подождите по брастки
+[Tue Apr  7 17:49:19 2026] <STEAM_0:0:650470378> Discar: /ooc У ханоева магнат проснулся
+[Tue Apr  7 17:49:26 2026] <STEAM_0:0:586457449> Болотный Навальн: // да я ебал тачка в крыше спавниться как мне ваш тигр контрить сука
+[Tue Apr  7 17:49:33 2026] Player "Kotik" <STEAM_0:1:558349975> has spawned in the server
+[Tue Apr  7 17:49:36 2026] <STEAM_0:0:586457449> Болотный Навальн: // да я ебал тачка в крыше спавниться как мне ваш тигр контрить сука
+[Tue Apr  7 17:49:58 2026] <STEAM_0:0:586457449> Болотный Навальн: // сука я вашего призывника выебу тгда
+[Tue Apr  7 17:50:05 2026] <STEAM_0:0:586457449> Болотный Навальн: // сука я вашего призывника выебу тгда
+[Tue Apr  7 17:50:57 2026] <STEAM_0:0:586457449> Болотный Навальн: // ДА ЕБАТЬ КУДА ХОТЯ БЫ УКРЕП РАЙОН НЕ ТРОГАЙТЕ
+[Tue Apr  7 17:51:12 2026] Болотный Навальн has killed Po_rA1.
+[Tue Apr  7 17:51:12 2026] Player "༒︎シ︎ʰᵉⁿᵗᵃⁱシ" <STEAM_0:0:851601344> is attempting to connect.
+[Tue Apr  7 17:51:28 2026] Болотный Навальн has killed Discar.
+[Tue Apr  7 17:51:29 2026] Discar has killed Discar.
+[Tue Apr  7 17:51:38 2026] Болотный Навальн has killed ★☾₳ⱤØ₦₦ł₭☽★.
+[Tue Apr  7 17:51:39 2026] <STEAM_0:0:887714123> Po_rA1: /ooc Еще одна причина не отходить от компа
+[Tue Apr  7 17:52:05 2026] <STEAM_0:0:586457449> Болотный Навальн: /nato слышь подойди на укрепрайон захватить надо
+[Tue Apr  7 17:52:13 2026] <STEAM_0:0:586457449> Болотный Навальн: // 0 брони блять
+[Tue Apr  7 17:52:32 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /rf РЧ?
+[Tue Apr  7 17:52:32 2026] Player "༒︎シ︎ʰᵉⁿᵗᵃⁱシ" <STEAM_0:0:851601344> has spawned in the server
+[Tue Apr  7 17:52:40 2026] <STEAM_0:0:586457449> Болотный Навальн: // 0 брони блять не по людски это
+[Tue Apr  7 17:52:55 2026] <STEAM_0:0:586457449> Болотный Навальн: /nato блять ты идешь или за тобой заехать?
+[Tue Apr  7 17:53:08 2026] <STEAM_0:0:586457449> Болотный Навальн: /nato блять ты идешь или за тобой заехать?
+[Tue Apr  7 17:53:16 2026] <STEAM_0:1:558349975> Kotik: /nato жди.
+[Tue Apr  7 17:53:22 2026] <STEAM_0:0:586457449> Болотный Навальн: /nato жду.
+[Tue Apr  7 17:53:28 2026] <STEAM_0:0:586457449> Болотный Навальн: /nato жду.
+[Tue Apr  7 17:53:29 2026] <STEAM_0:0:586457449> Болотный Навальн: /nato жду.
+[Tue Apr  7 17:53:32 2026] <STEAM_0:0:586457449> Болотный Навальн: /nato жду.
+[Tue Apr  7 17:54:11 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [669][lvs_missile]"
+[Tue Apr  7 17:54:12 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [670][lvs_missile]"
+[Tue Apr  7 17:54:12 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [671][lvs_missile]"
+[Tue Apr  7 17:54:12 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [672][lvs_missile]"
+[Tue Apr  7 17:54:12 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [676][lvs_missile]"
+[Tue Apr  7 17:54:12 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [677][lvs_missile]"
+[Tue Apr  7 17:54:12 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [679][lvs_missile]"
+[Tue Apr  7 17:54:13 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [681][lvs_missile]"
+[Tue Apr  7 17:54:13 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [669][lvs_missile]"
+[Tue Apr  7 17:54:13 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [683][lvs_missile]"
+[Tue Apr  7 17:54:17 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [669][lvs_missile]"
+[Tue Apr  7 17:54:17 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [672][lvs_missile]"
+[Tue Apr  7 17:54:18 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [676][lvs_missile]"
+[Tue Apr  7 17:54:18 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [677][lvs_missile]"
+[Tue Apr  7 17:54:18 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [679][lvs_missile]"
+[Tue Apr  7 17:54:18 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [686][lvs_missile]"
+[Tue Apr  7 17:54:18 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [688][lvs_missile]"
+[Tue Apr  7 17:54:18 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [689][lvs_missile]"
+[Tue Apr  7 17:54:18 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [690][lvs_missile]"
+[Tue Apr  7 17:54:19 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [692][lvs_missile]"
+[Tue Apr  7 17:54:19 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [676][lvs_missile]"
+[Tue Apr  7 17:54:19 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [698][lvs_missile]"
+[Tue Apr  7 17:54:19 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [699][lvs_missile]"
+[Tue Apr  7 17:54:19 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [686][lvs_missile]"
+[Tue Apr  7 17:54:19 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [688][lvs_missile]"
+[Tue Apr  7 17:54:20 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [689][lvs_missile]"
+[Tue Apr  7 17:54:20 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [690][lvs_missile]"
+[Tue Apr  7 17:54:24 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [676][lvs_missile]"
+[Tue Apr  7 17:54:24 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [688][lvs_missile]"
+[Tue Apr  7 17:54:24 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [689][lvs_missile]"
+[Tue Apr  7 17:54:25 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [692][lvs_missile]"
+[Tue Apr  7 17:54:25 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [699][lvs_missile]"
+[Tue Apr  7 17:54:25 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [702][lvs_missile]"
+[Tue Apr  7 17:54:25 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [703][lvs_missile]"
+[Tue Apr  7 17:54:25 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [705][lvs_missile]"
+[Tue Apr  7 17:54:26 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [688][lvs_missile]"
+[Tue Apr  7 17:54:26 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [689][lvs_missile]"
+[Tue Apr  7 17:54:26 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [700][lvs_missile]"
+[Tue Apr  7 17:56:10 2026] <STEAM_0:0:586457449> Болотный Навальн: /nato ты долго?
+[Tue Apr  7 17:56:45 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "rank 'Struna' admin-j 0"
+[Tue Apr  7 17:57:02 2026] <STEAM_0:0:586457449> Болотный Навальн: // ангел тепнись у меня вопрос
+[Tue Apr  7 17:58:20 2026] <STEAM_0:0:586457449> Болотный Навальн: оскорбление является рп причиной для убийства?
+[Tue Apr  7 17:58:37 2026] <STEAM_0:0:586457449> Болотный Навальн: вот струна меня ебнул в понедельник
+[Tue Apr  7 17:58:46 2026] <STEAM_0:0:586457449> Болотный Навальн: он меня первый оскорбил я его в ответ
+[Tue Apr  7 17:58:50 2026] <STEAM_0:0:586457449> Болотный Навальн: о без б ебну
+[Tue Apr  7 17:58:54 2026] <STEAM_0:0:586457449> Болотный Навальн: нет демки
+[Tue Apr  7 17:58:59 2026] <STEAM_0:0:586457449> Болотный Навальн: лан вопросов нет
+[Tue Apr  7 17:59:02 2026] <STEAM_0:0:586457449> Болотный Навальн: удачт
+[Tue Apr  7 17:59:39 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [778][lvs_missile]"
+[Tue Apr  7 17:59:45 2026] <STEAM_0:0:586457449> Болотный Навальн: /nato ты потерялся?
+[Tue Apr  7 18:00:25 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "ammo Ангел"
+[Tue Apr  7 18:00:41 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Po_rA1.
+[Tue Apr  7 18:00:41 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed ★☾₳ⱤØ₦₦ł₭☽★.
+[Tue Apr  7 18:00:51 2026] <STEAM_0:1:558349975> Kotik: /nato Я тут
+[Tue Apr  7 18:01:07 2026] <STEAM_0:0:586457449> Болотный Навальн: /nato бегу обратно
+[Tue Apr  7 18:01:14 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed ★☾₳ⱤØ₦₦ł₭☽★.
+[Tue Apr  7 18:01:24 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc толстый
+[Tue Apr  7 18:01:28 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed ★☾₳ⱤØ₦₦ł₭☽★.
+[Tue Apr  7 18:01:29 2026] <STEAM_0:0:586457449> Болотный Навальн: // Я
+[Tue Apr  7 18:01:37 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc Ангел самый жирны в рф
+[Tue Apr  7 18:01:38 2026] <STEAM_0:0:586457449> Болотный Навальн: // тут
+[Tue Apr  7 18:01:45 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Po_rA1.
+[Tue Apr  7 18:02:00 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed ★☾₳ⱤØ₦₦ł₭☽★.
+[Tue Apr  7 18:03:11 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Tue Apr  7 18:03:11 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [699][sw_bomb_ao1_v3]"
+[Tue Apr  7 18:03:17 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Tue Apr  7 18:03:17 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [699][sw_bomb_ao1_v3]"
+[Tue Apr  7 18:03:18 2026] <STEAM_0:0:650470378> Discar: /looc https://discord.gg/VU65REqS9S
+[Tue Apr  7 18:03:31 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Tue Apr  7 18:03:31 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [699][sw_bomb_ao1_v3]"
+[Tue Apr  7 18:03:31 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Tue Apr  7 18:03:31 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [768][sw_bomb_ao1_v3]"
+[Tue Apr  7 18:03:31 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Tue Apr  7 18:03:31 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [771][sw_bomb_ao1_v3]"
+[Tue Apr  7 18:03:37 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Tue Apr  7 18:03:37 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [772][sw_bomb_ao1_v3]"
+[Tue Apr  7 18:03:41 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Tue Apr  7 18:03:41 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [699][sw_rocket_9m528_v3]"
+[Tue Apr  7 18:03:43 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Tue Apr  7 18:03:43 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [768][sw_rocket_9m528_v3]"
+[Tue Apr  7 18:03:44 2026] <STEAM_0:0:586457449> Болотный Навальн: // вопрос а че не захватывается?
+[Tue Apr  7 18:03:44 2026] <STEAM_0:0:650470378> Discar: /rf Кто  ракету пускает?
+[Tue Apr  7 18:03:56 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed ★☾₳ⱤØ₦₦ł₭☽★.
+[Tue Apr  7 18:04:16 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "armor Ханоев 100"
+[Tue Apr  7 18:04:24 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "hp Ханоев 100"
+[Tue Apr  7 18:05:02 2026] ★☾₳ⱤØ₦₦ł₭☽★ has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Tue Apr  7 18:05:08 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "respawn Ангел"
+[Tue Apr  7 18:06:06 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed ★☾₳ⱤØ₦₦ł₭☽★.
+[Tue Apr  7 18:06:06 2026] ★☾₳ⱤØ₦₦ł₭☽★ has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Tue Apr  7 18:06:07 2026] ★☾₳ⱤØ₦₦ł₭☽★ has killed ★☾₳ⱤØ₦₦ł₭☽★.
+[Tue Apr  7 18:06:16 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "respawn Ангел"
+[Tue Apr  7 18:06:20 2026] <STEAM_0:0:887714123> Po_rA1: /ooc Нато воевать будет?
+[Tue Apr  7 18:06:35 2026] <STEAM_0:0:586457449> Болотный Навальн: // я вас один троих уебал
+[Tue Apr  7 18:06:53 2026] <STEAM_0:0:887714123> Po_rA1: /ooc Я афк был
+[Tue Apr  7 18:07:21 2026] <STEAM_0:0:650470378> Discar: /looc discarius ДС
+[Tue Apr  7 18:07:30 2026] Болотный Навальн has killed ★☾₳ⱤØ₦₦ł₭☽★.
+[Tue Apr  7 18:07:32 2026] Player "★☾₳ⱤØ₦₦ł₭☽★" <STEAM_0:0:456016030> has left the server
+[Tue Apr  7 18:07:34 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Tue Apr  7 18:07:34 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SWEP "Weapon [609][tfa_ins2_wpn_rpg7]"
+[Tue Apr  7 18:08:05 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Болотный Навальн.
+[Tue Apr  7 18:08:06 2026] Kotik has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Tue Apr  7 18:08:09 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "respawn Ангел"
+[Tue Apr  7 18:08:15 2026] <STEAM_0:1:558349975> Kotik: /nato 124
+[Tue Apr  7 18:08:22 2026] <STEAM_0:1:558349975> Kotik: /nato 124 РЧ
+[Tue Apr  7 18:08:24 2026] <STEAM_0:0:586457449> Болотный Навальн: // ахуенно пошел,плюсом ханоев даже в спину с граника меня не уебал
+[Tue Apr  7 18:08:29 2026] <STEAM_0:1:558349975> Kotik: /nato 124 РЧ
+[Tue Apr  7 18:08:31 2026] Player "termisters play" <STEAM_0:1:44333849> has left the server
+[Tue Apr  7 18:08:32 2026] <STEAM_0:1:558349975> Kotik: /nato 124 РЧ
+[Tue Apr  7 18:08:33 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: //
+[Tue Apr  7 18:08:36 2026] <STEAM_0:1:558349975> Kotik: /nato 124 РЧ
+[Tue Apr  7 18:08:37 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // это я быд
+[Tue Apr  7 18:08:38 2026] Player "termisters play" <STEAM_0:1:44333849> is attempting to connect.
+[Tue Apr  7 18:09:11 2026] Player "termisters play" <STEAM_0:1:44333849> has spawned in the server
+[Tue Apr  7 18:09:39 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Po_rA1.
+[Tue Apr  7 18:10:07 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [738][lvs_wheeldrive_kamaztroop]"
+[Tue Apr  7 18:10:26 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [738][lvs_wheeldrive_kamazrepair]"
+[Tue Apr  7 18:11:13 2026] <STEAM_0:0:586457449> Болотный Навальн: /com вс рф выйдет погулять?
+[Tue Apr  7 18:11:15 2026] <STEAM_0:0:650470378> Discar: /looc discarius ДС
+[Tue Apr  7 18:11:31 2026] <STEAM_0:1:558349975> Kotik spawned SENT "Entity [738][lvs_item_jerrycan_diesel]"
+[Tue Apr  7 18:11:34 2026] <STEAM_0:1:558349975> Kotik spawned SENT "Entity [738][lvs_item_jerrycan_diesel]"
+[Tue Apr  7 18:11:40 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "ammo Ангел"
+[Tue Apr  7 18:11:43 2026] <STEAM_0:1:558349975> Kotik spawned SENT "Entity [738][lvs_item_jerrycan]"
+[Tue Apr  7 18:11:56 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /me исполнил воинское приветствие
+[Tue Apr  7 18:12:05 2026] <STEAM_0:1:558349975> Kotik spawned SENT "Entity [738][lvs_item_ammocrate]"
+[Tue Apr  7 18:12:09 2026] <STEAM_0:1:558349975> Kotik spawned SENT "Entity [738][lvs_item_ammocrate]"
+[Tue Apr  7 18:12:12 2026] <STEAM_0:1:558349975> Kotik spawned SENT "Entity [768][lvs_item_ammo]"
+[Tue Apr  7 18:12:37 2026] <STEAM_0:1:558349975> Kotik: /nato 124 РЧ
+[Tue Apr  7 18:13:22 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "armor Дискаров 100"
+[Tue Apr  7 18:14:18 2026] Kotik has killed Po_rA1.
+[Tue Apr  7 18:15:04 2026] <STEAM_0:0:650470378> Discar: /looc discarius
+[Tue Apr  7 18:15:17 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: https://discord.gg/m9MFYp2gDq
+[Tue Apr  7 18:15:18 2026] Player "Po_rA1" <STEAM_0:0:887714123> has left the server
+[Tue Apr  7 18:15:51 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Discar.
+[Tue Apr  7 18:15:52 2026] Discar has killed Discar.
+[Tue Apr  7 18:16:12 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "hp Дискаров 100"
+[Tue Apr  7 18:16:19 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "armor Дискаров 100"
+[Tue Apr  7 18:17:18 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Discar.
+[Tue Apr  7 18:17:54 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed termisters play.
+[Tue Apr  7 18:17:54 2026] termisters play has killed termisters play.
+[Tue Apr  7 18:18:20 2026] <STEAM_0:0:586457449> Болотный Навальн: /rp открыл крышку цистерны с возможно водой и залил ампулу яда
+[Tue Apr  7 18:19:15 2026] <STEAM_0:1:558349975> Kotik: /ooc ангел выкатывай БМП
+[Tue Apr  7 18:20:28 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [613][sw_bmp3m]"
+[Tue Apr  7 18:20:32 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [680][sw_bmp3m]"
+[Tue Apr  7 18:20:37 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [613][sw_bmp2m]"
+[Tue Apr  7 18:21:44 2026] <STEAM_0:1:558349975> Kotik spawned SENT "Entity [687][lvs_wheeldrive_m3a3]"
+[Tue Apr  7 18:22:06 2026] Player "Po_rA1" <STEAM_0:0:887714123> is attempting to connect.
+[Tue Apr  7 18:22:11 2026] <STEAM_0:0:650470378> Discar: /looc https://github.com/flowseal/zapret-discord-youtube/releases
+[Tue Apr  7 18:22:17 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [805][lvs_trailer_flak]"
+[Tue Apr  7 18:22:39 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [805][lvs_trailer_flak]"
+[Tue Apr  7 18:22:53 2026] Player "Po_rA1" <STEAM_0:0:887714123> has spawned in the server
+[Tue Apr  7 18:24:42 2026] <STEAM_0:0:650470378> Discar: /rf Ангел рч 5 срочно
+[Tue Apr  7 18:25:35 2026] <STEAM_0:1:558349975> Kotik spawned SENT "Entity [676][lvs_wheeldrive_m3a3]"
+[Tue Apr  7 18:25:40 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Болотный Навальн.
+[Tue Apr  7 18:25:49 2026] <STEAM_0:0:586457449> Болотный Навальн: // ой
+[Tue Apr  7 18:26:02 2026] <STEAM_0:0:650470378> Discar: /rf Ангел ты его в призывники перевел
+[Tue Apr  7 18:26:22 2026] Player "Лёха Бетон" <STEAM_0:1:945126200> is attempting to connect.
+[Tue Apr  7 18:26:47 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Discar.
+[Tue Apr  7 18:27:23 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Tue Apr  7 18:27:23 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "slay Ангел"
+[Tue Apr  7 18:27:26 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "respawn Ангел"
+[Tue Apr  7 18:27:34 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Discar.
+[Tue Apr  7 18:28:07 2026] <STEAM_0:1:558349975> Kotik spawned SENT "Entity [660][lvs_item_jerrycan]"
+[Tue Apr  7 18:29:01 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "respawn Ангел"
+[Tue Apr  7 18:29:10 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Tue Apr  7 18:29:10 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "slay Ангел"
+[Tue Apr  7 18:29:12 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: !respawn
+[Tue Apr  7 18:29:14 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "respawn Ангел"
+[Tue Apr  7 18:29:24 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Discar.
+[Tue Apr  7 18:31:15 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Tue Apr  7 18:31:15 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "slay Ангел"
+[Tue Apr  7 18:31:17 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "respawn Ангел"
+[Tue Apr  7 18:31:21 2026] <STEAM_0:0:586457449> Болотный Навальн: /me заломал гражданского и связал
+[Tue Apr  7 18:32:30 2026] Player "Слепой Пью" <STEAM_0:1:22948213> is attempting to connect.
+[Tue Apr  7 18:32:31 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "ammo Ангел"
+[Tue Apr  7 18:32:42 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned prop "Entity [660][prop_physics] (models/props_c17/FurnitureFridge001a.mdl)"
+[Tue Apr  7 18:33:06 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // ау
+[Tue Apr  7 18:33:30 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "remover"
+[Tue Apr  7 18:33:31 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "remover"
+[Tue Apr  7 18:33:31 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "remover"
+[Tue Apr  7 18:33:31 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "remover"
+[Tue Apr  7 18:33:31 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "remover"
+[Tue Apr  7 18:33:32 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "remover"
+[Tue Apr  7 18:33:32 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "remover"
+[Tue Apr  7 18:33:33 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "remover"
+[Tue Apr  7 18:33:33 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "remover"
+[Tue Apr  7 18:33:33 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "remover"
+[Tue Apr  7 18:33:33 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "remover"
+[Tue Apr  7 18:33:33 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "remover"
+[Tue Apr  7 18:33:34 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "remover"
+[Tue Apr  7 18:33:34 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "remover"
+[Tue Apr  7 18:34:02 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned prop "Entity [786][prop_physics] (models/props_c17/FurnitureBoiler001a.mdl)"
+[Tue Apr  7 18:34:27 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Tue Apr  7 18:34:27 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [787][sw_rocket_9m528_v3]"
+[Tue Apr  7 18:34:27 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Tue Apr  7 18:34:27 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Tue Apr  7 18:34:28 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Tue Apr  7 18:34:28 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [656][sw_rocket_9m528_v3]"
+[Tue Apr  7 18:34:29 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Tue Apr  7 18:34:29 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Tue Apr  7 18:34:31 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Po_rA1.
+[Tue Apr  7 18:34:38 2026] Player "Discar" <STEAM_0:0:650470378> has left the server
+[Tue Apr  7 18:35:40 2026] Player "Xyeбop" <STEAM_0:0:406289622> is attempting to connect.
+[Tue Apr  7 18:36:12 2026] <STEAM_0:1:558349975> Kotik: /ooc Где рф...
+[Tue Apr  7 18:36:26 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Tue Apr  7 18:36:26 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [674][sw_bomb_kab1500l_v3]"
+[Tue Apr  7 18:36:29 2026] <STEAM_0:0:586457449> Болотный Навальн: // я щас диверсию устрою если гулять не пойдут
+[Tue Apr  7 18:36:30 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Tue Apr  7 18:36:30 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [675][sw_bomb_kab1500l_v3]"
+[Tue Apr  7 18:36:36 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Tue Apr  7 18:36:36 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [674][sw_bomb_kab1500l_v3]"
+[Tue Apr  7 18:37:06 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Tue Apr  7 18:37:06 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [674][sw_bomb_fab9000m54_v3]"
+[Tue Apr  7 18:37:16 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Tue Apr  7 18:37:16 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [675][sw_rocket_kh22_v3]"
+[Tue Apr  7 18:37:16 2026] Player "Лёха Бетон" <STEAM_0:1:945126200> has spawned in the server
+[Tue Apr  7 18:37:19 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Tue Apr  7 18:37:19 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [675][sw_rocket_kh22_v3]"
+[Tue Apr  7 18:37:23 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Tue Apr  7 18:37:23 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [675][sw_rocket_kh22_v3]"
+[Tue Apr  7 18:37:27 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Tue Apr  7 18:37:29 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Tue Apr  7 18:37:30 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Tue Apr  7 18:37:32 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Tue Apr  7 18:37:32 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Tue Apr  7 18:37:32 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [675][sw_rocket_kh22_v3]"
+[Tue Apr  7 18:37:35 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Tue Apr  7 18:37:35 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [675][sw_rocket_kh22_v3]"
+[Tue Apr  7 18:37:37 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Tue Apr  7 18:37:37 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [724][sw_rocket_kh22_v3]"
+[Tue Apr  7 18:38:16 2026] <STEAM_0:0:586457449> Болотный Навальн: /rp поставил растяжку в двери ангара вс рф и в дверном проеме слева
+[Tue Apr  7 18:38:36 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [674][sw_mine_tm62_v3]"
+[Tue Apr  7 18:38:42 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [674][sw_mine_tm62_v3]"
+[Tue Apr  7 18:38:43 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [675][sw_mine_tm62_v3]"
+[Tue Apr  7 18:38:45 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [674][sw_mine_tm62_v3]"
+[Tue Apr  7 18:38:46 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [680][sw_mine_tm62_v3]"
+[Tue Apr  7 18:39:11 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Болотный Навальн.
+[Tue Apr  7 18:40:01 2026] <STEAM_0:1:558349975> Kotik: /ooc Ангел, ата-та уходить в ноуклип, тикет кину за такое
+[Tue Apr  7 18:40:11 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // я к прызывнику
+[Tue Apr  7 18:40:20 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // у вас там ник из игры поставили
+[Tue Apr  7 18:40:23 2026] <STEAM_0:0:887714123> Po_rA1: /ooc Сука выпустите из изолятора блять
+[Tue Apr  7 18:40:32 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "goto Колесников"
+[Tue Apr  7 18:40:37 2026] <STEAM_0:0:586457449> Болотный Навальн: // ХАХАХАХАХАХАХА
+[Tue Apr  7 18:41:19 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "goto Price"
+[Tue Apr  7 18:41:26 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "send  Vakutagin 'Tundra'"
+[Tue Apr  7 18:41:52 2026] <STEAM_0:1:945126200> Лёха Бетон: ?
+[Tue Apr  7 18:42:19 2026] Болотный Навальн has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Tue Apr  7 18:42:23 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "respawn Ангел"
+[Tue Apr  7 18:42:28 2026] Player "Лёха Бетон" <STEAM_0:1:945126200> has left the server
+[Tue Apr  7 18:42:32 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "goto  Vakutagin 'Tundra'"
+[Tue Apr  7 18:42:32 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Болотный Навальн.
+[Tue Apr  7 18:42:36 2026] Kotik has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Tue Apr  7 18:42:38 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "respawn Ангел"
+[Tue Apr  7 18:42:40 2026] <STEAM_0:0:586457449> Болотный Навальн: // АХХАХАХАХАХАХАХАХА
+[Tue Apr  7 18:42:50 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "goto 'Struna'"
+[Tue Apr  7 18:43:01 2026] Kotik has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Tue Apr  7 18:43:04 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "respawn Ангел"
+[Tue Apr  7 18:43:09 2026] Kotik has killed Kotik.
+[Tue Apr  7 18:43:09 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "slay 'Struna'"
+[Tue Apr  7 18:43:13 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "goto 'Struna'"
+[Tue Apr  7 18:43:22 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Kotik.
+[Tue Apr  7 18:43:30 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Болотный Навальн.
+[Tue Apr  7 18:43:38 2026] <STEAM_0:1:558349975> Kotik: /revive "Struna"
+[Tue Apr  7 18:43:38 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "respawn 'Struna'"
+[Tue Apr  7 18:43:43 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "respawn  Vakutagin 'Tundra'"
+[Tue Apr  7 18:43:45 2026] <STEAM_0:0:586457449> Болотный Навальн: // атятя я тебя сожру
+[Tue Apr  7 18:43:49 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Kotik.
+[Tue Apr  7 18:43:58 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "respawn 'Struna'"
+[Tue Apr  7 18:44:44 2026] Болотный Навальн has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Tue Apr  7 18:44:48 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "respawn Ангел"
+[Tue Apr  7 18:44:57 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "goto  Vakutagin 'Tundra'"
+[Tue Apr  7 18:44:58 2026] Kotik has killed Болотный Навальн.
+[Tue Apr  7 18:45:10 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "hp Ангел 190000"
+[Tue Apr  7 18:45:12 2026] <STEAM_0:0:586457449> Болотный Навальн: // в 2 хуя выебали(
+[Tue Apr  7 18:45:30 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "respawn  Vakutagin 'Tundra'"
+[Tue Apr  7 18:45:33 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "send  Vakutagin 'Tundra'"
+[Tue Apr  7 18:45:54 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Болотный Навальн.
+[Tue Apr  7 18:45:59 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Kotik.
+[Tue Apr  7 18:46:33 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Болотный Навальн.
+[Tue Apr  7 18:46:40 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "respawn  Vakutagin 'Tundra'"
+[Tue Apr  7 18:46:48 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [674][sw_mine_pfm1_v3]"
+[Tue Apr  7 18:47:03 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [681][sw_mine_pfm1_v3]"
+[Tue Apr  7 18:47:11 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [682][sw_mine_pfm1_v3]"
+[Tue Apr  7 18:47:27 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Болотный Навальн.
+[Tue Apr  7 18:47:28 2026] Болотный Навальн has killed Болотный Навальн.
+[Tue Apr  7 18:47:30 2026] Player "༒︎シ︎ʰᵉⁿᵗᵃⁱシ" <STEAM_0:0:851601344> has left the server
+[Tue Apr  7 18:47:37 2026] <STEAM_0:0:586457449> Болотный Навальн: // задание дойти до кхо...
+[Tue Apr  7 18:48:46 2026] Po_rA1 has killed termisters play.
+[Tue Apr  7 18:50:43 2026] Player "termisters play" <STEAM_0:1:44333849> has left the server
+[Tue Apr  7 18:50:48 2026] Player "termisters play" <STEAM_0:1:44333849> is attempting to connect.
+[Tue Apr  7 18:51:22 2026] Player "termisters play" <STEAM_0:1:44333849> has spawned in the server
+[Tue Apr  7 18:53:35 2026] Kotik has killed Болотный Навальн.
+[Tue Apr  7 18:53:35 2026] Kotik has killed Kotik.
+[Tue Apr  7 18:53:47 2026] <STEAM_0:1:558349975> Kotik ran command "respawn Struna"
+[Tue Apr  7 18:53:50 2026] <STEAM_0:0:586457449> Болотный Навальн: // ты че ахуе*взрыв*
+[Tue Apr  7 18:53:53 2026] <STEAM_0:1:558349975> Kotik ran command "respawn Tundra"
+[Tue Apr  7 18:54:04 2026] <STEAM_0:0:887714123> Po_rA1: /ooc А че где война?
+[Tue Apr  7 18:54:10 2026] <STEAM_0:0:586457449> Болотный Навальн: // на базе у нас
+[Tue Apr  7 18:54:20 2026] <STEAM_0:0:586457449> Болотный Навальн: // на базе у нас приезжай по кругу пустим
+[Tue Apr  7 18:54:40 2026] <STEAM_0:0:887714123> Po_rA1: /ooc Не интересуюсь в данном предложении
+[Tue Apr  7 18:54:48 2026] <STEAM_0:0:586457449> Болотный Навальн: // это не предложение
+[Tue Apr  7 18:54:55 2026] <STEAM_0:0:586457449> Болотный Навальн: // это приказ
+[Tue Apr  7 18:55:11 2026] Болотный Навальн has killed Kotik.
+[Tue Apr  7 18:55:14 2026] <STEAM_0:1:558349975> Kotik ran command "respawn Struna"
+[Tue Apr  7 18:55:58 2026] Kotik has killed Болотный Навальн.
+[Tue Apr  7 18:55:58 2026] Kotik has killed Kotik.
+[Tue Apr  7 18:55:59 2026] <STEAM_0:1:558349975> Kotik ran command "respawn Struna"
+[Tue Apr  7 18:56:02 2026] <STEAM_0:1:558349975> Kotik ran command "respawn Tundra"
+[Tue Apr  7 18:56:02 2026] <STEAM_0:0:586457449> Болотный Навальн: // СУКА АХАЗВХАХАВХ
+[Tue Apr  7 18:56:03 2026] <STEAM_0:0:887714123> Po_rA1: /ooc Приказы чужого капрала не должны посприниматься. Но сегодня особенный день
+[Tue Apr  7 18:56:21 2026] <STEAM_0:0:586457449> Болотный Навальн: // я бывший сержант вс рф
+[Tue Apr  7 18:56:21 2026] Player "Gray Blackwell" <STEAM_0:1:410319943> is attempting to connect.
+[Tue Apr  7 18:56:32 2026] <STEAM_0:0:586457449> Болотный Навальн: // я бывший сержант вс рф отстань
+[Tue Apr  7 18:57:05 2026] <STEAM_0:0:887714123> Po_rA1: /ooc Сука недолет
+[Tue Apr  7 18:57:16 2026] Player "Gray Blackwell" <STEAM_0:1:410319943> has spawned in the server
+[Tue Apr  7 18:57:59 2026] <STEAM_0:0:586457449> Болотный Навальн: // ну и где ты
+[Tue Apr  7 18:58:08 2026] <STEAM_0:0:887714123> Po_rA1: /ooc А ты где?
+[Tue Apr  7 18:59:33 2026] <STEAM_0:1:410319943> Gray Blackwell: М?
+[Tue Apr  7 18:59:55 2026] <STEAM_0:1:410319943> Gray Blackwell: меня  вчера не было
+[Tue Apr  7 19:01:14 2026] <STEAM_0:1:410319943> Gray Blackwell: /me Одела резиновую перчаткку на руку
+[Tue Apr  7 19:01:24 2026] Player "𝗺𝟏𝗿𝗮𝗰𝗹𝗲" <STEAM_0:0:869238922> is attempting to connect.
+[Tue Apr  7 19:01:47 2026] <STEAM_0:1:410319943> Gray Blackwell: Мисье...прошу вас быть спокойным...
+[Tue Apr  7 19:01:49 2026] <STEAM_0:0:586457449> Болотный Навальн: /me развернул солдата ударил под дых коленом и держу его спустив с него штаны и нижнее белье
+[Tue Apr  7 19:02:06 2026] <STEAM_0:1:410319943> Gray Blackwell: Я лучше ствол засуну
+[Tue Apr  7 19:02:28 2026] <STEAM_0:0:586457449> Болотный Навальн: /me одел солдата
+[Tue Apr  7 19:02:33 2026] <STEAM_0:1:410319943> Gray Blackwell: Харош матом ругаться
+[Tue Apr  7 19:02:49 2026] <STEAM_0:0:586457449> Болотный Навальн: /rp включил гоу про на шлеме
+[Tue Apr  7 19:03:19 2026] <STEAM_0:0:887714123> Po_rA1: /ooc Блогер на территории боевых действий
+[Tue Apr  7 19:03:35 2026] <STEAM_0:0:586457449> Болотный Навальн: /rp взял рацию русского зажал кнопку передачи включил гимн америки достал нож и резко перерзал ему горло
+[Tue Apr  7 19:03:41 2026] Болотный Навальн has killed termisters play.
+[Tue Apr  7 19:03:58 2026] <STEAM_0:1:410319943> Gray Blackwell: мх идеально...
+[Tue Apr  7 19:04:05 2026] <STEAM_0:0:586457449> Болотный Навальн: /rp начал отрезать голову бывшего вояки
+[Tue Apr  7 19:04:26 2026] <STEAM_0:0:586457449> Болотный Навальн: /rp взял ее в руки взял изолетну и примотал к поясу
+[Tue Apr  7 19:05:05 2026] <STEAM_0:1:410319943> Gray Blackwell: /looc у нашего главы спроси он брал
+[Tue Apr  7 19:05:11 2026] <STEAM_0:0:586457449> Болотный Навальн: /com колесников я вызваю тебя на завод на забив
+[Tue Apr  7 19:05:13 2026] <STEAM_0:1:410319943> Gray Blackwell: /looc он щяс оружие тестит
+[Tue Apr  7 19:05:20 2026] <STEAM_0:0:887714123> Po_rA1: /com Жди
+[Tue Apr  7 19:06:46 2026] <STEAM_0:0:586457449> Болотный Навальн: /nato зайдите в гс состава я вам прикол покажу
+[Tue Apr  7 19:07:17 2026] Po_rA1 has killed Болотный Навальн.
+[Tue Apr  7 19:07:30 2026] <STEAM_0:0:586457449> Болотный Навальн: // постоял афк бля.ну ладно я требую еще раз
+[Tue Apr  7 19:07:56 2026] Player "𝗺𝟏𝗿𝗮𝗰𝗹𝗲" <STEAM_0:0:869238922> has spawned in the server
+[Tue Apr  7 19:09:12 2026] <STEAM_0:0:586457449> Болотный Навальн: /com колесо я вызываю тебя на бой на заводе нахуй
+[Tue Apr  7 19:10:02 2026] Po_rA1 has killed Болотный Навальн.
+[Tue Apr  7 19:10:24 2026] <STEAM_0:0:586457449> Болотный Навальн: /ooc колесников я хочу твою голову
+[Tue Apr  7 19:11:30 2026] <STEAM_0:0:887714123> Po_rA1: /com Негоже НАТО гражданских в жопу ебать
+[Tue Apr  7 19:11:45 2026] <STEAM_0:1:410319943> Gray Blackwell: /ooc а зачем в меня стрелять я же медик!
+[Tue Apr  7 19:11:47 2026] Player "Лёха Бетон" <STEAM_0:1:945126200> is attempting to connect.
+[Tue Apr  7 19:11:57 2026] <STEAM_0:0:586457449> Болотный Навальн: /com я твои кишки резать буду тебя душить ими буду понял свиня руски?
+[Tue Apr  7 19:11:58 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: /rf На 2 волну
+[Tue Apr  7 19:12:19 2026] Player "Лёха Бетон" <STEAM_0:1:945126200> has spawned in the server
+[Tue Apr  7 19:12:22 2026] <STEAM_0:0:586457449> Болотный Навальн: /rp включил гоу про на шлеме
+[Tue Apr  7 19:12:44 2026] Po_rA1 has killed Болотный Навальн.
+[Tue Apr  7 19:12:52 2026] Gray Blackwell has killed Po_rA1.
+[Tue Apr  7 19:12:53 2026] <STEAM_0:0:586457449> Болотный Навальн: // бля вот я еблан,сам такой
+[Tue Apr  7 19:12:58 2026] Gray Blackwell has killed termisters play.
+[Tue Apr  7 19:13:05 2026] <STEAM_0:0:586457449> Болотный Навальн: // АЙ ТИГРИЦА БЛЯ
+[Tue Apr  7 19:13:06 2026] <STEAM_0:0:887714123> Po_rA1: /ooc Сука у меня броня кончилась :(
+[Tue Apr  7 19:13:10 2026] <STEAM_0:0:586457449> Болотный Навальн: // АЙ ТИГРИЦА БЛЯ
+[Tue Apr  7 19:13:12 2026] <STEAM_0:0:586457449> Болотный Навальн: // АЙ ТИГРИЦА БЛЯ
+[Tue Apr  7 19:13:17 2026] <STEAM_0:0:586457449> Болотный Навальн: // АЙ ТИГРИЦА БЛЯ
+[Tue Apr  7 19:13:22 2026] <STEAM_0:0:586457449> Болотный Навальн: // АЙ ТИГРИЦА БЛЯ
+[Tue Apr  7 19:13:23 2026] <STEAM_0:1:410319943> Gray Blackwell: замной
+[Tue Apr  7 19:13:34 2026] <STEAM_0:0:586457449> Болотный Навальн: /me включил гоу про на шлеме
+[Tue Apr  7 19:14:03 2026] <STEAM_0:1:410319943> Gray Blackwell: я девушка
+[Tue Apr  7 19:14:22 2026] <STEAM_0:1:410319943> Gray Blackwell: я Немка
+[Tue Apr  7 19:14:44 2026] <STEAM_0:1:410319943> Gray Blackwell: Нато это сеть коалиции
+[Tue Apr  7 19:14:54 2026] <STEAM_0:1:410319943> Gray Blackwell: Я нет
+[Tue Apr  7 19:15:15 2026] Po_rA1 has killed Болотный Навальн.
+[Tue Apr  7 19:15:22 2026] <STEAM_0:1:945126200> Лёха Бетон: привет
+[Tue Apr  7 19:15:28 2026] <STEAM_0:1:945126200> Лёха Бетон: ну
+[Tue Apr  7 19:15:35 2026] <STEAM_0:1:410319943> Gray Blackwell: Бойцы на изготовления
+[Tue Apr  7 19:15:54 2026] <STEAM_0:1:410319943> Gray Blackwell: нажимайте F9 и вперёд!
+[Tue Apr  7 19:16:19 2026] <STEAM_0:1:945126200> Лёха Бетон: нахуй иди
+[Tue Apr  7 19:16:24 2026] <STEAM_0:1:410319943> Gray Blackwell: Это ещё не всё
+[Tue Apr  7 19:16:46 2026] <STEAM_0:1:410319943> Gray Blackwell: стой рядом
+[Tue Apr  7 19:16:52 2026] <STEAM_0:1:945126200> Лёха Бетон: а я команды не слушаю
+[Tue Apr  7 19:16:54 2026] <STEAM_0:1:945126200> Лёха Бетон: я не пес
+[Tue Apr  7 19:16:57 2026] <STEAM_0:1:410319943> Gray Blackwell: /looc выполилась задача?
+[Tue Apr  7 19:17:10 2026] <STEAM_0:1:410319943> Gray Blackwell: /looc выполилась задача?
+[Tue Apr  7 19:17:27 2026] <STEAM_0:1:410319943> Gray Blackwell: за мной иди
+[Tue Apr  7 19:17:40 2026] <STEAM_0:1:410319943> Gray Blackwell: подходи боец и бери пистолет
+[Tue Apr  7 19:17:45 2026] <STEAM_0:1:945126200> Лёха Бетон: откуда?
+[Tue Apr  7 19:17:50 2026] <STEAM_0:1:945126200> Лёха Бетон: где мне брать?
+[Tue Apr  7 19:17:54 2026] <STEAM_0:1:410319943> Gray Blackwell: /looc также как и там F9 нажми
+[Tue Apr  7 19:18:02 2026] Player "ghoprhd" <STEAM_0:0:453883455> is attempting to connect.
+[Tue Apr  7 19:18:24 2026] <STEAM_0:1:410319943> Gray Blackwell: не все...
+[Tue Apr  7 19:18:40 2026] <STEAM_0:1:410319943> Gray Blackwell: Женщина?
+[Tue Apr  7 19:18:49 2026] <STEAM_0:1:410319943> Gray Blackwell: или оно трап...
+[Tue Apr  7 19:19:09 2026] <STEAM_0:1:410319943> Gray Blackwell: не все уничтожил ещё 3
+[Tue Apr  7 19:19:31 2026] <STEAM_0:1:410319943> Gray Blackwell: Задержи дыхание не торопись
+[Tue Apr  7 19:19:31 2026] <STEAM_0:1:945126200> Лёха Бетон: не возможно
+[Tue Apr  7 19:19:50 2026] <STEAM_0:1:410319943> Gray Blackwell: представь что целуешь свою маму на 8 марто поздравляя с празником...или девушу
+[Tue Apr  7 19:19:53 2026] worldspawn has killed Болотный Навальн.
+[Tue Apr  7 19:20:00 2026] <STEAM_0:0:586457449> Болотный Навальн: // А ПОЧЕМУ ТЫ ЖИВ
+[Tue Apr  7 19:20:54 2026] <STEAM_0:1:410319943> Gray Blackwell: пошли
+[Tue Apr  7 19:21:25 2026] <STEAM_0:1:410319943> Gray Blackwell: арсенал тут
+[Tue Apr  7 19:21:43 2026] Player "ghoprhd" <STEAM_0:0:453883455> has spawned in the server
+[Tue Apr  7 19:21:45 2026] <STEAM_0:1:410319943> Gray Blackwell: тут боеприпасы
+[Tue Apr  7 19:21:53 2026] Player "termisters play" <STEAM_0:1:44333849> has left the server
+[Tue Apr  7 19:21:57 2026] <STEAM_0:1:410319943> Gray Blackwell: бери снаряжения
+[Tue Apr  7 19:22:03 2026] <STEAM_0:1:945126200> Лёха Бетон: уже
+[Tue Apr  7 19:22:05 2026] <STEAM_0:1:945126200> Лёха Бетон: ты блять из кал оф дюти гоуст?
+[Tue Apr  7 19:22:21 2026] <STEAM_0:1:945126200> Лёха Бетон: ну так ты дебил?
+[Tue Apr  7 19:22:26 2026] <STEAM_0:1:410319943> Gray Blackwell: Это призраки...
+[Tue Apr  7 19:22:31 2026] <STEAM_0:1:945126200> Лёха Бетон: есть игра кал оф дюти :гоуст
+[Tue Apr  7 19:22:34 2026] <STEAM_0:1:945126200> Лёха Бетон: про отряд призраков
+[Tue Apr  7 19:22:37 2026] <STEAM_0:0:887714123> Po_rA1: /com Бургер ебаный. Кто там меня резать хотел? Пиздуй на завод. Я тебя резать буду
+[Tue Apr  7 19:22:43 2026] <STEAM_0:0:586457449> Болотный Навальн: /rp включил гоу про на камере
+[Tue Apr  7 19:23:00 2026] <STEAM_0:1:945126200> Лёха Бетон: а можно маску одеть
+[Tue Apr  7 19:23:03 2026] <STEAM_0:1:945126200> Лёха Бетон: а можно маску одеть
+[Tue Apr  7 19:23:11 2026] <STEAM_0:1:410319943> Gray Blackwell: если хочешь
+[Tue Apr  7 19:23:14 2026] <STEAM_0:1:945126200> Лёха Бетон: а где?
+[Tue Apr  7 19:23:17 2026] <STEAM_0:1:945126200> Лёха Бетон: нет выбора
+[Tue Apr  7 19:23:27 2026] <STEAM_0:1:410319943> Gray Blackwell: у тебя если есть на выборе то можешь а если нет то нельзя
+[Tue Apr  7 19:23:29 2026] <STEAM_0:0:586457449> Болотный Навальн: // я три раза уебался об землю
+[Tue Apr  7 19:23:31 2026] <STEAM_0:1:945126200> Лёха Бетон: есть только один пресет
+[Tue Apr  7 19:23:38 2026] <STEAM_0:0:887714123> Po_rA1: /ooc хахаха
+[Tue Apr  7 19:23:38 2026] Player "ghoprhd" <STEAM_0:0:453883455> has left the server
+[Tue Apr  7 19:23:39 2026] <STEAM_0:1:410319943> Gray Blackwell: значит на твоей модели нельзя
+[Tue Apr  7 19:23:44 2026] <STEAM_0:1:945126200> Лёха Бетон: эх ты сука
+[Tue Apr  7 19:24:05 2026] Po_rA1 has killed Болотный Навальн.
+[Tue Apr  7 19:24:10 2026] <STEAM_0:1:410319943> Gray Blackwell: ты можешь идти боец
+[Tue Apr  7 19:24:20 2026] <STEAM_0:0:586457449> Болотный Навальн: // а раз на раз в укрепрайоне выйдешь?
+[Tue Apr  7 19:24:50 2026] <STEAM_0:0:586457449> Болотный Навальн: /com погнали в укрепрайон
+[Tue Apr  7 19:25:06 2026] <STEAM_0:0:887714123> Po_rA1: /com Ну пойдем свинья зажравшаяся
+[Tue Apr  7 19:25:39 2026] <STEAM_0:0:586457449> Болотный Навальн: /com свиня я тебе живот вспорю кишки достану и повешу на дереве
+[Tue Apr  7 19:25:46 2026] <STEAM_0:1:945126200> Лёха Бетон: /me показал ПМК: [Нестеров П.Н.] [ДОК-№451] [11.03.2026]
+[Tue Apr  7 19:25:51 2026] <STEAM_0:0:887714123> Po_rA1: /com
+[Tue Apr  7 19:26:18 2026] Player "Maracon" <STEAM_0:1:36173203> is attempting to connect.
+[Tue Apr  7 19:26:29 2026] <STEAM_0:0:586457449> Болотный Навальн: /nato увидел.живи
+[Tue Apr  7 19:26:31 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: /com Хули там НАТО может, на горах друг с другом сосаться?
+[Tue Apr  7 19:26:52 2026] Po_rA1 has killed Болотный Навальн.
+[Tue Apr  7 19:27:07 2026] <STEAM_0:0:586457449> Болотный Навальн: /nato ай лев кто захватил
+[Tue Apr  7 19:27:19 2026] Player "Maracon" <STEAM_0:1:36173203> has spawned in the server
+[Tue Apr  7 19:27:41 2026] <STEAM_0:0:887714123> Po_rA1: /ooc этот калаш просто имба
+[Tue Apr  7 19:28:25 2026] Player "Maracon" <STEAM_0:1:36173203> has left the server
+[Tue Apr  7 19:28:29 2026] <STEAM_0:0:586457449> Болотный Навальн: // буквально у меня ствол это ебучая палка с 35 урона
+[Tue Apr  7 19:28:55 2026] Gray Blackwell has killed Po_rA1.
+[Tue Apr  7 19:29:28 2026] <STEAM_0:0:586457449> Болотный Навальн: /nato вы на заводе?
+[Tue Apr  7 19:29:51 2026] Gray Blackwell has killed 𝗺𝟏𝗿𝗮𝗰𝗹𝗲.
+[Tue Apr  7 19:30:16 2026] <STEAM_0:1:410319943> Gray Blackwell: мх...
+[Tue Apr  7 19:30:21 2026] Po_rA1 has killed Лёха Бетон.
+[Tue Apr  7 19:30:37 2026] <STEAM_0:1:410319943> Gray Blackwell: что вам медик не то сделал? почему вы по мне с треляете всегда
+[Tue Apr  7 19:30:39 2026] <STEAM_0:0:887714123> Po_rA1: /me Связал и забрал оружие
+[Tue Apr  7 19:31:17 2026] <STEAM_0:0:586457449> Болотный Навальн: /rp включил гоу про на шлеме
+[Tue Apr  7 19:31:45 2026] <STEAM_0:0:586457449> Болотный Навальн: /me срезал с впшника броник и скинул на пол потом ножом разрезал кофту и футболку под ней
+[Tue Apr  7 19:32:00 2026] <STEAM_0:0:887714123> Po_rA1: /me Забрал средства связи
+[Tue Apr  7 19:32:03 2026] <STEAM_0:0:887714123> Po_rA1: /pass
+[Tue Apr  7 19:32:30 2026] <STEAM_0:0:586457449> Болотный Навальн: /rp резким движением ножа вспорол живот впшника и вколол обезбол чтоб не сдох раньше времени
+[Tue Apr  7 19:32:41 2026] <STEAM_0:1:410319943> Gray Blackwell: Что вообще ВП забыло на линии?
+[Tue Apr  7 19:32:41 2026] <STEAM_0:1:945126200> Лёха Бетон: Прайс
+[Tue Apr  7 19:32:51 2026] <STEAM_0:1:945126200> Лёха Бетон: 1-ый пехотный батальон
+[Tue Apr  7 19:32:57 2026] <STEAM_0:1:945126200> Лёха Бетон: Рядовой
+[Tue Apr  7 19:33:04 2026] <STEAM_0:1:945126200> Лёха Бетон: Рекрут
+[Tue Apr  7 19:33:05 2026] <STEAM_0:1:410319943> Gray Blackwell: СМ? был...ты из РФ?
+[Tue Apr  7 19:33:10 2026] <STEAM_0:1:945126200> Лёха Бетон: не знаю
+[Tue Apr  7 19:33:13 2026] <STEAM_0:0:586457449> Болотный Навальн: /rp поставил впшника на колени и резким движением ножа перезал ему горло
+[Tue Apr  7 19:33:16 2026] Болотный Навальн has killed 𝗺𝟏𝗿𝗮𝗰𝗹𝗲.
+[Tue Apr  7 19:33:17 2026] <STEAM_0:1:945126200> Лёха Бетон: не знаю
+[Tue Apr  7 19:33:26 2026] <STEAM_0:1:945126200> Лёха Бетон: не знаю я только прибыл
+[Tue Apr  7 19:33:34 2026] <STEAM_0:1:945126200> Лёха Бетон: не знаю
+[Tue Apr  7 19:33:37 2026] <STEAM_0:0:586457449> Болотный Навальн: /rp cнял с впшника шлем и начал отрезать голову
+[Tue Apr  7 19:33:40 2026] <STEAM_0:1:945126200> Лёха Бетон: да не знаю я
+[Tue Apr  7 19:33:44 2026] <STEAM_0:1:558349975> Kotik ran command "respawn Struna"
+[Tue Apr  7 19:33:48 2026] <STEAM_0:1:945126200> Лёха Бетон: не знаю
+[Tue Apr  7 19:33:53 2026] Kotik has killed Kotik.
+[Tue Apr  7 19:33:53 2026] <STEAM_0:1:558349975> Kotik ran command "slay Struna"
+[Tue Apr  7 19:33:55 2026] <STEAM_0:1:558349975> Kotik ran command "respawn Struna"
+[Tue Apr  7 19:33:57 2026] <STEAM_0:0:586457449> Болотный Навальн: /rp приклеил голову впшника к поясу
+[Tue Apr  7 19:34:02 2026] <STEAM_0:1:945126200> Лёха Бетон: из моего?
+[Tue Apr  7 19:34:14 2026] <STEAM_0:1:945126200> Лёха Бетон: я видел 3 вместе со мной
+[Tue Apr  7 19:34:36 2026] <STEAM_0:1:945126200> Лёха Бетон: включая
+[Tue Apr  7 19:34:44 2026] <STEAM_0:1:945126200> Лёха Бетон: я я больше не знаю ничего
+[Tue Apr  7 19:35:16 2026] <STEAM_0:1:945126200> Лёха Бетон: нет
+[Tue Apr  7 19:35:20 2026] <STEAM_0:1:945126200> Лёха Бетон: я только прибыл
+[Tue Apr  7 19:35:30 2026] <STEAM_0:1:945126200> Лёха Бетон: нету
+[Tue Apr  7 19:35:34 2026] <STEAM_0:1:945126200> Лёха Бетон: no
+[Tue Apr  7 19:35:48 2026] <STEAM_0:1:945126200> Лёха Бетон: im not have a documents
+[Tue Apr  7 19:36:08 2026] <STEAM_0:1:945126200> Лёха Бетон: а вот так
+[Tue Apr  7 19:36:15 2026] <STEAM_0:1:410319943> Gray Blackwell: 34
+[Tue Apr  7 19:36:24 2026] <STEAM_0:1:410319943> Gray Blackwell: /looc 34 урона
+[Tue Apr  7 19:36:32 2026] <STEAM_0:1:945126200> Лёха Бетон: юрий еще есть
+[Tue Apr  7 19:36:40 2026] <STEAM_0:1:410319943> Gray Blackwell: на нём 38 но я без него бегаю
+[Tue Apr  7 19:36:49 2026] <STEAM_0:1:945126200> Лёха Бетон: что именно?
+[Tue Apr  7 19:37:06 2026] <STEAM_0:1:945126200> Лёха Бетон: есть человек из отряда призраки
+[Tue Apr  7 19:37:28 2026] <STEAM_0:1:945126200> Лёха Бетон: воевать
+[Tue Apr  7 19:37:58 2026] <STEAM_0:0:586457449> Болотный Навальн: /com вс рф смотрите щас модно стерлять себе в голову переверните ствол
+[Tue Apr  7 19:38:16 2026] <STEAM_0:0:887714123> Po_rA1: /me Насильно повернул к стене
+[Tue Apr  7 19:38:16 2026] <STEAM_0:1:410319943> Gray Blackwell: у меня идёт захват руками
+[Tue Apr  7 19:38:23 2026] <STEAM_0:1:945126200> Лёха Бетон: NO
+[Tue Apr  7 19:38:24 2026] <STEAM_0:1:945126200> Лёха Бетон: NO
+[Tue Apr  7 19:38:25 2026] <STEAM_0:1:945126200> Лёха Бетон: NO
+[Tue Apr  7 19:38:32 2026] <STEAM_0:0:887714123> Po_rA1: /me Снимаю шлем с натовца
+[Tue Apr  7 19:38:33 2026] <STEAM_0:1:945126200> Лёха Бетон: Я вам все сказал
+[Tue Apr  7 19:38:42 2026] <STEAM_0:1:945126200> Лёха Бетон: я пошутил
+[Tue Apr  7 19:38:46 2026] <STEAM_0:0:887714123> Po_rA1: /me Снимаю шлем с натовца
+[Tue Apr  7 19:38:51 2026] <STEAM_0:1:945126200> Лёха Бетон: есть человек из отряда призраки
+[Tue Apr  7 19:38:59 2026] <STEAM_0:1:945126200> Лёха Бетон: не знаю
+[Tue Apr  7 19:39:09 2026] <STEAM_0:1:945126200> Лёха Бетон: я только прибыл на воинскую часть
+[Tue Apr  7 19:39:13 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: /me взял арматуру
+[Tue Apr  7 19:39:25 2026] <STEAM_0:1:945126200> Лёха Бетон: еще есть спецназ
+[Tue Apr  7 19:39:31 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: /me бросил арматуру на пол
+[Tue Apr  7 19:39:32 2026] <STEAM_0:1:945126200> Лёха Бетон: нет
+[Tue Apr  7 19:39:37 2026] <STEAM_0:1:945126200> Лёха Бетон: я вам все сказал
+[Tue Apr  7 19:39:52 2026] <STEAM_0:0:887714123> Po_rA1: /me Снимаю штаны с НАТОвца
+[Tue Apr  7 19:39:58 2026] <STEAM_0:0:586457449> Болотный Навальн: /rp поставил на дверь штаба растяжку с гранатой
+[Tue Apr  7 19:40:10 2026] <STEAM_0:1:945126200> Лёха Бетон: я вам все сказал
+[Tue Apr  7 19:40:21 2026] Po_rA1 has killed Болотный Навальн.
+[Tue Apr  7 19:40:26 2026] <STEAM_0:1:945126200> Лёха Бетон: Я вам все сказал
+[Tue Apr  7 19:40:30 2026] <STEAM_0:0:586457449> Болотный Навальн: // бля нежданули
+[Tue Apr  7 19:40:35 2026] <STEAM_0:1:945126200> Лёха Бетон: Я вам все сказал
+[Tue Apr  7 19:40:41 2026] <STEAM_0:1:945126200> Лёха Бетон: не надо
+[Tue Apr  7 19:40:47 2026] <STEAM_0:1:945126200> Лёха Бетон: пожалуйста
+[Tue Apr  7 19:40:47 2026] <STEAM_0:0:586457449> Болотный Навальн: /nato в кпз блять они
+[Tue Apr  7 19:40:56 2026] <STEAM_0:1:945126200> Лёха Бетон: я вам все скажу
+[Tue Apr  7 19:41:09 2026] <STEAM_0:1:945126200> Лёха Бетон: есть из отряда призраки человек
+[Tue Apr  7 19:41:13 2026] <STEAM_0:1:945126200> Лёха Бетон: есть из спецназа
+[Tue Apr  7 19:41:22 2026] <STEAM_0:1:945126200> Лёха Бетон: не надо
+[Tue Apr  7 19:41:25 2026] <STEAM_0:0:887714123> Po_rA1: /me Беру арматуру
+[Tue Apr  7 19:41:35 2026] <STEAM_0:0:586457449> Болотный Навальн: /nato струна ты тут?
+[Tue Apr  7 19:41:41 2026] <STEAM_0:1:558349975> Kotik: /nato +
+[Tue Apr  7 19:41:44 2026] <STEAM_0:1:945126200> Лёха Бетон: лушче колено чем ass
+[Tue Apr  7 19:41:55 2026] <STEAM_0:1:945126200> Лёха Бетон: не надо
+[Tue Apr  7 19:42:00 2026] <STEAM_0:0:586457449> Болотный Навальн: /nato заспавни хаммер по братски
+[Tue Apr  7 19:42:01 2026] <STEAM_0:1:945126200> Лёха Бетон: давайте я вам все скажу
+[Tue Apr  7 19:42:12 2026] <STEAM_0:0:586457449> Болотный Навальн: /nato заспавни хаммер по братски чисто от всей души буду благодарен
+[Tue Apr  7 19:42:23 2026] <STEAM_0:1:558349975> Kotik: /nato да емае..
+[Tue Apr  7 19:42:35 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: /rp Врубил камеру и запустил прямой эфир
+[Tue Apr  7 19:42:40 2026] <STEAM_0:0:586457449> Болотный Навальн: /nato а я тебе голову вашника
+[Tue Apr  7 19:43:02 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: /rp Колесников: Нато привет, Прайс наказан
+[Tue Apr  7 19:43:03 2026] <STEAM_0:0:887714123> Po_rA1: /rp Начинаю бить арматурой НАТОвца на камеру
+[Tue Apr  7 19:43:10 2026] <STEAM_0:0:586457449> Болотный Навальн: /rp запустил прямой эфир в тиктоке и подписал airsoft и включил видео забись на гоу про
+[Tue Apr  7 19:43:20 2026] <STEAM_0:0:586457449> Болотный Навальн: /ooc запись*
+[Tue Apr  7 19:43:24 2026] <STEAM_0:1:558349975> Kotik spawned SENT "Entity [693][lvs_wheeldrive_hummer_mk19]"
+[Tue Apr  7 19:43:44 2026] <STEAM_0:0:586457449> Болотный Навальн: /nato грей ты где?
+[Tue Apr  7 19:44:06 2026] <STEAM_0:1:945126200> Лёха Бетон: fools
+[Tue Apr  7 19:44:14 2026] <STEAM_0:1:410319943> Gray Blackwell: /HATO По дороге еду с Главой отряда а что?
+[Tue Apr  7 19:44:19 2026] <STEAM_0:0:586457449> Болотный Навальн: /com где прайс а русня?
+[Tue Apr  7 19:44:32 2026] <STEAM_0:0:887714123> Po_rA1: /com В прямой эфир зайди
+[Tue Apr  7 19:44:33 2026] <STEAM_0:1:410319943> Gray Blackwell: /hato По дороге еду с Главой отряда а что?
+[Tue Apr  7 19:44:48 2026] <STEAM_0:1:558349975> Kotik: n
+[Tue Apr  7 19:44:49 2026] <STEAM_0:1:558349975> Kotik: h
+[Tue Apr  7 19:44:51 2026] <STEAM_0:1:945126200> Лёха Бетон: you are russian bandits
+[Tue Apr  7 19:44:54 2026] <STEAM_0:0:586457449> Болотный Навальн: /com какие ваши требования если что готов выйти на переговоры...
+[Tue Apr  7 19:44:57 2026] <STEAM_0:1:945126200> Лёха Бетон: you are russian bandits!
+[Tue Apr  7 19:45:02 2026] <STEAM_0:1:410319943> Gray Blackwell: /nato По дороге еду с Главой отряда а что?
+[Tue Apr  7 19:45:08 2026] <STEAM_0:1:945126200> Лёха Бетон: you are russian бандиты
+[Tue Apr  7 19:45:08 2026] <STEAM_0:0:887714123> Po_rA1: /com За него не беспокойтесь
+[Tue Apr  7 19:45:15 2026] <STEAM_0:1:945126200> Лёха Бетон: you  russian бандиты
+[Tue Apr  7 19:45:19 2026] <STEAM_0:1:945126200> Лёха Бетон: кгыышфт
+[Tue Apr  7 19:45:20 2026] <STEAM_0:0:586457449> Болотный Навальн: /nato я один просто давайте их штурманем
+[Tue Apr  7 19:45:24 2026] <STEAM_0:1:945126200> Лёха Бетон: russian
+[Tue Apr  7 19:45:28 2026] <STEAM_0:0:586457449> Болотный Навальн: /com русня рч 555
+[Tue Apr  7 19:45:28 2026] <STEAM_0:1:945126200> Лёха Бетон: bandits
+[Tue Apr  7 19:45:39 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: /rp Колесников: Пугает Прайса пистолетои
+[Tue Apr  7 19:45:47 2026] <STEAM_0:1:945126200> Лёха Бетон: im bad speak russian
+[Tue Apr  7 19:45:47 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: //Пистолетом*
+[Tue Apr  7 19:45:51 2026] <STEAM_0:1:945126200> Лёха Бетон: im bad speak
+[Tue Apr  7 19:45:59 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: // Пистолетом*
+[Tue Apr  7 19:46:01 2026] <STEAM_0:1:945126200> Лёха Бетон: no
+[Tue Apr  7 19:46:13 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: /rp У Прайса прострелены яйца
+[Tue Apr  7 19:46:44 2026] <STEAM_0:0:887714123> Po_rA1: /me Достаю листок и пишу на нем. "Сосать америка и НАТО"
+[Tue Apr  7 19:46:56 2026] <STEAM_0:1:558349975> Kotik: /nato прикрыть?
+[Tue Apr  7 19:47:11 2026] <STEAM_0:0:887714123> Po_rA1: /com Покинте ВЧ ВСРФ иначе заложник погибнет
+[Tue Apr  7 19:47:13 2026] <STEAM_0:0:586457449> Болотный Навальн: /nato Я У НИХ НА БАЗЕ
+[Tue Apr  7 19:47:19 2026] <STEAM_0:1:558349975> Kotik: /nato УХОДИ
+[Tue Apr  7 19:47:22 2026] <STEAM_0:1:558349975> Kotik: /nato УХОДИ БЛЯТЬ
+[Tue Apr  7 19:47:25 2026] <STEAM_0:1:945126200> Лёха Бетон: you are faggot
+[Tue Apr  7 19:47:33 2026] Po_rA1 has killed Болотный Навальн.
+[Tue Apr  7 19:47:56 2026] <STEAM_0:0:887714123> Po_rA1: /me Сую листок ему в карман. После одеваю штаны на заложника
+[Tue Apr  7 19:48:04 2026] <STEAM_0:0:586457449> Болотный Навальн: // прайс не сдавайся морально мы в тебя верим..
+[Tue Apr  7 19:48:15 2026] <STEAM_0:1:945126200> Лёха Бетон: thanks you a faggot
+[Tue Apr  7 19:48:21 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: /rp Запись вырублена
+[Tue Apr  7 19:48:29 2026] <STEAM_0:1:945126200> Лёха Бетон: you are faggot
+[Tue Apr  7 19:49:16 2026] <STEAM_0:0:586457449> Болотный Навальн: /com русня рч 555
+[Tue Apr  7 19:49:17 2026] Kotik has killed Лёха Бетон.
+[Tue Apr  7 19:49:19 2026] Kotik has killed 𝗺𝟏𝗿𝗮𝗰𝗹𝗲.
+[Tue Apr  7 19:50:26 2026] Kotik has killed 𝗺𝟏𝗿𝗮𝗰𝗹𝗲.
+[Tue Apr  7 19:51:17 2026] <STEAM_0:0:586457449> Болотный Навальн: /rp вызвал налет авиации на базу вс рф
+[Tue Apr  7 19:51:25 2026] <STEAM_0:0:887714123> Po_rA1: /rf Частота 2
+[Tue Apr  7 19:51:28 2026] Player "Лёха Бетон" <STEAM_0:1:945126200> has left the server
+[Tue Apr  7 19:51:29 2026] Player "Лёха Бетон" <STEAM_0:1:945126200> is attempting to connect.
+[Tue Apr  7 19:51:30 2026] <STEAM_0:0:586457449> Болотный Навальн: // откат
+[Tue Apr  7 19:51:32 2026] Player "Pol__lex" <STEAM_0:1:811965597> is attempting to connect.
+[Tue Apr  7 19:51:55 2026] Player "Лёха Бетон" <STEAM_0:1:945126200> has spawned in the server
+[Tue Apr  7 19:52:36 2026] Болотный Навальн has killed Po_rA1.
+[Tue Apr  7 19:52:36 2026] Po_rA1 has killed Po_rA1.
+[Tue Apr  7 19:53:29 2026] <STEAM_0:0:586457449> Болотный Навальн: /rp включил гоу про на шлеме
+[Tue Apr  7 19:54:19 2026] <STEAM_0:0:586457449> Болотный Навальн: /rp срезал броник у вдвшника стянул и разрезал куртку и футболку
+[Tue Apr  7 19:54:27 2026] <STEAM_0:1:558349975> Kotik: /nato ты где?
+[Tue Apr  7 19:54:37 2026] <STEAM_0:0:586457449> Болотный Навальн: /rp взял кувалду и хуярю по ногам колесникова
+[Tue Apr  7 19:54:43 2026] <STEAM_0:1:558349975> Kotik spawned SENT "Entity [646][lvs_item_ammo]"
+[Tue Apr  7 19:54:47 2026] <STEAM_0:0:586457449> Болотный Навальн: /nato недалеко от базу вс рф
+[Tue Apr  7 19:54:48 2026] <STEAM_0:1:558349975> Kotik spawned SENT "Entity [646][lvs_item_jerrycan]"
+[Tue Apr  7 19:54:57 2026] <STEAM_0:0:586457449> Болотный Навальн: /nato на площаде встретимся
+[Tue Apr  7 19:54:57 2026] <STEAM_0:1:558349975> Kotik spawned SENT "Entity [646][lvs_item_ammocrate]"
+[Tue Apr  7 19:55:02 2026] <STEAM_0:0:586457449> Болотный Навальн: /rp хуярю по рукам
+[Tue Apr  7 19:55:38 2026] <STEAM_0:0:586457449> Болотный Навальн: /rp откинул кувалду достал учебную гранату оттянул трусы и штаны закинул и отбежал
+[Tue Apr  7 19:55:44 2026] <STEAM_0:1:945126200> Лёха Бетон: не работает
+[Tue Apr  7 19:55:46 2026] <STEAM_0:1:410319943> Gray Blackwell: /ooc а я застрять...
+[Tue Apr  7 19:55:52 2026] <STEAM_0:1:945126200> Лёха Бетон: да
+[Tue Apr  7 19:55:52 2026] <STEAM_0:0:586457449> Болотный Навальн: /rp разовалась граната учебная
+[Tue Apr  7 19:56:02 2026] <STEAM_0:0:586457449> Болотный Навальн: /rp вспорол живот
+[Tue Apr  7 19:56:29 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: // Струна тп у нас баг
+[Tue Apr  7 19:56:30 2026] <STEAM_0:0:586457449> Болотный Навальн: /rp достал кишки обматал у шеи и зажал его рацию чтоб амбасадоров слышал хрепение медленго умирающего бойца
+[Tue Apr  7 19:56:42 2026] <STEAM_0:1:945126200> Лёха Бетон: не работает
+[Tue Apr  7 19:56:50 2026] <STEAM_0:0:586457449> Болотный Навальн: /rp перерезал горло вдвшнику
+[Tue Apr  7 19:56:56 2026] Болотный Навальн has killed Po_rA1.
+[Tue Apr  7 19:57:03 2026] <STEAM_0:1:945126200> Лёха Бетон: я проходил просто
+[Tue Apr  7 19:57:14 2026] <STEAM_0:0:586457449> Болотный Навальн: /rp отрезал голову приклеил к поясу рядом с впшником
+[Tue Apr  7 19:57:16 2026] <STEAM_0:0:887714123> Po_rA1: /ooc Я тебе хлопаю прям щас
+[Tue Apr  7 19:57:21 2026] <STEAM_0:0:586457449> Болотный Навальн: // я старался
+[Tue Apr  7 19:57:28 2026] <STEAM_0:0:887714123> Po_rA1: /ooc Молоедц
+[Tue Apr  7 19:57:39 2026] <STEAM_0:1:558349975> Kotik spawned SENT "Entity [646][lvs_wheeldrive_m3a3]"
+[Tue Apr  7 19:57:47 2026] <STEAM_0:0:887714123> Po_rA1: /ooc Вакутагин молодец
+[Tue Apr  7 19:58:01 2026] <STEAM_0:1:558349975> Kotik: 124 рч
+[Tue Apr  7 19:58:09 2026] <STEAM_0:1:945126200> Лёха Бетон: такую?
+[Tue Apr  7 19:58:52 2026] <STEAM_0:1:945126200> Лёха Бетон: куда принять?
+[Tue Apr  7 19:59:01 2026] Po_rA1 has killed Болотный Навальн.
+[Tue Apr  7 19:59:12 2026] Kotik has killed Po_rA1.
+[Tue Apr  7 19:59:51 2026] <STEAM_0:1:945126200> Лёха Бетон: -
+[Tue Apr  7 20:00:06 2026] <STEAM_0:1:945126200> Лёха Бетон: бредлю видел
+[Tue Apr  7 20:00:11 2026] <STEAM_0:1:945126200> Лёха Бетон: на базу уехала
+[Tue Apr  7 20:00:13 2026] <STEAM_0:1:945126200> Лёха Бетон: на базу уехала
+[Tue Apr  7 20:01:19 2026] <STEAM_0:1:945126200> Лёха Бетон: их база?
+[Tue Apr  7 20:02:28 2026] <STEAM_0:0:586457449> Болотный Навальн: /com ах вы суки ждите фпв
+[Tue Apr  7 20:03:12 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: // фпв добавили??
+[Tue Apr  7 20:03:17 2026] <STEAM_0:1:558349975> Kotik: /ooc че?
+[Tue Apr  7 20:03:19 2026] <STEAM_0:0:586457449> Болотный Навальн: // не я просто еблан
+[Tue Apr  7 20:03:25 2026] <STEAM_0:1:945126200> Лёха Бетон: /ooc бывает
+[Tue Apr  7 20:03:30 2026] Player "Po_rA1" <STEAM_0:0:887714123> has left the server
+[Tue Apr  7 20:03:33 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: // Struna, FPV Дроны
+[Tue Apr  7 20:03:43 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: // Struna, FPV Дроны
+[Tue Apr  7 20:03:52 2026] Болотный Навальн has killed 𝗺𝟏𝗿𝗮𝗰𝗹𝗲.
+[Tue Apr  7 20:03:53 2026] <STEAM_0:1:945126200> Лёха Бетон: /c .
+[Tue Apr  7 20:03:53 2026] 𝗺𝟏𝗿𝗮𝗰𝗹𝗲 has killed 𝗺𝟏𝗿𝗮𝗰𝗹𝗲.
+[Tue Apr  7 20:03:57 2026] <STEAM_0:1:558349975> Kotik: /ooc шарю за такие, сам их владею
+[Tue Apr  7 20:04:15 2026] <STEAM_0:1:558349975> Kotik: /nato 124 частота
+[Tue Apr  7 20:04:21 2026] <STEAM_0:1:558349975> Kotik: /nato 124 частота
+[Tue Apr  7 20:04:24 2026] Gray Blackwell has killed Лёха Бетон.
+[Tue Apr  7 20:04:27 2026] <STEAM_0:1:558349975> Kotik: /nato 124 частота
+[Tue Apr  7 20:04:52 2026] <STEAM_0:1:410319943> Gray Blackwell: идёшь за  мной
+[Tue Apr  7 20:05:18 2026] <STEAM_0:1:410319943> Gray Blackwell: ну дай хоть этому  пожить он милый
+[Tue Apr  7 20:05:29 2026] <STEAM_0:1:410319943> Gray Blackwell: да он милый оставь
+[Tue Apr  7 20:05:31 2026] <STEAM_0:1:410319943> Gray Blackwell: он мой
+[Tue Apr  7 20:05:40 2026] <STEAM_0:1:410319943> Gray Blackwell: иди за мной
+[Tue Apr  7 20:06:56 2026] <STEAM_0:0:586457449> Болотный Навальн: СУКА Я ВАС ЕБНУ ДВОИХ ЕСЛИ ВЫ НЕ БУДЕТЕ ИГРАТЬ
+[Tue Apr  7 20:07:03 2026] <STEAM_0:1:945126200> Лёха Бетон: я?
+[Tue Apr  7 20:07:07 2026] <STEAM_0:1:945126200> Лёха Бетон: я верен
+[Tue Apr  7 20:07:16 2026] Gray Blackwell has killed 𝗺𝟏𝗿𝗮𝗰𝗹𝗲.
+[Tue Apr  7 20:07:18 2026] <STEAM_0:0:586457449> Болотный Навальн: /rp достал кишки вдвшника из рюкзака и закинул на шею впшника
+[Tue Apr  7 20:07:26 2026] <STEAM_0:0:586457449> Болотный Навальн: /rp выкинул кишки
+[Tue Apr  7 20:07:37 2026] <STEAM_0:1:410319943> Gray Blackwell: бери меня за ручку
+[Tue Apr  7 20:07:38 2026] Kotik has killed 𝗺𝟏𝗿𝗮𝗰𝗹𝗲.
+[Tue Apr  7 20:07:50 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: // Меня просто напросто на куски разбросало, вы как воскресили то))
+[Tue Apr  7 20:07:52 2026] <STEAM_0:1:410319943> Gray Blackwell: кмд куда его
+[Tue Apr  7 20:07:58 2026] <STEAM_0:1:410319943> Gray Blackwell: кмд куда его
+[Tue Apr  7 20:08:01 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: // Магия
+[Tue Apr  7 20:08:04 2026] <STEAM_0:1:558349975> Kotik: /ooc тебя с автомата убили, не с автопушки
+[Tue Apr  7 20:08:05 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: // Магия
+[Tue Apr  7 20:08:11 2026] <STEAM_0:1:945126200> Лёха Бетон: отпустите меня
+[Tue Apr  7 20:08:13 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: // Магия
+[Tue Apr  7 20:08:15 2026] <STEAM_0:1:410319943> Gray Blackwell: ладно иди...ты слишком милый
+[Tue Apr  7 20:08:16 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: // Магия
+[Tue Apr  7 20:08:21 2026] <STEAM_0:0:586457449> Болотный Навальн: объявдяю вас мужем и женой
+[Tue Apr  7 20:08:52 2026] <STEAM_0:1:945126200> Лёха Бетон: ну отпустите
+[Tue Apr  7 20:08:56 2026] <STEAM_0:1:410319943> Gray Blackwell: неа
+[Tue Apr  7 20:08:59 2026] <STEAM_0:1:945126200> Лёха Бетон: я молодой еще
+[Tue Apr  7 20:09:37 2026] <STEAM_0:1:945126200> Лёха Бетон: вы что ли из кал оф дюти сбежали?
+[Tue Apr  7 20:10:09 2026] <STEAM_0:1:410319943> Gray Blackwell: М?
+[Tue Apr  7 20:10:39 2026] <STEAM_0:1:410319943> Gray Blackwell: развяжи
+[Tue Apr  7 20:11:13 2026] <STEAM_0:1:558349975> Kotik: /ooc РФ
+[Tue Apr  7 20:11:19 2026] <STEAM_0:1:945126200> Лёха Бетон: /ooc ?
+[Tue Apr  7 20:11:27 2026] <STEAM_0:1:558349975> Kotik: /ooc вам дать БМП?
+[Tue Apr  7 20:11:33 2026] <STEAM_0:1:558349975> Kotik: /ooc вам дать БМП?
+[Tue Apr  7 20:11:38 2026] <STEAM_0:1:558349975> Kotik: /ooc вам дать БМП?
+[Tue Apr  7 20:12:01 2026] <STEAM_0:1:945126200> Лёха Бетон: /ooc да нет наверное
+[Tue Apr  7 20:12:05 2026] <STEAM_0:1:558349975> Kotik: /ooc уверены?
+[Tue Apr  7 20:12:18 2026] <STEAM_0:1:945126200> Лёха Бетон: /ooc уверены
+[Tue Apr  7 20:12:25 2026] <STEAM_0:1:945126200> Лёха Бетон: /ooc да
+[Tue Apr  7 20:12:36 2026] <STEAM_0:1:945126200> Лёха Бетон: /ooc да
+[Tue Apr  7 20:12:39 2026] Player "Лёха Бетон" <STEAM_0:1:945126200> has left the server
+[Tue Apr  7 20:12:50 2026] <STEAM_0:1:410319943> Gray Blackwell: обидел
+[Tue Apr  7 20:12:59 2026] <STEAM_0:0:586457449> Болотный Навальн: // Я ОСЕДЛАЛ БРЭДЛИ!!
+[Tue Apr  7 20:13:05 2026] <STEAM_0:1:410319943> Gray Blackwell: Брэдли
+[Tue Apr  7 20:13:32 2026] <STEAM_0:1:410319943> Gray Blackwell: ох щяс по парадеуснию
+[Tue Apr  7 20:13:35 2026] <STEAM_0:1:410319943> Gray Blackwell: КМД жду приказа
+[Tue Apr  7 20:13:50 2026] <STEAM_0:1:558349975> Kotik: /ooc как знаете
+[Tue Apr  7 20:13:52 2026] <STEAM_0:1:410319943> Gray Blackwell: КМД! вы чего творите!
+[Tue Apr  7 20:14:17 2026] <STEAM_0:1:410319943> Gray Blackwell: /me взяла шприц и тыкаю в капюшон
+[Tue Apr  7 20:14:29 2026] Player "Pol__lex" <STEAM_0:1:811965597> has spawned in the server
+[Tue Apr  7 20:14:30 2026] <STEAM_0:1:410319943> Gray Blackwell: не трогай меня
+[Tue Apr  7 20:14:57 2026] <STEAM_0:1:410319943> Gray Blackwell: ПХ
+[Tue Apr  7 20:15:11 2026] <STEAM_0:1:410319943> Gray Blackwell: погоди а разве у бредли не 1500 должно быть...
+[Tue Apr  7 20:15:30 2026] <STEAM_0:1:410319943> Gray Blackwell: по очкам хп что-то не так
+[Tue Apr  7 20:16:58 2026] <STEAM_0:0:586457449> Болотный Навальн: /com отдам впшника в секс рабвство кому надо?
+[Tue Apr  7 20:17:47 2026] Kotik has killed Болотный Навальн.
+[Tue Apr  7 20:17:55 2026] <STEAM_0:1:558349975> Kotik ran command "bring Vakutagin"
+[Tue Apr  7 20:17:56 2026] <STEAM_0:0:586457449> Болотный Навальн: // не полюдски добивать
+[Tue Apr  7 20:17:58 2026] <STEAM_0:1:558349975> Kotik ran command "bring Vakutagin"
+[Tue Apr  7 20:19:22 2026] Player "𝗺𝟏𝗿𝗮𝗰𝗹𝗲" <STEAM_0:0:869238922> has left the server
+[Tue Apr  7 20:20:14 2026] <STEAM_0:1:558349975> Kotik spawned SENT "Entity [646][lvs_wheeldrive_dabrams_m1a1]"
+[Tue Apr  7 20:20:15 2026] Player "Креветка" <STEAM_0:1:942364657> is attempting to connect.
+[Tue Apr  7 20:21:13 2026] Player "Креветка" <STEAM_0:1:942364657> has spawned in the server
+[Tue Apr  7 20:22:00 2026] Player "Креветка" <STEAM_0:1:942364657> has left the server
+[Tue Apr  7 20:22:01 2026] <STEAM_0:1:558349975> Kotik spawned SENT "Entity [648][sw_bomb_ao25m1_v3]"
+[Tue Apr  7 20:22:04 2026] Player "Креветка" <STEAM_0:1:942364657> is attempting to connect.
+[Tue Apr  7 20:22:20 2026] <STEAM_0:1:558349975> Kotik spawned SENT "Entity [650][sw_rocket_grome1_v3]"
+[Tue Apr  7 20:22:21 2026] <STEAM_0:1:558349975> Kotik spawned SENT "Entity [658][sw_bomb_brab500m43_v3]"
+[Tue Apr  7 20:22:25 2026] <STEAM_0:1:558349975> Kotik spawned SENT "Entity [648][sw_bomb_brab500m43_v3]"
+[Tue Apr  7 20:22:31 2026] Player "Креветка" <STEAM_0:1:942364657> has spawned in the server
+[Tue Apr  7 20:22:35 2026] Kotik has killed Gray Blackwell.
+[Tue Apr  7 20:22:41 2026] <STEAM_0:1:410319943> Gray Blackwell: /ooc ауч
+[Tue Apr  7 20:22:44 2026] <STEAM_0:1:558349975> Kotik ran command "bring Vakutagin"
+[Tue Apr  7 20:22:49 2026] <STEAM_0:1:558349975> Kotik ran command "bring gray"
+[Tue Apr  7 20:23:00 2026] <STEAM_0:1:558349975> Kotik spawned SENT "Entity [670][sw_rocket_s1of_v3]"
+[Tue Apr  7 20:23:27 2026] <STEAM_0:1:558349975> Kotik spawned SENT "Entity [667][sw_mine_pfm1_v3]"
+[Tue Apr  7 20:23:31 2026] <STEAM_0:1:558349975> Kotik spawned SENT "Entity [646][sw_mine_pfm1_v3]"
+[Tue Apr  7 20:23:40 2026] Kotik has killed Болотный Навальн.
+[Tue Apr  7 20:23:43 2026] <STEAM_0:1:558349975> Kotik ran command "bring Vakutagin"
+[Tue Apr  7 20:23:46 2026] Kotik has killed Болотный Навальн.
+[Tue Apr  7 20:23:47 2026] <STEAM_0:1:558349975> Kotik ran command "bring Vakutagin"
+[Tue Apr  7 20:23:56 2026] <STEAM_0:1:558349975> Kotik spawned SENT "Entity [670][sw_rocket_s21_v3]"
+[Tue Apr  7 20:23:57 2026] Kotik has killed Болотный Навальн.
+[Tue Apr  7 20:24:00 2026] <STEAM_0:1:558349975> Kotik ran command "bring Vakutagin"
+[Tue Apr  7 20:24:11 2026] <STEAM_0:1:558349975> Kotik spawned SENT "Entity [689][sw_rocket_s21_v3]"
+[Tue Apr  7 20:24:15 2026] <STEAM_0:1:558349975> Kotik spawned SENT "Entity [689][sw_rocket_s21_v3]"
+[Tue Apr  7 20:24:18 2026] <STEAM_0:1:558349975> Kotik spawned SENT "Entity [689][sw_rocket_s21_v3]"
+[Tue Apr  7 20:24:19 2026] Kotik has killed Болотный Навальн.
+[Tue Apr  7 20:24:21 2026] <STEAM_0:1:558349975> Kotik spawned SENT "Entity [646][sw_rocket_s21_v3]"
+[Tue Apr  7 20:24:22 2026] Kotik has killed Gray Blackwell.
+[Tue Apr  7 20:24:27 2026] <STEAM_0:1:558349975> Kotik used tool "remover"
+[Tue Apr  7 20:24:28 2026] <STEAM_0:1:558349975> Kotik used tool "remover"
+[Tue Apr  7 20:24:28 2026] <STEAM_0:1:558349975> Kotik used tool "remover"
+[Tue Apr  7 20:24:29 2026] <STEAM_0:1:410319943> Gray Blackwell: /ooc ауч...
+[Tue Apr  7 20:24:33 2026] <STEAM_0:0:586457449> Болотный Навальн: // струна я вызываю тебя на бой
+[Tue Apr  7 20:24:39 2026] <STEAM_0:1:558349975> Kotik ran command "respawn Vakutagin"
+[Tue Apr  7 20:24:46 2026] <STEAM_0:1:558349975> Kotik ran command "respawn gray"
+[Tue Apr  7 20:24:59 2026] Player "Креветка" <STEAM_0:1:942364657> has left the server
+[Tue Apr  7 20:25:12 2026] <STEAM_0:1:558349975> Kotik spawned SENT "Entity [680][lvs_wheeldrive_hummer_m134]"
+[Tue Apr  7 20:25:13 2026] <STEAM_0:1:558349975> Kotik spawned SENT "Entity [710][lvs_wheeldrive_hummer_m2]"
+[Tue Apr  7 20:25:16 2026] <STEAM_0:1:558349975> Kotik spawned SENT "Entity [646][lvs_wheeldrive_hummer_tow]"
+[Tue Apr  7 20:25:17 2026] <STEAM_0:1:558349975> Kotik spawned SENT "Entity [709][lvs_wheeldrive_hummer_mk19]"
+[Tue Apr  7 20:25:35 2026] Player "Kotik" <STEAM_0:1:558349975> has left the server
+[Tue Apr  7 20:26:07 2026] <STEAM_0:0:586457449> Болотный Навальн: // слышь ты ща на вс рф?
+[Tue Apr  7 20:26:47 2026] Player "Gray Blackwell" <STEAM_0:1:410319943> has left the server
+[Tue Apr  7 20:28:51 2026] Player "Болотный Навальн" <STEAM_0:0:586457449> has left the server
+[Tue Apr  7 20:46:19 2026] Player "Emperor of Mankind" <STEAM_0:1:443626364> is attempting to connect.
+[Tue Apr  7 20:50:09 2026] Player "Emperor of Mankind" <STEAM_0:1:443626364> has spawned in the server
+[Tue Apr  7 20:55:23 2026] <STEAM_0:1:443626364> Emperor of Mankind spawned SENT "Entity [670][sw_matv]"
+[Tue Apr  7 20:55:31 2026] <STEAM_0:1:443626364> Emperor of Mankind spawned SENT "Entity [670][lvs_wheeldrive_hummer]"
+[Tue Apr  7 20:55:35 2026] <STEAM_0:1:443626364> Emperor of Mankind spawned SENT "Entity [670][lvs_wheeldrive_hummer_m240]"
+[Tue Apr  7 20:56:03 2026] Player "Emperor of Mankind" <STEAM_0:1:443626364> has left the server
+[Tue Apr  7 21:00:44 2026] Player "Pol__lex" <STEAM_0:1:811965597> has left the server
+[Tue Apr  7 21:23:43 2026] Player "Simple настаящi" <STEAM_0:1:795521724> is attempting to connect.
+[Tue Apr  7 21:26:10 2026] Player "Simple настаящi" <STEAM_0:1:795521724> has spawned in the server
+[Tue Apr  7 21:27:06 2026] Player "Simple настаящi" <STEAM_0:1:795521724> has left the server
+[Tue Apr  7 22:32:55 2026] Player "Fernández" <STEAM_0:0:79873507> is attempting to connect.
+[Tue Apr  7 22:37:42 2026] Player "Fernández" <STEAM_0:0:79873507> has spawned in the server
+[Tue Apr  7 22:42:40 2026] Player "Fernández" <STEAM_0:0:79873507> has left the server
+[Tue Apr  7 22:43:43 2026] Player "Fernández" <STEAM_0:0:79873507> is attempting to connect.
+[Tue Apr  7 22:44:13 2026] Player "Fernández" <STEAM_0:0:79873507> has spawned in the server
+[Tue Apr  7 22:50:47 2026] <STEAM_0:0:79873507> Fernández: /me поклонился в знак уважения
+[Tue Apr  7 22:51:05 2026] Player "Bot01" <BOT> has spawned in the server
+[Tue Apr  7 22:51:11 2026] <STEAM_0:0:79873507> Fernández ran command "bring bot"
+[Tue Apr  7 22:51:27 2026] <STEAM_0:0:79873507> Fernández: /pass
+[Tue Apr  7 22:52:09 2026] Fernández has killed Bot01.
+[Tue Apr  7 22:52:19 2026] Fernández has killed Bot01.
+[Tue Apr  7 22:52:39 2026] Fernández has killed Bot01.
+[Tue Apr  7 23:10:40 2026] <STEAM_0:0:79873507> Fernández ran command "menu"
+[Tue Apr  7 23:12:11 2026] <STEAM_0:0:79873507> Fernández spawned prop "Entity [613][alydus_destructiblefortification] (models/iraq/ir_hesco_basket_01.mdl)"
+[Tue Apr  7 23:12:13 2026] <STEAM_0:0:79873507> Fernández spawned prop "Entity [646][alydus_destructiblefortification] (models/iraq/ir_hesco_basket_01.mdl)"
+[Tue Apr  7 23:12:13 2026] <STEAM_0:0:79873507> Fernández spawned prop "Entity [648][alydus_destructiblefortification] (models/iraq/ir_hesco_basket_01.mdl)"
+[Tue Apr  7 23:12:24 2026] <STEAM_0:0:79873507> Fernández spawned prop "Entity [650][alydus_destructiblefortification] (models/props_wasteland/exterior_fence002c.mdl)"
+[Tue Apr  7 23:12:30 2026] <STEAM_0:0:79873507> Fernández spawned prop "Entity [657][alydus_destructiblefortification] (models/props_c17/fence03a.mdl)"
+[Tue Apr  7 23:15:56 2026] <STEAM_0:0:79873507> Fernández: /nato dawdwawa
+[Tue Apr  7 23:16:10 2026] <STEAM_0:0:79873507> Fernández: /rf 13121
+[Tue Apr  7 23:16:16 2026] <STEAM_0:0:79873507> Fernández: /comm 123
+[Tue Apr  7 23:16:20 2026] <STEAM_0:0:79873507> Fernández: /com 123
+[Tue Apr  7 23:16:22 2026] <STEAM_0:0:79873507> Fernández: /com 123
+[Tue Apr  7 23:16:24 2026] <STEAM_0:0:79873507> Fernández: /com 123
+[Tue Apr  7 23:16:26 2026] <STEAM_0:0:79873507> Fernández: /com 123
+[Tue Apr  7 23:16:35 2026] <STEAM_0:0:79873507> Fernández: /rnd 123
+[Tue Apr  7 23:17:35 2026] <STEAM_0:0:79873507> Fernández: /event 123
+[Tue Apr  7 23:17:43 2026] <STEAM_0:0:79873507> Fernández: /wl
+[Tue Apr  7 23:17:46 2026] <STEAM_0:0:79873507> Fernández: /whitelist
+[Tue Apr  7 23:17:50 2026] <STEAM_0:0:79873507> Fernández: /ad 123
+[Tue Apr  7 23:18:10 2026] <STEAM_0:0:79873507> Fernández ran command "kick Bot01 Spammer"
+[Tue Apr  7 23:18:10 2026] Player "Bot01" <BOT> has left the server
+[Tue Apr  7 23:25:57 2026] Player "Fernández" <STEAM_0:0:79873507> has left the server

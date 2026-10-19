@@ -1,0 +1,345 @@
+[Tue Feb 10 10:24:35 2026] Player "OZOR" <STEAM_0:0:85754053> has spawned in the server
+[Tue Feb 10 11:16:49 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 11:16:50 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 11:16:50 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 11:16:50 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 11:16:51 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 11:16:51 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 11:16:51 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 11:16:53 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 11:16:53 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 11:16:54 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 11:16:55 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 11:16:55 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 11:16:56 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 11:16:56 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 11:16:57 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 11:16:57 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 11:16:58 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 11:16:58 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 11:16:59 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 11:17:00 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 11:17:00 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 11:17:00 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 11:17:01 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 11:17:01 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 11:17:01 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 11:17:01 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 11:17:02 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 11:17:03 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 11:17:03 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 11:17:04 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 11:17:04 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 11:17:08 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 11:17:08 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 11:17:08 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 11:17:09 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 11:17:09 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 11:17:10 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 11:17:10 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 11:17:10 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 11:17:10 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 11:17:11 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 11:17:11 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 11:17:11 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 11:17:11 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 11:17:11 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 11:17:12 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 11:17:12 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 11:17:12 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 11:17:12 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 11:17:13 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 11:17:13 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 11:17:13 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 11:17:15 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 11:17:15 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 11:17:16 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 11:36:43 2026] Player "OZOR" <STEAM_0:0:85754053> has spawned in the server
+[Tue Feb 10 11:57:21 2026] Player "OZOR" <STEAM_0:0:85754053> has left the server
+[Tue Feb 10 11:59:35 2026] Player "OZOR" <STEAM_0:0:85754053> has spawned in the server
+[Tue Feb 10 12:04:54 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 12:04:55 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 12:04:55 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 12:04:55 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 12:04:55 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 12:04:55 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 12:04:55 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 12:04:56 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 12:04:56 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 12:04:56 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 12:04:57 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 12:04:57 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 12:04:57 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 12:04:57 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 12:04:57 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 12:04:58 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 12:04:58 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 12:04:58 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 12:04:58 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 12:04:58 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 12:04:59 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 12:04:59 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 12:04:59 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 12:04:59 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 12:04:59 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 12:04:59 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 12:05:00 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 12:05:00 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 12:05:00 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 12:05:00 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 12:05:00 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 12:05:01 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 12:05:01 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 12:05:01 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 12:05:01 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 12:05:01 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 12:05:02 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 12:05:02 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 12:05:02 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 12:05:02 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 12:05:02 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 12:05:03 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 12:05:03 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 12:05:03 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 12:05:03 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 12:05:03 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 12:05:04 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 12:05:04 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 12:05:04 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 12:05:04 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 12:05:04 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 12:05:04 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 12:05:05 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 12:05:05 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 12:05:05 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 12:05:05 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 12:05:05 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 12:05:06 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 12:05:06 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 12:05:06 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 12:05:06 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 12:05:06 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 12:05:07 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 12:05:07 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 12:05:07 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 12:05:07 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 12:05:08 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 12:05:08 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 12:05:08 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 12:05:08 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 12:05:09 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 12:05:09 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 12:05:09 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 12:05:09 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 12:05:10 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 12:05:10 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 12:05:10 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 12:05:10 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 12:05:11 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 12:05:11 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 12:05:14 2026] <STEAM_0:0:85754053> OZOR used tool "permaprops"
+[Tue Feb 10 12:14:00 2026] Player "OZOR" <STEAM_0:0:85754053> has left the server
+[Tue Feb 10 13:41:34 2026] Player "★☾₳ⱤØ₦₦ł₭☽★" <STEAM_0:0:456016030> is attempting to connect.
+[Tue Feb 10 14:42:18 2026] Player "Fernández" <STEAM_0:0:79873507> is attempting to connect.
+[Tue Feb 10 14:43:55 2026] Player "Fernández" <STEAM_0:0:79873507> has spawned in the server
+[Tue Feb 10 14:47:06 2026] Player "Fernández" <STEAM_0:0:79873507> has left the server
+[Tue Feb 10 14:51:22 2026] Player "Fernández" <STEAM_0:0:79873507> is attempting to connect.
+[Tue Feb 10 14:51:50 2026] Player "Fernández" <STEAM_0:0:79873507> has spawned in the server
+[Tue Feb 10 14:55:33 2026] Player "Fernández" <STEAM_0:0:79873507> has left the server
+[Tue Feb 10 14:56:18 2026] Player "Fernández" <STEAM_0:0:79873507> is attempting to connect.
+[Tue Feb 10 14:59:50 2026] Player "Fernández" <STEAM_0:0:79873507> has spawned in the server
+[Tue Feb 10 15:00:20 2026] Player "Fernández" <STEAM_0:0:79873507> has left the server
+[Tue Feb 10 15:01:44 2026] Player "Fernández" <STEAM_0:0:79873507> is attempting to connect.
+[Tue Feb 10 15:02:23 2026] Player "Fernández" <STEAM_0:0:79873507> has spawned in the server
+[Tue Feb 10 15:04:32 2026] Player "|DT| iBG Bre@ke®™" <STEAM_0:0:36541068> is attempting to connect.
+[Tue Feb 10 15:05:07 2026] Player "|DT| iBG Bre@ke®™" <STEAM_0:0:36541068> is attempting to connect.
+[Tue Feb 10 15:08:13 2026] Player "|DT| iBG Bre@ke®™" <STEAM_0:0:36541068> has spawned in the server
+[Tue Feb 10 15:09:37 2026] <STEAM_0:0:79873507> Fernández ran command "menu"
+[Tue Feb 10 15:20:51 2026] Fernández has killed |DT| iBG Bre@ke®™.
+[Tue Feb 10 15:20:52 2026] |DT| iBG Bre@ke®™ has killed |DT| iBG Bre@ke®™.
+[Tue Feb 10 15:21:17 2026] <STEAM_0:0:79873507> Fernández spawned SENT "Entity [716][armor_take]"
+[Tue Feb 10 15:21:30 2026] |DT| iBG Bre@ke®™ has killed Fernández.
+[Tue Feb 10 15:21:31 2026] Fernández has killed Fernández.
+[Tue Feb 10 15:22:36 2026] |DT| iBG Bre@ke®™ has killed Fernández.
+[Tue Feb 10 15:22:37 2026] Fernández has killed Fernández.
+[Tue Feb 10 15:22:48 2026] |DT| iBG Bre@ke®™ has killed Fernández.
+[Tue Feb 10 15:23:00 2026] |DT| iBG Bre@ke®™ has killed Fernández.
+[Tue Feb 10 15:23:18 2026] <STEAM_0:0:36541068> |DT| iBG Bre@ke®™ spawned SENT "Entity [701][item_healthkit]"
+[Tue Feb 10 15:23:19 2026] <STEAM_0:0:36541068> |DT| iBG Bre@ke®™ spawned SENT "Entity [702][item_healthkit]"
+[Tue Feb 10 15:23:19 2026] <STEAM_0:0:36541068> |DT| iBG Bre@ke®™ spawned SENT "Entity [703][item_healthkit]"
+[Tue Feb 10 15:23:22 2026] <STEAM_0:0:36541068> |DT| iBG Bre@ke®™ spawned SENT "Entity [701][item_battery]"
+[Tue Feb 10 15:23:22 2026] <STEAM_0:0:36541068> |DT| iBG Bre@ke®™ spawned SENT "Entity [702][item_battery]"
+[Tue Feb 10 15:23:23 2026] <STEAM_0:0:36541068> |DT| iBG Bre@ke®™ spawned SENT "Entity [703][item_battery]"
+[Tue Feb 10 15:23:23 2026] <STEAM_0:0:36541068> |DT| iBG Bre@ke®™ spawned SENT "Entity [706][item_battery]"
+[Tue Feb 10 15:23:23 2026] <STEAM_0:0:36541068> |DT| iBG Bre@ke®™ spawned SENT "Entity [701][item_battery]"
+[Tue Feb 10 15:23:24 2026] <STEAM_0:0:36541068> |DT| iBG Bre@ke®™ spawned SENT "Entity [702][item_battery]"
+[Tue Feb 10 15:23:24 2026] <STEAM_0:0:36541068> |DT| iBG Bre@ke®™ spawned SENT "Entity [703][item_battery]"
+[Tue Feb 10 15:24:22 2026] Player "|DT| iBG Bre@ke®™" <STEAM_0:0:36541068> has left the server
+[Tue Feb 10 15:28:30 2026] <STEAM_0:0:79873507> Fernández ran command "menu"
+[Tue Feb 10 17:27:29 2026] Player "BloodySmile" <STEAM_0:1:54838838> is attempting to connect.
+[Tue Feb 10 17:28:10 2026] Player "BloodySmile" <STEAM_0:1:54838838> has spawned in the server
+[Tue Feb 10 17:35:01 2026] Player "BloodySmile" <STEAM_0:1:54838838> has left the server
+[Tue Feb 10 17:40:59 2026] Player "hecu" <STEAM_0:0:795433297> is attempting to connect.
+[Tue Feb 10 18:41:00 2026] Player "Discar" <STEAM_0:0:650470378> is attempting to connect.
+[Tue Feb 10 19:25:20 2026] Player "Pozzy @ Prime?" <STEAM_0:0:596886196> is attempting to connect.
+[Tue Feb 10 23:00:26 2026] Player "OZOR" <STEAM_0:0:85754053> has spawned in the server
+[Tue Feb 10 23:03:31 2026] <STEAM_0:0:85754053> OZOR: /character
+[Tue Feb 10 23:03:45 2026] Player "Полковник Форест" <STEAM_0:1:620808428> is attempting to connect.
+[Tue Feb 10 23:03:53 2026] Player "Полковник Форест" <STEAM_0:1:620808428> is attempting to connect.
+[Tue Feb 10 23:05:52 2026] <STEAM_0:0:85754053> OZOR: /character
+[Tue Feb 10 23:05:55 2026] <STEAM_0:0:85754053> OZOR: /character
+[Tue Feb 10 23:07:42 2026] Player "Полковник Форест" <STEAM_0:1:620808428> has spawned in the server
+[Tue Feb 10 23:09:15 2026] worldspawn has killed Полковник Форест.
+[Tue Feb 10 23:09:57 2026] <STEAM_0:1:620808428> Полковник Форест: // Z
+[Tue Feb 10 23:13:51 2026] <STEAM_0:1:620808428> Полковник Форест used tool "witchergate"
+[Tue Feb 10 23:13:52 2026] <STEAM_0:1:620808428> Полковник Форест used tool "witchergate"
+[Tue Feb 10 23:13:52 2026] <STEAM_0:1:620808428> Полковник Форест used tool "witchergate"
+[Tue Feb 10 23:13:52 2026] <STEAM_0:1:620808428> Полковник Форест used tool "witchergate"
+[Tue Feb 10 23:13:53 2026] <STEAM_0:1:620808428> Полковник Форест used tool "witchergate"
+[Tue Feb 10 23:13:53 2026] <STEAM_0:1:620808428> Полковник Форест used tool "witchergate"
+[Tue Feb 10 23:13:53 2026] <STEAM_0:1:620808428> Полковник Форест used tool "witchergate"
+[Tue Feb 10 23:13:54 2026] <STEAM_0:1:620808428> Полковник Форест used tool "witchergate"
+[Tue Feb 10 23:13:54 2026] <STEAM_0:1:620808428> Полковник Форест used tool "witchergate"
+[Tue Feb 10 23:13:54 2026] <STEAM_0:1:620808428> Полковник Форест used tool "witchergate"
+[Tue Feb 10 23:13:54 2026] <STEAM_0:1:620808428> Полковник Форест used tool "witchergate"
+[Tue Feb 10 23:13:55 2026] <STEAM_0:1:620808428> Полковник Форест used tool "witchergate"
+[Tue Feb 10 23:13:56 2026] <STEAM_0:1:620808428> Полковник Форест used tool "witchergate"
+[Tue Feb 10 23:13:56 2026] <STEAM_0:1:620808428> Полковник Форест used tool "witchergate"
+[Tue Feb 10 23:13:56 2026] <STEAM_0:1:620808428> Полковник Форест used tool "witchergate"
+[Tue Feb 10 23:13:56 2026] <STEAM_0:1:620808428> Полковник Форест used tool "witchergate"
+[Tue Feb 10 23:14:05 2026] worldspawn has killed Полковник Форест.
+[Tue Feb 10 23:15:46 2026] Player "Fernández" <STEAM_0:0:79873507> is attempting to connect.
+[Tue Feb 10 23:16:00 2026] <STEAM_0:0:85754053> OZOR ran command "goto Дубровин"
+[Tue Feb 10 23:16:06 2026] <STEAM_0:0:85754053> OZOR: ало
+[Tue Feb 10 23:16:11 2026] <STEAM_0:0:85754053> OZOR ran command "send Дубровин"
+[Tue Feb 10 23:16:15 2026] <STEAM_0:0:85754053> OZOR: шо за проход
+[Tue Feb 10 23:16:20 2026] <STEAM_0:1:620808428> Полковник Форест: gjktntkb
+[Tue Feb 10 23:16:33 2026] <STEAM_0:0:85754053> OZOR: всм
+[Tue Feb 10 23:16:36 2026] <STEAM_0:0:85754053> OZOR: тут забор
+[Tue Feb 10 23:16:53 2026] <STEAM_0:1:620808428> Полковник Форест: У тебя тут забор?
+[Tue Feb 10 23:16:54 2026] <STEAM_0:0:85754053> OZOR: тут модель забора который вся база покрыта
+[Tue Feb 10 23:17:12 2026] <STEAM_0:0:85754053> OZOR: ну постреляй у тебя будет металический звук
+[Tue Feb 10 23:17:17 2026] Player "Fernández" <STEAM_0:0:79873507> has spawned in the server
+[Tue Feb 10 23:17:18 2026] <STEAM_0:1:620808428> Полковник Форест: Звук есть
+[Tue Feb 10 23:17:26 2026] <STEAM_0:1:620808428> Полковник Форест: Просто я думал проп невидимый
+[Tue Feb 10 23:17:32 2026] <STEAM_0:0:85754053> OZOR: ну это у тебя чета гмод может ебанулся чутка
+[Tue Feb 10 23:17:38 2026] <STEAM_0:1:620808428> Полковник Форест: Понял тогда
+[Tue Feb 10 23:17:43 2026] <STEAM_0:0:85754053> OZOR: бувает, перезаход может помочь
+[Tue Feb 10 23:17:49 2026] <STEAM_0:0:85754053> OZOR: я текстуру перезалил
+[Tue Feb 10 23:17:55 2026] <STEAM_0:0:85754053> OZOR: щас точно без еророк
+[Tue Feb 10 23:18:00 2026] <STEAM_0:1:620808428> Полковник Форест: Так это заебись
+[Tue Feb 10 23:19:39 2026] <STEAM_0:1:620808428> Полковник Форест spawned SENT "Entity [362][sent_ball]"
+[Tue Feb 10 23:19:40 2026] <STEAM_0:1:620808428> Полковник Форест spawned SENT "Entity [723][sent_ball]"
+[Tue Feb 10 23:19:41 2026] <STEAM_0:1:620808428> Полковник Форест spawned SENT "Entity [362][sent_ball]"
+[Tue Feb 10 23:19:41 2026] <STEAM_0:1:620808428> Полковник Форест spawned SENT "Entity [723][sent_ball]"
+[Tue Feb 10 23:19:42 2026] <STEAM_0:1:620808428> Полковник Форест spawned SENT "Entity [362][sent_ball]"
+[Tue Feb 10 23:19:42 2026] <STEAM_0:1:620808428> Полковник Форест spawned SENT "Entity [723][sent_ball]"
+[Tue Feb 10 23:19:43 2026] <STEAM_0:1:620808428> Полковник Форест spawned SENT "Entity [362][sent_ball]"
+[Tue Feb 10 23:19:44 2026] <STEAM_0:1:620808428> Полковник Форест spawned SENT "Entity [729][sent_ball]"
+[Tue Feb 10 23:19:44 2026] <STEAM_0:1:620808428> Полковник Форест spawned SENT "Entity [723][sent_ball]"
+[Tue Feb 10 23:19:45 2026] <STEAM_0:1:620808428> Полковник Форест spawned SENT "Entity [362][sent_ball]"
+[Tue Feb 10 23:19:45 2026] <STEAM_0:1:620808428> Полковник Форест spawned SENT "Entity [723][sent_ball]"
+[Tue Feb 10 23:22:05 2026] <STEAM_0:1:620808428> Полковник Форест spawned SENT "Entity [267][lvs_missile]"
+[Tue Feb 10 23:22:18 2026] <STEAM_0:1:620808428> Полковник Форест spawned npc "NPC [267][npc_citizen]"
+[Tue Feb 10 23:22:24 2026] <STEAM_0:1:620808428> Полковник Форест spawned npc "NPC [267][npc_vj_test_aerial]"
+[Tue Feb 10 23:22:27 2026] <STEAM_0:1:620808428> Полковник Форест spawned npc "NPC [267][npc_monk]"
+[Tue Feb 10 23:22:51 2026] <STEAM_0:1:620808428> Полковник Форест spawned npc "NPC [267][npc_citizen]"
+[Tue Feb 10 23:22:54 2026] <STEAM_0:1:620808428> Полковник Форест spawned npc "NPC [267][npc_combine_s]"
+[Tue Feb 10 23:22:55 2026] npc_combine_s has killed Полковник Форест.
+[Tue Feb 10 23:22:56 2026] Полковник Форест has killed Полковник Форест.
+[Tue Feb 10 23:23:36 2026] Player "Fernández" <STEAM_0:0:79873507> has left the server
+[Tue Feb 10 23:23:37 2026] Player "Fernández" <STEAM_0:0:79873507> is attempting to connect.
+[Tue Feb 10 23:24:17 2026] <STEAM_0:1:620808428> Полковник Форест spawned npc "NPC [267][npc_citizen]"
+[Tue Feb 10 23:24:23 2026] Player "Fernández" <STEAM_0:0:79873507> has spawned in the server
+[Tue Feb 10 23:24:25 2026] <STEAM_0:1:620808428> Полковник Форест spawned npc "NPC [723][npc_citizen]"
+[Tue Feb 10 23:24:29 2026] <STEAM_0:1:620808428> Полковник Форест spawned npc "NPC [267][npc_combine_s]"
+[Tue Feb 10 23:24:37 2026] <STEAM_0:1:620808428> Полковник Форест spawned npc "NPC [719][npc_combine_s]"
+[Tue Feb 10 23:24:56 2026] <STEAM_0:1:620808428> Полковник Форест: а?
+[Tue Feb 10 23:25:07 2026] <STEAM_0:1:620808428> Полковник Форест: Да
+[Tue Feb 10 23:25:11 2026] Player "OZOR" <STEAM_0:0:85754053> has left the server
+[Tue Feb 10 23:25:19 2026] <STEAM_0:1:620808428> Полковник Форест ran command "a Ебать ты белый"
+[Tue Feb 10 23:25:36 2026] <STEAM_0:1:620808428> Полковник Форест spawned npc "NPC [690][npc_combine_s]"
+[Tue Feb 10 23:25:42 2026] <STEAM_0:1:620808428> Полковник Форест spawned npc "NPC [690][npc_combine_s]"
+[Tue Feb 10 23:25:43 2026] <STEAM_0:1:620808428> Полковник Форест spawned npc "NPC [695][npc_combine_s]"
+[Tue Feb 10 23:25:43 2026] <STEAM_0:1:620808428> Полковник Форест spawned npc "NPC [724][npc_combine_s]"
+[Tue Feb 10 23:25:44 2026] <STEAM_0:1:620808428> Полковник Форест spawned npc "NPC [733][npc_combine_s]"
+[Tue Feb 10 23:25:45 2026] <STEAM_0:1:620808428> Полковник Форест spawned npc "NPC [737][npc_combine_s]"
+[Tue Feb 10 23:25:45 2026] <STEAM_0:1:620808428> Полковник Форест spawned npc "NPC [740][npc_combine_s]"
+[Tue Feb 10 23:25:46 2026] <STEAM_0:1:620808428> Полковник Форест spawned npc "NPC [743][npc_combine_s]"
+[Tue Feb 10 23:25:49 2026] <STEAM_0:1:620808428> Полковник Форест spawned npc "NPC [751][npc_combine_s]"
+[Tue Feb 10 23:25:50 2026] <STEAM_0:1:620808428> Полковник Форест spawned npc "NPC [754][npc_combine_s]"
+[Tue Feb 10 23:25:51 2026] <STEAM_0:1:620808428> Полковник Форест spawned npc "NPC [779][npc_combine_s]"
+[Tue Feb 10 23:25:52 2026] <STEAM_0:1:620808428> Полковник Форест spawned npc "NPC [785][npc_combine_s]"
+[Tue Feb 10 23:26:25 2026] <STEAM_0:1:620808428> Полковник Форест spawned SENT "Entity [740][sent_ball]"
+[Tue Feb 10 23:26:26 2026] <STEAM_0:1:620808428> Полковник Форест spawned SENT "Entity [741][sent_ball]"
+[Tue Feb 10 23:26:26 2026] <STEAM_0:1:620808428> Полковник Форест spawned SENT "Entity [740][sent_ball]"
+[Tue Feb 10 23:26:27 2026] <STEAM_0:1:620808428> Полковник Форест spawned SENT "Entity [741][sent_ball]"
+[Tue Feb 10 23:26:28 2026] <STEAM_0:1:620808428> Полковник Форест spawned SENT "Entity [740][sent_ball]"
+[Tue Feb 10 23:26:28 2026] <STEAM_0:1:620808428> Полковник Форест spawned SENT "Entity [741][sent_ball]"
+[Tue Feb 10 23:26:29 2026] <STEAM_0:1:620808428> Полковник Форест spawned SENT "Entity [742][sent_ball]"
+[Tue Feb 10 23:26:29 2026] <STEAM_0:1:620808428> Полковник Форест spawned SENT "Entity [740][sent_ball]"
+[Tue Feb 10 23:26:30 2026] <STEAM_0:1:620808428> Полковник Форест spawned SENT "Entity [741][sent_ball]"
+[Tue Feb 10 23:26:31 2026] <STEAM_0:1:620808428> Полковник Форест spawned SENT "Entity [740][sent_ball]"
+[Tue Feb 10 23:26:31 2026] <STEAM_0:1:620808428> Полковник Форест spawned SENT "Entity [741][sent_ball]"
+[Tue Feb 10 23:26:32 2026] <STEAM_0:1:620808428> Полковник Форест spawned SENT "Entity [742][sent_ball]"
+[Tue Feb 10 23:26:33 2026] <STEAM_0:1:620808428> Полковник Форест spawned SENT "Entity [740][sent_ball]"
+[Tue Feb 10 23:26:33 2026] <STEAM_0:1:620808428> Полковник Форест spawned SENT "Entity [741][sent_ball]"
+[Tue Feb 10 23:26:34 2026] <STEAM_0:1:620808428> Полковник Форест spawned SENT "Entity [742][sent_ball]"
+[Tue Feb 10 23:26:35 2026] <STEAM_0:1:620808428> Полковник Форест spawned SENT "Entity [740][sent_ball]"
+[Tue Feb 10 23:26:35 2026] <STEAM_0:1:620808428> Полковник Форест spawned SENT "Entity [741][sent_ball]"
+[Tue Feb 10 23:26:59 2026] npc_combine_s has killed Полковник Форест.
+[Tue Feb 10 23:27:00 2026] Полковник Форест has killed Полковник Форест.
+[Tue Feb 10 23:28:05 2026] <STEAM_0:1:620808428> Полковник Форест ran command "ammo Дубровин"
+[Tue Feb 10 23:28:25 2026] <STEAM_0:1:620808428> Полковник Форест spawned SENT "Entity [729][sent_ball]"
+[Tue Feb 10 23:28:26 2026] <STEAM_0:1:620808428> Полковник Форест spawned SENT "Entity [730][sent_ball]"
+[Tue Feb 10 23:28:27 2026] <STEAM_0:1:620808428> Полковник Форест spawned SENT "Entity [729][sent_ball]"
+[Tue Feb 10 23:28:28 2026] <STEAM_0:1:620808428> Полковник Форест spawned SENT "Entity [730][sent_ball]"
+[Tue Feb 10 23:28:28 2026] <STEAM_0:1:620808428> Полковник Форест spawned SENT "Entity [729][sent_ball]"
+[Tue Feb 10 23:28:29 2026] <STEAM_0:1:620808428> Полковник Форест spawned SENT "Entity [730][sent_ball]"
+[Tue Feb 10 23:28:30 2026] <STEAM_0:1:620808428> Полковник Форест spawned SENT "Entity [729][sent_ball]"
+[Tue Feb 10 23:28:30 2026] <STEAM_0:1:620808428> Полковник Форест spawned SENT "Entity [730][sent_ball]"
+[Tue Feb 10 23:28:31 2026] <STEAM_0:1:620808428> Полковник Форест spawned SENT "Entity [729][sent_ball]"
+[Tue Feb 10 23:28:31 2026] <STEAM_0:1:620808428> Полковник Форест spawned SENT "Entity [732][sent_ball]"
+[Tue Feb 10 23:28:32 2026] <STEAM_0:1:620808428> Полковник Форест spawned SENT "Entity [730][sent_ball]"
+[Tue Feb 10 23:28:33 2026] <STEAM_0:1:620808428> Полковник Форест spawned SENT "Entity [729][sent_ball]"
+[Tue Feb 10 23:28:33 2026] <STEAM_0:1:620808428> Полковник Форест spawned SENT "Entity [732][sent_ball]"
+[Tue Feb 10 23:28:34 2026] <STEAM_0:1:620808428> Полковник Форест spawned SENT "Entity [730][sent_ball]"
+[Tue Feb 10 23:28:34 2026] <STEAM_0:1:620808428> Полковник Форест spawned SENT "Entity [729][sent_ball]"
+[Tue Feb 10 23:28:35 2026] <STEAM_0:1:620808428> Полковник Форест spawned SENT "Entity [732][sent_ball]"
+[Tue Feb 10 23:28:35 2026] <STEAM_0:1:620808428> Полковник Форест spawned SENT "Entity [729][sent_ball]"
+[Tue Feb 10 23:28:36 2026] <STEAM_0:1:620808428> Полковник Форест spawned SENT "Entity [730][sent_ball]"
+[Tue Feb 10 23:29:44 2026] <STEAM_0:1:620808428> Полковник Форест spawned SENT "Entity [741][sent_ball]"
+[Tue Feb 10 23:29:45 2026] <STEAM_0:1:620808428> Полковник Форест spawned SENT "Entity [740][sent_ball]"
+[Tue Feb 10 23:29:46 2026] <STEAM_0:1:620808428> Полковник Форест spawned SENT "Entity [741][sent_ball]"
+[Tue Feb 10 23:29:46 2026] <STEAM_0:1:620808428> Полковник Форест spawned SENT "Entity [740][sent_ball]"
+[Tue Feb 10 23:29:48 2026] <STEAM_0:1:620808428> Полковник Форест spawned SENT "Entity [741][sent_ball]"
+[Tue Feb 10 23:29:49 2026] <STEAM_0:1:620808428> Полковник Форест spawned SENT "Entity [740][sent_ball]"
+[Tue Feb 10 23:29:49 2026] <STEAM_0:1:620808428> Полковник Форест spawned SENT "Entity [741][sent_ball]"
+[Tue Feb 10 23:29:51 2026] <STEAM_0:1:620808428> Полковник Форест spawned SENT "Entity [739][sent_ball]"
+[Tue Feb 10 23:29:53 2026] <STEAM_0:1:620808428> Полковник Форест spawned SENT "Entity [739][sent_ball]"
+[Tue Feb 10 23:30:31 2026] Player "OZOR" <STEAM_0:0:85754053> has spawned in the server
+[Tue Feb 10 23:31:07 2026] <STEAM_0:1:620808428> Полковник Форест spawned SENT "Entity [692][sent_ball]"
+[Tue Feb 10 23:31:08 2026] <STEAM_0:1:620808428> Полковник Форест spawned SENT "Entity [692][sent_ball]"
+[Tue Feb 10 23:31:09 2026] <STEAM_0:1:620808428> Полковник Форест spawned SENT "Entity [693][sent_ball]"
+[Tue Feb 10 23:31:10 2026] <STEAM_0:1:620808428> Полковник Форест spawned SENT "Entity [692][sent_ball]"
+[Tue Feb 10 23:31:10 2026] <STEAM_0:1:620808428> Полковник Форест spawned SENT "Entity [693][sent_ball]"
+[Tue Feb 10 23:31:11 2026] Player "Fernández" <STEAM_0:0:79873507> has left the server
+[Tue Feb 10 23:31:11 2026] <STEAM_0:1:620808428> Полковник Форест spawned SENT "Entity [695][sent_ball]"
+[Tue Feb 10 23:31:12 2026] <STEAM_0:1:620808428> Полковник Форест spawned SENT "Entity [692][sent_ball]"
+[Tue Feb 10 23:31:13 2026] <STEAM_0:1:620808428> Полковник Форест spawned SENT "Entity [359][sent_ball]"
+[Tue Feb 10 23:31:13 2026] <STEAM_0:1:620808428> Полковник Форест spawned SENT "Entity [690][sent_ball]"
+[Tue Feb 10 23:31:14 2026] <STEAM_0:1:620808428> Полковник Форест spawned SENT "Entity [692][sent_ball]"
+[Tue Feb 10 23:31:15 2026] <STEAM_0:1:620808428> Полковник Форест spawned SENT "Entity [359][sent_ball]"
+[Tue Feb 10 23:31:16 2026] <STEAM_0:1:620808428> Полковник Форест spawned SENT "Entity [690][sent_ball]"
+[Tue Feb 10 23:31:16 2026] <STEAM_0:1:620808428> Полковник Форест spawned SENT "Entity [359][sent_ball]"
+[Tue Feb 10 23:31:17 2026] <STEAM_0:1:620808428> Полковник Форест spawned SENT "Entity [690][sent_ball]"
+[Tue Feb 10 23:31:18 2026] <STEAM_0:1:620808428> Полковник Форест spawned SENT "Entity [359][sent_ball]"
+[Tue Feb 10 23:31:19 2026] <STEAM_0:1:620808428> Полковник Форест spawned SENT "Entity [690][sent_ball]"
+[Tue Feb 10 23:32:43 2026] worldspawn has killed Полковник Форест.
+[Tue Feb 10 23:33:14 2026] <STEAM_0:0:85754053> OZOR: /character
+[Tue Feb 10 23:33:33 2026] OZOR has killed OZOR.
+[Tue Feb 10 23:33:40 2026] <STEAM_0:0:85754053> OZOR ran command "respawn Ozor"
+[Tue Feb 10 23:34:08 2026] Player "Полковник Форест" <STEAM_0:1:620808428> has left the server
+[Tue Feb 10 23:37:17 2026] <STEAM_0:0:85754053> OZOR: /character
+[Tue Feb 10 23:42:47 2026] Player "OZOR" <STEAM_0:0:85754053> has left the server
+[Tue Feb 10 23:58:48 2026] Player "OZOR" <STEAM_0:0:85754053> has spawned in the server

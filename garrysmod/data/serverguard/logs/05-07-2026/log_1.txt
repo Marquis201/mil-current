@@ -1,0 +1,21 @@
+[Thu May  7 01:50:35 2026] Player "NF" <STEAM_0:1:556207139> is attempting to connect.
+[Thu May  7 06:05:59 2026] Player "david280911" <STEAM_0:1:839860057> is attempting to connect.
+[Thu May  7 06:07:23 2026] Player "david280911" <STEAM_0:1:839860057> has spawned in the server
+[Thu May  7 06:13:18 2026] Player "david280911" <STEAM_0:1:839860057> has left the server
+[Thu May  7 11:18:20 2026] Player "david280911" <STEAM_0:1:839860057> is attempting to connect.
+[Thu May  7 11:20:34 2026] Player "david280911" <STEAM_0:1:839860057> has spawned in the server
+[Thu May  7 11:21:30 2026] Player "david280911" <STEAM_0:1:839860057> has left the server
+[Thu May  7 13:01:58 2026] Player "david280911" <STEAM_0:1:839860057> is attempting to connect.
+[Thu May  7 13:02:58 2026] Player "david280911" <STEAM_0:1:839860057> has spawned in the server
+[Thu May  7 13:05:00 2026] rgd5_srpnl has killed david280911.
+[Thu May  7 13:05:04 2026] Player "david280911" <STEAM_0:1:839860057> has left the server
+[Thu May  7 14:01:26 2026] Player "david280911" <STEAM_0:1:839860057> is attempting to connect.
+[Thu May  7 14:02:13 2026] Player "david280911" <STEAM_0:1:839860057> has spawned in the server
+[Thu May  7 14:05:42 2026] Player "david280911" <STEAM_0:1:839860057> has left the server
+[Thu May  7 16:33:36 2026] Player "NANEK1269" <STEAM_0:1:927009772> is attempting to connect.
+[Thu May  7 18:13:16 2026] Player "david280911" <STEAM_0:1:839860057> is attempting to connect.
+[Thu May  7 18:14:43 2026] Player "david280911" <STEAM_0:1:839860057> has spawned in the server
+[Thu May  7 18:15:29 2026] Player "david280911" <STEAM_0:1:839860057> has left the server
+[Thu May  7 19:09:19 2026] Player "stepka" <STEAM_0:0:396571552> is attempting to connect.
+[Thu May  7 19:20:24 2026] Player "[TFN] Vanya" <STEAM_0:0:429409693> is attempting to connect.
+[Thu May  7 20:55:35 2026] Player "lubavas1977" <STEAM_0:1:392346798> is attempting to connect.

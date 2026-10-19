@@ -1,0 +1,27 @@
+[Sat Mar 21 05:56:57 2026] Player "Paris" <STEAM_0:1:245073434> is attempting to connect.
+[Sat Mar 21 10:11:47 2026] Player "frogtime022" <STEAM_0:0:383367915> is attempting to connect.
+[Sat Mar 21 12:40:12 2026] Player "Meier Hoffmann" <STEAM_0:1:606044951> is attempting to connect.
+[Sat Mar 21 13:43:18 2026] Player "𝗺𝟏𝗿𝗮𝗰𝗹𝗲" <STEAM_0:0:869238922> is attempting to connect.
+[Sat Mar 21 13:47:05 2026] Player "𝗺𝟏𝗿𝗮𝗰𝗹𝗲" <STEAM_0:0:869238922> has spawned in the server
+[Sat Mar 21 13:53:34 2026] Player "𝗺𝟏𝗿𝗮𝗰𝗹𝗲" <STEAM_0:0:869238922> has left the server
+[Sat Mar 21 14:49:38 2026] Player "weastr1" <STEAM_0:0:809923080> is attempting to connect.
+[Sat Mar 21 14:53:41 2026] Player "попытка суицыда 2." <STEAM_0:0:927046103> is attempting to connect.
+[Sat Mar 21 17:33:14 2026] Player "kustan122" <STEAM_0:0:412618674> is attempting to connect.
+[Sat Mar 21 17:47:53 2026] Player "kustan122" <STEAM_0:0:412618674> has spawned in the server
+[Sat Mar 21 17:58:31 2026] Player "ChoppaN" <STEAM_0:0:768526274> is attempting to connect.
+[Sat Mar 21 18:03:55 2026] Player "kustan122" <STEAM_0:0:412618674> has left the server
+[Sat Mar 21 18:09:21 2026] Player "ChoppaN" <STEAM_0:0:768526274> has spawned in the server
+[Sat Mar 21 18:14:48 2026] <STEAM_0:0:768526274> ChoppaN: как открыть дверб
+[Sat Mar 21 18:16:33 2026] Player "ChoppaN" <STEAM_0:0:768526274> has left the server
+[Sat Mar 21 19:00:48 2026] Player "༒︎シ︎ʰᵉⁿᵗᵃⁱシ" <STEAM_0:0:851601344> is attempting to connect.
+[Sat Mar 21 19:03:23 2026] Player "༒︎シ︎ʰᵉⁿᵗᵃⁱシ" <STEAM_0:0:851601344> has spawned in the server
+[Sat Mar 21 19:17:15 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [645][sw_hemtt_troop]"
+[Sat Mar 21 19:17:17 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [693][sw_hemtt_cargo]"
+[Sat Mar 21 19:17:26 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [645][sw_hemtt_troop]"
+[Sat Mar 21 19:17:32 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [645][lvs_trailer_flak]"
+[Sat Mar 21 19:21:41 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [646][lvs_wheeldrive_hummer_m2]"
+[Sat Mar 21 19:40:49 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [658][sw_gaz2330_ags30]"
+[Sat Mar 21 19:40:53 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [700][sw_gaz2330_ags30]"
+[Sat Mar 21 19:40:55 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [658][sw_gaz2330_ags30]"
+[Sat Mar 21 19:42:18 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned vehicle "Vehicle [700][prop_vehicle_prisoner_pod]"
+[Sat Mar 21 19:42:59 2026] Player "༒︎シ︎ʰᵉⁿᵗᵃⁱシ" <STEAM_0:0:851601344> has left the server

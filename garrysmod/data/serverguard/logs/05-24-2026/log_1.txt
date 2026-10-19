@@ -1,0 +1,8 @@
+[Sun May 24 05:43:35 2026] Player "Сусик" <STEAM_0:1:733997056> is attempting to connect.
+[Sun May 24 05:45:18 2026] Player "Сусик" <STEAM_0:1:733997056> has spawned in the server
+[Sun May 24 05:48:05 2026] Player "Сусик" <STEAM_0:1:733997056> has left the server
+[Sun May 24 14:04:00 2026] Player "Neytron" <STEAM_0:1:859546175> is attempting to connect.
+[Sun May 24 14:04:02 2026] Player "Neytron" <STEAM_0:1:859546175> is attempting to connect.
+[Sun May 24 14:36:27 2026] Player "Владик" <STEAM_0:1:960972634> is attempting to connect.
+[Sun May 24 16:40:22 2026] Player "Кирилл ассисент" <STEAM_0:1:385384061> is attempting to connect.
+[Sun May 24 19:19:35 2026] Player "Hoolz_ik" <STEAM_0:0:897748425> is attempting to connect.

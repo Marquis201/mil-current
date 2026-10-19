@@ -1,0 +1,9 @@
+"militaryrp"
+{
+	"base"		    "sandbox"
+	"title"		    "MILITARY-PLAY"
+	"author"		"MP Team"
+	"maps"		    "^rp_"
+	"category"	    "rp"
+	"menusystem"	"1"
+}

@@ -1,0 +1,25 @@
+[Mon Feb 16 10:15:09 2026] Player "OZOR" <STEAM_0:0:85754053> has spawned in the server
+[Mon Feb 16 10:19:41 2026] Player "OZOR" <STEAM_0:0:85754053> has left the server
+[Mon Feb 16 10:23:27 2026] Player "OZOR" <STEAM_0:0:85754053> has spawned in the server
+[Mon Feb 16 12:32:03 2026] Player "ЕгорОргазм" <STEAM_0:0:781423513> is attempting to connect.
+[Mon Feb 16 12:51:22 2026] Player "новеньки" <STEAM_0:1:196569949> is attempting to connect.
+[Mon Feb 16 12:52:45 2026] Player "новеньки" <STEAM_0:1:196569949> has spawned in the server
+[Mon Feb 16 13:01:07 2026] Player "Креветка" <STEAM_0:1:942364657> is attempting to connect.
+[Mon Feb 16 13:02:22 2026] Player "Креветка" <STEAM_0:1:942364657> has spawned in the server
+[Mon Feb 16 13:02:57 2026] Player "Креветка" <STEAM_0:1:942364657> has left the server
+[Mon Feb 16 13:03:13 2026] <STEAM_0:1:196569949> новеньки: !logs
+[Mon Feb 16 13:03:14 2026] <STEAM_0:1:196569949> новеньки: /logsd
+[Mon Feb 16 13:03:16 2026] <STEAM_0:1:196569949> новеньки: /logs
+[Mon Feb 16 13:06:48 2026] Player "Джон" <STEAM_0:1:918836869> is attempting to connect.
+[Mon Feb 16 13:19:44 2026] Player "новеньки" <STEAM_0:1:196569949> has left the server
+[Mon Feb 16 14:46:32 2026] Player "OZOR" <STEAM_0:0:85754053> has left the server
+[Mon Feb 16 16:42:33 2026] Player "punk" <STEAM_0:0:921324874> is attempting to connect.
+[Mon Feb 16 16:43:12 2026] Player "punk" <STEAM_0:0:921324874> has spawned in the server
+[Mon Feb 16 16:47:34 2026] <STEAM_0:0:921324874> punk spawned prop "Entity [267][prop_physics] (models/props_c17/oildrum001_explosive.mdl)"
+[Mon Feb 16 16:47:45 2026] <STEAM_0:0:921324874> punk spawned prop "Entity [267][prop_physics] (models/props_c17/oildrum001_explosive.mdl)"
+[Mon Feb 16 17:43:06 2026] Player "punk" <STEAM_0:0:921324874> has left the server
+[Mon Feb 16 18:39:54 2026] Player "Discar" <STEAM_0:0:650470378> is attempting to connect.
+[Mon Feb 16 18:41:06 2026] Player "Discar" <STEAM_0:0:650470378> has spawned in the server
+[Mon Feb 16 18:56:56 2026] Player "Discar" <STEAM_0:0:650470378> has left the server
+[Mon Feb 16 20:42:22 2026] Player "Shpionchik007" <STEAM_0:1:196099948> is attempting to connect.
+[Mon Feb 16 21:13:33 2026] Player "FreeTP.Org" <STEAM_0:1:813485053> is attempting to connect.

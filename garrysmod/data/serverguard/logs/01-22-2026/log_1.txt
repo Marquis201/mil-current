@@ -1,0 +1,155 @@
+[Thu Jan 22 12:04:13 2026] Player "punk" <STEAM_0:0:921324874> is attempting to connect.
+[Thu Jan 22 12:04:49 2026] Player "punk" <STEAM_0:0:921324874> has spawned in the server
+[Thu Jan 22 12:05:44 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [515][lvs_wheeldrive_hummer]"
+[Thu Jan 22 14:57:36 2026] Player "Пiтер Грiффiн" <STEAM_0:0:64253338> is attempting to connect.
+[Thu Jan 22 14:57:42 2026] Player "Пiтер Грiффiн" <STEAM_0:0:64253338> is attempting to connect.
+[Thu Jan 22 14:57:56 2026] Player "Пiтер Грiффiн" <STEAM_0:0:64253338> is attempting to connect.
+[Thu Jan 22 16:13:55 2026] Player "Оккупант ИК-6" <STEAM_0:0:428812117> is attempting to connect.
+[Thu Jan 22 16:18:03 2026] Player "Оккупант ИК-6" <STEAM_0:0:428812117> has spawned in the server
+[Thu Jan 22 16:26:16 2026] <STEAM_0:0:428812117> Оккупант ИК-6: /ooc Есть кто?
+[Thu Jan 22 16:34:47 2026] <STEAM_0:0:428812117> Оккупант ИК-6: /ooc .
+[Thu Jan 22 17:17:25 2026] <STEAM_0:0:921324874> punk: /nato рекрут ты где?
+[Thu Jan 22 17:17:36 2026] <STEAM_0:0:921324874> punk: // чат /nato
+[Thu Jan 22 17:19:08 2026] <STEAM_0:0:921324874> punk ran command "respawn Robinson"
+[Thu Jan 22 17:21:01 2026] <STEAM_0:0:428812117> Оккупант ИК-6: // я стою на спавне
+[Thu Jan 22 17:30:52 2026] <STEAM_0:0:428812117> Оккупант ИК-6: /me Встал по стойке смирно
+[Thu Jan 22 17:30:58 2026] <STEAM_0:0:428812117> Оккупант ИК-6: /me открыл книгу
+[Thu Jan 22 17:33:04 2026] <STEAM_0:0:428812117> Оккупант ИК-6: /me закрыл книгу
+[Thu Jan 22 17:35:08 2026] <STEAM_0:0:428812117> Оккупант ИК-6: /me отдал честь
+[Thu Jan 22 17:35:16 2026] Player "༒︎シ︎ʰᵉⁿᵗᵃⁱシ" <STEAM_0:0:851601344> is attempting to connect.
+[Thu Jan 22 17:36:28 2026] Player "༒︎シ︎ʰᵉⁿᵗᵃⁱシ" <STEAM_0:0:851601344> has spawned in the server
+[Thu Jan 22 17:37:41 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "ignite RCT Robinson"
+[Thu Jan 22 17:37:47 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "ignite RCT Robinson"
+[Thu Jan 22 17:38:08 2026] Оккупант ИК-6 has killed Оккупант ИК-6.
+[Thu Jan 22 17:38:08 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "slay RCT Robinson"
+[Thu Jan 22 17:38:42 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "ragdoll RCT Robinson"
+[Thu Jan 22 17:38:48 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "noclip RCT Robinson"
+[Thu Jan 22 17:38:54 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "invisible RCT Robinson"
+[Thu Jan 22 17:39:07 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "ragdoll RCT Robinson"
+[Thu Jan 22 17:40:50 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [560][lvs_item_transmission_manual]"
+[Thu Jan 22 17:40:52 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [560][lvs_item_transmission_automatic]"
+[Thu Jan 22 17:40:54 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [560][lvs_item_gear]"
+[Thu Jan 22 17:40:56 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [560][lvs_item_turbo]"
+[Thu Jan 22 17:40:58 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [561][lvs_item_exhaust]"
+[Thu Jan 22 17:41:02 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [561][lvs_item_compressor]"
+[Thu Jan 22 17:41:04 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [562][lvs_item_gauge]"
+[Thu Jan 22 17:41:07 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [563][lvs_item_gauge]"
+[Thu Jan 22 17:41:54 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "invisible RCT Robinson"
+[Thu Jan 22 17:43:25 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [544][lvs_wheeldrive_rp_dabrams_m1a1]"
+[Thu Jan 22 17:44:17 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [638][lvs_item_transmission_automatic]"
+[Thu Jan 22 17:44:21 2026] Player "Juk" <STEAM_0:0:586457449> is attempting to connect.
+[Thu Jan 22 17:44:23 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [638][lvs_item_transmission_automatic]"
+[Thu Jan 22 17:44:26 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [639][lvs_item_gear]"
+[Thu Jan 22 17:44:28 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [638][lvs_item_turbo]"
+[Thu Jan 22 17:44:31 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [639][lvs_item_exhaust]"
+[Thu Jan 22 17:44:34 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [639][lvs_item_transmission_manual]"
+[Thu Jan 22 17:44:35 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [640][lvs_item_transmission_manual]"
+[Thu Jan 22 17:44:36 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [639][lvs_item_transmission_automatic]"
+[Thu Jan 22 17:44:39 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [639][lvs_item_compressor]"
+[Thu Jan 22 17:44:42 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [640][lvs_item_gauge]"
+[Thu Jan 22 17:45:06 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "invisible RCT Robinson"
+[Thu Jan 22 17:45:11 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "invisible RCT Robinson"
+[Thu Jan 22 17:46:00 2026] <STEAM_0:0:428812117> Оккупант ИК-6: // я сейчас быстро перезайду
+[Thu Jan 22 17:46:01 2026] Player "Оккупант ИК-6" <STEAM_0:0:428812117> has left the server
+[Thu Jan 22 17:47:17 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [537][lvs_missile]"
+[Thu Jan 22 17:47:17 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [539][lvs_missile]"
+[Thu Jan 22 17:47:17 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [540][lvs_missile]"
+[Thu Jan 22 17:47:17 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [543][lvs_missile]"
+[Thu Jan 22 17:47:18 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [545][lvs_missile]"
+[Thu Jan 22 17:47:19 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [556][lvs_missile]"
+[Thu Jan 22 17:47:20 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [557][lvs_missile]"
+[Thu Jan 22 17:47:20 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [558][lvs_missile]"
+[Thu Jan 22 17:47:20 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [559][lvs_missile]"
+[Thu Jan 22 17:47:20 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [560][lvs_missile]"
+[Thu Jan 22 17:47:20 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [537][lvs_missile]"
+[Thu Jan 22 17:47:21 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [640][lvs_missile]"
+[Thu Jan 22 17:47:21 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [539][lvs_protontorpedo]"
+[Thu Jan 22 17:47:23 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [537][lvs_protontorpedo]"
+[Thu Jan 22 17:47:34 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [650][lvs_protontorpedo]"
+[Thu Jan 22 17:47:35 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [537][lvs_protontorpedo]"
+[Thu Jan 22 17:47:35 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [539][lvs_protontorpedo]"
+[Thu Jan 22 17:47:35 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [540][lvs_protontorpedo]"
+[Thu Jan 22 17:47:35 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [543][lvs_protontorpedo]"
+[Thu Jan 22 17:47:35 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [651][lvs_protontorpedo]"
+[Thu Jan 22 17:47:35 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [652][lvs_protontorpedo]"
+[Thu Jan 22 17:47:36 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [653][lvs_protontorpedo]"
+[Thu Jan 22 17:47:36 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [545][lvs_protontorpedo]"
+[Thu Jan 22 17:47:36 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [556][lvs_protontorpedo]"
+[Thu Jan 22 17:47:36 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [557][lvs_missile]"
+[Thu Jan 22 17:47:36 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [558][lvs_missile]"
+[Thu Jan 22 17:47:36 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [559][lvs_missile]"
+[Thu Jan 22 17:47:37 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [560][lvs_missile]"
+[Thu Jan 22 17:47:37 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [650][lvs_missile]"
+[Thu Jan 22 17:47:37 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [537][lvs_missile]"
+[Thu Jan 22 17:47:37 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [539][lvs_missile]"
+[Thu Jan 22 17:47:37 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [540][lvs_missile]"
+[Thu Jan 22 17:47:38 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [543][lvs_missile]"
+[Thu Jan 22 17:47:38 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [651][lvs_missile]"
+[Thu Jan 22 17:47:38 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [652][lvs_missile]"
+[Thu Jan 22 17:47:38 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [545][lvs_missile]"
+[Thu Jan 22 17:47:38 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [648][lvs_missile]"
+[Thu Jan 22 17:47:48 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Thu Jan 22 17:48:35 2026] Player "Worshiper of God" <STEAM_0:0:74235942> is attempting to connect.
+[Thu Jan 22 17:48:37 2026] Player "Оккупант ИК-6" <STEAM_0:0:428812117> is attempting to connect.
+[Thu Jan 22 17:48:59 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [537][lvs_wheeldrive_m3a3]"
+[Thu Jan 22 17:49:05 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [608][lvs_item_turbo]"
+[Thu Jan 22 17:49:05 2026] Player "Оккупант ИК-6" <STEAM_0:0:428812117> has spawned in the server
+[Thu Jan 22 17:49:06 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [613][lvs_item_exhaust]"
+[Thu Jan 22 17:49:06 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [614][lvs_item_transmission_manual]"
+[Thu Jan 22 17:49:06 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [615][lvs_item_transmission_automatic]"
+[Thu Jan 22 17:49:07 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [616][lvs_item_gear]"
+[Thu Jan 22 17:49:08 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [617][lvs_item_compressor]"
+[Thu Jan 22 17:49:08 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [618][lvs_item_gauge]"
+[Thu Jan 22 17:49:27 2026] Player "Worshiper of God" <STEAM_0:0:74235942> has spawned in the server
+[Thu Jan 22 17:50:07 2026] <STEAM_0:0:74235942> Worshiper of God: // за рф закинули меня быстро сейчас Рядовой Жнецов будет ебать нато
+[Thu Jan 22 17:50:20 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // иди ты
+[Thu Jan 22 17:50:25 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Worshiper of God.
+[Thu Jan 22 17:50:38 2026] <STEAM_0:0:74235942> Worshiper of God: // за рф закинул!
+[Thu Jan 22 17:51:02 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // /character
+[Thu Jan 22 17:51:31 2026] <STEAM_0:0:74235942> Worshiper of God: /character
+[Thu Jan 22 17:52:12 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Worshiper of God.
+[Thu Jan 22 17:52:13 2026] Worshiper of God has killed Worshiper of God.
+[Thu Jan 22 17:52:24 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "invisible RCT Robinson"
+[Thu Jan 22 17:52:29 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "invisible RCT Robinson"
+[Thu Jan 22 17:53:02 2026] <STEAM_0:0:74235942> Worshiper of God: // специальность гранатометчик бля выдай
+[Thu Jan 22 17:53:03 2026] <STEAM_0:0:428812117> Оккупант ИК-6: // у меня кастомизация оружия не открывается
+[Thu Jan 22 17:53:10 2026] <STEAM_0:0:428812117> Оккупант ИК-6: // чё делать
+[Thu Jan 22 17:53:26 2026] <STEAM_0:0:74235942> Worshiper of God: // на б или т не открывается?
+[Thu Jan 22 17:53:47 2026] Player "Sartayxz" <STEAM_0:0:934357750> is attempting to connect.
+[Thu Jan 22 17:54:09 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "invisible RCT Robinson"
+[Thu Jan 22 17:54:12 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "invisible RCT Robinson"
+[Thu Jan 22 17:54:21 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "respawn MAJ A.E. Evergarden"
+[Thu Jan 22 17:54:28 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Thu Jan 22 17:54:28 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "slay MAJ A.E. Evergarden"
+[Thu Jan 22 17:54:49 2026] <STEAM_0:0:428812117> Оккупант ИК-6: /me Показал шифрогильзу: Navy | Матрос | Sailor Krause | Уровень доступа: I
+[Thu Jan 22 17:54:58 2026] <STEAM_0:0:428812117> Оккупант ИК-6: /me Радуется
+[Thu Jan 22 17:55:22 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "invisible RCT Robinson"
+[Thu Jan 22 17:55:25 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "invisible RCT Robinson"
+[Thu Jan 22 17:55:32 2026] <STEAM_0:0:74235942> Worshiper of God: // выдай мне еще доступ для взятия машины
+[Thu Jan 22 17:55:38 2026] Player "Оккупант ИК-6" <STEAM_0:0:428812117> has left the server
+[Thu Jan 22 17:55:39 2026] <STEAM_0:0:74235942> Worshiper of God: // и чтобы я мог сесть в нее
+[Thu Jan 22 17:56:03 2026] <STEAM_0:0:74235942> Worshiper of God: // бля ну специальность не нужно менять было
+[Thu Jan 22 17:57:55 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // как тебе
+[Thu Jan 22 17:58:17 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Worshiper of God.
+[Thu Jan 22 17:58:35 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /me связал
+[Thu Jan 22 17:58:45 2026] Worshiper of God has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Thu Jan 22 17:58:46 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Thu Jan 22 17:58:51 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // я тебя связал xd
+[Thu Jan 22 17:59:00 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // олух
+[Thu Jan 22 17:59:25 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "goto Жнец"
+[Thu Jan 22 18:01:36 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "send Жнец"
+[Thu Jan 22 18:01:41 2026] Worshiper of God has killed Worshiper of God.
+[Thu Jan 22 18:01:42 2026] Worshiper of God has killed Worshiper of God.
+[Thu Jan 22 18:03:03 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "send Жнец"
+[Thu Jan 22 18:03:18 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Worshiper of God.
+[Thu Jan 22 18:03:19 2026] Worshiper of God has killed Worshiper of God.
+[Thu Jan 22 18:03:40 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Worshiper of God.
+[Thu Jan 22 18:03:57 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "respawn Жнец"
+[Thu Jan 22 18:04:15 2026] Player "༒︎シ︎ʰᵉⁿᵗᵃⁱシ" <STEAM_0:0:851601344> has left the server
+[Thu Jan 22 18:06:24 2026] <STEAM_0:0:921324874> punk ran command "invisible CPT F. B. Punkov"
+[Thu Jan 22 18:06:51 2026] <STEAM_0:0:921324874> punk ran command "invisible CPT F. B. Punkov"
+[Thu Jan 22 18:25:24 2026] Player "Worshiper of God" <STEAM_0:0:74235942> has left the server
+[Thu Jan 22 19:00:10 2026] Player "PlayerVin" <STEAM_0:1:823015499> is attempting to connect.
+[Thu Jan 22 19:00:16 2026] Player "PlayerVin" <STEAM_0:1:823015499> is attempting to connect.
+[Thu Jan 22 19:32:00 2026] Player "punk" <STEAM_0:0:921324874> has left the server
+[Thu Jan 22 20:54:04 2026] Player "nanaromanana045" <STEAM_0:0:949612723> is attempting to connect.

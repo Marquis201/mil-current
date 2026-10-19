@@ -1,0 +1,9 @@
+[Mon Dec 22 16:05:11 2025] Player "费尔南德斯" <STEAM_0:0:79873507> is attempting to connect.
+[Mon Dec 22 16:06:28 2025] Player "费尔南德斯" <STEAM_0:0:79873507> has spawned in the server
+[Mon Dec 22 16:06:45 2025] <STEAM_0:0:79873507> 费尔南德斯: евфцвфц
+[Mon Dec 22 16:07:13 2025] <STEAM_0:0:79873507> 费尔南德斯: /nato 132131212
+[Mon Dec 22 16:08:06 2025] Player "费尔南德斯" <STEAM_0:0:79873507> has left the server
+[Mon Dec 22 18:19:09 2025] Player "费尔南德斯" <STEAM_0:0:79873507> is attempting to connect.
+[Mon Dec 22 18:20:22 2025] Player "费尔南德斯" <STEAM_0:0:79873507> has spawned in the server
+[Mon Dec 22 18:20:53 2025] <STEAM_0:0:79873507> 费尔南德斯: /capture
+[Mon Dec 22 18:25:09 2025] Player "费尔南德斯" <STEAM_0:0:79873507> has left the server

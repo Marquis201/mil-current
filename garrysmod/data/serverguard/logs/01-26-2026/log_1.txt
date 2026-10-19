@@ -1,0 +1,575 @@
+[Mon Jan 26 00:03:37 2026] <STEAM_0:0:36541068> |DT| iBG Bre@ke®™: /nato 1
+[Mon Jan 26 00:04:34 2026] <STEAM_0:0:79873507> Fernández used tool "creator"
+[Mon Jan 26 00:04:34 2026] <STEAM_0:0:79873507> Fernández spawned SWEP "Weapon [519][tfa_ins2_aug_a3]"
+[Mon Jan 26 00:04:34 2026] <STEAM_0:0:79873507> Fernández used tool "creator"
+[Mon Jan 26 00:04:34 2026] <STEAM_0:0:79873507> Fernández spawned SWEP "Weapon [521][tfa_ins2_aug_a3]"
+[Mon Jan 26 00:04:34 2026] <STEAM_0:0:79873507> Fernández used tool "creator"
+[Mon Jan 26 00:04:34 2026] <STEAM_0:0:79873507> Fernández spawned SWEP "Weapon [524][tfa_ins2_aug_a3]"
+[Mon Jan 26 00:04:35 2026] <STEAM_0:0:79873507> Fernández used tool "creator"
+[Mon Jan 26 00:04:35 2026] <STEAM_0:0:79873507> Fernández spawned SWEP "Weapon [525][tfa_ins2_aug_a3]"
+[Mon Jan 26 00:04:35 2026] <STEAM_0:0:79873507> Fernández used tool "creator"
+[Mon Jan 26 00:04:35 2026] <STEAM_0:0:79873507> Fernández spawned SWEP "Weapon [527][tfa_ins2_aug_a3]"
+[Mon Jan 26 00:04:35 2026] <STEAM_0:0:79873507> Fernández used tool "creator"
+[Mon Jan 26 00:04:35 2026] <STEAM_0:0:79873507> Fernández spawned SWEP "Weapon [535][tfa_ins2_aug_a3]"
+[Mon Jan 26 00:04:35 2026] <STEAM_0:0:79873507> Fernández used tool "creator"
+[Mon Jan 26 00:04:35 2026] <STEAM_0:0:79873507> Fernández spawned SWEP "Weapon [536][tfa_ins2_aug_a3]"
+[Mon Jan 26 00:04:35 2026] <STEAM_0:0:79873507> Fernández used tool "creator"
+[Mon Jan 26 00:04:35 2026] <STEAM_0:0:79873507> Fernández spawned SWEP "Weapon [537][tfa_ins2_aug_a3]"
+[Mon Jan 26 00:04:39 2026] <STEAM_0:0:79873507> Fernández used tool "creator"
+[Mon Jan 26 00:04:39 2026] <STEAM_0:0:79873507> Fernández spawned SWEP "Weapon [519][tfa_ins2_aug_a3]"
+[Mon Jan 26 00:04:43 2026] <STEAM_0:0:79873507> Fernández used tool "creator"
+[Mon Jan 26 00:04:43 2026] <STEAM_0:0:79873507> Fernández spawned SWEP "Weapon [519][tfa_ins2_aug_a3]"
+[Mon Jan 26 00:04:44 2026] <STEAM_0:0:79873507> Fernández used tool "creator"
+[Mon Jan 26 00:04:44 2026] <STEAM_0:0:79873507> Fernández spawned SWEP "Weapon [525][tfa_ins2_aug_a3]"
+[Mon Jan 26 00:04:44 2026] <STEAM_0:0:79873507> Fernández used tool "creator"
+[Mon Jan 26 00:04:44 2026] <STEAM_0:0:79873507> Fernández spawned SWEP "Weapon [527][tfa_ins2_aug_a3]"
+[Mon Jan 26 00:04:49 2026] Fernández has killed |DT| iBG Bre@ke®™.
+[Mon Jan 26 00:04:50 2026] |DT| iBG Bre@ke®™ has killed |DT| iBG Bre@ke®™.
+[Mon Jan 26 00:04:54 2026] <STEAM_0:0:79873507> Fernández ran command "bring Hawkins"
+[Mon Jan 26 00:05:04 2026] |DT| iBG Bre@ke®™ has killed Fernández.
+[Mon Jan 26 00:05:22 2026] worldspawn has killed Fernández.
+[Mon Jan 26 00:05:27 2026] <STEAM_0:0:79873507> Fernández ran command "bring ^"
+[Mon Jan 26 00:05:31 2026] <STEAM_0:0:79873507> Fernández ran command "bring ^"
+[Mon Jan 26 00:05:34 2026] <STEAM_0:0:79873507> Fernández ran command "respawn ."
+[Mon Jan 26 00:05:37 2026] <STEAM_0:0:79873507> Fernández ran command "respawn ."
+[Mon Jan 26 00:05:39 2026] Fernández has killed Fernández.
+[Mon Jan 26 00:05:39 2026] <STEAM_0:0:79873507> Fernández ran command "slay ."
+[Mon Jan 26 00:05:41 2026] <STEAM_0:0:79873507> Fernández ran command "respawn ."
+[Mon Jan 26 00:08:08 2026] <STEAM_0:0:79873507> Fernández used tool "creator"
+[Mon Jan 26 00:08:08 2026] <STEAM_0:0:79873507> Fernández spawned SWEP "Weapon [540][tfa_ins2_warface_cheytac_m200]"
+[Mon Jan 26 00:08:08 2026] <STEAM_0:0:79873507> Fernández used tool "creator"
+[Mon Jan 26 00:08:08 2026] <STEAM_0:0:79873507> Fernández spawned SWEP "Weapon [541][tfa_ins2_warface_cheytac_m200]"
+[Mon Jan 26 00:08:08 2026] <STEAM_0:0:79873507> Fernández used tool "creator"
+[Mon Jan 26 00:08:08 2026] <STEAM_0:0:79873507> Fernández spawned SWEP "Weapon [542][tfa_ins2_warface_cheytac_m200]"
+[Mon Jan 26 00:08:08 2026] <STEAM_0:0:79873507> Fernández used tool "creator"
+[Mon Jan 26 00:08:08 2026] <STEAM_0:0:79873507> Fernández spawned SWEP "Weapon [543][tfa_ins2_warface_cheytac_m200]"
+[Mon Jan 26 00:09:28 2026] <STEAM_0:0:79873507> Fernández ran command "armor ^ 10"
+[Mon Jan 26 00:09:30 2026] <STEAM_0:0:79873507> Fernández ran command "armor ^ 100"
+[Mon Jan 26 00:09:38 2026] |DT| iBG Bre@ke®™ has killed Fernández.
+[Mon Jan 26 00:09:38 2026] Fernández has killed Fernández.
+[Mon Jan 26 00:10:11 2026] |DT| iBG Bre@ke®™ has killed Fernández.
+[Mon Jan 26 00:10:12 2026] Fernández has killed Fernández.
+[Mon Jan 26 00:11:02 2026] |DT| iBG Bre@ke®™ has killed Fernández.
+[Mon Jan 26 00:11:03 2026] Fernández has killed Fernández.
+[Mon Jan 26 00:11:32 2026] Fernández has killed |DT| iBG Bre@ke®™.
+[Mon Jan 26 00:11:33 2026] |DT| iBG Bre@ke®™ has killed |DT| iBG Bre@ke®™.
+[Mon Jan 26 00:11:47 2026] |DT| iBG Bre@ke®™ has killed Fernández.
+[Mon Jan 26 00:12:21 2026] |DT| iBG Bre@ke®™ has killed Fernández.
+[Mon Jan 26 00:12:22 2026] Fernández has killed Fernández.
+[Mon Jan 26 00:12:31 2026] |DT| iBG Bre@ke®™ has killed Fernández.
+[Mon Jan 26 00:12:37 2026] |DT| iBG Bre@ke®™ has killed Fernández.
+[Mon Jan 26 00:12:46 2026] |DT| iBG Bre@ke®™ has killed Fernández.
+[Mon Jan 26 00:12:47 2026] Fernández has killed Fernández.
+[Mon Jan 26 00:14:18 2026] worldspawn has killed |DT| iBG Bre@ke®™.
+[Mon Jan 26 00:14:43 2026] <STEAM_0:0:79873507> Fernández ran command "hp @ 100"
+[Mon Jan 26 00:15:03 2026] Fernández has killed |DT| iBG Bre@ke®™.
+[Mon Jan 26 00:15:04 2026] |DT| iBG Bre@ke®™ has killed |DT| iBG Bre@ke®™.
+[Mon Jan 26 00:15:36 2026] <STEAM_0:0:79873507> Fernández used tool "creator"
+[Mon Jan 26 00:15:36 2026] <STEAM_0:0:79873507> Fernández spawned SENT "Entity [543][ifak_ammo]"
+[Mon Jan 26 00:15:36 2026] <STEAM_0:0:79873507> Fernández used tool "creator"
+[Mon Jan 26 00:15:36 2026] <STEAM_0:0:79873507> Fernández spawned SENT "Entity [546][ifak_ammo]"
+[Mon Jan 26 00:15:37 2026] <STEAM_0:0:79873507> Fernández used tool "creator"
+[Mon Jan 26 00:15:37 2026] <STEAM_0:0:79873507> Fernández spawned SENT "Entity [547][ifak_ammo]"
+[Mon Jan 26 00:15:37 2026] <STEAM_0:0:79873507> Fernández used tool "creator"
+[Mon Jan 26 00:15:37 2026] <STEAM_0:0:79873507> Fernández spawned SENT "Entity [548][ifak_ammo]"
+[Mon Jan 26 00:15:37 2026] <STEAM_0:0:79873507> Fernández used tool "creator"
+[Mon Jan 26 00:15:37 2026] <STEAM_0:0:79873507> Fernández spawned SENT "Entity [549][ifak_ammo]"
+[Mon Jan 26 00:15:37 2026] <STEAM_0:0:79873507> Fernández used tool "creator"
+[Mon Jan 26 00:15:37 2026] <STEAM_0:0:79873507> Fernández spawned SENT "Entity [550][ifak_ammo]"
+[Mon Jan 26 00:15:37 2026] <STEAM_0:0:79873507> Fernández used tool "creator"
+[Mon Jan 26 00:15:37 2026] <STEAM_0:0:79873507> Fernández spawned SENT "Entity [553][ifak_ammo]"
+[Mon Jan 26 00:15:50 2026] Fernández has killed |DT| iBG Bre@ke®™.
+[Mon Jan 26 00:15:52 2026] |DT| iBG Bre@ke®™ has killed |DT| iBG Bre@ke®™.
+[Mon Jan 26 00:16:01 2026] <STEAM_0:0:79873507> Fernández ran command "respawn @"
+[Mon Jan 26 00:16:10 2026] <STEAM_0:0:79873507> Fernández ran command "bring H"
+[Mon Jan 26 00:17:58 2026] |DT| iBG Bre@ke®™ has killed Fernández.
+[Mon Jan 26 00:17:59 2026] Fernández has killed Fernández.
+[Mon Jan 26 00:18:18 2026] |DT| iBG Bre@ke®™ has killed Fernández.
+[Mon Jan 26 00:18:18 2026] Fernández has killed Fernández.
+[Mon Jan 26 00:18:27 2026] |DT| iBG Bre@ke®™ has killed |DT| iBG Bre@ke®™.
+[Mon Jan 26 00:18:27 2026] Fernández has killed Fernández.
+[Mon Jan 26 00:18:27 2026] <STEAM_0:0:79873507> Fernández ran command "slay *"
+[Mon Jan 26 00:18:34 2026] <STEAM_0:0:79873507> Fernández ran command "respawn *"
+[Mon Jan 26 00:21:44 2026] Player "Fernández" <STEAM_0:0:79873507> is attempting to connect.
+[Mon Jan 26 00:24:03 2026] Player "Fernández" <STEAM_0:0:79873507> has spawned in the server
+[Mon Jan 26 00:24:23 2026] Player "|DT| iBG Bre@ke®™" <STEAM_0:0:36541068> is attempting to connect.
+[Mon Jan 26 00:25:12 2026] Player "|DT| iBG Bre@ke®™" <STEAM_0:0:36541068> has spawned in the server
+[Mon Jan 26 00:26:11 2026] |DT| iBG Bre@ke®™ has killed Fernández.
+[Mon Jan 26 00:26:12 2026] Fernández has killed Fernández.
+[Mon Jan 26 00:27:48 2026] Player "Fernández" <STEAM_0:0:79873507> is attempting to connect.
+[Mon Jan 26 00:28:17 2026] Player "Fernández" <STEAM_0:0:79873507> has spawned in the server
+[Mon Jan 26 00:28:27 2026] Player "|DT| iBG Bre@ke®™" <STEAM_0:0:36541068> is attempting to connect.
+[Mon Jan 26 00:28:39 2026] Player "Fernández" <STEAM_0:0:79873507> has left the server
+[Mon Jan 26 00:28:40 2026] Player "Fernández" <STEAM_0:0:79873507> is attempting to connect.
+[Mon Jan 26 00:28:51 2026] Player "|DT| iBG Bre@ke®™" <STEAM_0:0:36541068> has spawned in the server
+[Mon Jan 26 00:29:08 2026] Player "Fernández" <STEAM_0:0:79873507> has spawned in the server
+[Mon Jan 26 00:32:58 2026] <STEAM_0:0:36541068> |DT| iBG Bre@ke®™ spawned npc "NPC [527][npc_combine_s]"
+[Mon Jan 26 00:32:58 2026] <STEAM_0:0:36541068> |DT| iBG Bre@ke®™ spawned npc "NPC [545][npc_combine_s]"
+[Mon Jan 26 00:32:59 2026] <STEAM_0:0:36541068> |DT| iBG Bre@ke®™ spawned npc "NPC [528][npc_combine_s]"
+[Mon Jan 26 00:33:35 2026] Player "Рамзан Многодыро" <STEAM_0:0:789781838> is attempting to connect.
+[Mon Jan 26 00:33:41 2026] Player "Overnatashafan_" <STEAM_0:0:798342491> is attempting to connect.
+[Mon Jan 26 00:35:05 2026] Player "Fernández" <STEAM_0:0:79873507> is attempting to connect.
+[Mon Jan 26 00:36:37 2026] Player "Fernández" <STEAM_0:0:79873507> is attempting to connect.
+[Mon Jan 26 00:37:03 2026] Player "Fernández" <STEAM_0:0:79873507> has spawned in the server
+[Mon Jan 26 00:37:19 2026] <STEAM_0:0:79873507> Fernández spawned prop "Entity [509][prop_physics] (models/props_c17/FurnitureDrawer003a.mdl)"
+[Mon Jan 26 00:37:19 2026] <STEAM_0:0:79873507> Fernández spawned prop "Entity [515][prop_physics] (models/props_c17/FurnitureDrawer003a.mdl)"
+[Mon Jan 26 00:37:19 2026] <STEAM_0:0:79873507> Fernández spawned prop "Entity [517][prop_physics] (models/props_c17/FurnitureDrawer003a.mdl)"
+[Mon Jan 26 00:37:19 2026] <STEAM_0:0:79873507> Fernández spawned prop "Entity [518][prop_physics] (models/props_c17/FurnitureDrawer003a.mdl)"
+[Mon Jan 26 00:37:19 2026] <STEAM_0:0:79873507> Fernández spawned prop "Entity [519][prop_physics] (models/props_c17/FurnitureDrawer003a.mdl)"
+[Mon Jan 26 00:37:25 2026] Player "Fernández" <STEAM_0:0:79873507> has left the server
+[Mon Jan 26 00:38:54 2026] Player "ящик пива" <STEAM_0:0:936703553> is attempting to connect.
+[Mon Jan 26 00:39:36 2026] Player "Fernández" <STEAM_0:0:79873507> is attempting to connect.
+[Mon Jan 26 00:40:02 2026] Player "Fernández" <STEAM_0:0:79873507> has spawned in the server
+[Mon Jan 26 00:40:29 2026] <STEAM_0:0:79873507> Fernández spawned prop "Entity [509][prop_physics] (models/props_docks/dock03_pole01a.mdl)"
+[Mon Jan 26 00:40:30 2026] <STEAM_0:0:79873507> Fernández spawned prop "Entity [515][prop_physics] (models/props_docks/dock03_pole01a.mdl)"
+[Mon Jan 26 00:40:32 2026] Player "Fernández" <STEAM_0:0:79873507> has left the server
+[Mon Jan 26 00:46:28 2026] Player "Рамзан Многодыро" <STEAM_0:0:789781838> is attempting to connect.
+[Mon Jan 26 00:49:56 2026] Player "Рамзан Многодыро" <STEAM_0:0:789781838> has spawned in the server
+[Mon Jan 26 01:02:05 2026] Player "Рамзан Многодыро" <STEAM_0:0:789781838> has left the server
+[Mon Jan 26 07:37:09 2026] Player "ФЛАМИНГО В ТАПКАХ" <STEAM_0:0:954458083> is attempting to connect.
+[Mon Jan 26 07:40:05 2026] Player "ФЛАМИНГО В ТАПКАХ" <STEAM_0:0:954458083> has spawned in the server
+[Mon Jan 26 07:54:29 2026] Player "ФЛАМИНГО В ТАПКАХ" <STEAM_0:0:954458083> has left the server
+[Mon Jan 26 08:50:40 2026] Player "OZOR" <STEAM_0:0:85754053> has spawned in the server
+[Mon Jan 26 08:55:28 2026] Player "OZOR" <STEAM_0:0:85754053> has left the server
+[Mon Jan 26 08:56:18 2026] Player "OZOR" <STEAM_0:0:85754053> has spawned in the server
+[Mon Jan 26 08:59:52 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [514][sw_bmp1]"
+[Mon Jan 26 08:59:59 2026] <STEAM_0:0:85754053> OZOR spawned npc "NPC [514][npc_vj_test_aerial]"
+[Mon Jan 26 09:00:01 2026] <STEAM_0:0:85754053> OZOR spawned npc "NPC [574][npc_vj_test_interactive]"
+[Mon Jan 26 09:00:04 2026] <STEAM_0:0:85754053> OZOR spawned npc "NPC [514][npc_citizen]"
+[Mon Jan 26 09:00:06 2026] <STEAM_0:0:85754053> OZOR spawned npc "NPC [577][npc_combine_s]"
+[Mon Jan 26 09:10:29 2026] <STEAM_0:0:85754053> OZOR ran command "menu"
+[Mon Jan 26 10:02:31 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [514][bodygroup]"
+[Mon Jan 26 10:02:36 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [514][armor_take]"
+[Mon Jan 26 10:04:25 2026] Player "ФЛАМИНГО В ТАПКАХ" <STEAM_0:0:954458083> is attempting to connect.
+[Mon Jan 26 10:06:13 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [575][vehicles_sales]"
+[Mon Jan 26 10:06:43 2026] Player "OZOR" <STEAM_0:0:85754053> has left the server
+[Mon Jan 26 10:06:43 2026] Player "ФЛАМИНГО В ТАПКАХ" <STEAM_0:0:954458083> has spawned in the server
+[Mon Jan 26 10:07:31 2026] Player "OZOR" <STEAM_0:0:85754053> has spawned in the server
+[Mon Jan 26 10:07:38 2026] Player "ФЛАМИНГО В ТАПКАХ" <STEAM_0:0:954458083> has left the server
+[Mon Jan 26 10:08:11 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [512][vehicles_sales]"
+[Mon Jan 26 10:08:17 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [512][armor_take]"
+[Mon Jan 26 10:13:45 2026] Player "ganduras1941" <STEAM_0:0:858837709> is attempting to connect.
+[Mon Jan 26 10:13:49 2026] Player "ganduras1941" <STEAM_0:0:858837709> is attempting to connect.
+[Mon Jan 26 10:40:03 2026] Player "★MINI«»STAR★" <STEAM_0:1:756654535> is attempting to connect.
+[Mon Jan 26 10:41:05 2026] Player "★MINI«»STAR★" <STEAM_0:1:756654535> has spawned in the server
+[Mon Jan 26 10:53:25 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [580][grenade_helicopter]"
+[Mon Jan 26 10:53:28 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [580][grenade_helicopter]"
+[Mon Jan 26 10:55:59 2026] <STEAM_0:0:85754053> OZOR: // Если шо можешь теперь лутать броник в пирамиде
+[Mon Jan 26 10:59:06 2026] ★MINI«»STAR★ has killed OZOR.
+[Mon Jan 26 10:59:07 2026] OZOR has killed OZOR.
+[Mon Jan 26 11:01:46 2026] Player "★MINI«»STAR★" <STEAM_0:1:756654535> has left the server
+[Mon Jan 26 11:01:46 2026] Player "★MINI«»STAR★" <STEAM_0:1:756654535> is attempting to connect.
+[Mon Jan 26 11:02:10 2026] Player "★MINI«»STAR★" <STEAM_0:1:756654535> has spawned in the server
+[Mon Jan 26 11:03:12 2026] Player "★MINI«»STAR★" <STEAM_0:1:756654535> has left the server
+[Mon Jan 26 11:03:29 2026] Player "OZOR" <STEAM_0:0:85754053> has left the server
+[Mon Jan 26 11:05:12 2026] Player "StoticS" <STEAM_0:1:607847294> is attempting to connect.
+[Mon Jan 26 11:07:30 2026] Player "StoticS" <STEAM_0:1:607847294> has spawned in the server
+[Mon Jan 26 11:08:35 2026] <STEAM_0:1:607847294> StoticS: /nato [rp] расписался за снаряжение
+[Mon Jan 26 11:09:42 2026] <STEAM_0:1:607847294> StoticS: /nato [rp] выкатил технику
+[Mon Jan 26 11:13:33 2026] Player "OZOR" <STEAM_0:0:85754053> has spawned in the server
+[Mon Jan 26 11:16:33 2026] <STEAM_0:0:85754053> OZOR: sadf
+[Mon Jan 26 11:16:35 2026] <STEAM_0:0:85754053> OZOR: sadfs
+[Mon Jan 26 11:26:04 2026] <STEAM_0:1:607847294> StoticS: // ozor вы нерфанули подствольник?
+[Mon Jan 26 11:29:56 2026] StoticS has killed StoticS.
+[Mon Jan 26 11:30:44 2026] <STEAM_0:1:607847294> StoticS: /nato [rp] расписался за снаряжение
+[Mon Jan 26 11:31:43 2026] <STEAM_0:1:607847294> StoticS: /nato [rp] расписался за выход в збд
+[Mon Jan 26 11:33:48 2026] Player "Juk" <STEAM_0:0:586457449> is attempting to connect.
+[Mon Jan 26 11:36:49 2026] Player "Juk" <STEAM_0:0:586457449> has spawned in the server
+[Mon Jan 26 11:39:09 2026] <STEAM_0:0:586457449> Juk: /ooc здарова
+[Mon Jan 26 11:39:27 2026] <STEAM_0:0:85754053> OZOR: // Здарова, швабра тряпка и пошел
+[Mon Jan 26 11:39:33 2026] <STEAM_0:0:586457449> Juk: /ooc соси
+[Mon Jan 26 11:39:39 2026] <STEAM_0:0:85754053> OZOR: // Сосать потом будешь
+[Mon Jan 26 11:40:26 2026] <STEAM_0:0:586457449> Juk: /com че пидоры будем за город бадаться?
+[Mon Jan 26 11:45:05 2026] StoticS has killed Juk.
+[Mon Jan 26 11:45:11 2026] <STEAM_0:0:586457449> Juk: /ooc блять
+[Mon Jan 26 11:45:28 2026] <STEAM_0:1:607847294> StoticS: // мой подствольник жаждит душ
+[Mon Jan 26 11:45:28 2026] <STEAM_0:0:586457449> Juk: /ooc какого хуя.я требую хуйне ээтой понизить урон
+[Mon Jan 26 11:45:55 2026] <STEAM_0:1:607847294> StoticS: // что убить ваш тиг нужно 3 выстрела
+[Mon Jan 26 11:46:20 2026] <STEAM_0:1:607847294> StoticS: // а и ногда и 4
+[Mon Jan 26 11:46:52 2026] <STEAM_0:1:607847294> StoticS: // у нато вся техника дохнет с 2-3 выстрелов
+[Mon Jan 26 11:47:18 2026] <STEAM_0:1:607847294> StoticS: // так что не ной
+[Mon Jan 26 11:47:41 2026] StoticS has killed Juk.
+[Mon Jan 26 11:48:00 2026] <STEAM_0:1:607847294> StoticS: // у крыши меньше брони)
+[Mon Jan 26 11:48:32 2026] <STEAM_0:1:607847294> StoticS: // тебе еще 1-2 раза помиреть прийдется)
+[Mon Jan 26 11:49:37 2026] <STEAM_0:1:607847294> StoticS: // либо меня с точки выкуривать
+[Mon Jan 26 11:49:48 2026] <STEAM_0:1:607847294> StoticS: // чем, это твоя дилема
+[Mon Jan 26 11:52:30 2026] StoticS has killed Juk.
+[Mon Jan 26 11:52:31 2026] Juk has killed Juk.
+[Mon Jan 26 11:54:48 2026] Juk has killed StoticS.
+[Mon Jan 26 11:55:39 2026] <STEAM_0:1:607847294> StoticS: /nato [rp] расписался за снаряжение
+[Mon Jan 26 11:56:34 2026] <STEAM_0:1:607847294> StoticS: // хорошо, твоя взяла
+[Mon Jan 26 11:56:46 2026] Player "StoticS" <STEAM_0:1:607847294> has left the server
+[Mon Jan 26 12:00:59 2026] OZOR has killed Juk.
+[Mon Jan 26 12:01:29 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [523][sw_item_refuel]"
+[Mon Jan 26 12:01:39 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [528][sw_gaz2330]"
+[Mon Jan 26 12:01:43 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [590][sw_gaz2330]"
+[Mon Jan 26 12:03:16 2026] <STEAM_0:0:85754053> OZOR ran command "goto Вакутагин "Тундр"
+[Mon Jan 26 12:03:19 2026] <STEAM_0:0:85754053> OZOR: стй
+[Mon Jan 26 12:03:27 2026] <STEAM_0:0:85754053> OZOR: выйди
+[Mon Jan 26 12:03:32 2026] <STEAM_0:0:85754053> OZOR: я сделал новый скролл
+[Mon Jan 26 12:03:43 2026] OZOR has killed Juk.
+[Mon Jan 26 12:03:44 2026] Juk has killed Juk.
+[Mon Jan 26 12:04:02 2026] <STEAM_0:0:85754053> OZOR: ты говно
+[Mon Jan 26 12:04:55 2026] <STEAM_0:0:85754053> OZOR: все
+[Mon Jan 26 12:06:35 2026] <STEAM_0:0:85754053> OZOR: та ты пьяная алкашка куда тебе выше
+[Mon Jan 26 12:06:51 2026] <STEAM_0:0:85754053> OZOR: максимум старший младший сержант
+[Mon Jan 26 12:07:16 2026] <STEAM_0:0:85754053> OZOR: а какой дурак там додумался сделать ремонт?
+[Mon Jan 26 12:07:24 2026] <STEAM_0:0:85754053> OZOR: алкаши
+[Mon Jan 26 12:07:32 2026] <STEAM_0:0:85754053> OZOR: ну это и логично
+[Mon Jan 26 12:07:53 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Mon Jan 26 12:07:53 2026] <STEAM_0:0:85754053> OZOR spawned npc "NPC [523][npc_combine_s]"
+[Mon Jan 26 12:07:55 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Mon Jan 26 12:07:55 2026] <STEAM_0:0:85754053> OZOR spawned npc "NPC [544][npc_combine_s]"
+[Mon Jan 26 12:08:12 2026] <STEAM_0:0:85754053> OZOR: пизда тебе щас будет
+[Mon Jan 26 12:08:15 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Mon Jan 26 12:08:15 2026] <STEAM_0:0:85754053> OZOR spawned npc "NPC [523][npc_combine_s]"
+[Mon Jan 26 12:08:16 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Mon Jan 26 12:08:16 2026] <STEAM_0:0:85754053> OZOR spawned npc "NPC [544][npc_combine_s]"
+[Mon Jan 26 12:08:18 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Mon Jan 26 12:08:18 2026] <STEAM_0:0:85754053> OZOR spawned npc "NPC [553][npc_combine_s]"
+[Mon Jan 26 12:08:19 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Mon Jan 26 12:08:19 2026] <STEAM_0:0:85754053> OZOR spawned npc "NPC [557][npc_combine_s]"
+[Mon Jan 26 12:08:19 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Mon Jan 26 12:08:19 2026] <STEAM_0:0:85754053> OZOR spawned npc "NPC [560][npc_combine_s]"
+[Mon Jan 26 12:08:20 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Mon Jan 26 12:08:20 2026] <STEAM_0:0:85754053> OZOR spawned npc "NPC [563][npc_combine_s]"
+[Mon Jan 26 12:08:21 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Mon Jan 26 12:08:21 2026] <STEAM_0:0:85754053> OZOR spawned npc "NPC [566][npc_combine_s]"
+[Mon Jan 26 12:08:23 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Mon Jan 26 12:08:23 2026] <STEAM_0:0:85754053> OZOR spawned npc "NPC [569][npc_combine_s]"
+[Mon Jan 26 12:08:25 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Mon Jan 26 12:08:25 2026] <STEAM_0:0:85754053> OZOR spawned npc "NPC [572][npc_combine_s]"
+[Mon Jan 26 12:08:27 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Mon Jan 26 12:08:27 2026] <STEAM_0:0:85754053> OZOR spawned npc "NPC [576][npc_combine_s]"
+[Mon Jan 26 12:08:28 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Mon Jan 26 12:08:28 2026] <STEAM_0:0:85754053> OZOR spawned npc "NPC [579][npc_combine_s]"
+[Mon Jan 26 12:08:29 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Mon Jan 26 12:08:29 2026] <STEAM_0:0:85754053> OZOR spawned npc "NPC [582][npc_combine_s]"
+[Mon Jan 26 12:08:31 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Mon Jan 26 12:08:31 2026] <STEAM_0:0:85754053> OZOR spawned npc "NPC [585][npc_combine_s]"
+[Mon Jan 26 12:08:32 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Mon Jan 26 12:08:32 2026] <STEAM_0:0:85754053> OZOR spawned npc "NPC [588][npc_combine_s]"
+[Mon Jan 26 12:08:43 2026] <STEAM_0:0:85754053> OZOR: они повсюду
+[Mon Jan 26 12:09:15 2026] <STEAM_0:0:85754053> OZOR: стекло простреливается
+[Mon Jan 26 12:10:26 2026] npc_combine_s has killed Juk.
+[Mon Jan 26 12:13:47 2026] <STEAM_0:0:85754053> OZOR: и там еще
+[Mon Jan 26 12:13:52 2026] <STEAM_0:0:85754053> OZOR: кпп
+[Mon Jan 26 12:14:20 2026] <STEAM_0:0:85754053> OZOR: все
+[Mon Jan 26 12:14:33 2026] <STEAM_0:0:85754053> OZOR: нету
+[Mon Jan 26 12:14:49 2026] <STEAM_0:0:85754053> OZOR: я работаю
+[Mon Jan 26 12:15:39 2026] Player "Juk" <STEAM_0:0:586457449> has left the server
+[Mon Jan 26 12:15:58 2026] <STEAM_0:0:85754053> OZOR spawned npc "NPC [509][npc_vj_test_aerial]"
+[Mon Jan 26 12:16:03 2026] <STEAM_0:0:85754053> OZOR spawned npc "NPC [509][npc_vj_test_player]"
+[Mon Jan 26 12:16:32 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [513][sent_vj_ply_healthkit]"
+[Mon Jan 26 12:16:37 2026] <STEAM_0:0:85754053> OZOR spawned npc "NPC [513][npc_vj_test_interactive]"
+[Mon Jan 26 12:16:40 2026] OZOR has killed OZOR.
+[Mon Jan 26 12:16:57 2026] <STEAM_0:0:85754053> OZOR ran command "respawn Ozor"
+[Mon Jan 26 12:17:17 2026] <STEAM_0:0:85754053> OZOR spawned npc "NPC [513][npc_citizen]"
+[Mon Jan 26 12:17:20 2026] <STEAM_0:0:85754053> OZOR spawned npc "NPC [517][npc_combine_s]"
+[Mon Jan 26 12:17:20 2026] npc_combine_s has killed OZOR.
+[Mon Jan 26 12:17:48 2026] <STEAM_0:0:85754053> OZOR ran command "respawn Ozor"
+[Mon Jan 26 12:23:18 2026] Player "OZOR" <STEAM_0:0:85754053> has left the server
+[Mon Jan 26 13:11:01 2026] Player "Фiжма" <STEAM_0:1:942364657> is attempting to connect.
+[Mon Jan 26 13:12:06 2026] Player "Фiжма" <STEAM_0:1:942364657> has spawned in the server
+[Mon Jan 26 13:12:56 2026] Player "Фiжма" <STEAM_0:1:942364657> has left the server
+[Mon Jan 26 15:00:02 2026] Player "★☾₳ⱤØ₦₦ł₭☽★" <STEAM_0:0:456016030> is attempting to connect.
+[Mon Jan 26 15:05:55 2026] Player "★☾₳ⱤØ₦₦ł₭☽★" <STEAM_0:0:456016030> has spawned in the server
+[Mon Jan 26 15:25:29 2026] Player "punk" <STEAM_0:0:921324874> is attempting to connect.
+[Mon Jan 26 15:26:40 2026] Player "punk" <STEAM_0:0:921324874> has spawned in the server
+[Mon Jan 26 15:28:04 2026] Player "★☾₳ⱤØ₦₦ł₭☽★" <STEAM_0:0:456016030> has left the server
+[Mon Jan 26 15:28:38 2026] Player "punk" <STEAM_0:0:921324874> has left the server
+[Mon Jan 26 15:28:42 2026] Player "punk" <STEAM_0:0:921324874> is attempting to connect.
+[Mon Jan 26 15:29:23 2026] Player "punk" <STEAM_0:0:921324874> has spawned in the server
+[Mon Jan 26 15:30:03 2026] Player "punk" <STEAM_0:0:921324874> has left the server
+[Mon Jan 26 15:30:41 2026] Player "punk" <STEAM_0:0:921324874> is attempting to connect.
+[Mon Jan 26 15:31:25 2026] Player "punk" <STEAM_0:0:921324874> has spawned in the server
+[Mon Jan 26 15:31:47 2026] <STEAM_0:0:921324874> punk ran command "respawn Punkov"
+[Mon Jan 26 15:47:43 2026] Player "Zhenechka" <STEAM_0:0:114787793> is attempting to connect.
+[Mon Jan 26 15:50:26 2026] Player "Zhenechka" <STEAM_0:0:114787793> has spawned in the server
+[Mon Jan 26 15:55:15 2026] Player "Zhenechka" <STEAM_0:0:114787793> has left the server
+[Mon Jan 26 16:04:50 2026] Player "Фiжма" <STEAM_0:1:942364657> is attempting to connect.
+[Mon Jan 26 16:05:42 2026] Player "Фiжма" <STEAM_0:1:942364657> has spawned in the server
+[Mon Jan 26 16:08:12 2026] <STEAM_0:1:942364657> Фiжма: /с Панков у меян ошибка dash master чо делать?
+[Mon Jan 26 16:08:29 2026] <STEAM_0:1:942364657> Фiжма: /c Панков у меян ошибка dash master чо делать?
+[Mon Jan 26 16:08:43 2026] <STEAM_0:0:921324874> punk: // тоже самое
+[Mon Jan 26 16:08:57 2026] <STEAM_0:0:921324874> punk: // у тебя колесо оружия работает?
+[Mon Jan 26 16:09:02 2026] <STEAM_0:1:942364657> Фiжма: /c да
+[Mon Jan 26 16:10:17 2026] <STEAM_0:1:942364657> Фiжма: /c чо за танк у нас на вч?
+[Mon Jan 26 16:10:28 2026] <STEAM_0:0:921324874> punk ran command "goto Soul"
+[Mon Jan 26 16:10:37 2026] <STEAM_0:0:921324874> punk: // хз
+[Mon Jan 26 16:10:57 2026] <STEAM_0:0:921324874> punk: // я пока перезайду а то у меня колеса с оружием нет
+[Mon Jan 26 16:11:01 2026] Player "punk" <STEAM_0:0:921324874> has left the server
+[Mon Jan 26 16:11:10 2026] <STEAM_0:1:942364657> Фiжма: /c Не поможет
+[Mon Jan 26 16:36:41 2026] Player "Фiжма" <STEAM_0:1:942364657> has left the server
+[Mon Jan 26 16:38:16 2026] Player "Riko_master" <STEAM_0:0:941809530> is attempting to connect.
+[Mon Jan 26 16:43:02 2026] Player "punk" <STEAM_0:0:921324874> is attempting to connect.
+[Mon Jan 26 16:43:55 2026] Player "punk" <STEAM_0:0:921324874> has spawned in the server
+[Mon Jan 26 16:45:16 2026] <STEAM_0:0:921324874> punk used tool "remover"
+[Mon Jan 26 16:45:17 2026] <STEAM_0:0:921324874> punk used tool "remover"
+[Mon Jan 26 16:56:53 2026] Player "Riko_master" <STEAM_0:0:941809530> has spawned in the server
+[Mon Jan 26 16:58:53 2026] Player "Juk" <STEAM_0:0:586457449> is attempting to connect.
+[Mon Jan 26 17:01:04 2026] Player "Juk" <STEAM_0:0:586457449> has spawned in the server
+[Mon Jan 26 17:01:40 2026] <STEAM_0:0:586457449> Juk: /ooc здарова крутой админ
+[Mon Jan 26 17:01:49 2026] <STEAM_0:0:921324874> punk: // ну привет
+[Mon Jan 26 17:01:57 2026] <STEAM_0:0:586457449> Juk: /ooc пошли на танках ебашиться
+[Mon Jan 26 17:02:18 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [547][lvs_wheeldrive_m3a3]"
+[Mon Jan 26 17:04:48 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [694][lfs_uh60]"
+[Mon Jan 26 17:04:52 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [694][lfs_uh60]"
+[Mon Jan 26 17:05:01 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [694][lfs_grdn_mi28nm]"
+[Mon Jan 26 17:05:08 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [694][lvs_wheeldrive_dabrams_m1a1]"
+[Mon Jan 26 17:05:24 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [694][lvs_wheeldrive_m3a3]"
+[Mon Jan 26 17:05:47 2026] <STEAM_0:0:586457449> Juk: /rf 3-я МОТОСТРЕЛКОВАЯ НА ПЛАЦ БЕГОМ МАРШ
+[Mon Jan 26 17:06:35 2026] <STEAM_0:0:921324874> punk ran command "goto Вакутагин "Тундр"
+[Mon Jan 26 17:08:35 2026] <STEAM_0:0:941809530> Riko_master: пилот есть?
+[Mon Jan 26 17:08:56 2026] <STEAM_0:0:941809530> Riko_master: не
+[Mon Jan 26 17:09:18 2026] <STEAM_0:0:941809530> Riko_master: (( у меня микро походу наебнулся))
+[Mon Jan 26 17:10:06 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [547][lvs_wheeldrive_m3a3]"
+[Mon Jan 26 17:11:15 2026] Juk has killed punk.
+[Mon Jan 26 17:11:33 2026] Player "★☾₳ⱤØ₦₦ł₭☽★" <STEAM_0:0:456016030> is attempting to connect.
+[Mon Jan 26 17:11:51 2026] <STEAM_0:0:921324874> punk ran command "goto Вакутагин "Тундр"
+[Mon Jan 26 17:12:04 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [509][lvs_wheeldrive_m3a3]"
+[Mon Jan 26 17:12:27 2026] Player "★☾₳ⱤØ₦₦ł₭☽★" <STEAM_0:0:456016030> has spawned in the server
+[Mon Jan 26 17:13:17 2026] Player "76561199530128327" <STEAM_0:1:784931299> is attempting to connect.
+[Mon Jan 26 17:13:34 2026] Juk has killed punk.
+[Mon Jan 26 17:14:46 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [552][lvs_wheeldrive_hummer]"
+[Mon Jan 26 17:16:08 2026] <STEAM_0:0:921324874> punk ran command "send Вакутагин "Тундр"
+[Mon Jan 26 17:17:07 2026] Player "impotent" <STEAM_0:1:425612974> is attempting to connect.
+[Mon Jan 26 17:19:31 2026] Juk has killed punk.
+[Mon Jan 26 17:19:32 2026] punk has killed punk.
+[Mon Jan 26 17:21:03 2026] Player "impotent" <STEAM_0:1:425612974> has spawned in the server
+[Mon Jan 26 17:21:15 2026] Juk has killed Juk.
+[Mon Jan 26 17:21:57 2026] ★☾₳ⱤØ₦₦ł₭☽★ has killed Juk.
+[Mon Jan 26 17:21:58 2026] Juk has killed Juk.
+[Mon Jan 26 17:24:28 2026] <STEAM_0:0:586457449> Juk: /com америкосик
+[Mon Jan 26 17:24:36 2026] <STEAM_0:0:586457449> Juk: /com выходииии
+[Mon Jan 26 17:27:25 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /rp подняли ящик
+[Mon Jan 26 17:27:40 2026] <STEAM_0:1:425612974> impotent: /nato Ты тут?
+[Mon Jan 26 17:28:09 2026] <STEAM_0:1:425612974> impotent: /nato я застрял. Мне бы помочь
+[Mon Jan 26 17:28:12 2026] punk has killed Juk.
+[Mon Jan 26 17:28:13 2026] Juk has killed Juk.
+[Mon Jan 26 17:28:21 2026] Riko_master has killed punk.
+[Mon Jan 26 17:28:22 2026] punk has killed punk.
+[Mon Jan 26 17:29:09 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /me завязал руки пендосуц застяжками
+[Mon Jan 26 17:30:24 2026] Riko_master has killed punk.
+[Mon Jan 26 17:30:25 2026] Riko_master has killed impotent.
+[Mon Jan 26 17:30:25 2026] impotent has killed impotent.
+[Mon Jan 26 17:31:36 2026] ★☾₳ⱤØ₦₦ł₭☽★ has killed punk.
+[Mon Jan 26 17:31:36 2026] Player "Damnski" <STEAM_0:1:57760387> is attempting to connect.
+[Mon Jan 26 17:31:37 2026] punk has killed punk.
+[Mon Jan 26 17:31:58 2026] <STEAM_0:0:921324874> punk ran command "goto RCT Montgomery"
+[Mon Jan 26 17:32:04 2026] <STEAM_0:0:921324874> punk ran command "goto Ханоев"
+[Mon Jan 26 17:33:26 2026] <STEAM_0:0:586457449> Juk: /com ЕЩЕ ШАГ В НАШУ СТОРОНУ ТВОЙ КАПИТАН СДОХНЕТ
+[Mon Jan 26 17:34:34 2026] <STEAM_0:0:921324874> punk: ватафва
+[Mon Jan 26 17:35:14 2026] <STEAM_0:0:921324874> punk: иди нахуй
+[Mon Jan 26 17:35:18 2026] Juk has killed impotent.
+[Mon Jan 26 17:35:18 2026] impotent has killed impotent.
+[Mon Jan 26 17:35:24 2026] ★☾₳ⱤØ₦₦ł₭☽★ has killed punk.
+[Mon Jan 26 17:36:20 2026] <STEAM_0:0:921324874> punk: // я афк если будут проблемы пишите
+[Mon Jan 26 17:37:08 2026] ★☾₳ⱤØ₦₦ł₭☽★ has killed impotent.
+[Mon Jan 26 17:38:11 2026] <STEAM_0:0:586457449> Juk: /me показал удостоверение личности: [Вакутагин А.Е.] { Мл.Сержант} [ВП] [О�
+[Mon Jan 26 17:38:48 2026] impotent has killed impotent.
+[Mon Jan 26 17:39:12 2026] Player "Juk" <STEAM_0:0:586457449> has left the server
+[Mon Jan 26 17:45:24 2026] Player "impotent" <STEAM_0:1:425612974> has left the server
+[Mon Jan 26 17:45:51 2026] Player "Riko_master" <STEAM_0:0:941809530> has left the server
+[Mon Jan 26 17:47:55 2026] worldspawn has killed ★☾₳ⱤØ₦₦ł₭☽★.
+[Mon Jan 26 17:48:04 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc панк
+[Mon Jan 26 17:54:53 2026] Player "Lorean" <STEAM_0:0:77564842> is attempting to connect.
+[Mon Jan 26 17:56:45 2026] Player "Lorean" <STEAM_0:0:77564842> has spawned in the server
+[Mon Jan 26 17:59:34 2026] <STEAM_0:0:921324874> punk ran command "goto Ханоев"
+[Mon Jan 26 17:59:38 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /rf меня повысили
+[Mon Jan 26 18:00:01 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [581][sw_rocket_s5m_v3]"
+[Mon Jan 26 18:01:45 2026] <STEAM_0:0:921324874> punk: /rp В Годоре объявили особое воздушное положение
+[Mon Jan 26 18:01:52 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [581][sw_rocket_s13_v3]"
+[Mon Jan 26 18:02:01 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [581][sw_rocket_ros132_v3]"
+[Mon Jan 26 18:02:11 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [522][sw_rocket_s25l_v3]"
+[Mon Jan 26 18:02:29 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [522][sw_bomb_ofab250sh_v3]"
+[Mon Jan 26 18:03:10 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [522][sw_rocket_rbs132_v3]"
+[Mon Jan 26 18:03:21 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [522][sw_rocket_s25o_v3]"
+[Mon Jan 26 18:03:24 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [522][sw_rocket_tt250_v3]"
+[Mon Jan 26 18:03:33 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [522][sw_rocket_s25l_v3]"
+[Mon Jan 26 18:03:40 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [549][sw_rocket_s25l_v3]"
+[Mon Jan 26 18:03:50 2026] <STEAM_0:0:921324874> punk spawned npc "NPC [549][npc_citizen]"
+[Mon Jan 26 18:03:54 2026] <STEAM_0:0:921324874> punk spawned npc "NPC [549][npc_combine_s]"
+[Mon Jan 26 18:04:04 2026] <STEAM_0:0:921324874> punk spawned npc "NPC [549][npc_combine_s]"
+[Mon Jan 26 18:04:04 2026] <STEAM_0:0:921324874> punk spawned npc "NPC [554][npc_combine_s]"
+[Mon Jan 26 18:04:05 2026] <STEAM_0:0:921324874> punk spawned npc "NPC [581][npc_combine_s]"
+[Mon Jan 26 18:04:06 2026] <STEAM_0:0:921324874> punk spawned npc "NPC [586][npc_combine_s]"
+[Mon Jan 26 18:04:26 2026] <STEAM_0:0:921324874> punk spawned npc "NPC [522][npc_combine_s]"
+[Mon Jan 26 18:04:26 2026] <STEAM_0:0:921324874> punk spawned npc "NPC [579][npc_combine_s]"
+[Mon Jan 26 18:04:27 2026] <STEAM_0:0:921324874> punk spawned npc "NPC [589][npc_combine_s]"
+[Mon Jan 26 18:04:41 2026] <STEAM_0:0:921324874> punk spawned npc "NPC [549][npc_combine_s]"
+[Mon Jan 26 18:04:42 2026] <STEAM_0:0:921324874> punk spawned npc "NPC [522][npc_combine_s]"
+[Mon Jan 26 18:06:12 2026] punk has killed ★☾₳ⱤØ₦₦ł₭☽★.
+[Mon Jan 26 18:06:12 2026] ★☾₳ⱤØ₦₦ł₭☽★ has killed ★☾₳ⱤØ₦₦ł₭☽★.
+[Mon Jan 26 18:06:35 2026] punk has killed ★☾₳ⱤØ₦₦ł₭☽★.
+[Mon Jan 26 18:06:36 2026] ★☾₳ⱤØ₦₦ł₭☽★ has killed ★☾₳ⱤØ₦₦ł₭☽★.
+[Mon Jan 26 18:06:43 2026] Lorean has killed punk.
+[Mon Jan 26 18:06:44 2026] punk has killed punk.
+[Mon Jan 26 18:07:11 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /me затянул руки стяжками америкосу
+[Mon Jan 26 18:10:12 2026] <STEAM_0:0:921324874> punk: простите уши завяли
+[Mon Jan 26 18:10:26 2026] <STEAM_0:0:921324874> punk: от вашего говора
+[Mon Jan 26 18:10:45 2026] Player "Фiжма" <STEAM_0:1:942364657> is attempting to connect.
+[Mon Jan 26 18:11:07 2026] <STEAM_0:0:77564842> Lorean: /me показывает язык жеста
+[Mon Jan 26 18:11:15 2026] <STEAM_0:0:921324874> punk: /me показывает на свои яйца
+[Mon Jan 26 18:11:32 2026] <STEAM_0:0:921324874> punk: что
+[Mon Jan 26 18:11:33 2026] Player "Фiжма" <STEAM_0:1:942364657> has spawned in the server
+[Mon Jan 26 18:11:59 2026] <STEAM_0:0:921324874> punk: капита черная залупа
+[Mon Jan 26 18:12:14 2026] <STEAM_0:0:921324874> punk: так я капитан
+[Mon Jan 26 18:12:26 2026] <STEAM_0:0:921324874> punk: так я капитан
+[Mon Jan 26 18:12:39 2026] <STEAM_0:0:921324874> punk: f b punkov
+[Mon Jan 26 18:12:50 2026] <STEAM_0:0:921324874> punk: фои
+[Mon Jan 26 18:12:52 2026] <STEAM_0:0:921324874> punk: фио
+[Mon Jan 26 18:13:36 2026] <STEAM_0:0:921324874> punk: :boar:
+[Mon Jan 26 18:13:41 2026] <STEAM_0:0:921324874> punk: // откат
+[Mon Jan 26 18:13:45 2026] <STEAM_0:0:921324874> punk: я 1
+[Mon Jan 26 18:13:47 2026] <STEAM_0:0:77564842> Lorean: :axe:
+[Mon Jan 26 18:13:58 2026] <STEAM_0:0:921324874> punk: лучше я 1 чем я 2
+[Mon Jan 26 18:14:11 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /rf я уйду скоро, минут 5 буквально
+[Mon Jan 26 18:14:21 2026] <STEAM_0:0:921324874> punk: я пойду?
+[Mon Jan 26 18:14:24 2026] ★☾₳ⱤØ₦₦ł₭☽★ has killed punk.
+[Mon Jan 26 18:14:25 2026] punk has killed punk.
+[Mon Jan 26 18:14:50 2026] Player "★☾₳ⱤØ₦₦ł₭☽★" <STEAM_0:0:456016030> has left the server
+[Mon Jan 26 18:15:06 2026] Player "Lorean" <STEAM_0:0:77564842> has left the server
+[Mon Jan 26 18:15:20 2026] <STEAM_0:0:921324874> punk ran command "goto Soul"
+[Mon Jan 26 18:32:11 2026] Player "punk" <STEAM_0:0:921324874> has left the server
+[Mon Jan 26 18:35:13 2026] Player "Фiжма" <STEAM_0:1:942364657> has left the server
+[Mon Jan 26 18:49:06 2026] Player "★MINI«»STAR★" <STEAM_0:1:756654535> is attempting to connect.
+[Mon Jan 26 18:49:48 2026] Player "★MINI«»STAR★" <STEAM_0:1:756654535> has spawned in the server
+[Mon Jan 26 19:00:40 2026] Player "★MINI«»STAR★" <STEAM_0:1:756654535> has left the server
+[Mon Jan 26 19:04:52 2026] Player "StoticS" <STEAM_0:1:607847294> is attempting to connect.
+[Mon Jan 26 19:06:43 2026] Player "StoticS" <STEAM_0:1:607847294> has spawned in the server
+[Mon Jan 26 19:08:18 2026] <STEAM_0:1:607847294> StoticS: /nato [rp] расписался за снаряжение
+[Mon Jan 26 19:21:05 2026] Player "💀GHOST💀" <STEAM_0:1:963937224> is attempting to connect.
+[Mon Jan 26 19:22:27 2026] Player "LadyZombie_97" <STEAM_0:1:155992960> is attempting to connect.
+[Mon Jan 26 19:29:19 2026] Player "Фiжма" <STEAM_0:1:942364657> is attempting to connect.
+[Mon Jan 26 19:30:08 2026] Player "Фiжма" <STEAM_0:1:942364657> has spawned in the server
+[Mon Jan 26 19:34:14 2026] Player "nagibator (TailerFly)" <STEAM_0:1:951907457> is attempting to connect.
+[Mon Jan 26 19:35:50 2026] Player "punk" <STEAM_0:0:921324874> is attempting to connect.
+[Mon Jan 26 19:36:04 2026] Player "Фiжма" <STEAM_0:1:942364657> has left the server
+[Mon Jan 26 19:36:59 2026] Player "punk" <STEAM_0:0:921324874> has spawned in the server
+[Mon Jan 26 19:46:07 2026] <STEAM_0:1:607847294> StoticS: /me saluted
+[Mon Jan 26 20:01:24 2026] Player "Nelwzz" <STEAM_0:0:927636126> is attempting to connect.
+[Mon Jan 26 20:01:42 2026] Player "Fox" <STEAM_0:0:811735659> is attempting to connect.
+[Mon Jan 26 20:08:47 2026] Player "belal124" <STEAM_0:0:32754781> is attempting to connect.
+[Mon Jan 26 20:11:43 2026] Player "Zhenechka" <STEAM_0:0:114787793> is attempting to connect.
+[Mon Jan 26 20:13:32 2026] Player "Zhenechka" <STEAM_0:0:114787793> has spawned in the server
+[Mon Jan 26 20:14:49 2026] <STEAM_0:0:114787793> Zhenechka: // АЛЕ ЧЕ С ТАЧКАМИ
+[Mon Jan 26 20:20:33 2026] <STEAM_0:0:114787793> Zhenechka: // ВЫ ГДЕ ВСЕ
+[Mon Jan 26 20:20:46 2026] Player "BlackBax" <STEAM_0:1:625658765> is attempting to connect.
+[Mon Jan 26 20:23:03 2026] <STEAM_0:1:607847294> StoticS: // Deseptecons mobilizaishn!
+[Mon Jan 26 20:23:36 2026] <STEAM_0:0:921324874> punk spawned npc "NPC [530][npc_citizen]"
+[Mon Jan 26 20:23:54 2026] <STEAM_0:0:114787793> Zhenechka: // ТОЛЬКО НЕ БАНЬТЕ
+[Mon Jan 26 20:24:02 2026] <STEAM_0:0:921324874> punk: // а все
+[Mon Jan 26 20:24:12 2026] <STEAM_0:0:921324874> punk: // бан за что нибудь
+[Mon Jan 26 20:24:23 2026] <STEAM_0:0:114787793> Zhenechka: // ТОЛЬКО НЕ frekill
+[Mon Jan 26 20:24:25 2026] <STEAM_0:0:921324874> punk spawned npc "NPC [530][npc_combine_s]"
+[Mon Jan 26 20:25:06 2026] <STEAM_0:0:921324874> punk spawned npc "NPC [545][npc_combine_s]"
+[Mon Jan 26 20:25:07 2026] <STEAM_0:0:921324874> punk spawned npc "NPC [550][npc_combine_s]"
+[Mon Jan 26 20:25:07 2026] <STEAM_0:0:921324874> punk spawned npc "NPC [553][npc_combine_s]"
+[Mon Jan 26 20:25:32 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [546][sw_rocket_s25l_v3]"
+[Mon Jan 26 20:25:43 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [546][sw_rocket_s5m_v3]"
+[Mon Jan 26 20:25:45 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [547][sw_rocket_s5m_v3]"
+[Mon Jan 26 20:25:49 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [546][sw_rocket_s5m_v3]"
+[Mon Jan 26 20:27:03 2026] <STEAM_0:0:114787793> Zhenechka: // дайте мне тачку
+[Mon Jan 26 20:27:10 2026] <STEAM_0:0:114787793> Zhenechka: // тут они на крыше спавниться
+[Mon Jan 26 20:27:23 2026] <STEAM_0:0:921324874> punk: // заспавнь
+[Mon Jan 26 20:30:11 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [621][sw_bomb_ofab250sh_v3]"
+[Mon Jan 26 20:30:13 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [621][sw_rocket_s25l_v3]"
+[Mon Jan 26 20:30:19 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [621][sw_bomb_odab500_v3]"
+[Mon Jan 26 20:30:22 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [621][sw_rocket_s25l_v3]"
+[Mon Jan 26 20:30:38 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [621][sw_rocket_s25l_v3]"
+[Mon Jan 26 20:30:39 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [622][sw_rocket_s25l_v3]"
+[Mon Jan 26 20:30:41 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [621][sw_rocket_s21_v3]"
+[Mon Jan 26 20:30:44 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [621][sw_rocket_s21_v3]"
+[Mon Jan 26 20:30:45 2026] Zhenechka has killed StoticS.
+[Mon Jan 26 20:30:54 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [510][sw_mine_ozm72_v3]"
+[Mon Jan 26 20:31:18 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [515][sw_rocket_m31_v3]"
+[Mon Jan 26 20:31:38 2026] <STEAM_0:1:607847294> StoticS: /nato [rp] расписался за снаряжение
+[Mon Jan 26 20:31:50 2026] <STEAM_0:0:921324874> punk: /rp В Город Прибыла 3-я неизвестная сторона
+[Mon Jan 26 20:31:58 2026] <STEAM_0:0:921324874> punk spawned npc "NPC [621][npc_combine_s]"
+[Mon Jan 26 20:31:59 2026] <STEAM_0:0:921324874> punk spawned npc "NPC [624][npc_combine_s]"
+[Mon Jan 26 20:31:59 2026] <STEAM_0:0:921324874> punk spawned npc "NPC [628][npc_combine_s]"
+[Mon Jan 26 20:31:59 2026] <STEAM_0:0:921324874> punk spawned npc "NPC [631][npc_combine_s]"
+[Mon Jan 26 20:32:01 2026] <STEAM_0:0:921324874> punk spawned npc "NPC [634][npc_combine_s]"
+[Mon Jan 26 20:32:01 2026] <STEAM_0:0:921324874> punk spawned npc "NPC [637][npc_combine_s]"
+[Mon Jan 26 20:32:02 2026] <STEAM_0:0:921324874> punk spawned npc "NPC [640][npc_combine_s]"
+[Mon Jan 26 20:32:02 2026] <STEAM_0:0:921324874> punk spawned npc "NPC [644][npc_combine_s]"
+[Mon Jan 26 20:32:02 2026] <STEAM_0:0:921324874> punk spawned npc "NPC [647][npc_combine_s]"
+[Mon Jan 26 20:32:03 2026] <STEAM_0:0:921324874> punk spawned npc "NPC [651][npc_combine_s]"
+[Mon Jan 26 20:32:04 2026] <STEAM_0:0:921324874> punk spawned npc "NPC [654][npc_combine_s]"
+[Mon Jan 26 20:32:04 2026] <STEAM_0:0:921324874> punk spawned npc "NPC [657][npc_combine_s]"
+[Mon Jan 26 20:32:14 2026] <STEAM_0:0:921324874> punk ran command "npctarget Маслов"
+[Mon Jan 26 20:32:26 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [660][sw_rocket_s25o_v3]"
+[Mon Jan 26 20:32:38 2026] <STEAM_0:1:607847294> StoticS: // случаем не с заброшеного аванпоста?)
+[Mon Jan 26 20:32:39 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [660][sw_rocket_rs82_v3]"
+[Mon Jan 26 20:32:53 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [631][sw_bomb_p50t_v3]"
+[Mon Jan 26 20:32:56 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [631][sw_mine_pfm1_v3]"
+[Mon Jan 26 20:34:34 2026] Zhenechka has killed Zhenechka.
+[Mon Jan 26 20:36:37 2026] Player "StoticS" <STEAM_0:1:607847294> has left the server
+[Mon Jan 26 20:40:02 2026] <STEAM_0:0:114787793> Zhenechka: // ?
+[Mon Jan 26 20:40:17 2026] <STEAM_0:0:114787793> Zhenechka: // а я даун
+[Mon Jan 26 20:40:30 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [508][sw_rocket_s25l_v3]"
+[Mon Jan 26 20:40:33 2026] <STEAM_0:0:114787793> Zhenechka: /me навелся на голову
+[Mon Jan 26 20:40:36 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [508][sw_rocket_tt250_v3]"
+[Mon Jan 26 20:40:46 2026] <STEAM_0:0:114787793> Zhenechka: /me нажал на курок
+[Mon Jan 26 20:40:56 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [508][sw_mine_tm62_v3]"
+[Mon Jan 26 20:40:56 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [510][sw_mine_tm62_v3]"
+[Mon Jan 26 20:40:57 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [511][sw_mine_tm62_v3]"
+[Mon Jan 26 20:40:57 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [513][sw_mine_tm62_v3]"
+[Mon Jan 26 20:41:07 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [514][sw_mine_tm62_v3]"
+[Mon Jan 26 20:41:07 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [515][sw_mine_tm62_v3]"
+[Mon Jan 26 20:41:07 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [516][sw_mine_tm62_v3]"
+[Mon Jan 26 20:41:11 2026] <STEAM_0:0:114787793> Zhenechka: // ЕБАТЬ А ЧЕ Я НЕ МОГУ kill прописать
+[Mon Jan 26 20:41:27 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [516][sw_rocket_m14of_v3]"
+[Mon Jan 26 20:41:38 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [515][sw_bomb_p5075_v3]"
+[Mon Jan 26 20:41:41 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [515][sw_rocket_tt250_v3]"
+[Mon Jan 26 20:41:57 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [515][sw_rocket_rs82_v3]"
+[Mon Jan 26 20:42:02 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [515][sw_rocket_m31_v3]"
+[Mon Jan 26 20:42:06 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [515][sw_rocket_m31_v3]"
+[Mon Jan 26 20:42:26 2026] punk has killed Zhenechka.
+[Mon Jan 26 20:42:30 2026] <STEAM_0:0:114787793> Zhenechka: // ебать
+[Mon Jan 26 20:42:32 2026] <STEAM_0:0:921324874> punk: // апхпхпхпх
+[Mon Jan 26 20:43:02 2026] <STEAM_0:0:921324874> punk spawned npc "NPC [517][npc_vj_test_aerial]"
+[Mon Jan 26 20:43:07 2026] <STEAM_0:0:921324874> punk spawned npc "NPC [522][npc_vj_test_interactive]"
+[Mon Jan 26 20:43:10 2026] <STEAM_0:0:921324874> punk spawned npc "NPC [621][npc_vj_test_player]"
+[Mon Jan 26 20:43:12 2026] <STEAM_0:0:921324874> punk spawned npc "NPC [623][npc_vj_test_player]"
+[Mon Jan 26 20:43:37 2026] <STEAM_0:0:921324874> punk used tool "remover"
+[Mon Jan 26 20:43:37 2026] <STEAM_0:0:921324874> punk used tool "remover"
+[Mon Jan 26 20:44:06 2026] worldspawn has killed Zhenechka.
+[Mon Jan 26 20:44:11 2026] <STEAM_0:0:114787793> Zhenechka: // блять
+[Mon Jan 26 20:44:52 2026] <STEAM_0:0:921324874> punk ran command "respawn Маслов"
+[Mon Jan 26 20:45:23 2026] <STEAM_0:0:114787793> Zhenechka: // я афк
+[Mon Jan 26 20:45:30 2026] <STEAM_0:0:921324874> punk used tool "remover"
+[Mon Jan 26 20:45:30 2026] <STEAM_0:0:921324874> punk used tool "remover"
+[Mon Jan 26 20:45:31 2026] <STEAM_0:0:921324874> punk used tool "remover"
+[Mon Jan 26 20:45:31 2026] <STEAM_0:0:114787793> Zhenechka: // чет народ не поднимаететься
+[Mon Jan 26 20:45:31 2026] <STEAM_0:0:921324874> punk used tool "remover"
+[Mon Jan 26 20:45:32 2026] <STEAM_0:0:921324874> punk used tool "remover"
+[Mon Jan 26 20:45:33 2026] <STEAM_0:0:921324874> punk used tool "remover"
+[Mon Jan 26 20:45:40 2026] <STEAM_0:0:921324874> punk used tool "remover"
+[Mon Jan 26 20:45:40 2026] <STEAM_0:0:921324874> punk used tool "remover"
+[Mon Jan 26 20:45:40 2026] <STEAM_0:0:921324874> punk used tool "remover"
+[Mon Jan 26 20:45:40 2026] <STEAM_0:0:921324874> punk used tool "remover"
+[Mon Jan 26 20:45:50 2026] <STEAM_0:0:921324874> punk used tool "remover"
+[Mon Jan 26 21:00:53 2026] Player "Zhenechka" <STEAM_0:0:114787793> has left the server
+[Mon Jan 26 21:16:29 2026] Player "Fox" <STEAM_0:0:811735659> has spawned in the server
+[Mon Jan 26 21:19:44 2026] <STEAM_0:0:811735659> Fox: /ooc можете помочь?
+[Mon Jan 26 21:22:11 2026] Player "Fox" <STEAM_0:0:811735659> has left the server
+[Mon Jan 26 21:27:50 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [508][sw_bomb_odab500_v3]"
+[Mon Jan 26 21:27:50 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [511][sw_bomb_odab500_v3]"
+[Mon Jan 26 21:27:50 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [516][sw_bomb_odab500_v3]"
+[Mon Jan 26 21:27:50 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [517][sw_bomb_odab500_v3]"
+[Mon Jan 26 21:27:50 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [518][sw_bomb_odab500_v3]"
+[Mon Jan 26 21:28:10 2026] Player "punk" <STEAM_0:0:921324874> has left the server
+[Mon Jan 26 21:29:50 2026] Player "StoticS" <STEAM_0:1:607847294> is attempting to connect.
+[Mon Jan 26 21:31:34 2026] Player "StoticS" <STEAM_0:1:607847294> has spawned in the server
+[Mon Jan 26 21:34:12 2026] <STEAM_0:1:607847294> StoticS: /nato [rp] расписался за снаряжение
+[Mon Jan 26 21:34:20 2026] <STEAM_0:1:607847294> StoticS: /nato [rp] расписался за снаряжение
+[Mon Jan 26 21:49:56 2026] Player "StoticS" <STEAM_0:1:607847294> has left the server
+[Mon Jan 26 21:59:01 2026] Player "НЕТ ИДИ НАХУЙ" <STEAM_0:0:936565329> is attempting to connect.
+[Mon Jan 26 22:11:14 2026] Player "НЕТ ИДИ НАХУЙ" <STEAM_0:0:936565329> has spawned in the server
+[Mon Jan 26 22:13:32 2026] <STEAM_0:0:936565329> НЕТ ИДИ НАХУЙ: ен
+[Mon Jan 26 22:13:35 2026] Player "НЕТ ИДИ НАХУЙ" <STEAM_0:0:936565329> has left the server
+[Mon Jan 26 23:33:12 2026] Player "Banan" <STEAM_0:0:945503374> is attempting to connect.
+[Mon Jan 26 23:47:30 2026] Player "Banan" <STEAM_0:0:945503374> has spawned in the server
+[Mon Jan 26 23:52:09 2026] Player "Banan" <STEAM_0:0:945503374> has left the server

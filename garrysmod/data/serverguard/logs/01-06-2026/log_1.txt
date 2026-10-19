@@ -1,0 +1,1128 @@
+[Tue Jan  6 01:46:35 2026] Player "S1ERTNIX|XXX" <STEAM_0:1:396886618> is attempting to connect.
+[Tue Jan  6 01:47:06 2026] Player "S1ERTNIX|XXX" <STEAM_0:1:396886618> is attempting to connect.
+[Tue Jan  6 01:48:48 2026] Player "S1ERTNIX|XXX" <STEAM_0:1:396886618> is attempting to connect.
+[Tue Jan  6 12:38:57 2026] Player "76561199261358489" <STEAM_0:1:650546380> is attempting to connect.
+[Tue Jan  6 14:12:34 2026] Player "yuttt112" <STEAM_0:1:81999616> is attempting to connect.
+[Tue Jan  6 14:54:05 2026] Player "gREG4IK" <STEAM_0:1:455594560> is attempting to connect.
+[Tue Jan  6 14:55:19 2026] Player "gREG4IK" <STEAM_0:1:455594560> has spawned in the server
+[Tue Jan  6 15:06:01 2026] Player "punk" <STEAM_0:0:921324874> is attempting to connect.
+[Tue Jan  6 15:06:42 2026] Player "punk" <STEAM_0:0:921324874> has spawned in the server
+[Tue Jan  6 15:12:32 2026] <STEAM_0:1:455594560> gREG4IK: /ooc панков я буду через минут 30-40 посиди пока тут подними онли
+[Tue Jan  6 15:18:48 2026] <STEAM_0:1:455594560> gREG4IK ran command "noclip Бутуев"
+[Tue Jan  6 15:19:11 2026] <STEAM_0:1:455594560> gREG4IK ran command "noclip Бутуев"
+[Tue Jan  6 15:55:50 2026] Player "tanos" <STEAM_0:1:918501876> is attempting to connect.
+[Tue Jan  6 16:45:42 2026] Player "TANZI" <STEAM_0:0:561366370> is attempting to connect.
+[Tue Jan  6 16:52:49 2026] Player "TANZI" <STEAM_0:0:561366370> is attempting to connect.
+[Tue Jan  6 16:53:24 2026] Player "TANZI" <STEAM_0:0:561366370> has spawned in the server
+[Tue Jan  6 16:55:33 2026] <STEAM_0:0:561366370> TANZI: /ooc маловато чет людей
+[Tue Jan  6 17:03:01 2026] <STEAM_0:1:455594560> gREG4IK ran command "goto Охотник"
+[Tue Jan  6 17:03:12 2026] <STEAM_0:1:455594560> gREG4IK used tool "camera"
+[Tue Jan  6 17:03:51 2026] Player "Bot01" <BOT> has spawned in the server
+[Tue Jan  6 17:03:52 2026] Player "Bot02" <BOT> has spawned in the server
+[Tue Jan  6 17:04:17 2026] <STEAM_0:1:455594560> gREG4IK ran command "bring bot"
+[Tue Jan  6 17:04:19 2026] <STEAM_0:1:455594560> gREG4IK ran command "bring bot 2"
+[Tue Jan  6 17:04:21 2026] <STEAM_0:1:455594560> gREG4IK ran command "bring bot2"
+[Tue Jan  6 17:04:25 2026] <STEAM_0:1:455594560> gREG4IK ran command "send Bot02"
+[Tue Jan  6 17:04:53 2026] <STEAM_0:1:455594560> gREG4IK used tool "camera"
+[Tue Jan  6 17:06:18 2026] <STEAM_0:0:561366370> TANZI: /looc нихуя себе
+[Tue Jan  6 17:06:26 2026] <STEAM_0:0:561366370> TANZI: /looc А что тут происходит?
+[Tue Jan  6 17:06:41 2026] <STEAM_0:1:455594560> gREG4IK: фотоссесия
+[Tue Jan  6 17:07:20 2026] <STEAM_0:1:455594560> gREG4IK: Товарищ ефрейтор
+[Tue Jan  6 17:07:22 2026] <STEAM_0:1:455594560> gREG4IK: ваши указания
+[Tue Jan  6 17:10:44 2026] <STEAM_0:1:455594560> gREG4IK used tool "camera"
+[Tue Jan  6 17:10:58 2026] <STEAM_0:1:455594560> gREG4IK ran command "noclip Бутуев"
+[Tue Jan  6 17:11:13 2026] <STEAM_0:1:455594560> gREG4IK ran command "noclip Бутуев"
+[Tue Jan  6 17:11:26 2026] Player "Metkiy" <STEAM_0:0:923150053> is attempting to connect.
+[Tue Jan  6 17:11:47 2026] <STEAM_0:1:455594560> gREG4IK: /event НАТО валите с нашей территории РФ
+[Tue Jan  6 17:11:53 2026] <STEAM_0:1:455594560> gREG4IK: /event У вас нет не шанса
+[Tue Jan  6 17:12:03 2026] <STEAM_0:1:455594560> gREG4IK: /event НАТО валите с нашей территории РФ у вас нет шансов на победу
+[Tue Jan  6 17:12:28 2026] Player "Metkiy" <STEAM_0:0:923150053> has spawned in the server
+[Tue Jan  6 17:13:28 2026] punk has killed gREG4IK.
+[Tue Jan  6 17:13:29 2026] gREG4IK has killed gREG4IK.
+[Tue Jan  6 17:13:40 2026] Player "txk FredBear" <STEAM_0:1:781856658> is attempting to connect.
+[Tue Jan  6 17:14:35 2026] <STEAM_0:1:455594560> gREG4IK: /rp Вышел с Воинской ЧАСТИ
+[Tue Jan  6 17:15:26 2026] Player "TANZI" <STEAM_0:0:561366370> has left the server
+[Tue Jan  6 17:16:40 2026] <STEAM_0:1:455594560> gREG4IK ran command "goto Martinez"
+[Tue Jan  6 17:16:48 2026] <STEAM_0:1:455594560> gREG4IK: Привет
+[Tue Jan  6 17:16:53 2026] <STEAM_0:1:455594560> gREG4IK: Хеллой войин
+[Tue Jan  6 17:17:14 2026] <STEAM_0:1:455594560> gREG4IK: Martinez
+[Tue Jan  6 17:18:42 2026] <STEAM_0:1:455594560> gREG4IK ran command "send Martinez"
+[Tue Jan  6 17:18:44 2026] <STEAM_0:1:455594560> gREG4IK: Martinez
+[Tue Jan  6 17:18:56 2026] <STEAM_0:1:455594560> gREG4IK: Добро пожаловать
+[Tue Jan  6 17:19:15 2026] <STEAM_0:1:455594560> gREG4IK: Ты готов Уничтожать жалких РФ
+[Tue Jan  6 17:19:47 2026] <STEAM_0:1:455594560> gREG4IK: /nato f
+[Tue Jan  6 17:19:59 2026] <STEAM_0:1:455594560> gREG4IK: /nato Панков
+[Tue Jan  6 17:20:05 2026] <STEAM_0:1:455594560> gREG4IK: /nato Панков иди на базу
+[Tue Jan  6 17:20:10 2026] <STEAM_0:1:455594560> gREG4IK: Сейчас мы тебя обучим
+[Tue Jan  6 17:20:39 2026] <STEAM_0:1:455594560> gREG4IK: щас отпишу тебе
+[Tue Jan  6 17:21:21 2026] <STEAM_0:1:455594560> gREG4IK: Поздравляю
+[Tue Jan  6 17:21:28 2026] <STEAM_0:1:455594560> gREG4IK: ТЕПЕРЬ Ты боец НАТО
+[Tue Jan  6 17:21:34 2026] <STEAM_0:1:455594560> gREG4IK: Бери любую форму
+[Tue Jan  6 17:21:40 2026] <STEAM_0:1:455594560> gREG4IK: я покажу где взять вооружени
+[Tue Jan  6 17:26:21 2026] gREG4IK has killed gREG4IK.
+[Tue Jan  6 17:27:17 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [661][sw_gaz2330]"
+[Tue Jan  6 17:29:51 2026] <STEAM_0:1:455594560> gREG4IK: /event НАТО валите с нашей территории РФ у вас нет шансов на победу
+[Tue Jan  6 17:31:16 2026] gREG4IK has killed punk.
+[Tue Jan  6 17:31:27 2026] Player "SAXAROZA" <STEAM_0:1:773566500> is attempting to connect.
+[Tue Jan  6 17:31:45 2026] Metkiy has killed Metkiy.
+[Tue Jan  6 17:31:56 2026] Player "Лесник" <STEAM_0:0:200862208> is attempting to connect.
+[Tue Jan  6 17:32:53 2026] Player "SAXAROZA" <STEAM_0:1:773566500> has spawned in the server
+[Tue Jan  6 17:33:02 2026] <STEAM_0:1:455594560> gREG4IK: /event НАТО валите с нашей территории РФ у вас нет шансов на победу
+[Tue Jan  6 17:33:55 2026] <STEAM_0:1:455594560> gREG4IK ran command "menu"
+[Tue Jan  6 17:33:58 2026] <STEAM_0:1:773566500> SAXAROZA: /me [7460] [Сахарных К.С.] {СЖТ} [12 Гв.МСП|МВ] [-] (-)
+[Tue Jan  6 17:34:08 2026] <STEAM_0:1:455594560> gREG4IK ran command "rank RCT P. B. Parker media 0"
+[Tue Jan  6 17:34:45 2026] <STEAM_0:1:455594560> gREG4IK: /ooc /noclip
+[Tue Jan  6 17:34:58 2026] <STEAM_0:1:455594560> gREG4IK: /event НАТО валите с нашей территории РФ у вас нет шансов на победу
+[Tue Jan  6 17:35:18 2026] <STEAM_0:1:455594560> gREG4IK ran command "rank RCT P. B. Parker eventolog 0"
+[Tue Jan  6 17:36:20 2026] <STEAM_0:1:773566500> SAXAROZA: Bloxwich
+[Tue Jan  6 17:36:43 2026] <STEAM_0:1:455594560> gREG4IK ran command "noclip RCT P. B. Parker"
+[Tue Jan  6 17:36:52 2026] <STEAM_0:1:455594560> gREG4IK ran command "noclip RCT P. B. RCT 2LT F. B. RCT P. B. Parker"
+[Tue Jan  6 17:37:20 2026] Player "Metkiy" <STEAM_0:0:923150053> has left the server
+[Tue Jan  6 17:38:03 2026] <STEAM_0:1:455594560> gREG4IK: /event НАТО валите с нашей территории РФ у вас нет шансов на победу
+[Tue Jan  6 17:39:37 2026] <STEAM_0:1:773566500> SAXAROZA ran command "ignite RCT P. B. Parker"
+[Tue Jan  6 17:39:53 2026] <STEAM_0:1:773566500> SAXAROZA ran command "ignite RCT P. B. Parker"
+[Tue Jan  6 17:41:20 2026] <STEAM_0:1:773566500> SAXAROZA ran command "respawn 2LT F. B. Punkov"
+[Tue Jan  6 17:41:36 2026] Player "punk" <STEAM_0:0:921324874> has left the server
+[Tue Jan  6 17:41:39 2026] Player "romankalac28" <STEAM_0:1:756922939> is attempting to connect.
+[Tue Jan  6 17:43:14 2026] Player "punk" <STEAM_0:0:921324874> is attempting to connect.
+[Tue Jan  6 17:43:39 2026] Player "Worshiper of God" <STEAM_0:0:74235942> is attempting to connect.
+[Tue Jan  6 17:43:51 2026] Player "punk" <STEAM_0:0:921324874> has spawned in the server
+[Tue Jan  6 17:44:14 2026] Player "Worshiper of God" <STEAM_0:0:74235942> has spawned in the server
+[Tue Jan  6 17:44:53 2026] <STEAM_0:1:773566500> SAXAROZA spawned SENT "Entity [599][sw_bmp2m]"
+[Tue Jan  6 17:46:00 2026] <STEAM_0:1:455594560> gREG4IK: /event НАТО валите с нашей территории РФ у вас нет шансов на победу
+[Tue Jan  6 17:46:34 2026] <STEAM_0:1:455594560> gREG4IK ran command "respawn RCT P. B. Parker"
+[Tue Jan  6 17:47:06 2026] <STEAM_0:1:455594560> gREG4IK ran command "ammo RCT P. B. Parker"
+[Tue Jan  6 17:47:12 2026] Player "Лесник" <STEAM_0:0:200862208> has spawned in the server
+[Tue Jan  6 17:47:16 2026] <STEAM_0:1:773566500> SAXAROZA spawned SENT "Entity [679][tfa_ammo_pistol]"
+[Tue Jan  6 17:47:28 2026] <STEAM_0:1:773566500> SAXAROZA spawned SENT "Entity [679][sw_bomb_fab9000m54_v3]"
+[Tue Jan  6 17:47:33 2026] SAXAROZA has killed gREG4IK.
+[Tue Jan  6 17:47:33 2026] SAXAROZA has killed SAXAROZA.
+[Tue Jan  6 17:47:33 2026] SAXAROZA has killed Лесник.
+[Tue Jan  6 17:47:42 2026] <STEAM_0:1:455594560> gREG4IK: /event НАТО валите с нашей территории РФ у вас нет шансов на победу
+[Tue Jan  6 17:47:43 2026] Player "Metkiy" <STEAM_0:0:923150053> is attempting to connect.
+[Tue Jan  6 17:47:53 2026] <STEAM_0:1:455594560> gREG4IK ran command "noclip Бутуев"
+[Tue Jan  6 17:48:07 2026] <STEAM_0:1:455594560> gREG4IK ran command "noclip Бутуев"
+[Tue Jan  6 17:48:18 2026] Worshiper of God has killed gREG4IK.
+[Tue Jan  6 17:48:23 2026] Player "Metkiy" <STEAM_0:0:923150053> has spawned in the server
+[Tue Jan  6 17:48:52 2026] <STEAM_0:1:773566500> SAXAROZA spawned SENT "Entity [607][sw_bomb_ofab250_umpk_v3]"
+[Tue Jan  6 17:49:05 2026] <STEAM_0:1:773566500> SAXAROZA spawned SENT "Entity [607][sw_bomb_fab1000m43_v3]"
+[Tue Jan  6 17:49:46 2026] <STEAM_0:0:923150053> Metkiy: /me исполнил воинское приветствие 
+[Tue Jan  6 17:50:02 2026] Worshiper of God has killed SAXAROZA.
+[Tue Jan  6 17:50:05 2026] <STEAM_0:0:200862208> Лесник: /me показал жетон военнослужащего: [1313] [В/Ч № 10220]
+[Tue Jan  6 17:50:46 2026] <STEAM_0:1:455594560> gREG4IK: https://discord.gg/VU65REqS9S
+[Tue Jan  6 17:51:49 2026] <STEAM_0:1:773566500> SAXAROZA spawned SENT "Entity [600][lvs_wheeldrive_m3a3]"
+[Tue Jan  6 17:52:36 2026] <STEAM_0:1:773566500> SAXAROZA spawned SENT "Entity [757][sw_bomb_fab1500m46_v3]"
+[Tue Jan  6 17:52:46 2026] <STEAM_0:1:773566500> SAXAROZA spawned SENT "Entity [757][sw_bomb_fab3000m54_v3]"
+[Tue Jan  6 17:52:53 2026] Metkiy has killed Bot01.
+[Tue Jan  6 17:52:53 2026] Bot01 has killed Bot01.
+[Tue Jan  6 17:52:56 2026] SAXAROZA has killed SAXAROZA.
+[Tue Jan  6 17:53:10 2026] <STEAM_0:0:200862208> Лесник: /me показал военное удостоверение [9876][Путкин Б.А ][Мл-с][ОБТФ Каскад]
+[Tue Jan  6 17:53:17 2026] <STEAM_0:0:200862208> Лесник: /me показал жетон военнослужащего: [1313] [В/Ч № 10220]
+[Tue Jan  6 17:53:19 2026] <STEAM_0:0:200862208> Лесник: /me показал военный билет: [Ип Мао Гу] {РЯД} [2-ВШР] [-] |
+[Tue Jan  6 17:53:20 2026] <STEAM_0:0:200862208> Лесник: /y Сдавайся, свинота! Другого пути нет! Выходи с поднятыми руками!
+[Tue Jan  6 17:54:37 2026] Worshiper of God has killed Metkiy.
+[Tue Jan  6 17:55:33 2026] <STEAM_0:1:455594560> gREG4IK: https://discord.gg/WVkhcVhS
+[Tue Jan  6 17:56:20 2026] <STEAM_0:1:773566500> SAXAROZA spawned SENT "Entity [790][sw_mine_tm62_v3]"
+[Tue Jan  6 17:56:22 2026] Player "༒︎シ︎ʰᵉⁿᵗᵃⁱシ" <STEAM_0:0:851601344> is attempting to connect.
+[Tue Jan  6 17:56:30 2026] <STEAM_0:0:74235942> Worshiper of God: // бля 3 раза уже ивентолог от меня отлетел
+[Tue Jan  6 17:56:35 2026] <STEAM_0:0:74235942> Worshiper of God: // как так?
+[Tue Jan  6 17:57:00 2026] <STEAM_0:1:773566500> SAXAROZA spawned SENT "Entity [791][sw_mine_pfm1_v3]"
+[Tue Jan  6 17:57:01 2026] SAXAROZA has killed SAXAROZA.
+[Tue Jan  6 17:57:28 2026] <STEAM_0:0:200862208> Лесник: /me показал военное удостоверение [9876][Путкин Б.А ][Мл-с][ОБТФ Каскад]
+[Tue Jan  6 17:58:09 2026] <STEAM_0:1:773566500> SAXAROZA spawned SENT "Entity [788][lvs_wheeldrive_hummer_tow]"
+[Tue Jan  6 17:58:15 2026] <STEAM_0:1:455594560> gREG4IK: /event НАТО валите с нашей территории РФ у вас нет шансов на победу
+[Tue Jan  6 17:58:58 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [818][sw_gaz2330]"
+[Tue Jan  6 17:59:22 2026] <STEAM_0:1:455594560> gREG4IK: /rp Выехали с Воинской Части в количестви 2 человек
+[Tue Jan  6 17:59:28 2026] <STEAM_0:0:74235942> Worshiper of God: // грег звуки музыки это помеха мешает очень сильно связи с тем что машины не слышно как работают у них звук пропадает тем самым на машинке можно кататься так чтобы не слышно было
+[Tue Jan  6 17:59:36 2026] <STEAM_0:1:455594560> gREG4IK: /ooc ок
+[Tue Jan  6 18:00:34 2026] Worshiper of God has killed Metkiy.
+[Tue Jan  6 18:01:29 2026] Worshiper of God has killed punk.
+[Tue Jan  6 18:01:33 2026] <STEAM_0:1:773566500> SAXAROZA ran command "respawn RCT P. B. Parker"
+[Tue Jan  6 18:02:48 2026] <STEAM_0:1:773566500> SAXAROZA spawned SENT "Entity [792][lvs_wheeldrive_hummer_tow]"
+[Tue Jan  6 18:02:54 2026] <STEAM_0:1:773566500> SAXAROZA spawned SENT "Entity [792][lvs_wheeldrive_hummer_tow]"
+[Tue Jan  6 18:03:45 2026] Player "༒︎シ︎ʰᵉⁿᵗᵃⁱシ" <STEAM_0:0:851601344> has spawned in the server
+[Tue Jan  6 18:04:38 2026] Player "༒︎シ︎ʰᵉⁿᵗᵃⁱシ" <STEAM_0:0:851601344> has left the server
+[Tue Jan  6 18:05:46 2026] <STEAM_0:1:773566500> SAXAROZA ran command "ammo RCT P. B. Parker"
+[Tue Jan  6 18:06:40 2026] Player "༒︎シ︎ʰᵉⁿᵗᵃⁱシ" <STEAM_0:0:851601344> is attempting to connect.
+[Tue Jan  6 18:07:02 2026] Player "༒︎シ︎ʰᵉⁿᵗᵃⁱシ" <STEAM_0:0:851601344> has spawned in the server
+[Tue Jan  6 18:07:19 2026] <STEAM_0:1:773566500> SAXAROZA ran command "respawn 2LT F. B. Punkov"
+[Tue Jan  6 18:07:30 2026] <STEAM_0:1:773566500> SAXAROZA ran command "respawn RCT P. B. Parker"
+[Tue Jan  6 18:07:30 2026] Player "༒︎シ︎ʰᵉⁿᵗᵃⁱシ" <STEAM_0:0:851601344> has left the server
+[Tue Jan  6 18:07:49 2026] <STEAM_0:1:773566500> SAXAROZA ran command "ammo RCT P. B. Parker"
+[Tue Jan  6 18:07:52 2026] <STEAM_0:0:200862208> Лесник: /y Сдавайся, свинота! Другого пути нет! Выходи с поднятыми руками!
+[Tue Jan  6 18:08:26 2026] punk has killed Лесник.
+[Tue Jan  6 18:08:26 2026] punk has killed gREG4IK.
+[Tue Jan  6 18:08:37 2026] lvs_wheeldrive_hummer_tow has killed Worshiper of God.
+[Tue Jan  6 18:08:37 2026] Worshiper of God has killed Worshiper of God.
+[Tue Jan  6 18:08:41 2026] <STEAM_0:1:455594560> gREG4IK ran command "send Путкин"
+[Tue Jan  6 18:08:55 2026] Player "THRILL PILL" <STEAM_0:0:753593633> is attempting to connect.
+[Tue Jan  6 18:09:08 2026] <STEAM_0:1:773566500> SAXAROZA ran command "stripweapons RCT P. B. Parker"
+[Tue Jan  6 18:09:24 2026] <STEAM_0:1:773566500> SAXAROZA ran command "ammo RCT P. B. Parker"
+[Tue Jan  6 18:09:40 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [607][sw_gaz2330]"
+[Tue Jan  6 18:10:15 2026] <STEAM_0:1:455594560> gREG4IK: /event Внимания НАТО начало превосходить силы РФ
+[Tue Jan  6 18:11:02 2026] Player "CYBER" <STEAM_0:0:960280432> is attempting to connect.
+[Tue Jan  6 18:11:14 2026] worldspawn has killed Metkiy.
+[Tue Jan  6 18:11:22 2026] <STEAM_0:0:200862208> Лесник: /y Сдавайся, свинота! Другого пути нет! Выходи с поднятыми руками!
+[Tue Jan  6 18:11:26 2026] Worshiper of God has killed SAXAROZA.
+[Tue Jan  6 18:11:43 2026] <STEAM_0:0:200862208> Лесник: /y Сдавайся, свинота! Другого пути нет! Выходи с поднятыми руками!
+[Tue Jan  6 18:12:06 2026] <STEAM_0:0:200862208> Лесник: /y Сдавайся, свинота! Другого пути нет! Выходи с поднятыми руками!
+[Tue Jan  6 18:12:09 2026] punk has killed Лесник.
+[Tue Jan  6 18:12:09 2026] gREG4IK has killed punk.
+[Tue Jan  6 18:12:10 2026] punk has killed punk.
+[Tue Jan  6 18:12:39 2026] <STEAM_0:1:773566500> SAXAROZA ran command "stripweapons RCT P. B. Parker"
+[Tue Jan  6 18:12:45 2026] Metkiy has killed SAXAROZA.
+[Tue Jan  6 18:12:46 2026] SAXAROZA has killed SAXAROZA.
+[Tue Jan  6 18:12:53 2026] Player "༒︎シ︎ʰᵉⁿᵗᵃⁱシ" <STEAM_0:0:851601344> is attempting to connect.
+[Tue Jan  6 18:13:14 2026] <STEAM_0:0:200862208> Лесник: /me показал военное удостоверение [9876][Путкин Б.А ][Мл-с][ОБТФ Каскад]
+[Tue Jan  6 18:13:31 2026] <STEAM_0:1:773566500> SAXAROZA ran command "ammo RCT P. B. Parker"
+[Tue Jan  6 18:13:34 2026] Player "༒︎シ︎ʰᵉⁿᵗᵃⁱシ" <STEAM_0:0:851601344> has spawned in the server
+[Tue Jan  6 18:14:39 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [862][alydus_fortificationbuildertablet]"
+[Tue Jan  6 18:14:40 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [863][alydus_fortificationbuildertablet]"
+[Tue Jan  6 18:14:40 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [864][alydus_fortificationbuildertablet]"
+[Tue Jan  6 18:14:58 2026] <STEAM_0:1:773566500> SAXAROZA ran command "ammo RCT P. B. Parker"
+[Tue Jan  6 18:15:03 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "ammo CPT A.E. Evergarden"
+[Tue Jan  6 18:15:06 2026] <STEAM_0:1:773566500> SAXAROZA spawned SENT "Entity [869][sw_matv]"
+[Tue Jan  6 18:15:15 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [871][alydus_fortificationbuildertablet]"
+[Tue Jan  6 18:15:15 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [872][alydus_fortificationbuildertablet]"
+[Tue Jan  6 18:15:16 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [869][alydus_fortificationbuildertablet]"
+[Tue Jan  6 18:15:16 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [872][alydus_fortificationbuildertablet]"
+[Tue Jan  6 18:15:16 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [874][alydus_fortificationbuildertablet]"
+[Tue Jan  6 18:15:16 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [875][alydus_fortificationbuildertablet]"
+[Tue Jan  6 18:15:16 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [876][alydus_fortificationbuildertablet]"
+[Tue Jan  6 18:15:17 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [872][alydus_fortificationbuildertablet]"
+[Tue Jan  6 18:15:17 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [875][alydus_fortificationbuildertablet]"
+[Tue Jan  6 18:15:18 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [879][alydus_fortificationbuildertablet]"
+[Tue Jan  6 18:15:28 2026] Player "Metkiy" <STEAM_0:0:923150053> has left the server
+[Tue Jan  6 18:15:31 2026] <STEAM_0:1:773566500> SAXAROZA spawned SENT "Entity [597][lvs_wheeldrive_hummer_mk19]"
+[Tue Jan  6 18:15:36 2026] <STEAM_0:1:773566500> SAXAROZA spawned SENT "Entity [597][lvs_wheeldrive_hummer_tow]"
+[Tue Jan  6 18:15:49 2026] <STEAM_0:1:773566500> SAXAROZA spawned SENT "Entity [598][lvs_wheeldrive_hummer_m240]"
+[Tue Jan  6 18:15:54 2026] <STEAM_0:1:455594560> gREG4IK: /event Внимания РФ укрепило позиции В городе, будьте аккуратны
+[Tue Jan  6 18:15:55 2026] <STEAM_0:1:773566500> SAXAROZA spawned SENT "Entity [598][lvs_wheeldrive_hummer_m134]"
+[Tue Jan  6 18:16:22 2026] Лесник has killed gREG4IK.
+[Tue Jan  6 18:16:22 2026] Лесник has killed Worshiper of God.
+[Tue Jan  6 18:16:23 2026] gREG4IK has killed gREG4IK.
+[Tue Jan  6 18:16:42 2026] <STEAM_0:1:455594560> gREG4IK ran command "goto Жнецов"
+[Tue Jan  6 18:17:08 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Worshiper of God.
+[Tue Jan  6 18:17:09 2026] Worshiper of God has killed Worshiper of God.
+[Tue Jan  6 18:17:13 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed SAXAROZA.
+[Tue Jan  6 18:17:34 2026] Player "punk" <STEAM_0:0:921324874> has left the server
+[Tue Jan  6 18:17:43 2026] <STEAM_0:1:455594560> gREG4IK: /event Внимания РФ укрепило позиции В городе, будьте аккуратны
+[Tue Jan  6 18:17:47 2026] <STEAM_0:0:74235942> Worshiper of God: // ебать у них рпг быстрое
+[Tue Jan  6 18:17:47 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Лесник.
+[Tue Jan  6 18:17:48 2026] Лесник has killed Лесник.
+[Tue Jan  6 18:17:53 2026] gREG4IK has killed SAXAROZA.
+[Tue Jan  6 18:17:54 2026] SAXAROZA has killed SAXAROZA.
+[Tue Jan  6 18:18:03 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "ammo CPT A.E. Evergarden"
+[Tue Jan  6 18:18:36 2026] <STEAM_0:1:773566500> SAXAROZA ran command "ammo RCT P. B. Parker"
+[Tue Jan  6 18:18:38 2026] <STEAM_0:1:455594560> gREG4IK: /event Внимания РФ укрепило позиции В городе, будьте аккуратны
+[Tue Jan  6 18:18:46 2026] gREG4IK has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Tue Jan  6 18:19:31 2026] SAXAROZA has killed Лесник.
+[Tue Jan  6 18:19:31 2026] sw_rocket_9m133_v3 has killed SAXAROZA.
+[Tue Jan  6 18:19:32 2026] SAXAROZA has killed SAXAROZA.
+[Tue Jan  6 18:19:44 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "ammo CPT A.E. Evergarden"
+[Tue Jan  6 18:20:16 2026] <STEAM_0:1:773566500> SAXAROZA ran command "ammo RCT P. B. Parker"
+[Tue Jan  6 18:20:25 2026] <STEAM_0:1:773566500> SAXAROZA ran command "respawn RCT P. B. Parker"
+[Tue Jan  6 18:20:31 2026] <STEAM_0:1:455594560> gREG4IK: /event Внимания РФ укрепило позиции В городе, будьте аккуратны
+[Tue Jan  6 18:20:32 2026] <STEAM_0:0:200862208> Лесник: /AD я не моуг подключиться
+[Tue Jan  6 18:20:49 2026] gREG4IK has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Tue Jan  6 18:20:50 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Tue Jan  6 18:20:54 2026] <STEAM_0:0:200862208> Лесник: я не могу подключиться!
+[Tue Jan  6 18:21:13 2026] gREG4IK has killed Worshiper of God.
+[Tue Jan  6 18:21:14 2026] Worshiper of God has killed Worshiper of God.
+[Tue Jan  6 18:21:14 2026] <STEAM_0:1:773566500> SAXAROZA ran command "respawn RCT P. B. Parker"
+[Tue Jan  6 18:21:20 2026] <STEAM_0:1:773566500> SAXAROZA ran command "ammo RCT P. B. Parker"
+[Tue Jan  6 18:21:26 2026] <STEAM_0:1:455594560> gREG4IK ran command "send Жнецов"
+[Tue Jan  6 18:21:34 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [585][revive_swep]"
+[Tue Jan  6 18:21:34 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [706][revive_swep]"
+[Tue Jan  6 18:21:35 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [707][revive_swep]"
+[Tue Jan  6 18:21:35 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [708][revive_swep]"
+[Tue Jan  6 18:21:36 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [706][revive_swep]"
+[Tue Jan  6 18:21:36 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [709][revive_swep]"
+[Tue Jan  6 18:21:40 2026] <STEAM_0:1:773566500> SAXAROZA ran command "ammo RCT P. B. Parker"
+[Tue Jan  6 18:22:02 2026] <STEAM_0:1:455594560> gREG4IK: /event Внимания РФ укрепило позиции В городе, будьте аккуратны
+[Tue Jan  6 18:22:03 2026] SAXAROZA has killed Worshiper of God.
+[Tue Jan  6 18:22:04 2026] Worshiper of God has killed Worshiper of God.
+[Tue Jan  6 18:22:10 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [589][lvs_wheeldrive_m3a3]"
+[Tue Jan  6 18:22:16 2026] Player "THRILL PILL" <STEAM_0:0:753593633> has spawned in the server
+[Tue Jan  6 18:22:19 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "ammo CPT A.E. Evergarden"
+[Tue Jan  6 18:23:10 2026] gREG4IK has killed SAXAROZA.
+[Tue Jan  6 18:23:51 2026] <STEAM_0:1:773566500> SAXAROZA ran command "ammo RCT P. B. Parker"
+[Tue Jan  6 18:23:56 2026] <STEAM_0:0:753593633> THRILL PILL: а что делать
+[Tue Jan  6 18:24:05 2026] <STEAM_0:1:773566500> SAXAROZA spawned SENT "Entity [582][sw_matv]"
+[Tue Jan  6 18:24:15 2026] gREG4IK has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Tue Jan  6 18:24:16 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Tue Jan  6 18:24:52 2026] Worshiper of God has killed Лесник.
+[Tue Jan  6 18:25:07 2026] gREG4IK has killed SAXAROZA.
+[Tue Jan  6 18:25:08 2026] SAXAROZA has killed SAXAROZA.
+[Tue Jan  6 18:25:14 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [592][lvs_wheeldrive_hummer_m134]"
+[Tue Jan  6 18:25:15 2026] <STEAM_0:0:753593633> THRILL PILL: помогите
+[Tue Jan  6 18:25:22 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "respawn RCT P. B. Parker"
+[Tue Jan  6 18:25:39 2026] <STEAM_0:1:773566500> SAXAROZA ran command "ammo RCT P. B. Parker"
+[Tue Jan  6 18:25:43 2026] <STEAM_0:0:753593633> THRILL PILL: ккопитан обучите дайте ствол
+[Tue Jan  6 18:25:53 2026] THRILL PILL has killed THRILL PILL.
+[Tue Jan  6 18:25:59 2026] <STEAM_0:0:753593633> THRILL PILL: 54
+[Tue Jan  6 18:26:07 2026] <STEAM_0:0:753593633> THRILL PILL: 546\
+[Tue Jan  6 18:26:12 2026] <STEAM_0:0:753593633> THRILL PILL: ]\']
+[Tue Jan  6 18:26:27 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "ammo CPT A.E. Evergarden"
+[Tue Jan  6 18:26:39 2026] Worshiper of God has killed SAXAROZA.
+[Tue Jan  6 18:26:41 2026] <STEAM_0:1:455594560> gREG4IK: /ooc с чего вы хуччите
+[Tue Jan  6 18:26:45 2026] gREG4IK has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Tue Jan  6 18:26:46 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Tue Jan  6 18:26:52 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // не скажем
+[Tue Jan  6 18:27:07 2026] <STEAM_0:0:753593633> THRILL PILL: /ooc ктото есть на базе нато помогите
+[Tue Jan  6 18:27:17 2026] <STEAM_0:1:455594560> gREG4IK ran command "goto Thompson"
+[Tue Jan  6 18:27:28 2026] Worshiper of God has killed Лесник.
+[Tue Jan  6 18:27:29 2026] Лесник has killed Лесник.
+[Tue Jan  6 18:27:34 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [621][lvs_wheeldrive_hummer]"
+[Tue Jan  6 18:27:42 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "ammo CPT A.E. Evergarden"
+[Tue Jan  6 18:27:45 2026] <STEAM_0:1:773566500> SAXAROZA ran command "ammo RCT P. B. Parker"
+[Tue Jan  6 18:27:52 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "ammo CPT A.E. Evergarden"
+[Tue Jan  6 18:27:53 2026] SAXAROZA has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Tue Jan  6 18:28:42 2026] <STEAM_0:1:455594560> gREG4IK: https://discord.gg/jAX3nKGK
+[Tue Jan  6 18:28:48 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "ammo CPT A.E. Evergarden"
+[Tue Jan  6 18:29:05 2026] worldspawn has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Tue Jan  6 18:29:37 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "ammo CPT A.E. Evergarden"
+[Tue Jan  6 18:30:13 2026] <STEAM_0:1:455594560> gREG4IK: /event Внимания РФ укрепило позиции В городе, будьте аккуратны
+[Tue Jan  6 18:30:29 2026] Worshiper of God has killed SAXAROZA.
+[Tue Jan  6 18:30:33 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [580][sw_gaz2330]"
+[Tue Jan  6 18:30:50 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Worshiper of God.
+[Tue Jan  6 18:30:55 2026] Лесник has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Tue Jan  6 18:31:17 2026] <STEAM_0:1:773566500> SAXAROZA ran command "ammo RCT P. B. Parker"
+[Tue Jan  6 18:31:41 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [619][lvs_wheeldrive_rp_t90m]"
+[Tue Jan  6 18:31:53 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "ammo CPT A.E. Evergarden"
+[Tue Jan  6 18:31:58 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [619][lvs_wheeldrive_nonrp_t90m]"
+[Tue Jan  6 18:32:49 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [619][lvs_wheeldrive_m3a3]"
+[Tue Jan  6 18:33:00 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [903][tfa_ins2_wpn_mossberg590]"
+[Tue Jan  6 18:33:01 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [754][tfa_m4tech]"
+[Tue Jan  6 18:33:01 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [757][tfa_m4tech]"
+[Tue Jan  6 18:33:01 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [865][tfa_m4tech]"
+[Tue Jan  6 18:33:01 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [866][tfa_m4tech]"
+[Tue Jan  6 18:33:01 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [867][tfa_m4tech]"
+[Tue Jan  6 18:33:01 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [868][tfa_m4tech]"
+[Tue Jan  6 18:33:02 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [870][tfa_m4tech]"
+[Tue Jan  6 18:33:02 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [871][tfa_m4tech]"
+[Tue Jan  6 18:33:02 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [757][tfa_m4tech]"
+[Tue Jan  6 18:33:23 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [757][lvs_wheeldrive_hummer]"
+[Tue Jan  6 18:33:33 2026] <STEAM_0:1:455594560> gREG4IK: /rp Выехал с базы
+[Tue Jan  6 18:33:47 2026] SAXAROZA has killed Worshiper of God.
+[Tue Jan  6 18:34:16 2026] gREG4IK has killed gREG4IK.
+[Tue Jan  6 18:35:20 2026] <STEAM_0:1:455594560> gREG4IK ran command "respawn Бутуев"
+[Tue Jan  6 18:35:23 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [698][tfa_at_ak_15]"
+[Tue Jan  6 18:35:24 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [755][tfa_at_ak_15]"
+[Tue Jan  6 18:35:24 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [772][tfa_at_ak_15]"
+[Tue Jan  6 18:35:24 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [773][tfa_at_ak_15]"
+[Tue Jan  6 18:35:24 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [774][tfa_at_ak_15]"
+[Tue Jan  6 18:35:25 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [698][tfa_at_ak_15]"
+[Tue Jan  6 18:35:25 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [776][tfa_at_ak_15]"
+[Tue Jan  6 18:35:34 2026] Player "Worshiper of God" <STEAM_0:0:74235942> has left the server
+[Tue Jan  6 18:35:35 2026] Player "a111vfh" <STEAM_0:1:939090595> is attempting to connect.
+[Tue Jan  6 18:35:37 2026] <STEAM_0:1:455594560> gREG4IK ran command "invisible Бутуев"
+[Tue Jan  6 18:35:48 2026] <STEAM_0:1:455594560> gREG4IK ran command "noclip Бутуев"
+[Tue Jan  6 18:35:58 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Jan  6 18:35:58 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [814][lvs_missile]"
+[Tue Jan  6 18:35:58 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Jan  6 18:35:58 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [815][lvs_missile]"
+[Tue Jan  6 18:35:58 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Jan  6 18:35:58 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [817][lvs_missile]"
+[Tue Jan  6 18:35:58 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Jan  6 18:35:58 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [819][lvs_missile]"
+[Tue Jan  6 18:35:58 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Jan  6 18:35:58 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [821][lvs_missile]"
+[Tue Jan  6 18:35:58 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Jan  6 18:35:58 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [822][lvs_missile]"
+[Tue Jan  6 18:35:58 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Jan  6 18:35:58 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [823][lvs_missile]"
+[Tue Jan  6 18:35:59 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Jan  6 18:35:59 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [824][lvs_missile]"
+[Tue Jan  6 18:35:59 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Jan  6 18:35:59 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [826][lvs_missile]"
+[Tue Jan  6 18:35:59 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Jan  6 18:35:59 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [827][lvs_missile]"
+[Tue Jan  6 18:35:59 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Jan  6 18:35:59 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [828][lvs_missile]"
+[Tue Jan  6 18:35:59 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Jan  6 18:35:59 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [829][lvs_missile]"
+[Tue Jan  6 18:35:59 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Jan  6 18:35:59 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [832][lvs_missile]"
+[Tue Jan  6 18:35:59 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Jan  6 18:35:59 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [833][lvs_missile]"
+[Tue Jan  6 18:36:00 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Jan  6 18:36:00 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [834][lvs_missile]"
+[Tue Jan  6 18:36:00 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Jan  6 18:36:00 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [836][lvs_missile]"
+[Tue Jan  6 18:36:00 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Jan  6 18:36:00 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [837][lvs_missile]"
+[Tue Jan  6 18:36:00 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Jan  6 18:36:00 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [838][lvs_missile]"
+[Tue Jan  6 18:36:00 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Jan  6 18:36:00 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [841][lvs_missile]"
+[Tue Jan  6 18:36:00 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Jan  6 18:36:00 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [814][lvs_missile]"
+[Tue Jan  6 18:36:01 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Jan  6 18:36:01 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [815][lvs_missile]"
+[Tue Jan  6 18:36:01 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Jan  6 18:36:01 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [817][lvs_missile]"
+[Tue Jan  6 18:36:01 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Jan  6 18:36:01 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [819][lvs_missile]"
+[Tue Jan  6 18:36:01 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Jan  6 18:36:01 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [821][lvs_missile]"
+[Tue Jan  6 18:36:01 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Jan  6 18:36:01 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [822][lvs_missile]"
+[Tue Jan  6 18:36:01 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Jan  6 18:36:01 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [823][lvs_missile]"
+[Tue Jan  6 18:36:02 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Jan  6 18:36:02 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [824][lvs_missile]"
+[Tue Jan  6 18:36:02 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Jan  6 18:36:02 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [826][lvs_missile]"
+[Tue Jan  6 18:36:02 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Jan  6 18:36:02 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [827][lvs_missile]"
+[Tue Jan  6 18:36:02 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Jan  6 18:36:02 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [828][lvs_missile]"
+[Tue Jan  6 18:36:02 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Jan  6 18:36:02 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [814][lvs_missile]"
+[Tue Jan  6 18:36:02 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Jan  6 18:36:02 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [815][lvs_missile]"
+[Tue Jan  6 18:36:02 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Jan  6 18:36:02 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [817][lvs_missile]"
+[Tue Jan  6 18:36:03 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Jan  6 18:36:03 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [819][lvs_missile]"
+[Tue Jan  6 18:36:03 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Jan  6 18:36:03 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [821][lvs_missile]"
+[Tue Jan  6 18:36:03 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Jan  6 18:36:03 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [822][lvs_missile]"
+[Tue Jan  6 18:36:03 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Jan  6 18:36:03 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [823][lvs_missile]"
+[Tue Jan  6 18:36:03 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Jan  6 18:36:03 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [829][lvs_missile]"
+[Tue Jan  6 18:36:03 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Jan  6 18:36:03 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [824][lvs_missile]"
+[Tue Jan  6 18:36:04 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Jan  6 18:36:04 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [814][lvs_missile]"
+[Tue Jan  6 18:36:04 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Jan  6 18:36:04 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [826][lvs_missile]"
+[Tue Jan  6 18:36:04 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Jan  6 18:36:04 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [815][lvs_missile]"
+[Tue Jan  6 18:36:04 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Jan  6 18:36:04 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [827][lvs_missile]"
+[Tue Jan  6 18:36:04 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Jan  6 18:36:04 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [817][lvs_missile]"
+[Tue Jan  6 18:36:04 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Jan  6 18:36:04 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [819][lvs_missile]"
+[Tue Jan  6 18:36:05 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Jan  6 18:36:05 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [822][lvs_missile]"
+[Tue Jan  6 18:36:05 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Jan  6 18:36:05 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [821][lvs_missile]"
+[Tue Jan  6 18:36:05 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Jan  6 18:36:05 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [823][lvs_missile]"
+[Tue Jan  6 18:36:05 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Jan  6 18:36:05 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [824][lvs_missile]"
+[Tue Jan  6 18:36:05 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Jan  6 18:36:05 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [828][lvs_missile]"
+[Tue Jan  6 18:36:06 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Jan  6 18:36:06 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [815][lvs_missile]"
+[Tue Jan  6 18:36:06 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Jan  6 18:36:06 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [814][lvs_missile]"
+[Tue Jan  6 18:36:06 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Jan  6 18:36:06 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [817][lvs_missile]"
+[Tue Jan  6 18:36:06 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Jan  6 18:36:06 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [826][lvs_missile]"
+[Tue Jan  6 18:36:06 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Jan  6 18:36:06 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [819][lvs_missile]"
+[Tue Jan  6 18:36:06 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Jan  6 18:36:06 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [821][lvs_missile]"
+[Tue Jan  6 18:36:07 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Jan  6 18:36:07 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [822][lvs_missile]"
+[Tue Jan  6 18:36:07 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Jan  6 18:36:07 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [823][lvs_missile]"
+[Tue Jan  6 18:36:07 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Jan  6 18:36:07 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [824][lvs_missile]"
+[Tue Jan  6 18:36:07 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Jan  6 18:36:07 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [827][lvs_missile]"
+[Tue Jan  6 18:36:07 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Jan  6 18:36:07 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [815][lvs_missile]"
+[Tue Jan  6 18:36:07 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Jan  6 18:36:07 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [828][lvs_missile]"
+[Tue Jan  6 18:36:07 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Jan  6 18:36:07 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [814][lvs_missile]"
+[Tue Jan  6 18:36:08 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Jan  6 18:36:08 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [817][lvs_missile]"
+[Tue Jan  6 18:36:08 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Jan  6 18:36:08 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [826][lvs_missile]"
+[Tue Jan  6 18:36:08 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Jan  6 18:36:08 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [819][lvs_missile]"
+[Tue Jan  6 18:36:08 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Jan  6 18:36:08 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [821][lvs_missile]"
+[Tue Jan  6 18:36:08 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Jan  6 18:36:08 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [829][lvs_missile]"
+[Tue Jan  6 18:36:08 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Jan  6 18:36:08 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [832][lvs_missile]"
+[Tue Jan  6 18:36:09 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Jan  6 18:36:09 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [822][lvs_missile]"
+[Tue Jan  6 18:36:09 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Jan  6 18:36:09 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [823][lvs_missile]"
+[Tue Jan  6 18:36:09 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Jan  6 18:36:09 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [827][lvs_missile]"
+[Tue Jan  6 18:36:09 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Jan  6 18:36:09 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [815][lvs_missile]"
+[Tue Jan  6 18:36:09 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Jan  6 18:36:09 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [814][lvs_missile]"
+[Tue Jan  6 18:36:09 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Jan  6 18:36:09 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [828][lvs_missile]"
+[Tue Jan  6 18:36:10 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Jan  6 18:36:10 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [817][lvs_missile]"
+[Tue Jan  6 18:36:10 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Jan  6 18:36:10 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [819][lvs_missile]"
+[Tue Jan  6 18:36:10 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Jan  6 18:36:10 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [824][lvs_missile]"
+[Tue Jan  6 18:36:10 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Jan  6 18:36:10 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [826][lvs_missile]"
+[Tue Jan  6 18:36:10 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Jan  6 18:36:10 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [822][lvs_missile]"
+[Tue Jan  6 18:36:10 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Jan  6 18:36:10 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [821][lvs_missile]"
+[Tue Jan  6 18:36:10 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Jan  6 18:36:10 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [823][lvs_missile]"
+[Tue Jan  6 18:36:11 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Jan  6 18:36:11 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [827][lvs_missile]"
+[Tue Jan  6 18:36:11 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Jan  6 18:36:11 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [829][lvs_missile]"
+[Tue Jan  6 18:36:11 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Jan  6 18:36:11 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [815][lvs_missile]"
+[Tue Jan  6 18:36:11 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Jan  6 18:36:11 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [814][lvs_missile]"
+[Tue Jan  6 18:36:11 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Jan  6 18:36:11 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [828][lvs_missile]"
+[Tue Jan  6 18:36:11 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Jan  6 18:36:11 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [817][lvs_missile]"
+[Tue Jan  6 18:36:12 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Jan  6 18:36:12 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [819][lvs_missile]"
+[Tue Jan  6 18:36:12 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Jan  6 18:36:12 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [824][lvs_missile]"
+[Tue Jan  6 18:36:12 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Jan  6 18:36:12 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [832][lvs_missile]"
+[Tue Jan  6 18:36:17 2026] THRILL PILL has killed SAXAROZA.
+[Tue Jan  6 18:36:18 2026] SAXAROZA has killed SAXAROZA.
+[Tue Jan  6 18:36:21 2026] <STEAM_0:1:455594560> gREG4IK ran command "noclip Бутуев"
+[Tue Jan  6 18:36:21 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Tue Jan  6 18:36:22 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Tue Jan  6 18:36:22 2026] <STEAM_0:1:455594560> gREG4IK ran command "invisible Бутуев"
+[Tue Jan  6 18:36:58 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [616][lvs_wheeldrive_hummer_mk19]"
+[Tue Jan  6 18:36:59 2026] <STEAM_0:1:773566500> SAXAROZA ran command "ammo RCT P. B. Parker"
+[Tue Jan  6 18:37:35 2026] <STEAM_0:1:773566500> SAXAROZA ran command "respawn RCT P. B. Parker"
+[Tue Jan  6 18:37:46 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "extinguish CPT A.E. Evergarden"
+[Tue Jan  6 18:37:47 2026] <STEAM_0:1:773566500> SAXAROZA ran command "ammo RCT P. B. Parker"
+[Tue Jan  6 18:38:05 2026] <STEAM_0:1:455594560> gREG4IK: /rp Выехал с базы
+[Tue Jan  6 18:38:11 2026] <STEAM_0:0:200862208> Лесник: /me показал военное удостоверение [9876][Путкин Б.А ][Мл-с][ОБТФ Каскад]
+[Tue Jan  6 18:38:12 2026] <STEAM_0:0:200862208> Лесник: /me показал военное удостоверение [9876][Путкин Б.А ][Мл-с][ОБТФ Каскад]
+[Tue Jan  6 18:38:13 2026] <STEAM_0:0:200862208> Лесник: /me показал военное удостоверение [9876][Путкин Б.А ][Мл-с][ОБТФ Каскад]
+[Tue Jan  6 18:38:17 2026] <STEAM_0:0:200862208> Лесник: /me показал военное удостоверение [9876][Путкин Б.А ][Мл-с][ОБТФ Каскад]
+[Tue Jan  6 18:38:19 2026] <STEAM_0:1:455594560> gREG4IK: /event НАТО укрепило свои позиции в городе
+[Tue Jan  6 18:39:15 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "extinguish CPT A.E. Evergarden"
+[Tue Jan  6 18:39:19 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "ammo CPT A.E. Evergarden"
+[Tue Jan  6 18:39:30 2026] <STEAM_0:0:200862208> Лесник: /me показал жетон военнослужащего: [1313] [В/Ч № 10220]
+[Tue Jan  6 18:39:30 2026] <STEAM_0:1:455594560> gREG4IK: /s
+[Tue Jan  6 18:39:41 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed SAXAROZA.
+[Tue Jan  6 18:39:41 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Tue Jan  6 18:39:42 2026] SAXAROZA has killed SAXAROZA.
+[Tue Jan  6 18:40:04 2026] <STEAM_0:0:200862208> Лесник: /me выбил оружие
+[Tue Jan  6 18:40:31 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "ammo CPT A.E. Evergarden"
+[Tue Jan  6 18:40:39 2026] <STEAM_0:1:773566500> SAXAROZA ran command "hp RCT P. B. Parker 100000000"
+[Tue Jan  6 18:41:04 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed gREG4IK.
+[Tue Jan  6 18:41:04 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Лесник.
+[Tue Jan  6 18:41:34 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Лесник.
+[Tue Jan  6 18:41:35 2026] Лесник has killed Лесник.
+[Tue Jan  6 18:41:54 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [600][lvs_trailer_flak]"
+[Tue Jan  6 18:42:01 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [600][lfs_grdn_ah1g]"
+[Tue Jan  6 18:42:11 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [607][lvs_wheeldrive_rp_t90m]"
+[Tue Jan  6 18:42:16 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [607][lvs_wheeldrive_rp_t90m]"
+[Tue Jan  6 18:42:18 2026] <STEAM_0:1:773566500> SAXAROZA ran command "ammo RCT P. B. Parker"
+[Tue Jan  6 18:42:19 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [827][lvs_wheeldrive_rp_t90m]"
+[Tue Jan  6 18:42:19 2026] lvs_wheeldrive_rp_t90m has killed gREG4IK.
+[Tue Jan  6 18:42:38 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [694][lvs_wheeldrive_rp_t90m]"
+[Tue Jan  6 18:44:13 2026] <STEAM_0:0:200862208> Лесник: /me показал военное удостоверение [9876][Путкин Б.А ][Мл-с][ОБТФ Каскад]
+[Tue Jan  6 18:44:42 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed THRILL PILL.
+[Tue Jan  6 18:44:42 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Tue Jan  6 18:44:43 2026] THRILL PILL has killed THRILL PILL.
+[Tue Jan  6 18:44:43 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [604][lvs_wheeldrive_rp_t90m]"
+[Tue Jan  6 18:44:45 2026] <STEAM_0:1:773566500> SAXAROZA ran command "ammo RCT P. B. Parker"
+[Tue Jan  6 18:44:53 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [827][tfa_at_ak_15]"
+[Tue Jan  6 18:44:53 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [828][tfa_at_ak_15]"
+[Tue Jan  6 18:44:54 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [829][tfa_at_ak_15]"
+[Tue Jan  6 18:44:54 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [830][tfa_at_ak_15]"
+[Tue Jan  6 18:44:54 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [832][tfa_at_ak_15]"
+[Tue Jan  6 18:44:54 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [833][tfa_at_ak_15]"
+[Tue Jan  6 18:44:54 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [834][tfa_at_ak_15]"
+[Tue Jan  6 18:44:55 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [835][tfa_at_ak_15]"
+[Tue Jan  6 18:44:57 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [827][tfa_at_ak_15]"
+[Tue Jan  6 18:44:57 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [828][tfa_at_ak_15]"
+[Tue Jan  6 18:44:57 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [829][tfa_at_ak_15]"
+[Tue Jan  6 18:44:58 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [846][tfa_at_ak_15]"
+[Tue Jan  6 18:44:58 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [847][tfa_at_ak_15]"
+[Tue Jan  6 18:45:00 2026] <STEAM_0:0:753593633> THRILL PILL: помогите
+[Tue Jan  6 18:45:11 2026] <STEAM_0:1:773566500> SAXAROZA ran command "respawn RCT P. B. Parker"
+[Tue Jan  6 18:45:17 2026] <STEAM_0:1:773566500> SAXAROZA ran command "ammo RCT P. B. Parker"
+[Tue Jan  6 18:45:43 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "ammo CPT A.E. Evergarden"
+[Tue Jan  6 18:45:59 2026] <STEAM_0:1:455594560> gREG4IK: /event НАТО укрепило свои позиции в городе
+[Tue Jan  6 18:46:21 2026] SAXAROZA has killed gREG4IK.
+[Tue Jan  6 18:46:21 2026] SAXAROZA has killed Лесник.
+[Tue Jan  6 18:46:21 2026] Лесник has killed Лесник.
+[Tue Jan  6 18:46:34 2026] <STEAM_0:1:455594560> gREG4IK ran command "send Путкин"
+[Tue Jan  6 18:46:40 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [616][tfa_ins2_warface_orsis_t5000]"
+[Tue Jan  6 18:46:40 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [684][tfa_ins2_warface_orsis_t5000]"
+[Tue Jan  6 18:46:40 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [686][tfa_ins2_warface_orsis_t5000]"
+[Tue Jan  6 18:46:41 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [689][tfa_ins2_warface_orsis_t5000]"
+[Tue Jan  6 18:46:41 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [696][tfa_ins2_warface_orsis_t5000]"
+[Tue Jan  6 18:46:41 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [697][tfa_ins2_warface_orsis_t5000]"
+[Tue Jan  6 18:46:41 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [700][tfa_ins2_warface_orsis_t5000]"
+[Tue Jan  6 18:46:41 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [686][tfa_ins2_warface_orsis_t5000]"
+[Tue Jan  6 18:46:42 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [689][tfa_ins2_warface_orsis_t5000]"
+[Tue Jan  6 18:47:10 2026] <STEAM_0:1:455594560> gREG4IK: unbind b
+[Tue Jan  6 18:47:28 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [686][sw_rocket_9m127_v3]"
+[Tue Jan  6 18:47:30 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [705][sw_rocket_9m127_v3]"
+[Tue Jan  6 18:47:39 2026] <STEAM_0:1:455594560> gREG4IK: /rp Мы вас ПОБЕДИМ!!!
+[Tue Jan  6 18:47:49 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [705][sw_bomb_kab50tv_v3]"
+[Tue Jan  6 18:47:51 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [707][sw_bomb_kab50tv_v3]"
+[Tue Jan  6 18:47:56 2026] <STEAM_0:1:773566500> SAXAROZA ran command "ammo RCT Thompson"
+[Tue Jan  6 18:47:59 2026] gREG4IK has killed Bot02.
+[Tue Jan  6 18:48:12 2026] SAXAROZA has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Tue Jan  6 18:48:13 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Tue Jan  6 18:48:23 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [705][tfa_ins2_ax50_upver]"
+[Tue Jan  6 18:48:24 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [707][tfa_ins2_ax50_upver]"
+[Tue Jan  6 18:48:24 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [708][tfa_ins2_ax50_upver]"
+[Tue Jan  6 18:48:24 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [710][tfa_ins2_ax50_upver]"
+[Tue Jan  6 18:48:25 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [705][tfa_ins2_ax50_upver]"
+[Tue Jan  6 18:48:25 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [707][tfa_ins2_ax50_upver]"
+[Tue Jan  6 18:48:26 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [705][tfa_ins2_ax50_upver]"
+[Tue Jan  6 18:48:26 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [707][tfa_ins2_ax50_upver]"
+[Tue Jan  6 18:48:26 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [708][tfa_ins2_ax50_upver]"
+[Tue Jan  6 18:48:27 2026] <STEAM_0:0:200862208> Лесник: https://discord.gg/m9MFYp2gDq
+[Tue Jan  6 18:48:38 2026] <STEAM_0:0:200862208> Лесник: /me выбил оружие
+[Tue Jan  6 18:48:59 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "ammo CPT A.E. Evergarden"
+[Tue Jan  6 18:49:00 2026] <STEAM_0:1:455594560> gREG4IK: unbind b
+[Tue Jan  6 18:49:30 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [595][tfa_ins2_wpn_rpkalash]"
+[Tue Jan  6 18:49:31 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [724][tfa_ins2_pkp]"
+[Tue Jan  6 18:49:31 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [726][tfa_ins2_pkp]"
+[Tue Jan  6 18:49:31 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [727][tfa_ins2_pkp]"
+[Tue Jan  6 18:49:32 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [728][tfa_ins2_pkp]"
+[Tue Jan  6 18:49:33 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [726][tfa_ins2_pkp]"
+[Tue Jan  6 18:49:33 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [727][tfa_ins2_pkp]"
+[Tue Jan  6 18:49:33 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [728][tfa_ins2_pkp]"
+[Tue Jan  6 18:49:33 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [729][tfa_ins2_pkp]"
+[Tue Jan  6 18:49:34 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [726][tfa_ins2_pkp]"
+[Tue Jan  6 18:49:34 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [727][tfa_ins2_pkp]"
+[Tue Jan  6 18:49:34 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [728][tfa_ins2_pkp]"
+[Tue Jan  6 18:49:34 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [730][tfa_ins2_pkp]"
+[Tue Jan  6 18:49:42 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [728][sw_gaz2330]"
+[Tue Jan  6 18:49:50 2026] <STEAM_0:0:200862208> Лесник: /me показал военное удостоверение [9876][Путкин Б.А ][Мл-с][ОБТФ Каскад]
+[Tue Jan  6 18:49:53 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [726][sw_gaz2330]"
+[Tue Jan  6 18:50:33 2026] <STEAM_0:1:773566500> SAXAROZA ran command "ammo RCT P. B. Parker"
+[Tue Jan  6 18:50:38 2026] <STEAM_0:1:773566500> SAXAROZA: Bloxwich
+[Tue Jan  6 18:50:59 2026] <STEAM_0:1:773566500> SAXAROZA ran command "ammo RCT P. B. Parker"
+[Tue Jan  6 18:51:10 2026] gREG4IK has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Tue Jan  6 18:51:37 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "ammo CPT A.E. Evergarden"
+[Tue Jan  6 18:51:50 2026] THRILL PILL has killed Лесник.
+[Tue Jan  6 18:51:51 2026] Лесник has killed Лесник.
+[Tue Jan  6 18:52:04 2026] <STEAM_0:0:200862208> Лесник: МЁРТВ
+[Tue Jan  6 18:52:11 2026] gREG4IK has killed THRILL PILL.
+[Tue Jan  6 18:52:14 2026] <STEAM_0:0:200862208> Лесник: я мёртв
+[Tue Jan  6 18:52:15 2026] gREG4IK has killed SAXAROZA.
+[Tue Jan  6 18:52:26 2026] gREG4IK has killed SAXAROZA.
+[Tue Jan  6 18:52:27 2026] SAXAROZA has killed SAXAROZA.
+[Tue Jan  6 18:52:37 2026] gREG4IK has killed THRILL PILL.
+[Tue Jan  6 18:52:39 2026] gREG4IK has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Tue Jan  6 18:52:40 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Tue Jan  6 18:53:14 2026] <STEAM_0:1:773566500> SAXAROZA ran command "ammo RCT P. B. Parker"
+[Tue Jan  6 18:53:23 2026] gREG4IK has killed SAXAROZA.
+[Tue Jan  6 18:53:38 2026] gREG4IK has killed THRILL PILL.
+[Tue Jan  6 18:54:06 2026] <STEAM_0:1:773566500> SAXAROZA ran command "ammo RCT P. B. Parker"
+[Tue Jan  6 18:54:06 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "ammo CPT A.E. Evergarden"
+[Tue Jan  6 18:54:09 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed gREG4IK.
+[Tue Jan  6 18:54:10 2026] gREG4IK has killed gREG4IK.
+[Tue Jan  6 18:54:34 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "respawn RCT Thompson"
+[Tue Jan  6 18:54:40 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [807][sw_rocket_3m54_v3]"
+[Tue Jan  6 18:54:45 2026] <STEAM_0:1:773566500> SAXAROZA spawned SENT "Entity [809][item_suit]"
+[Tue Jan  6 18:54:49 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed SAXAROZA.
+[Tue Jan  6 18:54:50 2026] SAXAROZA has killed SAXAROZA.
+[Tue Jan  6 18:55:06 2026] <STEAM_0:1:773566500> SAXAROZA spawned SENT "Entity [692][item_suit]"
+[Tue Jan  6 18:55:07 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [693][sw_bomb_brab1000m43_v3]"
+[Tue Jan  6 18:55:10 2026] <STEAM_0:1:773566500> SAXAROZA spawned SENT "Entity [692][item_rpg_round]"
+[Tue Jan  6 18:55:17 2026] <STEAM_0:1:773566500> SAXAROZA spawned SENT "Entity [689][grenade_helicopter]"
+[Tue Jan  6 18:55:24 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [689][sw_bomb_brab1000m43_v3]"
+[Tue Jan  6 18:55:26 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [692][sw_bomb_brab1000m43_v3]"
+[Tue Jan  6 18:55:28 2026] <STEAM_0:1:773566500> SAXAROZA spawned SENT "Entity [689][combine_mine]"
+[Tue Jan  6 18:55:37 2026] <STEAM_0:1:773566500> SAXAROZA spawned SENT "Entity [696][item_healthcharger]"
+[Tue Jan  6 18:55:48 2026] <STEAM_0:1:773566500> SAXAROZA spawned SENT "Entity [810][item_healthvial]"
+[Tue Jan  6 18:55:54 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [689][sw_bomb_kab1500l_v3]"
+[Tue Jan  6 18:55:56 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [692][sw_bomb_kab1500l_v3]"
+[Tue Jan  6 18:55:57 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Tue Jan  6 18:55:58 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Tue Jan  6 18:56:18 2026] <STEAM_0:1:455594560> gREG4IK ran command "noclip Бутуев"
+[Tue Jan  6 18:56:30 2026] <STEAM_0:1:455594560> gREG4IK ran command "noclip Бутуев"
+[Tue Jan  6 18:56:47 2026] <STEAM_0:1:773566500> SAXAROZA spawned SENT "Entity [720][grenade_helicopter]"
+[Tue Jan  6 18:56:49 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "ammo CPT A.E. Evergarden"
+[Tue Jan  6 18:57:12 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Лесник.
+[Tue Jan  6 18:57:17 2026] <STEAM_0:1:773566500> SAXAROZA spawned SENT "Entity [595][grenade_helicopter]"
+[Tue Jan  6 18:57:25 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed SAXAROZA.
+[Tue Jan  6 18:57:26 2026] SAXAROZA has killed SAXAROZA.
+[Tue Jan  6 18:57:37 2026] gREG4IK has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Tue Jan  6 18:57:38 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Tue Jan  6 18:57:42 2026] gREG4IK has killed SAXAROZA.
+[Tue Jan  6 18:57:43 2026] SAXAROZA has killed SAXAROZA.
+[Tue Jan  6 18:58:34 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "ammo CPT A.E. Evergarden"
+[Tue Jan  6 18:58:38 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [686][lvs_wheeldrive_m3a3]"
+[Tue Jan  6 18:58:38 2026] lvs_wheeldrive_m3a3 has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Tue Jan  6 18:58:46 2026] Player "༒︎シ︎ʰᵉⁿᵗᵃⁱシ" <STEAM_0:0:851601344> has left the server
+[Tue Jan  6 18:59:03 2026] <STEAM_0:1:773566500> SAXAROZA spawned SENT "Entity [620][lvs_trailer_flak]"
+[Tue Jan  6 18:59:26 2026] <STEAM_0:1:773566500> SAXAROZA spawned vehicle "Vehicle [620][prop_vehicle_jeep_old]"
+[Tue Jan  6 18:59:46 2026] <STEAM_0:1:773566500> SAXAROZA spawned SENT "Entity [620][lvs_missile]"
+[Tue Jan  6 18:59:48 2026] <STEAM_0:1:773566500> SAXAROZA spawned SENT "Entity [620][lvs_missile]"
+[Tue Jan  6 18:59:50 2026] <STEAM_0:1:773566500> SAXAROZA spawned SENT "Entity [661][lvs_missile]"
+[Tue Jan  6 18:59:50 2026] <STEAM_0:1:773566500> SAXAROZA spawned SENT "Entity [672][lvs_missile]"
+[Tue Jan  6 18:59:50 2026] <STEAM_0:1:773566500> SAXAROZA spawned SENT "Entity [620][lvs_missile]"
+[Tue Jan  6 18:59:50 2026] <STEAM_0:1:773566500> SAXAROZA spawned SENT "Entity [674][lvs_missile]"
+[Tue Jan  6 18:59:51 2026] <STEAM_0:1:773566500> SAXAROZA spawned SENT "Entity [675][lvs_missile]"
+[Tue Jan  6 18:59:51 2026] <STEAM_0:1:773566500> SAXAROZA spawned SENT "Entity [680][lvs_missile]"
+[Tue Jan  6 18:59:51 2026] <STEAM_0:1:773566500> SAXAROZA spawned SENT "Entity [681][lvs_missile]"
+[Tue Jan  6 18:59:57 2026] gREG4IK has killed THRILL PILL.
+[Tue Jan  6 19:00:37 2026] <STEAM_0:1:455594560> gREG4IK ran command "ammo Бутуев"
+[Tue Jan  6 19:01:13 2026] <STEAM_0:1:455594560> gREG4IK: /ooc хорошо воюете
+[Tue Jan  6 19:01:21 2026] Player "SAXAROZA" <STEAM_0:1:773566500> has left the server
+[Tue Jan  6 19:01:49 2026] <STEAM_0:0:200862208> Лесник: /y Сдавайся, свинота! Другого пути нет! Выходи с поднятыми руками!
+[Tue Jan  6 19:02:08 2026] <STEAM_0:1:455594560> gREG4IK ran command "noclip Бутуев"
+[Tue Jan  6 19:02:15 2026] <STEAM_0:1:455594560> gREG4IK ran command "send RCT Thompson"
+[Tue Jan  6 19:02:18 2026] <STEAM_0:1:455594560> gREG4IK ran command "noclip Бутуев"
+[Tue Jan  6 19:02:54 2026] <STEAM_0:1:455594560> gREG4IK: Я понял
+[Tue Jan  6 19:03:40 2026] <STEAM_0:1:455594560> gREG4IK ran command "send Путкин"
+[Tue Jan  6 19:04:00 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [851][tfa_at_ak_15]"
+[Tue Jan  6 19:04:00 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [852][tfa_at_ak_15]"
+[Tue Jan  6 19:04:00 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [853][tfa_at_ak_15]"
+[Tue Jan  6 19:04:00 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [854][tfa_at_ak_15]"
+[Tue Jan  6 19:05:30 2026] <STEAM_0:1:455594560> gREG4IK ran command "send Bot01"
+[Tue Jan  6 19:05:36 2026] <STEAM_0:1:455594560> gREG4IK ran command "send Bot02"
+[Tue Jan  6 19:05:40 2026] Лесник has killed Bot01.
+[Tue Jan  6 19:05:40 2026] worldspawn has killed Bot02.
+[Tue Jan  6 19:05:41 2026] Bot01 has killed Bot01.
+[Tue Jan  6 19:05:44 2026] <STEAM_0:1:455594560> gREG4IK ran command "send Bot01"
+[Tue Jan  6 19:05:47 2026] <STEAM_0:1:455594560> gREG4IK ran command "send Bot02"
+[Tue Jan  6 19:05:49 2026] Лесник has killed Bot01.
+[Tue Jan  6 19:05:50 2026] Bot01 has killed Bot01.
+[Tue Jan  6 19:05:52 2026] THRILL PILL has killed Bot02.
+[Tue Jan  6 19:05:52 2026] Bot02 has killed Bot02.
+[Tue Jan  6 19:07:52 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [671][tfa_ins2_wpn_aks74ukor]"
+[Tue Jan  6 19:07:53 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [758][tfa_ins2_wpn_aks74ukor]"
+[Tue Jan  6 19:07:53 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [856][tfa_ins2_wpn_aks74ukor]"
+[Tue Jan  6 19:07:53 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [857][tfa_ins2_wpn_aks74ukor]"
+[Tue Jan  6 19:07:53 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [858][tfa_ins2_wpn_aks74ukor]"
+[Tue Jan  6 19:07:53 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [859][tfa_ins2_wpn_aks74ukor]"
+[Tue Jan  6 19:07:54 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [860][tfa_ins2_wpn_aks74ukor]"
+[Tue Jan  6 19:07:54 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [861][tfa_ins2_wpn_aks74ukor]"
+[Tue Jan  6 19:07:54 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [758][tfa_ins2_wpn_aks74ukor]"
+[Tue Jan  6 19:07:54 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [862][tfa_ins2_wpn_aks74ukor]"
+[Tue Jan  6 19:07:54 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [863][tfa_ins2_wpn_aks74ukor]"
+[Tue Jan  6 19:07:54 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [857][tfa_ins2_wpn_aks74ukor]"
+[Tue Jan  6 19:08:22 2026] <STEAM_0:1:455594560> gREG4IK: unbind b
+[Tue Jan  6 19:08:43 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [858][tfa_ins2_ax50_upver]"
+[Tue Jan  6 19:08:43 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [859][tfa_ins2_ax50_upver]"
+[Tue Jan  6 19:08:44 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [860][tfa_ins2_ax50_upver]"
+[Tue Jan  6 19:08:44 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [859][tfa_ins2_ax50_upver]"
+[Tue Jan  6 19:08:45 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [861][tfa_ins2_ax50_upver]"
+[Tue Jan  6 19:08:45 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [862][tfa_ins2_ax50_upver]"
+[Tue Jan  6 19:08:45 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [863][tfa_ins2_ax50_upver]"
+[Tue Jan  6 19:08:45 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [864][tfa_ins2_ax50_upver]"
+[Tue Jan  6 19:08:45 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [860][tfa_ins2_ax50_upver]"
+[Tue Jan  6 19:08:46 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [861][tfa_ins2_ax50_upver]"
+[Tue Jan  6 19:08:46 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [862][tfa_ins2_warface_awm]"
+[Tue Jan  6 19:08:47 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [860][tfa_ins2_warface_awm]"
+[Tue Jan  6 19:08:47 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [863][tfa_ins2_warface_awm]"
+[Tue Jan  6 19:08:47 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [861][tfa_ins2_warface_awm]"
+[Tue Jan  6 19:08:47 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [864][tfa_ins2_warface_awm]"
+[Tue Jan  6 19:08:47 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [865][tfa_ins2_warface_awm]"
+[Tue Jan  6 19:08:47 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [866][tfa_ins2_warface_awm]"
+[Tue Jan  6 19:08:48 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [861][tfa_ins2_warface_cheytac_m200]"
+[Tue Jan  6 19:08:48 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [863][tfa_ins2_warface_cheytac_m200]"
+[Tue Jan  6 19:08:48 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [864][tfa_ins2_warface_cheytac_m200]"
+[Tue Jan  6 19:08:49 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [865][tfa_ins2_warface_cheytac_m200]"
+[Tue Jan  6 19:08:49 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [866][tfa_ins2_warface_cheytac_m200]"
+[Tue Jan  6 19:08:49 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [867][tfa_ins2_warface_cheytac_m200]"
+[Tue Jan  6 19:08:49 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [868][tfa_ins2_warface_cheytac_m200]"
+[Tue Jan  6 19:08:49 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [863][tfa_ins2_barrett_m98_bravo]"
+[Tue Jan  6 19:08:50 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [864][tfa_ins2_barrett_m98_bravo]"
+[Tue Jan  6 19:08:50 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [865][tfa_ins2_barrett_m98_bravo]"
+[Tue Jan  6 19:08:50 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [866][tfa_ins2_barrett_m98_bravo]"
+[Tue Jan  6 19:08:50 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [867][tfa_ins2_barrett_m98_bravo]"
+[Tue Jan  6 19:08:50 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [868][tfa_ins2_barrett_m98_bravo]"
+[Tue Jan  6 19:08:50 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [869][tfa_ins2_barrett_m98_bravo]"
+[Tue Jan  6 19:08:51 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [870][tfa_ins2_barrett_m98_bravo]"
+[Tue Jan  6 19:08:54 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [864][tfa_ins2_warface_orsis_t5000]"
+[Tue Jan  6 19:08:54 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [865][tfa_ins2_warface_orsis_t5000]"
+[Tue Jan  6 19:08:54 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [866][tfa_ins2_warface_orsis_t5000]"
+[Tue Jan  6 19:08:55 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [867][tfa_ins2_warface_orsis_t5000]"
+[Tue Jan  6 19:08:55 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [868][tfa_ins2_warface_orsis_t5000]"
+[Tue Jan  6 19:08:56 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [865][tfa_ins2_pd2_remington_msr]"
+[Tue Jan  6 19:08:56 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [866][tfa_ins2_pd2_remington_msr]"
+[Tue Jan  6 19:08:56 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [868][tfa_ins2_pd2_remington_msr]"
+[Tue Jan  6 19:08:56 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [869][tfa_ins2_pd2_remington_msr]"
+[Tue Jan  6 19:08:56 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [870][tfa_ins2_pd2_remington_msr]"
+[Tue Jan  6 19:08:56 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [941][tfa_ins2_pd2_remington_msr]"
+[Tue Jan  6 19:08:56 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [942][tfa_ins2_pd2_remington_msr]"
+[Tue Jan  6 19:08:57 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [866][tfa_ins2_remington_m24_sws]"
+[Tue Jan  6 19:08:57 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [869][tfa_ins2_remington_m24_sws]"
+[Tue Jan  6 19:08:57 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [870][tfa_ins2_remington_m24_sws]"
+[Tue Jan  6 19:08:58 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [941][tfa_ins2_remington_m24_sws]"
+[Tue Jan  6 19:08:58 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [942][tfa_ins2_remington_m24_sws]"
+[Tue Jan  6 19:08:58 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [943][tfa_ins2_remington_m24_sws]"
+[Tue Jan  6 19:09:08 2026] Player "Лесник" <STEAM_0:0:200862208> has left the server
+[Tue Jan  6 19:09:34 2026] Player "Лесник" <STEAM_0:0:200862208> is attempting to connect.
+[Tue Jan  6 19:10:24 2026] Player "Лесник" <STEAM_0:0:200862208> has spawned in the server
+[Tue Jan  6 19:10:51 2026] <STEAM_0:1:455594560> gREG4IK ran command "send Путкин"
+[Tue Jan  6 19:10:57 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [607][tfa_inss2_hk_mp5a5]"
+[Tue Jan  6 19:10:57 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [677][tfa_inss2_hk_mp5a5]"
+[Tue Jan  6 19:10:57 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [682][tfa_inss2_hk_mp5a5]"
+[Tue Jan  6 19:10:58 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [816][tfa_inss2_hk_mp5a5]"
+[Tue Jan  6 19:11:06 2026] <STEAM_0:1:455594560> gREG4IK ran command "send Bot02"
+[Tue Jan  6 19:11:09 2026] <STEAM_0:1:455594560> gREG4IK ran command "send Bot01"
+[Tue Jan  6 19:11:10 2026] THRILL PILL has killed Bot01.
+[Tue Jan  6 19:11:14 2026] <STEAM_0:1:455594560> gREG4IK ran command "send Bot01"
+[Tue Jan  6 19:11:17 2026] <STEAM_0:1:455594560> gREG4IK ran command "send Bot02"
+[Tue Jan  6 19:11:19 2026] THRILL PILL has killed Bot02.
+[Tue Jan  6 19:11:20 2026] Bot02 has killed Bot02.
+[Tue Jan  6 19:11:25 2026] <STEAM_0:1:455594560> gREG4IK ran command "send Bot02"
+[Tue Jan  6 19:11:27 2026] <STEAM_0:1:455594560> gREG4IK ran command "send Bot01"
+[Tue Jan  6 19:11:29 2026] THRILL PILL has killed Bot02.
+[Tue Jan  6 19:11:30 2026] Bot02 has killed Bot02.
+[Tue Jan  6 19:11:33 2026] THRILL PILL has killed Bot01.
+[Tue Jan  6 19:11:34 2026] Bot01 has killed Bot01.
+[Tue Jan  6 19:11:38 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [666][tfa_ins2_galil]"
+[Tue Jan  6 19:11:39 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [682][tfa_inss2_hk_mp5a5]"
+[Tue Jan  6 19:11:40 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [854][tfa_ins2_hk_mg36]"
+[Tue Jan  6 19:11:40 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [859][tfa_ins2_wpn_hkg36compact]"
+[Tue Jan  6 19:11:41 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [860][tfa_ins2_wpn_imigalilarm]"
+[Tue Jan  6 19:11:42 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [869][tfa_ins2_fas2_g36c]"
+[Tue Jan  6 19:11:42 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [870][tfa_ins2_wpn_hkg36compact]"
+[Tue Jan  6 19:11:42 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [941][tfa_ins2_fn_fal]"
+[Tue Jan  6 19:11:42 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [942][tfa_ins2_fn_fal]"
+[Tue Jan  6 19:11:43 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [943][tfa_ins2_famas]"
+[Tue Jan  6 19:11:43 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [944][tfa_ins2_wpn_imigalilsar]"
+[Tue Jan  6 19:11:44 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [945][tfa_ins2_wpn_imigalilsar]"
+[Tue Jan  6 19:11:44 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [946][tfa_ins2_wpn_imigalilsar]"
+[Tue Jan  6 19:11:44 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [947][tfa_ins2_wpn_imigalilsar]"
+[Tue Jan  6 19:11:44 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [948][tfa_ins2_wpn_imigalilsar]"
+[Tue Jan  6 19:12:09 2026] <STEAM_0:0:200862208> Лесник: /me выбил оружие
+[Tue Jan  6 19:12:17 2026] <STEAM_0:1:455594560> gREG4IK: unbind "b"
+[Tue Jan  6 19:15:36 2026] <STEAM_0:1:455594560> gREG4IK used tool "camera"
+[Tue Jan  6 19:15:49 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [628][tfa_ins2_warface_awm]"
+[Tue Jan  6 19:15:49 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [629][tfa_ins2_warface_awm]"
+[Tue Jan  6 19:15:50 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [630][tfa_ins2_warface_awm]"
+[Tue Jan  6 19:15:50 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [631][tfa_ins2_warface_awm]"
+[Tue Jan  6 19:15:50 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [628][tfa_ins2_warface_awm]"
+[Tue Jan  6 19:15:51 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [628][tfa_ins2_warface_awm]"
+[Tue Jan  6 19:15:52 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [629][tfa_ins2_warface_awm]"
+[Tue Jan  6 19:15:52 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [630][tfa_ins2_warface_awm]"
+[Tue Jan  6 19:15:53 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [629][tfa_ins2_warface_awm]"
+[Tue Jan  6 19:15:53 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [630][tfa_ins2_warface_awm]"
+[Tue Jan  6 19:15:56 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [629][tfa_ins2_warface_awm]"
+[Tue Jan  6 19:15:56 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [630][tfa_ins2_warface_awm]"
+[Tue Jan  6 19:15:56 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [631][tfa_ins2_warface_awm]"
+[Tue Jan  6 19:18:37 2026] <STEAM_0:1:455594560> gREG4IK ran command "send Bot01"
+[Tue Jan  6 19:18:38 2026] <STEAM_0:1:455594560> gREG4IK ran command "send Bot02"
+[Tue Jan  6 19:18:39 2026] THRILL PILL has killed Bot01.
+[Tue Jan  6 19:18:41 2026] THRILL PILL has killed Bot02.
+[Tue Jan  6 19:18:41 2026] <STEAM_0:1:455594560> gREG4IK ran command "send Bot01"
+[Tue Jan  6 19:18:44 2026] <STEAM_0:1:455594560> gREG4IK ran command "send Bot02"
+[Tue Jan  6 19:18:51 2026] Лесник has killed Bot01.
+[Tue Jan  6 19:18:52 2026] Bot01 has killed Bot01.
+[Tue Jan  6 19:18:53 2026] Player "Bot03" <BOT> has spawned in the server
+[Tue Jan  6 19:18:53 2026] Player "Bot04" <BOT> has spawned in the server
+[Tue Jan  6 19:18:53 2026] Player "Bot05" <BOT> has spawned in the server
+[Tue Jan  6 19:18:53 2026] Player "Bot06" <BOT> has spawned in the server
+[Tue Jan  6 19:18:54 2026] Player "Bot07" <BOT> has spawned in the server
+[Tue Jan  6 19:18:55 2026] Лесник has killed Bot02.
+[Tue Jan  6 19:18:56 2026] Bot02 has killed Bot02.
+[Tue Jan  6 19:19:01 2026] <STEAM_0:1:455594560> gREG4IK ran command "send Bot05"
+[Tue Jan  6 19:19:06 2026] <STEAM_0:1:455594560> gREG4IK ran command "send Bot05"
+[Tue Jan  6 19:19:08 2026] <STEAM_0:1:455594560> gREG4IK ran command "send Bot06"
+[Tue Jan  6 19:19:11 2026] THRILL PILL has killed Bot06.
+[Tue Jan  6 19:19:12 2026] <STEAM_0:1:455594560> gREG4IK ran command "send Bot02"
+[Tue Jan  6 19:19:13 2026] THRILL PILL has killed Bot05.
+[Tue Jan  6 19:19:14 2026] Bot05 has killed Bot05.
+[Tue Jan  6 19:19:15 2026] <STEAM_0:1:455594560> gREG4IK ran command "send Bot03"
+[Tue Jan  6 19:19:17 2026] <STEAM_0:1:455594560> gREG4IK ran command "send Bot01"
+[Tue Jan  6 19:19:20 2026] <STEAM_0:1:455594560> gREG4IK ran command "send Bot07"
+[Tue Jan  6 19:19:27 2026] <STEAM_0:1:455594560> gREG4IK ran command "send Bot05"
+[Tue Jan  6 19:19:29 2026] <STEAM_0:1:455594560> gREG4IK ran command "send Bot06"
+[Tue Jan  6 19:19:30 2026] <STEAM_0:1:455594560> gREG4IK ran command "send Bot04"
+[Tue Jan  6 19:19:33 2026] <STEAM_0:1:455594560> gREG4IK ran command "send Bot02"
+[Tue Jan  6 19:19:36 2026] <STEAM_0:1:455594560> gREG4IK ran command "send Bot03"
+[Tue Jan  6 19:19:38 2026] <STEAM_0:1:455594560> gREG4IK ran command "send Bot01"
+[Tue Jan  6 19:19:40 2026] <STEAM_0:1:455594560> gREG4IK ran command "send Bot07"
+[Tue Jan  6 19:19:51 2026] THRILL PILL has killed Bot06.
+[Tue Jan  6 19:19:58 2026] Лесник has killed Bot02.
+[Tue Jan  6 19:19:59 2026] Bot02 has killed Bot02.
+[Tue Jan  6 19:20:02 2026] THRILL PILL has killed Bot04.
+[Tue Jan  6 19:20:03 2026] Bot04 has killed Bot04.
+[Tue Jan  6 19:20:09 2026] THRILL PILL has killed Bot05.
+[Tue Jan  6 19:20:14 2026] <STEAM_0:1:455594560> gREG4IK ran command "noclip Бутуев"
+[Tue Jan  6 19:20:20 2026] <STEAM_0:1:455594560> gREG4IK ran command "bring bot"
+[Tue Jan  6 19:20:23 2026] <STEAM_0:1:455594560> gREG4IK ran command "bring *"
+[Tue Jan  6 19:20:30 2026] Лесник has killed Bot03.
+[Tue Jan  6 19:20:31 2026] THRILL PILL has killed Лесник.
+[Tue Jan  6 19:20:31 2026] THRILL PILL has killed Bot01.
+[Tue Jan  6 19:20:32 2026] Лесник has killed Лесник.
+[Tue Jan  6 19:20:34 2026] THRILL PILL has killed Bot07.
+[Tue Jan  6 19:20:52 2026] Лесник has killed Bot01.
+[Tue Jan  6 19:20:53 2026] THRILL PILL has killed gREG4IK.
+[Tue Jan  6 19:20:53 2026] THRILL PILL has killed Bot07.
+[Tue Jan  6 19:20:54 2026] Bot07 has killed Bot07.
+[Tue Jan  6 19:21:01 2026] <STEAM_0:1:455594560> gREG4IK ran command "goto Путкин"
+[Tue Jan  6 19:21:05 2026] <STEAM_0:1:455594560> gREG4IK ran command "noclip Бутуев"
+[Tue Jan  6 19:21:11 2026] <STEAM_0:1:455594560> gREG4IK ran command "send RCT Thompson"
+[Tue Jan  6 19:21:13 2026] <STEAM_0:1:455594560> gREG4IK ran command "send Путкин"
+[Tue Jan  6 19:21:18 2026] THRILL PILL has killed Bot02.
+[Tue Jan  6 19:21:19 2026] <STEAM_0:1:455594560> gREG4IK ran command "send Bot07"
+[Tue Jan  6 19:21:21 2026] <STEAM_0:1:455594560> gREG4IK ran command "send Bot01"
+[Tue Jan  6 19:21:23 2026] <STEAM_0:1:455594560> gREG4IK ran command "send Bot03"
+[Tue Jan  6 19:21:25 2026] <STEAM_0:1:455594560> gREG4IK ran command "send Bot02"
+[Tue Jan  6 19:21:27 2026] <STEAM_0:1:455594560> gREG4IK ran command "send Bot04"
+[Tue Jan  6 19:21:29 2026] <STEAM_0:1:455594560> gREG4IK ran command "send Bot06"
+[Tue Jan  6 19:21:30 2026] THRILL PILL has killed Bot01.
+[Tue Jan  6 19:21:31 2026] Bot01 has killed Bot01.
+[Tue Jan  6 19:21:32 2026] <STEAM_0:1:455594560> gREG4IK ran command "noclip Бутуев"
+[Tue Jan  6 19:21:32 2026] THRILL PILL has killed Bot03.
+[Tue Jan  6 19:21:36 2026] THRILL PILL has killed Bot02.
+[Tue Jan  6 19:21:39 2026] THRILL PILL has killed Bot07.
+[Tue Jan  6 19:21:41 2026] THRILL PILL has killed Bot06.
+[Tue Jan  6 19:21:52 2026] THRILL PILL has killed Bot04.
+[Tue Jan  6 19:23:16 2026] Лесник has killed THRILL PILL.
+[Tue Jan  6 19:23:25 2026] THRILL PILL has killed Лесник.
+[Tue Jan  6 19:23:40 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [635][tfa_ins2_wpn_ac556]"
+[Tue Jan  6 19:23:41 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [654][tfa_ins2_acr]"
+[Tue Jan  6 19:23:41 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [690][tfa_ins2_ak103]"
+[Tue Jan  6 19:23:42 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [691][tfa_ins2_ak12]"
+[Tue Jan  6 19:23:42 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [692][tfa_at_ak_15]"
+[Tue Jan  6 19:23:43 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [693][tfa_ins2_wpn_ak74izh]"
+[Tue Jan  6 19:23:43 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [694][tfa_ins2_aug_a3]"
+[Tue Jan  6 19:23:44 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [695][tfa_inss_asval]"
+[Tue Jan  6 19:23:44 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [696][tfa_ins2_abakan]"
+[Tue Jan  6 19:23:44 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [697][tfa_ins2_wpn_aks74ukor]"
+[Tue Jan  6 19:23:45 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [698][tfa_ins2_wpn_akms]"
+[Tue Jan  6 19:23:46 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [699][tfa_ins2_warface_awm]"
+[Tue Jan  6 19:23:47 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [700][tfa_ins2_colt_m45]"
+[Tue Jan  6 19:23:47 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [701][tfa_ins2_wpn_imigalilarm]"
+[Tue Jan  6 19:23:48 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [699][tfa_ins2_fas2_g36c]"
+[Tue Jan  6 19:23:48 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [702][tfa_ins2_416c]"
+[Tue Jan  6 19:23:49 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [703][tfa_ins2_416c]"
+[Tue Jan  6 19:23:49 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [704][tfa_inss2_hk_mp5a5]"
+[Tue Jan  6 19:23:49 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [705][tfa_ins2_hk_mg36]"
+[Tue Jan  6 19:23:50 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [706][tfa_ins2_wpn_imigalilsar]"
+[Tue Jan  6 19:23:50 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [705][tfa_ins2_uzi]"
+[Tue Jan  6 19:23:51 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [706][tfa_ins2_izh43sw]"
+[Tue Jan  6 19:23:51 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [707][tfa_ins2_izh43sw]"
+[Tue Jan  6 19:23:52 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [708][tfa_ins2_k98]"
+[Tue Jan  6 19:23:52 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [709][tfa_ins2_thanez_cobra]"
+[Tue Jan  6 19:23:52 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [704][tfa_at_kriss_vector]"
+[Tue Jan  6 19:23:53 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [710][tfa_at_kriss_vector]"
+[Tue Jan  6 19:23:54 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [710][tfa_at_kriss_vector]"
+[Tue Jan  6 19:23:55 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [711][tfa_ins2_thanez_cobra]"
+[Tue Jan  6 19:23:55 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [712][tfa_ins2_thanez_cobra]"
+[Tue Jan  6 19:24:11 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [711][tfa_ins2_wpn_mossberg590]"
+[Tue Jan  6 19:24:11 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [713][tfa_ins2_m9]"
+[Tue Jan  6 19:24:11 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [714][tfa_ins2_pm]"
+[Tue Jan  6 19:24:12 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [715][tfa_ins2_mk18]"
+[Tue Jan  6 19:24:12 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [716][tfa_ins2_wpn_38revolver]"
+[Tue Jan  6 19:24:12 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [717][tfa_ins2_wpn_38revolver]"
+[Tue Jan  6 19:24:13 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [718][tfa_ins2_wpn_hkmp5kpdw]"
+[Tue Jan  6 19:24:13 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [719][tfa_ins2_m500]"
+[Tue Jan  6 19:24:13 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [720][tfa_ins2_m4a1]"
+[Tue Jan  6 19:24:14 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [721][tfa_ins2_wpn_coltm4a1]"
+[Tue Jan  6 19:24:14 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [722][tfa_ins2_wpn_m45a1]"
+[Tue Jan  6 19:24:15 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [723][tfa_ins2_norinco_qbz97]"
+[Tue Jan  6 19:24:15 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [724][tfa_ins2_norinco_qbz97]"
+[Tue Jan  6 19:24:16 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [725][tfa_ins2_remington_m24_sws]"
+[Tue Jan  6 19:24:16 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [726][tfa_ins2_remington_m870]"
+[Tue Jan  6 19:24:16 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [727][tfa_ins2_pd2_remington_msr]"
+[Tue Jan  6 19:24:17 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [728][tfa_ins2_pd2_remington_msr]"
+[Tue Jan  6 19:24:17 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [729][tfa_ins2_wpn_rpkalash]"
+[Tue Jan  6 19:24:17 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [724][tfa_ins2_l85a2]"
+[Tue Jan  6 19:24:17 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [730][tfa_ins2_l85a2]"
+[Tue Jan  6 19:24:20 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [728][tfa_ins2_wpn_tozshotgun]"
+[Tue Jan  6 19:24:20 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [730][tfa_ins2_ump45]"
+[Tue Jan  6 19:24:21 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [731][tfa_ins2_usp_match]"
+[Tue Jan  6 19:24:21 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [732][tfa_ins2_walther_p99]"
+[Tue Jan  6 19:24:21 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [733][tfa_ins2_sr25_eft]"
+[Tue Jan  6 19:24:22 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [734][tfa_ins2_sr25_eft]"
+[Tue Jan  6 19:24:22 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [735][tfa_ins2_sks]"
+[Tue Jan  6 19:24:23 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [736][tfa_eft_svd]"
+[Tue Jan  6 19:24:25 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [737][tfa_ins2_l85a2]"
+[Tue Jan  6 19:24:25 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [738][tfa_ins2_wpn_sksimonov]"
+[Tue Jan  6 19:24:25 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [739][tfa_ins2_scar_h_ssr]"
+[Tue Jan  6 19:24:25 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [740][tfa_ins2_norinco_qbz97]"
+[Tue Jan  6 19:24:26 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [741][tfa_ins2_remington_m24_sws]"
+[Tue Jan  6 19:24:27 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [742][tfa_ins2_warface_orsis_t5000]"
+[Tue Jan  6 19:24:27 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [743][tfa_ins2_pkp]"
+[Tue Jan  6 19:24:27 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [744][tfa_eft_vityaz]"
+[Tue Jan  6 19:24:46 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [733][sw_bmp3m]"
+[Tue Jan  6 19:24:54 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [823][lvs_missile]"
+[Tue Jan  6 19:24:54 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [824][lvs_missile]"
+[Tue Jan  6 19:24:54 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [825][lvs_missile]"
+[Tue Jan  6 19:24:54 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [826][lvs_missile]"
+[Tue Jan  6 19:24:54 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [827][lvs_missile]"
+[Tue Jan  6 19:24:58 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [823][lvs_trailer_flak]"
+[Tue Jan  6 19:25:05 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [827][wesupplycrate]"
+[Tue Jan  6 19:25:06 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [831][wesupplycrate]"
+[Tue Jan  6 19:25:07 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [832][wesupplycrate]"
+[Tue Jan  6 19:25:13 2026] <STEAM_0:1:455594560> gREG4IK used tool "witchergate"
+[Tue Jan  6 19:25:18 2026] <STEAM_0:1:455594560> gREG4IK used tool "witchergate"
+[Tue Jan  6 19:25:35 2026] <STEAM_0:1:455594560> gREG4IK ran command "respawn Путкин"
+[Tue Jan  6 19:25:39 2026] <STEAM_0:1:455594560> gREG4IK ran command "send Путкин"
+[Tue Jan  6 19:25:48 2026] gREG4IK has killed Лесник.
+[Tue Jan  6 19:25:53 2026] <STEAM_0:1:455594560> gREG4IK ran command "send Путкин"
+[Tue Jan  6 19:25:56 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [647][tfa_ins2_m4a1]"
+[Tue Jan  6 19:25:56 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [648][tfa_ins2_m4a1]"
+[Tue Jan  6 19:25:56 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [650][tfa_ins2_m4a1]"
+[Tue Jan  6 19:25:57 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [653][tfa_ins2_m4a1]"
+[Tue Jan  6 19:25:58 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [648][tfa_ins2_mk18]"
+[Tue Jan  6 19:25:58 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [650][tfa_ins2_mk18]"
+[Tue Jan  6 19:25:58 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [654][tfa_ins2_mk18]"
+[Tue Jan  6 19:25:59 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [689][tfa_ins2_mk18]"
+[Tue Jan  6 19:25:59 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [690][tfa_ins2_mk18]"
+[Tue Jan  6 19:25:59 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [650][tfa_ins2_nova]"
+[Tue Jan  6 19:26:00 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [654][tfa_ins2_nova]"
+[Tue Jan  6 19:26:00 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [689][tfa_ins2_nova]"
+[Tue Jan  6 19:26:39 2026] Лесник has killed THRILL PILL.
+[Tue Jan  6 19:26:40 2026] THRILL PILL has killed THRILL PILL.
+[Tue Jan  6 19:27:27 2026] <STEAM_0:1:455594560> gREG4IK ran command "send RCT Thompson"
+[Tue Jan  6 19:27:35 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [654][tfa_m4tech]"
+[Tue Jan  6 19:27:35 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [656][tfa_m4tech]"
+[Tue Jan  6 19:27:35 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [659][tfa_m4tech]"
+[Tue Jan  6 19:27:35 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [666][tfa_m4tech]"
+[Tue Jan  6 19:27:36 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [673][tfa_m4tech]"
+[Tue Jan  6 19:27:36 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [674][tfa_m4tech]"
+[Tue Jan  6 19:27:36 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [677][tfa_m4tech]"
+[Tue Jan  6 19:27:36 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [678][tfa_m4tech]"
+[Tue Jan  6 19:27:36 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [680][tfa_m4tech]"
+[Tue Jan  6 19:27:37 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [681][tfa_m4tech]"
+[Tue Jan  6 19:27:37 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [682][tfa_m4tech]"
+[Tue Jan  6 19:27:37 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [683][tfa_m4tech]"
+[Tue Jan  6 19:28:10 2026] Лесник has killed gREG4IK.
+[Tue Jan  6 19:28:11 2026] gREG4IK has killed gREG4IK.
+[Tue Jan  6 19:28:12 2026] THRILL PILL has killed Лесник.
+[Tue Jan  6 19:28:13 2026] Лесник has killed Лесник.
+[Tue Jan  6 19:28:24 2026] <STEAM_0:1:455594560> gREG4IK used tool "witchergate"
+[Tue Jan  6 19:28:31 2026] <STEAM_0:1:455594560> gREG4IK ran command "send RCT Thompson"
+[Tue Jan  6 19:28:36 2026] <STEAM_0:1:455594560> gREG4IK ran command "send RCT Thompson"
+[Tue Jan  6 19:28:50 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [622][tfa_ins2_wpn_38revolver]"
+[Tue Jan  6 19:28:51 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [624][tfa_ins2_m9]"
+[Tue Jan  6 19:28:52 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [625][tfa_ins2_mr96]"
+[Tue Jan  6 19:28:53 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [626][tfa_ins2_mr96]"
+[Tue Jan  6 19:28:53 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [627][tfa_ins2_mr96]"
+[Tue Jan  6 19:28:53 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [629][tfa_ins2_wpn_38revolver]"
+[Tue Jan  6 19:28:54 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [630][tfa_ins2_wpn_38revolver]"
+[Tue Jan  6 19:28:54 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [626][tfa_ins2_wpn_38revolver]"
+[Tue Jan  6 19:28:54 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [627][tfa_ins2_wpn_38revolver]"
+[Tue Jan  6 19:28:54 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [629][tfa_ins2_wpn_38revolver]"
+[Tue Jan  6 19:28:55 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [630][tfa_ins2_wpn_38revolver]"
+[Tue Jan  6 19:28:55 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [626][tfa_ins2_mr96]"
+[Tue Jan  6 19:28:55 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [627][tfa_ins2_mr96]"
+[Tue Jan  6 19:28:56 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [629][tfa_ins2_mr96]"
+[Tue Jan  6 19:28:58 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [626][tfa_ins2_thanez_cobra]"
+[Tue Jan  6 19:28:58 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [627][tfa_ins2_thanez_cobra]"
+[Tue Jan  6 19:28:58 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [629][tfa_ins2_thanez_cobra]"
+[Tue Jan  6 19:28:58 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [630][tfa_ins2_thanez_cobra]"
+[Tue Jan  6 19:28:58 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [632][tfa_ins2_thanez_cobra]"
+[Tue Jan  6 19:28:59 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [634][tfa_ins2_thanez_cobra]"
+[Tue Jan  6 19:28:59 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [637][tfa_ins2_thanez_cobra]"
+[Tue Jan  6 19:28:59 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [627][tfa_ins2_thanez_cobra]"
+[Tue Jan  6 19:28:59 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [653][tfa_ins2_thanez_cobra]"
+[Tue Jan  6 19:28:59 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [630][tfa_ins2_thanez_cobra]"
+[Tue Jan  6 19:29:01 2026] worldspawn has killed Лесник.
+[Tue Jan  6 19:29:19 2026] <STEAM_0:1:455594560> gREG4IK ran command "send Bot05"
+[Tue Jan  6 19:29:21 2026] <STEAM_0:1:455594560> gREG4IK ran command "send Bot06"
+[Tue Jan  6 19:29:24 2026] <STEAM_0:1:455594560> gREG4IK ran command "send Bot04"
+[Tue Jan  6 19:29:26 2026] <STEAM_0:1:455594560> gREG4IK ran command "send Bot02"
+[Tue Jan  6 19:29:27 2026] <STEAM_0:0:200862208> Лесник: сОРИИ чё убил не хотел
+[Tue Jan  6 19:29:29 2026] <STEAM_0:1:455594560> gREG4IK ran command "send Bot03"
+[Tue Jan  6 19:29:30 2026] <STEAM_0:1:455594560> gREG4IK ran command "send Bot03"
+[Tue Jan  6 19:29:32 2026] <STEAM_0:1:455594560> gREG4IK ran command "send Bot01"
+[Tue Jan  6 19:29:34 2026] <STEAM_0:1:455594560> gREG4IK ran command "send Bot07"
+[Tue Jan  6 19:29:37 2026] THRILL PILL has killed Bot01.
+[Tue Jan  6 19:29:37 2026] gREG4IK has killed Bot07.
+[Tue Jan  6 19:29:38 2026] Bot07 has killed Bot07.
+[Tue Jan  6 19:29:40 2026] THRILL PILL has killed Bot06.
+[Tue Jan  6 19:29:41 2026] Bot06 has killed Bot06.
+[Tue Jan  6 19:29:43 2026] <STEAM_0:0:200862208> Лесник: Я буду на сервере но в АФК
+[Tue Jan  6 19:29:47 2026] <STEAM_0:1:455594560> gREG4IK ran command "send Путкин"
+[Tue Jan  6 19:29:51 2026] Player "gREG4IK" <STEAM_0:1:455594560> has left the server
+[Tue Jan  6 19:29:55 2026] THRILL PILL has killed Bot03.
+[Tue Jan  6 19:29:57 2026] THRILL PILL has killed Bot02.
+[Tue Jan  6 19:29:57 2026] Bot02 has killed Bot02.
+[Tue Jan  6 19:30:42 2026] THRILL PILL has killed Bot04.
+[Tue Jan  6 19:30:42 2026] Bot04 has killed Bot04.
+[Tue Jan  6 19:30:56 2026] THRILL PILL has killed Bot05.
+[Tue Jan  6 19:33:22 2026] Player "bananchik" <STEAM_0:0:859516577> is attempting to connect.
+[Tue Jan  6 19:37:06 2026] sw_gaz2330 has killed THRILL PILL.
+[Tue Jan  6 19:38:40 2026] Player "THRILL PILL" <STEAM_0:0:753593633> has left the server
+[Tue Jan  6 19:40:18 2026] Player "Лесник" <STEAM_0:0:200862208> has left the server
+[Tue Jan  6 19:40:18 2026] Player "Bot03" <BOT> has left the server
+[Tue Jan  6 19:40:18 2026] Player "Bot01" <BOT> has left the server
+[Tue Jan  6 19:40:18 2026] Player "Bot02" <BOT> has left the server
+[Tue Jan  6 19:40:18 2026] Player "Bot04" <BOT> has left the server
+[Tue Jan  6 19:40:18 2026] Player "Bot05" <BOT> has left the server
+[Tue Jan  6 19:40:18 2026] Player "Bot06" <BOT> has left the server
+[Tue Jan  6 19:40:18 2026] Player "Bot07" <BOT> has left the server
+[Tue Jan  6 19:40:35 2026] Player "Лесник" <STEAM_0:0:200862208> is attempting to connect.
+[Tue Jan  6 19:41:13 2026] Player "Лесник" <STEAM_0:0:200862208> has spawned in the server
+[Tue Jan  6 19:54:01 2026] Player "Cane" <STEAM_0:1:412871597> is attempting to connect.
+[Tue Jan  6 20:05:35 2026] Player "Cane" <STEAM_0:1:412871597> has spawned in the server
+[Tue Jan  6 20:06:57 2026] Player "Cane" <STEAM_0:1:412871597> has left the server
+[Tue Jan  6 20:07:07 2026] Player "Cane" <STEAM_0:1:412871597> is attempting to connect.
+[Tue Jan  6 20:07:30 2026] Player "Cane" <STEAM_0:1:412871597> has spawned in the server
+[Tue Jan  6 20:08:44 2026] <STEAM_0:1:412871597> Cane: как микро включить?
+[Tue Jan  6 20:08:56 2026] Player "Cane" <STEAM_0:1:412871597> has left the server
+[Tue Jan  6 20:33:59 2026] Player "Лесник" <STEAM_0:0:200862208> has left the server
+[Tue Jan  6 20:34:05 2026] Player "Лесник" <STEAM_0:0:200862208> is attempting to connect.
+[Tue Jan  6 20:34:46 2026] Player "Лесник" <STEAM_0:0:200862208> has spawned in the server
+[Tue Jan  6 21:07:49 2026] Player "Лесник" <STEAM_0:0:200862208> has left the server
+[Tue Jan  6 21:40:51 2026] Player "Лесник" <STEAM_0:0:200862208> is attempting to connect.
+[Tue Jan  6 21:41:25 2026] Player "Лесник" <STEAM_0:0:200862208> has spawned in the server
+[Tue Jan  6 21:52:38 2026] Player "gREG4IK" <STEAM_0:1:455594560> is attempting to connect.
+[Tue Jan  6 21:53:49 2026] Player "THRILL PILL" <STEAM_0:0:753593633> is attempting to connect.
+[Tue Jan  6 21:54:00 2026] Player "gREG4IK" <STEAM_0:1:455594560> has spawned in the server
+[Tue Jan  6 21:55:57 2026] <STEAM_0:1:455594560> gREG4IK ran command "send Путкин"
+[Tue Jan  6 21:57:50 2026] <STEAM_0:1:455594560> gREG4IK: tfa_ins2_wpn_rpg7
+[Tue Jan  6 22:00:46 2026] <STEAM_0:1:455594560> gREG4IK: /event РЕСТАРТ
+[Tue Jan  6 22:01:07 2026] Player "Лесник" <STEAM_0:0:200862208> is attempting to connect.
+[Tue Jan  6 22:01:40 2026] Player "Лесник" <STEAM_0:0:200862208> has spawned in the server
+[Tue Jan  6 22:01:57 2026] Player "gREG4IK" <STEAM_0:1:455594560> is attempting to connect.
+[Tue Jan  6 22:02:39 2026] Player "gREG4IK" <STEAM_0:1:455594560> has spawned in the server
+[Tue Jan  6 22:04:08 2026] gREG4IK has killed gREG4IK.
+[Tue Jan  6 22:04:38 2026] <STEAM_0:1:455594560> gREG4IK ran command "noclip Бутуев"
+[Tue Jan  6 22:04:47 2026] <STEAM_0:1:455594560> gREG4IK ran command "respawn Бутуев"
+[Tue Jan  6 22:04:57 2026] <STEAM_0:1:455594560> gREG4IK ran command "noclip Бутуев"
+[Tue Jan  6 22:05:08 2026] gREG4IK has killed gREG4IK.
+[Tue Jan  6 22:06:46 2026] Player "gREG4IK" <STEAM_0:1:455594560> has left the server
+[Tue Jan  6 22:06:46 2026] Player "gREG4IK" <STEAM_0:1:455594560> is attempting to connect.
+[Tue Jan  6 22:07:28 2026] Player "gREG4IK" <STEAM_0:1:455594560> has spawned in the server
+[Tue Jan  6 22:10:38 2026] Лесник has killed gREG4IK.
+[Tue Jan  6 22:10:51 2026] <STEAM_0:0:200862208> Лесник: проСТИ!!!!!
+[Tue Jan  6 22:12:01 2026] <STEAM_0:0:200862208> Лесник: 1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
+[Tue Jan  6 22:14:47 2026] <STEAM_0:0:200862208> Лесник: Мы будем что-то делать?????????????????????????
+[Tue Jan  6 22:18:10 2026] Player "Лесник" <STEAM_0:0:200862208> is attempting to connect.
+[Tue Jan  6 22:18:44 2026] Player "Лесник" <STEAM_0:0:200862208> has spawned in the server
+[Tue Jan  6 22:20:10 2026] Player "gREG4IK" <STEAM_0:1:455594560> is attempting to connect.
+[Tue Jan  6 22:20:57 2026] Player "gREG4IK" <STEAM_0:1:455594560> has spawned in the server
+[Tue Jan  6 22:23:05 2026] Player "Лесник" <STEAM_0:0:200862208> is attempting to connect.
+[Tue Jan  6 22:23:35 2026] Player "Лесник" <STEAM_0:0:200862208> has spawned in the server
+[Tue Jan  6 22:23:46 2026] Player "gREG4IK" <STEAM_0:1:455594560> is attempting to connect.
+[Tue Jan  6 22:24:28 2026] Player "gREG4IK" <STEAM_0:1:455594560> has spawned in the server
+[Tue Jan  6 22:25:53 2026] gREG4IK has killed gREG4IK.
+[Tue Jan  6 22:26:40 2026] gREG4IK has killed Лесник.
+[Tue Jan  6 22:26:41 2026] Лесник has killed Лесник.
+[Tue Jan  6 22:27:12 2026] <STEAM_0:0:200862208> Лесник: я не чайно я говорил же!!
+[Tue Jan  6 22:29:58 2026] gREG4IK has killed gREG4IK.
+[Tue Jan  6 22:30:09 2026] gREG4IK has killed gREG4IK.
+[Tue Jan  6 22:30:32 2026] gREG4IK has killed Лесник.
+[Tue Jan  6 22:30:32 2026] Лесник has killed Лесник.
+[Tue Jan  6 22:31:02 2026] gREG4IK has killed gREG4IK.
+[Tue Jan  6 22:31:18 2026] Player "gREG4IK" <STEAM_0:1:455594560> has left the server
+[Tue Jan  6 22:31:37 2026] Player "Лесник" <STEAM_0:0:200862208> has left the server
+[Tue Jan  6 23:50:55 2026] Player "Dasma_i" <STEAM_0:0:783993974> is attempting to connect.

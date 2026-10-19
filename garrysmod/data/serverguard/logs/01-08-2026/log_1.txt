@@ -1,0 +1,2260 @@
+[Thu Jan  8 06:52:19 2026] Player "~𝕸𝖎𝖗𝖗𝖔𝖗~" <STEAM_0:1:957380097> is attempting to connect.
+[Thu Jan  8 09:17:17 2026] Player "Чык чырик" <STEAM_0:0:769307908> is attempting to connect.
+[Thu Jan  8 09:17:24 2026] Player "Чык чырик" <STEAM_0:0:769307908> is attempting to connect.
+[Thu Jan  8 10:21:02 2026] Player "Igruha" <STEAM_0:0:914720065> is attempting to connect.
+[Thu Jan  8 10:21:53 2026] Player "Igruha" <STEAM_0:0:914720065> is attempting to connect.
+[Thu Jan  8 15:24:58 2026] Player "NTF Epsilon11" <STEAM_0:0:586457449> is attempting to connect.
+[Thu Jan  8 15:38:21 2026] Player "NTF Epsilon11" <STEAM_0:0:586457449> has spawned in the server
+[Thu Jan  8 15:45:52 2026] Player "FreeTP.Org" <STEAM_0:0:1015346022> is attempting to connect.
+[Thu Jan  8 15:59:55 2026] Player "Лесник" <STEAM_0:0:200862208> is attempting to connect.
+[Thu Jan  8 16:00:25 2026] Player "Лесник" <STEAM_0:0:200862208> has spawned in the server
+[Thu Jan  8 16:06:34 2026] Player "S0u1" <STEAM_0:1:618974024> is attempting to connect.
+[Thu Jan  8 16:07:29 2026] Player "S0u1" <STEAM_0:1:618974024> has spawned in the server
+[Thu Jan  8 16:08:52 2026] Player "onrr" <STEAM_0:0:608033768> is attempting to connect.
+[Thu Jan  8 16:09:50 2026] <STEAM_0:0:200862208> Лесник: НИТРОВ?
+[Thu Jan  8 16:10:38 2026] <STEAM_0:1:618974024> S0u1: // админ есть?
+[Thu Jan  8 16:10:57 2026] <STEAM_0:1:618974024> S0u1: // а все не надо наверно
+[Thu Jan  8 16:16:31 2026] worldspawn has killed S0u1.
+[Thu Jan  8 16:17:32 2026] Player "Лесник" <STEAM_0:0:200862208> has left the server
+[Thu Jan  8 16:17:34 2026] Player "Лесник" <STEAM_0:0:200862208> is attempting to connect.
+[Thu Jan  8 16:18:01 2026] Player "Лесник" <STEAM_0:0:200862208> has spawned in the server
+[Thu Jan  8 16:21:43 2026] Player "Лесник" <STEAM_0:0:200862208> has left the server
+[Thu Jan  8 16:27:57 2026] Player "Лесник" <STEAM_0:0:200862208> is attempting to connect.
+[Thu Jan  8 16:28:24 2026] S0u1 has killed NTF Epsilon11.
+[Thu Jan  8 16:28:27 2026] Player "Лесник" <STEAM_0:0:200862208> has spawned in the server
+[Thu Jan  8 16:30:50 2026] Player "gREG4IK" <STEAM_0:1:455594560> is attempting to connect.
+[Thu Jan  8 16:31:44 2026] Player "Лесник" <STEAM_0:0:200862208> has left the server
+[Thu Jan  8 16:31:54 2026] Player "Лесник" <STEAM_0:0:200862208> is attempting to connect.
+[Thu Jan  8 16:31:54 2026] Player "Лесник" <STEAM_0:0:200862208> is attempting to connect.
+[Thu Jan  8 16:32:10 2026] Player "gREG4IK" <STEAM_0:1:455594560> has spawned in the server
+[Thu Jan  8 16:32:44 2026] <STEAM_0:0:586457449> NTF Epsilon11: /ooc грэг хелпани
+[Thu Jan  8 16:32:49 2026] <STEAM_0:1:455594560> gREG4IK ran command "send Вакутагин "Тундр"
+[Thu Jan  8 16:33:25 2026] Player "Лесник" <STEAM_0:0:200862208> has spawned in the server
+[Thu Jan  8 16:38:30 2026] <STEAM_0:0:200862208> Лесник: Я пойду
+[Thu Jan  8 16:38:31 2026] <STEAM_0:0:200862208> Лесник: /ad [1-ВЭ--ШТАБ] Ответа не услышал, взлетаю (если 
+[Thu Jan  8 16:38:31 2026] <STEAM_0:0:200862208> Лесник: /ad [1-ВЭ--ШТАБ] Ответа не услышал, взлетаю (если
+[Thu Jan  8 16:38:35 2026] <STEAM_0:0:200862208> Лесник: я
+[Thu Jan  8 16:38:56 2026] <STEAM_0:0:200862208> Лесник: я зайду через минут 30 +-
+[Thu Jan  8 16:39:14 2026] Player "Лесник" <STEAM_0:0:200862208> has left the server
+[Thu Jan  8 16:39:57 2026] gREG4IK has killed S0u1.
+[Thu Jan  8 16:39:58 2026] S0u1 has killed S0u1.
+[Thu Jan  8 16:40:03 2026] <STEAM_0:1:618974024> S0u1: /looc Пиздец
+[Thu Jan  8 16:40:12 2026] gREG4IK has killed NTF Epsilon11.
+[Thu Jan  8 16:40:13 2026] gREG4IK has killed S0u1.
+[Thu Jan  8 16:40:32 2026] <STEAM_0:0:586457449> NTF Epsilon11: /ooc я лежу по стойке смирно.
+[Thu Jan  8 16:41:40 2026] S0u1 has killed gREG4IK.
+[Thu Jan  8 16:41:41 2026] gREG4IK has killed gREG4IK.
+[Thu Jan  8 16:42:07 2026] <STEAM_0:1:618974024> S0u1: // Грег ёмае
+[Thu Jan  8 16:42:11 2026] <STEAM_0:1:618974024> S0u1: // Какой механик водитель
+[Thu Jan  8 16:42:12 2026] <STEAM_0:1:455594560> gREG4IK: /ooc да?
+[Thu Jan  8 16:42:13 2026] <STEAM_0:1:618974024> S0u1: // Я снайпер
+[Thu Jan  8 16:42:27 2026] <STEAM_0:1:618974024> S0u1: // Еще вакутагин невидимый
+[Thu Jan  8 16:42:28 2026] <STEAM_0:1:455594560> gREG4IK: /ooc да
+[Thu Jan  8 16:42:33 2026] <STEAM_0:1:455594560> gREG4IK ran command "respawn Вакутагин "Тундр"
+[Thu Jan  8 16:42:42 2026] <STEAM_0:1:455594560> gREG4IK ran command "noclip Бутуев"
+[Thu Jan  8 16:44:31 2026] Player "Worshiper of God" <STEAM_0:0:74235942> is attempting to connect.
+[Thu Jan  8 16:45:07 2026] Player "Worshiper of God" <STEAM_0:0:74235942> has spawned in the server
+[Thu Jan  8 16:45:55 2026] <STEAM_0:1:455594560> gREG4IK ran command "noclip Бутуев"
+[Thu Jan  8 16:46:17 2026] gREG4IK has killed S0u1.
+[Thu Jan  8 16:46:18 2026] S0u1 has killed S0u1.
+[Thu Jan  8 16:46:19 2026] NTF Epsilon11 has killed gREG4IK.
+[Thu Jan  8 16:46:20 2026] gREG4IK has killed gREG4IK.
+[Thu Jan  8 16:46:45 2026] <STEAM_0:1:455594560> gREG4IK spawned vehicle "Vehicle [496][prop_vehicle_jeep]"
+[Thu Jan  8 16:47:29 2026] Player "༒︎シ︎ʰᵉⁿᵗᵃⁱシ" <STEAM_0:0:851601344> is attempting to connect.
+[Thu Jan  8 16:47:40 2026] gREG4IK has killed Worshiper of God.
+[Thu Jan  8 16:47:49 2026] gREG4IK has killed NTF Epsilon11.
+[Thu Jan  8 16:47:50 2026] NTF Epsilon11 has killed NTF Epsilon11.
+[Thu Jan  8 16:48:17 2026] gREG4IK has killed S0u1.
+[Thu Jan  8 16:48:39 2026] <STEAM_0:1:455594560> gREG4IK: /event ВНИМАНИЯ ЗА НАТО СИЛЬНЫЙ БОЕЦ
+[Thu Jan  8 16:48:43 2026] Player "༒︎シ︎ʰᵉⁿᵗᵃⁱシ" <STEAM_0:0:851601344> has spawned in the server
+[Thu Jan  8 16:48:46 2026] <STEAM_0:1:618974024> S0u1: // Пиздец че
+[Thu Jan  8 16:48:53 2026] <STEAM_0:0:74235942> Worshiper of God: // какой сильный то?
+[Thu Jan  8 16:48:59 2026] <STEAM_0:1:618974024> S0u1: // Жирный такой наверно
+[Thu Jan  8 16:49:03 2026] <STEAM_0:1:455594560> gREG4IK: /event Восточный Город Почти захвачен
+[Thu Jan  8 16:49:04 2026] <STEAM_0:1:618974024> S0u1: // по броне и хп
+[Thu Jan  8 16:49:11 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // время убивать.
+[Thu Jan  8 16:49:25 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // майор Эвергарден злой
+[Thu Jan  8 16:49:26 2026] <STEAM_0:1:618974024> S0u1: // сиськам слово не давали
+[Thu Jan  8 16:50:05 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "ammo MAJ A.E. Evergarden"
+[Thu Jan  8 16:50:44 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [674][tfa_ins2_wpn_at4]"
+[Thu Jan  8 16:50:44 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [675][tfa_ins2_wpn_at4]"
+[Thu Jan  8 16:50:44 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [676][tfa_ins2_wpn_at4]"
+[Thu Jan  8 16:50:44 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [677][tfa_ins2_wpn_at4]"
+[Thu Jan  8 16:50:45 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [678][tfa_ins2_wpn_at4]"
+[Thu Jan  8 16:51:01 2026] gREG4IK has killed Worshiper of God.
+[Thu Jan  8 16:51:34 2026] <STEAM_0:1:455594560> gREG4IK: /ooc не используй AT-4 evengarder
+[Thu Jan  8 16:51:42 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // ладно(
+[Thu Jan  8 16:51:56 2026] gREG4IK has killed NTF Epsilon11.
+[Thu Jan  8 16:51:57 2026] NTF Epsilon11 has killed NTF Epsilon11.
+[Thu Jan  8 16:53:15 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed gREG4IK.
+[Thu Jan  8 16:53:27 2026] <STEAM_0:1:455594560> gREG4IK: /ooc СВОИХ ГАСИШЬ
+[Thu Jan  8 16:53:32 2026] <STEAM_0:1:618974024> S0u1: // Хуя себе
+[Thu Jan  8 16:53:33 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // а ой
+[Thu Jan  8 16:53:36 2026] <STEAM_0:1:455594560> gREG4IK spawned vehicle "Vehicle [522][prop_vehicle_jeep]"
+[Thu Jan  8 16:53:38 2026] <STEAM_0:1:455594560> gREG4IK spawned vehicle "Vehicle [522][prop_vehicle_jeep]"
+[Thu Jan  8 16:53:46 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /nato рч 122
+[Thu Jan  8 16:53:46 2026] Player "punk" <STEAM_0:0:921324874> is attempting to connect.
+[Thu Jan  8 16:53:54 2026] <STEAM_0:1:618974024> S0u1: // 3x3 щас будет
+[Thu Jan  8 16:54:22 2026] Player "punk" <STEAM_0:0:921324874> has spawned in the server
+[Thu Jan  8 16:54:28 2026] <STEAM_0:1:618974024> S0u1: // Пиздец
+[Thu Jan  8 16:54:57 2026] gREG4IK has killed NTF Epsilon11.
+[Thu Jan  8 16:54:58 2026] NTF Epsilon11 has killed NTF Epsilon11.
+[Thu Jan  8 16:55:01 2026] S0u1 has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Thu Jan  8 16:55:02 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Thu Jan  8 16:55:11 2026] Worshiper of God has killed gREG4IK.
+[Thu Jan  8 16:55:52 2026] <STEAM_0:1:455594560> gREG4IK spawned vehicle "Vehicle [651][prop_vehicle_jeep]"
+[Thu Jan  8 16:56:10 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [651][lvs_wheeldrive_hummer_mk19]"
+[Thu Jan  8 16:56:23 2026] Player "Mr.Monolith" <STEAM_0:1:47931114> is attempting to connect.
+[Thu Jan  8 16:56:32 2026] Player "BloodySmile" <STEAM_0:1:54838838> is attempting to connect.
+[Thu Jan  8 16:57:00 2026] Player "Mr.Monolith" <STEAM_0:1:47931114> has spawned in the server
+[Thu Jan  8 16:57:09 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "ammo MAJ A.E. Evergarden"
+[Thu Jan  8 16:57:12 2026] Player "BloodySmile" <STEAM_0:1:54838838> has spawned in the server
+[Thu Jan  8 16:57:13 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed NTF Epsilon11.
+[Thu Jan  8 16:57:23 2026] punk has killed S0u1.
+[Thu Jan  8 16:57:24 2026] S0u1 has killed S0u1.
+[Thu Jan  8 16:57:26 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /nato рч 122
+[Thu Jan  8 16:57:35 2026] Worshiper of God has killed gREG4IK.
+[Thu Jan  8 16:57:53 2026] <STEAM_0:1:54838838> BloodySmile ran command "invisible Григорьев"
+[Thu Jan  8 16:58:14 2026] <STEAM_0:1:455594560> gREG4IK ran command "respawn ^"
+[Thu Jan  8 16:59:47 2026] BloodySmile has killed punk.
+[Thu Jan  8 17:00:28 2026] Player "FreeTP.Org" <STEAM_0:0:472816706> is attempting to connect.
+[Thu Jan  8 17:00:45 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /nato вг 2 человека
+[Thu Jan  8 17:00:59 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /nato вышка
+[Thu Jan  8 17:02:19 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [701][sw_bmp1]"
+[Thu Jan  8 17:02:33 2026] NTF Epsilon11 has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Thu Jan  8 17:02:34 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Thu Jan  8 17:03:30 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [656][lvs_wheeldrive_hummer_mk19]"
+[Thu Jan  8 17:03:49 2026] Player "Worshiper of God" <STEAM_0:0:74235942> has left the server
+[Thu Jan  8 17:04:26 2026] NTF Epsilon11 has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Thu Jan  8 17:04:32 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // тундра невидимый
+[Thu Jan  8 17:04:37 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // XD
+[Thu Jan  8 17:04:40 2026] <STEAM_0:0:586457449> NTF Epsilon11: /ooc че
+[Thu Jan  8 17:04:45 2026] <STEAM_0:0:586457449> NTF Epsilon11: /ooc ДА БЛЯТЬ
+[Thu Jan  8 17:04:50 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // зазаз
+[Thu Jan  8 17:04:55 2026] <STEAM_0:0:586457449> NTF Epsilon11: /ooc грэг ресни
+[Thu Jan  8 17:05:02 2026] <STEAM_0:0:586457449> NTF Epsilon11: /ooc и обратно тепни..
+[Thu Jan  8 17:05:02 2026] <STEAM_0:1:455594560> gREG4IK ran command "respawn Вакутагин "Тундр"
+[Thu Jan  8 17:05:02 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "respawn Вакутагин "Тундр"
+[Thu Jan  8 17:05:08 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [497][sw_bmp3m]"
+[Thu Jan  8 17:05:10 2026] <STEAM_0:0:586457449> NTF Epsilon11: /ooc в город
+[Thu Jan  8 17:05:16 2026] <STEAM_0:1:455594560> gREG4IK ran command "send Вакутагин "Тундр"
+[Thu Jan  8 17:05:18 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [521][sw_bmp1am]"
+[Thu Jan  8 17:05:23 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [636][lvs_wheeldrive_hummer]"
+[Thu Jan  8 17:05:29 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [521][sw_bmp2]"
+[Thu Jan  8 17:05:32 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [521][sw_bmp3]"
+[Thu Jan  8 17:07:08 2026] Player "THE-_-Reper" <STEAM_0:1:526999954> is attempting to connect.
+[Thu Jan  8 17:07:10 2026] NTF Epsilon11 has killed gREG4IK.
+[Thu Jan  8 17:07:11 2026] gREG4IK has killed gREG4IK.
+[Thu Jan  8 17:07:18 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "ammo MAJ A.E. Evergarden"
+[Thu Jan  8 17:08:10 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed NTF Epsilon11.
+[Thu Jan  8 17:08:11 2026] NTF Epsilon11 has killed NTF Epsilon11.
+[Thu Jan  8 17:08:19 2026] Player "Smasher" <STEAM_0:1:220381002> is attempting to connect.
+[Thu Jan  8 17:08:30 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /nato в доме свои!!
+[Thu Jan  8 17:08:33 2026] <STEAM_0:0:586457449> NTF Epsilon11: /ooc я хорошо держался
+[Thu Jan  8 17:08:54 2026] BloodySmile has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Thu Jan  8 17:09:15 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [497][tfa_ins2_wpn_rpg7]"
+[Thu Jan  8 17:09:16 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [507][tfa_ins2_wpn_rpg7]"
+[Thu Jan  8 17:09:17 2026] <STEAM_0:0:586457449> NTF Epsilon11: /me воинское приветсвие
+[Thu Jan  8 17:09:48 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [646][lvs_wheeldrive_hummer]"
+[Thu Jan  8 17:09:51 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [649][lvs_wheeldrive_hummer_mk19]"
+[Thu Jan  8 17:09:51 2026] Player "Smasher" <STEAM_0:1:220381002> has spawned in the server
+[Thu Jan  8 17:10:43 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [653][sw_bomb_ao1_v3]"
+[Thu Jan  8 17:10:47 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [653][sw_bomb_ao1_v3]"
+[Thu Jan  8 17:10:51 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [654][sw_bomb_ao1_v3]"
+[Thu Jan  8 17:10:53 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [653][sw_bomb_ao1_v3]"
+[Thu Jan  8 17:10:59 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [653][sw_bomb_ao1_v3]"
+[Thu Jan  8 17:11:04 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [522][sw_bomb_ao1_v3]"
+[Thu Jan  8 17:11:21 2026] <STEAM_0:1:455594560> gREG4IK: /event Внимания в город летить AIRDROP
+[Thu Jan  8 17:11:26 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /nato рч 122
+[Thu Jan  8 17:12:07 2026] Player "geni_YT" <STEAM_0:0:405489818> is attempting to connect.
+[Thu Jan  8 17:12:19 2026] Player "geni_YT" <STEAM_0:0:405489818> is attempting to connect.
+[Thu Jan  8 17:12:32 2026] BloodySmile has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Thu Jan  8 17:12:47 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [506][sw_airdrop_large_v3]"
+[Thu Jan  8 17:12:52 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Jan  8 17:12:52 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [635][sw_airdrop_large_v3]"
+[Thu Jan  8 17:12:54 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Jan  8 17:12:54 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [759][sw_airdrop_large_v3]"
+[Thu Jan  8 17:12:55 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Jan  8 17:12:55 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [760][sw_airdrop_large_v3]"
+[Thu Jan  8 17:12:56 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Jan  8 17:12:56 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [761][sw_airdrop_large_v3]"
+[Thu Jan  8 17:13:00 2026] <STEAM_0:1:455594560> gREG4IK: /event Внимания в город летить AIRDROP
+[Thu Jan  8 17:13:13 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Jan  8 17:13:13 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [780][sw_bomb_brab250_v3]"
+[Thu Jan  8 17:13:56 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Jan  8 17:13:56 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [752][sw_bomb_ofab250sh_v3]"
+[Thu Jan  8 17:13:58 2026] Smasher has killed NTF Epsilon11.
+[Thu Jan  8 17:14:00 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Jan  8 17:14:00 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [495][sw_bomb_ofab250sh_v3]"
+[Thu Jan  8 17:14:01 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "ammo MAJ A.E. Evergarden"
+[Thu Jan  8 17:14:02 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Jan  8 17:14:02 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [507][sw_bomb_ofab250sh_v3]"
+[Thu Jan  8 17:14:02 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Jan  8 17:14:02 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [514][sw_bomb_ofab250sh_v3]"
+[Thu Jan  8 17:14:04 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [752][sw_bomb_ofab250sh_v3]"
+[Thu Jan  8 17:14:06 2026] Mr.Monolith has killed punk.
+[Thu Jan  8 17:14:07 2026] punk has killed punk.
+[Thu Jan  8 17:14:07 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [505][sw_bomb_ofab250sh_v3]"
+[Thu Jan  8 17:14:08 2026] <STEAM_0:0:586457449> NTF Epsilon11: /ooc я аж ахуел от жизни
+[Thu Jan  8 17:14:13 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [505][sw_bomb_ofab250sh_v3]"
+[Thu Jan  8 17:14:16 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [642][sw_bomb_ofab250sh_v3]"
+[Thu Jan  8 17:14:19 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [643][sw_bomb_kab1500l_v3]"
+[Thu Jan  8 17:14:21 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [667][sw_bomb_brab1000_1938_v3]"
+[Thu Jan  8 17:14:21 2026] gREG4IK has killed gREG4IK.
+[Thu Jan  8 17:14:36 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [509][sw_mine_pfm1_v3]"
+[Thu Jan  8 17:14:38 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /nato рч 122
+[Thu Jan  8 17:14:38 2026] gREG4IK has killed gREG4IK.
+[Thu Jan  8 17:14:54 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [755][tfa_inss2_hk_mp5a5]"
+[Thu Jan  8 17:14:54 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [756][tfa_inss2_hk_mp5a5]"
+[Thu Jan  8 17:15:04 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [766][lvs_wheeldrive_hummer]"
+[Thu Jan  8 17:15:04 2026] Smasher has killed BloodySmile.
+[Thu Jan  8 17:15:12 2026] <STEAM_0:1:455594560> gREG4IK spawned vehicle "Vehicle [513][prop_vehicle_jeep]"
+[Thu Jan  8 17:15:21 2026] Mr.Monolith has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Thu Jan  8 17:16:36 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Thu Jan  8 17:16:38 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Thu Jan  8 17:17:09 2026] Player "geni_YT" <STEAM_0:0:405489818> is attempting to connect.
+[Thu Jan  8 17:17:18 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_aamloadout_editor_v3"
+[Thu Jan  8 17:17:19 2026] Player "geni_YT" <STEAM_0:0:405489818> is attempting to connect.
+[Thu Jan  8 17:17:26 2026] <STEAM_0:1:618974024> S0u1: /rf Я проснулся
+[Thu Jan  8 17:17:37 2026] <STEAM_0:1:47931114> Mr.Monolith: /rf Добро
+[Thu Jan  8 17:18:26 2026] <STEAM_0:1:455594560> gREG4IK: /event Внимания Силы НАТО стягивают силы в городе
+[Thu Jan  8 17:18:37 2026] Smasher has killed NTF Epsilon11.
+[Thu Jan  8 17:18:40 2026] <STEAM_0:1:618974024> S0u1: /rf Может с города съебем?
+[Thu Jan  8 17:18:53 2026] S0u1 has killed punk.
+[Thu Jan  8 17:18:54 2026] punk has killed punk.
+[Thu Jan  8 17:19:08 2026] <STEAM_0:0:586457449> NTF Epsilon11: /me Поставил роспись за 1 шт АК-74, 5.45мм x 39 - 150шт. | РЯД Петров И.И
+[Thu Jan  8 17:19:23 2026] <STEAM_0:1:618974024> S0u1: /rf Танк жмет меня!
+[Thu Jan  8 17:19:33 2026] <STEAM_0:1:618974024> S0u1: /rf Подсабите!!
+[Thu Jan  8 17:19:40 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "ammo MAJ A.E. Evergarden"
+[Thu Jan  8 17:19:40 2026] Player "punk" <STEAM_0:0:921324874> has left the server
+[Thu Jan  8 17:19:41 2026] Player "punk" <STEAM_0:0:921324874> is attempting to connect.
+[Thu Jan  8 17:19:43 2026] Smasher has killed BloodySmile.
+[Thu Jan  8 17:19:48 2026] <STEAM_0:1:47931114> Mr.Monolith: /rf Не могу помочь, увы РПГ у меня нет
+[Thu Jan  8 17:19:49 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [506][lvs_wheeldrive_hummer_mk19]"
+[Thu Jan  8 17:19:52 2026] <STEAM_0:1:618974024> S0u1: /rf Ушел..
+[Thu Jan  8 17:20:07 2026] <STEAM_0:0:586457449> NTF Epsilon11: ДА АРТОЙ ПО ГОРОДУ БЛЯТЬ!
+[Thu Jan  8 17:20:10 2026] Player "punk" <STEAM_0:0:921324874> has spawned in the server
+[Thu Jan  8 17:20:10 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [614][sw_bmp2m]"
+[Thu Jan  8 17:20:21 2026] <STEAM_0:1:618974024> S0u1: /rf Я в пальму спрятался..
+[Thu Jan  8 17:20:23 2026] <STEAM_0:1:220381002> Smasher: /nato убил дохуя челов и тигр с птуром
+[Thu Jan  8 17:20:26 2026] <STEAM_0:1:618974024> S0u1: /rf Есть аптечка у кого?
+[Thu Jan  8 17:20:29 2026] <STEAM_0:1:220381002> Smasher: /nato хватайте город
+[Thu Jan  8 17:20:38 2026] <STEAM_0:1:455594560> gREG4IK: /rf
+[Thu Jan  8 17:20:40 2026] <STEAM_0:1:220381002> Smasher: /nato нитров на окраине бегает по домам
+[Thu Jan  8 17:20:42 2026] <STEAM_0:0:586457449> NTF Epsilon11: /rf АРТОЙ ВЪЕБАТЬ НАДО
+[Thu Jan  8 17:21:01 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [614][sw_bmp1m]"
+[Thu Jan  8 17:21:41 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [614][sw_bmp1m]"
+[Thu Jan  8 17:21:43 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [495][sw_bmp1am]"
+[Thu Jan  8 17:21:45 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [777][sw_bmp1]"
+[Thu Jan  8 17:21:50 2026] Player "geni_YT" <STEAM_0:0:405489818> has spawned in the server
+[Thu Jan  8 17:22:09 2026] <STEAM_0:1:455594560> gREG4IK: /event Силы НАТО уверенно захватыватили почти все точки в позиции "ГОРОД"
+[Thu Jan  8 17:22:21 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [495][lvs_wheeldrive_rp_t90m]"
+[Thu Jan  8 17:22:40 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [495][lvs_wheeldrive_nonrp_t90m]"
+[Thu Jan  8 17:24:07 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [811][sw_mine_pfm1_v3]"
+[Thu Jan  8 17:24:09 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [812][sw_mine_pfm1_v3]"
+[Thu Jan  8 17:24:38 2026] Smasher has killed NTF Epsilon11.
+[Thu Jan  8 17:24:42 2026] Player "geni_YT" <STEAM_0:0:405489818> has left the server
+[Thu Jan  8 17:24:45 2026] <STEAM_0:1:220381002> Smasher: /nato tank
+[Thu Jan  8 17:24:55 2026] BloodySmile has killed Smasher.
+[Thu Jan  8 17:25:02 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [523][sw_bomb_ofab100_v3]"
+[Thu Jan  8 17:25:06 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [635][sw_bomb_ofab250_v3]"
+[Thu Jan  8 17:25:07 2026] Player "geni_YT" <STEAM_0:0:405489818> is attempting to connect.
+[Thu Jan  8 17:25:11 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [635][sw_bomb_ofab250_v3]"
+[Thu Jan  8 17:25:19 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [523][sw_bomb_ofab250sh_v3]"
+[Thu Jan  8 17:25:25 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [523][sw_rocket_m31_v3]"
+[Thu Jan  8 17:25:29 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [522][sw_rocket_m31_v3]"
+[Thu Jan  8 17:25:34 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [522][sw_rocket_m31_v3]"
+[Thu Jan  8 17:25:36 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [522][sw_rocket_m31_v3]"
+[Thu Jan  8 17:25:40 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [522][sw_rocket_m31_v3]"
+[Thu Jan  8 17:25:49 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [636][sw_rocket_m31_v3]"
+[Thu Jan  8 17:26:04 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [636][sw_rocket_m31_v3]"
+[Thu Jan  8 17:26:16 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [830][sw_rocket_m31_v3]"
+[Thu Jan  8 17:26:25 2026] Player "TANZI" <STEAM_0:0:561366370> is attempting to connect.
+[Thu Jan  8 17:26:46 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [506][sw_rocket_m31_v3]"
+[Thu Jan  8 17:26:47 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [507][sw_rocket_m31_v3]"
+[Thu Jan  8 17:26:50 2026] Player "geni_YT" <STEAM_0:0:405489818> has spawned in the server
+[Thu Jan  8 17:26:51 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [506][sw_rocket_m31_v3]"
+[Thu Jan  8 17:26:51 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [514][sw_rocket_m31_v3]"
+[Thu Jan  8 17:26:52 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [525][sw_rocket_m31_v3]"
+[Thu Jan  8 17:26:52 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [526][sw_rocket_m31_v3]"
+[Thu Jan  8 17:26:55 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [506][sw_rocket_m31_v3]"
+[Thu Jan  8 17:26:55 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [514][sw_rocket_m31_v3]"
+[Thu Jan  8 17:26:55 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [525][sw_rocket_m31_v3]"
+[Thu Jan  8 17:26:55 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [526][sw_rocket_m31_v3]"
+[Thu Jan  8 17:27:02 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [506][sw_rocket_m31_v3]"
+[Thu Jan  8 17:27:02 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [514][sw_rocket_m31_v3]"
+[Thu Jan  8 17:27:03 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [525][sw_rocket_m31_v3]"
+[Thu Jan  8 17:27:03 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [526][sw_rocket_m31_v3]"
+[Thu Jan  8 17:27:20 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [506][sw_rocket_m31_v3]"
+[Thu Jan  8 17:27:20 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [514][sw_rocket_m31_v3]"
+[Thu Jan  8 17:27:21 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [525][sw_rocket_m31_v3]"
+[Thu Jan  8 17:27:21 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [526][sw_rocket_m31_v3]"
+[Thu Jan  8 17:27:21 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [582][sw_rocket_m31_v3]"
+[Thu Jan  8 17:27:25 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [506][sw_rocket_m31_v3]"
+[Thu Jan  8 17:27:26 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [514][sw_rocket_m31_v3]"
+[Thu Jan  8 17:27:26 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [525][sw_rocket_m31_v3]"
+[Thu Jan  8 17:27:26 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [526][sw_rocket_m31_v3]"
+[Thu Jan  8 17:27:26 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [582][sw_rocket_m31_v3]"
+[Thu Jan  8 17:27:39 2026] S0u1 has killed punk.
+[Thu Jan  8 17:27:44 2026] Smasher has killed NTF Epsilon11.
+[Thu Jan  8 17:27:49 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [514][sw_rocket_m31_v3]"
+[Thu Jan  8 17:27:49 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [522][sw_rocket_m31_v3]"
+[Thu Jan  8 17:27:49 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [526][sw_rocket_m31_v3]"
+[Thu Jan  8 17:27:52 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [514][sw_bomb_ofab250_v3]"
+[Thu Jan  8 17:27:59 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [522][sw_bomb_ofab250_v3]"
+[Thu Jan  8 17:27:59 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [526][sw_bomb_ofab250_v3]"
+[Thu Jan  8 17:27:59 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [582][sw_bomb_ofab250_v3]"
+[Thu Jan  8 17:28:05 2026] <STEAM_0:1:220381002> Smasher: // кто нахуй бомбит город
+[Thu Jan  8 17:28:17 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [586][sw_rocket_pg9v_v3]"
+[Thu Jan  8 17:28:30 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [506][sw_bomb_ofab250_umpk_v3]"
+[Thu Jan  8 17:28:33 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [506][sw_bomb_ao1_v3]"
+[Thu Jan  8 17:28:38 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [506][sw_bomb_ao1_v3]"
+[Thu Jan  8 17:28:42 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [506][sw_bomb_brab1000m43_v3]"
+[Thu Jan  8 17:28:54 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [589][sw_bomb_brab1000m43_v3]"
+[Thu Jan  8 17:28:58 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [589][sw_bomb_brab1000m43_v3]"
+[Thu Jan  8 17:29:00 2026] gREG4IK has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Thu Jan  8 17:29:39 2026] <STEAM_0:1:220381002> Smasher: /nato кто где
+[Thu Jan  8 17:29:46 2026] <STEAM_0:1:54838838> BloodySmile: /me показал военный билет: [543288][Соколов К.И.]|[ГСРЖТ][ILDU]|[-][-]
+[Thu Jan  8 17:30:07 2026] Player "TANZI" <STEAM_0:0:561366370> is attempting to connect.
+[Thu Jan  8 17:30:11 2026] <STEAM_0:1:220381002> Smasher: /nato кто где
+[Thu Jan  8 17:30:23 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [791][sw_bomb_brab1000m43_v3]"
+[Thu Jan  8 17:30:24 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /nato рч 122
+[Thu Jan  8 17:30:24 2026] gREG4IK has killed NTF Epsilon11.
+[Thu Jan  8 17:30:34 2026] Smasher has killed S0u1.
+[Thu Jan  8 17:30:35 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "ammo MAJ A.E. Evergarden"
+[Thu Jan  8 17:30:39 2026] Player "geni_YT" <STEAM_0:0:405489818> has left the server
+[Thu Jan  8 17:30:41 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [507][sw_bomb_brab1000m43_v3]"
+[Thu Jan  8 17:30:42 2026] Player "TANZI" <STEAM_0:0:561366370> has spawned in the server
+[Thu Jan  8 17:30:43 2026] <STEAM_0:1:618974024> S0u1: /looc поднимай хпхахх
+[Thu Jan  8 17:30:51 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [507][sw_bomb_brab250_v3]"
+[Thu Jan  8 17:30:51 2026] <STEAM_0:1:618974024> S0u1: // мы застряли
+[Thu Jan  8 17:30:56 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [794][lvs_wheeldrive_hummer]"
+[Thu Jan  8 17:30:56 2026] gREG4IK has killed NTF Epsilon11.
+[Thu Jan  8 17:30:56 2026] gREG4IK has killed S0u1.
+[Thu Jan  8 17:30:57 2026] <STEAM_0:1:618974024> S0u1: // все уже
+[Thu Jan  8 17:31:05 2026] <STEAM_0:1:220381002> Smasher ran command "a сделай типо город разрушен воюйте за другие точки"
+[Thu Jan  8 17:31:10 2026] <STEAM_0:1:220381002> Smasher ran command "a потому что город уже заебал"
+[Thu Jan  8 17:32:21 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [609][sw_bomb_brab1000_1938_v3]"
+[Thu Jan  8 17:32:25 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [587][sw_bomb_ao1_v3]"
+[Thu Jan  8 17:32:27 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [582][sw_bomb_ao1_v3]"
+[Thu Jan  8 17:32:30 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [662][sw_bomb_brab500m43_v3]"
+[Thu Jan  8 17:32:36 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [796][sw_bomb_brab500m43_v3]"
+[Thu Jan  8 17:32:37 2026] BloodySmile has killed Smasher.
+[Thu Jan  8 17:32:40 2026] gREG4IK has killed gREG4IK.
+[Thu Jan  8 17:32:40 2026] gREG4IK has killed punk.
+[Thu Jan  8 17:33:37 2026] <STEAM_0:0:561366370> TANZI: // Как оффнуть музыку :cry:
+[Thu Jan  8 17:33:44 2026] <STEAM_0:1:220381002> Smasher: /rp Город уничтожен массированным бомбовым ударом, силам РФ и НАТО приступить к захвату других стратегичских точек
+[Thu Jan  8 17:33:44 2026] <STEAM_0:0:921324874> punk: // f1
+[Thu Jan  8 17:33:45 2026] <STEAM_0:1:618974024> S0u1: // stopsound в консоль попробуй
+[Thu Jan  8 17:33:47 2026] <STEAM_0:1:455594560> gREG4IK: /ooc f1 и внизу остоновить звуки
+[Thu Jan  8 17:33:50 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // stopsound
+[Thu Jan  8 17:33:53 2026] <STEAM_0:1:618974024> S0u1: // ну или так
+[Thu Jan  8 17:33:55 2026] <STEAM_0:1:455594560> gREG4IK: /ooc f1 и внизу остоновить звуки
+[Thu Jan  8 17:33:56 2026] <STEAM_0:0:561366370> TANZI: // Спасибо <3
+[Thu Jan  8 17:34:16 2026] <STEAM_0:1:220381002> Smasher: /rp Город уничтожен массированным бомбовым ударом, силам РФ и НАТО приступить к захвату других стратегичских точек
+[Thu Jan  8 17:34:31 2026] <STEAM_0:1:455594560> gREG4IK: /nato Приступаю к захвату других точек
+[Thu Jan  8 17:34:38 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [585][lvs_wheeldrive_hummer]"
+[Thu Jan  8 17:34:40 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [585][lvs_wheeldrive_hummer_m134]"
+[Thu Jan  8 17:34:58 2026] <STEAM_0:1:455594560> gREG4IK: к заправке
+[Thu Jan  8 17:35:16 2026] Mr.Monolith has killed punk.
+[Thu Jan  8 17:35:17 2026] punk has killed punk.
+[Thu Jan  8 17:35:27 2026] BloodySmile has killed Smasher.
+[Thu Jan  8 17:35:27 2026] Smasher has killed Smasher.
+[Thu Jan  8 17:36:38 2026] <STEAM_0:1:618974024> S0u1: /rf По своим ебашите!
+[Thu Jan  8 17:36:39 2026] <STEAM_0:0:586457449> NTF Epsilon11: /rf У ГОРОДА СВОИ БЛЯТЬ
+[Thu Jan  8 17:36:55 2026] <STEAM_0:1:47931114> Mr.Monolith: /rf Принял.
+[Thu Jan  8 17:36:58 2026] <STEAM_0:1:618974024> S0u1: // В город нельзя ходить?
+[Thu Jan  8 17:37:00 2026] <STEAM_0:1:47931114> Mr.Monolith: /rf Из далека не видно.
+[Thu Jan  8 17:37:05 2026] <STEAM_0:1:220381002> Smasher: // города нету по рп
+[Thu Jan  8 17:37:09 2026] <STEAM_0:1:618974024> S0u1: // А ок
+[Thu Jan  8 17:37:11 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // по рп нету города
+[Thu Jan  8 17:38:45 2026] Player "Лесник" <STEAM_0:0:200862208> is attempting to connect.
+[Thu Jan  8 17:39:21 2026] Player "Лесник" <STEAM_0:0:200862208> has spawned in the server
+[Thu Jan  8 17:39:56 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [495][lvs_wheeldrive_nonrp_t90m]"
+[Thu Jan  8 17:40:14 2026] Player "Worshiper of God" <STEAM_0:0:74235942> is attempting to connect.
+[Thu Jan  8 17:40:27 2026] NTF Epsilon11 has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Thu Jan  8 17:40:28 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Thu Jan  8 17:40:44 2026] Smasher has killed TANZI.
+[Thu Jan  8 17:40:46 2026] <STEAM_0:0:586457449> NTF Epsilon11: /me достал стяжки и стяжками сковал руки американца
+[Thu Jan  8 17:40:52 2026] Player "Worshiper of God" <STEAM_0:0:74235942> has spawned in the server
+[Thu Jan  8 17:40:52 2026] Smasher has killed BloodySmile.
+[Thu Jan  8 17:40:52 2026] Smasher has killed Mr.Monolith.
+[Thu Jan  8 17:41:01 2026] worldspawn has killed S0u1.
+[Thu Jan  8 17:41:02 2026] <STEAM_0:0:200862208> Лесник: нужен водитель на танк!!
+[Thu Jan  8 17:41:09 2026] <STEAM_0:0:200862208> Лесник: нужен водитель на танк!!
+[Thu Jan  8 17:41:10 2026] <STEAM_0:0:200862208> Лесник: нужен водитель на танк!!
+[Thu Jan  8 17:41:11 2026] <STEAM_0:0:200862208> Лесник: нужен водитель на танк!!
+[Thu Jan  8 17:41:18 2026] <STEAM_0:0:200862208> Лесник: нужен водитель на танк!!
+[Thu Jan  8 17:41:23 2026] <STEAM_0:0:200862208> Лесник: нужен водитель на танк!!
+[Thu Jan  8 17:41:31 2026] <STEAM_0:0:200862208> Лесник: щас
+[Thu Jan  8 17:41:39 2026] <STEAM_0:0:200862208> Лесник: 2 место уйди
+[Thu Jan  8 17:41:43 2026] <STEAM_0:0:200862208> Лесник: нет
+[Thu Jan  8 17:41:46 2026] <STEAM_0:0:200862208> Лесник: ща
+[Thu Jan  8 17:41:46 2026] <STEAM_0:1:220381002> Smasher: // эээй макарена
+[Thu Jan  8 17:41:50 2026] <STEAM_0:1:618974024> S0u1: // нет
+[Thu Jan  8 17:41:56 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [529][lvs_wheeldrive_nonrp_t90m]"
+[Thu Jan  8 17:42:06 2026] <STEAM_0:0:200862208> Лесник: о
+[Thu Jan  8 17:42:11 2026] <STEAM_0:0:586457449> NTF Epsilon11: /me Поставил роспись за 1 шт АК-74, 5.45мм x 39 - 150шт. | РЯД Петров И.И
+[Thu Jan  8 17:42:12 2026] <STEAM_0:0:200862208> Лесник: да
+[Thu Jan  8 17:42:25 2026] <STEAM_0:0:586457449> NTF Epsilon11: /ad У меня пленный американец на заправке блять! я ёбну если вы не выйдите на частоту 23
+[Thu Jan  8 17:42:28 2026] <STEAM_0:1:455594560> gREG4IK: /event НАТО превосходит РФ по точкам.
+[Thu Jan  8 17:42:33 2026] <STEAM_0:0:200862208> Лесник: ну
+[Thu Jan  8 17:42:34 2026] <STEAM_0:1:618974024> S0u1: // не правда
+[Thu Jan  8 17:42:37 2026] <STEAM_0:0:200862208> Лесник: 2
+[Thu Jan  8 17:42:56 2026] <STEAM_0:0:200862208> Лесник: ну мне водитель нужен
+[Thu Jan  8 17:43:21 2026] <STEAM_0:0:200862208> Лесник: /ad [1-ВЭ--ШТАБ] Ответа не услышал, взлетаю (если 
+[Thu Jan  8 17:43:22 2026] <STEAM_0:0:200862208> Лесник: /ad [1-ВЭ--ШТАБ] Ответа не услышал, взлетаю (если
+[Thu Jan  8 17:43:23 2026] <STEAM_0:0:200862208> Лесник: /ad [1-ВЭ--ШТАБ] Ответа не услышал, взлетаю (если 
+[Thu Jan  8 17:43:23 2026] <STEAM_0:0:200862208> Лесник: /ad [1-ВЭ--ШТАБ] Ответа не услышал, взлетаю (если
+[Thu Jan  8 17:43:24 2026] <STEAM_0:0:200862208> Лесник: /ad [1-ВЭ--ШТАБ] Ответа не услышал, взлетаю (если 
+[Thu Jan  8 17:43:24 2026] <STEAM_0:0:200862208> Лесник: /ad [1-ВЭ--ШТАБ] Ответа не услышал, взлетаю (если
+[Thu Jan  8 17:43:25 2026] <STEAM_0:0:586457449> NTF Epsilon11: /ooc как в незащещёную сеть написать..
+[Thu Jan  8 17:43:25 2026] Player "C2H5OH в Крови" <STEAM_0:1:500418219> is attempting to connect.
+[Thu Jan  8 17:43:25 2026] <STEAM_0:0:200862208> Лесник: /ad [1-ВЭ--ШТАБ] Ответа не услышал, взлетаю (если 
+[Thu Jan  8 17:43:25 2026] <STEAM_0:0:200862208> Лесник: /ad [1-ВЭ--ШТАБ] Ответа не услышал, взлетаю (если
+[Thu Jan  8 17:43:26 2026] <STEAM_0:0:200862208> Лесник: /ad [1-ВЭ--ШТАБ] Ответа не услышал, взлетаю (если 
+[Thu Jan  8 17:43:26 2026] <STEAM_0:0:200862208> Лесник: /ad [1-ВЭ--ШТАБ] Ответа не услышал, взлетаю (если
+[Thu Jan  8 17:43:33 2026] Player "THE-_-Reper" <STEAM_0:1:526999954> is attempting to connect.
+[Thu Jan  8 17:43:36 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: .com
+[Thu Jan  8 17:44:03 2026] <STEAM_0:1:618974024> S0u1: /rf Отключаю рацию, свяжусь если что.
+[Thu Jan  8 17:44:04 2026] <STEAM_0:1:220381002> Smasher: // нихуя вас дохуя
+[Thu Jan  8 17:44:11 2026] <STEAM_0:0:74235942> Worshiper of God: // грег можешь меня за нато закинуть я помогу
+[Thu Jan  8 17:44:19 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [625][lvs_wheeldrive_nonrp_t90m]"
+[Thu Jan  8 17:44:19 2026] <STEAM_0:1:455594560> gREG4IK: /ooc так низя.
+[Thu Jan  8 17:44:19 2026] <STEAM_0:0:586457449> NTF Epsilon11: /com на заправке пленный американец,я его ёбну если через 5 минут не выйдите на связь на рч 23
+[Thu Jan  8 17:45:07 2026] Player "THE-_-Reper" <STEAM_0:1:526999954> is attempting to connect.
+[Thu Jan  8 17:45:16 2026] NTF Epsilon11 has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Thu Jan  8 17:45:17 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Thu Jan  8 17:45:17 2026] Smasher has killed NTF Epsilon11.
+[Thu Jan  8 17:45:57 2026] <STEAM_0:1:455594560> gREG4IK: /event ВНИМАНИЯ ЗАЛОЖНИК БЫЛ ОСВОБОЖДЕН
+[Thu Jan  8 17:46:01 2026] <STEAM_0:1:220381002> Smasher: /me развязал
+[Thu Jan  8 17:46:09 2026] Player "punk" <STEAM_0:0:921324874> has left the server
+[Thu Jan  8 17:46:12 2026] <STEAM_0:1:455594560> gREG4IK: /event РФ поступило нагло, оно поплатиться за это
+[Thu Jan  8 17:46:29 2026] <STEAM_0:0:561366370> TANZI: а
+[Thu Jan  8 17:46:37 2026] <STEAM_0:0:561366370> TANZI: /rf Проблемка
+[Thu Jan  8 17:47:03 2026] <STEAM_0:1:54838838> BloodySmile used tool "remover"
+[Thu Jan  8 17:47:05 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [496][lvs_wheeldrive_nonrp_t90m]"
+[Thu Jan  8 17:47:08 2026] Player "BadBeeBoy♡" <STEAM_0:0:46593395> is attempting to connect.
+[Thu Jan  8 17:47:18 2026] <STEAM_0:1:618974024> S0u1: // флаги же после бомбежки остались?
+[Thu Jan  8 17:47:20 2026] <STEAM_0:1:618974024> S0u1: // в городе
+[Thu Jan  8 17:47:24 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // неа
+[Thu Jan  8 17:47:25 2026] <STEAM_0:1:220381002> Smasher: /rp Город уничтожен массированным бомбовым ударом, силам РФ и НАТО приступить к захвату других стратегичских точек
+[Thu Jan  8 17:47:27 2026] <STEAM_0:1:618974024> S0u1: // блять
+[Thu Jan  8 17:47:32 2026] <STEAM_0:1:618974024> S0u1: // я думал остались типо
+[Thu Jan  8 17:47:33 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // город полностью стёрт
+[Thu Jan  8 17:47:39 2026] <STEAM_0:1:618974024> S0u1: // все я тупой извиняйте
+[Thu Jan  8 17:47:39 2026] <STEAM_0:1:220381002> Smasher: // зач вы захватываете просто руины ебучие
+[Thu Jan  8 17:47:43 2026] <STEAM_0:1:618974024> S0u1: // я 1
+[Thu Jan  8 17:47:46 2026] <STEAM_0:0:561366370> TANZI: // А вы типо карту специально нахуй разносите?)))
+[Thu Jan  8 17:47:49 2026] <STEAM_0:1:618974024> S0u1: // айкью тоже 1
+[Thu Jan  8 17:48:01 2026] <STEAM_0:0:586457449> NTF Epsilon11: /rf нитров блять на рацию!
+[Thu Jan  8 17:48:12 2026] <STEAM_0:0:561366370> TANZI: /rf Танк 1 на рацию?
+[Thu Jan  8 17:48:49 2026] <STEAM_0:1:455594560> gREG4IK: /event Внимания НАТО уничтожило почти все РФ подразделение. Оставшися силы сдайтесь
+[Thu Jan  8 17:49:00 2026] <STEAM_0:0:586457449> NTF Epsilon11: /com пошли нахуй!
+[Thu Jan  8 17:49:04 2026] <STEAM_0:0:561366370> TANZI: /rf КОНТАКТ
+[Thu Jan  8 17:49:27 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [765][lvs_wheeldrive_hummer]"
+[Thu Jan  8 17:49:28 2026] <STEAM_0:1:455594560> gREG4IK: /ooc а как писать в незащищенную сеть?
+[Thu Jan  8 17:49:35 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // ./com
+[Thu Jan  8 17:49:40 2026] Smasher has killed S0u1.
+[Thu Jan  8 17:50:13 2026] <STEAM_0:1:220381002> Smasher: /com You look like a cut of fuckable meat. Are you?
+[Thu Jan  8 17:50:50 2026] <STEAM_0:1:455594560> gREG4IK: /event ВНИМАНИЯ РФ у нас ваш пленный. Ваши действия будут отражены на нем.
+[Thu Jan  8 17:50:54 2026] <STEAM_0:1:47931114> Mr.Monolith: /com Пизди на русском, подстилка демократии
+[Thu Jan  8 17:51:02 2026] <STEAM_0:1:455594560> gREG4IK: /event Мы сообщим как его забрать ждите инструкций.
+[Thu Jan  8 17:51:06 2026] <STEAM_0:1:455594560> gREG4IK: /event ВНИМАНИЯ РФ у нас ваш пленный. Ваши действия будут отражены на нем.
+[Thu Jan  8 17:51:08 2026] <STEAM_0:1:455594560> gREG4IK: /event Мы сообщим как его забрать ждите инструкций.
+[Thu Jan  8 17:51:13 2026] <STEAM_0:0:586457449> NTF Epsilon11: /com рч чтоб связаться насчет бойца?
+[Thu Jan  8 17:51:13 2026] <STEAM_0:0:586457449> NTF Epsilon11: /me показал военный билет: Петров.И.И | РЯД | 102-й МСП | МОБИЛ | - | - |
+[Thu Jan  8 17:51:27 2026] <STEAM_0:0:561366370> TANZI: /com ez заправка
+[Thu Jan  8 17:52:39 2026] <STEAM_0:1:220381002> Smasher: /nato допросить, выведать всю инфу которая может пригодиться, разрешено применение физ и психологического давления
+[Thu Jan  8 17:52:59 2026] <STEAM_0:1:220381002> Smasher: /nato допросить, выведать всю инфу которая может пригодиться, разрешено применение физ и психологического давления
+[Thu Jan  8 17:53:10 2026] Player "THE-_-Reper" <STEAM_0:1:526999954> is attempting to connect.
+[Thu Jan  8 17:53:48 2026] <STEAM_0:0:586457449> NTF Epsilon11: /com слышьте америкосы бля выйдите на рч 87
+[Thu Jan  8 17:54:09 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /com отказано.
+[Thu Jan  8 17:54:19 2026] <STEAM_0:0:561366370> TANZI: /com Зассали пендосы ez
+[Thu Jan  8 17:54:26 2026] <STEAM_0:1:220381002> Smasher: /com Rejected
+[Thu Jan  8 17:54:33 2026] <STEAM_0:0:586457449> NTF Epsilon11: /com переговоры насчет бойца блять!
+[Thu Jan  8 17:54:38 2026] <STEAM_0:1:47931114> Mr.Monolith: // Как это, конечно, кринжово выглядит xD
+[Thu Jan  8 17:54:44 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /com geh zum ficken russisch
+[Thu Jan  8 17:54:48 2026] <STEAM_0:0:561366370> TANZI: // ПРАСТИТИ qmq
+[Thu Jan  8 17:54:54 2026] <STEAM_0:1:220381002> Smasher: /nato Попробуйте переманить его к нам
+[Thu Jan  8 17:55:09 2026] <STEAM_0:0:586457449> NTF Epsilon11: /com пошел нахуй америкос!
+[Thu Jan  8 17:55:34 2026] <STEAM_0:1:220381002> Smasher: /com You are shitting your pants while see our Bradlyes
+[Thu Jan  8 17:55:46 2026] <STEAM_0:1:220381002> Smasher: /com Dont fuck with us
+[Thu Jan  8 17:55:59 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "ammo MAJ A.E. Evergarden"
+[Thu Jan  8 17:56:04 2026] <STEAM_0:0:74235942> Worshiper of God: // люди в городе нельзя захватывать город РАЗРУШЕН
+[Thu Jan  8 17:56:05 2026] Player "THE-_-Reper" <STEAM_0:1:526999954> has spawned in the server
+[Thu Jan  8 17:56:16 2026] <STEAM_0:1:47931114> Mr.Monolith: // А мни похой
+[Thu Jan  8 17:56:17 2026] <STEAM_0:0:561366370> TANZI: // Харашо :D
+[Thu Jan  8 17:58:27 2026] Player "BadBeeBoy♡" <STEAM_0:0:46593395> has spawned in the server
+[Thu Jan  8 17:58:30 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [642][lfs_grdn_ah1g]"
+[Thu Jan  8 17:58:33 2026] <STEAM_0:0:586457449> NTF Epsilon11: /com членососы ебанные у вас есть 5 минут на совобождение заложника если он погибнет вашу базу наша арта разъебет у вас 2 минуты выйти на рч 87
+[Thu Jan  8 17:58:37 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [642][lfs_grdn_ec665uht]"
+[Thu Jan  8 17:58:37 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [650][lfs_grdn_md500tow]"
+[Thu Jan  8 17:58:38 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [658][lfs_grdn_mi24d]"
+[Thu Jan  8 17:58:38 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [664][lfs_grdn_mi28nm]"
+[Thu Jan  8 17:58:39 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [667][lfs_grdn_sa316b]"
+[Thu Jan  8 17:58:39 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [757][lfs_uh60]"
+[Thu Jan  8 17:58:39 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [780][lfs_uh60]"
+[Thu Jan  8 17:59:04 2026] <STEAM_0:1:455594560> gREG4IK ran command "send Ramirez"
+[Thu Jan  8 17:59:15 2026] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [642][lfs_grdn_ec665uht]"
+[Thu Jan  8 17:59:23 2026] <STEAM_0:0:561366370> TANZI: /com Peoples of America, can we get our man?
+[Thu Jan  8 17:59:59 2026] <STEAM_0:1:220381002> Smasher: /rp На базе Армии НАТО приземлился UH-60 Blackhawk вместе с сотрудниками контрразведки, военнопленный был передан в тыл для более глубокого допроса
+[Thu Jan  8 18:00:26 2026] <STEAM_0:1:455594560> gREG4IK: /event Новичок в РФ ОБУЧИТЬ!
+[Thu Jan  8 18:00:52 2026] <STEAM_0:1:47931114> Mr.Monolith: /com Внимание, вещает подполковник РФ, вы бы не нарушали Женевскую конвенцию. А то и нам нарушить ее недолго.
+[Thu Jan  8 18:01:28 2026] <STEAM_0:1:220381002> Smasher ran command "respawn Соколов"
+[Thu Jan  8 18:01:34 2026] <STEAM_0:1:618974024> S0u1: // я закован
+[Thu Jan  8 18:01:36 2026] <STEAM_0:1:618974024> S0u1: // все еще
+[Thu Jan  8 18:01:39 2026] <STEAM_0:0:561366370> TANZI: // Нато нужна поддержка? (Я просто хочу потесть Рп там :sob:)
+[Thu Jan  8 18:01:41 2026] S0u1 has killed S0u1.
+[Thu Jan  8 18:01:41 2026] <STEAM_0:1:220381002> Smasher ran command "slay Соколов"
+[Thu Jan  8 18:01:49 2026] <STEAM_0:1:220381002> Smasher ran command "respawn Соколов"
+[Thu Jan  8 18:01:55 2026] <STEAM_0:1:47931114> Mr.Monolith: /com Либо возвращаете нам бойца, либо мы идет на штурм вашей базы, захватывая вашу нефть и разрушая вашу "великую" демократию!
+[Thu Jan  8 18:01:55 2026] <STEAM_0:1:220381002> Smasher: // а щяс
+[Thu Jan  8 18:02:01 2026] <STEAM_0:1:618974024> S0u1: // все
+[Thu Jan  8 18:02:12 2026] <STEAM_0:0:561366370> TANZI: /looc Они сделают откат
+[Thu Jan  8 18:02:15 2026] <STEAM_0:1:47931114> Mr.Monolith: /com Я считаю до 5 и жду ответа.
+[Thu Jan  8 18:02:22 2026] <STEAM_0:1:220381002> Smasher: /com Ваш боец был отправлен в тыл, его вам уже не достать
+[Thu Jan  8 18:02:30 2026] <STEAM_0:0:586457449> NTF Epsilon11: /com хуесос!
+[Thu Jan  8 18:02:30 2026] <STEAM_0:1:47931114> Mr.Monolith: /com Я вас услышал.
+[Thu Jan  8 18:02:35 2026] <STEAM_0:1:47931114> Mr.Monolith: /rf ЕБАШЬТЕ
+[Thu Jan  8 18:03:03 2026] <STEAM_0:1:455594560> gREG4IK: /event Новичок в РФ ОБУЧИТЬ!
+[Thu Jan  8 18:03:07 2026] <STEAM_0:1:455594560> gREG4IK ran command "spectate Бабалюбов"
+[Thu Jan  8 18:03:13 2026] <STEAM_0:1:618974024> S0u1: // я новичок типо?
+[Thu Jan  8 18:03:17 2026] <STEAM_0:0:586457449> NTF Epsilon11: /ooc  ДА ЩА У НАС БОЙ
+[Thu Jan  8 18:03:21 2026] <STEAM_0:1:618974024> S0u1: // :/
+[Thu Jan  8 18:03:29 2026] <STEAM_0:1:618974024> S0u1: // найс рпк
+[Thu Jan  8 18:03:30 2026] <STEAM_0:1:220381002> Smasher: // нет яже сказал что у тебя перс сохранился просто другой человек по рп
+[Thu Jan  8 18:03:35 2026] <STEAM_0:1:618974024> S0u1: // А понял
+[Thu Jan  8 18:03:43 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [916][tfa_m4tech]"
+[Thu Jan  8 18:04:06 2026] THE-_-Reper has killed NTF Epsilon11.
+[Thu Jan  8 18:04:07 2026] NTF Epsilon11 has killed NTF Epsilon11.
+[Thu Jan  8 18:04:13 2026] Worshiper of God has killed THE-_-Reper.
+[Thu Jan  8 18:04:17 2026] TANZI has killed gREG4IK.
+[Thu Jan  8 18:04:34 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [757][sw_bomb_brab250_v3]"
+[Thu Jan  8 18:04:55 2026] Worshiper of God has killed gREG4IK.
+[Thu Jan  8 18:05:04 2026] <STEAM_0:1:455594560> gREG4IK ran command "spectate Ramirez"
+[Thu Jan  8 18:05:09 2026] Worshiper of God has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Thu Jan  8 18:05:15 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [791][tfa_ins2_wpn_coltm4a1]"
+[Thu Jan  8 18:05:16 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [814][tfa_ins2_wpn_coltm4a1]"
+[Thu Jan  8 18:05:16 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [609][tfa_ins2_wpn_coltm4a1]"
+[Thu Jan  8 18:05:16 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [839][tfa_ins2_wpn_coltm4a1]"
+[Thu Jan  8 18:05:17 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [840][tfa_ins2_wpn_coltm4a1]"
+[Thu Jan  8 18:05:17 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [814][tfa_ins2_wpn_coltm4a1]"
+[Thu Jan  8 18:05:17 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [609][tfa_ins2_wpn_coltm4a1]"
+[Thu Jan  8 18:05:28 2026] BloodySmile has killed Worshiper of God.
+[Thu Jan  8 18:05:51 2026] Smasher has killed BloodySmile.
+[Thu Jan  8 18:05:52 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [502][tfa_ins2_wpn_rpg7]"
+[Thu Jan  8 18:05:53 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [528][tfa_ins2_wpn_rpg7]"
+[Thu Jan  8 18:05:53 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [582][tfa_ins2_wpn_rpg7]"
+[Thu Jan  8 18:05:53 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [588][tfa_ins2_wpn_rpg7]"
+[Thu Jan  8 18:05:53 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [757][tfa_ins2_wpn_rpg7]"
+[Thu Jan  8 18:05:53 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [758][tfa_ins2_wpn_rpg7]"
+[Thu Jan  8 18:06:13 2026] <STEAM_0:1:47931114> Mr.Monolith: /rf Будьте аккуратны, на их базе наш солдат!
+[Thu Jan  8 18:06:19 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Лесник.
+[Thu Jan  8 18:06:19 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed TANZI.
+[Thu Jan  8 18:06:20 2026] Лесник has killed Лесник.
+[Thu Jan  8 18:06:21 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /me исполнил воинское приветствие
+[Thu Jan  8 18:06:31 2026] <STEAM_0:0:46593395> BadBeeBoy♡: // ворота остановили два танка вс рф, смех
+[Thu Jan  8 18:06:32 2026] Smasher has killed NTF Epsilon11.
+[Thu Jan  8 18:06:40 2026] <STEAM_0:0:561366370> TANZI: // Ахуенно
+[Thu Jan  8 18:06:44 2026] <STEAM_0:0:561366370> TANZI: // ХАХХААХАХАа
+[Thu Jan  8 18:06:56 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Worshiper of God.
+[Thu Jan  8 18:06:57 2026] <STEAM_0:1:220381002> Smasher: // хуя вас переворотило там
+[Thu Jan  8 18:06:57 2026] Worshiper of God has killed Worshiper of God.
+[Thu Jan  8 18:07:05 2026] <STEAM_0:0:561366370> TANZI: // Сальто
+[Thu Jan  8 18:07:10 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_aamloadout_editor_v3"
+[Thu Jan  8 18:07:11 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_aamloadout_editor_v3"
+[Thu Jan  8 18:07:14 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Thu Jan  8 18:07:17 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Thu Jan  8 18:07:18 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Thu Jan  8 18:07:20 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Thu Jan  8 18:07:25 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [645][lvs_wheeldrive_hummer_mk19]"
+[Thu Jan  8 18:07:28 2026] Player ".σαλαδ ϲαεσαρ" <STEAM_0:0:542957151> is attempting to connect.
+[Thu Jan  8 18:07:35 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [519][tfa_ins2_wpn_coltm4a1]"
+[Thu Jan  8 18:07:35 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [664][tfa_ins2_wpn_coltm4a1]"
+[Thu Jan  8 18:07:36 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [717][tfa_ins2_wpn_coltm4a1]"
+[Thu Jan  8 18:07:45 2026] <STEAM_0:0:46593395> BadBeeBoy♡: // бля а рили просто ворота закройте и хуй кто проедет к вам
+[Thu Jan  8 18:07:57 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // хзхехех
+[Thu Jan  8 18:08:07 2026] Player "Morfisх" <STEAM_0:1:630783383> is attempting to connect.
+[Thu Jan  8 18:08:12 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_aamloadout_editor_v3"
+[Thu Jan  8 18:08:13 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_aamloadout_editor_v3"
+[Thu Jan  8 18:08:13 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_aamloadout_editor_v3"
+[Thu Jan  8 18:08:13 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_aamloadout_editor_v3"
+[Thu Jan  8 18:08:24 2026] <STEAM_0:1:220381002> Smasher used tool "remover"
+[Thu Jan  8 18:08:25 2026] <STEAM_0:1:220381002> Smasher used tool "remover"
+[Thu Jan  8 18:08:25 2026] <STEAM_0:1:220381002> Smasher used tool "remover"
+[Thu Jan  8 18:08:25 2026] <STEAM_0:1:220381002> Smasher used tool "remover"
+[Thu Jan  8 18:08:26 2026] <STEAM_0:1:220381002> Smasher used tool "remover"
+[Thu Jan  8 18:08:26 2026] <STEAM_0:1:220381002> Smasher used tool "remover"
+[Thu Jan  8 18:08:32 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Thu Jan  8 18:08:35 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Thu Jan  8 18:08:37 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Thu Jan  8 18:08:41 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_aamloadout_editor_v3"
+[Thu Jan  8 18:09:13 2026] Player "unsaved sex" <STEAM_0:0:56418410> is attempting to connect.
+[Thu Jan  8 18:09:15 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Thu Jan  8 18:09:26 2026] <STEAM_0:0:200862208> Лесник: /ad [1-ВЭ--ШТАБ] Ответа не услышал, взлетаю (если 
+[Thu Jan  8 18:09:27 2026] <STEAM_0:0:200862208> Лесник: /ad [1-ВЭ--ШТАБ] Ответа не услышал, взлетаю (если
+[Thu Jan  8 18:09:37 2026] Mr.Monolith has killed gREG4IK.
+[Thu Jan  8 18:09:39 2026] Mr.Monolith has killed THE-_-Reper.
+[Thu Jan  8 18:09:40 2026] THE-_-Reper has killed THE-_-Reper.
+[Thu Jan  8 18:09:53 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [489][sw_bmp3m]"
+[Thu Jan  8 18:10:31 2026] Smasher has killed Mr.Monolith.
+[Thu Jan  8 18:11:00 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /me исполнил воинское приветствие
+[Thu Jan  8 18:11:21 2026] <STEAM_0:1:526999954> THE-_-Reper: Daniel
+[Thu Jan  8 18:11:24 2026] Smasher has killed Mr.Monolith.
+[Thu Jan  8 18:11:25 2026] Mr.Monolith has killed Mr.Monolith.
+[Thu Jan  8 18:11:28 2026] Worshiper of God has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Thu Jan  8 18:11:33 2026] Worshiper of God has killed Mr.Monolith.
+[Thu Jan  8 18:11:36 2026] Worshiper of God has killed Smasher.
+[Thu Jan  8 18:12:39 2026] Лесник has killed gREG4IK.
+[Thu Jan  8 18:12:39 2026] gREG4IK has killed gREG4IK.
+[Thu Jan  8 18:12:42 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Лесник.
+[Thu Jan  8 18:13:01 2026] <STEAM_0:1:618974024> S0u1: /rf Товарищ подполковник, оформите призывника там
+[Thu Jan  8 18:13:03 2026] <STEAM_0:1:54838838> BloodySmile spawned SWEP "Weapon [533][tfa_ins2_wpn_rpg7]"
+[Thu Jan  8 18:13:32 2026] <STEAM_0:1:47931114> Mr.Monolith: /rf Его обучили?
+[Thu Jan  8 18:13:43 2026] Worshiper of God has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Thu Jan  8 18:13:45 2026] <STEAM_0:1:220381002> Smasher: /rp Отобрал оружие, средства связи, обыскал на наличие посторонних предметов, изъял рацию
+[Thu Jan  8 18:13:49 2026] <STEAM_0:1:618974024> S0u1: /rf Обучаю
+[Thu Jan  8 18:13:57 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [500][tfa_ins2_wpn_rpg7]"
+[Thu Jan  8 18:13:57 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [533][tfa_ins2_wpn_rpg7]"
+[Thu Jan  8 18:14:21 2026] Mr.Monolith has killed THE-_-Reper.
+[Thu Jan  8 18:14:21 2026] THE-_-Reper has killed THE-_-Reper.
+[Thu Jan  8 18:14:25 2026] Worshiper of God has killed gREG4IK.
+[Thu Jan  8 18:14:27 2026] Mr.Monolith has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Thu Jan  8 18:14:27 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Thu Jan  8 18:14:44 2026] <STEAM_0:1:47931114> Mr.Monolith: /rf Принято.
+[Thu Jan  8 18:14:50 2026] <STEAM_0:1:47931114> Mr.Monolith: /rf Возвращаюсь на базу.
+[Thu Jan  8 18:14:51 2026] <STEAM_0:1:220381002> Smasher: /rp Вырубил нахуй Путкина прикладом
+[Thu Jan  8 18:15:06 2026] <STEAM_0:1:47931114> Mr.Monolith: // Зачем это в глобал писать?
+[Thu Jan  8 18:15:08 2026] Worshiper of God has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Thu Jan  8 18:15:16 2026] <STEAM_0:1:47931114> Mr.Monolith: /me тест.
+[Thu Jan  8 18:16:05 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "ammo MAJ A.E. Evergarden"
+[Thu Jan  8 18:16:10 2026] <STEAM_0:0:200862208> Лесник: еблан
+[Thu Jan  8 18:16:11 2026] Worshiper of God has killed Smasher.
+[Thu Jan  8 18:16:37 2026] Player "Лесник" <STEAM_0:0:200862208> has left the server
+[Thu Jan  8 18:17:14 2026] Player "unsaved sex" <STEAM_0:0:56418410> has spawned in the server
+[Thu Jan  8 18:17:50 2026] <STEAM_0:1:526999954> THE-_-Reper: /ooc Daniel Ramirez
+[Thu Jan  8 18:18:36 2026] <STEAM_0:1:47931114> Mr.Monolith: /rf Кто призывника обучает, базу ему еще покажи, а я пока оформлю на него бумаги и подготовлю форму.
+[Thu Jan  8 18:19:14 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [767][sw_bmp3]"
+[Thu Jan  8 18:19:24 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [489][sw_bmp3]"
+[Thu Jan  8 18:20:48 2026] <STEAM_0:1:526999954> THE-_-Reper: я знаю , спасиба
+[Thu Jan  8 18:22:08 2026] Player "belyashik" <STEAM_0:1:603349109> is attempting to connect.
+[Thu Jan  8 18:24:26 2026] <STEAM_0:0:561366370> TANZI: /rf Занял караульную службу (место: Центр базы. Башня.)
+[Thu Jan  8 18:24:45 2026] Player "Morfisх" <STEAM_0:1:630783383> is attempting to connect.
+[Thu Jan  8 18:25:45 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "ammo MAJ A.E Feixiao"
+[Thu Jan  8 18:26:46 2026] <STEAM_0:1:618974024> S0u1: /rf Т.подполковник Хамсов
+[Thu Jan  8 18:26:54 2026] <STEAM_0:1:618974024> S0u1: /rf Оформить нужно уже волосатого
+[Thu Jan  8 18:28:40 2026] <STEAM_0:1:47931114> Mr.Monolith: /rf Соколов, принято. Приводи его в КХО
+[Thu Jan  8 18:28:40 2026] Player "моченосец по телкам" <STEAM_0:1:148232866> is attempting to connect.
+[Thu Jan  8 18:28:46 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [807][lvs_wheeldrive_hummer_mk19]"
+[Thu Jan  8 18:29:12 2026] <STEAM_0:0:561366370> TANZI: // ХАХАХАХАХАХ
+[Thu Jan  8 18:29:18 2026] <STEAM_0:0:561366370> TANZI: // хАХХХАХААХААХАХААХААХ
+[Thu Jan  8 18:29:25 2026] Player "ritz carlton" <STEAM_0:1:567494603> is attempting to connect.
+[Thu Jan  8 18:29:25 2026] Player "моченосец по телкам" <STEAM_0:1:148232866> has spawned in the server
+[Thu Jan  8 18:29:46 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed BloodySmile.
+[Thu Jan  8 18:29:52 2026] TANZI has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Thu Jan  8 18:29:53 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Thu Jan  8 18:29:53 2026] NTF Epsilon11 has killed Worshiper of God.
+[Thu Jan  8 18:29:54 2026] Worshiper of God has killed Worshiper of God.
+[Thu Jan  8 18:30:04 2026] Smasher has killed TANZI.
+[Thu Jan  8 18:30:09 2026] <STEAM_0:0:586457449> NTF Epsilon11: /me надел стяжки на руки
+[Thu Jan  8 18:30:13 2026] Smasher has killed NTF Epsilon11.
+[Thu Jan  8 18:30:23 2026] <STEAM_0:0:561366370> TANZI: // Хамса легенда
+[Thu Jan  8 18:30:27 2026] <STEAM_0:0:586457449> NTF Epsilon11: /ooc вовремя нахуй
+[Thu Jan  8 18:30:29 2026] Smasher has killed BadBeeBoy♡.
+[Thu Jan  8 18:30:29 2026] Smasher has killed unsaved sex.
+[Thu Jan  8 18:30:43 2026] Smasher has killed S0u1.
+[Thu Jan  8 18:31:03 2026] <STEAM_0:1:47931114> Mr.Monolith: // Але, Нато, хоть по КХО не ебите, дайте людей оубчить
+[Thu Jan  8 18:31:18 2026] <STEAM_0:1:220381002> Smasher: // чет вы когда на бехе залетели к нам вам похуй было
+[Thu Jan  8 18:31:24 2026] Smasher has killed BloodySmile.
+[Thu Jan  8 18:31:26 2026] Player "ne_Alik" <STEAM_0:0:924229861> is attempting to connect.
+[Thu Jan  8 18:31:30 2026] Smasher has killed TANZI.
+[Thu Jan  8 18:31:33 2026] <STEAM_0:0:561366370> TANZI: // Ай
+[Thu Jan  8 18:31:42 2026] Player "СЛЫШУ ZOV ЕБAТЬ AZOV" <STEAM_0:0:207320926> is attempting to connect.
+[Thu Jan  8 18:31:47 2026] BloodySmile has killed Smasher.
+[Thu Jan  8 18:31:55 2026] Player "belyashik" <STEAM_0:1:603349109> has spawned in the server
+[Thu Jan  8 18:33:07 2026] <STEAM_0:1:220381002> Smasher: // ебать 22 кила
+[Thu Jan  8 18:34:02 2026] <STEAM_0:1:148232866> моченосец по телкам: // о да этот rate 24000 будет ахуенен
+[Thu Jan  8 18:34:41 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "ammo MAJ A.E. Evergarden"
+[Thu Jan  8 18:34:50 2026] <STEAM_0:1:54838838> BloodySmile ran command "invisible Григорьев"
+[Thu Jan  8 18:34:53 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [749][lvs_wheeldrive_hummer_mk19]"
+[Thu Jan  8 18:34:56 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [779][prop_physics] (models/ninja/esp/fortification/hescobarrierfort.mdl)"
+[Thu Jan  8 18:35:00 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [779][prop_physics] (models/ninja/esp/fortification/sandbagfort.mdl)"
+[Thu Jan  8 18:35:00 2026] <STEAM_0:1:47931114> Mr.Monolith: ./rf
+[Thu Jan  8 18:35:01 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [780][prop_physics] (models/ninja/esp/fortification/sandbagcover.mdl)"
+[Thu Jan  8 18:35:03 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [779][prop_physics] (models/ninja/esp/fortification/hescobarrierquad.mdl)"
+[Thu Jan  8 18:35:07 2026] <STEAM_0:1:47931114> Mr.Monolith: ./com
+[Thu Jan  8 18:35:20 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [866][prop_physics] (models/ninja/esp/fortification/hescobarrierduo.mdl)"
+[Thu Jan  8 18:35:22 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [866][prop_physics] (models/ninja/esp/fortification/hescobarrierpyramid.mdl)"
+[Thu Jan  8 18:35:23 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [867][prop_physics] (models/ninja/esp/fortification/hescobarrierpyramidbig.mdl)"
+[Thu Jan  8 18:35:24 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [866][prop_physics] (models/ninja/esp/fortification/hescobarrierquad.mdl)"
+[Thu Jan  8 18:35:26 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [867][prop_physics] (models/ninja/esp/fortification/hescobarriersingle.mdl)"
+[Thu Jan  8 18:35:27 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [866][prop_physics] (models/ninja/esp/fortification/sandbagcover.mdl)"
+[Thu Jan  8 18:35:28 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [867][prop_physics] (models/ninja/esp/fortification/sandbagfort.mdl)"
+[Thu Jan  8 18:35:29 2026] <STEAM_0:0:586457449> NTF Epsilon11: /com Америкосы пидоры!
+[Thu Jan  8 18:35:29 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [866][prop_physics] (models/ninja/esp/fortification/sandbagwall.mdl)"
+[Thu Jan  8 18:35:30 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [867][prop_physics] (models/ninja/esp/fortification/sandbagwalllow.mdl)"
+[Thu Jan  8 18:35:32 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [866][prop_physics] (models/total_conflict/prop/antenns/sm_tr_antenna_01.mdl)"
+[Thu Jan  8 18:35:33 2026] Worshiper of God has killed THE-_-Reper.
+[Thu Jan  8 18:35:33 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [868][prop_physics] (models/total_conflict/prop/anti_tank/anti_tank.mdl)"
+[Thu Jan  8 18:35:34 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [500][prop_physics] (models/total_conflict/prop/des_veh/abrams/abrams_damaged.mdl)"
+[Thu Jan  8 18:35:36 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [532][prop_physics] (models/total_conflict/prop/des_veh/btr82/btr82_damaged.mdl)"
+[Thu Jan  8 18:35:39 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [500][prop_physics] (models/total_conflict/prop/dot/dzot_05.mdl)"
+[Thu Jan  8 18:35:45 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [500][prop_physics] (models/total_conflict/prop/dot/dzot_05.mdl)"
+[Thu Jan  8 18:35:47 2026] <STEAM_0:1:47931114> Mr.Monolith: /rf Вакутагин, у тебя в 3-ей небольшое пополнение.
+[Thu Jan  8 18:35:49 2026] Player "C2H5OH в Крови" <STEAM_0:1:500418219> has spawned in the server
+[Thu Jan  8 18:35:54 2026] <STEAM_0:1:47931114> Mr.Monolith: /rf В основном занимаешсья ими ты
+[Thu Jan  8 18:36:00 2026] <STEAM_0:0:586457449> NTF Epsilon11: /rf знаю займусь
+[Thu Jan  8 18:36:02 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [869][prop_physics] (models/total_conflict/prop/dot/dzot_01.mdl)"
+[Thu Jan  8 18:36:03 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [870][prop_physics] (models/total_conflict/prop/dot/dot_02.mdl)"
+[Thu Jan  8 18:36:04 2026] <STEAM_0:1:47931114> Mr.Monolith: /rf За отсутствием командира.
+[Thu Jan  8 18:36:09 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [667][prop_physics] (models/total_conflict/prop/dot/dot_01.mdl)"
+[Thu Jan  8 18:36:11 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [867][prop_physics] (models/total_conflict/prop/des_veh/tigrm/tigrm_damage.mdl)"
+[Thu Jan  8 18:36:12 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [667][prop_physics] (models/total_conflict/prop/dot/dzot_05.mdl)"
+[Thu Jan  8 18:36:30 2026] Player "Ульман/FIX TF 2" <STEAM_0:0:950271349> is attempting to connect.
+[Thu Jan  8 18:36:38 2026] Player "Morfisх" <STEAM_0:1:630783383> has spawned in the server
+[Thu Jan  8 18:36:44 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [874][prop_physics] (models/ninja/esp/fortification/hescobarrierfort.mdl)"
+[Thu Jan  8 18:37:01 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Jan  8 18:37:03 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Jan  8 18:37:13 2026] Smasher has killed Worshiper of God.
+[Thu Jan  8 18:37:22 2026] <STEAM_0:1:54838838> BloodySmile ran command "invisible Григорьев"
+[Thu Jan  8 18:37:35 2026] моченосец по телкам has killed TANZI.
+[Thu Jan  8 18:37:36 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [580][lvs_wheeldrive_nonrp_t90m]"
+[Thu Jan  8 18:38:28 2026] моченосец по телкам has killed Mr.Monolith.
+[Thu Jan  8 18:38:29 2026] Mr.Monolith has killed Mr.Monolith.
+[Thu Jan  8 18:38:47 2026] моченосец по телкам has killed TANZI.
+[Thu Jan  8 18:38:48 2026] TANZI has killed TANZI.
+[Thu Jan  8 18:39:12 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [649][lvs_wheeldrive_hummer]"
+[Thu Jan  8 18:39:49 2026] <STEAM_0:1:618974024> S0u1: /rf Оформляю человека еще одного
+[Thu Jan  8 18:40:04 2026] <STEAM_0:1:47931114> Mr.Monolith: /rf Уведи его пока, куда-нибудь.
+[Thu Jan  8 18:40:09 2026] <STEAM_0:1:47931114> Mr.Monolith: /rf Чтобы не попали в него
+[Thu Jan  8 18:40:11 2026] BloodySmile has killed Smasher.
+[Thu Jan  8 18:40:18 2026] <STEAM_0:1:47931114> Mr.Monolith: /rf И там им аккуратно занимайся
+[Thu Jan  8 18:40:31 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /me изьял оружие и средства связи
+[Thu Jan  8 18:41:04 2026] Player "ritz carlton" <STEAM_0:1:567494603> has spawned in the server
+[Thu Jan  8 18:41:33 2026] <STEAM_0:1:618974024> S0u1: /looс Дс
+[Thu Jan  8 18:41:38 2026] <STEAM_0:1:618974024> S0u1: /l Дс короче
+[Thu Jan  8 18:42:21 2026] <STEAM_0:1:618974024> S0u1: /rf Новоприбывший механиком стать хочет
+[Thu Jan  8 18:42:26 2026] <STEAM_0:1:618974024> S0u1: /rf Или где нибудь по другому
+[Thu Jan  8 18:42:37 2026] Smasher has killed Smasher.
+[Thu Jan  8 18:42:38 2026] <STEAM_0:1:47931114> Mr.Monolith: /rf Спроси, не хочет ли он быть гранатомотчиком
+[Thu Jan  8 18:42:51 2026] <STEAM_0:1:618974024> S0u1: /rf Тоже может
+[Thu Jan  8 18:42:56 2026] <STEAM_0:1:47931114> Mr.Monolith: /rf Соколов, ты где? Тут еще один на очереди.
+[Thu Jan  8 18:42:57 2026] <STEAM_0:1:618974024> S0u1: /rf Если ДЕЙСТВИТЕЛЬНО нужен
+[Thu Jan  8 18:43:07 2026] <STEAM_0:1:618974024> S0u1: /rf Я за ангаром стою
+[Thu Jan  8 18:43:10 2026] <STEAM_0:1:47931114> Mr.Monolith: /rf Нужен, ибо я у нас 1 гранатометчик
+[Thu Jan  8 18:43:18 2026] <STEAM_0:1:603349109> belyashik: он щас сдохнет.
+[Thu Jan  8 18:43:30 2026] <STEAM_0:1:603349109> belyashik: нельзя разве?
+[Thu Jan  8 18:44:16 2026] <STEAM_0:1:603349109> belyashik: украдите у них президента, он скажет
+[Thu Jan  8 18:44:25 2026] Player ""White"" <STEAM_0:1:514738252> is attempting to connect.
+[Thu Jan  8 18:45:04 2026] <STEAM_0:1:47931114> Mr.Monolith: ./rf
+[Thu Jan  8 18:45:13 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /me достал нож из кармана
+[Thu Jan  8 18:45:13 2026] Player "СЛЫШУ ZOV ЕБAТЬ AZOV" <STEAM_0:0:207320926> has spawned in the server
+[Thu Jan  8 18:45:15 2026] <STEAM_0:1:47931114> Mr.Monolith: ./com
+[Thu Jan  8 18:45:23 2026] <STEAM_0:0:561366370> TANZI: /rf Правая башня (главный вход) Дмитрев взял на себя
+[Thu Jan  8 18:45:23 2026] моченосец по телкам has killed NTF Epsilon11.
+[Thu Jan  8 18:45:24 2026] NTF Epsilon11 has killed NTF Epsilon11.
+[Thu Jan  8 18:45:41 2026] <STEAM_0:0:561366370> TANZI: /rf Дмитрев съебался с поста
+[Thu Jan  8 18:45:50 2026] <STEAM_0:1:603349109> belyashik: у вас есть АПП?
+[Thu Jan  8 18:46:00 2026] <STEAM_0:1:603349109> belyashik: Аптечка Первой Помощи
+[Thu Jan  8 18:46:01 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /me пнул солдата по яйцам
+[Thu Jan  8 18:46:09 2026] <STEAM_0:1:603349109> belyashik: я упал
+[Thu Jan  8 18:46:10 2026] <STEAM_0:1:603349109> belyashik: с крыши
+[Thu Jan  8 18:46:23 2026] <STEAM_0:1:603349109> belyashik: да
+[Thu Jan  8 18:46:26 2026] <STEAM_0:1:603349109> belyashik: спасибо
+[Thu Jan  8 18:46:34 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /me снял перчатку с военного и вткнул нож на сквозь руки солдата
+[Thu Jan  8 18:46:42 2026] <STEAM_0:1:630783383> Morfisх: хорошо принял
+[Thu Jan  8 18:46:56 2026] <STEAM_0:1:148232866> моченосец по телкам: Есть кто живой?
+[Thu Jan  8 18:47:12 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /do начал проворачивать нож по часовой стрелке
+[Thu Jan  8 18:47:29 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Worshiper of God.
+[Thu Jan  8 18:47:49 2026] Player "Cын Мияги" <STEAM_0:1:424926791> is attempting to connect.
+[Thu Jan  8 18:47:54 2026] <STEAM_0:1:220381002> Smasher: /nato Общий сбор у вертолетной площадки
+[Thu Jan  8 18:48:04 2026] <STEAM_0:1:54838838> BloodySmile ran command "invisible Григорьев"
+[Thu Jan  8 18:48:13 2026] <STEAM_0:1:220381002> Smasher: /nato Общий сбор у вертолетной площадки
+[Thu Jan  8 18:48:15 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [669][ifak_ammo]"
+[Thu Jan  8 18:48:22 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [669][wesupplycrate]"
+[Thu Jan  8 18:48:26 2026] <STEAM_0:1:148232866> моченосец по телкам: // Как в общий для фракции писать?
+[Thu Jan  8 18:48:31 2026] Player ""White"" <STEAM_0:1:514738252> has spawned in the server
+[Thu Jan  8 18:48:33 2026] <STEAM_0:1:220381002> Smasher: // /nato
+[Thu Jan  8 18:48:34 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [681][wesupplycrate]"
+[Thu Jan  8 18:48:35 2026] <STEAM_0:1:603349109> belyashik: казнь лопостями?
+[Thu Jan  8 18:48:36 2026] <STEAM_0:0:586457449> NTF Epsilon11: /rf  3-я мотострелковая на плац
+[Thu Jan  8 18:48:38 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [682][wesupplycrate]"
+[Thu Jan  8 18:48:42 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Jan  8 18:48:43 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Jan  8 18:48:47 2026] <STEAM_0:1:148232866> моченосец по телкам: /nato Я тут восточный город захватил почти
+[Thu Jan  8 18:48:51 2026] <STEAM_0:1:220381002> Smasher: /nato Общий сбор у вертолетной площадки
+[Thu Jan  8 18:48:54 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /me достал цепь из рюкзака обвязал цепями пояс и привязал к бетонному блоку
+[Thu Jan  8 18:48:54 2026] <STEAM_0:1:148232866> моченосец по телкам: /nato Возможно убил своего
+[Thu Jan  8 18:49:02 2026] <STEAM_0:0:207320926> СЛЫШУ ZOV ЕБAТЬ AZOV: // пасаны примите в нато
+[Thu Jan  8 18:49:03 2026] <STEAM_0:1:148232866> моченосец по телкам: /nato Мне нужны боеприпасы
+[Thu Jan  8 18:49:18 2026] <STEAM_0:1:220381002> Smasher: /nato город стерт с лица земли хз что ты там захватываешь
+[Thu Jan  8 18:49:23 2026] <STEAM_0:1:220381002> Smasher used tool "creator"
+[Thu Jan  8 18:49:24 2026] <STEAM_0:1:220381002> Smasher used tool "creator"
+[Thu Jan  8 18:49:24 2026] <STEAM_0:1:220381002> Smasher used tool "creator"
+[Thu Jan  8 18:49:24 2026] <STEAM_0:1:220381002> Smasher used tool "creator"
+[Thu Jan  8 18:49:25 2026] <STEAM_0:1:220381002> Smasher used tool "creator"
+[Thu Jan  8 18:49:25 2026] <STEAM_0:1:220381002> Smasher used tool "creator"
+[Thu Jan  8 18:49:25 2026] <STEAM_0:1:220381002> Smasher used tool "creator"
+[Thu Jan  8 18:49:25 2026] <STEAM_0:1:220381002> Smasher used tool "creator"
+[Thu Jan  8 18:49:30 2026] <STEAM_0:1:603349109> belyashik: кого?
+[Thu Jan  8 18:49:34 2026] <STEAM_0:1:148232866> моченосец по телкам: /nato хуй знаю
+[Thu Jan  8 18:50:16 2026] <STEAM_0:1:618974024> S0u1: /rf Т.подполковник
+[Thu Jan  8 18:50:20 2026] <STEAM_0:1:618974024> S0u1: /rf Оформлен.
+[Thu Jan  8 18:50:25 2026] <STEAM_0:1:47931114> Mr.Monolith: /rf Принято.
+[Thu Jan  8 18:50:33 2026] THE-_-Reper has killed Worshiper of God.
+[Thu Jan  8 18:50:34 2026] Worshiper of God has killed Worshiper of God.
+[Thu Jan  8 18:50:38 2026] <STEAM_0:1:47931114> Mr.Monolith: /rf Веди его в КХО
+[Thu Jan  8 18:51:08 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed "White".
+[Thu Jan  8 18:51:09 2026] "White" has killed "White".
+[Thu Jan  8 18:51:09 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Worshiper of God.
+[Thu Jan  8 18:51:10 2026] Worshiper of God has killed Worshiper of God.
+[Thu Jan  8 18:51:11 2026] <STEAM_0:1:220381002> Smasher: /rp Жнецов был расстрелян на вертолетной площадке
+[Thu Jan  8 18:51:23 2026] <STEAM_0:0:561366370> TANZI: // F легенде :sob:
+[Thu Jan  8 18:51:53 2026] <STEAM_0:1:148232866> моченосец по телкам: /nato Откройте бля дверь
+[Thu Jan  8 18:52:06 2026] <STEAM_0:1:148232866> моченосец по телкам: /nato Я тут один прям у главных ворот наших
+[Thu Jan  8 18:52:20 2026] worldspawn has killed Smasher.
+[Thu Jan  8 18:52:23 2026] <STEAM_0:1:220381002> Smasher ran command "respawn ^"
+[Thu Jan  8 18:52:25 2026] <STEAM_0:0:561366370> TANZI: // Я невидимый
+[Thu Jan  8 18:52:26 2026] <STEAM_0:1:220381002> Smasher ran command "noclip Smasher"
+[Thu Jan  8 18:52:31 2026] <STEAM_0:0:561366370> TANZI: // Вылечите пожалуйста
+[Thu Jan  8 18:52:43 2026] <STEAM_0:1:220381002> Smasher ran command "bring Жнецов"
+[Thu Jan  8 18:52:51 2026] <STEAM_0:0:561366370> TANZI: // SOS
+[Thu Jan  8 18:53:09 2026] <STEAM_0:1:514738252> "White": Да
+[Thu Jan  8 18:53:15 2026] <STEAM_0:1:618974024> S0u1: /rf Оформил 3-4 новобранцев
+[Thu Jan  8 18:53:18 2026] <STEAM_0:0:207320926> СЛЫШУ ZOV ЕБAТЬ AZOV: Я уже подал заявку
+[Thu Jan  8 18:53:20 2026] <STEAM_0:0:561366370> TANZI: /looc забей
+[Thu Jan  8 18:53:33 2026] <STEAM_0:0:74235942> Worshiper of God: Жнецав
+[Thu Jan  8 18:53:44 2026] <STEAM_0:0:561366370> TANZI: // Хамсааааааааа
+[Thu Jan  8 18:53:53 2026] <STEAM_0:0:74235942> Worshiper of God: Жницав
+[Thu Jan  8 18:53:58 2026] <STEAM_0:0:561366370> TANZI: // Вылечи умоляю
+[Thu Jan  8 18:54:06 2026] <STEAM_0:1:618974024> S0u1: /l тебя ресетнут и все
+[Thu Jan  8 18:54:08 2026] <STEAM_0:1:220381002> Smasher ran command "return Smasher"
+[Thu Jan  8 18:54:11 2026] <STEAM_0:1:220381002> Smasher ran command "return Жницов"
+[Thu Jan  8 18:54:23 2026] TANZI has killed TANZI.
+[Thu Jan  8 18:54:29 2026] <STEAM_0:0:561366370> TANZI: // Бля
+[Thu Jan  8 18:54:30 2026] <STEAM_0:0:207320926> СЛЫШУ ZOV ЕБAТЬ AZOV: Стрелок
+[Thu Jan  8 18:54:34 2026] <STEAM_0:0:561366370> TANZI: // Поднимите
+[Thu Jan  8 18:54:35 2026] TANZI has killed TANZI.
+[Thu Jan  8 18:54:35 2026] <STEAM_0:1:220381002> Smasher ran command "slay Охотник"
+[Thu Jan  8 18:54:36 2026] <STEAM_0:0:207320926> СЛЫШУ ZOV ЕБAТЬ AZOV: Стрелок
+[Thu Jan  8 18:54:48 2026] <STEAM_0:1:220381002> Smasher ran command "respawn Охотник"
+[Thu Jan  8 18:54:59 2026] <STEAM_0:1:220381002> Smasher ran command "bring Жницав"
+[Thu Jan  8 18:55:10 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed "White".
+[Thu Jan  8 18:55:29 2026] <STEAM_0:1:526999954> THE-_-Reper: А можно ему выдать форму
+[Thu Jan  8 18:55:37 2026] <STEAM_0:1:526999954> THE-_-Reper: дальше сам ему все расскажу
+[Thu Jan  8 18:56:11 2026] <STEAM_0:1:220381002> Smasher ran command "invisible Smasher"
+[Thu Jan  8 18:56:15 2026] <STEAM_0:1:148232866> моченосец по телкам: /nato Smasher, вы где
+[Thu Jan  8 18:56:24 2026] <STEAM_0:1:220381002> Smasher: /nato скоро буду а что
+[Thu Jan  8 18:56:35 2026] <STEAM_0:1:148232866> моченосец по телкам: /nato Я пиздится хочу
+[Thu Jan  8 18:56:43 2026] Player "kiwi<3" <STEAM_0:1:818120498> is attempting to connect.
+[Thu Jan  8 18:56:44 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Thu Jan  8 18:56:48 2026] <STEAM_0:1:220381002> Smasher: /nato надо новых обучить сначала
+[Thu Jan  8 18:56:48 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed "White".
+[Thu Jan  8 18:56:49 2026] "White" has killed "White".
+[Thu Jan  8 18:56:52 2026] <STEAM_0:0:207320926> СЛЫШУ ZOV ЕБAТЬ AZOV: Уже все написанно
+[Thu Jan  8 18:57:01 2026] <STEAM_0:0:207320926> СЛЫШУ ZOV ЕБAТЬ AZOV: Окей
+[Thu Jan  8 18:57:04 2026] <STEAM_0:0:207320926> СЛЫШУ ZOV ЕБAТЬ AZOV: Рекрут?
+[Thu Jan  8 18:57:53 2026] <STEAM_0:0:207320926> СЛЫШУ ZOV ЕБAТЬ AZOV: А какой у меня
+[Thu Jan  8 18:58:00 2026] <STEAM_0:0:207320926> СЛЫШУ ZOV ЕБAТЬ AZOV: RCT Orange?
+[Thu Jan  8 18:58:12 2026] <STEAM_0:1:220381002> Smasher: /nato Разведка донесла о массовом выходе с базы РФ
+[Thu Jan  8 18:58:26 2026] <STEAM_0:1:220381002> Smasher ran command "noclip Smasher"
+[Thu Jan  8 18:58:28 2026] <STEAM_0:1:220381002> Smasher ran command "invisible Smasher"
+[Thu Jan  8 18:58:32 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [583][sw_item_refuel]"
+[Thu Jan  8 18:59:07 2026] THE-_-Reper has killed "White".
+[Thu Jan  8 18:59:13 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [752][lvs_item_ammo]"
+[Thu Jan  8 18:59:14 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [758][sw_item_refuel]"
+[Thu Jan  8 18:59:21 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [752][lvs_item_jerrycan_diesel]"
+[Thu Jan  8 18:59:27 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: RCT
+[Thu Jan  8 18:59:28 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [752][lvs_item_jerrycan_diesel]"
+[Thu Jan  8 18:59:28 2026] <STEAM_0:1:603349109> belyashik: Dobrojević
+[Thu Jan  8 18:59:35 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [752][lvs_item_jerrycan]"
+[Thu Jan  8 18:59:58 2026] <STEAM_0:0:207320926> СЛЫШУ ZOV ЕБAТЬ AZOV: А мне выдали уже?
+[Thu Jan  8 19:00:24 2026] <STEAM_0:0:561366370> TANZI: /com Нато, а нахуя вам руины? :P
+[Thu Jan  8 19:00:26 2026] <STEAM_0:1:220381002> Smasher: /nato Все в КХО берите шлем бронежилеты снаряжайтесь
+[Thu Jan  8 19:00:38 2026] <STEAM_0:0:586457449> NTF Epsilon11: /com потому что ебланы
+[Thu Jan  8 19:00:38 2026] <STEAM_0:0:207320926> СЛЫШУ ZOV ЕБAТЬ AZOV: Кацуки лох
+[Thu Jan  8 19:00:50 2026] <STEAM_0:1:220381002> Smasher: /nato Все в КХО берите шлем бронежилеты снаряжайтесь
+[Thu Jan  8 19:00:58 2026] Player "ritz carlton" <STEAM_0:1:567494603> has left the server
+[Thu Jan  8 19:01:00 2026] <STEAM_0:0:561366370> TANZI: /com :partying_face:
+[Thu Jan  8 19:02:09 2026] <STEAM_0:1:220381002> Smasher: /com Ээээй макарена
+[Thu Jan  8 19:02:13 2026] Player "ritz carlton" <STEAM_0:1:567494603> is attempting to connect.
+[Thu Jan  8 19:02:21 2026] <STEAM_0:0:561366370> TANZI: /com :hearts:
+[Thu Jan  8 19:02:25 2026] Player "Mr.Monolith" <STEAM_0:1:47931114> has left the server
+[Thu Jan  8 19:02:43 2026] Player "Fernández" <STEAM_0:0:79873507> is attempting to connect.
+[Thu Jan  8 19:02:43 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /nato у кого есть дс пинганите меня новички рекруты
+[Thu Jan  8 19:02:53 2026] Player "ritz carlton" <STEAM_0:1:567494603> has spawned in the server
+[Thu Jan  8 19:04:14 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "ammo MAJ A.E. Evergarden"
+[Thu Jan  8 19:04:30 2026] <STEAM_0:1:220381002> Smasher: /nato рация 122 на F2
+[Thu Jan  8 19:04:35 2026] <STEAM_0:0:561366370> TANZI: /rf У тигра - построение
+[Thu Jan  8 19:04:44 2026] Player "ЛЁХА ТЕХНИК" <STEAM_0:0:123093844> is attempting to connect.
+[Thu Jan  8 19:04:54 2026] <STEAM_0:0:586457449> NTF Epsilon11: /rf КТО СЪЕБАЛСЯ ОБРАТНО БЛЯТЬ К ТИГРУ
+[Thu Jan  8 19:05:32 2026] <STEAM_0:1:54838838> BloodySmile used tool "camera"
+[Thu Jan  8 19:05:49 2026] Smasher has killed S0u1.
+[Thu Jan  8 19:05:50 2026] <STEAM_0:0:586457449> NTF Epsilon11: /rf Есенин блять если ты съебался я тебе бошку отрежу
+[Thu Jan  8 19:06:05 2026] <STEAM_0:0:586457449> NTF Epsilon11: /rf СУКА В УКРЕП РАЙОНЕ ЕБАШУТ НАС ТАМ ТАНК
+[Thu Jan  8 19:06:21 2026] <STEAM_0:0:586457449> NTF Epsilon11: /rf ПОДМОГА БЛЯТЬ НУЖНА
+[Thu Jan  8 19:06:39 2026] NTF Epsilon11 has killed СЛЫШУ ZOV ЕБAТЬ AZOV.
+[Thu Jan  8 19:06:39 2026] СЛЫШУ ZOV ЕБAТЬ AZOV has killed СЛЫШУ ZOV ЕБAТЬ AZOV.
+[Thu Jan  8 19:06:40 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed NTF Epsilon11.
+[Thu Jan  8 19:06:40 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Morfisх.
+[Thu Jan  8 19:06:40 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed TANZI.
+[Thu Jan  8 19:06:41 2026] TANZI has killed TANZI.
+[Thu Jan  8 19:06:42 2026] моченосец по телкам has killed unsaved sex.
+[Thu Jan  8 19:06:43 2026] unsaved sex has killed unsaved sex.
+[Thu Jan  8 19:06:44 2026] S0u1 has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Thu Jan  8 19:06:47 2026] S0u1 has killed belyashik.
+[Thu Jan  8 19:06:49 2026] S0u1 has killed моченосец по телкам.
+[Thu Jan  8 19:06:50 2026] <STEAM_0:0:561366370> TANZI: // Я забыл как карту закрыть
+[Thu Jan  8 19:06:56 2026] Player "belyashik" <STEAM_0:1:603349109> has left the server
+[Thu Jan  8 19:06:59 2026] <STEAM_0:0:74235942> Worshiper of God: // ф8
+[Thu Jan  8 19:07:06 2026] <STEAM_0:1:618974024> S0u1: // -3 за 3 пули ебать я
+[Thu Jan  8 19:07:12 2026] <STEAM_0:0:586457449> NTF Epsilon11: /rf СУКА ПОЧТИ ВСЕ 300 СУКА ОТОЙТИ НЕ МОЖЕМ НАС ЕБАШУТ
+[Thu Jan  8 19:07:35 2026] NTF Epsilon11 has killed NTF Epsilon11.
+[Thu Jan  8 19:07:37 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "witchergate"
+[Thu Jan  8 19:07:53 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed gREG4IK.
+[Thu Jan  8 19:07:58 2026] <STEAM_0:1:618974024> S0u1: /rf Я жив.
+[Thu Jan  8 19:08:08 2026] <STEAM_0:0:586457449> NTF Epsilon11: /rf СОКОЛИК ТЫ ГДЕ?
+[Thu Jan  8 19:08:11 2026] <STEAM_0:0:74235942> Worshiper of God: /rf рч дайте
+[Thu Jan  8 19:08:18 2026] <STEAM_0:1:618974024> S0u1: /rf 3
+[Thu Jan  8 19:08:24 2026] <STEAM_0:1:618974024> S0u1: /rf Я отступаю.
+[Thu Jan  8 19:08:25 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "ammo MAJ A.E. Evergarden"
+[Thu Jan  8 19:08:28 2026] <STEAM_0:1:220381002> Smasher: /rp Город уничтожен, захватывать там точки запрещено еще раз для всех
+[Thu Jan  8 19:08:33 2026] <STEAM_0:0:586457449> NTF Epsilon11: /rf СОКОЛ ДОЛОЖИ ЧЕ ТАМ
+[Thu Jan  8 19:09:02 2026] BloodySmile has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Thu Jan  8 19:09:20 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /nato т90 на заправке
+[Thu Jan  8 19:09:35 2026] Player "ritz carlton" <STEAM_0:1:567494603> has left the server
+[Thu Jan  8 19:09:59 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "ammo MAJ A.E. Evergarden"
+[Thu Jan  8 19:10:06 2026] Player "ritz carlton" <STEAM_0:1:567494603> is attempting to connect.
+[Thu Jan  8 19:10:27 2026] <STEAM_0:0:561366370> TANZI: // А че делать когда за Нато Полковник и Майор, а у нас просто максимум Старший сержан :sob:
+[Thu Jan  8 19:10:37 2026] Player "ritz carlton" <STEAM_0:1:567494603> has spawned in the server
+[Thu Jan  8 19:10:41 2026] <STEAM_0:1:618974024> S0u1: // у нас максимум по званию лейтенант
+[Thu Jan  8 19:10:47 2026] Smasher has killed моченосец по телкам.
+[Thu Jan  8 19:10:50 2026] Smasher has killed THE-_-Reper.
+[Thu Jan  8 19:10:59 2026] Smasher has killed BloodySmile.
+[Thu Jan  8 19:11:26 2026] Worshiper of God has killed Smasher.
+[Thu Jan  8 19:11:50 2026] Player "C2H5OH в Крови" <STEAM_0:1:500418219> has left the server
+[Thu Jan  8 19:12:15 2026] Worshiper of God has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Thu Jan  8 19:12:16 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Thu Jan  8 19:12:26 2026] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [505][lvs_wheeldrive_hummer_tow]"
+[Thu Jan  8 19:12:37 2026] <STEAM_0:0:586457449> NTF Epsilon11: /rf 3-я МОТОСТРЕЛКОВАЯ НА ПЛАЦ БЕГОМ МАРШ
+[Thu Jan  8 19:12:46 2026] СЛЫШУ ZOV ЕБAТЬ AZOV has killed Worshiper of God.
+[Thu Jan  8 19:12:47 2026] Worshiper of God has killed Worshiper of God.
+[Thu Jan  8 19:12:56 2026] <STEAM_0:0:74235942> Worshiper of God: // ой не увидел
+[Thu Jan  8 19:13:03 2026] Player "Наводчик БТР-70" <STEAM_0:0:445347062> is attempting to connect.
+[Thu Jan  8 19:13:05 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "ammo MAJ A.E. Evergarden"
+[Thu Jan  8 19:13:10 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [639][lvs_wheeldrive_hummer_tow]"
+[Thu Jan  8 19:13:37 2026] <STEAM_0:0:207320926> СЛЫШУ ZOV ЕБAТЬ AZOV: Я на заправке сижу занимаю ее
+[Thu Jan  8 19:14:35 2026] <STEAM_0:1:618974024> S0u1: /rf Вакутагин
+[Thu Jan  8 19:14:36 2026] <STEAM_0:1:618974024> S0u1: /rf Ты где
+[Thu Jan  8 19:14:53 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [640][sw_bmp3]"
+[Thu Jan  8 19:14:58 2026] <STEAM_0:1:618974024> S0u1: /rf Вакутагин епта
+[Thu Jan  8 19:16:11 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [927][lvs_wheeldrive_nonrp_t90m]"
+[Thu Jan  8 19:16:40 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [518][sw_gaz2330]"
+[Thu Jan  8 19:16:44 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [518][lvs_wheeldrive_hummer]"
+[Thu Jan  8 19:16:47 2026] Player "ЛЁХА ТЕХНИК" <STEAM_0:0:123093844> has spawned in the server
+[Thu Jan  8 19:16:51 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [518][lvs_wheeldrive_hummer_mk19]"
+[Thu Jan  8 19:17:03 2026] BloodySmile has killed BloodySmile.
+[Thu Jan  8 19:17:05 2026] TANZI has killed моченосец по телкам.
+[Thu Jan  8 19:17:08 2026] Smasher has killed BadBeeBoy♡.
+[Thu Jan  8 19:17:08 2026] Smasher has killed S0u1.
+[Thu Jan  8 19:17:08 2026] Smasher has killed TANZI.
+[Thu Jan  8 19:17:08 2026] Smasher has killed unsaved sex.
+[Thu Jan  8 19:17:08 2026] Smasher has killed Morfisх.
+[Thu Jan  8 19:17:08 2026] Smasher has killed ritz carlton.
+[Thu Jan  8 19:17:08 2026] Smasher has killed Worshiper of God.
+[Thu Jan  8 19:17:12 2026] <STEAM_0:1:618974024> S0u1: // АХАХХАХАХАХА
+[Thu Jan  8 19:17:16 2026] <STEAM_0:1:630783383> Morfisх: блять гении
+[Thu Jan  8 19:17:17 2026] <STEAM_0:0:561366370> TANZI: /// ХАХАХАХААХАХ
+[Thu Jan  8 19:17:20 2026] <STEAM_0:0:561366370> TANZI: // ХАХАХАХААХАХ
+[Thu Jan  8 19:17:21 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [507][lvs_wheeldrive_nonrp_t90m]"
+[Thu Jan  8 19:17:23 2026] <STEAM_0:0:74235942> Worshiper of God: // как я долго просил 1 нажать я ебал
+[Thu Jan  8 19:17:26 2026] <STEAM_0:1:618974024> S0u1: // Жопой чуял что нас всех взорвут
+[Thu Jan  8 19:17:27 2026] <STEAM_0:0:561366370> TANZI: // Я НЕ ЗНАЛ КАК СТРЕЛЯТЬ
+[Thu Jan  8 19:17:29 2026] Player "C2H5OH в Крови" <STEAM_0:1:500418219> is attempting to connect.
+[Thu Jan  8 19:17:30 2026] Smasher has killed BloodySmile.
+[Thu Jan  8 19:17:36 2026] <STEAM_0:0:74235942> Worshiper of God: // парень решил всех нас закрыть
+[Thu Jan  8 19:17:55 2026] <STEAM_0:1:220381002> Smasher: // ахахахахха
+[Thu Jan  8 19:17:59 2026] <STEAM_0:1:220381002> Smasher: // -7
+[Thu Jan  8 19:18:09 2026] <STEAM_0:1:618974024> S0u1: // ебанные зайцы
+[Thu Jan  8 19:18:17 2026] "White" has killed Morfisх.
+[Thu Jan  8 19:18:18 2026] Smasher has killed TANZI.
+[Thu Jan  8 19:18:29 2026] Smasher has killed Worshiper of God.
+[Thu Jan  8 19:18:32 2026] Smasher has killed unsaved sex.
+[Thu Jan  8 19:18:34 2026] BadBeeBoy♡ has killed THE-_-Reper.
+[Thu Jan  8 19:18:38 2026] BadBeeBoy♡ has killed "White".
+[Thu Jan  8 19:18:45 2026] ritz carlton has killed Morfisх.
+[Thu Jan  8 19:18:46 2026] Morfisх has killed Morfisх.
+[Thu Jan  8 19:18:59 2026] BadBeeBoy♡ has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Thu Jan  8 19:19:00 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Thu Jan  8 19:19:01 2026] СЛЫШУ ZOV ЕБAТЬ AZOV has killed BloodySmile.
+[Thu Jan  8 19:19:02 2026] BloodySmile has killed BloodySmile.
+[Thu Jan  8 19:19:02 2026] BadBeeBoy♡ has killed СЛЫШУ ZOV ЕБAТЬ AZOV.
+[Thu Jan  8 19:19:06 2026] Player "C2H5OH в Крови" <STEAM_0:1:500418219> has spawned in the server
+[Thu Jan  8 19:19:12 2026] <STEAM_0:1:618974024> S0u1: // что за рейд пошел
+[Thu Jan  8 19:19:15 2026] Smasher has killed Worshiper of God.
+[Thu Jan  8 19:19:16 2026] Player "ЛЁХА ТЕХНИК" <STEAM_0:0:123093844> has left the server
+[Thu Jan  8 19:19:17 2026] Smasher has killed TANZI.
+[Thu Jan  8 19:19:21 2026] Player "ЛЁХА ТЕХНИК" <STEAM_0:0:123093844> is attempting to connect.
+[Thu Jan  8 19:19:25 2026] <STEAM_0:1:618974024> S0u1: // а че за рейд то емае
+[Thu Jan  8 19:19:35 2026] <STEAM_0:0:561366370> TANZI: // Я от старости умер?
+[Thu Jan  8 19:19:37 2026] Smasher has killed Worshiper of God.
+[Thu Jan  8 19:19:39 2026] BloodySmile has killed BadBeeBoy♡.
+[Thu Jan  8 19:19:40 2026] <STEAM_0:1:618974024> S0u1: // бредли ты помоему не можешь заехать как я знаю
+[Thu Jan  8 19:19:40 2026] Smasher has killed NTF Epsilon11.
+[Thu Jan  8 19:19:41 2026] моченосец по телкам has killed Morfisх.
+[Thu Jan  8 19:19:44 2026] Player "ЛЁХА ТЕХНИК" <STEAM_0:0:123093844> has spawned in the server
+[Thu Jan  8 19:19:47 2026] <STEAM_0:1:618974024> S0u1: // или можешь я не ебу
+[Thu Jan  8 19:19:49 2026] СЛЫШУ ZOV ЕБAТЬ AZOV has killed Worshiper of God.
+[Thu Jan  8 19:19:50 2026] Worshiper of God has killed Worshiper of God.
+[Thu Jan  8 19:19:52 2026] BloodySmile has killed моченосец по телкам.
+[Thu Jan  8 19:19:53 2026] моченосец по телкам has killed моченосец по телкам.
+[Thu Jan  8 19:19:54 2026] Smasher has killed unsaved sex.
+[Thu Jan  8 19:20:00 2026] BloodySmile has killed СЛЫШУ ZOV ЕБAТЬ AZOV.
+[Thu Jan  8 19:20:01 2026] СЛЫШУ ZOV ЕБAТЬ AZOV has killed СЛЫШУ ZOV ЕБAТЬ AZOV.
+[Thu Jan  8 19:20:09 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "ammo Smasher"
+[Thu Jan  8 19:20:10 2026] Smasher has killed TANZI.
+[Thu Jan  8 19:20:12 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "ammo RCT Miss Wednesday"
+[Thu Jan  8 19:20:17 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "ammo PVT Daniel Ramirez"
+[Thu Jan  8 19:20:20 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "ammo RCT George Droid"
+[Thu Jan  8 19:20:23 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "ammo RCT Killa"
+[Thu Jan  8 19:20:26 2026] <STEAM_0:0:561366370> TANZI: // Имеется ощущение фарма
+[Thu Jan  8 19:20:26 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "ammo RCT Orange"
+[Thu Jan  8 19:20:26 2026] Smasher has killed BloodySmile.
+[Thu Jan  8 19:20:30 2026] <STEAM_0:0:561366370> TANZI: // Ваще ни чотко
+[Thu Jan  8 19:20:31 2026] Player "ЛЁХА ТЕХНИК" <STEAM_0:0:123093844> has left the server
+[Thu Jan  8 19:20:32 2026] Player "ЛЁХА ТЕХНИК" <STEAM_0:0:123093844> is attempting to connect.
+[Thu Jan  8 19:20:47 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "ammo MAJ A.E. Evergarden"
+[Thu Jan  8 19:20:55 2026] Player "ЛЁХА ТЕХНИК" <STEAM_0:0:123093844> has spawned in the server
+[Thu Jan  8 19:21:02 2026] TANZI has killed TANZI.
+[Thu Jan  8 19:21:05 2026] <STEAM_0:1:54838838> BloodySmile spawned SWEP "Weapon [669][tfa_ins2_wpn_rpg7]"
+[Thu Jan  8 19:21:05 2026] <STEAM_0:1:54838838> BloodySmile spawned SWEP "Weapon [684][tfa_ins2_wpn_rpg7]"
+[Thu Jan  8 19:21:14 2026] BloodySmile has killed Smasher.
+[Thu Jan  8 19:21:17 2026] <STEAM_0:1:148232866> моченосец по телкам: // Схуяли у РФ 4 ящика?
+[Thu Jan  8 19:21:21 2026] <STEAM_0:1:618974024> S0u1: // а мы ебем
+[Thu Jan  8 19:21:29 2026] <STEAM_0:0:207320926> СЛЫШУ ZOV ЕБAТЬ AZOV: // куда вы там ебете
+[Thu Jan  8 19:21:37 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [687][sw_airdrop_large_v3]"
+[Thu Jan  8 19:21:38 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [693][sw_airdrop_large_v3]"
+[Thu Jan  8 19:21:42 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [694][sw_airdrop_large_v3]"
+[Thu Jan  8 19:22:19 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /me исполнил воинское приветствие
+[Thu Jan  8 19:22:39 2026] <STEAM_0:0:586457449> NTF Epsilon11: /rf 3-я мотострелковая на плац
+[Thu Jan  8 19:22:56 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [704][sw_bmp3]"
+[Thu Jan  8 19:23:53 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [798][lvs_wheeldrive_hummer]"
+[Thu Jan  8 19:23:54 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [823][lvs_wheeldrive_hummer]"
+[Thu Jan  8 19:23:56 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [883][lvs_wheeldrive_hummer]"
+[Thu Jan  8 19:24:23 2026] Player "Prostofedos" <STEAM_0:0:535403097> is attempting to connect.
+[Thu Jan  8 19:24:41 2026] Player "C2H5OH в Крови" <STEAM_0:1:500418219> has left the server
+[Thu Jan  8 19:25:38 2026] <STEAM_0:1:220381002> Smasher: /nato Майор, Рамирез был повышен до СГМ, будет твоим помошником в плане обучения и полевым командиром
+[Thu Jan  8 19:25:50 2026] Player "Наводчик БТР-70" <STEAM_0:0:445347062> has spawned in the server
+[Thu Jan  8 19:26:05 2026] <STEAM_0:0:586457449> NTF Epsilon11: /rf на заправке свои
+[Thu Jan  8 19:26:12 2026] <STEAM_0:0:586457449> NTF Epsilon11: /rf мы спиздили хамер
+[Thu Jan  8 19:26:17 2026] TANZI has killed моченосец по телкам.
+[Thu Jan  8 19:27:45 2026] <STEAM_0:1:148232866> моченосец по телкам: // Я хамеры сломал
+[Thu Jan  8 19:27:53 2026] <STEAM_0:1:148232866> моченосец по телкам: // Теперь Нато без хамеров
+[Thu Jan  8 19:28:05 2026] <STEAM_0:0:207320926> СЛЫШУ ZOV ЕБAТЬ AZOV: ПАЦАНЫ НА УКРЕПРАЙОН ЭХО Я ТУТ ОДИН ЗАХВАТЫВАЮ
+[Thu Jan  8 19:28:19 2026] <STEAM_0:1:618974024> S0u1: /rf Т.Ст.прапорщик, разрешите доложить.
+[Thu Jan  8 19:28:22 2026] TANZI has killed unsaved sex.
+[Thu Jan  8 19:28:22 2026] <STEAM_0:0:46593395> BadBeeBoy♡: // Страна тебя не забудет джордж дроид
+[Thu Jan  8 19:28:36 2026] Morfisх has killed СЛЫШУ ZOV ЕБAТЬ AZOV.
+[Thu Jan  8 19:28:37 2026] СЛЫШУ ZOV ЕБAТЬ AZOV has killed СЛЫШУ ZOV ЕБAТЬ AZOV.
+[Thu Jan  8 19:28:47 2026] моченосец по телкам has killed ritz carlton.
+[Thu Jan  8 19:28:48 2026] ritz carlton has killed ritz carlton.
+[Thu Jan  8 19:28:56 2026] BadBeeBoy♡ has killed моченосец по телкам.
+[Thu Jan  8 19:29:09 2026] <STEAM_0:0:586457449> NTF Epsilon11: /me связал стяжками
+[Thu Jan  8 19:29:12 2026] <STEAM_0:0:561366370> TANZI: /me отобрал оружие
+[Thu Jan  8 19:29:19 2026] <STEAM_0:0:561366370> TANZI: /me отобрал связь
+[Thu Jan  8 19:29:26 2026] BloodySmile has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Thu Jan  8 19:29:51 2026] Наводчик БТР-70 has killed Наводчик БТР-70.
+[Thu Jan  8 19:29:51 2026] <STEAM_0:1:220381002> Smasher ran command "slay Frog"
+[Thu Jan  8 19:29:55 2026] <STEAM_0:1:220381002> Smasher ran command "bring Frog"
+[Thu Jan  8 19:31:00 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /nato данил рамирез вы где?
+[Thu Jan  8 19:31:05 2026] <STEAM_0:0:586457449> NTF Epsilon11: /me открыл дверь и вытащил америкоса и веду за собой
+[Thu Jan  8 19:31:11 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "ammo SGM Daniel Romirez"
+[Thu Jan  8 19:31:16 2026] <STEAM_0:1:618974024> S0u1: Тебя обколоть успели уже
+[Thu Jan  8 19:31:19 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "ammo MAJ A.E. Evergarden"
+[Thu Jan  8 19:31:19 2026] <STEAM_0:1:618974024> S0u1: Дмитриев
+[Thu Jan  8 19:31:26 2026] <STEAM_0:1:526999954> THE-_-Reper: /ooc Как в защищеную сеть писать ? /nato ?
+[Thu Jan  8 19:31:26 2026] <STEAM_0:1:618974024> S0u1: Не пизди так много
+[Thu Jan  8 19:31:27 2026] <STEAM_0:1:618974024> S0u1: Понял?
+[Thu Jan  8 19:31:31 2026] <STEAM_0:0:586457449> NTF Epsilon11: /me отпустил
+[Thu Jan  8 19:31:31 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // да
+[Thu Jan  8 19:31:32 2026] <STEAM_0:1:618974024> S0u1: Вольно
+[Thu Jan  8 19:31:54 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [648][lvs_item_compressor]"
+[Thu Jan  8 19:32:19 2026] <STEAM_0:0:586457449> NTF Epsilon11: ВЫШЕЛ НАХУЙ ЕБЛАН
+[Thu Jan  8 19:32:22 2026] <STEAM_0:1:220381002> Smasher: /nato Пока тихо на передовой, есть время заняться личным составом
+[Thu Jan  8 19:32:22 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [649][lvs_item_ammocrate]"
+[Thu Jan  8 19:32:26 2026] <STEAM_0:0:586457449> NTF Epsilon11: ДМИТРИЕВ БЛЯТЬ
+[Thu Jan  8 19:32:30 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [649][lvs_item_exhaust]"
+[Thu Jan  8 19:32:31 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [683][lvs_item_exhaust]"
+[Thu Jan  8 19:32:32 2026] <STEAM_0:0:586457449> NTF Epsilon11: вышел
+[Thu Jan  8 19:32:34 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [649][lvs_item_turbo]"
+[Thu Jan  8 19:32:35 2026] Player "ЛЁХА ТЕХНИК" <STEAM_0:0:123093844> has left the server
+[Thu Jan  8 19:32:36 2026] Player "ЛЁХА ТЕХНИК" <STEAM_0:0:123093844> is attempting to connect.
+[Thu Jan  8 19:32:39 2026] <STEAM_0:0:46593395> BadBeeBoy♡: /me снял штаны
+[Thu Jan  8 19:32:39 2026] <STEAM_0:1:618974024> S0u1: /rf Товарищ старший прапорщик, вы где?
+[Thu Jan  8 19:32:58 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /nato построение у вертушки даю 5 минут на подготовку и прибытие
+[Thu Jan  8 19:32:59 2026] Player "ЛЁХА ТЕХНИК" <STEAM_0:0:123093844> has spawned in the server
+[Thu Jan  8 19:33:06 2026] BadBeeBoy♡ has killed BadBeeBoy♡.
+[Thu Jan  8 19:33:10 2026] <STEAM_0:0:586457449> NTF Epsilon11: /com АМЕРИКОСЫ СЪЕБАЛИ ОТ БАЗЫ ИЛИ ВАШЕМУ БОШКУ ОТРЕЖУ
+[Thu Jan  8 19:33:31 2026] Worshiper of God has killed Worshiper of God.
+[Thu Jan  8 19:33:39 2026] <STEAM_0:0:74235942> Worshiper of God: // люблю своих
+[Thu Jan  8 19:33:50 2026] Player "Worshiper of God" <STEAM_0:0:74235942> has left the server
+[Thu Jan  8 19:33:55 2026] <STEAM_0:1:220381002> Smasher: /com Go fuck yourself, maggot
+[Thu Jan  8 19:34:03 2026] <STEAM_0:0:586457449> NTF Epsilon11: /com Рекерут Апельсинов Я ЕМУ БОШКУ ОТРЕЖУ Я ПРЕДУПРЕДИЛ ВЫЙТИ НА РЧ 76
+[Thu Jan  8 19:34:13 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /nato потом в дс в перепись отписать для занесения в таблицу!!
+[Thu Jan  8 19:34:17 2026] <STEAM_0:0:46593395> BadBeeBoy♡: // по 5 патронов брать с кулдауном в 30 секунд
+[Thu Jan  8 19:34:42 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /nato 3 минуты!
+[Thu Jan  8 19:34:45 2026] <STEAM_0:0:586457449> NTF Epsilon11: /com Америкосы у нас ваш боец переговоры на рч 76.
+[Thu Jan  8 19:35:00 2026] <STEAM_0:1:148232866> моченосец по телкам: // похуй
+[Thu Jan  8 19:35:07 2026] <STEAM_0:1:220381002> Smasher: /com I cant understand your fucking dog language
+[Thu Jan  8 19:35:07 2026] <STEAM_0:0:586457449> NTF Epsilon11: /me срезал стяжки
+[Thu Jan  8 19:35:08 2026] <STEAM_0:0:207320926> СЛЫШУ ZOV ЕБAТЬ AZOV: // ты ахуел
+[Thu Jan  8 19:35:22 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /nato 2 минуты и полетят выговоры
+[Thu Jan  8 19:35:25 2026] <STEAM_0:0:207320926> СЛЫШУ ZOV ЕБAТЬ AZOV: /me снял с себя бронижилет
+[Thu Jan  8 19:35:30 2026] <STEAM_0:0:561366370> TANZI: /com speak Russian :hugging:
+[Thu Jan  8 19:35:31 2026] <STEAM_0:0:207320926> СЛЫШУ ZOV ЕБAТЬ AZOV: /me кинул на пол
+[Thu Jan  8 19:35:37 2026] <STEAM_0:1:526999954> THE-_-Reper: /nato Отделение "Патриот" ждет одного бойца , пока тот проснется
+[Thu Jan  8 19:35:42 2026] <STEAM_0:0:445347062> Наводчик БТР-70: // тише жди меня
+[Thu Jan  8 19:35:45 2026] <STEAM_0:0:586457449> NTF Epsilon11: /me достал стяжку и стянул руки
+[Thu Jan  8 19:35:53 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /nato отделения не давали права делать
+[Thu Jan  8 19:35:59 2026] <STEAM_0:0:445347062> Наводчик БТР-70: // щас и за своим бойцом приеду, и до вас доберуюсь
+[Thu Jan  8 19:36:02 2026] <STEAM_0:1:618974024> S0u1: /l Это алатырь?
+[Thu Jan  8 19:36:12 2026] <STEAM_0:0:586457449> NTF Epsilon11: /me пнул ногой под зад
+[Thu Jan  8 19:36:16 2026] Player "ЛЁХА ТЕХНИК" <STEAM_0:0:123093844> has left the server
+[Thu Jan  8 19:36:17 2026] Player "ЛЁХА ТЕХНИК" <STEAM_0:0:123093844> is attempting to connect.
+[Thu Jan  8 19:36:41 2026] Player "ЛЁХА ТЕХНИК" <STEAM_0:0:123093844> has spawned in the server
+[Thu Jan  8 19:36:49 2026] <STEAM_0:0:586457449> NTF Epsilon11: /me достал нож и взял руку америкоса
+[Thu Jan  8 19:37:05 2026] <STEAM_0:0:586457449> NTF Epsilon11: /me начал отрезать первый палец
+[Thu Jan  8 19:37:14 2026] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [683][bodygroup]"
+[Thu Jan  8 19:37:15 2026] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [764][bodygroup]"
+[Thu Jan  8 19:37:18 2026] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [683][bodygroup]"
+[Thu Jan  8 19:37:20 2026] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [683][bodygroup]"
+[Thu Jan  8 19:37:21 2026] <STEAM_0:0:586457449> NTF Epsilon11: /me дорезал палец и взял за шкиру
+[Thu Jan  8 19:37:23 2026] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [683][bodygroup]"
+[Thu Jan  8 19:37:29 2026] <STEAM_0:1:148232866> моченосец по телкам: // Как там третье лицо?
+[Thu Jan  8 19:37:40 2026] <STEAM_0:1:618974024> S0u1: // с меню и глазик
+[Thu Jan  8 19:37:44 2026] <STEAM_0:1:618974024> S0u1: // сверху
+[Thu Jan  8 19:38:16 2026] Player "ЛЁХА ТЕХНИК" <STEAM_0:0:123093844> has left the server
+[Thu Jan  8 19:38:17 2026] Player "ЛЁХА ТЕХНИК" <STEAM_0:0:123093844> is attempting to connect.
+[Thu Jan  8 19:38:20 2026] <STEAM_0:1:618974024> S0u1: /l алатырь?
+[Thu Jan  8 19:38:27 2026] <STEAM_0:0:207320926> СЛЫШУ ZOV ЕБAТЬ AZOV: /looc хуетырь
+[Thu Jan  8 19:38:32 2026] <STEAM_0:1:618974024> S0u1: /l да я путаю блять
+[Thu Jan  8 19:38:34 2026] <STEAM_0:1:618974024> S0u1: /l вист?
+[Thu Jan  8 19:38:39 2026] <STEAM_0:0:207320926> СЛЫШУ ZOV ЕБAТЬ AZOV: /looc Да
+[Thu Jan  8 19:38:41 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "respawn SGM Daniel Romirez"
+[Thu Jan  8 19:38:41 2026] Player "ЛЁХА ТЕХНИК" <STEAM_0:0:123093844> has spawned in the server
+[Thu Jan  8 19:38:42 2026] <STEAM_0:0:586457449> NTF Epsilon11: /me убрал руку со шкирки и уебал америкосу под дых
+[Thu Jan  8 19:38:42 2026] <STEAM_0:1:618974024> S0u1: /l победа
+[Thu Jan  8 19:38:45 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "send SGM Daniel Romirez"
+[Thu Jan  8 19:38:55 2026] <STEAM_0:0:207320926> СЛЫШУ ZOV ЕБAТЬ AZOV: /me согнулся
+[Thu Jan  8 19:39:00 2026] <STEAM_0:1:54838838> BloodySmile: ./me взял тд
+[Thu Jan  8 19:39:15 2026] <STEAM_0:1:567494603> ritz carlton: /me взял молоток
+[Thu Jan  8 19:39:25 2026] Player "ЛЁХА ТЕХНИК" <STEAM_0:0:123093844> has left the server
+[Thu Jan  8 19:39:54 2026] <STEAM_0:0:586457449> NTF Epsilon11: /me взял кувалду из рук есенина
+[Thu Jan  8 19:40:00 2026] <STEAM_0:1:526999954> THE-_-Reper: /looc Мы вообще скоро будем делать FOG
+[Thu Jan  8 19:40:01 2026] Smasher has killed Smasher.
+[Thu Jan  8 19:40:01 2026] <STEAM_0:1:220381002> Smasher ran command "slay Smasher"
+[Thu Jan  8 19:40:08 2026] <STEAM_0:1:220381002> Smasher ran command "goto frog"
+[Thu Jan  8 19:40:12 2026] <STEAM_0:1:220381002> Smasher ran command "respawn ^"
+[Thu Jan  8 19:40:16 2026] <STEAM_0:1:220381002> Smasher ran command "goto Frog"
+[Thu Jan  8 19:40:18 2026] <STEAM_0:0:586457449> NTF Epsilon11: /me кувалдой ебашу по руке американца
+[Thu Jan  8 19:40:22 2026] <STEAM_0:0:586457449> NTF Epsilon11: /it 1/3
+[Thu Jan  8 19:40:25 2026] <STEAM_0:0:56418410> unsaved sex: /me совершает действие
+[Thu Jan  8 19:40:26 2026] <STEAM_0:0:586457449> NTF Epsilon11: /do 2/3
+[Thu Jan  8 19:40:26 2026] <STEAM_0:0:56418410> unsaved sex: /me совершает действие
+[Thu Jan  8 19:40:27 2026] <STEAM_0:0:56418410> unsaved sex: /me совершает действие
+[Thu Jan  8 19:40:31 2026] <STEAM_0:0:586457449> NTF Epsilon11: /do 2/3
+[Thu Jan  8 19:40:36 2026] <STEAM_0:0:586457449> NTF Epsilon11: /do 3/3
+[Thu Jan  8 19:40:53 2026] <STEAM_0:0:586457449> NTF Epsilon11: /me начал хуячить по правой ноге со всей силы
+[Thu Jan  8 19:40:54 2026] <STEAM_0:1:220381002> Smasher: /me Пристегнул наручники к стенке
+[Thu Jan  8 19:40:59 2026] <STEAM_0:0:586457449> NTF Epsilon11: /do 1/3
+[Thu Jan  8 19:41:03 2026] <STEAM_0:0:586457449> NTF Epsilon11: /do 2/3
+[Thu Jan  8 19:41:05 2026] <STEAM_0:0:586457449> NTF Epsilon11: /do 3/3
+[Thu Jan  8 19:41:30 2026] <STEAM_0:0:586457449> NTF Epsilon11: /me достал гранату выдернул чику и засунул ему в трусы
+[Thu Jan  8 19:42:05 2026] <STEAM_0:0:207320926> СЛЫШУ ZOV ЕБAТЬ AZOV: /it От американца нихуя не осталось
+[Thu Jan  8 19:42:10 2026] <STEAM_0:0:207320926> СЛЫШУ ZOV ЕБAТЬ AZOV: /do От американца нихуя не осталось
+[Thu Jan  8 19:42:19 2026] NTF Epsilon11 has killed СЛЫШУ ZOV ЕБAТЬ AZOV.
+[Thu Jan  8 19:42:34 2026] BadBeeBoy♡ has killed СЛЫШУ ZOV ЕБAТЬ AZOV.
+[Thu Jan  8 19:42:36 2026] <STEAM_0:0:207320926> СЛЫШУ ZOV ЕБAТЬ AZOV: /looc толпою гасят даже льва
+[Thu Jan  8 19:42:37 2026] <STEAM_0:0:586457449> NTF Epsilon11: /rp облил бензином труп американца и поджог
+[Thu Jan  8 19:42:45 2026] NTF Epsilon11 has killed СЛЫШУ ZOV ЕБAТЬ AZOV.
+[Thu Jan  8 19:42:46 2026] NTF Epsilon11 has killed unsaved sex.
+[Thu Jan  8 19:42:47 2026] unsaved sex has killed unsaved sex.
+[Thu Jan  8 19:42:47 2026] <STEAM_0:0:561366370> TANZI: // ЧТО ПРОИСХОДИт
+[Thu Jan  8 19:42:48 2026] BadBeeBoy♡ has killed NTF Epsilon11.
+[Thu Jan  8 19:42:50 2026] Smasher has killed "White".
+[Thu Jan  8 19:42:50 2026] "White" has killed "White".
+[Thu Jan  8 19:42:55 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "ammo MAJ A.E. Evergarden"
+[Thu Jan  8 19:43:01 2026] <STEAM_0:0:445347062> Наводчик БТР-70: // У нас штабники кукухой поехали
+[Thu Jan  8 19:43:08 2026] <STEAM_0:1:148232866> моченосец по телкам: // ++
+[Thu Jan  8 19:43:10 2026] <STEAM_0:0:561366370> TANZI: // У нас тоже блять
+[Thu Jan  8 19:43:15 2026] <STEAM_0:1:618974024> S0u1: // у нас новобранцы наебнулись
+[Thu Jan  8 19:43:26 2026] <STEAM_0:1:54838838> BloodySmile spawned ragdoll "Entity [700][prop_ragdoll] (models/notart/venerated.mdl)"
+[Thu Jan  8 19:43:33 2026] <STEAM_0:0:445347062> Наводчик БТР-70: // у нас танкист, ВПешник чтоб ты понимал
+[Thu Jan  8 19:43:41 2026] <STEAM_0:0:445347062> Наводчик БТР-70: // Задержал и все
+[Thu Jan  8 19:44:03 2026] Наводчик БТР-70 has killed Наводчик БТР-70.
+[Thu Jan  8 19:44:27 2026] <STEAM_0:0:586457449> NTF Epsilon11: /com ваш боей пидор был убит я хотел переговоров вы отказались.
+[Thu Jan  8 19:44:34 2026] Player "C2H5OH в Крови" <STEAM_0:1:500418219> is attempting to connect.
+[Thu Jan  8 19:44:41 2026] <STEAM_0:0:445347062> Наводчик БТР-70: // все вопросы к нашим офицерам
+[Thu Jan  8 19:44:54 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: я согласен
+[Thu Jan  8 19:45:07 2026] <STEAM_0:0:586457449> NTF Epsilon11: /ooc да мы ему пиздатую казнь сделали, апельсин тебе понравилось?
+[Thu Jan  8 19:45:45 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "witchergate"
+[Thu Jan  8 19:48:03 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "spectate Осужденный"
+[Thu Jan  8 19:48:09 2026] <STEAM_0:1:220381002> Smasher ran command "bring frog"
+[Thu Jan  8 19:48:15 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "send Осужденный"
+[Thu Jan  8 19:48:32 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "respawn Осужденный"
+[Thu Jan  8 19:48:35 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "send Осужденный"
+[Thu Jan  8 19:48:39 2026] <STEAM_0:1:618974024> S0u1: // его в джайл кинули чтоли или че
+[Thu Jan  8 19:48:46 2026] <STEAM_0:0:445347062> Наводчик БТР-70: // нет
+[Thu Jan  8 19:48:49 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // разборки
+[Thu Jan  8 19:48:52 2026] <STEAM_0:0:445347062> Наводчик БТР-70: // просто тепнули
+[Thu Jan  8 19:48:52 2026] <STEAM_0:1:618974024> S0u1: // верните его
+[Thu Jan  8 19:48:55 2026] <STEAM_0:1:54838838> BloodySmile: /ooc тут рп
+[Thu Jan  8 19:48:56 2026] <STEAM_0:0:445347062> Наводчик БТР-70: // ну блять
+[Thu Jan  8 19:48:58 2026] <STEAM_0:1:618974024> S0u1: // у нас рп
+[Thu Jan  8 19:49:00 2026] <STEAM_0:1:618974024> S0u1: // было
+[Thu Jan  8 19:49:02 2026] <STEAM_0:0:445347062> Наводчик БТР-70: // рп верните
+[Thu Jan  8 19:49:04 2026] <STEAM_0:1:618974024> S0u1: // через ручной пулемет
+[Thu Jan  8 19:49:05 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // кто
+[Thu Jan  8 19:49:12 2026] <STEAM_0:0:445347062> Наводчик БТР-70: // меня
+[Thu Jan  8 19:49:14 2026] <STEAM_0:1:618974024> S0u1: // Фрога к нам
+[Thu Jan  8 19:49:16 2026] <STEAM_0:1:618974024> S0u1: // в кпз
+[Thu Jan  8 19:49:16 2026] <STEAM_0:0:445347062> Наводчик БТР-70: // на базу рф
+[Thu Jan  8 19:49:18 2026] <STEAM_0:0:586457449> NTF Epsilon11: /rp записал Смэшэр подполковник, дэниел рамирез-сержант майор,авергарден майор
+[Thu Jan  8 19:49:43 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "goto Вакутагин "Тундр"
+[Thu Jan  8 19:49:45 2026] <STEAM_0:1:220381002> Smasher ran command "ban Frog 12 h"
+[Thu Jan  8 19:49:45 2026] Player "Наводчик БТР-70" <STEAM_0:0:445347062> has left the server
+[Thu Jan  8 19:49:50 2026] <STEAM_0:1:618974024> S0u1: // h
+[Thu Jan  8 19:49:54 2026] Player "Наводчик БТР-70" <STEAM_0:0:445347062> is attempting to connect.
+[Thu Jan  8 19:49:55 2026] Player "C2H5OH в Крови" <STEAM_0:1:500418219> has spawned in the server
+[Thu Jan  8 19:50:02 2026] <STEAM_0:1:220381002> Smasher ran command "a Разбаньте фрога"
+[Thu Jan  8 19:50:14 2026] <STEAM_0:1:148232866> моченосец по телкам: Кедр
+[Thu Jan  8 19:50:15 2026] <STEAM_0:1:148232866> моченосец по телкам: памаги
+[Thu Jan  8 19:50:20 2026] <STEAM_0:1:54838838> BloodySmile: а
+[Thu Jan  8 19:50:35 2026] <STEAM_0:1:220381002> Smasher ran command "noclip Smasher"
+[Thu Jan  8 19:50:36 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "send Осужденный НЕ ПР"
+[Thu Jan  8 19:50:43 2026] <STEAM_0:1:220381002> Smasher ran command "a у меня не разбанивается почему то"
+[Thu Jan  8 19:50:47 2026] <STEAM_0:0:56418410> unsaved sex: /me совершает действие
+[Thu Jan  8 19:50:49 2026] <STEAM_0:1:500418219> C2H5OH в Крови: /l кхм
+[Thu Jan  8 19:50:49 2026] <STEAM_0:1:220381002> Smasher ran command "a накиньте ему 12 часов бана за лив рп"
+[Thu Jan  8 19:51:04 2026] Player "Калоёб" <STEAM_0:0:526149040> is attempting to connect.
+[Thu Jan  8 19:51:07 2026] NTF Epsilon11 has killed моченосец по телкам.
+[Thu Jan  8 19:51:12 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "goto SGM Daniel Romirez"
+[Thu Jan  8 19:51:14 2026] <STEAM_0:1:220381002> Smasher ran command "goto MAJ"
+[Thu Jan  8 19:51:17 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "send Осужденный НЕ ПР"
+[Thu Jan  8 19:51:18 2026] Player "Наводчик БТР-70" <STEAM_0:0:445347062> is attempting to connect.
+[Thu Jan  8 19:51:36 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: !ьутг
+[Thu Jan  8 19:51:39 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "menu"
+[Thu Jan  8 19:51:42 2026] <STEAM_0:1:220381002> Smasher ran command "menu"
+[Thu Jan  8 19:51:45 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "unban STEAM_0:0:445347062"
+[Thu Jan  8 19:51:49 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: STEAM_0:0:445347062
+[Thu Jan  8 19:51:57 2026] Player "Наводчик БТР-70" <STEAM_0:0:445347062> is attempting to connect.
+[Thu Jan  8 19:52:07 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /nato к нам смешер подойди
+[Thu Jan  8 19:52:32 2026] <STEAM_0:0:586457449> NTF Epsilon11: /rp добил очередью в голову george droid
+[Thu Jan  8 19:52:34 2026] NTF Epsilon11 has killed моченосец по телкам.
+[Thu Jan  8 19:52:35 2026] моченосец по телкам has killed моченосец по телкам.
+[Thu Jan  8 19:52:44 2026] <STEAM_0:1:526999954> THE-_-Reper: а че наших рпк
+[Thu Jan  8 19:52:44 2026] Player "Наводчик БТР-70" <STEAM_0:0:445347062> has spawned in the server
+[Thu Jan  8 19:52:54 2026] <STEAM_0:1:220381002> Smasher ran command "menu"
+[Thu Jan  8 19:53:00 2026] <STEAM_0:1:148232866> моченосец по телкам: // История George Droid окончена
+[Thu Jan  8 19:53:07 2026] <STEAM_0:0:46593395> BadBeeBoy♡: // F
+[Thu Jan  8 19:53:09 2026] <STEAM_0:1:618974024> S0u1: // +2 рпк за день
+[Thu Jan  8 19:53:24 2026] <STEAM_0:1:514738252> "White": Killa
+[Thu Jan  8 19:53:36 2026] <STEAM_0:1:618974024> S0u1: // услышал
+[Thu Jan  8 19:53:47 2026] <STEAM_0:1:220381002> Smasher ran command "noclip Smasher"
+[Thu Jan  8 19:53:52 2026] <STEAM_0:1:220381002> Smasher ran command "goto MAJ"
+[Thu Jan  8 19:53:55 2026] <STEAM_0:1:630783383> Morfisх: /com ну что америкосы где ваш строительный мусор на колесах
+[Thu Jan  8 19:54:04 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // мы не в рп
+[Thu Jan  8 19:54:09 2026] <STEAM_0:0:586457449> NTF Epsilon11: /com буйство -2 сосать!
+[Thu Jan  8 19:54:15 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // мы заняты
+[Thu Jan  8 19:54:19 2026] <STEAM_0:1:500418219> C2H5OH в Крови: кхм
+[Thu Jan  8 19:54:19 2026] Player "моченосец по телкам" <STEAM_0:1:148232866> has left the server
+[Thu Jan  8 19:54:26 2026] <STEAM_0:1:220381002> Smasher ran command "ban RCT Frog 720 Leave RP"
+[Thu Jan  8 19:54:26 2026] Player "Наводчик БТР-70" <STEAM_0:0:445347062> has left the server
+[Thu Jan  8 19:54:43 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "respawn Rodrigez"
+[Thu Jan  8 19:54:46 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "send Rodrigez"
+[Thu Jan  8 19:55:00 2026] <STEAM_0:1:500418219> C2H5OH в Крови: /l нихуево так зашел на сервер
+[Thu Jan  8 19:55:13 2026] <STEAM_0:1:220381002> Smasher ran command "kick RCT Killa Griefer"
+[Thu Jan  8 19:55:14 2026] Player ""White"" <STEAM_0:1:514738252> has left the server
+[Thu Jan  8 19:56:12 2026] Player ""White"" <STEAM_0:1:514738252> is attempting to connect.
+[Thu Jan  8 19:56:19 2026] Player "kari x god" <STEAM_0:0:586278889> is attempting to connect.
+[Thu Jan  8 19:57:13 2026] Player ""White"" <STEAM_0:1:514738252> has spawned in the server
+[Thu Jan  8 19:57:48 2026] <STEAM_0:1:54838838> BloodySmile ran command "rank Smasher user 0"
+[Thu Jan  8 19:57:58 2026] <STEAM_0:1:500418219> C2H5OH в Крови: я прошу что вмешиваюсь , но есть на "базе" кто-нибудь из инструкторов , или в этом роде
+[Thu Jan  8 19:58:10 2026] Player "Наводчик БТР-70" <STEAM_0:0:445347062> is attempting to connect.
+[Thu Jan  8 19:58:34 2026] <STEAM_0:0:586457449> NTF Epsilon11: /rf ВСЕ НА ПЛАЦ БЕГОМ МАРШ
+[Thu Jan  8 19:58:47 2026] <STEAM_0:0:561366370> TANZI: /rf Прям все? Даже танкисты?
+[Thu Jan  8 19:59:04 2026] <STEAM_0:1:500418219> C2H5OH в Крови: или мне нужно за территорию идти и там искать кого-нибудь кто может провести кмб?
+[Thu Jan  8 19:59:20 2026] <STEAM_0:1:500418219> C2H5OH в Крови: ну пизде
+[Thu Jan  8 19:59:50 2026] Player "Калоёб" <STEAM_0:0:526149040> has spawned in the server
+[Thu Jan  8 19:59:59 2026] <STEAM_0:0:561366370> TANZI: /looc kill пропиши
+[Thu Jan  8 20:00:06 2026] <STEAM_0:0:561366370> TANZI: /
+[Thu Jan  8 20:00:29 2026] <STEAM_0:1:514738252> "White": MAJ A.E. Evergarden Можешь разарестовать и выдать обычного солдата
+[Thu Jan  8 20:00:36 2026] <STEAM_0:1:514738252> "White" ran command "pm MAJ A.E. Evergarden Можешь разарестовать и выдать обычного солдата"
+[Thu Jan  8 20:00:38 2026] <STEAM_0:1:500418219> C2H5OH в Крови: там это
+[Thu Jan  8 20:00:44 2026] <STEAM_0:0:207320926> СЛЫШУ ZOV ЕБAТЬ AZOV: шо там
+[Thu Jan  8 20:00:45 2026] NTF Epsilon11 has killed NTF Epsilon11.
+[Thu Jan  8 20:00:49 2026] <STEAM_0:1:500418219> C2H5OH в Крови: кто-то из высокопоставленных срутся в ангаре
+[Thu Jan  8 20:00:53 2026] Player "Watchmaker" <STEAM_0:0:223384638> is attempting to connect.
+[Thu Jan  8 20:00:54 2026] <STEAM_0:1:500418219> C2H5OH в Крови: то-ли нахер меня послали
+[Thu Jan  8 20:01:03 2026] <STEAM_0:1:500418219> C2H5OH в Крови: в том
+[Thu Jan  8 20:01:17 2026] <STEAM_0:0:207320926> СЛЫШУ ZOV ЕБAТЬ AZOV: рация
+[Thu Jan  8 20:01:19 2026] <STEAM_0:1:500418219> C2H5OH в Крови: /y А мне то что делать
+[Thu Jan  8 20:01:19 2026] <STEAM_0:0:207320926> СЛЫШУ ZOV ЕБAТЬ AZOV: какая
+[Thu Jan  8 20:01:44 2026] <STEAM_0:1:500418219> C2H5OH в Крови: // ну , старт нихуевый
+[Thu Jan  8 20:01:49 2026] <STEAM_0:0:46593395> BadBeeBoy♡: /drop
+[Thu Jan  8 20:01:52 2026] <STEAM_0:0:207320926> СЛЫШУ ZOV ЕБAТЬ AZOV: /nato рация какая
+[Thu Jan  8 20:01:58 2026] Smasher has killed "White".
+[Thu Jan  8 20:01:59 2026] "White" has killed "White".
+[Thu Jan  8 20:02:12 2026] <STEAM_0:1:500418219> C2H5OH в Крови: а за что его
+[Thu Jan  8 20:02:19 2026] Smasher has killed "White".
+[Thu Jan  8 20:02:50 2026] <STEAM_0:1:500418219> C2H5OH в Крови: /l а можно слегонца обратить внимание на новичка
+[Thu Jan  8 20:02:50 2026] Smasher has killed "White".
+[Thu Jan  8 20:02:57 2026] THE-_-Reper has killed Smasher.
+[Thu Jan  8 20:02:58 2026] Smasher has killed Smasher.
+[Thu Jan  8 20:02:58 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed THE-_-Reper.
+[Thu Jan  8 20:02:59 2026] THE-_-Reper has killed THE-_-Reper.
+[Thu Jan  8 20:03:08 2026] <STEAM_0:1:630783383> Morfisх: АХАХАХАХАХАХА
+[Thu Jan  8 20:03:23 2026] Smasher has killed "White".
+[Thu Jan  8 20:03:32 2026] <STEAM_0:1:54838838> BloodySmile ran command "invisible Григорьев"
+[Thu Jan  8 20:03:33 2026] <STEAM_0:1:500418219> C2H5OH в Крови: может ему кто помощь окажет
+[Thu Jan  8 20:03:36 2026] <STEAM_0:1:630783383> Morfisх: ЫХЫХЫХХЫХЫХХЫХЫХЫХЫХЫХЫХЫХЫХЫХЫХЫХЫХЫХЫХЫЫХЫХЫХЫХЫЫХЫХЫХЫЫХЫХЫХЫХЫХЫХЫХЫХЫХХЫЫХЫХЫХЫХЫХЫХЫХЫХХЫХЫХЫХЫХЫЫХЫХЫХЫХЫХЫХЫХЫХЫХЫХХЫХЫЫХХЫЫХХЫЫХЫХЫХХЫХЫХЫХЫХЫ
+[Thu Jan  8 20:03:39 2026] <STEAM_0:1:500418219> C2H5OH в Крови: он ведб умрет так
+[Thu Jan  8 20:03:41 2026] Player "Грымза" <STEAM_0:1:826463988> is attempting to connect.
+[Thu Jan  8 20:03:42 2026] <STEAM_0:0:561366370> TANZI: .
+[Thu Jan  8 20:03:43 2026] <STEAM_0:0:46593395> BadBeeBoy♡: писечка
+[Thu Jan  8 20:03:47 2026] <STEAM_0:0:46593395> BadBeeBoy♡: попочка
+[Thu Jan  8 20:03:50 2026] <STEAM_0:0:46593395> BadBeeBoy♡: какашечка
+[Thu Jan  8 20:03:50 2026] <STEAM_0:1:500418219> C2H5OH в Крови: ну все
+[Thu Jan  8 20:03:57 2026] <STEAM_0:1:500418219> C2H5OH в Крови: /l честно ребят я в ахуе
+[Thu Jan  8 20:04:21 2026] <STEAM_0:1:500418219> C2H5OH в Крови: /l особенно с того что ангел летает без инвиза
+[Thu Jan  8 20:04:31 2026] Smasher has killed "White".
+[Thu Jan  8 20:04:32 2026] Player "BROM_29_CS" <STEAM_0:1:950140525> is attempting to connect.
+[Thu Jan  8 20:05:55 2026] <STEAM_0:1:220381002> Smasher: /nato майор прибудьте к вертолетной площадке
+[Thu Jan  8 20:05:56 2026] <STEAM_0:1:526999954> THE-_-Reper: /ooc майор можешь ко мне оформить тп
+[Thu Jan  8 20:06:13 2026] <STEAM_0:1:54838838> BloodySmile used tool "remover"
+[Thu Jan  8 20:06:16 2026] <STEAM_0:1:54838838> BloodySmile used tool "remover"
+[Thu Jan  8 20:06:16 2026] <STEAM_0:1:54838838> BloodySmile used tool "remover"
+[Thu Jan  8 20:06:16 2026] <STEAM_0:1:54838838> BloodySmile used tool "remover"
+[Thu Jan  8 20:06:17 2026] <STEAM_0:1:54838838> BloodySmile used tool "remover"
+[Thu Jan  8 20:06:17 2026] <STEAM_0:1:54838838> BloodySmile used tool "remover"
+[Thu Jan  8 20:06:17 2026] <STEAM_0:1:54838838> BloodySmile used tool "remover"
+[Thu Jan  8 20:06:17 2026] <STEAM_0:1:54838838> BloodySmile used tool "remover"
+[Thu Jan  8 20:06:18 2026] <STEAM_0:1:54838838> BloodySmile used tool "remover"
+[Thu Jan  8 20:06:18 2026] <STEAM_0:1:54838838> BloodySmile used tool "remover"
+[Thu Jan  8 20:06:18 2026] <STEAM_0:1:54838838> BloodySmile used tool "remover"
+[Thu Jan  8 20:06:18 2026] <STEAM_0:1:54838838> BloodySmile used tool "remover"
+[Thu Jan  8 20:06:19 2026] <STEAM_0:1:54838838> BloodySmile used tool "remover"
+[Thu Jan  8 20:06:19 2026] <STEAM_0:1:54838838> BloodySmile used tool "remover"
+[Thu Jan  8 20:06:19 2026] <STEAM_0:1:54838838> BloodySmile used tool "remover"
+[Thu Jan  8 20:06:19 2026] <STEAM_0:1:54838838> BloodySmile used tool "remover"
+[Thu Jan  8 20:06:20 2026] <STEAM_0:1:54838838> BloodySmile used tool "remover"
+[Thu Jan  8 20:06:20 2026] <STEAM_0:1:54838838> BloodySmile used tool "remover"
+[Thu Jan  8 20:06:28 2026] <STEAM_0:1:54838838> BloodySmile ran command "menu"
+[Thu Jan  8 20:06:32 2026] sw_bmp3 has killed Morfisх.
+[Thu Jan  8 20:06:39 2026] <STEAM_0:1:500418219> C2H5OH в Крови: я польщен , раньше меня называли грубее
+[Thu Jan  8 20:06:41 2026] lvs_wheeldrive_wheel has killed Morfisх.
+[Thu Jan  8 20:06:47 2026] lvs_wheeldrive_wheel has killed Morfisх.
+[Thu Jan  8 20:06:49 2026] sw_bmp3 has killed BadBeeBoy♡.
+[Thu Jan  8 20:07:04 2026] <STEAM_0:0:586457449> NTF Epsilon11: /rp положил тетрадку с именами и званиями в столик
+[Thu Jan  8 20:07:22 2026] BadBeeBoy♡ has killed BadBeeBoy♡.
+[Thu Jan  8 20:07:26 2026] <STEAM_0:0:561366370> TANZI: // Уберите эту шайтан машину на главных воротах РФ
+[Thu Jan  8 20:07:31 2026] <STEAM_0:0:561366370> TANZI: // По братски блять
+[Thu Jan  8 20:07:43 2026] <STEAM_0:1:220381002> Smasher: /nato Смена рации на 666
+[Thu Jan  8 20:08:03 2026] <STEAM_0:1:526999954> THE-_-Reper: /ooc майор можешь ко мне оформить тп
+[Thu Jan  8 20:08:18 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // попоже
+[Thu Jan  8 20:08:32 2026] <STEAM_0:1:526999954> THE-_-Reper: /ooc ок , жду тогда
+[Thu Jan  8 20:08:32 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [559][sw_bmp3m]"
+[Thu Jan  8 20:08:34 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [721][sw_bmp3m]"
+[Thu Jan  8 20:08:50 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [561][sw_bmp3]"
+[Thu Jan  8 20:09:17 2026] <STEAM_0:1:500418219> C2H5OH в Крови: слегка не расслышал
+[Thu Jan  8 20:09:42 2026] <STEAM_0:1:514738252> "White": /me Радостно! 
+[Thu Jan  8 20:09:42 2026] <STEAM_0:1:500418219> C2H5OH в Крови: заявку отправил
+[Thu Jan  8 20:09:47 2026] <STEAM_0:1:54838838> BloodySmile: /ooc я ща афк если что
+[Thu Jan  8 20:09:52 2026] <STEAM_0:0:561366370> TANZI: // Оки
+[Thu Jan  8 20:10:11 2026] <STEAM_0:1:500418219> C2H5OH в Крови: Chizj
+[Thu Jan  8 20:10:39 2026] <STEAM_0:1:500418219> C2H5OH в Крови: Будет такой позывной
+[Thu Jan  8 20:10:44 2026] <STEAM_0:1:220381002> Smasher ran command "pm Григорьев Зачем админку снял"
+[Thu Jan  8 20:10:51 2026] Player "RELime" <STEAM_0:1:516159969> is attempting to connect.
+[Thu Jan  8 20:11:00 2026] <STEAM_0:1:54838838> BloodySmile ran command "pm smasher грег"
+[Thu Jan  8 20:11:01 2026] <STEAM_0:0:561366370> TANZI: /looc Джарвис че за хуйня
+[Thu Jan  8 20:11:06 2026] <STEAM_0:1:618974024> S0u1: /rf Старший прапорщик
+[Thu Jan  8 20:11:09 2026] <STEAM_0:1:618974024> S0u1: /rf Оформите его
+[Thu Jan  8 20:11:15 2026] <STEAM_0:0:586457449> NTF Epsilon11: /me достал удостоверение ВПшника предъявил и прибрал в карман
+[Thu Jan  8 20:11:24 2026] <STEAM_0:1:500418219> C2H5OH в Крови: /l кстати , тут нет невидимости ?
+[Thu Jan  8 20:11:25 2026] <STEAM_0:0:56418410> unsaved sex: /me совершает действие
+[Thu Jan  8 20:11:26 2026] <STEAM_0:1:567494603> ritz carlton: /me уронил сухарики от испуга
+[Thu Jan  8 20:11:35 2026] <STEAM_0:1:500418219> C2H5OH в Крови: /l я так просто заметил без нее летали
+[Thu Jan  8 20:11:45 2026] <STEAM_0:1:455594560> gREG4IK ran command "spectate Smasher"
+[Thu Jan  8 20:11:59 2026] Player "kari x god" <STEAM_0:0:586278889> has spawned in the server
+[Thu Jan  8 20:12:13 2026] <STEAM_0:1:500418219> C2H5OH в Крови: медик или снайпер
+[Thu Jan  8 20:12:14 2026] Player "Watchmaker" <STEAM_0:0:223384638> has spawned in the server
+[Thu Jan  8 20:12:23 2026] <STEAM_0:1:455594560> gREG4IK ran command "send RCT Killa"
+[Thu Jan  8 20:12:26 2026] <STEAM_0:1:500418219> C2H5OH в Крови: ух ё
+[Thu Jan  8 20:12:29 2026] <STEAM_0:1:455594560> gREG4IK ran command "send Smasher"
+[Thu Jan  8 20:13:07 2026] <STEAM_0:1:526999954> THE-_-Reper: /ad [Rp] У кпп ВС РФ , был крик , "Guys, don't shoot, I'm the five hundredth"
+[Thu Jan  8 20:13:11 2026] <STEAM_0:1:526999954> THE-_-Reper: /advert
+[Thu Jan  8 20:13:15 2026] <STEAM_0:1:526999954> THE-_-Reper: /rp
+[Thu Jan  8 20:13:20 2026] <STEAM_0:1:618974024> S0u1: // понял
+[Thu Jan  8 20:13:20 2026] <STEAM_0:1:526999954> THE-_-Reper: /ooc откат
+[Thu Jan  8 20:13:33 2026] <STEAM_0:1:526999954> THE-_-Reper: /rp У кпп ВС РФ , был крик , "Guys, don't shoot, I'm the five hundredth"
+[Thu Jan  8 20:13:43 2026] Player "СЛЫШУ ZOV ЕБAТЬ AZOV" <STEAM_0:0:207320926> has left the server
+[Thu Jan  8 20:14:20 2026] <STEAM_0:0:586457449> NTF Epsilon11: /me пнул в спину и руки заковал в стяжки взял за шкирку одной рукой и тяну за собой
+[Thu Jan  8 20:14:50 2026] Player "Калоёб" <STEAM_0:0:526149040> has left the server
+[Thu Jan  8 20:14:50 2026] Player "Калоёб" <STEAM_0:0:526149040> is attempting to connect.
+[Thu Jan  8 20:15:19 2026] Player "Калоёб" <STEAM_0:0:526149040> has spawned in the server
+[Thu Jan  8 20:15:40 2026] <STEAM_0:1:526999954> THE-_-Reper: 666
+[Thu Jan  8 20:16:17 2026] Player "THE-_-Reper" <STEAM_0:1:526999954> has left the server
+[Thu Jan  8 20:16:18 2026] Player "THE-_-Reper" <STEAM_0:1:526999954> is attempting to connect.
+[Thu Jan  8 20:16:44 2026] Player "THE-_-Reper" <STEAM_0:1:526999954> has spawned in the server
+[Thu Jan  8 20:16:53 2026] Player "Калоёб" <STEAM_0:0:526149040> has left the server
+[Thu Jan  8 20:17:34 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned prop "Entity [643][prop_physics] (models/props_wasteland/interior_fence002d.mdl)"
+[Thu Jan  8 20:17:36 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned prop "Entity [637][prop_physics] (models/props_wasteland/interior_fence002d.mdl)"
+[Thu Jan  8 20:17:37 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned prop "Entity [643][prop_physics] (models/props_wasteland/interior_fence002d.mdl)"
+[Thu Jan  8 20:17:47 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Thu Jan  8 20:17:47 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "slay MAJ A.E. Evergarden"
+[Thu Jan  8 20:18:38 2026] Player "Грымза" <STEAM_0:1:826463988> has spawned in the server
+[Thu Jan  8 20:18:38 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "invisible MAJ A.E. Evergarden"
+[Thu Jan  8 20:18:54 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned prop "Entity [585][prop_physics] (models/props_wasteland/interior_fence002d.mdl)"
+[Thu Jan  8 20:19:02 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned prop "Entity [585][prop_physics] (models/props_phx/construct/metal_plate2x4.mdl)"
+[Thu Jan  8 20:20:01 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned prop "Entity [588][prop_physics] (models/props_phx/construct/metal_plate2x4.mdl)"
+[Thu Jan  8 20:20:14 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "precision"
+[Thu Jan  8 20:20:14 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "precision"
+[Thu Jan  8 20:20:15 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "precision"
+[Thu Jan  8 20:20:15 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "precision"
+[Thu Jan  8 20:20:15 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "precision"
+[Thu Jan  8 20:20:15 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "precision"
+[Thu Jan  8 20:20:16 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "precision"
+[Thu Jan  8 20:20:31 2026] <STEAM_0:1:618974024> S0u1: /rf Кто вылечит мне ногу тому скажу спасибо лично!!!
+[Thu Jan  8 20:20:42 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned prop "Entity [637][prop_physics] (models/props_phx/construct/metal_wire1x1x2.mdl)"
+[Thu Jan  8 20:20:47 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned prop "Entity [637][prop_physics] (models/props_phx/construct/metal_plate_curve360.mdl)"
+[Thu Jan  8 20:20:57 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned prop "Entity [637][prop_physics] (models/props_phx/construct/windows/window2x4.mdl)"
+[Thu Jan  8 20:21:04 2026] <STEAM_0:1:500418219> C2H5OH в Крови: /l ?
+[Thu Jan  8 20:21:11 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "fading_door"
+[Thu Jan  8 20:21:12 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "fading_door"
+[Thu Jan  8 20:21:12 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "fading_door"
+[Thu Jan  8 20:21:12 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "fading_door"
+[Thu Jan  8 20:21:13 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "fading_door"
+[Thu Jan  8 20:21:23 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned prop "Entity [637][prop_physics] (models/props_phx/construct/wood/wood_wire1x1x1.mdl)"
+[Thu Jan  8 20:21:24 2026] <STEAM_0:1:618974024> S0u1: /rf Выдайте новобранцу Орлову форму
+[Thu Jan  8 20:21:33 2026] <STEAM_0:1:455594560> gREG4IK: /event Внимания Силы НАТО Нарашивают свою мощь РФ падет.
+[Thu Jan  8 20:21:34 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "permaprops"
+[Thu Jan  8 20:21:38 2026] <STEAM_0:0:586457449> NTF Epsilon11: 66
+[Thu Jan  8 20:21:45 2026] <STEAM_0:1:618974024> S0u1: // (не пиздеж!!!)
+[Thu Jan  8 20:21:47 2026] <STEAM_0:0:46593395> BadBeeBoy♡: // нарастил вам хуй за щеку
+[Thu Jan  8 20:21:54 2026] <STEAM_0:1:618974024> S0u1: // нас 25 тысяч
+[Thu Jan  8 20:22:16 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned prop "Entity [588][prop_physics] (models/props_wasteland/laundry_dryer002.mdl)"
+[Thu Jan  8 20:22:25 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned prop "Entity [588][prop_physics] (models/props_lab/partsbin01.mdl)"
+[Thu Jan  8 20:22:28 2026] <STEAM_0:1:455594560> gREG4IK: /event Внимания Силы НАТО Нарашивают свою мощь РФ падет.
+[Thu Jan  8 20:22:39 2026] <STEAM_0:1:618974024> S0u1: /rf СТАРШИЙ ПРАПОРЩИИИК
+[Thu Jan  8 20:22:42 2026] <STEAM_0:0:561366370> TANZI: // Можете меня брать (По желанию)
+[Thu Jan  8 20:22:47 2026] Player "Калоёб" <STEAM_0:0:526149040> is attempting to connect.
+[Thu Jan  8 20:22:48 2026] <STEAM_0:0:586457449> NTF Epsilon11: /com мы почти всех ваших казнили ебланы
+[Thu Jan  8 20:22:50 2026] <STEAM_0:0:561366370> TANZI: // На НАТО
+[Thu Jan  8 20:22:54 2026] <STEAM_0:1:455594560> gREG4IK: /event Внимания Силы НАТО Нарашивают свою мощь РФ падет.
+[Thu Jan  8 20:23:12 2026] <STEAM_0:1:455594560> gREG4IK: /event Внимания Силы НАТО Нарашивают свою мощь РФ падет.
+[Thu Jan  8 20:23:16 2026] Player "Калоёб" <STEAM_0:0:526149040> has spawned in the server
+[Thu Jan  8 20:23:19 2026] <STEAM_0:1:455594560> gREG4IK: /event Город Доступен!!!
+[Thu Jan  8 20:23:22 2026] <STEAM_0:1:455594560> gREG4IK: /event Город Доступен!!!
+[Thu Jan  8 20:23:41 2026] TANZI has killed gREG4IK.
+[Thu Jan  8 20:23:41 2026] gREG4IK has killed gREG4IK.
+[Thu Jan  8 20:23:41 2026] <STEAM_0:1:618974024> S0u1: /rf На город пиздуйте
+[Thu Jan  8 20:23:46 2026] <STEAM_0:1:618974024> S0u1: /rf Вы можете теперь
+[Thu Jan  8 20:24:09 2026] Player "Watchmaker" <STEAM_0:0:223384638> has left the server
+[Thu Jan  8 20:24:25 2026] <STEAM_0:0:586457449> NTF Epsilon11: /rf ЩА
+[Thu Jan  8 20:24:50 2026] <STEAM_0:1:618974024> S0u1: /rf Сука, старший прапорщик, уже трое призывников
+[Thu Jan  8 20:24:55 2026] <STEAM_0:1:455594560> gREG4IK: /rp [Обьявление] Вышел с Базы НАТО
+[Thu Jan  8 20:25:15 2026] TANZI has killed gREG4IK.
+[Thu Jan  8 20:25:15 2026] gREG4IK has killed gREG4IK.
+[Thu Jan  8 20:25:38 2026] <STEAM_0:0:586457449> NTF Epsilon11: /me стянул руки стяжками
+[Thu Jan  8 20:25:48 2026] <STEAM_0:1:455594560> gREG4IK ran command "goto Вакутагин "Тундр"
+[Thu Jan  8 20:25:52 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "permaprops"
+[Thu Jan  8 20:25:54 2026] Player "THE-_-Reper" <STEAM_0:1:526999954> has left the server
+[Thu Jan  8 20:26:02 2026] <STEAM_0:1:455594560> gREG4IK: NOOOO
+[Thu Jan  8 20:26:09 2026] <STEAM_0:0:561366370> TANZI: /me Отобрал связь
+[Thu Jan  8 20:26:30 2026] Player "SAXAROZA" <STEAM_0:1:773566500> is attempting to connect.
+[Thu Jan  8 20:26:56 2026] <STEAM_0:1:618974024> S0u1: // админы есть?
+[Thu Jan  8 20:27:00 2026] Player "C2H5OH в Крови" <STEAM_0:1:500418219> has left the server
+[Thu Jan  8 20:27:01 2026] Player "C2H5OH в Крови" <STEAM_0:1:500418219> is attempting to connect.
+[Thu Jan  8 20:27:01 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // да
+[Thu Jan  8 20:27:14 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [506][handcuffed]"
+[Thu Jan  8 20:27:19 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [512][handcuffed]"
+[Thu Jan  8 20:27:20 2026] <STEAM_0:1:618974024> S0u1: // выдайте орлову форму рядового на гранатометчика
+[Thu Jan  8 20:27:23 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [512][handcuffed]"
+[Thu Jan  8 20:27:26 2026] <STEAM_0:1:618974024> S0u1: // я заебался прапора ждать уже
+[Thu Jan  8 20:27:40 2026] Player "C2H5OH в Крови" <STEAM_0:1:500418219> has spawned in the server
+[Thu Jan  8 20:27:48 2026] <STEAM_0:1:826463988> Грымза: Бакурин
+[Thu Jan  8 20:28:00 2026] <STEAM_0:0:586457449> NTF Epsilon11: /rf КПП ОТКРОЙТЕ БЛЯТЬ
+[Thu Jan  8 20:28:29 2026] Player "SAXAROZA" <STEAM_0:1:773566500> has spawned in the server
+[Thu Jan  8 20:29:05 2026] <STEAM_0:0:561366370> TANZI: /me Отобрал оружин
+[Thu Jan  8 20:29:14 2026] <STEAM_0:0:561366370> TANZI: /me Отобрал средства всвязи
+[Thu Jan  8 20:30:32 2026] <STEAM_0:0:56418410> unsaved sex: /me совершает действие
+[Thu Jan  8 20:30:44 2026] <STEAM_0:1:618974024> S0u1: // григорьев ты афк нет?
+[Thu Jan  8 20:30:48 2026] <STEAM_0:1:455594560> gREG4IK: A DONT NOW
+[Thu Jan  8 20:31:01 2026] <STEAM_0:1:455594560> gREG4IK: A DONT SPEAK
+[Thu Jan  8 20:31:15 2026] <STEAM_0:0:586457449> NTF Epsilon11: ты пидор
+[Thu Jan  8 20:31:18 2026] <STEAM_0:1:618974024> S0u1: // майор ангелок можешь выдать снова профу
+[Thu Jan  8 20:31:24 2026] <STEAM_0:0:586457449> NTF Epsilon11: ГОВОРИ ВСЕ ЧТО ЗНАЕШЬ
+[Thu Jan  8 20:31:36 2026] <STEAM_0:0:586457449> NTF Epsilon11: ЕБАЛО ПРОСТРЕЛЮ У ТЕБЯ 5 МИНУТ
+[Thu Jan  8 20:31:40 2026] <STEAM_0:1:455594560> gREG4IK: a DONT NOW SPEAK RUSSIAN
+[Thu Jan  8 20:31:42 2026] <STEAM_0:0:561366370> TANZI: /looc Че, рил американец?
+[Thu Jan  8 20:31:51 2026] <STEAM_0:1:630783383> Morfisх: кто нахуй про мать сказал
+[Thu Jan  8 20:32:03 2026] <STEAM_0:1:630783383> Morfisх: колено насквозь прохуярю
+[Thu Jan  8 20:32:20 2026] <STEAM_0:0:586457449> NTF Epsilon11: /me достал нож и взял руку америкоса
+[Thu Jan  8 20:32:25 2026] <STEAM_0:0:586457449> NTF Epsilon11: /me прижал к пальцу
+[Thu Jan  8 20:32:28 2026] <STEAM_0:0:586457449> NTF Epsilon11: SPEAK
+[Thu Jan  8 20:32:39 2026] <STEAM_0:1:455594560> gREG4IK: WHAT SPEAKING
+[Thu Jan  8 20:32:48 2026] <STEAM_0:0:586457449> NTF Epsilon11: ALL YOU KNOW
+[Thu Jan  8 20:32:53 2026] <STEAM_0:0:561366370> TANZI: What's ur name?
+[Thu Jan  8 20:33:07 2026] <STEAM_0:1:630783383> Morfisх: да идите нахуй
+[Thu Jan  8 20:33:09 2026] <STEAM_0:0:561366370> TANZI: U can say me?
+[Thu Jan  8 20:33:10 2026] <STEAM_0:1:455594560> gREG4IK: Wednesday
+[Thu Jan  8 20:33:19 2026] <STEAM_0:0:561366370> TANZI: Beauriful name
+[Thu Jan  8 20:33:25 2026] <STEAM_0:0:561366370> TANZI: Don't worry
+[Thu Jan  8 20:33:55 2026] <STEAM_0:0:561366370> TANZI: What is ur millitary tank
+[Thu Jan  8 20:33:56 2026] <STEAM_0:0:561366370> TANZI: ?
+[Thu Jan  8 20:34:05 2026] <STEAM_0:1:455594560> gREG4IK: military tank?
+[Thu Jan  8 20:34:11 2026] <STEAM_0:0:561366370> TANZI: rank*
+[Thu Jan  8 20:34:13 2026] <STEAM_0:1:455594560> gREG4IK: and Based tank
+[Thu Jan  8 20:34:15 2026] <STEAM_0:1:455594560> gREG4IK: rank
+[Thu Jan  8 20:34:18 2026] <STEAM_0:0:561366370> TANZI: Ye
+[Thu Jan  8 20:34:19 2026] <STEAM_0:1:455594560> gREG4IK: RCT
+[Thu Jan  8 20:34:26 2026] <STEAM_0:1:455594560> gREG4IK: DOCUMENTS
+[Thu Jan  8 20:34:29 2026] <STEAM_0:0:586278889> kari x god: /me навел фонарик на глазе
+[Thu Jan  8 20:34:37 2026] <STEAM_0:1:500418219> C2H5OH в Крови: не видели Майора
+[Thu Jan  8 20:34:38 2026] <STEAM_0:1:455594560> gREG4IK: /me взял и залез в карман
+[Thu Jan  8 20:34:44 2026] <STEAM_0:0:561366370> TANZI: Who is this? U can decipher it?
+[Thu Jan  8 20:34:45 2026] <STEAM_0:1:455594560> gREG4IK: /me Передал человеку напротив
+[Thu Jan  8 20:35:00 2026] <STEAM_0:0:561366370> TANZI: /do Что передали?
+[Thu Jan  8 20:35:04 2026] <STEAM_0:0:586457449> NTF Epsilon11: HOW MANY TANKS
+[Thu Jan  8 20:35:13 2026] <STEAM_0:1:455594560> gREG4IK: /me Передал документы.
+[Thu Jan  8 20:35:35 2026] <STEAM_0:0:561366370> TANZI: /do Что в документах? (Информация пожалуйста)
+[Thu Jan  8 20:35:52 2026] Player "Morfisх" <STEAM_0:1:630783383> has left the server
+[Thu Jan  8 20:35:55 2026] <STEAM_0:1:618974024> S0u1: /l грег или кто ты там я хз но ты админ наверно, можешь ресетнуть орлова?
+[Thu Jan  8 20:36:23 2026] Player ""Degro1ds"Sotoflow™" <STEAM_0:0:550357623> is attempting to connect.
+[Thu Jan  8 20:36:24 2026] <STEAM_0:0:561366370> TANZI: /looc в этом
+[Thu Jan  8 20:36:31 2026] <STEAM_0:0:561366370> TANZI: /looc консоле
+[Thu Jan  8 20:36:36 2026] <STEAM_0:0:561366370> TANZI: /looc пропиши kill\
+[Thu Jan  8 20:36:36 2026] <STEAM_0:0:586457449> NTF Epsilon11: TANKS
+[Thu Jan  8 20:36:39 2026] <STEAM_0:0:586457449> NTF Epsilon11: TANKS
+[Thu Jan  8 20:36:46 2026] <STEAM_0:0:586457449> NTF Epsilon11: HOW MANy
+[Thu Jan  8 20:36:50 2026] <STEAM_0:1:455594560> gREG4IK ran command "respawn Орлов"
+[Thu Jan  8 20:36:54 2026] <STEAM_0:0:586457449> NTF Epsilon11: RANGS
+[Thu Jan  8 20:36:56 2026] <STEAM_0:1:455594560> gREG4IK: п....прошу
+[Thu Jan  8 20:36:58 2026] <STEAM_0:1:455594560> gREG4IK: RCT
+[Thu Jan  8 20:37:21 2026] <STEAM_0:0:561366370> TANZI: /me Передал документы
+[Thu Jan  8 20:37:26 2026] <STEAM_0:1:618974024> S0u1: /me взял их
+[Thu Jan  8 20:37:27 2026] <STEAM_0:0:561366370> TANZI: /do Соколову
+[Thu Jan  8 20:37:30 2026] <STEAM_0:0:586457449> NTF Epsilon11: /com ваш рекрут у нас
+[Thu Jan  8 20:37:36 2026] <STEAM_0:1:618974024> S0u1: /me Читает их.
+[Thu Jan  8 20:37:41 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /me Показал Удостоверение Майора Вооруженных Сил NATO
+[Thu Jan  8 20:38:01 2026] <STEAM_0:0:586457449> NTF Epsilon11: ГОВОРИ СУКА
+[Thu Jan  8 20:38:10 2026] <STEAM_0:1:773566500> SAXAROZA: ангел ко мне подойди
+[Thu Jan  8 20:38:12 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /pass
+[Thu Jan  8 20:38:18 2026] <STEAM_0:0:586457449> NTF Epsilon11: /me достал нож и поднес к руке американца
+[Thu Jan  8 20:38:21 2026] <STEAM_0:1:618974024> S0u1: /rf С УМА СУКА НЕ СХОДИТЕ
+[Thu Jan  8 20:38:56 2026] <STEAM_0:1:500418219> C2H5OH в Крови: /l невидимости нет ?
+[Thu Jan  8 20:38:57 2026] <STEAM_0:0:586457449> NTF Epsilon11: /rf ВСЕ РЯДОВЫЕ НА ПЛАЦ БЫСТРО БЛЯТЬ
+[Thu Jan  8 20:39:07 2026] <STEAM_0:1:773566500> SAXAROZA: что
+[Thu Jan  8 20:39:24 2026] <STEAM_0:0:561366370> TANZI: /me Осматривает американца
+[Thu Jan  8 20:39:24 2026] <STEAM_0:0:586457449> NTF Epsilon11: ВЫ ЕБЛАНЫ?
+[Thu Jan  8 20:39:34 2026] <STEAM_0:0:586457449> NTF Epsilon11: ВЫ ЗАКРЫЛИ БЛЯТЬ СТАРШИЙ СОСТАВ
+[Thu Jan  8 20:39:35 2026] <STEAM_0:0:586457449> NTF Epsilon11: ВЕСЬ
+[Thu Jan  8 20:39:40 2026] <STEAM_0:0:586457449> NTF Epsilon11: В КПЗ
+[Thu Jan  8 20:39:43 2026] <STEAM_0:1:500418219> C2H5OH в Крови: /l Ну ты в ноклип уходишь , а невидимость не включаешь , я и хочу узнать есть она впринципе или нет
+[Thu Jan  8 20:39:51 2026] <STEAM_0:0:586457449> NTF Epsilon11: СУКА ВАМ СМЕШНО А ПИЗДЫ ПОЛУЧИТЕ
+[Thu Jan  8 20:39:54 2026] <STEAM_0:1:500418219> C2H5OH в Крови: /l Ну ты в ноклип уходишь , а невидимость не включаешь , я и хочу узнать есть она впринципе или нет
+[Thu Jan  8 20:40:02 2026] <STEAM_0:1:773566500> SAXAROZA: я не знаю
+[Thu Jan  8 20:40:04 2026] <STEAM_0:0:586457449> NTF Epsilon11: /ooc админы help тут у нас неведимки
+[Thu Jan  8 20:40:09 2026] <STEAM_0:1:773566500> SAXAROZA: мне нужен грег
+[Thu Jan  8 20:40:11 2026] <STEAM_0:1:500418219> C2H5OH в Крови: /l нормально так
+[Thu Jan  8 20:40:13 2026] <STEAM_0:0:561366370> TANZI: // Пусть ресетуются
+[Thu Jan  8 20:40:15 2026] Калоёб has killed Калоёб.
+[Thu Jan  8 20:40:25 2026] <STEAM_0:1:773566500> SAXAROZA: нужен создатель
+[Thu Jan  8 20:40:42 2026] <STEAM_0:1:500418219> C2H5OH в Крови: /l да мне бы знать где тут кто
+[Thu Jan  8 20:40:45 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "witchergate"
+[Thu Jan  8 20:40:46 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "witchergate"
+[Thu Jan  8 20:40:46 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "witchergate"
+[Thu Jan  8 20:40:50 2026] BadBeeBoy♡ has killed BadBeeBoy♡.
+[Thu Jan  8 20:40:53 2026] <STEAM_0:1:500418219> C2H5OH в Крови: /l один шароеблю туда-сюда без понятие
+[Thu Jan  8 20:40:58 2026] <STEAM_0:1:500418219> C2H5OH в Крови: /l понятия*
+[Thu Jan  8 20:41:05 2026] <STEAM_0:1:500418219> C2H5OH в Крови: /l что делать и где
+[Thu Jan  8 20:41:09 2026] BadBeeBoy♡ has killed TANZI.
+[Thu Jan  8 20:41:10 2026] TANZI has killed TANZI.
+[Thu Jan  8 20:41:15 2026] <STEAM_0:1:773566500> SAXAROZA: MISS Wednesday на базу нато можетете?
+[Thu Jan  8 20:41:16 2026] <STEAM_0:1:618974024> S0u1: /rf Вы нахуя стреляете?
+[Thu Jan  8 20:41:18 2026] kari x god has killed kari x god.
+[Thu Jan  8 20:41:32 2026] <STEAM_0:0:56418410> unsaved sex: лшдд
+[Thu Jan  8 20:41:37 2026] <STEAM_0:0:56418410> unsaved sex: kill
+[Thu Jan  8 20:41:47 2026] <STEAM_0:0:586457449> NTF Epsilon11: /me достал молоток
+[Thu Jan  8 20:41:50 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "invisible MAJ A.E. Evergarden"
+[Thu Jan  8 20:41:51 2026] kari x god has killed kari x god.
+[Thu Jan  8 20:41:52 2026] kari x god has killed kari x god.
+[Thu Jan  8 20:41:55 2026] <STEAM_0:0:56418410> unsaved sex: kill
+[Thu Jan  8 20:42:01 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: сек пойдём
+[Thu Jan  8 20:42:04 2026] <STEAM_0:0:56418410> unsaved sex: kill
+[Thu Jan  8 20:42:06 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: бля ты невидемый
+[Thu Jan  8 20:42:09 2026] <STEAM_0:0:586457449> NTF Epsilon11: /me ебашу по руке америкоса
+[Thu Jan  8 20:42:16 2026] <STEAM_0:0:586457449> NTF Epsilon11: /do 1/3
+[Thu Jan  8 20:42:19 2026] <STEAM_0:0:586457449> NTF Epsilon11: /do 2/3
+[Thu Jan  8 20:42:22 2026] <STEAM_0:0:586457449> NTF Epsilon11: /do 3/3
+[Thu Jan  8 20:42:24 2026] <STEAM_0:1:618974024> S0u1: /l /kill в консоль
+[Thu Jan  8 20:42:27 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: а
+[Thu Jan  8 20:42:27 2026] <STEAM_0:0:56418410> unsaved sex: kill
+[Thu Jan  8 20:42:29 2026] <STEAM_0:1:618974024> S0u1: /l без /
+[Thu Jan  8 20:42:29 2026] <STEAM_0:0:586457449> NTF Epsilon11: /me убрал молоток
+[Thu Jan  8 20:42:35 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: я на жалобе
+[Thu Jan  8 20:42:41 2026] <STEAM_0:1:500418219> C2H5OH в Крови: а что это за фокус с исчезновением?
+[Thu Jan  8 20:42:43 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: не слышу
+[Thu Jan  8 20:42:53 2026] <STEAM_0:0:586457449> NTF Epsilon11: /com smasher епта ваш рекрут у нас
+[Thu Jan  8 20:42:56 2026] Player "THE-_-Reper" <STEAM_0:1:526999954> is attempting to connect.
+[Thu Jan  8 20:43:09 2026] NTF Epsilon11 has killed gREG4IK.
+[Thu Jan  8 20:43:10 2026] unsaved sex has killed BadBeeBoy♡.
+[Thu Jan  8 20:43:11 2026] BadBeeBoy♡ has killed BadBeeBoy♡.
+[Thu Jan  8 20:43:19 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "respawn RCT Chizj"
+[Thu Jan  8 20:43:25 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "send RCT Chizj"
+[Thu Jan  8 20:43:27 2026] Player "THE-_-Reper" <STEAM_0:1:526999954> has spawned in the server
+[Thu Jan  8 20:43:29 2026] unsaved sex has killed unsaved sex.
+[Thu Jan  8 20:43:30 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "invisible RCT Chizj"
+[Thu Jan  8 20:43:31 2026] <STEAM_0:1:500418219> C2H5OH в Крови: это уже не первый раз
+[Thu Jan  8 20:43:36 2026] <STEAM_0:1:500418219> C2H5OH в Крови: ага
+[Thu Jan  8 20:43:36 2026] S0u1 has killed BadBeeBoy♡.
+[Thu Jan  8 20:43:38 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "invisible RCT Chizj"
+[Thu Jan  8 20:43:43 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "ammo RCT Chizj"
+[Thu Jan  8 20:43:45 2026] <STEAM_0:0:586457449> NTF Epsilon11: /ooc админы есть?
+[Thu Jan  8 20:43:46 2026] <STEAM_0:1:500418219> C2H5OH в Крови: это получается когда я беру винтовку в руки
+[Thu Jan  8 20:43:53 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // заняты
+[Thu Jan  8 20:43:53 2026] <STEAM_0:1:500418219> C2H5OH в Крови: маскировка как в Crysis
+[Thu Jan  8 20:44:02 2026] <STEAM_0:0:586457449> NTF Epsilon11: /ooc а все вопрос у нас решен
+[Thu Jan  8 20:44:03 2026] <STEAM_0:1:500418219> C2H5OH в Крови: только обвесить винтовку не могу
+[Thu Jan  8 20:44:09 2026] S0u1 has killed BadBeeBoy♡.
+[Thu Jan  8 20:44:14 2026] <STEAM_0:1:500418219> C2H5OH в Крови: мантия невидимка
+[Thu Jan  8 20:44:19 2026] <STEAM_0:0:56418410> unsaved sex: /drop
+[Thu Jan  8 20:44:21 2026] <STEAM_0:1:500418219> C2H5OH в Крови: я же снайпер ... типо
+[Thu Jan  8 20:44:23 2026] <STEAM_0:0:46593395> BadBeeBoy♡: // начни поднимать меня
+[Thu Jan  8 20:44:26 2026] <STEAM_0:0:46593395> BadBeeBoy♡: // ты не дослушал
+[Thu Jan  8 20:44:28 2026] <STEAM_0:0:56418410> unsaved sex: !drop
+[Thu Jan  8 20:44:34 2026] <STEAM_0:0:56418410> unsaved sex: !drop
+[Thu Jan  8 20:44:40 2026] <STEAM_0:1:500418219> C2H5OH в Крови: я попытаюсь на снайперку
+[Thu Jan  8 20:44:41 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "invisible MAJ A.E. Evergarden"
+[Thu Jan  8 20:44:42 2026] <STEAM_0:1:500418219> C2H5OH в Крови: прицел найти
+[Thu Jan  8 20:44:51 2026] <STEAM_0:0:56418410> unsaved sex: !drop
+[Thu Jan  8 20:44:54 2026] <STEAM_0:1:500418219> C2H5OH в Крови: дак не работает
+[Thu Jan  8 20:44:55 2026] <STEAM_0:1:618974024> S0u1: /rf Всем на город.
+[Thu Jan  8 20:45:05 2026] <STEAM_0:0:586457449> NTF Epsilon11: /rf ГОРОД ШТУРМ БЛЯТЬ
+[Thu Jan  8 20:45:05 2026] <STEAM_0:1:618974024> S0u1: /rf Бегом марш!
+[Thu Jan  8 20:45:19 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "respawn MAJ A.E. Evergarden"
+[Thu Jan  8 20:45:27 2026] unsaved sex has killed BadBeeBoy♡.
+[Thu Jan  8 20:45:28 2026] <STEAM_0:1:500418219> C2H5OH в Крови: не-а
+[Thu Jan  8 20:45:35 2026] <STEAM_0:0:561366370> TANZI: /rf Рч?
+[Thu Jan  8 20:45:36 2026] <STEAM_0:1:618974024> S0u1: /rf Кто последний до города, тот будет под трибуналом)
+[Thu Jan  8 20:45:40 2026] <STEAM_0:1:500418219> C2H5OH в Крови: /l так я на нее и жму
+[Thu Jan  8 20:45:43 2026] <STEAM_0:1:618974024> S0u1: /rf 3
+[Thu Jan  8 20:45:52 2026] <STEAM_0:1:500418219> C2H5OH в Крови: ну а у меня нет
+[Thu Jan  8 20:45:55 2026] <STEAM_0:1:618974024> S0u1: /rf рч 3
+[Thu Jan  8 20:45:57 2026] NTF Epsilon11 has killed BadBeeBoy♡.
+[Thu Jan  8 20:45:58 2026] BadBeeBoy♡ has killed BadBeeBoy♡.
+[Thu Jan  8 20:46:11 2026] <STEAM_0:1:500418219> C2H5OH в Крови: ага
+[Thu Jan  8 20:46:19 2026] <STEAM_0:1:618974024> S0u1: /rf (()) f2 чтобы рацию включить
+[Thu Jan  8 20:46:40 2026] <STEAM_0:1:618974024> S0u1: /rf Застройте у флага!
+[Thu Jan  8 20:46:45 2026] <STEAM_0:1:500418219> C2H5OH в Крови: ну , походу не судьба
+[Thu Jan  8 20:46:56 2026] <STEAM_0:1:500418219> C2H5OH в Крови: буду как типочек из фильмов
+[Thu Jan  8 20:47:02 2026] Player "Лесник" <STEAM_0:0:200862208> is attempting to connect.
+[Thu Jan  8 20:47:06 2026] <STEAM_0:1:500418219> C2H5OH в Крови: с мушки за километр стрелять
+[Thu Jan  8 20:47:15 2026] <STEAM_0:1:500418219> C2H5OH в Крови: мне бы для начала разобратся с этими проблемами
+[Thu Jan  8 20:47:19 2026] <STEAM_0:1:500418219> C2H5OH в Крови: и майора дождатся
+[Thu Jan  8 20:47:31 2026] <STEAM_0:1:500418219> C2H5OH в Крови: ну , он вроде как все обьяснять будет
+[Thu Jan  8 20:47:40 2026] Player "Лесник" <STEAM_0:0:200862208> has spawned in the server
+[Thu Jan  8 20:47:40 2026] <STEAM_0:1:500418219> C2H5OH в Крови: да там странно как-то
+[Thu Jan  8 20:47:45 2026] <STEAM_0:1:500418219> C2H5OH в Крови: документы просмотрел
+[Thu Jan  8 20:47:55 2026] <STEAM_0:1:500418219> C2H5OH в Крови: ну , ходили
+[Thu Jan  8 20:47:57 2026] worldspawn has killed S0u1.
+[Thu Jan  8 20:48:02 2026] <STEAM_0:1:618974024> S0u1: /l бля
+[Thu Jan  8 20:48:07 2026] <STEAM_0:1:500418219> C2H5OH в Крови: не , документы еще не готовы
+[Thu Jan  8 20:48:15 2026] <STEAM_0:1:500418219> C2H5OH в Крови: /l бинды я ставить не буду
+[Thu Jan  8 20:48:23 2026] <STEAM_0:0:586457449> NTF Epsilon11: НАШЛИ РЧ ЮХУ\nебать че за пассажир
+[Thu Jan  8 20:48:30 2026] <STEAM_0:1:618974024> S0u1: /rf Але а где весь народ то епта
+[Thu Jan  8 20:48:34 2026] <STEAM_0:1:773566500> SAXAROZA ran command "ammo RCT P. B. Parker"
+[Thu Jan  8 20:48:40 2026] <STEAM_0:1:500418219> C2H5OH в Крови: /l а там со всеми моментами , должностями и т.п я жду
+[Thu Jan  8 20:49:00 2026] <STEAM_0:1:500418219> C2H5OH в Крови: /l меня же типо в снайперы берут , а я по дс-каналам посмотрел там столько муторги
+[Thu Jan  8 20:49:01 2026] Player ""Degro1ds"Sotoflow™" <STEAM_0:0:550357623> has spawned in the server
+[Thu Jan  8 20:49:11 2026] Player "THE-_-Reper" <STEAM_0:1:526999954> has left the server
+[Thu Jan  8 20:49:13 2026] <STEAM_0:1:500418219> C2H5OH в Крови: /l что чувствую самостоятельно что поставлю и сразу в бан нахуй
+[Thu Jan  8 20:49:26 2026] <STEAM_0:1:500418219> C2H5OH в Крови: /l так чт оне буду рисковать
+[Thu Jan  8 20:50:42 2026] <STEAM_0:1:500418219> C2H5OH в Крови: о теперь могу ставить обвесы
+[Thu Jan  8 20:51:03 2026] Калоёб has killed BadBeeBoy♡.
+[Thu Jan  8 20:51:03 2026] Калоёб has killed kari x god.
+[Thu Jan  8 20:51:04 2026] kari x god has killed kari x god.
+[Thu Jan  8 20:51:11 2026] <STEAM_0:1:455594560> gREG4IK: /event Город Доступен!!!
+[Thu Jan  8 20:51:26 2026] Калоёб has killed BadBeeBoy♡.
+[Thu Jan  8 20:51:26 2026] <STEAM_0:1:455594560> gREG4IK: /rp [Обьявление] Вышел с Базы НАТО
+[Thu Jan  8 20:51:35 2026] <STEAM_0:0:561366370> TANZI: // Грег опять :P
+[Thu Jan  8 20:51:39 2026] Калоёб has killed kari x god.
+[Thu Jan  8 20:51:52 2026] <STEAM_0:0:46593395> BadBeeBoy♡: нет
+[Thu Jan  8 20:51:54 2026] <STEAM_0:0:46593395> BadBeeBoy♡: не трогай
+[Thu Jan  8 20:53:12 2026] BadBeeBoy♡ has killed BadBeeBoy♡.
+[Thu Jan  8 20:53:39 2026] <STEAM_0:1:455594560> gREG4IK: не слышу
+[Thu Jan  8 20:53:43 2026] Player "Smasher" <STEAM_0:1:220381002> has left the server
+[Thu Jan  8 20:54:27 2026] Player "C2H5OH в Крови" <STEAM_0:1:500418219> has left the server
+[Thu Jan  8 20:55:13 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "invisible MAJ A.E. Evergarden"
+[Thu Jan  8 20:55:15 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "invisible MAJ A.E. Evergarden"
+[Thu Jan  8 20:55:40 2026] <STEAM_0:0:586457449> NTF Epsilon11: НА ЛЕВО КАКАЯ БАЗА БЛЯТЬ?
+[Thu Jan  8 20:55:44 2026] <STEAM_0:0:586457449> NTF Epsilon11: ВЫ ЧЕ ЕБЛАНЫ?
+[Thu Jan  8 20:55:48 2026] <STEAM_0:1:618974024> S0u1: /rf На базу не заезжай главное
+[Thu Jan  8 20:55:53 2026] <STEAM_0:1:618974024> S0u1: /rf Сильно далеко
+[Thu Jan  8 20:56:01 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // на базе нато нет не кого
+[Thu Jan  8 20:56:07 2026] <STEAM_0:1:618974024> S0u1: // ахуенно
+[Thu Jan  8 20:56:12 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // у нас разборки
+[Thu Jan  8 20:56:12 2026] <STEAM_0:1:455594560> gREG4IK: /nato я на вылазке
+[Thu Jan  8 20:56:20 2026] <STEAM_0:0:46593395> BadBeeBoy♡: // Теперь база нато наша
+[Thu Jan  8 20:56:24 2026] <STEAM_0:0:46593395> BadBeeBoy♡: // походу
+[Thu Jan  8 20:56:28 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // нет нельзя
+[Thu Jan  8 20:56:33 2026] <STEAM_0:1:618974024> S0u1: // :frowning2:
+[Thu Jan  8 20:56:39 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // по попе дам
+[Thu Jan  8 20:56:44 2026] <STEAM_0:0:586457449> NTF Epsilon11: /ooc да им похуй на меня я говорб нельзя
+[Thu Jan  8 20:56:45 2026] <STEAM_0:1:618974024> S0u1: // отпизди их плеткой
+[Thu Jan  8 20:56:51 2026] <STEAM_0:1:618974024> S0u1: // а не по попе
+[Thu Jan  8 20:56:56 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // 3 секунды.
+[Thu Jan  8 20:56:58 2026] TANZI has killed ritz carlton.
+[Thu Jan  8 20:56:58 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // 2
+[Thu Jan  8 20:56:59 2026] ritz carlton has killed ritz carlton.
+[Thu Jan  8 20:57:01 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // 1
+[Thu Jan  8 20:57:11 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "armor MAJ A.E. Evergarden 10000"
+[Thu Jan  8 20:57:15 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [593][sw_bomb_ao1_v3]"
+[Thu Jan  8 20:57:19 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [560][sw_bomb_kab500kr_v3]"
+[Thu Jan  8 20:57:20 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed TANZI.
+[Thu Jan  8 20:57:20 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed BadBeeBoy♡.
+[Thu Jan  8 20:57:20 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed ritz carlton.
+[Thu Jan  8 20:57:20 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Лесник.
+[Thu Jan  8 20:57:21 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Калоёб.
+[Thu Jan  8 20:57:22 2026] Калоёб has killed Калоёб.
+[Thu Jan  8 20:57:29 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [560][sw_bomb_kab500kr_v3]"
+[Thu Jan  8 20:57:31 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [622][sw_bomb_kab500kr_v3]"
+[Thu Jan  8 20:57:37 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed unsaved sex.
+[Thu Jan  8 20:57:37 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Лесник.
+[Thu Jan  8 20:57:37 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed BadBeeBoy♡.
+[Thu Jan  8 20:57:37 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Калоёб.
+[Thu Jan  8 20:57:44 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // нельзя
+[Thu Jan  8 20:57:50 2026] <STEAM_0:0:46593395> BadBeeBoy♡: // ладно
+[Thu Jan  8 20:58:05 2026] <STEAM_0:0:586457449> NTF Epsilon11: /ooc ебашь их притензий у нас не будет(ядеркой ебани)
+[Thu Jan  8 20:58:06 2026] <STEAM_0:1:618974024> S0u1: /rf ВСЕ НА УКРЕПРАЙОН ECHO!!!
+[Thu Jan  8 20:58:09 2026] <STEAM_0:1:618974024> S0u1: /rf ВСЕ НА УКРЕПРАЙОН ECHO!!!
+[Thu Jan  8 20:58:11 2026] BadBeeBoy♡ has killed Лесник.
+[Thu Jan  8 20:58:18 2026] <STEAM_0:1:618974024> S0u1: /rf ПОТОМ НА ТОЧКУ H
+[Thu Jan  8 20:58:24 2026] Player "ritz carlton" <STEAM_0:1:567494603> has left the server
+[Thu Jan  8 20:58:27 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Лесник.
+[Thu Jan  8 20:58:27 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed unsaved sex.
+[Thu Jan  8 20:58:28 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed BadBeeBoy♡.
+[Thu Jan  8 20:58:28 2026] unsaved sex has killed unsaved sex.
+[Thu Jan  8 20:58:35 2026] Калоёб has killed Калоёб.
+[Thu Jan  8 20:58:43 2026] NTF Epsilon11 has killed SAXAROZA.
+[Thu Jan  8 20:58:45 2026] <STEAM_0:0:561366370> TANZI: /rf СТОЙ
+[Thu Jan  8 20:58:45 2026] gREG4IK has killed NTF Epsilon11.
+[Thu Jan  8 20:58:47 2026] <STEAM_0:0:561366370> TANZI: /rf СВОИ
+[Thu Jan  8 20:58:59 2026] <STEAM_0:0:586457449> NTF Epsilon11: /rf 300 В ГОРОДЕ У ФЛАГА БЛЯТЬ
+[Thu Jan  8 20:59:00 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // на базы заходить нельзя
+[Thu Jan  8 20:59:08 2026] <STEAM_0:0:586457449> NTF Epsilon11: /rf СРОЧНО БЛЯ СДОХНУ ЩА
+[Thu Jan  8 20:59:37 2026] BadBeeBoy♡ has killed unsaved sex.
+[Thu Jan  8 21:00:01 2026] <STEAM_0:1:773566500> SAXAROZA ran command "ammo RCT P. B. Parker"
+[Thu Jan  8 21:00:11 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /l в глаз дам!
+[Thu Jan  8 21:00:23 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // неа
+[Thu Jan  8 21:00:31 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [615][sw_rocket_3m54_v3]"
+[Thu Jan  8 21:00:31 2026] <STEAM_0:1:618974024> S0u1: // ты нам еще точку прервал)
+[Thu Jan  8 21:00:37 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed S0u1.
+[Thu Jan  8 21:00:37 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed TANZI.
+[Thu Jan  8 21:00:37 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed kari x god.
+[Thu Jan  8 21:00:37 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Грымза.
+[Thu Jan  8 21:00:38 2026] S0u1 has killed S0u1.
+[Thu Jan  8 21:00:40 2026] <STEAM_0:1:618974024> S0u1: // Ахуевший
+[Thu Jan  8 21:00:43 2026] <STEAM_0:1:773566500> SAXAROZA: а че у нас рекурт РУС на базе НАТО?
+[Thu Jan  8 21:00:43 2026] <STEAM_0:0:561366370> TANZI: // Ебать
+[Thu Jan  8 21:00:44 2026] Player "Ctrl" <STEAM_0:0:630837718> is attempting to connect.
+[Thu Jan  8 21:00:45 2026] Player ""Degro1ds"Sotoflow™" <STEAM_0:0:550357623> has left the server
+[Thu Jan  8 21:00:59 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "respawn Охотник"
+[Thu Jan  8 21:01:01 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "send Охотник"
+[Thu Jan  8 21:01:03 2026] <STEAM_0:1:618974024> S0u1: // Сучка патроны дай хотя бы
+[Thu Jan  8 21:01:20 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [623][sw_airdrop_large_v3]"
+[Thu Jan  8 21:01:34 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "respawn Охотник"
+[Thu Jan  8 21:01:40 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // скажи когда тепать
+[Thu Jan  8 21:01:43 2026] <STEAM_0:0:586457449> NTF Epsilon11: /rf вы где?
+[Thu Jan  8 21:01:46 2026] <STEAM_0:1:618974024> S0u1: // улетай гарден бля
+[Thu Jan  8 21:01:50 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /l секу
+[Thu Jan  8 21:01:51 2026] <STEAM_0:1:618974024> S0u1: // мы точку почти захватили уже
+[Thu Jan  8 21:01:55 2026] SAXAROZA has killed S0u1.
+[Thu Jan  8 21:01:56 2026] S0u1 has killed S0u1.
+[Thu Jan  8 21:01:58 2026] <STEAM_0:0:561366370> TANZI: // Давай
+[Thu Jan  8 21:02:02 2026] SAXAROZA has killed kari x god.
+[Thu Jan  8 21:02:02 2026] Грымза has killed SAXAROZA.
+[Thu Jan  8 21:02:03 2026] SAXAROZA has killed SAXAROZA.
+[Thu Jan  8 21:02:07 2026] <STEAM_0:0:561366370> TANZI: // Тепаааай
+[Thu Jan  8 21:02:08 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "send Охотник"
+[Thu Jan  8 21:02:16 2026] <STEAM_0:1:618974024> S0u1: /l Е ЗАЖМИ
+[Thu Jan  8 21:02:43 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "respawn MAJ A.E. Evergarden"
+[Thu Jan  8 21:02:48 2026] <STEAM_0:1:618974024> S0u1: // ангел помогай
+[Thu Jan  8 21:02:51 2026] <STEAM_0:1:618974024> S0u1: // чел застрял
+[Thu Jan  8 21:02:54 2026] "White" has killed "White".
+[Thu Jan  8 21:02:56 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "invisible MAJ A.E. Evergarden"
+[Thu Jan  8 21:02:57 2026] <STEAM_0:1:618974024> S0u1: // все уже
+[Thu Jan  8 21:02:57 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "invisible MAJ A.E. Evergarden"
+[Thu Jan  8 21:03:15 2026] <STEAM_0:1:618974024> S0u1: /me изъял оружие и средство связи
+[Thu Jan  8 21:03:47 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /me Прекрипил цианид к зубу
+[Thu Jan  8 21:03:48 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /me Положил форму пда в тайник вырезал нашивку взял фальшивый пда
+[Thu Jan  8 21:04:07 2026] NTF Epsilon11 has killed gREG4IK.
+[Thu Jan  8 21:04:08 2026] gREG4IK has killed gREG4IK.
+[Thu Jan  8 21:04:13 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "ammo MAJ A.E. Evergarden"
+[Thu Jan  8 21:04:31 2026] Player "THE-_-Reper" <STEAM_0:1:526999954> is attempting to connect.
+[Thu Jan  8 21:04:41 2026] <STEAM_0:1:455594560> gREG4IK ran command "invisible RCT Miss Wednesday"
+[Thu Jan  8 21:04:43 2026] <STEAM_0:1:455594560> gREG4IK ran command "noclip RCT Miss Wednesday"
+[Thu Jan  8 21:04:59 2026] <STEAM_0:1:455594560> gREG4IK ran command "goto Путкин"
+[Thu Jan  8 21:05:01 2026] worldspawn has killed Грымза.
+[Thu Jan  8 21:05:03 2026] Player "THE-_-Reper" <STEAM_0:1:526999954> has spawned in the server
+[Thu Jan  8 21:06:40 2026] Player "FreeTP.Org" <STEAM_0:0:523180106> is attempting to connect.
+[Thu Jan  8 21:07:27 2026] <STEAM_0:0:56418410> unsaved sex: /me совершает действие
+[Thu Jan  8 21:07:40 2026] S0u1 has killed Калоёб.
+[Thu Jan  8 21:08:34 2026] Player "FreeTP.Org" <STEAM_0:0:523180106> is attempting to connect.
+[Thu Jan  8 21:08:46 2026] sw_bmp3 has killed kari x god.
+[Thu Jan  8 21:09:43 2026] Player "Лесник" <STEAM_0:0:200862208> has left the server
+[Thu Jan  8 21:09:44 2026] kari x god has killed kari x god.
+[Thu Jan  8 21:09:45 2026] kari x god has killed kari x god.
+[Thu Jan  8 21:09:48 2026] Player "BloodySmile" <STEAM_0:1:54838838> has left the server
+[Thu Jan  8 21:09:57 2026] gREG4IK has killed gREG4IK.
+[Thu Jan  8 21:10:22 2026] <STEAM_0:1:455594560> gREG4IK: /rp [Обьявление] Вышел с Базы НАТО
+[Thu Jan  8 21:10:28 2026] <STEAM_0:0:561366370> TANZI: // Зря
+[Thu Jan  8 21:10:34 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [534][tfa_m4tech]"
+[Thu Jan  8 21:10:34 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [569][tfa_m4tech]"
+[Thu Jan  8 21:10:34 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [570][tfa_m4tech]"
+[Thu Jan  8 21:10:35 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [571][tfa_m4tech]"
+[Thu Jan  8 21:10:35 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [573][tfa_m4tech]"
+[Thu Jan  8 21:10:35 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [534][tfa_m4tech]"
+[Thu Jan  8 21:10:36 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [569][tfa_m4tech]"
+[Thu Jan  8 21:10:36 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [570][tfa_m4tech]"
+[Thu Jan  8 21:10:40 2026] <STEAM_0:0:586457449> NTF Epsilon11: ТЫ КАК ОДЕТ ОВОЩЬ?
+[Thu Jan  8 21:10:50 2026] <STEAM_0:0:586457449> NTF Epsilon11: КАК ТЫ ОДЕТ БЛЯТЬ
+[Thu Jan  8 21:10:56 2026] <STEAM_0:0:586457449> NTF Epsilon11: а
+[Thu Jan  8 21:11:01 2026] NTF Epsilon11 has killed NTF Epsilon11.
+[Thu Jan  8 21:11:19 2026] <STEAM_0:0:526149040> Калоёб: /me передал молоток
+[Thu Jan  8 21:11:25 2026] <STEAM_0:0:586457449> NTF Epsilon11: НОРМАЛЬНО ОДЕНЬСЯ
+[Thu Jan  8 21:11:36 2026] <STEAM_0:0:586457449> NTF Epsilon11: например как турист
+[Thu Jan  8 21:12:14 2026] <STEAM_0:0:586457449> NTF Epsilon11: /com америкосы пизда вам
+[Thu Jan  8 21:12:20 2026] <STEAM_0:0:526149040> Калоёб: /me стянул штаны
+[Thu Jan  8 21:12:37 2026] <STEAM_0:0:586457449> NTF Epsilon11: ЧЕ ПРОИСХОДИТ НАХУЙ
+[Thu Jan  8 21:12:43 2026] <STEAM_0:0:586457449> NTF Epsilon11: ЕБАЛЬНИКИ ПОЗАТЫКАЛИ
+[Thu Jan  8 21:12:51 2026] <STEAM_0:0:586457449> NTF Epsilon11: СЛЫШЬ АМЕРИКАНЕЦ
+[Thu Jan  8 21:13:01 2026] <STEAM_0:0:586457449> NTF Epsilon11: ГОВОРИ ВСЁ ЧТО ЗНАЕШЬ
+[Thu Jan  8 21:13:24 2026] <STEAM_0:1:455594560> gREG4IK: /event Внимания Силы НАТО Нарашивают свою мощь РФ падет.
+[Thu Jan  8 21:13:26 2026] <STEAM_0:0:586457449> NTF Epsilon11: ладно
+[Thu Jan  8 21:13:33 2026] <STEAM_0:1:618974024> S0u1: // Попиздите
+[Thu Jan  8 21:13:35 2026] <STEAM_0:0:586457449> NTF Epsilon11: СКОЛЬКО У ВАС ТАНКОВ?
+[Thu Jan  8 21:13:38 2026] <STEAM_0:1:618974024> S0u1: // вас 3)
+[Thu Jan  8 21:13:39 2026] <STEAM_0:0:586457449> NTF Epsilon11: СОЛДАТ
+[Thu Jan  8 21:13:42 2026] <STEAM_0:1:455594560> gREG4IK: /event Внимания КЛИНАП
+[Thu Jan  8 21:13:43 2026] <STEAM_0:0:526149040> Калоёб: // АХХАХАХАХА
+[Thu Jan  8 21:13:43 2026] <STEAM_0:1:455594560> gREG4IK: /event Внимания КЛИНАП
+[Thu Jan  8 21:13:45 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // 2
+[Thu Jan  8 21:13:47 2026] <STEAM_0:0:586457449> NTF Epsilon11: КАКИЕ РАНГИ
+[Thu Jan  8 21:13:49 2026] <STEAM_0:0:46593395> BadBeeBoy♡: // Просьба нате больше не дезертировать, мы не можем вас всех принять
+[Thu Jan  8 21:13:50 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // я ухожу
+[Thu Jan  8 21:13:54 2026] <STEAM_0:1:618974024> S0u1: // красава
+[Thu Jan  8 21:13:55 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "hide MAJ A.E. Evergarden"
+[Thu Jan  8 21:13:55 2026] <STEAM_0:0:586457449> NTF Epsilon11: СКОЛЬКО БМП
+[Thu Jan  8 21:14:24 2026] <STEAM_0:0:586457449> NTF Epsilon11: ХАХАХХА
+[Thu Jan  8 21:14:31 2026] <STEAM_0:0:586457449> NTF Epsilon11: давайте ему горло перережем?
+[Thu Jan  8 21:14:46 2026] <STEAM_0:0:586457449> NTF Epsilon11: СТОЯТЬ АМЕРИКОС
+[Thu Jan  8 21:14:49 2026] <STEAM_0:0:586457449> NTF Epsilon11: за мной
+[Thu Jan  8 21:14:49 2026] Грымза has killed kari x god.
+[Thu Jan  8 21:15:51 2026] Калоёб has killed S0u1.
+[Thu Jan  8 21:15:51 2026] Калоёб has killed SAXAROZA.
+[Thu Jan  8 21:15:51 2026] Калоёб has killed NTF Epsilon11.
+[Thu Jan  8 21:15:52 2026] S0u1 has killed S0u1.
+[Thu Jan  8 21:15:54 2026] <STEAM_0:1:618974024> S0u1: // блять
+[Thu Jan  8 21:15:58 2026] kari x god has killed SAXAROZA.
+[Thu Jan  8 21:15:59 2026] SAXAROZA has killed SAXAROZA.
+[Thu Jan  8 21:16:03 2026] NTF Epsilon11 has killed SAXAROZA.
+[Thu Jan  8 21:16:04 2026] SAXAROZA has killed SAXAROZA.
+[Thu Jan  8 21:16:07 2026] <STEAM_0:1:618974024> S0u1: /looc ну пиздец вы блять
+[Thu Jan  8 21:16:11 2026] kari x god has killed NTF Epsilon11.
+[Thu Jan  8 21:16:12 2026] NTF Epsilon11 has killed NTF Epsilon11.
+[Thu Jan  8 21:16:13 2026] <STEAM_0:1:618974024> S0u1: // ебать у меня бойцы молодцы
+[Thu Jan  8 21:16:16 2026] <STEAM_0:1:618974024> S0u1: // отпиздили натовца
+[Thu Jan  8 21:16:21 2026] <STEAM_0:1:618974024> S0u1: // въебали в меня с рпг
+[Thu Jan  8 21:16:25 2026] <STEAM_0:1:618974024> S0u1: // каждый день так живем к слову
+[Thu Jan  8 21:16:36 2026] <STEAM_0:0:586457449> NTF Epsilon11: /me пнул
+[Thu Jan  8 21:16:37 2026] <STEAM_0:1:455594560> gREG4IK: /OOC посмотрим какие вы завтра будете
+[Thu Jan  8 21:17:03 2026] <STEAM_0:0:586457449> NTF Epsilon11: /ooc кстати это была самая гуманная казнь американца за сегодня
+[Thu Jan  8 21:17:11 2026] <STEAM_0:1:455594560> gREG4IK: /event Восточный ГОРОД ЗАХВАЧЕН.
+[Thu Jan  8 21:17:18 2026] <STEAM_0:1:773566500> SAXAROZA: /me с-130 АНГЕЛ СМЕРТИ ВЫЛЕТЕЛ НА УДАР ПО БАЗЕ ВС РФ
+[Thu Jan  8 21:17:22 2026] <STEAM_0:0:586457449> NTF Epsilon11: /rf В ГОРОД
+[Thu Jan  8 21:17:23 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /me исполнил воинское приветствие
+[Thu Jan  8 21:17:37 2026] <STEAM_0:1:773566500> SAXAROZA ran command "ammo RCT P. B. Parker"
+[Thu Jan  8 21:17:50 2026] <STEAM_0:1:455594560> gREG4IK ran command "send RCT P. B. Parker"
+[Thu Jan  8 21:17:58 2026] <STEAM_0:1:618974024> S0u1: /rf На плац пиздуйте все.
+[Thu Jan  8 21:18:13 2026] <STEAM_0:0:586457449> NTF Epsilon11: /rf бегу
+[Thu Jan  8 21:18:47 2026] <STEAM_0:0:586457449> NTF Epsilon11: /y ДОЛБАЕБЫ ОРУЖИЕ УБРАЛИ И В ОДНУ ЛИНИЮ
+[Thu Jan  8 21:18:57 2026] <STEAM_0:0:586457449> NTF Epsilon11: СТРОЙСЯ В ШЕРЕНГУ.
+[Thu Jan  8 21:19:09 2026] <STEAM_0:0:586457449> NTF Epsilon11: ОРЛОВ ТОЖЕ
+[Thu Jan  8 21:19:15 2026] <STEAM_0:0:586457449> NTF Epsilon11: ВСТАЛ БЛЯТЬ
+[Thu Jan  8 21:19:28 2026] <STEAM_0:0:586457449> NTF Epsilon11: В СТРОЕ ЕБАЛО ЗАТКНУЛИ
+[Thu Jan  8 21:19:34 2026] <STEAM_0:0:586457449> NTF Epsilon11: ЧТО СКАЗАТЬ*
+[Thu Jan  8 21:19:42 2026] <STEAM_0:0:586457449> NTF Epsilon11: АДЕКВАТНОСТЬ СУКА ЭТО ПЕРВОЕ
+[Thu Jan  8 21:19:46 2026] <STEAM_0:0:586457449> NTF Epsilon11: СУБОРДИНАЦИЯ ВТОРОЕ
+[Thu Jan  8 21:19:58 2026] <STEAM_0:1:773566500> SAXAROZA ran command "ammo RCT P. B. Parker"
+[Thu Jan  8 21:20:01 2026] <STEAM_0:0:586457449> NTF Epsilon11: ОСКОРБЛЯЕЕТЕ ТОВАРИЩЕЙ ДОЛБАЕБЫ?
+[Thu Jan  8 21:21:04 2026] <STEAM_0:0:586457449> NTF Epsilon11: МОЛЧИ
+[Thu Jan  8 21:21:58 2026] <STEAM_0:1:455594560> gREG4IK: /event Захватывается Центр Города
+[Thu Jan  8 21:22:03 2026] <STEAM_0:0:586457449> NTF Epsilon11: ОРУЖИЕ УБРАЛ
+[Thu Jan  8 21:22:10 2026] <STEAM_0:1:618974024> S0u1: // Погодите мы тут стоим дрочим состав
+[Thu Jan  8 21:22:23 2026] <STEAM_0:0:586457449> NTF Epsilon11: хуйней в том смысле что америкосов ебашим?
+[Thu Jan  8 21:23:26 2026] <STEAM_0:0:586457449> NTF Epsilon11: то что я вас оскорблял порой у меня накипело в те моменты с вашего раздолбайства
+[Thu Jan  8 21:23:36 2026] <STEAM_0:0:586457449> NTF Epsilon11: и да,молчать в строе
+[Thu Jan  8 21:23:48 2026] <STEAM_0:1:455594560> gREG4IK: /event Захватывается Центр Города
+[Thu Jan  8 21:24:38 2026] <STEAM_0:0:586457449> NTF Epsilon11: Молчите в строе блять.
+[Thu Jan  8 21:24:56 2026] Player "Worshiper of God" <STEAM_0:0:74235942> is attempting to connect.
+[Thu Jan  8 21:24:59 2026] <STEAM_0:1:455594560> gREG4IK: /ooc че то рф слабеет
+[Thu Jan  8 21:25:09 2026] <STEAM_0:0:561366370> TANZI: // Да
+[Thu Jan  8 21:25:41 2026] Player "Worshiper of God" <STEAM_0:0:74235942> has spawned in the server
+[Thu Jan  8 21:25:45 2026] <STEAM_0:0:586457449> NTF Epsilon11: кто на части я
+[Thu Jan  8 21:26:09 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: хуй вам
+[Thu Jan  8 21:26:32 2026] <STEAM_0:0:586457449> NTF Epsilon11: орлов
+[Thu Jan  8 21:26:39 2026] <STEAM_0:0:586457449> NTF Epsilon11: /ooc админы есть?
+[Thu Jan  8 21:26:46 2026] <STEAM_0:1:618974024> S0u1: // грег есть
+[Thu Jan  8 21:26:53 2026] <STEAM_0:0:74235942> Worshiper of God: // мне или кажется или тут слегка нато многовато?
+[Thu Jan  8 21:27:03 2026] <STEAM_0:0:586457449> NTF Epsilon11: /ooc грег орлова ебани и обратно на плац он неведимка
+[Thu Jan  8 21:27:15 2026] <STEAM_0:1:455594560> gREG4IK ran command "respawn Орлов"
+[Thu Jan  8 21:27:35 2026] <STEAM_0:0:586457449> NTF Epsilon11: давайте теперь если адекватно
+[Thu Jan  8 21:27:49 2026] <STEAM_0:0:586457449> NTF Epsilon11: орлов
+[Thu Jan  8 21:27:53 2026] S0u1 has killed kari x god.
+[Thu Jan  8 21:27:58 2026] <STEAM_0:0:586457449> NTF Epsilon11: ДАЖЕ БАБОЛЮБОВ И ДМИТРИЕЕВ ПОРОЙ АДЕКВАТНЕЙ
+[Thu Jan  8 21:28:00 2026] Player "༒︎シ︎ʰᵉⁿᵗᵃⁱシ" <STEAM_0:0:851601344> has left the server
+[Thu Jan  8 21:28:08 2026] <STEAM_0:0:586457449> NTF Epsilon11: бабалюбов*
+[Thu Jan  8 21:28:22 2026] <STEAM_0:0:586457449> NTF Epsilon11: СМИРНОВ
+[Thu Jan  8 21:28:28 2026] <STEAM_0:0:586457449> NTF Epsilon11: хоть куда
+[Thu Jan  8 21:28:43 2026] <STEAM_0:1:618974024> S0u1: /rf Кто снайпер, подойдите ко мне
+[Thu Jan  8 21:28:46 2026] Worshiper of God has killed gREG4IK.
+[Thu Jan  8 21:28:46 2026] Worshiper of God has killed Worshiper of God.
+[Thu Jan  8 21:28:47 2026] Worshiper of God has killed Worshiper of God.
+[Thu Jan  8 21:28:50 2026] <STEAM_0:0:586457449> NTF Epsilon11: ну мои хорошие бежим
+[Thu Jan  8 21:28:54 2026] <STEAM_0:0:74235942> Worshiper of God: / hahahahah
+[Thu Jan  8 21:29:00 2026] <STEAM_0:0:586457449> NTF Epsilon11: так точно
+[Thu Jan  8 21:29:01 2026] <STEAM_0:0:74235942> Worshiper of God: // jhahahahha
+[Thu Jan  8 21:29:17 2026] <STEAM_0:0:74235942> Worshiper of God: // ебать рп не залетело
+[Thu Jan  8 21:29:44 2026] <STEAM_0:0:586457449> NTF Epsilon11: давайте из города нам надо выбить америкосов
+[Thu Jan  8 21:30:19 2026] <STEAM_0:1:618974024> S0u1: /rf Город захватывайте
+[Thu Jan  8 21:30:39 2026] <STEAM_0:0:561366370> TANZI: /rf Восточная стороноа города в процессе
+[Thu Jan  8 21:30:56 2026] TANZI has killed SAXAROZA.
+[Thu Jan  8 21:30:57 2026] SAXAROZA has killed SAXAROZA.
+[Thu Jan  8 21:31:11 2026] <STEAM_0:0:586278889> kari x god: // админы тп тачка на крышен
+[Thu Jan  8 21:31:12 2026] <STEAM_0:0:561366370> TANZI: // это свои были?
+[Thu Jan  8 21:31:55 2026] <STEAM_0:1:773566500> SAXAROZA ran command "ammo RCT P. B. Parker"
+[Thu Jan  8 21:32:49 2026] <STEAM_0:0:74235942> Worshiper of God: // але грег
+[Thu Jan  8 21:32:50 2026] worldspawn has killed S0u1.
+[Thu Jan  8 21:32:57 2026] <STEAM_0:1:618974024> S0u1: /rf Я возле города лежу
+[Thu Jan  8 21:33:00 2026] <STEAM_0:0:74235942> Worshiper of God: // вызываю грега на помощь
+[Thu Jan  8 21:33:00 2026] <STEAM_0:1:618974024> S0u1: /rf Помогите да
+[Thu Jan  8 21:33:05 2026] worldspawn has killed kari x god.
+[Thu Jan  8 21:33:21 2026] Грымза has killed Грымза.
+[Thu Jan  8 21:33:24 2026] <STEAM_0:1:773566500> SAXAROZA ran command "ammo RCT P. B. Parker"
+[Thu Jan  8 21:33:24 2026] <STEAM_0:0:561366370> TANZI: /rf Соколов, что случилось?
+[Thu Jan  8 21:33:32 2026] <STEAM_0:1:618974024> S0u1: /rf Я с пальмы уебался
+[Thu Jan  8 21:33:38 2026] <STEAM_0:0:561366370> TANZI: /rf где?
+[Thu Jan  8 21:33:42 2026] <STEAM_0:1:618974024> S0u1: /rf Уже все
+[Thu Jan  8 21:33:58 2026] <STEAM_0:0:561366370> TANZI: /rf F
+[Thu Jan  8 21:34:05 2026] BadBeeBoy♡ has killed NTF Epsilon11.
+[Thu Jan  8 21:34:11 2026] <STEAM_0:1:455594560> gREG4IK ran command "goto Жницав"
+[Thu Jan  8 21:34:21 2026] <STEAM_0:0:586457449> NTF Epsilon11: помогите..
+[Thu Jan  8 21:34:28 2026] Player "THE-_-Reper" <STEAM_0:1:526999954> has left the server
+[Thu Jan  8 21:34:31 2026] Player ""White"" <STEAM_0:1:514738252> has left the server
+[Thu Jan  8 21:34:36 2026] <STEAM_0:1:455594560> gREG4IK ran command "goto RCT P. B. Parker"
+[Thu Jan  8 21:34:38 2026] <STEAM_0:0:586457449> NTF Epsilon11: /ooc понял тебя смирнов
+[Thu Jan  8 21:34:48 2026] <STEAM_0:0:586457449> NTF Epsilon11: /report вопросы к смирному
+[Thu Jan  8 21:34:49 2026] <STEAM_0:0:526149040> Калоёб: // Я ДОБИЛ ШОБ НЕ МУЧИЛСЯ
+[Thu Jan  8 21:34:52 2026] <STEAM_0:0:526149040> Калоёб: // ДУРАК
+[Thu Jan  8 21:34:58 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [571][tfa_m4tech]"
+[Thu Jan  8 21:34:58 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [573][tfa_m4tech]"
+[Thu Jan  8 21:34:58 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [583][tfa_m4tech]"
+[Thu Jan  8 21:34:59 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [585][tfa_m4tech]"
+[Thu Jan  8 21:34:59 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [587][tfa_m4tech]"
+[Thu Jan  8 21:34:59 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [571][tfa_m4tech]"
+[Thu Jan  8 21:34:59 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [592][tfa_m4tech]"
+[Thu Jan  8 21:35:25 2026] gREG4IK has killed Worshiper of God.
+[Thu Jan  8 21:35:26 2026] Worshiper of God has killed Worshiper of God.
+[Thu Jan  8 21:35:27 2026] <STEAM_0:0:586457449> NTF Epsilon11: /ooc грэг можешь щас меня и смирнова подальшу тепнуть куда нибудь у меня к нему вопрос
+[Thu Jan  8 21:35:28 2026] SAXAROZA has killed S0u1.
+[Thu Jan  8 21:35:29 2026] S0u1 has killed S0u1.
+[Thu Jan  8 21:35:32 2026] <STEAM_0:1:618974024> S0u1: /rf СЛЕВА
+[Thu Jan  8 21:35:55 2026] <STEAM_0:0:561366370> TANZI: /rf далеко не уходите
+[Thu Jan  8 21:36:10 2026] SAXAROZA has killed Калоёб.
+[Thu Jan  8 21:36:11 2026] unsaved sex has killed SAXAROZA.
+[Thu Jan  8 21:36:11 2026] BadBeeBoy♡ has killed gREG4IK.
+[Thu Jan  8 21:36:11 2026] Калоёб has killed Калоёб.
+[Thu Jan  8 21:36:30 2026] BadBeeBoy♡ has killed SAXAROZA.
+[Thu Jan  8 21:36:34 2026] <STEAM_0:1:618974024> S0u1: /me Заломал
+[Thu Jan  8 21:36:47 2026] <STEAM_0:1:618974024> S0u1: /me Забрал оружие и рацию.
+[Thu Jan  8 21:36:56 2026] Player "Dexter Morgan" <STEAM_0:1:431694707> is attempting to connect.
+[Thu Jan  8 21:37:07 2026] <STEAM_0:0:561366370> TANZI: /rf На связи? Что у вас там?
+[Thu Jan  8 21:37:07 2026] <STEAM_0:1:618974024> S0u1: /me Затолкал человека в машину
+[Thu Jan  8 21:37:43 2026] <STEAM_0:0:561366370> TANZI: /rf Прием
+[Thu Jan  8 21:37:52 2026] <STEAM_0:1:618974024> S0u1: /rf Прием
+[Thu Jan  8 21:37:53 2026] <STEAM_0:0:586457449> NTF Epsilon11: ты тоже
+[Thu Jan  8 21:38:00 2026] <STEAM_0:1:618974024> S0u1: /rf Везем пленного
+[Thu Jan  8 21:38:01 2026] <STEAM_0:0:586457449> NTF Epsilon11: нас бросили
+[Thu Jan  8 21:38:07 2026] <STEAM_0:1:618974024> S0u1: /me Заломал
+[Thu Jan  8 21:38:19 2026] <STEAM_0:1:618974024> S0u1: /me Ударил в пузо натовцу
+[Thu Jan  8 21:38:36 2026] <STEAM_0:1:773566500> SAXAROZA ran command "ignite RCT P. B. Parker"
+[Thu Jan  8 21:38:38 2026] <STEAM_0:1:455594560> gREG4IK: /rp [Обьявление] Вышел с Базы НАТО
+[Thu Jan  8 21:38:39 2026] <STEAM_0:0:586457449> NTF Epsilon11: заправку
+[Thu Jan  8 21:38:41 2026] S0u1 has killed SAXAROZA.
+[Thu Jan  8 21:38:42 2026] SAXAROZA has killed SAXAROZA.
+[Thu Jan  8 21:38:55 2026] <STEAM_0:1:618974024> S0u1: /me Заломал
+[Thu Jan  8 21:39:01 2026] <STEAM_0:0:74235942> Worshiper of God: // а кто вышел то?
+[Thu Jan  8 21:39:05 2026] <STEAM_0:0:561366370> TANZI: /rf Силы РФ - на заправку
+[Thu Jan  8 21:39:24 2026] <STEAM_0:0:586457449> NTF Epsilon11: /com америка сосать
+[Thu Jan  8 21:40:00 2026] gREG4IK has killed Worshiper of God.
+[Thu Jan  8 21:40:01 2026] Worshiper of God has killed Worshiper of God.
+[Thu Jan  8 21:40:05 2026] <STEAM_0:0:74235942> Worshiper of God: // ай
+[Thu Jan  8 21:40:36 2026] <STEAM_0:1:455594560> gREG4IK ran command "noclip RCT GREG"
+[Thu Jan  8 21:40:41 2026] <STEAM_0:1:455594560> gREG4IK ran command "noclip RCT GREG"
+[Thu Jan  8 21:40:49 2026] Player "Ctrl" <STEAM_0:0:630837718> has spawned in the server
+[Thu Jan  8 21:41:02 2026] Грымза has killed BadBeeBoy♡.
+[Thu Jan  8 21:41:03 2026] BadBeeBoy♡ has killed BadBeeBoy♡.
+[Thu Jan  8 21:41:14 2026] kari x god has killed BadBeeBoy♡.
+[Thu Jan  8 21:41:31 2026] BadBeeBoy♡ has killed Грымза.
+[Thu Jan  8 21:41:34 2026] kari x god has killed BadBeeBoy♡.
+[Thu Jan  8 21:41:35 2026] BadBeeBoy♡ has killed BadBeeBoy♡.
+[Thu Jan  8 21:41:44 2026] <STEAM_0:0:586457449> NTF Epsilon11: /rp РФ захватывает укрепрайон
+[Thu Jan  8 21:41:59 2026] <STEAM_0:1:455594560> gREG4IK: /rp НАТО захватывает Восточный Город
+[Thu Jan  8 21:42:01 2026] <STEAM_0:0:56418410> unsaved sex: /me совершает действие
+[Thu Jan  8 21:42:06 2026] <STEAM_0:1:455594560> gREG4IK ran command "send Ramirez"
+[Thu Jan  8 21:42:07 2026] <STEAM_0:0:561366370> TANZI: /rf Соколов выйдите на связь
+[Thu Jan  8 21:42:12 2026] <STEAM_0:1:455594560> gREG4IK ran command "send Ramirez"
+[Thu Jan  8 21:42:15 2026] <STEAM_0:0:561366370> TANZI: /rf РЧ 3
+[Thu Jan  8 21:42:17 2026] <STEAM_0:1:618974024> S0u1: /rf щас
+[Thu Jan  8 21:42:24 2026] <STEAM_0:0:74235942> Worshiper of God: /me ВЗ:РЯД ЛН:35942 НЧ:77769 Д:100 ДВ: 01.07.16 СД:01.07.17^
+[Thu Jan  8 21:42:33 2026] Player "Крампус гаир" <STEAM_0:1:467531732> is attempting to connect.
+[Thu Jan  8 21:42:45 2026] <STEAM_0:1:618974024> S0u1: /rf Охотник я на третьем
+[Thu Jan  8 21:42:46 2026] <STEAM_0:0:586457449> NTF Epsilon11: /ooc грэг ресетни меня я неведимка
+[Thu Jan  8 21:42:51 2026] <STEAM_0:1:618974024> S0u1: /rf Есличе
+[Thu Jan  8 21:43:03 2026] NTF Epsilon11 has killed NTF Epsilon11.
+[Thu Jan  8 21:43:13 2026] <STEAM_0:0:586457449> NTF Epsilon11: /ooc а все
+[Thu Jan  8 21:44:09 2026] S0u1 has killed gREG4IK.
+[Thu Jan  8 21:44:14 2026] <STEAM_0:0:74235942> Worshiper of God: /me снял штаны
+[Thu Jan  8 21:44:17 2026] <STEAM_0:1:455594560> gREG4IK ran command "send Ramirez"
+[Thu Jan  8 21:44:41 2026] <STEAM_0:1:455594560> gREG4IK: /rp [Обьявление] Вышел с Базы НАТО
+[Thu Jan  8 21:44:47 2026] <STEAM_0:1:618974024> S0u1: // грег
+[Thu Jan  8 21:44:53 2026] <STEAM_0:1:618974024> S0u1: // а че зареспавнился?)\nн
+[Thu Jan  8 21:44:58 2026] <STEAM_0:1:618974024> S0u1: //В плен бы взяли
+[Thu Jan  8 21:45:03 2026] <STEAM_0:1:618974024> S0u1: // В плен бы взяли
+[Thu Jan  8 21:45:11 2026] <STEAM_0:1:455594560> gREG4IK: /ooc вы бы не взяли...
+[Thu Jan  8 21:45:24 2026] <STEAM_0:1:618974024> S0u1: // *заломал* крюк
+[Thu Jan  8 21:45:24 2026] TANZI has killed gREG4IK.
+[Thu Jan  8 21:45:26 2026] gREG4IK has killed gREG4IK.
+[Thu Jan  8 21:45:49 2026] <STEAM_0:0:586457449> NTF Epsilon11: ХАХАХАХА
+[Thu Jan  8 21:45:53 2026] <STEAM_0:1:455594560> gREG4IK: /rp [Обьявление] Вышел с Базы НАТО
+[Thu Jan  8 21:45:56 2026] <STEAM_0:0:74235942> Worshiper of God: /l откат действий
+[Thu Jan  8 21:46:00 2026] <STEAM_0:1:618974024> S0u1: /rf Пока вы страдаете все хуйнёй, мы с орловом флаги захватываем и ловим кайф с убийства натовцев
+[Thu Jan  8 21:46:02 2026] <STEAM_0:0:586457449> NTF Epsilon11: АХАХХАХАХА
+[Thu Jan  8 21:46:25 2026] Player "Ctrl" <STEAM_0:0:630837718> has left the server
+[Thu Jan  8 21:46:25 2026] <STEAM_0:0:561366370> TANZI: // Грег, мб я к вам вступлю? Для баланса...
+[Thu Jan  8 21:46:33 2026] Player "Ctrl" <STEAM_0:0:630837718> is attempting to connect.
+[Thu Jan  8 21:46:35 2026] <STEAM_0:1:618974024> S0u1: // Я бы тоже не отказался
+[Thu Jan  8 21:46:41 2026] <STEAM_0:1:618974024> S0u1: // Временно
+[Thu Jan  8 21:46:42 2026] <STEAM_0:0:586457449> NTF Epsilon11: /ooc да и я на время
+[Thu Jan  8 21:46:54 2026] <STEAM_0:0:561366370> TANZI: // (Они устал с дебилами работать)
+[Thu Jan  8 21:46:57 2026] <STEAM_0:0:586457449> NTF Epsilon11: /ooc мы вас мясом давим
+[Thu Jan  8 21:47:07 2026] <STEAM_0:0:561366370> TANZI: // Устали*
+[Thu Jan  8 21:47:27 2026] <STEAM_0:1:773566500> SAXAROZA spawned npc "NPC [574][npc_crow]"
+[Thu Jan  8 21:47:40 2026] <STEAM_0:1:773566500> SAXAROZA spawned npc "NPC [585][npc_pigeon]"
+[Thu Jan  8 21:47:47 2026] <STEAM_0:1:773566500> SAXAROZA spawned npc "NPC [585][npc_seagull]"
+[Thu Jan  8 21:47:53 2026] Player "|зависим|Ardor" <STEAM_0:1:410768107> is attempting to connect.
+[Thu Jan  8 21:47:59 2026] Player "Ctrl" <STEAM_0:0:630837718> is attempting to connect.
+[Thu Jan  8 21:48:05 2026] <STEAM_0:0:561366370> TANZI: // Грег, молчание - нет?
+[Thu Jan  8 21:48:15 2026] <STEAM_0:0:586457449> NTF Epsilon11: хз
+[Thu Jan  8 21:48:16 2026] <STEAM_0:1:455594560> gREG4IK: /ooc я устал очень сильно на сегодн
+[Thu Jan  8 21:48:23 2026] <STEAM_0:1:618974024> S0u1: // Понимаемо
+[Thu Jan  8 21:48:24 2026] <STEAM_0:0:561366370> TANZI: // понимаю
+[Thu Jan  8 21:48:33 2026] <STEAM_0:0:586457449> NTF Epsilon11: /ooc отдыхай
+[Thu Jan  8 21:48:36 2026] <STEAM_0:0:561366370> TANZI: // СОКОЛОВ МЫ ЛПШКИ :hearts:
+[Thu Jan  8 21:48:38 2026] <STEAM_0:1:618974024> S0u1: // Нет такой возможности временно на натовцев?
+[Thu Jan  8 21:48:39 2026] Worshiper of God has killed SAXAROZA.
+[Thu Jan  8 21:48:39 2026] Worshiper of God has killed Worshiper of God.
+[Thu Jan  8 21:48:40 2026] Worshiper of God has killed Worshiper of God.
+[Thu Jan  8 21:48:42 2026] <STEAM_0:1:618974024> S0u1: // я так к слову
+[Thu Jan  8 21:49:01 2026] <STEAM_0:0:586457449> NTF Epsilon11: /looc я на тебя жестко дрочу
+[Thu Jan  8 21:49:09 2026] <STEAM_0:0:561366370> TANZI: // :0
+[Thu Jan  8 21:49:12 2026] gREG4IK has killed NTF Epsilon11.
+[Thu Jan  8 21:49:13 2026] NTF Epsilon11 has killed NTF Epsilon11.
+[Thu Jan  8 21:49:18 2026] <STEAM_0:0:586457449> NTF Epsilon11: /looc прямо сейчас взломав твою вэбку
+[Thu Jan  8 21:49:18 2026] <STEAM_0:0:561366370> TANZI: // додрочился
+[Thu Jan  8 21:49:26 2026] gREG4IK has killed TANZI.
+[Thu Jan  8 21:49:27 2026] TANZI has killed TANZI.
+[Thu Jan  8 21:49:30 2026] <STEAM_0:0:561366370> TANZI: // Бля
+[Thu Jan  8 21:49:31 2026] <STEAM_0:0:586457449> NTF Epsilon11: /ooc АХАХХАХАХАХА
+[Thu Jan  8 21:49:38 2026] <STEAM_0:0:586457449> NTF Epsilon11: ааа
+[Thu Jan  8 21:49:40 2026] <STEAM_0:0:526149040> Калоёб: // бля пендос вернись к нам в плен по братски
+[Thu Jan  8 21:49:40 2026] <STEAM_0:0:586457449> NTF Epsilon11: помогите..
+[Thu Jan  8 21:49:43 2026] <STEAM_0:0:526149040> Калоёб: // если не лень
+[Thu Jan  8 21:49:44 2026] Player "Worshiper of God" <STEAM_0:0:74235942> has left the server
+[Thu Jan  8 21:49:47 2026] <STEAM_0:0:586457449> NTF Epsilon11: аа..
+[Thu Jan  8 21:50:04 2026] <STEAM_0:0:586457449> NTF Epsilon11: помогииитее...
+[Thu Jan  8 21:50:25 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [559][tfa_ins2_mk18]"
+[Thu Jan  8 21:50:26 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [592][tfa_ins2_mk18]"
+[Thu Jan  8 21:50:26 2026] Калоёб has killed Грымза.
+[Thu Jan  8 21:50:32 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [590][tfa_m4tech]"
+[Thu Jan  8 21:50:33 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [592][tfa_m4tech]"
+[Thu Jan  8 21:50:33 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [615][tfa_m4tech]"
+[Thu Jan  8 21:50:33 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [616][tfa_m4tech]"
+[Thu Jan  8 21:50:33 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [617][tfa_m4tech]"
+[Thu Jan  8 21:50:34 2026] BadBeeBoy♡ has killed TANZI.
+[Thu Jan  8 21:50:36 2026] TANZI has killed TANZI.
+[Thu Jan  8 21:50:41 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [510][tfa_m4tech]"
+[Thu Jan  8 21:50:41 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [512][tfa_m4tech]"
+[Thu Jan  8 21:50:41 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [518][tfa_m4tech]"
+[Thu Jan  8 21:50:42 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [519][tfa_m4tech]"
+[Thu Jan  8 21:50:42 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [526][tfa_m4tech]"
+[Thu Jan  8 21:50:42 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [616][tfa_m4tech]"
+[Thu Jan  8 21:50:42 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [617][tfa_m4tech]"
+[Thu Jan  8 21:50:42 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [618][tfa_m4tech]"
+[Thu Jan  8 21:50:43 2026] <STEAM_0:0:561366370> TANZI: // Ахуенно просто
+[Thu Jan  8 21:50:47 2026] <STEAM_0:0:561366370> TANZI: // Умер от другого
+[Thu Jan  8 21:50:49 2026] <STEAM_0:0:586457449> NTF Epsilon11: кто тебя
+[Thu Jan  8 21:50:50 2026] <STEAM_0:1:773566500> SAXAROZA ran command "ammo RCT P. B. Parker"
+[Thu Jan  8 21:50:57 2026] <STEAM_0:0:586457449> NTF Epsilon11: это че блять
+[Thu Jan  8 21:51:00 2026] <STEAM_0:0:586457449> NTF Epsilon11: ХАХАХАХХААХАХА
+[Thu Jan  8 21:51:04 2026] <STEAM_0:0:586457449> NTF Epsilon11: БАКУРИН
+[Thu Jan  8 21:51:07 2026] <STEAM_0:0:586457449> NTF Epsilon11: убери
+[Thu Jan  8 21:51:10 2026] Player "Крампус гаир" <STEAM_0:1:467531732> has spawned in the server
+[Thu Jan  8 21:51:17 2026] <STEAM_0:0:561366370> TANZI: // Не нихуя не от другого :((
+[Thu Jan  8 21:51:35 2026] <STEAM_0:0:586457449> NTF Epsilon11: /ooc грэг у нас тут проп блок
+[Thu Jan  8 21:51:41 2026] <STEAM_0:1:455594560> gREG4IK ran command "goto Вакутагин "Тундр"
+[Thu Jan  8 21:51:55 2026] <STEAM_0:1:455594560> gREG4IK ran command "goto RCT P. B. Parker"
+[Thu Jan  8 21:52:45 2026] Player "Грымза" <STEAM_0:1:826463988> has left the server
+[Thu Jan  8 21:52:49 2026] gREG4IK has killed NTF Epsilon11.
+[Thu Jan  8 21:53:03 2026] SAXAROZA has killed TANZI.
+[Thu Jan  8 21:53:19 2026] SAXAROZA has killed NTF Epsilon11.
+[Thu Jan  8 21:53:20 2026] NTF Epsilon11 has killed NTF Epsilon11.
+[Thu Jan  8 21:53:27 2026] <STEAM_0:0:561366370> TANZI: // Ваще ни чотко
+[Thu Jan  8 21:53:35 2026] <STEAM_0:1:773566500> SAXAROZA ran command "ammo RCT P. B. Parker"
+[Thu Jan  8 21:53:42 2026] gREG4IK has killed NTF Epsilon11.
+[Thu Jan  8 21:53:43 2026] <STEAM_0:0:586457449> NTF Epsilon11: а
+[Thu Jan  8 21:53:58 2026] <STEAM_0:0:586457449> NTF Epsilon11: /looc ХУЯРЬ БАЗУ Я В ТЕБЯ ВЕРЮ,
+[Thu Jan  8 21:54:07 2026] TANZI has killed SAXAROZA.
+[Thu Jan  8 21:54:17 2026] gREG4IK has killed unsaved sex.
+[Thu Jan  8 21:54:18 2026] unsaved sex has killed unsaved sex.
+[Thu Jan  8 21:54:24 2026] TANZI has killed gREG4IK.
+[Thu Jan  8 21:54:24 2026] gREG4IK has killed gREG4IK.
+[Thu Jan  8 21:54:31 2026] <STEAM_0:1:455594560> gREG4IK ran command "send RCT P. B. Parker"
+[Thu Jan  8 21:54:35 2026] <STEAM_0:0:586457449> NTF Epsilon11: /rf БОЕВАЯ ТРЕВОГА
+[Thu Jan  8 21:54:40 2026] <STEAM_0:1:455594560> gREG4IK spawned vehicle "Vehicle [564][prop_vehicle_jeep]"
+[Thu Jan  8 21:54:44 2026] <STEAM_0:1:455594560> gREG4IK spawned vehicle "Vehicle [603][prop_vehicle_jeep]"
+[Thu Jan  8 21:54:46 2026] <STEAM_0:1:455594560> gREG4IK spawned vehicle "Vehicle [606][prop_vehicle_jeep]"
+[Thu Jan  8 21:54:48 2026] <STEAM_0:0:561366370> TANZI: /rf код красный
+[Thu Jan  8 21:55:26 2026] <STEAM_0:0:561366370> TANZI: // Давайти ищооо
+[Thu Jan  8 21:55:32 2026] Player "kari x god" <STEAM_0:0:586278889> has left the server
+[Thu Jan  8 21:56:08 2026] Player "Dexter Morgan" <STEAM_0:1:431694707> is attempting to connect.
+[Thu Jan  8 21:56:13 2026] <STEAM_0:1:773566500> SAXAROZA ran command "ammo RCT P. B. Parker"
+[Thu Jan  8 21:56:26 2026] gREG4IK has killed Калоёб.
+[Thu Jan  8 21:56:26 2026] BadBeeBoy♡ has killed gREG4IK.
+[Thu Jan  8 21:56:27 2026] gREG4IK has killed gREG4IK.
+[Thu Jan  8 21:56:30 2026] worldspawn has killed S0u1.
+[Thu Jan  8 21:56:37 2026] <STEAM_0:0:586457449> NTF Epsilon11: /me стянул руки стяжками
+[Thu Jan  8 21:56:41 2026] Player "gREG4IK" <STEAM_0:1:455594560> has left the server
+[Thu Jan  8 21:56:49 2026] TANZI has killed SAXAROZA.
+[Thu Jan  8 21:56:49 2026] SAXAROZA has killed SAXAROZA.
+[Thu Jan  8 21:57:03 2026] NTF Epsilon11 has killed NTF Epsilon11.
+[Thu Jan  8 21:57:10 2026] <STEAM_0:0:586457449> NTF Epsilon11: /rf ЕБЛАНЫ Я СВОЙ БЫЛ
+[Thu Jan  8 21:57:15 2026] <STEAM_0:0:586457449> NTF Epsilon11: /rf 300
+[Thu Jan  8 21:57:44 2026] Player "S0u1" <STEAM_0:1:618974024> has left the server
+[Thu Jan  8 21:58:05 2026] <STEAM_0:1:773566500> SAXAROZA ran command "ammo RCT P. B. Parker"
+[Thu Jan  8 21:58:37 2026] <STEAM_0:0:561366370> TANZI: /rf иду к базе
+[Thu Jan  8 21:58:40 2026] <STEAM_0:0:586457449> NTF Epsilon11: я:?э
+[Thu Jan  8 21:58:44 2026] Калоёб has killed NTF Epsilon11.
+[Thu Jan  8 21:58:44 2026] NTF Epsilon11 has killed NTF Epsilon11.
+[Thu Jan  8 21:58:50 2026] <STEAM_0:0:586457449> NTF Epsilon11: аа
+[Thu Jan  8 21:59:10 2026] BadBeeBoy♡ has killed SAXAROZA.
+[Thu Jan  8 21:59:11 2026] SAXAROZA has killed SAXAROZA.
+[Thu Jan  8 21:59:41 2026] <STEAM_0:0:586457449> NTF Epsilon11: здарова
+[Thu Jan  8 21:59:48 2026] <STEAM_0:0:586457449> NTF Epsilon11: за 500 к я их ебну
+[Thu Jan  8 21:59:52 2026] <STEAM_0:0:586457449> NTF Epsilon11: шучу
+[Thu Jan  8 22:00:02 2026] <STEAM_0:0:586457449> NTF Epsilon11: да нахуй он нам
+[Thu Jan  8 22:00:09 2026] NTF Epsilon11 has killed SAXAROZA.
+[Thu Jan  8 22:00:33 2026] <STEAM_0:0:586457449> NTF Epsilon11: /rp начинаю отрубать американцу голову саперной лопаткой
+[Thu Jan  8 22:00:40 2026] NTF Epsilon11 has killed SAXAROZA.
+[Thu Jan  8 22:00:41 2026] SAXAROZA has killed SAXAROZA.
+[Thu Jan  8 22:00:43 2026] <STEAM_0:0:526149040> Калоёб: // псих
+[Thu Jan  8 22:00:46 2026] <STEAM_0:0:586457449> NTF Epsilon11: /do 1/3
+[Thu Jan  8 22:00:49 2026] <STEAM_0:0:586457449> NTF Epsilon11: /do 2/3
+[Thu Jan  8 22:00:54 2026] BadBeeBoy♡ has killed unsaved sex.
+[Thu Jan  8 22:00:57 2026] <STEAM_0:0:586457449> NTF Epsilon11: /do 3/3
+[Thu Jan  8 22:00:58 2026] <STEAM_0:1:773566500> SAXAROZA ran command "respawn Охотник"
+[Thu Jan  8 22:01:01 2026] <STEAM_0:0:586457449> NTF Epsilon11: cksim
+[Thu Jan  8 22:01:03 2026] <STEAM_0:0:586457449> NTF Epsilon11: слышь
+[Thu Jan  8 22:01:08 2026] <STEAM_0:0:561366370> TANZI: // А вернете меня?
+[Thu Jan  8 22:01:10 2026] <STEAM_0:0:586457449> NTF Epsilon11: я к вам временно хочу
+[Thu Jan  8 22:01:13 2026] <STEAM_0:0:586457449> NTF Epsilon11: евас мало
+[Thu Jan  8 22:01:20 2026] NTF Epsilon11 has killed SAXAROZA.
+[Thu Jan  8 22:01:30 2026] <STEAM_0:0:586457449> NTF Epsilon11: добил тогда еще
+[Thu Jan  8 22:01:55 2026] TANZI has killed TANZI.
+[Thu Jan  8 22:02:02 2026] Player "Ctrl" <STEAM_0:0:630837718> has spawned in the server
+[Thu Jan  8 22:02:27 2026] <STEAM_0:0:586457449> NTF Epsilon11: да
+[Thu Jan  8 22:02:29 2026] <STEAM_0:0:586457449> NTF Epsilon11: помоги
+[Thu Jan  8 22:02:39 2026] <STEAM_0:1:773566500> SAXAROZA ran command "respawn Вакутагин "Тундр"
+[Thu Jan  8 22:02:49 2026] <STEAM_0:1:773566500> SAXAROZA spawned SENT "Entity [556][sw_bomb_fab9000m54_v3]"
+[Thu Jan  8 22:02:51 2026] SAXAROZA has killed BadBeeBoy♡.
+[Thu Jan  8 22:02:51 2026] SAXAROZA has killed Калоёб.
+[Thu Jan  8 22:02:51 2026] SAXAROZA has killed SAXAROZA.
+[Thu Jan  8 22:02:52 2026] SAXAROZA has killed SAXAROZA.
+[Thu Jan  8 22:03:16 2026] <STEAM_0:0:586457449> NTF Epsilon11: /ooc сделай ивент про дезертиров
+[Thu Jan  8 22:03:29 2026] <STEAM_0:0:561366370> TANZI: // Сделай ивент про фурри порно
+[Thu Jan  8 22:03:39 2026] <STEAM_0:0:561366370> TANZI: // А МЕНЯ МОЖНО К НАТО?!?!?!!
+[Thu Jan  8 22:03:53 2026] <STEAM_0:0:586457449> NTF Epsilon11: /looc я дрочу на тебя
+[Thu Jan  8 22:03:56 2026] <STEAM_0:0:586457449> NTF Epsilon11: /looc мрр
+[Thu Jan  8 22:04:08 2026] Калоёб has killed BadBeeBoy♡.
+[Thu Jan  8 22:04:09 2026] BadBeeBoy♡ has killed BadBeeBoy♡.
+[Thu Jan  8 22:04:25 2026] <STEAM_0:0:46593395> BadBeeBoy♡: возроди мня
+[Thu Jan  8 22:04:31 2026] <STEAM_0:0:46593395> BadBeeBoy♡: сука
+[Thu Jan  8 22:04:32 2026] <STEAM_0:0:586457449> NTF Epsilon11: /com нас 2 человека вашей базе пизда
+[Thu Jan  8 22:04:48 2026] <STEAM_0:0:561366370> TANZI: /com Ты похоже 1
+[Thu Jan  8 22:04:51 2026] <STEAM_0:0:586457449> NTF Epsilon11: /com ладно я 1 мой товарищ упал в песок
+[Thu Jan  8 22:05:03 2026] <STEAM_0:1:773566500> SAXAROZA spawned vehicle "Vehicle [556][prop_vehicle_jeep]"
+[Thu Jan  8 22:05:23 2026] NTF Epsilon11 has killed unsaved sex.
+[Thu Jan  8 22:05:24 2026] unsaved sex has killed unsaved sex.
+[Thu Jan  8 22:05:28 2026] Player "Калоёб" <STEAM_0:0:526149040> has left the server
+[Thu Jan  8 22:05:31 2026] <STEAM_0:0:586457449> NTF Epsilon11: /com hello мои1ой
+[Thu Jan  8 22:05:32 2026] <STEAM_0:0:586457449> NTF Epsilon11: ой
+[Thu Jan  8 22:05:43 2026] <STEAM_0:0:586457449> NTF Epsilon11: ЗАЧЕМ ТЫ ЕГО УБИЛ АМЕРИКОС
+[Thu Jan  8 22:05:44 2026] NTF Epsilon11 has killed SAXAROZA.
+[Thu Jan  8 22:05:45 2026] SAXAROZA has killed SAXAROZA.
+[Thu Jan  8 22:05:47 2026] <STEAM_0:0:586457449> NTF Epsilon11: ой
+[Thu Jan  8 22:05:57 2026] <STEAM_0:0:586457449> NTF Epsilon11: это все американец
+[Thu Jan  8 22:06:12 2026] Player "unsaved sex" <STEAM_0:0:56418410> has left the server
+[Thu Jan  8 22:06:36 2026] <STEAM_0:1:773566500> SAXAROZA ran command "hp RCT P. B. Parker 1000000000000000000000000000000000000000000000000000000000000"
+[Thu Jan  8 22:07:04 2026] <STEAM_0:0:586457449> NTF Epsilon11: здрастэ
+[Thu Jan  8 22:07:10 2026] <STEAM_0:0:586457449> NTF Epsilon11: я ваша новая инструктор
+[Thu Jan  8 22:07:12 2026] <STEAM_0:1:773566500> SAXAROZA ran command "ignite Вакутагин "Тундр"
+[Thu Jan  8 22:07:14 2026] <STEAM_0:0:586457449> NTF Epsilon11: ААААААААААА
+[Thu Jan  8 22:07:31 2026] SAXAROZA has killed NTF Epsilon11.
+[Thu Jan  8 22:07:35 2026] <STEAM_0:0:586457449> NTF Epsilon11: ай сука
+[Thu Jan  8 22:07:41 2026] SAXAROZA has killed NTF Epsilon11.
+[Thu Jan  8 22:07:45 2026] <STEAM_0:0:586457449> NTF Epsilon11: ай
+[Thu Jan  8 22:07:53 2026] SAXAROZA has killed NTF Epsilon11.
+[Thu Jan  8 22:07:54 2026] NTF Epsilon11 has killed NTF Epsilon11.
+[Thu Jan  8 22:08:49 2026] BadBeeBoy♡ has killed TANZI.
+[Thu Jan  8 22:08:50 2026] TANZI has killed TANZI.
+[Thu Jan  8 22:09:17 2026] <STEAM_0:0:561366370> TANZI: /rf СОВИ
+[Thu Jan  8 22:10:08 2026] Player "BadBeeBoy♡" <STEAM_0:0:46593395> has left the server
+[Thu Jan  8 22:10:59 2026] Player "Ctrl" <STEAM_0:0:630837718> has left the server
+[Thu Jan  8 22:11:03 2026] <STEAM_0:1:773566500> SAXAROZA spawned SENT "Entity [493][sw_rocket_kh47m2_v3]"
+[Thu Jan  8 22:11:04 2026] SAXAROZA has killed TANZI.
+[Thu Jan  8 22:11:13 2026] <STEAM_0:0:561366370> TANZI: // АХУЕТЬ
+[Thu Jan  8 22:11:21 2026] <STEAM_0:0:561366370> TANZI: // Всем ББ
+[Thu Jan  8 22:11:23 2026] Player "TANZI" <STEAM_0:0:561366370> has left the server
+[Thu Jan  8 22:12:03 2026] SAXAROZA has killed NTF Epsilon11.
+[Thu Jan  8 22:12:07 2026] Player "SAXAROZA" <STEAM_0:1:773566500> has left the server
+[Thu Jan  8 22:12:15 2026] <STEAM_0:0:586457449> NTF Epsilon11: /ooc сколько хп?
+[Thu Jan  8 22:12:42 2026] Player "Крампус гаир" <STEAM_0:1:467531732> has left the server
+[Thu Jan  8 22:13:45 2026] Player "NTF Epsilon11" <STEAM_0:0:586457449> has left the server
+[Thu Jan  8 22:16:29 2026] Player "|зависим|Ardor" <STEAM_0:1:410768107> has spawned in the server
+[Thu Jan  8 22:19:18 2026] Player "|зависим|Ardor" <STEAM_0:1:410768107> has left the server
+[Thu Jan  8 22:40:06 2026] Player "TANZI" <STEAM_0:0:561366370> is attempting to connect.
+[Thu Jan  8 22:41:50 2026] Player "TANZI" <STEAM_0:0:561366370> has spawned in the server
+[Thu Jan  8 22:42:37 2026] Player "TANZI" <STEAM_0:0:561366370> has left the server
+[Thu Jan  8 23:04:36 2026] Player "THRILL PILL" <STEAM_0:0:753593633> is attempting to connect.

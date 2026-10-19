@@ -1,0 +1,12 @@
+[Tue Dec 16 08:52:09 2025] Player "费尔南德斯" <STEAM_0:0:79873507> is attempting to connect.
+[Tue Dec 16 08:53:16 2025] Player "费尔南德斯" <STEAM_0:0:79873507> has spawned in the server
+[Tue Dec 16 09:06:32 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned effect "Entity [267][prop_effect] (models/notart/us pararescue3vm.mdl)"
+[Tue Dec 16 09:06:36 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned effect "Entity [369][prop_effect] (models/notart/us pararescuevm.mdl)"
+[Tue Dec 16 09:06:38 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned effect "Entity [267][prop_effect] (models/notart/us pararescue2vm.mdl)"
+[Tue Dec 16 09:06:40 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned effect "Entity [369][prop_effect] (models/weapons/c_arms_pmc.mdl)"
+[Tue Dec 16 09:11:06 2025] worldspawn has killed 费尔南德斯.
+[Tue Dec 16 09:12:01 2025] worldspawn has killed 费尔南德斯.
+[Tue Dec 16 09:12:36 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned effect "Entity [374][prop_effect] (models/notart/veneratedvm.mdl)"
+[Tue Dec 16 09:13:07 2025] worldspawn has killed 费尔南德斯.
+[Tue Dec 16 09:14:33 2025] worldspawn has killed 费尔南德斯.
+[Tue Dec 16 19:41:27 2025] Player "76561199261358489" <STEAM_0:1:650546380> is attempting to connect.

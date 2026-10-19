@@ -1,0 +1,920 @@
+[Sun Apr 26 02:26:13 2026] Player "Casebook" <STEAM_0:0:585468466> is attempting to connect.
+[Sun Apr 26 02:28:44 2026] Player "Casebook" <STEAM_0:0:585468466> has spawned in the server
+[Sun Apr 26 02:31:45 2026] Player "Casebook" <STEAM_0:0:585468466> has left the server
+[Sun Apr 26 07:50:45 2026] Player "Beep" <STEAM_0:0:570454016> is attempting to connect.
+[Sun Apr 26 07:52:11 2026] Player "Beep" <STEAM_0:0:570454016> has spawned in the server
+[Sun Apr 26 07:55:14 2026] <STEAM_0:0:570454016> Beep ran command "npctarget Keating"
+[Sun Apr 26 07:55:19 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [625][npc_vj_re5_em81]"
+[Sun Apr 26 07:55:36 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 07:55:36 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [626][npc_combine_s]"
+[Sun Apr 26 07:55:38 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 07:55:38 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [627][npc_combine_s]"
+[Sun Apr 26 07:55:38 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 07:55:38 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [633][npc_combine_s]"
+[Sun Apr 26 07:55:39 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 07:55:39 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [636][npc_combine_s]"
+[Sun Apr 26 07:55:40 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 07:55:40 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [640][npc_combine_s]"
+[Sun Apr 26 07:55:40 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 07:55:40 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [644][npc_combine_s]"
+[Sun Apr 26 07:55:40 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 07:55:40 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [648][npc_combine_s]"
+[Sun Apr 26 07:55:41 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 07:55:41 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [651][npc_combine_s]"
+[Sun Apr 26 07:57:43 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [610][npc_combine_s]"
+[Sun Apr 26 07:58:22 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 07:58:22 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [622][npc_combine_s]"
+[Sun Apr 26 07:58:22 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 07:58:22 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [628][npc_combine_s]"
+[Sun Apr 26 07:58:23 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 07:58:23 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [631][npc_combine_s]"
+[Sun Apr 26 07:58:24 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 07:58:24 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [634][npc_combine_s]"
+[Sun Apr 26 07:58:25 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 07:58:25 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [638][npc_combine_s]"
+[Sun Apr 26 07:58:29 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [641][npc_vj_re5_em81_boss]"
+[Sun Apr 26 08:00:10 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:00:10 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [616][npc_combine_s]"
+[Sun Apr 26 08:00:10 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:00:10 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [629][npc_combine_s]"
+[Sun Apr 26 08:00:16 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:00:16 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [616][npc_combine_s]"
+[Sun Apr 26 08:00:21 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:00:21 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [628][npc_combine_s]"
+[Sun Apr 26 08:00:26 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:00:26 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [616][npc_combine_s]"
+[Sun Apr 26 08:00:27 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:00:27 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [628][npc_combine_s]"
+[Sun Apr 26 08:00:32 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:00:32 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [616][npc_combine_s]"
+[Sun Apr 26 08:00:35 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:00:35 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [631][npc_combine_s]"
+[Sun Apr 26 08:00:39 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:00:39 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [634][npc_combine_s]"
+[Sun Apr 26 08:00:49 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [637][npc_vj_re5_em80]"
+[Sun Apr 26 08:01:43 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:01:43 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [617][npc_combine_s]"
+[Sun Apr 26 08:01:43 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:01:43 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [629][npc_combine_s]"
+[Sun Apr 26 08:01:43 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:01:43 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [632][npc_combine_s]"
+[Sun Apr 26 08:01:44 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:01:44 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [635][npc_combine_s]"
+[Sun Apr 26 08:01:44 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:01:44 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [639][npc_combine_s]"
+[Sun Apr 26 08:01:44 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:01:44 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [643][npc_combine_s]"
+[Sun Apr 26 08:01:45 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:01:45 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [646][npc_combine_s]"
+[Sun Apr 26 08:01:45 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:01:45 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [650][npc_combine_s]"
+[Sun Apr 26 08:01:45 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:01:45 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [653][npc_combine_s]"
+[Sun Apr 26 08:01:46 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:01:46 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [656][npc_combine_s]"
+[Sun Apr 26 08:01:46 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:01:46 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [659][npc_combine_s]"
+[Sun Apr 26 08:01:50 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [662][npc_vj_re5_em81_boss]"
+[Sun Apr 26 08:02:18 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:02:18 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [617][npc_combine_s]"
+[Sun Apr 26 08:02:18 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:02:18 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [628][npc_combine_s]"
+[Sun Apr 26 08:02:18 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:02:18 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [632][npc_combine_s]"
+[Sun Apr 26 08:02:19 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:02:19 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [636][npc_combine_s]"
+[Sun Apr 26 08:04:57 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [610][npc_zombie]"
+[Sun Apr 26 08:04:57 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [614][npc_zombie]"
+[Sun Apr 26 08:04:58 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [615][npc_zombie]"
+[Sun Apr 26 08:04:58 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [617][npc_zombie]"
+[Sun Apr 26 08:04:58 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [613][npc_zombie]"
+[Sun Apr 26 08:04:58 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [618][npc_zombie]"
+[Sun Apr 26 08:04:58 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [619][npc_zombie]"
+[Sun Apr 26 08:05:26 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [610][npc_zombie]"
+[Sun Apr 26 08:05:26 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [613][npc_zombie]"
+[Sun Apr 26 08:05:26 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [614][npc_zombie]"
+[Sun Apr 26 08:05:27 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [615][npc_zombie]"
+[Sun Apr 26 08:05:27 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [617][npc_zombie]"
+[Sun Apr 26 08:05:27 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [618][npc_zombie]"
+[Sun Apr 26 08:06:04 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [610][npc_zombie]"
+[Sun Apr 26 08:06:04 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [613][npc_zombie]"
+[Sun Apr 26 08:06:04 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [614][npc_zombie]"
+[Sun Apr 26 08:06:04 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [615][npc_zombie]"
+[Sun Apr 26 08:06:05 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [619][npc_zombie]"
+[Sun Apr 26 08:06:05 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [620][npc_zombie]"
+[Sun Apr 26 08:06:05 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [617][npc_zombie]"
+[Sun Apr 26 08:06:05 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [618][npc_zombie]"
+[Sun Apr 26 08:06:15 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [610][npc_zombie]"
+[Sun Apr 26 08:06:18 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [613][npc_zombie]"
+[Sun Apr 26 08:06:23 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [610][npc_zombie]"
+[Sun Apr 26 08:06:44 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:06:44 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [732][npc_zombie]"
+[Sun Apr 26 08:06:44 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:06:44 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [743][npc_zombie]"
+[Sun Apr 26 08:06:45 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:06:45 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [744][npc_zombie]"
+[Sun Apr 26 08:06:46 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:06:46 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [745][npc_zombie]"
+[Sun Apr 26 08:06:48 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:06:48 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [743][npc_zombie]"
+[Sun Apr 26 08:06:50 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:06:50 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [744][npc_zombie]"
+[Sun Apr 26 08:06:51 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:06:51 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [745][npc_zombie]"
+[Sun Apr 26 08:06:52 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:06:52 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [746][npc_zombie]"
+[Sun Apr 26 08:06:53 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:06:53 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [747][npc_zombie]"
+[Sun Apr 26 08:06:54 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:06:54 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [748][npc_zombie]"
+[Sun Apr 26 08:06:55 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:06:55 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [749][npc_zombie]"
+[Sun Apr 26 08:06:59 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [750][npc_vj_re5_em81]"
+[Sun Apr 26 08:07:20 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:07:20 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [732][npc_zombie]"
+[Sun Apr 26 08:07:21 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:07:21 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [743][npc_zombie]"
+[Sun Apr 26 08:07:23 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:07:23 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [744][npc_zombie]"
+[Sun Apr 26 08:07:24 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:07:24 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [745][npc_zombie]"
+[Sun Apr 26 08:07:25 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:07:25 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [746][npc_zombie]"
+[Sun Apr 26 08:07:26 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:07:26 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [747][npc_zombie]"
+[Sun Apr 26 08:07:26 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:07:26 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [748][npc_zombie]"
+[Sun Apr 26 08:07:27 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:07:27 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [749][npc_zombie]"
+[Sun Apr 26 08:07:28 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:07:28 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [750][npc_zombie]"
+[Sun Apr 26 08:07:28 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:07:28 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [751][npc_zombie]"
+[Sun Apr 26 08:07:29 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:07:29 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [752][npc_zombie]"
+[Sun Apr 26 08:07:30 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:07:30 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [753][npc_zombie]"
+[Sun Apr 26 08:07:32 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [754][npc_vj_re5_em80]"
+[Sun Apr 26 08:07:51 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:07:51 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [732][npc_zombie]"
+[Sun Apr 26 08:07:52 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:07:52 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [743][npc_zombie]"
+[Sun Apr 26 08:07:53 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:07:53 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [744][npc_zombie]"
+[Sun Apr 26 08:07:53 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:07:53 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [745][npc_zombie]"
+[Sun Apr 26 08:07:54 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:07:54 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [746][npc_zombie]"
+[Sun Apr 26 08:07:55 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:07:55 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [747][npc_zombie]"
+[Sun Apr 26 08:07:55 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:07:55 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [748][npc_zombie]"
+[Sun Apr 26 08:07:56 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:07:56 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [749][npc_zombie]"
+[Sun Apr 26 08:07:56 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:07:56 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [750][npc_zombie]"
+[Sun Apr 26 08:07:57 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:07:57 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [751][npc_zombie]"
+[Sun Apr 26 08:07:57 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:07:57 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [752][npc_zombie]"
+[Sun Apr 26 08:07:58 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:07:58 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [753][npc_zombie]"
+[Sun Apr 26 08:07:59 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:07:59 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [754][npc_zombie]"
+[Sun Apr 26 08:08:00 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:08:00 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [755][npc_zombie]"
+[Sun Apr 26 08:08:00 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:08:00 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [756][npc_zombie]"
+[Sun Apr 26 08:08:00 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:08:00 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [757][npc_zombie]"
+[Sun Apr 26 08:08:08 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [758][npc_vj_re5_em80b]"
+[Sun Apr 26 08:08:25 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:08:25 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [732][npc_zombie]"
+[Sun Apr 26 08:08:26 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:08:26 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [743][npc_zombie]"
+[Sun Apr 26 08:08:27 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:08:27 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [744][npc_zombie]"
+[Sun Apr 26 08:08:29 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:08:29 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [745][npc_zombie]"
+[Sun Apr 26 08:08:29 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:08:29 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [746][npc_zombie]"
+[Sun Apr 26 08:08:29 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:08:29 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [747][npc_zombie]"
+[Sun Apr 26 08:08:30 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:08:30 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [748][npc_zombie]"
+[Sun Apr 26 08:08:30 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:08:30 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [749][npc_zombie]"
+[Sun Apr 26 08:08:31 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:08:31 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [750][npc_zombie]"
+[Sun Apr 26 08:08:32 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:08:32 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [751][npc_zombie]"
+[Sun Apr 26 08:08:32 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:08:32 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [752][npc_zombie]"
+[Sun Apr 26 08:08:33 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:08:33 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [753][npc_zombie]"
+[Sun Apr 26 08:08:33 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:08:33 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [754][npc_zombie]"
+[Sun Apr 26 08:08:34 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:08:34 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [755][npc_zombie]"
+[Sun Apr 26 08:08:34 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:08:34 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [756][npc_zombie]"
+[Sun Apr 26 08:08:34 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:08:34 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [757][npc_zombie]"
+[Sun Apr 26 08:08:35 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:08:35 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [758][npc_zombie]"
+[Sun Apr 26 08:08:35 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:08:35 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [759][npc_zombie]"
+[Sun Apr 26 08:08:36 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:08:36 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [760][npc_zombie]"
+[Sun Apr 26 08:08:36 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:08:36 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [761][npc_zombie]"
+[Sun Apr 26 08:08:40 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [762][npc_vj_re5_em81_boss]"
+[Sun Apr 26 08:09:04 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:09:04 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [743][npc_zombie]"
+[Sun Apr 26 08:09:05 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:09:05 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [732][npc_zombie]"
+[Sun Apr 26 08:09:07 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:09:07 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [744][npc_zombie]"
+[Sun Apr 26 08:09:08 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:09:08 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [745][npc_zombie]"
+[Sun Apr 26 08:09:08 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:09:08 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [746][npc_zombie]"
+[Sun Apr 26 08:09:08 2026] Player "Po_rA1" <STEAM_0:0:887714123> is attempting to connect.
+[Sun Apr 26 08:09:09 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:09:09 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [747][npc_zombie]"
+[Sun Apr 26 08:09:09 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:09:09 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [748][npc_zombie]"
+[Sun Apr 26 08:09:10 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:09:10 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [749][npc_zombie]"
+[Sun Apr 26 08:09:10 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:09:10 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [750][npc_zombie]"
+[Sun Apr 26 08:09:11 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:09:11 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [751][npc_zombie]"
+[Sun Apr 26 08:09:11 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:09:11 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [752][npc_zombie]"
+[Sun Apr 26 08:09:12 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:09:12 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [753][npc_zombie]"
+[Sun Apr 26 08:09:12 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:09:12 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [754][npc_zombie]"
+[Sun Apr 26 08:09:13 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:09:13 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [755][npc_zombie]"
+[Sun Apr 26 08:09:13 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:09:13 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [756][npc_zombie]"
+[Sun Apr 26 08:09:14 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:09:14 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [757][npc_zombie]"
+[Sun Apr 26 08:09:14 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:09:14 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [758][npc_zombie]"
+[Sun Apr 26 08:09:14 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:09:14 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [759][npc_zombie]"
+[Sun Apr 26 08:09:15 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:09:15 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [760][npc_zombie]"
+[Sun Apr 26 08:09:15 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:09:15 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [761][npc_zombie]"
+[Sun Apr 26 08:09:16 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:09:16 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [762][npc_zombie]"
+[Sun Apr 26 08:09:16 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:09:16 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [763][npc_zombie]"
+[Sun Apr 26 08:09:16 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:09:16 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [764][npc_zombie]"
+[Sun Apr 26 08:09:17 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:09:17 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [765][npc_zombie]"
+[Sun Apr 26 08:09:18 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [766][npc_vj_re5_em82a]"
+[Sun Apr 26 08:09:48 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:09:48 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [728][npc_zombie]"
+[Sun Apr 26 08:09:49 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:09:49 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [732][npc_zombie]"
+[Sun Apr 26 08:09:49 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:09:49 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [743][npc_zombie]"
+[Sun Apr 26 08:09:50 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:09:50 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [744][npc_zombie]"
+[Sun Apr 26 08:09:50 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:09:50 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [745][npc_zombie]"
+[Sun Apr 26 08:09:55 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [746][npc_vj_re5_em84]"
+[Sun Apr 26 08:10:16 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:10:16 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [743][npc_zombie]"
+[Sun Apr 26 08:10:16 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:10:16 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [748][npc_zombie]"
+[Sun Apr 26 08:10:17 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:10:17 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [752][npc_zombie]"
+[Sun Apr 26 08:10:17 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:10:17 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [755][npc_zombie]"
+[Sun Apr 26 08:10:18 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Sun Apr 26 08:10:18 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [756][npc_zombie]"
+[Sun Apr 26 08:10:53 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [728][npc_vj_re5_em80b]"
+[Sun Apr 26 08:11:06 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [613][npc_citizen]"
+[Sun Apr 26 08:11:17 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [613][npc_citizen]"
+[Sun Apr 26 08:11:31 2026] Player "Po_rA1" <STEAM_0:0:887714123> has spawned in the server
+[Sun Apr 26 08:11:36 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [620][npc_metropolice]"
+[Sun Apr 26 08:12:50 2026] <STEAM_0:0:570454016> Beep spawned SENT "Entity [741][sw_uh60]"
+[Sun Apr 26 08:18:24 2026] <STEAM_0:0:570454016> Beep spawned SENT "Entity [741][sw_mi35m]"
+[Sun Apr 26 08:18:46 2026] Player "Billy" <STEAM_0:0:658545858> is attempting to connect.
+[Sun Apr 26 08:18:55 2026] worldspawn has killed Po_rA1.
+[Sun Apr 26 08:23:18 2026] <STEAM_0:0:887714123> Po_rA1: /ooc Нихуя
+[Sun Apr 26 08:23:25 2026] <STEAM_0:0:570454016> Beep: /ooc Сам в ахуе.
+[Sun Apr 26 08:23:33 2026] <STEAM_0:0:887714123> Po_rA1: /ooc Напиши в баги
+[Sun Apr 26 08:23:37 2026] <STEAM_0:0:887714123> Po_rA1: /ooc Напиши в баги
+[Sun Apr 26 08:23:39 2026] <STEAM_0:0:887714123> Po_rA1: /ooc Напиши в баги
+[Sun Apr 26 08:23:41 2026] <STEAM_0:0:887714123> Po_rA1: /ooc Напиши в баги
+[Sun Apr 26 08:23:42 2026] <STEAM_0:0:887714123> Po_rA1: /ooc Напиши в баги
+[Sun Apr 26 08:23:51 2026] <STEAM_0:0:570454016> Beep: /ooc Да я уже говорил Грэгу.
+[Sun Apr 26 08:23:53 2026] Player "гугу гага" <STEAM_0:0:795141540> is attempting to connect.
+[Sun Apr 26 08:24:06 2026] <STEAM_0:0:570454016> Beep: /ooc И он починил, кстати, но оно снова сломалось походу.
+[Sun Apr 26 08:24:14 2026] <STEAM_0:0:570454016> Beep: /ooc И он починил, кстати, но оно снова сломалось походу.
+[Sun Apr 26 08:24:16 2026] <STEAM_0:0:570454016> Beep: /ooc И он починил, кстати, но оно снова сломалось походу.
+[Sun Apr 26 08:24:31 2026] <STEAM_0:0:887714123> Po_rA1: /ooc А че вам апачи не дают? Ну или немецкий какойто
+[Sun Apr 26 08:25:02 2026] <STEAM_0:0:570454016> Beep: /ooc Вертолеты в целом еще не добавлены. Я через менюшку их спавню. Пока можно только транспортные, позже и апачи будут.
+[Sun Apr 26 08:25:13 2026] <STEAM_0:0:887714123> Po_rA1: /ooc Мед
+[Sun Apr 26 08:28:03 2026] <STEAM_0:0:570454016> Beep: /ooc Ладно, я понял, как он это починил.
+[Sun Apr 26 08:28:50 2026] <STEAM_0:0:570454016> Beep: /ooc Две роли с одинаковыми названиями, но одна баганная, а вторая нормальная.
+[Sun Apr 26 08:29:05 2026] Player "Beep" <STEAM_0:0:570454016> has left the server
+[Sun Apr 26 08:29:45 2026] <STEAM_0:0:887714123> Po_rA1: /ooc Поняд
+[Sun Apr 26 08:32:21 2026] <STEAM_0:0:887714123> Po_rA1: /ooc Можешь помочь?
+[Sun Apr 26 08:33:22 2026] Player "Po_rA1" <STEAM_0:0:887714123> has left the server
+[Sun Apr 26 09:04:01 2026] Player "Billy" <STEAM_0:0:658545858> has spawned in the server
+[Sun Apr 26 09:59:55 2026] Player "LoveQQ" <STEAM_0:0:564919729> is attempting to connect.
+[Sun Apr 26 10:12:06 2026] Player "EDDFEEWSRWEA" <STEAM_0:0:80496087> is attempting to connect.
+[Sun Apr 26 10:38:47 2026] Player "Sou1" <STEAM_0:1:618974024> is attempting to connect.
+[Sun Apr 26 10:40:12 2026] Player "Sou1" <STEAM_0:1:618974024> has spawned in the server
+[Sun Apr 26 10:40:38 2026] Player "Sou1" <STEAM_0:1:618974024> has left the server
+[Sun Apr 26 10:48:07 2026] Player "ni363078" <STEAM_0:1:395906538> is attempting to connect.
+[Sun Apr 26 11:10:46 2026] Player "david280911" <STEAM_0:1:839860057> is attempting to connect.
+[Sun Apr 26 11:11:29 2026] Player "david280911" <STEAM_0:1:839860057> has spawned in the server
+[Sun Apr 26 11:12:24 2026] <STEAM_0:1:839860057> david280911: /rf Борт 050, выполняю выезд с базы, конец связи.
+[Sun Apr 26 11:17:18 2026] <STEAM_0:1:839860057> david280911: /rf Борт 050, выполняю возращение на базу, конец связи.
+[Sun Apr 26 11:17:30 2026] Player "david280911" <STEAM_0:1:839860057> has left the server
+[Sun Apr 26 11:21:15 2026] Player "david280911" <STEAM_0:1:839860057> is attempting to connect.
+[Sun Apr 26 11:21:55 2026] Player "david280911" <STEAM_0:1:839860057> has spawned in the server
+[Sun Apr 26 11:22:18 2026] Player "david280911" <STEAM_0:1:839860057> has left the server
+[Sun Apr 26 11:43:27 2026] Player "david280911" <STEAM_0:1:839860057> is attempting to connect.
+[Sun Apr 26 11:53:19 2026] Player "david280911" <STEAM_0:1:839860057> is attempting to connect.
+[Sun Apr 26 11:54:26 2026] Player "david280911" <STEAM_0:1:839860057> has spawned in the server
+[Sun Apr 26 11:54:47 2026] Player "david280911" <STEAM_0:1:839860057> has left the server
+[Sun Apr 26 11:56:08 2026] Player "david280911" <STEAM_0:1:839860057> is attempting to connect.
+[Sun Apr 26 12:00:29 2026] Player "david280911" <STEAM_0:1:839860057> has spawned in the server
+[Sun Apr 26 12:01:45 2026] Player "david280911" <STEAM_0:1:839860057> has left the server
+[Sun Apr 26 13:03:40 2026] Player "david280911" <STEAM_0:1:839860057> is attempting to connect.
+[Sun Apr 26 13:04:22 2026] Player "david280911" <STEAM_0:1:839860057> has spawned in the server
+[Sun Apr 26 13:05:20 2026] Player "david280911" <STEAM_0:1:839860057> has left the server
+[Sun Apr 26 13:05:21 2026] Player "david280911" <STEAM_0:1:839860057> is attempting to connect.
+[Sun Apr 26 13:18:43 2026] Player "marina310824" <STEAM_0:1:902575649> is attempting to connect.
+[Sun Apr 26 13:32:07 2026] Player "m1617302200" <STEAM_0:1:401080057> is attempting to connect.
+[Sun Apr 26 13:37:27 2026] Player "david280911" <STEAM_0:1:839860057> is attempting to connect.
+[Sun Apr 26 13:38:08 2026] Player "david280911" <STEAM_0:1:839860057> has spawned in the server
+[Sun Apr 26 13:38:29 2026] Player "david280911" <STEAM_0:1:839860057> has left the server
+[Sun Apr 26 13:42:08 2026] Player "Discar" <STEAM_0:0:650470378> is attempting to connect.
+[Sun Apr 26 13:43:04 2026] Player "Discar" <STEAM_0:0:650470378> has spawned in the server
+[Sun Apr 26 13:46:29 2026] Player "Discar" <STEAM_0:0:650470378> has left the server
+[Sun Apr 26 13:47:13 2026] Player "david280911" <STEAM_0:1:839860057> is attempting to connect.
+[Sun Apr 26 13:47:19 2026] Player "david280911" <STEAM_0:1:839860057> is attempting to connect.
+[Sun Apr 26 13:48:02 2026] Player "david280911" <STEAM_0:1:839860057> has spawned in the server
+[Sun Apr 26 13:48:29 2026] Player "david280911" <STEAM_0:1:839860057> has left the server
+[Sun Apr 26 13:58:09 2026] Player "VIP MuBik 2" <STEAM_0:1:791918163> is attempting to connect.
+[Sun Apr 26 14:14:38 2026] Player "Discar" <STEAM_0:0:650470378> is attempting to connect.
+[Sun Apr 26 14:16:14 2026] Player "Discar" <STEAM_0:0:650470378> has spawned in the server
+[Sun Apr 26 14:17:12 2026] Player "мге браток" <STEAM_0:0:797268725> is attempting to connect.
+[Sun Apr 26 14:19:45 2026] Player "david280911" <STEAM_0:1:839860057> is attempting to connect.
+[Sun Apr 26 14:20:01 2026] Player "Youenn" <STEAM_0:1:78500307> is attempting to connect.
+[Sun Apr 26 14:20:26 2026] Player "david280911" <STEAM_0:1:839860057> has spawned in the server
+[Sun Apr 26 14:24:02 2026] Player "tohiro" <STEAM_0:0:99492375> is attempting to connect.
+[Sun Apr 26 14:25:02 2026] Player "tohiro" <STEAM_0:0:99492375> has spawned in the server
+[Sun Apr 26 14:25:15 2026] Player "Discar" <STEAM_0:0:650470378> has left the server
+[Sun Apr 26 14:25:55 2026] <STEAM_0:1:839860057> david280911: /rf Борт 050, выполняю выезд с базы, конец связи.
+[Sun Apr 26 14:26:31 2026] <STEAM_0:1:839860057> david280911: /rf !!Обозначить местоположение союзных сил!!
+[Sun Apr 26 14:29:23 2026] <STEAM_0:1:839860057> david280911: // я нашел авиацию которая у нас будет
+[Sun Apr 26 14:32:45 2026] <STEAM_0:1:839860057> david280911: // майор против бмпт
+[Sun Apr 26 14:33:01 2026] <STEAM_0:0:99492375> tohiro: // я же щас за рпг поеду XD
+[Sun Apr 26 14:33:23 2026] <STEAM_0:1:839860057> david280911: // рпг сносит бмпт за 3-4 выстрела
+[Sun Apr 26 14:33:43 2026] <STEAM_0:1:839860057> david280911: // я могу взять т 90м
+[Sun Apr 26 14:34:06 2026] Player "POLOVNIK" <STEAM_0:1:408311483> is attempting to connect.
+[Sun Apr 26 14:35:16 2026] <STEAM_0:1:839860057> david280911: // а у вас же at 4?
+[Sun Apr 26 14:35:31 2026] <STEAM_0:0:99492375> tohiro: // а вот все вам расскажи)
+[Sun Apr 26 14:35:55 2026] <STEAM_0:1:839860057> david280911: // ну он же одноразавый
+[Sun Apr 26 14:36:37 2026] <STEAM_0:1:839860057> david280911: // ты тогда бери лучше джавелин если есть
+[Sun Apr 26 14:45:18 2026] <STEAM_0:0:99492375> tohiro: // я всегда на шаг быстре ахах
+[Sun Apr 26 14:45:30 2026] <STEAM_0:1:839860057> david280911: // а я всегда сильнее
+[Sun Apr 26 14:45:34 2026] <STEAM_0:0:99492375> tohiro: почти
+[Sun Apr 26 14:45:37 2026] <STEAM_0:0:99492375> tohiro: // почти
+[Sun Apr 26 14:45:49 2026] <STEAM_0:0:99492375> tohiro: // почти
+[Sun Apr 26 14:46:52 2026] Player "Casebook" <STEAM_0:0:585468466> is attempting to connect.
+[Sun Apr 26 14:47:25 2026] <STEAM_0:1:839860057> david280911: /rf Борт 050, выполняю возращение на базу, конец связи.
+[Sun Apr 26 14:49:00 2026] Player "Casebook" <STEAM_0:0:585468466> has spawned in the server
+[Sun Apr 26 14:49:04 2026] <STEAM_0:1:839860057> david280911: // я понял бмпт на тигр
+[Sun Apr 26 14:49:08 2026] <STEAM_0:0:99492375> tohiro: // ахаха, напугался?)
+[Sun Apr 26 14:49:22 2026] <STEAM_0:0:99492375> tohiro: // а тигр, мне показалось танк, тогда по мужски
+[Sun Apr 26 14:49:23 2026] <STEAM_0:1:839860057> david280911: // давай встретимся
+[Sun Apr 26 14:49:34 2026] <STEAM_0:0:99492375> tohiro: // а тигр, мне показалось танк, тогда по мужски
+[Sun Apr 26 14:49:39 2026] <STEAM_0:1:839860057> david280911: // нет давай встретимся?
+[Sun Apr 26 14:49:40 2026] <STEAM_0:0:99492375> tohiro: // а тигр, мне показалось танк, тогда по мужски
+[Sun Apr 26 14:49:58 2026] <STEAM_0:1:839860057> david280911: // немецкий тигр  у меня
+[Sun Apr 26 14:50:13 2026] <STEAM_0:0:585468466> Casebook: /ooc Понятно
+[Sun Apr 26 14:50:15 2026] <STEAM_0:1:839860057> david280911: // у меня немецкий тигр
+[Sun Apr 26 14:50:51 2026] Player "david280911" <STEAM_0:1:839860057> has left the server
+[Sun Apr 26 14:51:51 2026] Player "Casebook" <STEAM_0:0:585468466> has left the server
+[Sun Apr 26 14:52:28 2026] Player "POLOVNIK" <STEAM_0:1:408311483> has spawned in the server
+[Sun Apr 26 14:53:34 2026] Player "tohiro" <STEAM_0:0:99492375> has left the server
+[Sun Apr 26 15:08:13 2026] Player "POLOVNIK" <STEAM_0:1:408311483> has left the server
+[Sun Apr 26 15:10:27 2026] Player "Дегустатор пива" <STEAM_0:1:862887967> is attempting to connect.
+[Sun Apr 26 15:11:58 2026] Player "Дегустатор пива" <STEAM_0:1:862887967> has spawned in the server
+[Sun Apr 26 15:23:39 2026] Player "Дегустатор пива" <STEAM_0:1:862887967> has left the server
+[Sun Apr 26 16:00:22 2026] Player "Po_rA1" <STEAM_0:0:887714123> is attempting to connect.
+[Sun Apr 26 16:01:02 2026] Player "david280911" <STEAM_0:1:839860057> is attempting to connect.
+[Sun Apr 26 16:02:03 2026] Player "david280911" <STEAM_0:1:839860057> is attempting to connect.
+[Sun Apr 26 16:02:23 2026] Player "Po_rA1" <STEAM_0:0:887714123> is attempting to connect.
+[Sun Apr 26 16:02:42 2026] Player "доярка 2 разряд" <STEAM_0:1:645032389> is attempting to connect.
+[Sun Apr 26 16:02:52 2026] Player "david280911" <STEAM_0:1:839860057> has spawned in the server
+[Sun Apr 26 16:03:25 2026] Player "david280911" <STEAM_0:1:839860057> has left the server
+[Sun Apr 26 16:03:46 2026] Player "Po_rA1" <STEAM_0:0:887714123> has spawned in the server
+[Sun Apr 26 16:05:12 2026] Player "Discar" <STEAM_0:0:650470378> is attempting to connect.
+[Sun Apr 26 16:06:19 2026] Player "Discar" <STEAM_0:0:650470378> has spawned in the server
+[Sun Apr 26 16:07:27 2026] <STEAM_0:0:650470378> Discar: /ooc грейвс тебя переводить?
+[Sun Apr 26 16:11:40 2026] <STEAM_0:0:650470378> Discar: /rf колесников заходи
+[Sun Apr 26 16:29:26 2026] Discar has killed Po_rA1.
+[Sun Apr 26 16:30:14 2026] Player "FILGANG" <STEAM_0:1:562757342> is attempting to connect.
+[Sun Apr 26 16:30:56 2026] Player "Id.Ivan" <STEAM_0:0:934284639> is attempting to connect.
+[Sun Apr 26 16:36:06 2026] Discar has killed Po_rA1.
+[Sun Apr 26 16:37:11 2026] Discar has killed Discar.
+[Sun Apr 26 16:37:34 2026] Player "Sky313" <STEAM_0:1:926371524> is attempting to connect.
+[Sun Apr 26 16:38:57 2026] Discar has killed Po_rA1.
+[Sun Apr 26 16:38:57 2026] Discar has killed Discar.
+[Sun Apr 26 16:39:33 2026] Player "Po_rA1" <STEAM_0:0:887714123> has left the server
+[Sun Apr 26 16:41:04 2026] Player "Id.Ivan" <STEAM_0:0:934284639> has spawned in the server
+[Sun Apr 26 16:42:00 2026] Player "david280911" <STEAM_0:1:839860057> is attempting to connect.
+[Sun Apr 26 16:43:02 2026] Player "Id.Ivan" <STEAM_0:0:934284639> has left the server
+[Sun Apr 26 16:43:17 2026] Player "david280911" <STEAM_0:1:839860057> has spawned in the server
+[Sun Apr 26 16:45:57 2026] Player "Discar" <STEAM_0:0:650470378> has left the server
+[Sun Apr 26 16:54:30 2026] Player "david280911" <STEAM_0:1:839860057> has left the server
+[Sun Apr 26 17:15:10 2026] Player "david280911" <STEAM_0:1:839860057> is attempting to connect.
+[Sun Apr 26 17:16:26 2026] Player "david280911" <STEAM_0:1:839860057> has spawned in the server
+[Sun Apr 26 17:16:57 2026] Player "david280911" <STEAM_0:1:839860057> has left the server
+[Sun Apr 26 17:18:27 2026] Player "Discar" <STEAM_0:0:650470378> is attempting to connect.
+[Sun Apr 26 17:19:29 2026] Player "Discar" <STEAM_0:0:650470378> has spawned in the server
+[Sun Apr 26 17:40:16 2026] Player "david280911" <STEAM_0:1:839860057> is attempting to connect.
+[Sun Apr 26 17:41:07 2026] Player "david280911" <STEAM_0:1:839860057> has spawned in the server
+[Sun Apr 26 17:41:51 2026] Player "david280911" <STEAM_0:1:839860057> has left the server
+[Sun Apr 26 17:44:05 2026] Player "Discar" <STEAM_0:0:650470378> has left the server
+[Sun Apr 26 17:46:10 2026] Player "35 | ВАСИЛЬЕВ" <STEAM_0:0:448946825> is attempting to connect.
+[Sun Apr 26 18:11:49 2026] Player "Я Назарчик" <STEAM_0:1:935240552> is attempting to connect.
+[Sun Apr 26 18:11:52 2026] Player "黑帮" <STEAM_0:0:847274945> is attempting to connect.
+[Sun Apr 26 18:27:34 2026] Player "黑帮" <STEAM_0:0:847274945> is attempting to connect.
+[Sun Apr 26 18:27:57 2026] Player "Я Назарчик" <STEAM_0:1:935240552> has spawned in the server
+[Sun Apr 26 18:28:25 2026] Player "david280911" <STEAM_0:1:839860057> is attempting to connect.
+[Sun Apr 26 18:29:11 2026] Player "david280911" <STEAM_0:1:839860057> has spawned in the server
+[Sun Apr 26 18:34:03 2026] <STEAM_0:1:839860057> david280911: иди за мной
+[Sun Apr 26 18:34:32 2026] <STEAM_0:1:839860057> david280911: сюда встаешь и на f9 и стреляешь по мешеням
+[Sun Apr 26 18:35:17 2026] <STEAM_0:1:839860057> david280911: с кем не бывает
+[Sun Apr 26 18:35:34 2026] <STEAM_0:1:839860057> david280911: нет
+[Sun Apr 26 18:35:57 2026] <STEAM_0:1:839860057> david280911: пошли
+[Sun Apr 26 18:36:05 2026] <STEAM_0:1:839860057> david280911: бери на е
+[Sun Apr 26 18:36:15 2026] <STEAM_0:1:839860057> david280911: о
+[Sun Apr 26 18:36:19 2026] <STEAM_0:1:839860057> david280911: за мной
+[Sun Apr 26 18:36:31 2026] <STEAM_0:1:839860057> david280911: пока не как
+[Sun Apr 26 18:36:49 2026] <STEAM_0:1:839860057> david280911: поздравляю
+[Sun Apr 26 18:36:58 2026] <STEAM_0:1:839860057> david280911: ты теперь солдат
+[Sun Apr 26 18:37:00 2026] <STEAM_0:1:839860057> david280911: да
+[Sun Apr 26 18:37:06 2026] <STEAM_0:1:839860057> david280911: но оружие надо взять
+[Sun Apr 26 18:37:09 2026] <STEAM_0:1:839860057> david280911: и одежду
+[Sun Apr 26 18:37:26 2026] <STEAM_0:1:839860057> david280911: да
+[Sun Apr 26 18:37:51 2026] <STEAM_0:1:839860057> david280911: звание
+[Sun Apr 26 18:37:56 2026] <STEAM_0:1:839860057> david280911: не
+[Sun Apr 26 18:38:02 2026] <STEAM_0:1:839860057> david280911: стандарт нужно
+[Sun Apr 26 18:38:11 2026] <STEAM_0:1:839860057> david280911: да
+[Sun Apr 26 18:38:22 2026] <STEAM_0:1:839860057> david280911: и броню
+[Sun Apr 26 18:38:29 2026] Player "黑帮" <STEAM_0:0:847274945> has spawned in the server
+[Sun Apr 26 18:38:46 2026] <STEAM_0:1:839860057> david280911: ща
+[Sun Apr 26 18:39:13 2026] <STEAM_0:1:839860057> david280911: пофиг
+[Sun Apr 26 18:39:22 2026] <STEAM_0:1:839860057> david280911: да
+[Sun Apr 26 18:39:32 2026] <STEAM_0:1:839860057> david280911: даже если не сдаст
+[Sun Apr 26 18:39:40 2026] <STEAM_0:1:839860057> david280911: только не говори не ком
+[Sun Apr 26 18:40:07 2026] <STEAM_0:1:839860057> david280911: я ему проведу инструктаж
+[Sun Apr 26 18:40:11 2026] <STEAM_0:1:839860057> david280911: дс есть?
+[Sun Apr 26 18:40:29 2026] <STEAM_0:1:839860057> david280911: он за нато
+[Sun Apr 26 18:44:48 2026] Player "Billy" <STEAM_0:0:658545858> has left the server
+[Sun Apr 26 18:47:20 2026] <STEAM_0:1:839860057> david280911: нужно сделать скриншот как он в плену и все
+[Sun Apr 26 18:47:36 2026] <STEAM_0:1:839860057> david280911: ну тоже самое
+[Sun Apr 26 18:47:46 2026] <STEAM_0:1:839860057> david280911: да
+[Sun Apr 26 18:47:58 2026] <STEAM_0:1:839860057> david280911: тебе пока не как
+[Sun Apr 26 18:48:09 2026] <STEAM_0:1:839860057> david280911: там наручники дают
+[Sun Apr 26 18:48:12 2026] <STEAM_0:1:839860057> david280911: да
+[Sun Apr 26 18:48:19 2026] <STEAM_0:1:839860057> david280911: захват боеприпасов точек
+[Sun Apr 26 18:49:15 2026] <STEAM_0:1:839860057> david280911: едь в город
+[Sun Apr 26 18:49:23 2026] <STEAM_0:1:839860057> david280911: да
+[Sun Apr 26 18:49:32 2026] <STEAM_0:1:839860057> david280911: и на поворот
+[Sun Apr 26 18:49:48 2026] <STEAM_0:1:839860057> david280911: прямо
+[Sun Apr 26 18:50:42 2026] <STEAM_0:1:839860057> david280911: боеприпасы можно найти на точках и отыграть нужно
+[Sun Apr 26 18:50:52 2026] <STEAM_0:1:839860057> david280911: они не спавнятся
+[Sun Apr 26 18:51:11 2026] <STEAM_0:1:839860057> david280911: ща на базу поедем
+[Sun Apr 26 18:51:25 2026] <STEAM_0:1:839860057> david280911: ща на базу поедем покажу технику
+[Sun Apr 26 18:51:29 2026] <STEAM_0:1:839860057> david280911: пересядь
+[Sun Apr 26 18:53:12 2026] <STEAM_0:1:839860057> david280911: запомни мотострелки это мясо
+[Sun Apr 26 18:57:14 2026] Player "Discar" <STEAM_0:0:650470378> is attempting to connect.
+[Sun Apr 26 18:58:54 2026] Player "Discar" <STEAM_0:0:650470378> has spawned in the server
+[Sun Apr 26 18:59:20 2026] <STEAM_0:1:839860057> david280911: и нажимаешь на себя
+[Sun Apr 26 18:59:30 2026] <STEAM_0:1:839860057> david280911: там и стим айди
+[Sun Apr 26 19:00:08 2026] <STEAM_0:1:839860057> david280911: // афк
+[Sun Apr 26 19:00:27 2026] <STEAM_0:1:935240552> Я Назарчик: :100:
+[Sun Apr 26 19:01:44 2026] <STEAM_0:1:839860057> david280911: так гусев че ты сделал
+[Sun Apr 26 19:01:56 2026] <STEAM_0:1:839860057> david280911: гусев нельзя
+[Sun Apr 26 19:02:01 2026] <STEAM_0:1:839860057> david280911: стрелять
+[Sun Apr 26 19:02:14 2026] <STEAM_0:1:839860057> david280911: тратишь патроны просто так
+[Sun Apr 26 19:02:52 2026] <STEAM_0:1:839860057> david280911: товарищ лейтенант у вас все хорошо?
+[Sun Apr 26 19:04:08 2026] <STEAM_0:1:839860057> david280911: /me быстрым движением начал бежать на лейтенанта
+[Sun Apr 26 19:04:24 2026] Player "Нагибатор30000000" <STEAM_0:0:954879349> is attempting to connect.
+[Sun Apr 26 19:04:39 2026] <STEAM_0:1:935240552> Я Назарчик: /bind
+[Sun Apr 26 19:04:51 2026] <STEAM_0:1:839860057> david280911: товарищ лейтенант вы сума сошли?
+[Sun Apr 26 19:05:02 2026] <STEAM_0:1:839860057> david280911: вы долбанули с рпг по нашему зданию
+[Sun Apr 26 19:05:12 2026] Player "Нагибатор30000000" <STEAM_0:0:954879349> has spawned in the server
+[Sun Apr 26 19:05:23 2026] <STEAM_0:1:839860057> david280911: // АААЗАХАХХАХАХАХАХ
+[Sun Apr 26 19:06:29 2026] Я Назарчик has killed Discar.
+[Sun Apr 26 19:07:24 2026] Discar has killed Я Назарчик.
+[Sun Apr 26 19:07:38 2026] Discar has killed Я Назарчик.
+[Sun Apr 26 19:07:38 2026] Discar has killed Discar.
+[Sun Apr 26 19:09:21 2026] Я Назарчик has killed Discar.
+[Sun Apr 26 19:09:22 2026] Discar has killed Discar.
+[Sun Apr 26 19:09:30 2026] Я Назарчик has killed Discar.
+[Sun Apr 26 19:09:31 2026] david280911 has killed Я Назарчик.
+[Sun Apr 26 19:10:01 2026] <STEAM_0:0:650470378> Discar: /ooc гусев топи пида
+[Sun Apr 26 19:10:17 2026] <STEAM_0:1:839860057> david280911: // успокойся дискаров
+[Sun Apr 26 19:11:42 2026] david280911 has killed Я Назарчик.
+[Sun Apr 26 19:11:43 2026] Я Назарчик has killed Я Назарчик.
+[Sun Apr 26 19:11:59 2026] Player "Я Назарчик" <STEAM_0:1:935240552> has left the server
+[Sun Apr 26 19:12:33 2026] Player "Мраз" <STEAM_0:0:642089283> is attempting to connect.
+[Sun Apr 26 19:12:42 2026] <STEAM_0:1:839860057> david280911: успокойтесь
+[Sun Apr 26 19:12:59 2026] <STEAM_0:1:839860057> david280911: вышел гусеев
+[Sun Apr 26 19:13:36 2026] Player "Discar" <STEAM_0:0:650470378> has left the server
+[Sun Apr 26 19:13:55 2026] Player "Po_rA1" <STEAM_0:0:887714123> is attempting to connect.
+[Sun Apr 26 19:14:58 2026] Player "Мраз" <STEAM_0:0:642089283> has spawned in the server
+[Sun Apr 26 19:15:05 2026] <STEAM_0:1:839860057> david280911: // ЭТО ПИЗДЕЦ
+[Sun Apr 26 19:15:22 2026] <STEAM_0:1:839860057> david280911: // ТЫ ВИДЕЛ ЧТО ТУТ ДИСКАРОВ И ГУСЕЕВ УСТРОИЛИ
+[Sun Apr 26 19:15:38 2026] Player "Po_rA1" <STEAM_0:0:887714123> has spawned in the server
+[Sun Apr 26 19:15:51 2026] <STEAM_0:1:839860057> david280911: // ТЫ ВИДЕЛ ЧТО ЗА ПИЗДЕЦ УСТРОИЛИ ГУСЕЕВ И ДИСАРОВ
+[Sun Apr 26 19:16:03 2026] <STEAM_0:1:839860057> david280911: // дискаров*
+[Sun Apr 26 19:16:28 2026] <STEAM_0:1:839860057> david280911: сука тут гусеев и дискаров устроили мяса
+[Sun Apr 26 19:16:46 2026] <STEAM_0:1:839860057> david280911: дискаров по гусееву хуячил с рпг
+[Sun Apr 26 19:16:54 2026] <STEAM_0:1:839860057> david280911: гусеев гранатой по дискарову
+[Sun Apr 26 19:18:01 2026] <STEAM_0:0:642089283> Мраз spawned SENT "Entity [621][sw_mi24v]"
+[Sun Apr 26 19:18:30 2026] <STEAM_0:0:642089283> Мраз spawned SENT "Entity [522][sw_mi24v]"
+[Sun Apr 26 19:19:13 2026] <STEAM_0:1:839860057> david280911: ми 8 надо было взять
+[Sun Apr 26 19:19:32 2026] <STEAM_0:1:839860057> david280911: есть же
+[Sun Apr 26 19:20:02 2026] <STEAM_0:1:839860057> david280911: я крутой пилот если что
+[Sun Apr 26 19:20:58 2026] <STEAM_0:0:642089283> Мраз spawned SENT "Entity [522][sw_ah1e]"
+[Sun Apr 26 19:21:01 2026] <STEAM_0:0:642089283> Мраз spawned SENT "Entity [522][sw_uh60]"
+[Sun Apr 26 19:21:09 2026] <STEAM_0:0:642089283> Мраз spawned SENT "Entity [522][sw_uh60]"
+[Sun Apr 26 19:21:10 2026] <STEAM_0:0:642089283> Мраз spawned SENT "Entity [789][sw_uh60j]"
+[Sun Apr 26 19:22:03 2026] <STEAM_0:0:642089283> Мраз spawned SENT "Entity [622][sw_uh60]"
+[Sun Apr 26 19:22:23 2026] <STEAM_0:0:642089283> Мраз spawned SENT "Entity [622][sw_kamaz5350_2b26]"
+[Sun Apr 26 19:23:12 2026] <STEAM_0:0:642089283> Мраз spawned SENT "Entity [622][sw_mi24v]"
+[Sun Apr 26 19:25:00 2026] <STEAM_0:1:839860057> david280911: я хз
+[Sun Apr 26 19:25:11 2026] <STEAM_0:1:839860057> david280911: у меня резко вертушка перевернулась
+[Sun Apr 26 19:25:20 2026] <STEAM_0:0:642089283> Мраз spawned SENT "Entity [622][sw_leo2a4]"
+[Sun Apr 26 19:25:22 2026] <STEAM_0:0:642089283> Мраз spawned SENT "Entity [844][sw_leo2a6m]"
+[Sun Apr 26 19:26:22 2026] <STEAM_0:1:839860057> david280911: а что есть еще из авиации не считая ми 24 и 60
+[Sun Apr 26 19:26:36 2026] <STEAM_0:0:642089283> Мраз spawned SENT "Entity [622][lvs_wheeldrive_hummer_m134]"
+[Sun Apr 26 19:26:49 2026] <STEAM_0:0:642089283> Мраз spawned SENT "Entity [622][lvs_wheeldrive_hummer]"
+[Sun Apr 26 19:27:02 2026] <STEAM_0:0:642089283> Мраз spawned SENT "Entity [622][lvs_wheeldrive_hummer_m2]"
+[Sun Apr 26 19:27:10 2026] <STEAM_0:0:642089283> Мраз spawned SENT "Entity [622][sw_hemtt_cargo]"
+[Sun Apr 26 19:27:27 2026] <STEAM_0:0:642089283> Мраз spawned SENT "Entity [622][sw_hemtt_fuel]"
+[Sun Apr 26 19:27:32 2026] <STEAM_0:0:642089283> Мраз spawned SENT "Entity [622][sw_hemtt_troop]"
+[Sun Apr 26 19:27:37 2026] <STEAM_0:1:839860057> david280911: а покажи еще авиацию
+[Sun Apr 26 19:27:42 2026] <STEAM_0:0:642089283> Мраз spawned SENT "Entity [622][sw_kurganets_b15]"
+[Sun Apr 26 19:27:51 2026] <STEAM_0:0:642089283> Мраз spawned SENT "Entity [622][sw_kurganets_b15]"
+[Sun Apr 26 19:27:52 2026] <STEAM_0:0:642089283> Мраз spawned SENT "Entity [831][sw_kurganets_b11]"
+[Sun Apr 26 19:28:09 2026] <STEAM_0:1:839860057> david280911: очень на т 15 похоже
+[Sun Apr 26 19:28:50 2026] <STEAM_0:0:642089283> Мраз spawned SENT "Entity [622][sw_kurganets_b10]"
+[Sun Apr 26 19:29:13 2026] <STEAM_0:0:642089283> Мраз spawned SENT "Entity [622][sw_eitan]"
+[Sun Apr 26 19:29:18 2026] <STEAM_0:1:839860057> david280911: покажи еще авиацию плис
+[Sun Apr 26 19:30:05 2026] <STEAM_0:0:642089283> Мраз spawned SENT "Entity [622][sw_bmpt72]"
+[Sun Apr 26 19:30:21 2026] <STEAM_0:0:642089283> Мраз spawned SENT "Entity [828][lvs_wheeldrive_rp_t90m]"
+[Sun Apr 26 19:31:15 2026] <STEAM_0:0:642089283> Мраз spawned SENT "Entity [828][sw_t90m_arena]"
+[Sun Apr 26 19:32:12 2026] <STEAM_0:1:839860057> david280911: // ей пофиг
+[Sun Apr 26 19:32:17 2026] <STEAM_0:1:839860057> david280911: // а ну ка
+[Sun Apr 26 19:32:44 2026] <STEAM_0:1:839860057> david280911: // я стрельну?
+[Sun Apr 26 19:33:16 2026] <STEAM_0:0:642089283> Мраз spawned SENT "Entity [622][sw_leo2a6m]"
+[Sun Apr 26 19:33:21 2026] <STEAM_0:0:642089283> Мраз spawned SENT "Entity [853][sw_bmpt72]"
+[Sun Apr 26 19:34:09 2026] <STEAM_0:0:642089283> Мраз ran command "goto Колесников"
+[Sun Apr 26 19:35:13 2026] <STEAM_0:0:642089283> Мраз spawned SENT "Entity [522][sw_bmpt72]"
+[Sun Apr 26 19:35:17 2026] <STEAM_0:0:642089283> Мраз spawned SENT "Entity [823][sw_leo2a6m]"
+[Sun Apr 26 19:35:21 2026] Player "Discar" <STEAM_0:0:650470378> is attempting to connect.
+[Sun Apr 26 19:36:11 2026] <STEAM_0:0:642089283> Мраз spawned SENT "Entity [522][sw_t90m]"
+[Sun Apr 26 19:36:13 2026] <STEAM_0:0:642089283> Мраз spawned SENT "Entity [829][lvs_wheeldrive_nonrp_t90m]"
+[Sun Apr 26 19:36:14 2026] <STEAM_0:0:642089283> Мраз spawned SENT "Entity [912][sw_t90m_arena]"
+[Sun Apr 26 19:36:16 2026] <STEAM_0:0:642089283> Мраз spawned SENT "Entity [992][sw_t90m_arena]"
+[Sun Apr 26 19:36:19 2026] <STEAM_0:0:642089283> Мраз spawned SENT "Entity [522][sw_t90m]"
+[Sun Apr 26 19:36:20 2026] <STEAM_0:0:642089283> Мраз spawned SENT "Entity [831][lvs_wheeldrive_nonrp_t90m]"
+[Sun Apr 26 19:36:22 2026] <STEAM_0:0:642089283> Мраз spawned SENT "Entity [916][sw_t90m_arena]"
+[Sun Apr 26 19:37:07 2026] <STEAM_0:0:642089283> Мраз spawned SENT "Entity [916][lvs_wheeldrive_nonrp_t90m]"
+[Sun Apr 26 19:37:09 2026] <STEAM_0:0:642089283> Мраз spawned SENT "Entity [995][sw_t90m_arena]"
+[Sun Apr 26 19:37:14 2026] <STEAM_0:0:642089283> Мраз used tool "remover"
+[Sun Apr 26 19:37:15 2026] <STEAM_0:0:642089283> Мраз used tool "remover"
+[Sun Apr 26 19:37:15 2026] <STEAM_0:0:642089283> Мраз used tool "remover"
+[Sun Apr 26 19:37:15 2026] <STEAM_0:0:642089283> Мраз used tool "remover"
+[Sun Apr 26 19:37:15 2026] <STEAM_0:0:642089283> Мраз used tool "remover"
+[Sun Apr 26 19:37:16 2026] <STEAM_0:0:642089283> Мраз used tool "remover"
+[Sun Apr 26 19:37:16 2026] <STEAM_0:0:642089283> Мраз used tool "remover"
+[Sun Apr 26 19:37:16 2026] <STEAM_0:0:642089283> Мраз used tool "remover"
+[Sun Apr 26 19:37:33 2026] <STEAM_0:1:839860057> david280911: // афк
+[Sun Apr 26 19:37:45 2026] <STEAM_0:0:642089283> Мраз ran command "respawn Виноградов"
+[Sun Apr 26 19:38:26 2026] <STEAM_0:0:642089283> Мраз spawned SENT "Entity [622][lvs_wheeldrive_nonrp_t90m]"
+[Sun Apr 26 19:38:29 2026] <STEAM_0:0:642089283> Мраз spawned SENT "Entity [830][sw_bmpt72]"
+[Sun Apr 26 19:40:06 2026] <STEAM_0:0:642089283> Мраз spawned SENT "Entity [622][sw_bmp3]"
+[Sun Apr 26 19:40:08 2026] <STEAM_0:0:642089283> Мраз spawned SENT "Entity [831][sw_bmp2m]"
+[Sun Apr 26 19:40:10 2026] <STEAM_0:0:642089283> Мраз spawned SENT "Entity [903][sw_bmp3m]"
+[Sun Apr 26 19:40:12 2026] <STEAM_0:0:642089283> Мраз spawned SENT "Entity [986][sw_bmp2]"
+[Sun Apr 26 19:40:14 2026] <STEAM_0:0:642089283> Мраз spawned SENT "Entity [1056][sw_bmp1p]"
+[Sun Apr 26 19:40:16 2026] <STEAM_0:0:642089283> Мраз spawned SENT "Entity [1123][sw_bmp1m]"
+[Sun Apr 26 19:40:17 2026] <STEAM_0:0:642089283> Мраз spawned SENT "Entity [1193][sw_bmp1am]"
+[Sun Apr 26 19:40:19 2026] <STEAM_0:0:642089283> Мраз spawned SENT "Entity [1260][sw_bmp1]"
+[Sun Apr 26 19:40:45 2026] <STEAM_0:0:642089283> Мраз spawned SENT "Entity [622][sw_bmp1am]"
+[Sun Apr 26 19:40:47 2026] <STEAM_0:0:642089283> Мраз spawned SENT "Entity [820][sw_bmp1m]"
+[Sun Apr 26 19:40:49 2026] <STEAM_0:0:642089283> Мраз spawned SENT "Entity [893][sw_bmp1p]"
+[Sun Apr 26 19:42:22 2026] Player "Discar" <STEAM_0:0:650470378> has spawned in the server
+[Sun Apr 26 19:42:27 2026] <STEAM_0:0:642089283> Мраз spawned SENT "Entity [622][lvs_wheeldrive_m3a3]"
+[Sun Apr 26 19:43:41 2026] <STEAM_0:0:642089283> Мраз spawned SENT "Entity [622][sw_puma]"
+[Sun Apr 26 19:43:49 2026] Player "黑帮" <STEAM_0:0:847274945> has left the server
+[Sun Apr 26 19:45:14 2026] <STEAM_0:0:642089283> Мраз spawned SENT "Entity [742][sw_t90m_arena]"
+[Sun Apr 26 19:45:19 2026] <STEAM_0:0:642089283> Мраз spawned SENT "Entity [742][sw_bmp3]"
+[Sun Apr 26 19:47:34 2026] <STEAM_0:0:642089283> Мраз spawned SENT "Entity [622][sw_mi24v]"
+[Sun Apr 26 19:47:40 2026] <STEAM_0:0:642089283> Мраз spawned SENT "Entity [624][sw_puma]"
+[Sun Apr 26 19:48:54 2026] <STEAM_0:0:642089283> Мраз spawned SENT "Entity [622][sw_bmp3]"
+[Sun Apr 26 19:48:59 2026] <STEAM_0:0:642089283> Мраз spawned SENT "Entity [831][sw_puma]"
+[Sun Apr 26 19:49:26 2026] <STEAM_0:0:642089283> Мраз spawned SENT "Entity [622][sw_puma]"
+[Sun Apr 26 19:49:30 2026] Player "Discar" <STEAM_0:0:650470378> has left the server
+[Sun Apr 26 19:49:33 2026] <STEAM_0:0:642089283> Мраз spawned SENT "Entity [622][sw_puma]"
+[Sun Apr 26 19:49:41 2026] <STEAM_0:0:642089283> Мраз spawned SENT "Entity [824][sw_bmp3]"
+[Sun Apr 26 19:50:06 2026] <STEAM_0:0:642089283> Мраз ran command "hp Смирнов 100000"
+[Sun Apr 26 19:50:40 2026] <STEAM_0:0:642089283> Мраз spawned SENT "Entity [824][sw_bmp3]"
+[Sun Apr 26 19:51:52 2026] Player "-Twisty- -P" <STEAM_0:1:508128848> is attempting to connect.
+[Sun Apr 26 19:52:00 2026] <STEAM_0:0:642089283> Мраз spawned SENT "Entity [622][sw_puma]"
+[Sun Apr 26 19:52:05 2026] <STEAM_0:0:642089283> Мраз spawned SENT "Entity [622][sw_bmp2m]"
+[Sun Apr 26 19:52:07 2026] <STEAM_0:0:642089283> Мраз spawned SENT "Entity [819][sw_puma]"
+[Sun Apr 26 19:52:10 2026] Player "-Twisty- -P" <STEAM_0:1:508128848> is attempting to connect.
+[Sun Apr 26 19:53:17 2026] Player "tohiro" <STEAM_0:0:99492375> is attempting to connect.
+[Sun Apr 26 19:54:59 2026] Player "Maxsus_Maxsim4404" <STEAM_0:0:829898953> is attempting to connect.
+[Sun Apr 26 19:56:08 2026] <STEAM_0:0:642089283> Мраз used tool "creator"
+[Sun Apr 26 19:56:09 2026] <STEAM_0:0:642089283> Мраз used tool "creator"
+[Sun Apr 26 19:56:09 2026] <STEAM_0:0:642089283> Мраз spawned SWEP "Weapon [767][tfa_at_ak_15]"
+[Sun Apr 26 19:57:48 2026] <STEAM_0:0:642089283> Мраз used tool "creator"
+[Sun Apr 26 19:57:48 2026] <STEAM_0:0:642089283> Мраз spawned SWEP "Weapon [776][tfa_inss_asval]"
+[Sun Apr 26 19:57:50 2026] <STEAM_0:0:642089283> Мраз used tool "creator"
+[Sun Apr 26 19:57:50 2026] <STEAM_0:0:642089283> Мраз spawned SWEP "Weapon [777][tfa_inss_asval]"
+[Sun Apr 26 19:58:50 2026] <STEAM_0:0:642089283> Мраз ran command "goto Колесников"
+[Sun Apr 26 19:59:45 2026] <STEAM_0:0:642089283> Мраз used tool "creator"
+[Sun Apr 26 19:59:45 2026] <STEAM_0:0:642089283> Мраз spawned SWEP "Weapon [768][tfa_m4tech]"
+[Sun Apr 26 20:00:46 2026] Player "Discar" <STEAM_0:0:650470378> is attempting to connect.
+[Sun Apr 26 20:00:57 2026] <STEAM_0:0:954879349> Нагибатор30000000: ку всем
+[Sun Apr 26 20:02:04 2026] Player "Discar" <STEAM_0:0:650470378> has spawned in the server
+[Sun Apr 26 20:02:07 2026] <STEAM_0:0:954879349> Нагибатор30000000: повторите я не услышал
+[Sun Apr 26 20:02:29 2026] <STEAM_0:1:839860057> david280911: ты как военной полицией стал туда же вроде только с сержанта берут
+[Sun Apr 26 20:03:16 2026] Player "мандарин |citrus" <STEAM_0:0:628640483> is attempting to connect.
+[Sun Apr 26 20:03:45 2026] <STEAM_0:0:642089283> Мраз used tool "creator"
+[Sun Apr 26 20:03:45 2026] <STEAM_0:0:642089283> Мраз spawned SWEP "Weapon [903][tfa_ins2_ak103]"
+[Sun Apr 26 20:05:10 2026] <STEAM_0:0:650470378> Discar: /ooc сегодня мы будем заниматся сексом
+[Sun Apr 26 20:05:36 2026] <STEAM_0:0:650470378> Discar: /rf Колесников рч 68
+[Sun Apr 26 20:05:38 2026] <STEAM_0:0:642089283> Мраз used tool "creator"
+[Sun Apr 26 20:05:38 2026] <STEAM_0:0:642089283> Мраз spawned SWEP "Weapon [906][tfa_ins2_hk_mg36]"
+[Sun Apr 26 20:05:41 2026] <STEAM_0:1:839860057> david280911: // админ а можна вертушкой управлять
+[Sun Apr 26 20:06:13 2026] <STEAM_0:0:642089283> Мраз used tool "creator"
+[Sun Apr 26 20:06:13 2026] <STEAM_0:0:642089283> Мраз spawned SWEP "Weapon [911][tfa_inss2_hk_mp5a5]"
+[Sun Apr 26 20:06:19 2026] <STEAM_0:0:954879349> Нагибатор30000000: эта форма?
+[Sun Apr 26 20:06:35 2026] <STEAM_0:0:954879349> Нагибатор30000000: ок
+[Sun Apr 26 20:06:47 2026] <STEAM_0:0:954879349> Нагибатор30000000: можешь подзказать че делают вп пж
+[Sun Apr 26 20:08:02 2026] <STEAM_0:0:642089283> Мраз used tool "creator"
+[Sun Apr 26 20:08:02 2026] <STEAM_0:0:642089283> Мраз spawned SWEP "Weapon [916][tfa_inss_asval]"
+[Sun Apr 26 20:08:03 2026] <STEAM_0:0:642089283> Мраз used tool "creator"
+[Sun Apr 26 20:08:03 2026] <STEAM_0:0:642089283> Мраз spawned SWEP "Weapon [917][tfa_inss_asval]"
+[Sun Apr 26 20:08:27 2026] <STEAM_0:1:839860057> david280911: // смирнов можно на ми 24 полетать?
+[Sun Apr 26 20:08:36 2026] Player "мандарин |citrus" <STEAM_0:0:628640483> is attempting to connect.
+[Sun Apr 26 20:09:42 2026] <STEAM_0:0:642089283> Мраз ran command "respawn Дискаров"
+[Sun Apr 26 20:09:48 2026] <STEAM_0:0:642089283> Мраз ran command "extinguish Дискаров"
+[Sun Apr 26 20:10:17 2026] <STEAM_0:0:642089283> Мраз ran command "respawn Дискаров"
+[Sun Apr 26 20:11:24 2026] Мраз has killed Po_rA1.
+[Sun Apr 26 20:11:36 2026] <STEAM_0:1:839860057> david280911: // а где находятся минестерство обороны
+[Sun Apr 26 20:11:55 2026] Мраз has killed Po_rA1.
+[Sun Apr 26 20:12:20 2026] Мраз has killed david280911.
+[Sun Apr 26 20:12:48 2026] <STEAM_0:1:839860057> david280911: /me я протянул справку пилота
+[Sun Apr 26 20:12:53 2026] <STEAM_0:0:642089283> Мраз ran command "kick Дискаров перезаход"
+[Sun Apr 26 20:12:53 2026] Player "Discar" <STEAM_0:0:650470378> has left the server
+[Sun Apr 26 20:12:59 2026] Player "Discar" <STEAM_0:0:650470378> is attempting to connect.
+[Sun Apr 26 20:13:02 2026] <STEAM_0:0:642089283> Мраз used tool "remover"
+[Sun Apr 26 20:13:03 2026] <STEAM_0:0:642089283> Мраз used tool "remover"
+[Sun Apr 26 20:13:03 2026] <STEAM_0:0:642089283> Мраз used tool "remover"
+[Sun Apr 26 20:13:03 2026] <STEAM_0:0:642089283> Мраз used tool "remover"
+[Sun Apr 26 20:13:03 2026] <STEAM_0:0:642089283> Мраз used tool "remover"
+[Sun Apr 26 20:13:03 2026] <STEAM_0:0:642089283> Мраз used tool "remover"
+[Sun Apr 26 20:13:04 2026] <STEAM_0:0:642089283> Мраз used tool "remover"
+[Sun Apr 26 20:13:04 2026] <STEAM_0:0:642089283> Мраз used tool "remover"
+[Sun Apr 26 20:13:04 2026] <STEAM_0:0:642089283> Мраз used tool "remover"
+[Sun Apr 26 20:13:04 2026] <STEAM_0:0:642089283> Мраз used tool "remover"
+[Sun Apr 26 20:13:04 2026] <STEAM_0:0:642089283> Мраз used tool "remover"
+[Sun Apr 26 20:13:04 2026] <STEAM_0:0:642089283> Мраз used tool "remover"
+[Sun Apr 26 20:13:05 2026] <STEAM_0:0:642089283> Мраз used tool "remover"
+[Sun Apr 26 20:13:05 2026] <STEAM_0:0:642089283> Мраз used tool "remover"
+[Sun Apr 26 20:13:05 2026] <STEAM_0:0:642089283> Мраз used tool "remover"
+[Sun Apr 26 20:13:05 2026] <STEAM_0:0:642089283> Мраз used tool "remover"
+[Sun Apr 26 20:13:05 2026] <STEAM_0:0:642089283> Мраз used tool "remover"
+[Sun Apr 26 20:13:05 2026] <STEAM_0:0:642089283> Мраз used tool "remover"
+[Sun Apr 26 20:13:05 2026] <STEAM_0:0:642089283> Мраз used tool "remover"
+[Sun Apr 26 20:13:58 2026] Player "Discar" <STEAM_0:0:650470378> has spawned in the server
+[Sun Apr 26 20:14:13 2026] <STEAM_0:0:642089283> Мраз spawned prop "Entity [864][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1.mdl)"
+[Sun Apr 26 20:14:20 2026] <STEAM_0:0:642089283> Мраз spawned prop "Entity [865][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1.mdl)"
+[Sun Apr 26 20:14:21 2026] <STEAM_0:0:642089283> Мраз spawned prop "Entity [866][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1.mdl)"
+[Sun Apr 26 20:15:26 2026] Мраз has killed Po_rA1.
+[Sun Apr 26 20:16:24 2026] <STEAM_0:0:642089283> Мраз used tool "remover"
+[Sun Apr 26 20:16:41 2026] <STEAM_0:0:642089283> Мраз ran command "respawn Колесников"
+[Sun Apr 26 20:17:03 2026] <STEAM_0:0:642089283> Мраз ran command "stripweapons Колесников"
+[Sun Apr 26 20:17:53 2026] Мраз has killed Discar.
+[Sun Apr 26 20:18:48 2026] Мраз has killed Po_rA1.
+[Sun Apr 26 20:19:12 2026] <STEAM_0:0:642089283> Мраз used tool "creator"
+[Sun Apr 26 20:19:12 2026] <STEAM_0:0:642089283> Мраз spawned SWEP "Weapon [744][tfa_l4d2mw_katana]"
+[Sun Apr 26 20:19:20 2026] Мраз has killed Po_rA1.
+[Sun Apr 26 20:19:46 2026] Мраз has killed Po_rA1.
+[Sun Apr 26 20:20:14 2026] Po_rA1 has killed Мраз.
+[Sun Apr 26 20:20:19 2026] <STEAM_0:0:642089283> Мраз ran command "respawn Смирнов"
+[Sun Apr 26 20:20:26 2026] Мраз has killed Po_rA1.
+[Sun Apr 26 20:20:39 2026] <STEAM_0:0:642089283> Мраз ran command "respawn Колесников"
+[Sun Apr 26 20:21:07 2026] Мраз has killed Po_rA1.
+[Sun Apr 26 20:21:08 2026] Discar has killed Нагибатор30000000.
+[Sun Apr 26 20:21:21 2026] Мраз has killed Po_rA1.
+[Sun Apr 26 20:22:08 2026] Мраз has killed Discar.
+[Sun Apr 26 20:22:22 2026] Po_rA1 has killed Мраз.
+[Sun Apr 26 20:22:23 2026] <STEAM_0:0:642089283> Мраз ran command "respawn Смирнов"
+[Sun Apr 26 20:22:31 2026] Мраз has killed Po_rA1.
+[Sun Apr 26 20:22:59 2026] Мраз has killed Po_rA1.
+[Sun Apr 26 20:23:02 2026] Player "Po_rA1" <STEAM_0:0:887714123> has left the server
+[Sun Apr 26 20:23:20 2026] Discar has killed Нагибатор30000000.
+[Sun Apr 26 20:23:22 2026] Мраз has killed Discar.
+[Sun Apr 26 20:23:46 2026] Мраз has killed Discar.
+[Sun Apr 26 20:23:47 2026] <STEAM_0:0:954879349> Нагибатор30000000: спасибо
+[Sun Apr 26 20:23:47 2026] Discar has killed Discar.
+[Sun Apr 26 20:24:03 2026] <STEAM_0:0:642089283> Мраз ran command "respawn Дискаров"
+[Sun Apr 26 20:24:04 2026] <STEAM_0:0:954879349> Нагибатор30000000: его лечишь а меня нет
+[Sun Apr 26 20:24:21 2026] Мраз has killed Discar.
+[Sun Apr 26 20:24:27 2026] <STEAM_0:0:642089283> Мраз ran command "respawn Дискаров"
+[Sun Apr 26 20:24:52 2026] Discar has killed Мраз.
+[Sun Apr 26 20:24:54 2026] <STEAM_0:0:642089283> Мраз ran command "respawn Смирнов"
+[Sun Apr 26 20:25:29 2026] Мраз has killed Discar.
+[Sun Apr 26 20:25:41 2026] Мраз has killed Нагибатор30000000.
+[Sun Apr 26 20:26:53 2026] Мраз has killed david280911.
+[Sun Apr 26 20:26:57 2026] <STEAM_0:0:954879349> Нагибатор30000000: хахаахах
+[Sun Apr 26 20:26:57 2026] Мраз has killed Нагибатор30000000.
+[Sun Apr 26 20:27:16 2026] Player "Дегустатор пива" <STEAM_0:1:862887967> is attempting to connect.
+[Sun Apr 26 20:27:29 2026] Мраз has killed david280911.
+[Sun Apr 26 20:27:45 2026] Мраз has killed david280911.
+[Sun Apr 26 20:28:02 2026] <STEAM_0:0:642089283> Мраз ran command "respawn Виноградов"
+[Sun Apr 26 20:28:14 2026] rgd5_srpnl has killed Мраз.
+[Sun Apr 26 20:28:19 2026] <STEAM_0:0:642089283> Мраз ran command "respawn Смирнов"
+[Sun Apr 26 20:29:40 2026] Discar has killed Мраз.
+[Sun Apr 26 20:29:42 2026] <STEAM_0:0:642089283> Мраз ran command "respawn Смирнов"
+[Sun Apr 26 20:29:51 2026] Мраз has killed Discar.
+[Sun Apr 26 20:29:51 2026] Мраз has killed Мраз.
+[Sun Apr 26 20:29:51 2026] Мраз has killed Нагибатор30000000.
+[Sun Apr 26 20:29:55 2026] <STEAM_0:0:642089283> Мраз ran command "respawn Смирнов"
+[Sun Apr 26 20:29:59 2026] <STEAM_0:0:642089283> Мраз ran command "respawn Дискаров"
+[Sun Apr 26 20:30:02 2026] <STEAM_0:0:642089283> Мраз ran command "respawn Волков"
+[Sun Apr 26 20:30:11 2026] Player "Дегустатор пива" <STEAM_0:1:862887967> is attempting to connect.
+[Sun Apr 26 20:30:45 2026] <STEAM_0:1:839860057> david280911: // смирнов подари ми 24 пажалуйста а я тебе отсос сделаю
+[Sun Apr 26 20:31:09 2026] Player "Дегустатор пива" <STEAM_0:1:862887967> has spawned in the server
+[Sun Apr 26 20:31:52 2026] Мраз has killed Discar.
+[Sun Apr 26 20:32:02 2026] Discar has killed Мраз.
+[Sun Apr 26 20:32:06 2026] <STEAM_0:0:642089283> Мраз ran command "respawn Смирнов"
+[Sun Apr 26 20:32:08 2026] Нагибатор30000000 has killed david280911.
+[Sun Apr 26 20:32:37 2026] Нагибатор30000000 has killed david280911.
+[Sun Apr 26 20:32:45 2026] <STEAM_0:0:642089283> Мраз spawned SENT "Entity [614][sw_bomb_fab9000m54_v3]"
+[Sun Apr 26 20:32:47 2026] Мраз has killed Discar.
+[Sun Apr 26 20:32:54 2026] <STEAM_0:0:642089283> Мраз ran command "respawn Дискаров"
+[Sun Apr 26 20:33:43 2026] <STEAM_0:0:642089283> Мраз spawned SENT "Entity [754][sw_rocket_s8ko_v3]"
+[Sun Apr 26 20:33:49 2026] Мраз has killed Мраз.
+[Sun Apr 26 20:33:49 2026] Мраз has killed Discar.
+[Sun Apr 26 20:33:50 2026] Мраз has killed Мраз.
+[Sun Apr 26 20:33:53 2026] <STEAM_0:0:642089283> Мраз ran command "respawn Смирнов"
+[Sun Apr 26 20:33:57 2026] <STEAM_0:0:642089283> Мраз ran command "respawn Дискаров"
+[Sun Apr 26 20:34:05 2026] <STEAM_0:0:642089283> Мраз used tool "creator"
+[Sun Apr 26 20:34:05 2026] <STEAM_0:0:642089283> Мраз spawned SWEP "Weapon [752][tfa_l4d2mw_katana]"
+[Sun Apr 26 20:34:14 2026] <STEAM_0:0:642089283> Мраз ran command "stripweapons Дискаров"
+[Sun Apr 26 20:34:41 2026] Discar has killed Нагибатор30000000.
+[Sun Apr 26 20:34:53 2026] worldspawn has killed Discar.
+[Sun Apr 26 20:34:59 2026] <STEAM_0:1:839860057> david280911: /rf *отрубил себе голову*
+[Sun Apr 26 20:35:00 2026] <STEAM_0:0:642089283> Мраз ran command "respawn Дискаров"
+[Sun Apr 26 20:35:03 2026] <STEAM_0:0:642089283> Мраз ran command "respawn Волков"
+[Sun Apr 26 20:35:09 2026] <STEAM_0:1:862887967> Дегустатор пива: Внимание на квадрат: K8
+[Sun Apr 26 20:35:09 2026] <STEAM_0:1:862887967> Дегустатор пива: Внимание на квадрат: K8
+[Sun Apr 26 20:35:16 2026] rgd5_srpnl has killed david280911.
+[Sun Apr 26 20:35:44 2026] <STEAM_0:0:642089283> Мраз spawned SENT "Entity [875][sw_bomb_fab100_v3]"
+[Sun Apr 26 20:35:47 2026] <STEAM_0:0:642089283> Мраз spawned SENT "Entity [875][sw_bomb_fab100_v3]"
+[Sun Apr 26 20:35:47 2026] Discar has killed david280911.
+[Sun Apr 26 20:36:22 2026] <STEAM_0:0:642089283> Мраз spawned SENT "Entity [744][sw_bomb_kab1500l_v3]"
+[Sun Apr 26 20:36:29 2026] <STEAM_0:0:642089283> Мраз spawned SENT "Entity [744][sw_rocket_grome1_v3]"
+[Sun Apr 26 20:36:29 2026] Discar has killed Нагибатор30000000.
+[Sun Apr 26 20:36:34 2026] <STEAM_0:0:642089283> Мраз spawned SENT "Entity [613][sw_rocket_grome1_v3]"
+[Sun Apr 26 20:36:38 2026] <STEAM_0:0:642089283> Мраз spawned SENT "Entity [613][sw_rocket_grome1_v3]"
+[Sun Apr 26 20:36:44 2026] <STEAM_0:0:642089283> Мраз spawned SENT "Entity [613][sw_rocket_grome1_v3]"
+[Sun Apr 26 20:36:45 2026] Player "david280911" <STEAM_0:1:839860057> has left the server
+[Sun Apr 26 20:36:47 2026] <STEAM_0:0:642089283> Мраз spawned SENT "Entity [520][sw_rocket_grome1_v3]"
+[Sun Apr 26 20:36:51 2026] <STEAM_0:0:642089283> Мраз spawned SENT "Entity [520][sw_rocket_grome1_v3]"
+[Sun Apr 26 20:36:57 2026] <STEAM_0:0:642089283> Мраз spawned SENT "Entity [520][sw_rocket_grome1_v3]"
+[Sun Apr 26 20:36:58 2026] Мраз has killed Discar.
+[Sun Apr 26 20:37:00 2026] <STEAM_0:0:954879349> Нагибатор30000000: может прекратим фигней заниматься нато появилось
+[Sun Apr 26 20:37:02 2026] <STEAM_0:1:862887967> Дегустатор пива: // ай ай ай дискаров
+[Sun Apr 26 20:37:02 2026] <STEAM_0:0:642089283> Мраз ran command "respawn Дискаров"
+[Sun Apr 26 20:37:12 2026] <STEAM_0:0:642089283> Мраз ran command "respawn Волков"
+[Sun Apr 26 20:37:29 2026] <STEAM_0:0:642089283> Мраз used tool "creator"
+[Sun Apr 26 20:37:29 2026] <STEAM_0:0:642089283> Мраз spawned SWEP "Weapon [748][tfa_ins2_panzerfaust3]"
+[Sun Apr 26 20:37:29 2026] <STEAM_0:0:642089283> Мраз used tool "creator"
+[Sun Apr 26 20:37:29 2026] <STEAM_0:0:642089283> Мраз spawned SWEP "Weapon [749][tfa_ins2_panzerfaust3]"
+[Sun Apr 26 20:37:29 2026] <STEAM_0:0:642089283> Мраз used tool "creator"
+[Sun Apr 26 20:37:29 2026] <STEAM_0:0:642089283> Мраз spawned SWEP "Weapon [625][tfa_ins2_panzerfaust3]"
+[Sun Apr 26 20:37:30 2026] <STEAM_0:0:642089283> Мраз used tool "creator"
+[Sun Apr 26 20:37:30 2026] <STEAM_0:0:642089283> Мраз spawned SWEP "Weapon [753][tfa_ins2_panzerfaust3]"
+[Sun Apr 26 20:37:30 2026] <STEAM_0:0:642089283> Мраз used tool "creator"
+[Sun Apr 26 20:37:30 2026] <STEAM_0:0:642089283> Мраз spawned SWEP "Weapon [755][tfa_ins2_panzerfaust3]"
+[Sun Apr 26 20:37:30 2026] <STEAM_0:0:642089283> Мраз used tool "creator"
+[Sun Apr 26 20:37:30 2026] <STEAM_0:0:642089283> Мраз spawned SWEP "Weapon [756][tfa_ins2_panzerfaust3]"
+[Sun Apr 26 20:37:30 2026] <STEAM_0:0:642089283> Мраз used tool "creator"
+[Sun Apr 26 20:37:30 2026] <STEAM_0:0:642089283> Мраз spawned SWEP "Weapon [770][tfa_ins2_panzerfaust3]"
+[Sun Apr 26 20:37:30 2026] <STEAM_0:0:642089283> Мраз used tool "creator"
+[Sun Apr 26 20:37:30 2026] <STEAM_0:0:642089283> Мраз spawned SWEP "Weapon [773][tfa_ins2_panzerfaust3]"
+[Sun Apr 26 20:37:30 2026] <STEAM_0:0:642089283> Мраз used tool "creator"
+[Sun Apr 26 20:37:30 2026] <STEAM_0:0:642089283> Мраз spawned SWEP "Weapon [748][tfa_ins2_panzerfaust3]"
+[Sun Apr 26 20:37:30 2026] <STEAM_0:0:642089283> Мраз used tool "creator"
+[Sun Apr 26 20:37:30 2026] <STEAM_0:0:642089283> Мраз spawned SWEP "Weapon [625][tfa_ins2_panzerfaust3]"
+[Sun Apr 26 20:37:31 2026] <STEAM_0:0:642089283> Мраз used tool "creator"
+[Sun Apr 26 20:37:31 2026] <STEAM_0:0:642089283> Мраз spawned SWEP "Weapon [749][tfa_ins2_panzerfaust3]"
+[Sun Apr 26 20:37:47 2026] Мраз has killed Дегустатор пива.
+[Sun Apr 26 20:38:11 2026] <STEAM_0:1:862887967> Дегустатор пива: привет
+[Sun Apr 26 20:38:24 2026] Player "david280911" <STEAM_0:1:839860057> is attempting to connect.
+[Sun Apr 26 20:38:50 2026] Мраз has killed Дегустатор пива.
+[Sun Apr 26 20:38:59 2026] <STEAM_0:0:954879349> Нагибатор30000000: дрифт
+[Sun Apr 26 20:39:04 2026] Player "david280911" <STEAM_0:1:839860057> has spawned in the server
+[Sun Apr 26 20:39:11 2026] Дегустатор пива has killed Мраз.
+[Sun Apr 26 20:39:26 2026] Player "david280911" <STEAM_0:1:839860057> has left the server
+[Sun Apr 26 20:39:33 2026] Player "david280911" <STEAM_0:1:839860057> is attempting to connect.
+[Sun Apr 26 20:39:41 2026] <STEAM_0:1:862887967> Дегустатор пива: сорян
+[Sun Apr 26 20:40:06 2026] Player "david280911" <STEAM_0:1:839860057> has spawned in the server
+[Sun Apr 26 20:40:14 2026] Player "Мраз" <STEAM_0:0:642089283> has left the server
+[Sun Apr 26 20:40:17 2026] Player "david280911" <STEAM_0:1:839860057> has left the server
+[Sun Apr 26 20:41:00 2026] Дегустатор пива has killed Нагибатор30000000.
+[Sun Apr 26 20:41:15 2026] <STEAM_0:1:862887967> Дегустатор пива: руки вверх
+[Sun Apr 26 20:41:23 2026] <STEAM_0:1:862887967> Дегустатор пива: ладно иди
+[Sun Apr 26 20:41:28 2026] <STEAM_0:0:954879349> Нагибатор30000000: а че отпускаешь
+[Sun Apr 26 20:41:41 2026] <STEAM_0:0:954879349> Нагибатор30000000: задержать хотябы
+[Sun Apr 26 20:41:42 2026] <STEAM_0:1:862887967> Дегустатор пива: давай по мужски на ножах?
+[Sun Apr 26 20:42:39 2026] <STEAM_0:1:862887967> Дегустатор пива: смотри как могу
+[Sun Apr 26 20:42:42 2026] Дегустатор пива has killed Дегустатор пива.
+[Sun Apr 26 20:42:46 2026] <STEAM_0:0:954879349> Нагибатор30000000: не по рп
+[Sun Apr 26 20:42:52 2026] <STEAM_0:1:862887967> Дегустатор пива: сердечный приступ
+[Sun Apr 26 20:44:18 2026] Нагибатор30000000 has killed Дегустатор пива.
+[Sun Apr 26 20:44:25 2026] <STEAM_0:1:862887967> Дегустатор пива: ты кста на базе нато
+[Sun Apr 26 20:44:29 2026] <STEAM_0:0:954879349> Нагибатор30000000: окак
+[Sun Apr 26 20:46:50 2026] <STEAM_0:0:650470378> Discar: /ooc волков ты где?
+[Sun Apr 26 20:46:56 2026] <STEAM_0:0:954879349> Нагибатор30000000: захватываю базу
+[Sun Apr 26 20:47:29 2026] Дегустатор пива has killed Нагибатор30000000.
+[Sun Apr 26 20:47:46 2026] <STEAM_0:1:862887967> Дегустатор пива: ТЫ БЫЛ ИЗБРАННИКОМ
+[Sun Apr 26 20:47:50 2026] <STEAM_0:0:954879349> Нагибатор30000000: да ну
+[Sun Apr 26 20:48:11 2026] <STEAM_0:1:862887967> Дегустатор пива: ПРЕДРИКАЛИ ЧТО ТЫ УНИЧТОЖИШЬ СИТХОВ А НЕ ПРИМКНЕШЬ К НИМ
+[Sun Apr 26 20:48:19 2026] <STEAM_0:0:954879349> Нагибатор30000000: да ну
+[Sun Apr 26 20:48:23 2026] <STEAM_0:1:862887967> Дегустатор пива: сам в ахуе
+[Sun Apr 26 20:49:33 2026] <STEAM_0:0:650470378> Discar: /ooc Волков едь в город
+[Sun Apr 26 20:49:36 2026] <STEAM_0:0:954879349> Нагибатор30000000: ок
+[Sun Apr 26 20:49:57 2026] <STEAM_0:1:862887967> Дегустатор пива: // Волкова расхуярило фугасом, он не приедет
+[Sun Apr 26 20:50:05 2026] <STEAM_0:0:650470378> Discar: /ooc Тебя ждет товариш деверсант
+[Sun Apr 26 20:50:34 2026] <STEAM_0:0:650470378> Discar: /ooc Бля я его хотел с рпг отработать
+[Sun Apr 26 20:50:47 2026] Дегустатор пива has killed Нагибатор30000000.
+[Sun Apr 26 20:50:57 2026] <STEAM_0:0:954879349> Нагибатор30000000: да за что меня то
+[Sun Apr 26 20:51:04 2026] <STEAM_0:0:954879349> Нагибатор30000000: и еще уезжаешь
+[Sun Apr 26 20:51:35 2026] <STEAM_0:0:954879349> Нагибатор30000000: называеться товарищ
+[Sun Apr 26 20:53:57 2026] Нагибатор30000000 has killed Дегустатор пива.
+[Sun Apr 26 20:55:30 2026] <STEAM_0:0:954879349> Нагибатор30000000: нажал
+[Sun Apr 26 20:55:40 2026] Discar has killed Нагибатор30000000.
+[Sun Apr 26 20:55:44 2026] <STEAM_0:0:954879349> Нагибатор30000000: спасибо
+[Sun Apr 26 20:55:45 2026] Дегустатор пива has killed Дегустатор пива.
+[Sun Apr 26 20:56:56 2026] Player "Дегустатор пива" <STEAM_0:1:862887967> has left the server
+[Sun Apr 26 20:57:03 2026] Player "Дегустатор пива" <STEAM_0:1:862887967> is attempting to connect.
+[Sun Apr 26 20:57:45 2026] Player "Дегустатор пива" <STEAM_0:1:862887967> has spawned in the server
+[Sun Apr 26 20:58:28 2026] Discar has killed Нагибатор30000000.
+[Sun Apr 26 20:58:37 2026] Player "Discar" <STEAM_0:0:650470378> has left the server
+[Sun Apr 26 20:59:35 2026] <STEAM_0:0:954879349> Нагибатор30000000: окак
+[Sun Apr 26 20:59:51 2026] <STEAM_0:0:954879349> Нагибатор30000000: издивательство
+[Sun Apr 26 21:00:39 2026] <STEAM_0:0:954879349> Нагибатор30000000: хочешь базу покажу в наручниках?
+[Sun Apr 26 21:00:55 2026] <STEAM_0:0:954879349> Нагибатор30000000: Thampson
+[Sun Apr 26 21:06:49 2026] Player "Дегустатор пива" <STEAM_0:1:862887967> has left the server
+[Sun Apr 26 21:06:57 2026] Player "Simple настаящi" <STEAM_0:1:795521724> is attempting to connect.
+[Sun Apr 26 21:07:39 2026] Player "Simple настаящi" <STEAM_0:1:795521724> has spawned in the server
+[Sun Apr 26 21:08:40 2026] Player "Simple настаящi" <STEAM_0:1:795521724> has left the server
+[Sun Apr 26 21:10:31 2026] Player "这是两件式的" <STEAM_0:1:937002345> is attempting to connect.
+[Sun Apr 26 21:18:02 2026] Player "Discar" <STEAM_0:0:650470378> is attempting to connect.
+[Sun Apr 26 21:18:14 2026] <STEAM_0:0:954879349> Нагибатор30000000: дискар
+[Sun Apr 26 21:19:07 2026] Player "Discar" <STEAM_0:0:650470378> has spawned in the server
+[Sun Apr 26 21:19:27 2026] <STEAM_0:0:954879349> Нагибатор30000000: дискар
+[Sun Apr 26 21:22:07 2026] <STEAM_0:0:954879349> Нагибатор30000000: /time
+[Sun Apr 26 21:22:20 2026] Player "Discar" <STEAM_0:0:650470378> has left the server
+[Sun Apr 26 21:22:51 2026] Player "Discar" <STEAM_0:0:650470378> is attempting to connect.
+[Sun Apr 26 21:24:00 2026] Player "Discar" <STEAM_0:0:650470378> has spawned in the server
+[Sun Apr 26 21:30:24 2026] <STEAM_0:0:954879349> Нагибатор30000000: /c 060
+[Sun Apr 26 21:30:31 2026] <STEAM_0:0:954879349> Нагибатор30000000: окак
+[Sun Apr 26 21:30:40 2026] <STEAM_0:0:954879349> Нагибатор30000000: /c
+[Sun Apr 26 21:31:23 2026] <STEAM_0:0:954879349> Нагибатор30000000: /r стою на посту 00\20
+[Sun Apr 26 21:31:31 2026] <STEAM_0:0:954879349> Нагибатор30000000: /radio в
+[Sun Apr 26 21:32:18 2026] <STEAM_0:0:954879349> Нагибатор30000000: /c окак
+[Sun Apr 26 21:33:36 2026] <STEAM_0:0:954879349> Нагибатор30000000: /ooc
+[Sun Apr 26 21:34:23 2026] <STEAM_0:0:954879349> Нагибатор30000000: /c 060
+[Sun Apr 26 21:50:11 2026] Player "Нагибатор30000000" <STEAM_0:0:954879349> has left the server
+[Sun Apr 26 21:53:30 2026] Player "Discar" <STEAM_0:0:650470378> has left the server

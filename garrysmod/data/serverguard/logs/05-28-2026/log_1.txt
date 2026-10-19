@@ -1,0 +1,9 @@
+[Thu May 28 01:48:13 2026] Player "RTX4060Tİ" <STEAM_0:1:947703271> is attempting to connect.
+[Thu May 28 14:18:38 2026] Player "★☾₳ⱤØ₦₦ł₭☽★" <STEAM_0:0:456016030> is attempting to connect.
+[Thu May 28 14:36:44 2026] Player "★☾₳ⱤØ₦₦ł₭☽★" <STEAM_0:0:456016030> has spawned in the server
+[Thu May 28 14:38:23 2026] Player "★☾₳ⱤØ₦₦ł₭☽★" <STEAM_0:0:456016030> has left the server
+[Thu May 28 18:09:26 2026] Player "Wot4Demo" <STEAM_0:0:401067431> is attempting to connect.
+[Thu May 28 18:17:22 2026] Player "Casebook" <STEAM_0:0:585468466> is attempting to connect.
+[Thu May 28 18:19:17 2026] Player "Casebook" <STEAM_0:0:585468466> has spawned in the server
+[Thu May 28 18:40:18 2026] worldspawn has killed Casebook.
+[Thu May 28 18:45:18 2026] Player "Casebook" <STEAM_0:0:585468466> has left the server

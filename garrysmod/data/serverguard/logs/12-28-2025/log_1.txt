@@ -1,0 +1,1346 @@
+[Sun Dec 28 00:00:05 2025] <STEAM_0:0:79873507> 费尔南德斯 ran command "menu"
+[Sun Dec 28 00:00:41 2025] Player "费尔南德斯" <STEAM_0:0:79873507> is attempting to connect.
+[Sun Dec 28 00:01:02 2025] Player "费尔南德斯" <STEAM_0:0:79873507> has spawned in the server
+[Sun Dec 28 00:02:47 2025] Player "游戏杀手" <STEAM_0:0:140983446> is attempting to connect.
+[Sun Dec 28 00:08:19 2025] <STEAM_0:0:79873507> 费尔南德斯 ran command "menu"
+[Sun Dec 28 00:09:25 2025] <STEAM_0:0:79873507> 费尔南德斯 ran command "plugintoggle screencap"
+[Sun Dec 28 00:09:52 2025] Player "游戏杀手" <STEAM_0:0:140983446> has spawned in the server
+[Sun Dec 28 00:13:42 2025] <STEAM_0:0:79873507> 费尔南德斯 ran command "respawn @"
+[Sun Dec 28 00:13:45 2025] <STEAM_0:0:79873507> 费尔南德斯 ran command "respawn Anderson"
+[Sun Dec 28 00:19:51 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "creator"
+[Sun Dec 28 00:19:51 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [522][lvs_protontorpedo]"
+[Sun Dec 28 00:19:53 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "creator"
+[Sun Dec 28 00:19:53 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [522][lvs_protontorpedo]"
+[Sun Dec 28 00:19:59 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "creator"
+[Sun Dec 28 00:19:59 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [522][lvs_missile]"
+[Sun Dec 28 00:20:01 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "creator"
+[Sun Dec 28 00:20:01 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [522][lvs_missile]"
+[Sun Dec 28 00:20:03 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "creator"
+[Sun Dec 28 00:20:03 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [522][lvs_missile]"
+[Sun Dec 28 00:20:08 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "creator"
+[Sun Dec 28 00:20:08 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [522][lvs_missile]"
+[Sun Dec 28 00:20:09 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "creator"
+[Sun Dec 28 00:20:09 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [522][lvs_missile]"
+[Sun Dec 28 00:20:11 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "creator"
+[Sun Dec 28 00:20:11 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [522][lvs_missile]"
+[Sun Dec 28 00:20:12 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "creator"
+[Sun Dec 28 00:20:12 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [523][lvs_missile]"
+[Sun Dec 28 00:20:12 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "creator"
+[Sun Dec 28 00:20:12 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [522][lvs_missile]"
+[Sun Dec 28 00:20:12 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "creator"
+[Sun Dec 28 00:20:12 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [524][lvs_missile]"
+[Sun Dec 28 00:20:13 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "creator"
+[Sun Dec 28 00:20:13 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [525][lvs_missile]"
+[Sun Dec 28 00:20:13 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "creator"
+[Sun Dec 28 00:20:13 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [526][lvs_missile]"
+[Sun Dec 28 00:20:13 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "creator"
+[Sun Dec 28 00:20:13 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [527][lvs_missile]"
+[Sun Dec 28 00:20:13 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "creator"
+[Sun Dec 28 00:20:13 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [528][lvs_missile]"
+[Sun Dec 28 00:20:13 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "creator"
+[Sun Dec 28 00:20:13 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [529][lvs_missile]"
+[Sun Dec 28 00:20:18 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "creator"
+[Sun Dec 28 00:20:18 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [522][lvs_missile]"
+[Sun Dec 28 00:20:18 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "creator"
+[Sun Dec 28 00:20:18 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [523][lvs_missile]"
+[Sun Dec 28 00:20:18 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "creator"
+[Sun Dec 28 00:20:18 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [524][lvs_missile]"
+[Sun Dec 28 00:20:18 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "creator"
+[Sun Dec 28 00:20:18 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [525][lvs_missile]"
+[Sun Dec 28 00:20:18 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "creator"
+[Sun Dec 28 00:20:18 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [526][lvs_missile]"
+[Sun Dec 28 00:20:19 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "creator"
+[Sun Dec 28 00:20:19 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [527][lvs_missile]"
+[Sun Dec 28 00:20:19 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "creator"
+[Sun Dec 28 00:20:19 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [528][lvs_missile]"
+[Sun Dec 28 00:20:19 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "creator"
+[Sun Dec 28 00:20:19 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [529][lvs_missile]"
+[Sun Dec 28 00:20:19 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "creator"
+[Sun Dec 28 00:20:19 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [530][lvs_missile]"
+[Sun Dec 28 00:20:19 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "creator"
+[Sun Dec 28 00:20:19 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [522][lvs_missile]"
+[Sun Dec 28 00:20:20 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "creator"
+[Sun Dec 28 00:20:20 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [523][lvs_missile]"
+[Sun Dec 28 00:20:20 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "creator"
+[Sun Dec 28 00:20:20 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [524][lvs_missile]"
+[Sun Dec 28 00:20:20 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "creator"
+[Sun Dec 28 00:20:20 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [525][lvs_missile]"
+[Sun Dec 28 00:20:22 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "creator"
+[Sun Dec 28 00:20:22 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [522][lvs_protontorpedo]"
+[Sun Dec 28 00:20:23 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "creator"
+[Sun Dec 28 00:20:23 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [523][lvs_protontorpedo]"
+[Sun Dec 28 00:20:24 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "creator"
+[Sun Dec 28 00:20:24 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [524][lvs_protontorpedo]"
+[Sun Dec 28 00:20:24 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "creator"
+[Sun Dec 28 00:20:24 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [522][lvs_protontorpedo]"
+[Sun Dec 28 00:20:28 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "creator"
+[Sun Dec 28 00:20:28 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [522][lvs_protontorpedo]"
+[Sun Dec 28 00:20:30 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "creator"
+[Sun Dec 28 00:20:30 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [522][lvs_protontorpedo]"
+[Sun Dec 28 00:20:36 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "creator"
+[Sun Dec 28 00:20:36 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [522][lvs_missile]"
+[Sun Dec 28 00:20:40 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "creator"
+[Sun Dec 28 00:20:40 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [522][lvs_missile]"
+[Sun Dec 28 00:20:45 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "creator"
+[Sun Dec 28 00:20:45 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [522][lvs_missile]"
+[Sun Dec 28 00:20:46 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "creator"
+[Sun Dec 28 00:20:46 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [522][lvs_missile]"
+[Sun Dec 28 00:20:48 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "creator"
+[Sun Dec 28 00:20:48 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [523][lvs_missile]"
+[Sun Dec 28 00:20:51 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "creator"
+[Sun Dec 28 00:20:51 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [522][lvs_missile]"
+[Sun Dec 28 00:20:52 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "creator"
+[Sun Dec 28 00:20:52 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [523][lvs_missile]"
+[Sun Dec 28 00:20:54 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "creator"
+[Sun Dec 28 00:20:54 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [522][lvs_missile]"
+[Sun Dec 28 00:20:56 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "creator"
+[Sun Dec 28 00:20:56 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [522][lvs_missile]"
+[Sun Dec 28 00:20:56 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "creator"
+[Sun Dec 28 00:20:56 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [523][lvs_missile]"
+[Sun Dec 28 00:20:58 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "creator"
+[Sun Dec 28 00:20:58 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [522][lvs_missile]"
+[Sun Dec 28 00:20:58 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "creator"
+[Sun Dec 28 00:20:58 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [523][lvs_missile]"
+[Sun Dec 28 00:20:58 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "creator"
+[Sun Dec 28 00:20:58 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [524][lvs_missile]"
+[Sun Dec 28 00:20:58 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "creator"
+[Sun Dec 28 00:20:58 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [525][lvs_missile]"
+[Sun Dec 28 00:20:59 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "creator"
+[Sun Dec 28 00:20:59 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [526][lvs_missile]"
+[Sun Dec 28 00:20:59 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "creator"
+[Sun Dec 28 00:20:59 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [527][lvs_missile]"
+[Sun Dec 28 00:20:59 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "creator"
+[Sun Dec 28 00:20:59 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [528][lvs_missile]"
+[Sun Dec 28 00:20:59 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "creator"
+[Sun Dec 28 00:20:59 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [529][lvs_missile]"
+[Sun Dec 28 00:20:59 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "creator"
+[Sun Dec 28 00:20:59 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [530][lvs_missile]"
+[Sun Dec 28 00:20:59 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "creator"
+[Sun Dec 28 00:20:59 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [531][lvs_missile]"
+[Sun Dec 28 00:21:00 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "creator"
+[Sun Dec 28 00:21:00 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [566][lvs_missile]"
+[Sun Dec 28 00:21:00 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "creator"
+[Sun Dec 28 00:21:00 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [522][lvs_missile]"
+[Sun Dec 28 00:21:00 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "creator"
+[Sun Dec 28 00:21:00 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [523][lvs_missile]"
+[Sun Dec 28 00:21:00 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "creator"
+[Sun Dec 28 00:21:00 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [524][lvs_missile]"
+[Sun Dec 28 00:21:00 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "creator"
+[Sun Dec 28 00:21:00 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [525][lvs_missile]"
+[Sun Dec 28 00:21:00 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "creator"
+[Sun Dec 28 00:21:00 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [526][lvs_missile]"
+[Sun Dec 28 00:21:01 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "creator"
+[Sun Dec 28 00:21:01 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [527][lvs_missile]"
+[Sun Dec 28 00:21:01 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "creator"
+[Sun Dec 28 00:21:01 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [567][lvs_missile]"
+[Sun Dec 28 00:21:01 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "creator"
+[Sun Dec 28 00:21:01 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [528][lvs_missile]"
+[Sun Dec 28 00:21:01 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "creator"
+[Sun Dec 28 00:21:01 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [529][lvs_missile]"
+[Sun Dec 28 00:21:07 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "creator"
+[Sun Dec 28 00:21:07 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [522][lvs_protontorpedo]"
+[Sun Dec 28 00:21:07 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "creator"
+[Sun Dec 28 00:21:07 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [523][lvs_protontorpedo]"
+[Sun Dec 28 00:21:07 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "creator"
+[Sun Dec 28 00:21:07 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [524][lvs_protontorpedo]"
+[Sun Dec 28 00:21:08 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "creator"
+[Sun Dec 28 00:21:08 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [525][lvs_protontorpedo]"
+[Sun Dec 28 00:21:08 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "creator"
+[Sun Dec 28 00:21:08 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [526][lvs_protontorpedo]"
+[Sun Dec 28 00:21:08 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "creator"
+[Sun Dec 28 00:21:08 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [527][lvs_protontorpedo]"
+[Sun Dec 28 00:21:08 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "creator"
+[Sun Dec 28 00:21:08 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [528][lvs_protontorpedo]"
+[Sun Dec 28 00:21:10 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "creator"
+[Sun Dec 28 00:21:10 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [522][lvs_protontorpedo]"
+[Sun Dec 28 00:21:10 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "creator"
+[Sun Dec 28 00:21:10 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [523][lvs_protontorpedo]"
+[Sun Dec 28 00:21:10 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "creator"
+[Sun Dec 28 00:21:10 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [524][lvs_protontorpedo]"
+[Sun Dec 28 00:21:11 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "creator"
+[Sun Dec 28 00:21:11 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [525][lvs_protontorpedo]"
+[Sun Dec 28 00:21:11 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "creator"
+[Sun Dec 28 00:21:11 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [526][lvs_protontorpedo]"
+[Sun Dec 28 00:21:11 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "creator"
+[Sun Dec 28 00:21:11 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [527][lvs_protontorpedo]"
+[Sun Dec 28 00:21:11 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "creator"
+[Sun Dec 28 00:21:11 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [528][lvs_protontorpedo]"
+[Sun Dec 28 00:21:11 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "creator"
+[Sun Dec 28 00:21:11 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [529][lvs_protontorpedo]"
+[Sun Dec 28 00:21:11 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "creator"
+[Sun Dec 28 00:21:11 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [530][lvs_protontorpedo]"
+[Sun Dec 28 00:21:12 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "creator"
+[Sun Dec 28 00:21:12 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [531][lvs_protontorpedo]"
+[Sun Dec 28 00:21:12 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "creator"
+[Sun Dec 28 00:21:12 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [566][lvs_protontorpedo]"
+[Sun Dec 28 00:21:13 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "creator"
+[Sun Dec 28 00:21:13 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [522][lvs_protontorpedo]"
+[Sun Dec 28 00:21:13 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "creator"
+[Sun Dec 28 00:21:13 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [523][lvs_protontorpedo]"
+[Sun Dec 28 00:21:15 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "creator"
+[Sun Dec 28 00:21:15 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [522][lvs_protontorpedo]"
+[Sun Dec 28 00:21:16 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "creator"
+[Sun Dec 28 00:21:16 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [523][lvs_protontorpedo]"
+[Sun Dec 28 00:21:17 2025] 费尔南德斯 has killed 游戏杀手.
+[Sun Dec 28 00:21:58 2025] <STEAM_0:0:79873507> 费尔南德斯 ran command "giveweapon @ handcuffed"
+[Sun Dec 28 00:21:59 2025] <STEAM_0:0:79873507> 费尔南德斯 ran command "giveweapon @ handcuffed"
+[Sun Dec 28 00:22:07 2025] <STEAM_0:0:79873507> 费尔南德斯 ran command "hp @ 100"
+[Sun Dec 28 00:22:19 2025] 费尔南德斯 has killed 游戏杀手.
+[Sun Dec 28 00:22:20 2025] 游戏杀手 has killed 游戏杀手.
+[Sun Dec 28 00:22:26 2025] <STEAM_0:0:79873507> 费尔南德斯 ran command "respawn Anderson"
+[Sun Dec 28 00:22:30 2025] <STEAM_0:0:79873507> 费尔南德斯 ran command "bring And"
+[Sun Dec 28 00:22:39 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "creator"
+[Sun Dec 28 00:22:39 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SWEP "Weapon [501][handcuffed]"
+[Sun Dec 28 00:22:39 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "creator"
+[Sun Dec 28 00:22:39 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SWEP "Weapon [503][handcuffed]"
+[Sun Dec 28 00:22:39 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "creator"
+[Sun Dec 28 00:22:39 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SWEP "Weapon [504][handcuffed]"
+[Sun Dec 28 00:22:39 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "creator"
+[Sun Dec 28 00:22:39 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SWEP "Weapon [505][handcuffed]"
+[Sun Dec 28 00:23:57 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "creator"
+[Sun Dec 28 00:23:57 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SWEP "Weapon [503][arrest_baton]"
+[Sun Dec 28 00:23:57 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "creator"
+[Sun Dec 28 00:23:57 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SWEP "Weapon [505][arrest_baton]"
+[Sun Dec 28 00:23:57 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "creator"
+[Sun Dec 28 00:23:57 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SWEP "Weapon [506][arrest_baton]"
+[Sun Dec 28 00:23:57 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "creator"
+[Sun Dec 28 00:23:57 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SWEP "Weapon [507][arrest_baton]"
+[Sun Dec 28 00:24:02 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "creator"
+[Sun Dec 28 00:24:02 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SWEP "Weapon [505][arrest_baton]"
+[Sun Dec 28 00:24:02 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "creator"
+[Sun Dec 28 00:24:02 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SWEP "Weapon [507][arrest_baton]"
+[Sun Dec 28 00:24:02 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "creator"
+[Sun Dec 28 00:24:02 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SWEP "Weapon [508][arrest_baton]"
+[Sun Dec 28 00:24:02 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "creator"
+[Sun Dec 28 00:24:02 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SWEP "Weapon [509][arrest_baton]"
+[Sun Dec 28 00:24:03 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "creator"
+[Sun Dec 28 00:24:03 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SWEP "Weapon [510][arrest_baton]"
+[Sun Dec 28 00:24:03 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "creator"
+[Sun Dec 28 00:24:03 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SWEP "Weapon [511][arrest_baton]"
+[Sun Dec 28 00:24:03 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "creator"
+[Sun Dec 28 00:24:03 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SWEP "Weapon [512][arrest_baton]"
+[Sun Dec 28 00:24:16 2025] <STEAM_0:0:79873507> 费尔南德斯 ran command "giveweapon @ arrest_baton"
+[Sun Dec 28 00:24:18 2025] <STEAM_0:0:79873507> 费尔南德斯 ran command "giveweapon @ arrest_baton"
+[Sun Dec 28 00:24:58 2025] <STEAM_0:0:79873507> 费尔南德斯 ran command "bring Andre"
+[Sun Dec 28 00:25:00 2025] <STEAM_0:0:79873507> 费尔南德斯 ran command "bring Ander"
+[Sun Dec 28 00:25:10 2025] <STEAM_0:0:79873507> 费尔南德斯 ran command "giveweapon @ unarrest_baton"
+[Sun Dec 28 00:25:29 2025] <STEAM_0:0:79873507> 费尔南德斯 ran command "bring Ander"
+[Sun Dec 28 00:25:45 2025] <STEAM_0:0:79873507> 费尔南德斯 ran command "rank Anderson sudocurator 0"
+[Sun Dec 28 00:26:16 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "creator"
+[Sun Dec 28 00:26:16 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SWEP "Weapon [506][revive_swep]"
+[Sun Dec 28 00:26:17 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "creator"
+[Sun Dec 28 00:26:17 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SWEP "Weapon [496][revive_swep]"
+[Sun Dec 28 00:26:17 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "creator"
+[Sun Dec 28 00:26:17 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SWEP "Weapon [507][revive_swep]"
+[Sun Dec 28 00:26:17 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "creator"
+[Sun Dec 28 00:26:17 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SWEP "Weapon [508][revive_swep]"
+[Sun Dec 28 00:26:17 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "creator"
+[Sun Dec 28 00:26:17 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SWEP "Weapon [509][revive_swep]"
+[Sun Dec 28 00:26:35 2025] worldspawn has killed 费尔南德斯.
+[Sun Dec 28 00:26:45 2025] worldspawn has killed 费尔南德斯.
+[Sun Dec 28 00:26:55 2025] worldspawn has killed 费尔南德斯.
+[Sun Dec 28 00:27:07 2025] worldspawn has killed 费尔南德斯.
+[Sun Dec 28 00:27:15 2025] worldspawn has killed 费尔南德斯.
+[Sun Dec 28 00:28:44 2025] 费尔南德斯 has killed 游戏杀手.
+[Sun Dec 28 00:28:54 2025] <STEAM_0:0:79873507> 费尔南德斯 ran command "rank Anderson founder 0"
+[Sun Dec 28 00:28:59 2025] <STEAM_0:0:140983446> 游戏杀手 ran command "respawn Anderson"
+[Sun Dec 28 00:29:05 2025] 费尔南德斯 has killed 游戏杀手.
+[Sun Dec 28 00:29:06 2025] 游戏杀手 has killed 游戏杀手.
+[Sun Dec 28 00:30:13 2025] 费尔南德斯 has killed 游戏杀手.
+[Sun Dec 28 00:30:14 2025] 游戏杀手 has killed 游戏杀手.
+[Sun Dec 28 00:30:29 2025] 游戏杀手 has killed 费尔南德斯.
+[Sun Dec 28 00:30:30 2025] 费尔南德斯 has killed 费尔南德斯.
+[Sun Dec 28 00:30:44 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "creator"
+[Sun Dec 28 00:30:44 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SWEP "Weapon [503][tfa_m4tech]"
+[Sun Dec 28 00:30:44 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "creator"
+[Sun Dec 28 00:30:44 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SWEP "Weapon [505][tfa_m4tech]"
+[Sun Dec 28 00:30:45 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "creator"
+[Sun Dec 28 00:30:45 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SWEP "Weapon [507][tfa_m4tech]"
+[Sun Dec 28 00:31:19 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [507][lvs_wheeldrive_m3a3]"
+[Sun Dec 28 00:33:03 2025] 费尔南德斯 has killed 游戏杀手.
+[Sun Dec 28 00:33:37 2025] 费尔南德斯 has killed 游戏杀手.
+[Sun Dec 28 00:35:41 2025] <STEAM_0:0:140983446> 游戏杀手 ran command "hp ^ 100"
+[Sun Dec 28 00:37:24 2025] 费尔南德斯 has killed 游戏杀手.
+[Sun Dec 28 00:37:25 2025] 游戏杀手 has killed 游戏杀手.
+[Sun Dec 28 00:38:03 2025] <STEAM_0:0:140983446> 游戏杀手 ran command "hp ^ 100"
+[Sun Dec 28 00:39:00 2025] 费尔南德斯 has killed 游戏杀手.
+[Sun Dec 28 00:40:40 2025] <STEAM_0:0:79873507> 费尔南德斯 ran command "rank Anderson user 0"
+[Sun Dec 28 00:40:40 2025] 游戏杀手 has killed 费尔南德斯.
+[Sun Dec 28 00:40:41 2025] 费尔南德斯 has killed 费尔南德斯.
+[Sun Dec 28 00:40:52 2025] 费尔南德斯 has killed 游戏杀手.
+[Sun Dec 28 00:41:02 2025] Player "游戏杀手" <STEAM_0:0:140983446> has left the server
+[Sun Dec 28 00:41:06 2025] Player "费尔南德斯" <STEAM_0:0:79873507> has left the server
+[Sun Dec 28 12:50:33 2025] Player "Fed_Or" <STEAM_0:0:765883219> is attempting to connect.
+[Sun Dec 28 13:22:22 2025] Player "Soldier Boy" <STEAM_0:1:620808428> is attempting to connect.
+[Sun Dec 28 13:23:23 2025] Player "Soldier Boy" <STEAM_0:1:620808428> has spawned in the server
+[Sun Dec 28 13:24:19 2025] <STEAM_0:1:620808428> Soldier Boy spawned SENT "Entity [489][sw_matv]"
+[Sun Dec 28 13:30:58 2025] Player "Smasher" <STEAM_0:1:220381002> is attempting to connect.
+[Sun Dec 28 13:32:18 2025] Player "Smasher" <STEAM_0:1:220381002> has spawned in the server
+[Sun Dec 28 13:35:13 2025] <STEAM_0:1:220381002> Smasher ran command "noclip COL A.T. Smasher"
+[Sun Dec 28 13:35:20 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [499][lfs_grdn_ah64d]"
+[Sun Dec 28 13:35:23 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [506][lfs_grdn_ah64d]"
+[Sun Dec 28 13:35:25 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [508][lfs_grdn_ah1g]"
+[Sun Dec 28 13:35:27 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [509][lfs_grdn_ah1g]"
+[Sun Dec 28 13:37:11 2025] <STEAM_0:1:220381002> Smasher ran command "noclip COL A.T. Smasher"
+[Sun Dec 28 13:44:06 2025] Player "Worshiper of God" <STEAM_0:0:74235942> is attempting to connect.
+[Sun Dec 28 13:44:13 2025] Player "Smasher" <STEAM_0:1:220381002> has left the server
+[Sun Dec 28 13:45:27 2025] Player "Smasher" <STEAM_0:1:220381002> is attempting to connect.
+[Sun Dec 28 13:45:51 2025] Player "Smasher" <STEAM_0:1:220381002> has spawned in the server
+[Sun Dec 28 13:54:16 2025] <STEAM_0:1:620808428> Soldier Boy ran command "a бляяя"
+[Sun Dec 28 13:54:21 2025] <STEAM_0:1:620808428> Soldier Boy ran command "a Я аухел"
+[Sun Dec 28 13:54:30 2025] Smasher has killed Soldier Boy.
+[Sun Dec 28 13:56:42 2025] <STEAM_0:1:220381002> Smasher: // давай танковую дуэаль
+[Sun Dec 28 13:57:04 2025] <STEAM_0:1:620808428> Soldier Boy: // окей
+[Sun Dec 28 13:59:19 2025] <STEAM_0:1:220381002> Smasher: // ну
+[Sun Dec 28 14:02:45 2025] <STEAM_0:1:620808428> Soldier Boy spawned SENT "Entity [513][lvs_wheeldrive_rp_dabrams_m1a1]"
+[Sun Dec 28 14:09:49 2025] Smasher has killed Soldier Boy.
+[Sun Dec 28 14:12:15 2025] Smasher has killed Soldier Boy.
+[Sun Dec 28 14:12:20 2025] <STEAM_0:1:620808428> Soldier Boy: // фуууу
+[Sun Dec 28 14:12:28 2025] <STEAM_0:1:620808428> Soldier Boy: // рейд рулс
+[Sun Dec 28 14:12:30 2025] <STEAM_0:1:220381002> Smasher: // возьми т 72 сееб
+[Sun Dec 28 14:13:46 2025] <STEAM_0:1:220381002> Smasher ran command "noclip COL A.T. Smasher"
+[Sun Dec 28 14:14:41 2025] <STEAM_0:1:620808428> Soldier Boy spawned SENT "Entity [515][lvs_wheeldrive_rp_t90m]"
+[Sun Dec 28 14:14:59 2025] <STEAM_0:1:620808428> Soldier Boy spawned SENT "Entity [515][lvs_wheeldrive_dabrams_m1a1]"
+[Sun Dec 28 14:15:10 2025] <STEAM_0:1:220381002> Smasher: // возьми т 72 сееб
+[Sun Dec 28 14:15:34 2025] <STEAM_0:1:620808428> Soldier Boy: // Найти бы его для начала
+[Sun Dec 28 14:15:46 2025] <STEAM_0:1:220381002> Smasher: // ну т 90м
+[Sun Dec 28 14:15:49 2025] <STEAM_0:1:220381002> Smasher: // разницы нету
+[Sun Dec 28 14:15:57 2025] <STEAM_0:1:220381002> Smasher: // или бмп 3
+[Sun Dec 28 14:16:41 2025] <STEAM_0:1:220381002> Smasher: // в энтити
+[Sun Dec 28 14:16:52 2025] <STEAM_0:1:620808428> Soldier Boy spawned SENT "Entity [513][lfs_grdn_ah64d]"
+[Sun Dec 28 14:16:55 2025] <STEAM_0:1:620808428> Soldier Boy spawned SENT "Entity [513][lfs_grdn_ah64d]"
+[Sun Dec 28 14:16:57 2025] <STEAM_0:1:620808428> Soldier Boy spawned SENT "Entity [515][lfs_grdn_ec665uht]"
+[Sun Dec 28 14:16:58 2025] <STEAM_0:1:620808428> Soldier Boy spawned SENT "Entity [513][lfs_grdn_ec665uht]"
+[Sun Dec 28 14:17:08 2025] <STEAM_0:1:620808428> Soldier Boy spawned SENT "Entity [513][sw_bmp3m]"
+[Sun Dec 28 14:18:41 2025] Smasher has killed Soldier Boy.
+[Sun Dec 28 14:18:53 2025] <STEAM_0:1:220381002> Smasher: // я бредли возьму
+[Sun Dec 28 14:19:01 2025] <STEAM_0:1:620808428> Soldier Boy: // окай
+[Sun Dec 28 14:19:14 2025] <STEAM_0:1:220381002> Smasher: // хотья ты можешь просто т 90 м заспавнить
+[Sun Dec 28 14:19:40 2025] <STEAM_0:1:620808428> Soldier Boy spawned SENT "Entity [494][lvs_wheeldrive_rp_t90m]"
+[Sun Dec 28 14:19:59 2025] <STEAM_0:1:620808428> Soldier Boy: // Взял
+[Sun Dec 28 14:20:58 2025] Smasher has killed Soldier Boy.
+[Sun Dec 28 14:21:08 2025] <STEAM_0:1:220381002> Smasher: // ебать это как
+[Sun Dec 28 14:21:32 2025] <STEAM_0:1:220381002> Smasher ran command "noclip COL A.T. Smasher"
+[Sun Dec 28 14:21:36 2025] <STEAM_0:1:220381002> Smasher ran command "noclip COL A.T. Smasher"
+[Sun Dec 28 14:21:44 2025] <STEAM_0:1:620808428> Soldier Boy: // Фу, НоуКлип
+[Sun Dec 28 14:22:03 2025] <STEAM_0:1:220381002> Smasher: // у мя нога сломана мне иначе не забраться в танк
+[Sun Dec 28 14:23:25 2025] <STEAM_0:1:220381002> Smasher ran command "noclip COL A.T. Smasher"
+[Sun Dec 28 14:24:06 2025] Smasher has killed Soldier Boy.
+[Sun Dec 28 14:24:07 2025] Soldier Boy has killed Soldier Boy.
+[Sun Dec 28 14:24:10 2025] Player "Smasher" <STEAM_0:1:220381002> has left the server
+[Sun Dec 28 14:24:38 2025] <STEAM_0:1:620808428> Soldier Boy: // ну так возрадись и обратно прилети
+[Sun Dec 28 14:24:47 2025] <STEAM_0:1:620808428> Soldier Boy: // А так, не надо было ломать ногу
+[Sun Dec 28 14:26:11 2025] <STEAM_0:1:620808428> Soldier Boy spawned npc "NPC [497][npc_monk]"
+[Sun Dec 28 14:26:34 2025] <STEAM_0:1:620808428> Soldier Boy spawned npc "NPC [497][npc_antlion]"
+[Sun Dec 28 14:28:17 2025] Player "༒︎シ︎ʰᵉⁿᵗᵃⁱシ" <STEAM_0:0:851601344> is attempting to connect.
+[Sun Dec 28 14:29:42 2025] Player "༒︎シ︎ʰᵉⁿᵗᵃⁱシ" <STEAM_0:0:851601344> has spawned in the server
+[Sun Dec 28 14:33:31 2025] <STEAM_0:1:620808428> Soldier Boy ran command "a Ангел"
+[Sun Dec 28 14:33:42 2025] <STEAM_0:1:620808428> Soldier Boy ran command "a А что у тебя за руны в нике?"
+[Sun Dec 28 14:34:45 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "a какие руны"
+[Sun Dec 28 14:34:51 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "a а а хахах"
+[Sun Dec 28 14:34:54 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "a хз"
+[Sun Dec 28 14:35:08 2025] <STEAM_0:1:620808428> Soldier Boy ran command "a Перед Эверганрден"
+[Sun Dec 28 14:35:13 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "a а"
+[Sun Dec 28 14:35:15 2025] <STEAM_0:1:620808428> Soldier Boy ran command "a Вроде просто Фамилия"
+[Sun Dec 28 14:35:20 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "a название"
+[Sun Dec 28 14:35:27 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "a типо первый лейтенант тд тп"
+[Sun Dec 28 14:35:47 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "a потмоу что по фамилиям мы узнавать друг друга не сможем типо кто лейтенант кто капитан тд тп"
+[Sun Dec 28 14:35:54 2025] Player "Mr.Monolith" <STEAM_0:1:47931114> is attempting to connect.
+[Sun Dec 28 14:38:02 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "a а что?"
+[Sun Dec 28 14:38:04 2025] Player "Mr.Monolith" <STEAM_0:1:47931114> has spawned in the server
+[Sun Dec 28 14:38:13 2025] <STEAM_0:1:620808428> Soldier Boy ran command "a Можешь мне свою абривеатуру дать?"
+[Sun Dec 28 14:38:23 2025] <STEAM_0:1:620808428> Soldier Boy ran command "a Ну я типо РП блок и хз, что у вас за ники"
+[Sun Dec 28 14:38:35 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "a я в лс в дс скину"
+[Sun Dec 28 14:38:40 2025] <STEAM_0:1:620808428> Soldier Boy ran command "a Окей"
+[Sun Dec 28 14:40:10 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /giveammo 300
+[Sun Dec 28 14:40:36 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [528][sw_airdrop_v3]"
+[Sun Dec 28 14:40:41 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [528][sw_airdrop_v3]"
+[Sun Dec 28 14:40:42 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [529][sw_airdrop_v3]"
+[Sun Dec 28 14:45:34 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /advert  1 боец выходит за базу.  цель: разведка
+[Sun Dec 28 14:45:51 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /nato  1 боец выходит за базу.  цель: разведка
+[Sun Dec 28 14:52:27 2025] Soldier Boy has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Sun Dec 28 14:52:29 2025] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Sun Dec 28 14:52:34 2025] Player "Shokw" <STEAM_0:1:604313596> is attempting to connect.
+[Sun Dec 28 14:53:07 2025] <STEAM_0:1:620808428> Soldier Boy: /logs
+[Sun Dec 28 14:53:23 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [609][sw_airdrop_v3]"
+[Sun Dec 28 14:53:23 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [610][sw_airdrop_v3]"
+[Sun Dec 28 14:57:50 2025] Player "Smasher" <STEAM_0:1:220381002> is attempting to connect.
+[Sun Dec 28 14:58:12 2025] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Soldier Boy.
+[Sun Dec 28 14:58:13 2025] Soldier Boy has killed Soldier Boy.
+[Sun Dec 28 14:58:33 2025] Player "Smasher" <STEAM_0:1:220381002> has spawned in the server
+[Sun Dec 28 14:59:08 2025] <STEAM_0:1:220381002> Smasher: // джонсон а ты кто в дисе нато
+[Sun Dec 28 14:59:13 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /nato требуеться подкрепление
+[Sun Dec 28 14:59:24 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // это хамса подполковник
+[Sun Dec 28 14:59:33 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // он афк вроде
+[Sun Dec 28 14:59:35 2025] <STEAM_0:1:620808428> Soldier Boy ran command "ammo Дубровин"
+[Sun Dec 28 15:00:06 2025] <STEAM_0:1:220381002> Smasher: /nato куда
+[Sun Dec 28 15:00:15 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /nato точка вг город.
+[Sun Dec 28 15:01:32 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [571][ladder_small3]"
+[Sun Dec 28 15:01:40 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [571][ifak_ammo]"
+[Sun Dec 28 15:01:41 2025] Soldier Boy has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Sun Dec 28 15:01:42 2025] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Sun Dec 28 15:02:06 2025] Soldier Boy has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Sun Dec 28 15:03:18 2025] <STEAM_0:1:220381002> Smasher: /nato еду
+[Sun Dec 28 15:04:27 2025] Player "Shokw" <STEAM_0:1:604313596> has spawned in the server
+[Sun Dec 28 15:04:29 2025] Smasher has killed Soldier Boy.
+[Sun Dec 28 15:04:41 2025] <STEAM_0:1:220381002> Smasher used tool "remover"
+[Sun Dec 28 15:04:41 2025] <STEAM_0:1:220381002> Smasher used tool "remover"
+[Sun Dec 28 15:04:41 2025] <STEAM_0:1:220381002> Smasher used tool "remover"
+[Sun Dec 28 15:04:41 2025] <STEAM_0:1:220381002> Smasher used tool "remover"
+[Sun Dec 28 15:04:42 2025] <STEAM_0:1:220381002> Smasher used tool "remover"
+[Sun Dec 28 15:04:42 2025] <STEAM_0:1:220381002> Smasher used tool "remover"
+[Sun Dec 28 15:04:42 2025] <STEAM_0:1:220381002> Smasher used tool "remover"
+[Sun Dec 28 15:04:42 2025] <STEAM_0:1:220381002> Smasher used tool "remover"
+[Sun Dec 28 15:04:43 2025] <STEAM_0:1:220381002> Smasher used tool "remover"
+[Sun Dec 28 15:04:43 2025] <STEAM_0:1:220381002> Smasher used tool "remover"
+[Sun Dec 28 15:04:43 2025] <STEAM_0:1:220381002> Smasher used tool "remover"
+[Sun Dec 28 15:04:44 2025] <STEAM_0:1:220381002> Smasher used tool "remover"
+[Sun Dec 28 15:04:44 2025] <STEAM_0:1:220381002> Smasher used tool "remover"
+[Sun Dec 28 15:04:44 2025] <STEAM_0:1:220381002> Smasher used tool "remover"
+[Sun Dec 28 15:04:44 2025] <STEAM_0:1:220381002> Smasher used tool "remover"
+[Sun Dec 28 15:04:44 2025] <STEAM_0:1:220381002> Smasher used tool "remover"
+[Sun Dec 28 15:04:45 2025] <STEAM_0:1:220381002> Smasher used tool "remover"
+[Sun Dec 28 15:04:45 2025] <STEAM_0:1:220381002> Smasher used tool "remover"
+[Sun Dec 28 15:04:46 2025] <STEAM_0:1:220381002> Smasher used tool "remover"
+[Sun Dec 28 15:05:04 2025] <STEAM_0:1:220381002> Smasher: /nato убил
+[Sun Dec 28 15:05:19 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /nato еду
+[Sun Dec 28 15:05:24 2025] <STEAM_0:1:620808428> Soldier Boy ran command "send"
+[Sun Dec 28 15:05:59 2025] Player "Shokw" <STEAM_0:1:604313596> has left the server
+[Sun Dec 28 15:06:29 2025] <STEAM_0:1:220381002> Smasher: // э ты без ноуклипа делай дубрава
+[Sun Dec 28 15:06:43 2025] <STEAM_0:1:620808428> Soldier Boy: // Я Захарова искал
+[Sun Dec 28 15:06:48 2025] <STEAM_0:1:620808428> Soldier Boy: // А он вышел ((
+[Sun Dec 28 15:08:34 2025] Smasher has killed Soldier Boy.
+[Sun Dec 28 15:09:02 2025] <STEAM_0:1:620808428> Soldier Boy: // а в чём интерес, когда ты сидишь в вх?
+[Sun Dec 28 15:09:28 2025] <STEAM_0:1:220381002> Smasher: // бери тоже вх
+[Sun Dec 28 15:09:34 2025] Smasher has killed Soldier Boy.
+[Sun Dec 28 15:11:10 2025] Smasher has killed Soldier Boy.
+[Sun Dec 28 15:12:08 2025] Soldier Boy has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Sun Dec 28 15:12:52 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "invisible 1LT A.E. Evergarden"
+[Sun Dec 28 15:13:03 2025] Smasher has killed Soldier Boy.
+[Sun Dec 28 15:13:06 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [514][sw_bomb_ao1_v3]"
+[Sun Dec 28 15:13:10 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [514][sw_bomb_ofab250sh_v3]"
+[Sun Dec 28 15:13:13 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [514][sw_bomb_ofab250sh_v3]"
+[Sun Dec 28 15:13:18 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [514][sw_bomb_ofab250sh_v3]"
+[Sun Dec 28 15:13:19 2025] Player "боб коксакер" <STEAM_0:1:570174214> is attempting to connect.
+[Sun Dec 28 15:13:20 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [514][sw_bomb_fab1500m54_umpk_v3]"
+[Sun Dec 28 15:13:31 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [514][sw_bomb_fab1500m54_umpk_v3]"
+[Sun Dec 28 15:13:39 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [566][sw_bomb_fab1000m44_v3]"
+[Sun Dec 28 15:13:46 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Sun Dec 28 15:13:46 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Sun Dec 28 15:13:46 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Sun Dec 28 15:13:48 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Sun Dec 28 15:13:48 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Sun Dec 28 15:13:51 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Sun Dec 28 15:13:52 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Sun Dec 28 15:13:55 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [569][sw_mine_pfm1_v3]"
+[Sun Dec 28 15:13:57 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [569][sw_bomb_fab250m62_v3]"
+[Sun Dec 28 15:14:01 2025] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Smasher.
+[Sun Dec 28 15:14:13 2025] Player "punk" <STEAM_0:0:921324874> is attempting to connect.
+[Sun Dec 28 15:14:19 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [495][sw_bomb_fab1500m54_umpk_v3]"
+[Sun Dec 28 15:14:27 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "invisible 1LT A.E. Evergarden"
+[Sun Dec 28 15:14:29 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [495][sw_mine_tm62_v3]"
+[Sun Dec 28 15:14:34 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [496][sw_rocket_tt250_v3]"
+[Sun Dec 28 15:14:35 2025] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Sun Dec 28 15:14:50 2025] <STEAM_0:1:220381002> Smasher ran command "respawn Дубровин"
+[Sun Dec 28 15:14:56 2025] <STEAM_0:1:220381002> Smasher ran command "slay Дубровин"
+[Sun Dec 28 15:14:59 2025] Player "punk" <STEAM_0:0:921324874> is attempting to connect.
+[Sun Dec 28 15:15:04 2025] <STEAM_0:1:620808428> Soldier Boy: /pda Сосо
+[Sun Dec 28 15:15:17 2025] Player "боб коксакер" <STEAM_0:1:570174214> has spawned in the server
+[Sun Dec 28 15:15:33 2025] Player "Толстый" <STEAM_0:1:942491968> is attempting to connect.
+[Sun Dec 28 15:15:36 2025] Player "punk" <STEAM_0:0:921324874> has spawned in the server
+[Sun Dec 28 15:15:38 2025] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Smasher.
+[Sun Dec 28 15:15:39 2025] Smasher has killed Smasher.
+[Sun Dec 28 15:15:49 2025] <STEAM_0:1:220381002> Smasher ran command "respawn ^"
+[Sun Dec 28 15:16:15 2025] <STEAM_0:1:220381002> Smasher ran command "send 1LT A.E. Evergarden"
+[Sun Dec 28 15:16:17 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [587][sw_airdrop_v3]"
+[Sun Dec 28 15:16:18 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [588][sw_airdrop_v3]"
+[Sun Dec 28 15:16:24 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [587][sw_airdrop_v3]"
+[Sun Dec 28 15:16:32 2025] <STEAM_0:1:620808428> Soldier Boy ran command "a У вас типы зали за NATO"
+[Sun Dec 28 15:16:38 2025] <STEAM_0:1:620808428> Soldier Boy ran command "a Обучите их"
+[Sun Dec 28 15:16:42 2025] <STEAM_0:1:570174214> боб коксакер: /ooc шо делать то?
+[Sun Dec 28 15:16:54 2025] <STEAM_0:1:570174214> боб коксакер: /ooc где профу взять?
+[Sun Dec 28 15:17:03 2025] <STEAM_0:1:620808428> Soldier Boy: // Щас, к вам идут
+[Sun Dec 28 15:17:13 2025] <STEAM_0:1:220381002> Smasher: // больше не стреляй из ноуклипа дубрава
+[Sun Dec 28 15:17:15 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /l дс есть?
+[Sun Dec 28 15:17:24 2025] <STEAM_0:0:921324874> punk: // да
+[Sun Dec 28 15:17:46 2025] Smasher has killed Smasher.
+[Sun Dec 28 15:17:46 2025] <STEAM_0:1:220381002> Smasher ran command "slay COL A.T. Smasher"
+[Sun Dec 28 15:19:35 2025] Player "ФаНАТ СОВЫ" <STEAM_0:1:455594560> is attempting to connect.
+[Sun Dec 28 15:21:25 2025] <STEAM_0:1:570174214> боб коксакер: /anim
+[Sun Dec 28 15:21:31 2025] <STEAM_0:0:921324874> punk: /me стал смирно
+[Sun Dec 28 15:21:33 2025] <STEAM_0:1:570174214> боб коксакер: /ooc откат
+[Sun Dec 28 15:21:40 2025] <STEAM_0:1:570174214> боб коксакер: /me стал смирно
+[Sun Dec 28 15:22:07 2025] <STEAM_0:0:921324874> punk: /me стал смирно
+[Sun Dec 28 15:22:11 2025] <STEAM_0:1:570174214> боб коксакер: /me стал смирно
+[Sun Dec 28 15:22:20 2025] <STEAM_0:0:921324874> punk: /me открыл присягу
+[Sun Dec 28 15:22:35 2025] <STEAM_0:0:921324874> punk: /me начал читать присягу
+[Sun Dec 28 15:22:44 2025] <STEAM_0:0:921324874> punk: /do 1/5
+[Sun Dec 28 15:22:48 2025] <STEAM_0:0:921324874> punk: /do 2/5
+[Sun Dec 28 15:22:52 2025] <STEAM_0:0:921324874> punk: /do 3/5
+[Sun Dec 28 15:22:56 2025] <STEAM_0:0:921324874> punk: /do 4/5
+[Sun Dec 28 15:22:59 2025] <STEAM_0:1:570174214> боб коксакер: /me открыл присягу
+[Sun Dec 28 15:23:00 2025] <STEAM_0:0:921324874> punk: /do 5/5
+[Sun Dec 28 15:23:06 2025] <STEAM_0:0:921324874> punk: /me закончил
+[Sun Dec 28 15:23:31 2025] Player "punk" <STEAM_0:0:921324874> has left the server
+[Sun Dec 28 15:24:01 2025] Smasher has killed Soldier Boy.
+[Sun Dec 28 15:24:36 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /l ну?
+[Sun Dec 28 15:24:49 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /l устав нато
+[Sun Dec 28 15:24:53 2025] <STEAM_0:1:570174214> боб коксакер: /looc где его взять этот устав
+[Sun Dec 28 15:25:14 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /l так ладно устав сдашь потом
+[Sun Dec 28 15:25:20 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /l присягу сдавай
+[Sun Dec 28 15:25:24 2025] Mr.Monolith has killed Mr.Monolith.
+[Sun Dec 28 15:25:25 2025] <STEAM_0:1:570174214> боб коксакер: /me открыл присягу
+[Sun Dec 28 15:25:32 2025] <STEAM_0:1:47931114> Mr.Monolith: // Охереть, преграда тупо схавала все пули...
+[Sun Dec 28 15:25:41 2025] <STEAM_0:1:570174214> боб коксакер: /me начал читать присягу
+[Sun Dec 28 15:25:44 2025] Player "BloodySmile" <STEAM_0:1:54838838> is attempting to connect.
+[Sun Dec 28 15:25:44 2025] <STEAM_0:1:570174214> боб коксакер: /do 1/5
+[Sun Dec 28 15:25:48 2025] <STEAM_0:1:570174214> боб коксакер: /do 2/5
+[Sun Dec 28 15:25:50 2025] <STEAM_0:1:570174214> боб коксакер: /do 3/5
+[Sun Dec 28 15:25:53 2025] <STEAM_0:1:570174214> боб коксакер: /do 4/5
+[Sun Dec 28 15:25:55 2025] <STEAM_0:1:570174214> боб коксакер: /do 5/5
+[Sun Dec 28 15:26:30 2025] Player "BloodySmile" <STEAM_0:1:54838838> has spawned in the server
+[Sun Dec 28 15:26:31 2025] Player "punk" <STEAM_0:0:921324874> is attempting to connect.
+[Sun Dec 28 15:26:51 2025] Smasher has killed Mr.Monolith.
+[Sun Dec 28 15:26:58 2025] <STEAM_0:1:47931114> Mr.Monolith: // А давай спавнкилить не будешь, а?
+[Sun Dec 28 15:27:01 2025] Player "punk" <STEAM_0:0:921324874> has spawned in the server
+[Sun Dec 28 15:27:01 2025] Player "punk" <STEAM_0:0:921324874> has left the server
+[Sun Dec 28 15:27:03 2025] <STEAM_0:1:47931114> Mr.Monolith: // Я только реснулся.
+[Sun Dec 28 15:27:05 2025] <STEAM_0:1:220381002> Smasher: // кто
+[Sun Dec 28 15:27:21 2025] <STEAM_0:1:47931114> Mr.Monolith: // Тот, кто меня с пулемета машины убил.
+[Sun Dec 28 15:27:47 2025] <STEAM_0:1:220381002> Smasher: // таких не знаем
+[Sun Dec 28 15:27:53 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /me Открыл шкаф и достал новую форму и погоны
+[Sun Dec 28 15:27:56 2025] <STEAM_0:1:47931114> Mr.Monolith: // Смешер, я серьезно.
+[Sun Dec 28 15:28:05 2025] <STEAM_0:1:47931114> Mr.Monolith: // Хуйню делаете.
+[Sun Dec 28 15:28:06 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /do передал форму и пагоны человеку на против
+[Sun Dec 28 15:28:15 2025] <STEAM_0:1:570174214> боб коксакер: /me взял форму и погоны
+[Sun Dec 28 15:28:25 2025] <STEAM_0:1:570174214> боб коксакер: /me начал надевать форму
+[Sun Dec 28 15:28:30 2025] <STEAM_0:1:570174214> боб коксакер: /do 1/5
+[Sun Dec 28 15:28:33 2025] <STEAM_0:1:570174214> боб коксакер: /do 2/5
+[Sun Dec 28 15:28:35 2025] <STEAM_0:1:570174214> боб коксакер: /do 3/5
+[Sun Dec 28 15:28:36 2025] <STEAM_0:1:570174214> боб коксакер: /do 4/5
+[Sun Dec 28 15:28:38 2025] <STEAM_0:1:570174214> боб коксакер: /do 5/5
+[Sun Dec 28 15:28:44 2025] <STEAM_0:1:570174214> боб коксакер: /me форма одета
+[Sun Dec 28 15:28:54 2025] <STEAM_0:1:220381002> Smasher: // я тоже
+[Sun Dec 28 15:29:21 2025] <STEAM_0:1:220381002> Smasher: /nato Кстати малыши новобранцы выбирайте куда пойдете - ВП, танковый взвод, пехота
+[Sun Dec 28 15:29:27 2025] <STEAM_0:1:47931114> Mr.Monolith: // "Верю"
+[Sun Dec 28 15:29:30 2025] <STEAM_0:1:54838838> BloodySmile ran command "menu"
+[Sun Dec 28 15:29:39 2025] <STEAM_0:1:220381002> Smasher: // респект
+[Sun Dec 28 15:29:57 2025] <STEAM_0:1:54838838> BloodySmile ran command "invisible Григорьев"
+[Sun Dec 28 15:30:13 2025] <STEAM_0:1:47931114> Mr.Monolith: // Не, пожалуй  НАТО делать нечего
+[Sun Dec 28 15:30:48 2025] Player "Smasher" <STEAM_0:1:220381002> has left the server
+[Sun Dec 28 15:30:50 2025] Player "Smasher" <STEAM_0:1:220381002> is attempting to connect.
+[Sun Dec 28 15:31:25 2025] Player "Smasher" <STEAM_0:1:220381002> has spawned in the server
+[Sun Dec 28 15:31:36 2025] <STEAM_0:1:54838838> BloodySmile: !vaitlist
+[Sun Dec 28 15:31:47 2025] <STEAM_0:1:54838838> BloodySmile: !logs
+[Sun Dec 28 15:31:54 2025] <STEAM_0:1:54838838> BloodySmile: !loogs
+[Sun Dec 28 15:32:05 2025] <STEAM_0:1:54838838> BloodySmile: /logs
+[Sun Dec 28 15:32:11 2025] <STEAM_0:1:54838838> BloodySmile: !logss
+[Sun Dec 28 15:32:17 2025] <STEAM_0:1:54838838> BloodySmile: !lougs
+[Sun Dec 28 15:32:36 2025] <STEAM_0:1:54838838> BloodySmile: !logs
+[Sun Dec 28 15:33:08 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /nato Обучил прибывшего выдаю звания погоны.
+[Sun Dec 28 15:34:15 2025] <STEAM_0:1:570174214> боб коксакер: /looc мне ник надо менятЬ?
+[Sun Dec 28 15:35:50 2025] <STEAM_0:1:570174214> боб коксакер: B.V
+[Sun Dec 28 15:40:15 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // хахха невидимое пятно
+[Sun Dec 28 15:41:22 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "a форест у тебя он тоже пятно?"
+[Sun Dec 28 15:42:05 2025] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Sun Dec 28 15:42:05 2025] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Smasher.
+[Sun Dec 28 15:42:38 2025] боб коксакер has killed боб коксакер.
+[Sun Dec 28 15:42:41 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [496][sw_bomb_brab1000m43_v3]"
+[Sun Dec 28 15:42:47 2025] Player "Толстый" <STEAM_0:1:942491968> is attempting to connect.
+[Sun Dec 28 15:43:18 2025] <STEAM_0:1:220381002> Smasher ran command "hp COL A.T. Smasher 1000"
+[Sun Dec 28 15:43:34 2025] Smasher has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Sun Dec 28 15:43:39 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: пизда тебе
+[Sun Dec 28 15:43:59 2025] Player "ФаНАТ СОВЫ" <STEAM_0:1:455594560> is attempting to connect.
+[Sun Dec 28 15:44:00 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [496][sw_bomb_ofab250sh_v3]"
+[Sun Dec 28 15:44:03 2025] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Sun Dec 28 15:44:03 2025] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed боб коксакер.
+[Sun Dec 28 15:44:03 2025] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Smasher.
+[Sun Dec 28 15:44:22 2025] <STEAM_0:1:220381002> Smasher ran command "respawn Bau"
+[Sun Dec 28 15:44:26 2025] <STEAM_0:1:220381002> Smasher ran command "goto Bay"
+[Sun Dec 28 15:44:28 2025] <STEAM_0:1:220381002> Smasher ran command "goto Bau"
+[Sun Dec 28 15:44:33 2025] <STEAM_0:1:220381002> Smasher ran command "bring Bau"
+[Sun Dec 28 15:45:24 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [594][sw_item_refuel]"
+[Sun Dec 28 15:45:34 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [594][lvs_item_refuel]"
+[Sun Dec 28 15:45:49 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [595][lvs_wheeldrive_rp_t90m]"
+[Sun Dec 28 15:45:51 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [820][lfs_grdn_ah1g]"
+[Sun Dec 28 15:45:57 2025] Player "Толстый" <STEAM_0:1:942491968> has spawned in the server
+[Sun Dec 28 15:45:58 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [599][sw_item_refuel]"
+[Sun Dec 28 15:46:00 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [600][lvs_wheeldrive_rp_dabrams_m1a1]"
+[Sun Dec 28 15:46:00 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [822][lfs_grdn_ah64d]"
+[Sun Dec 28 15:46:01 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [823][lvs_wheeldrive_rp_t90m]"
+[Sun Dec 28 15:46:03 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [592][lfs_grdn_ah64d]"
+[Sun Dec 28 15:46:08 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [599][sw_gaz2330]"
+[Sun Dec 28 15:46:12 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [721][sw_item_refuel]"
+[Sun Dec 28 15:46:17 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [721][lvs_item_refuel]"
+[Sun Dec 28 15:46:25 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [600][lvs_item_refuel]"
+[Sun Dec 28 15:46:48 2025] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Sun Dec 28 15:46:50 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [600][lvs_vehicle_repair]"
+[Sun Dec 28 15:47:07 2025] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Sun Dec 28 15:47:15 2025] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Sun Dec 28 15:47:24 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [611][sw_airdrop_v3]"
+[Sun Dec 28 15:47:26 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [612][sw_airdrop_v3]"
+[Sun Dec 28 15:47:29 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [607][sw_bmp3m]"
+[Sun Dec 28 15:48:32 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [607][sw_bmp2]"
+[Sun Dec 28 15:48:45 2025] Smasher has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Sun Dec 28 15:48:46 2025] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Sun Dec 28 15:48:59 2025] <STEAM_0:1:220381002> Smasher ran command "respawn Evergarden"
+[Sun Dec 28 15:49:07 2025] <STEAM_0:1:220381002> Smasher ran command "respawn Evergarden"
+[Sun Dec 28 15:49:09 2025] <STEAM_0:1:220381002> Smasher ran command "respawn Eve"
+[Sun Dec 28 15:49:13 2025] <STEAM_0:1:220381002> Smasher ran command "respawn Ever"
+[Sun Dec 28 15:49:28 2025] боб коксакер has killed Толстый.
+[Sun Dec 28 15:49:35 2025] Smasher has killed боб коксакер.
+[Sun Dec 28 15:49:36 2025] боб коксакер has killed боб коксакер.
+[Sun Dec 28 15:50:06 2025] <STEAM_0:1:220381002> Smasher ran command "invisible COL A.T. Smasher"
+[Sun Dec 28 15:50:09 2025] <STEAM_0:1:220381002> Smasher ran command "noclip COL A.T. Smasher"
+[Sun Dec 28 15:50:12 2025] <STEAM_0:1:220381002> Smasher ran command "goto Bay"
+[Sun Dec 28 15:50:14 2025] <STEAM_0:1:220381002> Smasher ran command "goto Bau"
+[Sun Dec 28 15:50:19 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [496][sw_bmp1]"
+[Sun Dec 28 15:51:26 2025] <STEAM_0:1:942491968> Толстый: /me приложил руку к груди и начал читать присягу
+[Sun Dec 28 15:51:33 2025] <STEAM_0:1:942491968> Толстый: /me 1/10
+[Sun Dec 28 15:51:36 2025] <STEAM_0:1:942491968> Толстый: /me 2/10
+[Sun Dec 28 15:51:43 2025] <STEAM_0:1:942491968> Толстый: /me 3/10
+[Sun Dec 28 15:51:46 2025] <STEAM_0:1:942491968> Толстый: /Me 4/10
+[Sun Dec 28 15:51:52 2025] <STEAM_0:1:942491968> Толстый: /me 4/10
+[Sun Dec 28 15:51:58 2025] <STEAM_0:1:942491968> Толстый: /me 5/10
+[Sun Dec 28 15:52:08 2025] <STEAM_0:1:942491968> Толстый: /me 6/10
+[Sun Dec 28 15:52:14 2025] <STEAM_0:1:220381002> Smasher ran command "invisible COL A.T. Smasher"
+[Sun Dec 28 15:52:14 2025] <STEAM_0:1:942491968> Толстый: /me 7/10
+[Sun Dec 28 15:52:19 2025] <STEAM_0:1:942491968> Толстый: /me 8/10
+[Sun Dec 28 15:52:21 2025] <STEAM_0:1:220381002> Smasher ran command "noclip COL A.T. Smasher"
+[Sun Dec 28 15:52:23 2025] <STEAM_0:1:942491968> Толстый: /me 9/10
+[Sun Dec 28 15:52:27 2025] <STEAM_0:1:942491968> Толстый: /me 10/10
+[Sun Dec 28 15:53:22 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [496][lvs_wheeldrive_hummer]"
+[Sun Dec 28 15:53:28 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [843][lvs_wheeldrive_hummer]"
+[Sun Dec 28 15:53:49 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [843][lfs_grdn_ka50]"
+[Sun Dec 28 15:53:57 2025] боб коксакер has killed боб коксакер.
+[Sun Dec 28 15:53:57 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "slay PFC B.V Bauer"
+[Sun Dec 28 15:53:59 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [513][lvs_wheeldrive_m3a3]"
+[Sun Dec 28 15:54:18 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [505][sw_bmp3m]"
+[Sun Dec 28 15:54:45 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [848][sw_matv]"
+[Sun Dec 28 15:54:48 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [882][sw_bmp1m]"
+[Sun Dec 28 15:54:55 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [955][lvs_wheeldrive_hummer_tow]"
+[Sun Dec 28 15:55:11 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [592][sw_bmp1p]"
+[Sun Dec 28 15:55:15 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [592][sw_bmp1am]"
+[Sun Dec 28 15:55:19 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [496][sw_bmp1]"
+[Sun Dec 28 15:55:26 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [496][lvs_wheeldrive_rp_t90m]"
+[Sun Dec 28 15:55:35 2025] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Sun Dec 28 15:55:38 2025] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Sun Dec 28 15:55:55 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [496][lvs_wheeldrive_nonrp_t90m]"
+[Sun Dec 28 15:57:30 2025] Player "ФаНАТ СОВЫ" <STEAM_0:1:455594560> is attempting to connect.
+[Sun Dec 28 15:58:19 2025] <STEAM_0:1:942491968> Толстый: пулеметчик
+[Sun Dec 28 15:58:37 2025] <STEAM_0:1:942491968> Толстый: /l где меня пинганул туда отписать?
+[Sun Dec 28 15:59:59 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [828][lvs_item_turbo]"
+[Sun Dec 28 16:00:19 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [492][lvs_missile]"
+[Sun Dec 28 16:00:26 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [831][lvs_missile]"
+[Sun Dec 28 16:00:27 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [492][lvs_missile]"
+[Sun Dec 28 16:00:34 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [832][lvs_missile]"
+[Sun Dec 28 16:00:35 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [831][lvs_missile]"
+[Sun Dec 28 16:01:00 2025] <STEAM_0:1:570174214> боб коксакер: /looc почему кнопка купить донат не работает
+[Sun Dec 28 16:01:02 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [492][lvs_wheeldrive_hummer_tow]"
+[Sun Dec 28 16:01:10 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [855][sw_airdrop_v3]"
+[Sun Dec 28 16:01:14 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [855][sw_airdrop_v3]"
+[Sun Dec 28 16:01:14 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [856][sw_airdrop_v3]"
+[Sun Dec 28 16:01:22 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [855][sw_airdrop_v3]"
+[Sun Dec 28 16:01:24 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [856][sw_airdrop_v3]"
+[Sun Dec 28 16:01:36 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [855][lvs_trailer_flak]"
+[Sun Dec 28 16:02:02 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [855][lvs_protontorpedo]"
+[Sun Dec 28 16:02:03 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [856][lvs_protontorpedo]"
+[Sun Dec 28 16:02:18 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [855][lvs_vehicle_repair]"
+[Sun Dec 28 16:02:36 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [856][lvs_concussionmissile]"
+[Sun Dec 28 16:02:44 2025] <STEAM_0:1:942491968> Толстый: /l вообще все
+[Sun Dec 28 16:02:50 2025] <STEAM_0:1:942491968> Толстый: /l ?
+[Sun Dec 28 16:04:01 2025] <STEAM_0:1:220381002> Smasher ran command "noclip COL A.T. Smasher"
+[Sun Dec 28 16:04:03 2025] <STEAM_0:1:220381002> Smasher ran command "invisible COL A.T. Smasher"
+[Sun Dec 28 16:06:47 2025] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Толстый.
+[Sun Dec 28 16:07:31 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /nato мы готовы Сэр полковник.
+[Sun Dec 28 16:08:17 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Sun Dec 28 16:08:35 2025] Player "Worshiper of God" <STEAM_0:0:74235942> is attempting to connect.
+[Sun Dec 28 16:09:16 2025] Player "Worshiper of God" <STEAM_0:0:74235942> has spawned in the server
+[Sun Dec 28 16:10:19 2025] Mr.Monolith has killed Worshiper of God.
+[Sun Dec 28 16:10:20 2025] Worshiper of God has killed Worshiper of God.
+[Sun Dec 28 16:10:54 2025] <STEAM_0:1:220381002> Smasher: /nato F1 - Карта местности
+[Sun Dec 28 16:11:28 2025] Mr.Monolith has killed Worshiper of God.
+[Sun Dec 28 16:11:29 2025] Worshiper of God has killed Worshiper of God.
+[Sun Dec 28 16:11:41 2025] <STEAM_0:1:220381002> Smasher: /nato Займите крыши
+[Sun Dec 28 16:14:10 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /nato на верх посмотрите
+[Sun Dec 28 16:14:10 2025] Player "Soldier Boy" <STEAM_0:1:620808428> has left the server
+[Sun Dec 28 16:14:11 2025] Player "Soldier Boy" <STEAM_0:1:620808428> is attempting to connect.
+[Sun Dec 28 16:14:37 2025] Player "Soldier Boy" <STEAM_0:1:620808428> has spawned in the server
+[Sun Dec 28 16:15:01 2025] <STEAM_0:1:620808428> Soldier Boy ran command "menu"
+[Sun Dec 28 16:15:36 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "a бедный город"
+[Sun Dec 28 16:16:09 2025] <STEAM_0:1:220381002> Smasher: // э верни
+[Sun Dec 28 16:16:31 2025] <STEAM_0:1:620808428> Soldier Boy: // Как фикс будет, вх в машинах
+[Sun Dec 28 16:16:36 2025] <STEAM_0:1:620808428> Soldier Boy: // Верну
+[Sun Dec 28 16:16:45 2025] <STEAM_0:1:220381002> Smasher: // ты себе тоже сними
+[Sun Dec 28 16:16:57 2025] <STEAM_0:1:620808428> Soldier Boy: // Не могу
+[Sun Dec 28 16:17:08 2025] <STEAM_0:1:220381002> Smasher: // нихуя ты справедливо придумал
+[Sun Dec 28 16:17:28 2025] <STEAM_0:1:620808428> Soldier Boy: // Я игроков сквозь стены на респе хуярил?
+[Sun Dec 28 16:17:40 2025] <STEAM_0:1:220381002> Smasher: // lf
+[Sun Dec 28 16:17:41 2025] <STEAM_0:1:220381002> Smasher: // да
+[Sun Dec 28 16:17:46 2025] <STEAM_0:1:620808428> Soldier Boy: // А бля
+[Sun Dec 28 16:17:46 2025] Player "punk" <STEAM_0:0:921324874> is attempting to connect.
+[Sun Dec 28 16:17:51 2025] <STEAM_0:1:620808428> Soldier Boy: // Пиздабол ты
+[Sun Dec 28 16:17:55 2025] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Sun Dec 28 16:17:56 2025] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Sun Dec 28 16:17:59 2025] <STEAM_0:1:942491968> Толстый: // екарный бабай
+[Sun Dec 28 16:18:01 2025] <STEAM_0:1:220381002> Smasher: // пиздеж
+[Sun Dec 28 16:18:08 2025] <STEAM_0:1:220381002> Smasher: // ты сам через ноуклип бомбы сбрасыал
+[Sun Dec 28 16:18:09 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // окак
+[Sun Dec 28 16:18:19 2025] Player "punk" <STEAM_0:0:921324874> has spawned in the server
+[Sun Dec 28 16:18:38 2025] <STEAM_0:1:220381002> Smasher: /nato хамви с тоу пригоните к себе хули он посреди дороги валяется
+[Sun Dec 28 16:19:15 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [936][sw_airdrop_v3]"
+[Sun Dec 28 16:19:17 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [937][sw_airdrop_v3]"
+[Sun Dec 28 16:19:20 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [938][sw_airdrop_v3]"
+[Sun Dec 28 16:19:25 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [936][sw_airdrop_v3]"
+[Sun Dec 28 16:19:29 2025] <STEAM_0:1:220381002> Smasher: /nato панков тут?
+[Sun Dec 28 16:19:30 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [936][sw_airdrop_v3]"
+[Sun Dec 28 16:19:34 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [937][sw_airdrop_v3]"
+[Sun Dec 28 16:19:35 2025] <STEAM_0:0:921324874> punk: да
+[Sun Dec 28 16:19:37 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [936][sw_airdrop_v3]"
+[Sun Dec 28 16:19:37 2025] <STEAM_0:1:220381002> Smasher: /nato хамви с тоу пригоните к себе хули он посреди дороги валяется
+[Sun Dec 28 16:19:39 2025] <STEAM_0:1:942491968> Толстый: должен
+[Sun Dec 28 16:19:45 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /nato сейчас
+[Sun Dec 28 16:19:46 2025] <STEAM_0:1:942491968> Толстый: должен
+[Sun Dec 28 16:20:04 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "invisible 1LT A.E. Evergarden"
+[Sun Dec 28 16:20:24 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "invisible 1LT A.E. Evergarden"
+[Sun Dec 28 16:23:14 2025] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Толстый.
+[Sun Dec 28 16:23:50 2025] <STEAM_0:1:220381002> Smasher: /nato на западную точку ебашьте
+[Sun Dec 28 16:23:53 2025] Player ".σαλαδ ϲαεσαρ" <STEAM_0:0:542957151> is attempting to connect.
+[Sun Dec 28 16:24:09 2025] Soldier Boy has killed Толстый.
+[Sun Dec 28 16:24:09 2025] Soldier Boy has killed боб коксакер.
+[Sun Dec 28 16:24:24 2025] Worshiper of God has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Sun Dec 28 16:24:48 2025] Player "ФаНАТ СОВЫ" <STEAM_0:1:455594560> is attempting to connect.
+[Sun Dec 28 16:25:07 2025] <STEAM_0:1:220381002> Smasher: /nato че у вас там
+[Sun Dec 28 16:26:09 2025] <STEAM_0:1:220381002> Smasher: /nato На рацию через F2 зайдите канал 12
+[Sun Dec 28 16:27:28 2025] <STEAM_0:1:220381002> Smasher: /nato На рацию через F2 зайдите канал 12
+[Sun Dec 28 16:27:28 2025] <STEAM_0:1:220381002> Smasher: /nato На рацию через F2 зайдите канал 12
+[Sun Dec 28 16:27:29 2025] <STEAM_0:1:220381002> Smasher: /nato На рацию через F2 зайдите канал 12
+[Sun Dec 28 16:28:08 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [619][sw_airdrop_v3]"
+[Sun Dec 28 16:28:11 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [620][sw_airdrop_v3]"
+[Sun Dec 28 16:28:16 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [619][sw_airdrop_v3]"
+[Sun Dec 28 16:28:17 2025] <STEAM_0:1:220381002> Smasher: // а без ноуклипа на крышу слабо залезть
+[Sun Dec 28 16:28:19 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [620][sw_airdrop_v3]"
+[Sun Dec 28 16:28:22 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [619][sw_airdrop_v3]"
+[Sun Dec 28 16:28:24 2025] <STEAM_0:1:620808428> Soldier Boy: // А мы на крыше?
+[Sun Dec 28 16:28:33 2025] <STEAM_0:1:220381002> Smasher: // конечно
+[Sun Dec 28 16:28:36 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [619][sw_airdrop_v3]"
+[Sun Dec 28 16:28:37 2025] <STEAM_0:1:620808428> Soldier Boy: // ...
+[Sun Dec 28 16:28:41 2025] <STEAM_0:1:620808428> Soldier Boy: // окей
+[Sun Dec 28 16:28:48 2025] <STEAM_0:1:220381002> Smasher: // когда стрелял с рпг
+[Sun Dec 28 16:28:51 2025] <STEAM_0:1:220381002> Smasher: // с крыши
+[Sun Dec 28 16:28:59 2025] <STEAM_0:1:620808428> Soldier Boy: // какой крыши?
+[Sun Dec 28 16:29:04 2025] <STEAM_0:1:620808428> Soldier Boy: // я внизу был
+[Sun Dec 28 16:29:13 2025] <STEAM_0:1:220381002> Smasher: // думаешь?
+[Sun Dec 28 16:29:19 2025] <STEAM_0:1:620808428> Soldier Boy: // Да
+[Sun Dec 28 16:29:24 2025] <STEAM_0:1:620808428> Soldier Boy: // на демке посмотри
+[Sun Dec 28 16:29:28 2025] <STEAM_0:1:620808428> Soldier Boy: // если пишешь
+[Sun Dec 28 16:29:31 2025] Smasher has killed Worshiper of God.
+[Sun Dec 28 16:29:34 2025] <STEAM_0:1:570174214> боб коксакер: /ooc где рпг взять
+[Sun Dec 28 16:32:31 2025] Soldier Boy has killed Soldier Boy.
+[Sun Dec 28 16:32:38 2025] <STEAM_0:1:220381002> Smasher: // ХАХАХАХ
+[Sun Dec 28 16:33:48 2025] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Mr.Monolith.
+[Sun Dec 28 16:33:49 2025] Mr.Monolith has killed Mr.Monolith.
+[Sun Dec 28 16:34:09 2025] Worshiper of God has killed Толстый.
+[Sun Dec 28 16:34:09 2025] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Worshiper of God.
+[Sun Dec 28 16:34:10 2025] Worshiper of God has killed Worshiper of God.
+[Sun Dec 28 16:35:44 2025] Smasher has killed Soldier Boy.
+[Sun Dec 28 16:36:10 2025] <STEAM_0:1:620808428> Soldier Boy: // Ты людей на базе не зажимай
+[Sun Dec 28 16:36:20 2025] <STEAM_0:1:220381002> Smasher: // так он не на базе был
+[Sun Dec 28 16:36:38 2025] <STEAM_0:1:620808428> Soldier Boy: // С базы выходи и его сразу сымают
+[Sun Dec 28 16:36:42 2025] <STEAM_0:1:620808428> Soldier Boy: // на пороге
+[Sun Dec 28 16:36:50 2025] <STEAM_0:1:220381002> Smasher: // он вообще в лесу был дальше от базы
+[Sun Dec 28 16:37:12 2025] Smasher has killed Worshiper of God.
+[Sun Dec 28 16:38:18 2025] worldspawn has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Sun Dec 28 16:38:28 2025] worldspawn has killed punk.
+[Sun Dec 28 16:38:44 2025] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed punk.
+[Sun Dec 28 16:38:45 2025] punk has killed punk.
+[Sun Dec 28 16:38:59 2025] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Толстый.
+[Sun Dec 28 16:39:00 2025] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed боб коксакер.
+[Sun Dec 28 16:39:01 2025] боб коксакер has killed боб коксакер.
+[Sun Dec 28 16:39:16 2025] Smasher has killed Soldier Boy.
+[Sun Dec 28 16:39:28 2025] Player ".σαλαδ ϲαεσαρ" <STEAM_0:0:542957151> has spawned in the server
+[Sun Dec 28 16:39:39 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [515][sw_airdrop_v3]"
+[Sun Dec 28 16:39:42 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [591][sw_airdrop_v3]"
+[Sun Dec 28 16:39:45 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [515][sw_airdrop_v3]"
+[Sun Dec 28 16:39:48 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [511][sw_airdrop_v3]"
+[Sun Dec 28 16:40:12 2025] Worshiper of God has killed Smasher.
+[Sun Dec 28 16:40:40 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [587][lvs_wheeldrive_hummer_mk19]"
+[Sun Dec 28 16:40:41 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [754][lvs_wheeldrive_hummer_tow]"
+[Sun Dec 28 16:41:42 2025] <STEAM_0:1:54838838> BloodySmile ran command "invisible Григорьев"
+[Sun Dec 28 16:42:21 2025] Smasher has killed Soldier Boy.
+[Sun Dec 28 16:42:24 2025] worldspawn has killed punk.
+[Sun Dec 28 16:42:32 2025] Smasher has killed Mr.Monolith.
+[Sun Dec 28 16:43:06 2025] <STEAM_0:0:542957151> .σαλαδ ϲαεσαρ: // А как сторону сменить?
+[Sun Dec 28 16:43:11 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // не как
+[Sun Dec 28 16:43:15 2025] <STEAM_0:1:620808428> Soldier Boy: // Жалобу написать
+[Sun Dec 28 16:43:21 2025] <STEAM_0:1:620808428> Soldier Boy: // F7
+[Sun Dec 28 16:43:27 2025] Player "punk" <STEAM_0:0:921324874> has left the server
+[Sun Dec 28 16:43:29 2025] Player "punk" <STEAM_0:0:921324874> is attempting to connect.
+[Sun Dec 28 16:43:45 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [623][lvs_wheeldrive_nonrp_t90m]"
+[Sun Dec 28 16:43:49 2025] <STEAM_0:1:620808428> Soldier Boy: // И если ты уже имел роли в другой стороне, то сообщить Лидеру
+[Sun Dec 28 16:44:04 2025] Player "punk" <STEAM_0:0:921324874> has spawned in the server
+[Sun Dec 28 16:44:20 2025] Smasher has killed Worshiper of God.
+[Sun Dec 28 16:44:48 2025] BloodySmile has killed Smasher.
+[Sun Dec 28 16:45:10 2025] lvs_wheeldrive_hummer_tow has killed BloodySmile.
+[Sun Dec 28 16:45:15 2025] lvs_wheeldrive_hummer_tow has killed Soldier Boy.
+[Sun Dec 28 16:45:54 2025] Worshiper of God has killed Толстый.
+[Sun Dec 28 16:46:01 2025] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Sun Dec 28 16:46:05 2025] <STEAM_0:0:542957151> .σαλαδ ϲαεσαρ: Куда бля
+[Sun Dec 28 16:46:06 2025] <STEAM_0:1:620808428> Soldier Boy: // По правилу SK
+[Sun Dec 28 16:46:10 2025] <STEAM_0:1:220381002> Smasher: // дубрава верни командирку
+[Sun Dec 28 16:46:14 2025] Worshiper of God has killed боб коксакер.
+[Sun Dec 28 16:46:15 2025] боб коксакер has killed боб коксакер.
+[Sun Dec 28 16:46:16 2025] <STEAM_0:1:220381002> Smasher: // я не могу выдавать сука профу
+[Sun Dec 28 16:46:21 2025] <STEAM_0:1:620808428> Soldier Boy: // нельзя кемпить выходы с баз
+[Sun Dec 28 16:46:33 2025] <STEAM_0:1:570174214> боб коксакер: /ooc я бежал танк воровать вражеский
+[Sun Dec 28 16:46:47 2025] <STEAM_0:0:542957151> .σαλαδ ϲαεσαρ: Сер да сер
+[Sun Dec 28 16:46:48 2025] <STEAM_0:1:942491968> Толстый: здравия желаю
+[Sun Dec 28 16:46:53 2025] <STEAM_0:1:220381002> Smasher: Ф
+[Sun Dec 28 16:46:59 2025] <STEAM_0:1:54838838> BloodySmile spawned SWEP "Weapon [681][tfa_inss_asval]"
+[Sun Dec 28 16:47:00 2025] <STEAM_0:0:542957151> .σαλαδ ϲαεσαρ: Да сержант инструктор!
+[Sun Dec 28 16:47:00 2025] <STEAM_0:1:54838838> BloodySmile spawned SWEP "Weapon [682][tfa_inss_asval]"
+[Sun Dec 28 16:47:00 2025] <STEAM_0:1:54838838> BloodySmile spawned SWEP "Weapon [683][tfa_inss_asval]"
+[Sun Dec 28 16:47:00 2025] <STEAM_0:1:54838838> BloodySmile spawned SWEP "Weapon [684][tfa_inss_asval]"
+[Sun Dec 28 16:47:01 2025] <STEAM_0:1:54838838> BloodySmile spawned SWEP "Weapon [681][tfa_inss_asval]"
+[Sun Dec 28 16:47:05 2025] <STEAM_0:1:620808428> Soldier Boy ran command "rank COL A.T. Smasher admin-j 0"
+[Sun Dec 28 16:47:25 2025] <STEAM_0:1:220381002> Smasher: /nato Всем НА РАЦИЮ ЗАЙТИ F2 12 ЧАСТОТА
+[Sun Dec 28 16:47:29 2025] <STEAM_0:1:620808428> Soldier Boy ran command "rank Иванов user+ 0"
+[Sun Dec 28 16:47:57 2025] <STEAM_0:0:542957151> .σαλαδ ϲαεσαρ: Снайпер
+[Sun Dec 28 16:49:30 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /l на и обвесы
+[Sun Dec 28 16:49:35 2025] <STEAM_0:0:542957151> .σαλαδ ϲαεσαρ: А как прицел поставить?
+[Sun Dec 28 16:49:38 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /l на и обвесы
+[Sun Dec 28 16:51:48 2025] <STEAM_0:0:542957151> .σαλαδ ϲαεσαρ: /ooc Вы что мрази пидары:muscle::fist:
+[Sun Dec 28 16:52:02 2025] Mr.Monolith has killed боб коксакер.
+[Sun Dec 28 16:52:03 2025] Mr.Monolith has killed Толстый.
+[Sun Dec 28 16:52:03 2025] Толстый has killed Толстый.
+[Sun Dec 28 16:52:22 2025] Smasher has killed BloodySmile.
+[Sun Dec 28 16:52:22 2025] Smasher has killed Worshiper of God.
+[Sun Dec 28 16:52:38 2025] Mr.Monolith has killed Smasher.
+[Sun Dec 28 16:52:43 2025] боб коксакер has killed боб коксакер.
+[Sun Dec 28 16:53:12 2025] <STEAM_0:1:570174214> боб коксакер: снайпера как получить?
+[Sun Dec 28 16:53:35 2025] Mr.Monolith has killed punk.
+[Sun Dec 28 16:53:35 2025] punk has killed punk.
+[Sun Dec 28 16:53:53 2025] Player "punk" <STEAM_0:0:921324874> has left the server
+[Sun Dec 28 16:53:55 2025] Player "punk" <STEAM_0:0:921324874> is attempting to connect.
+[Sun Dec 28 16:54:26 2025] Player "punk" <STEAM_0:0:921324874> has spawned in the server
+[Sun Dec 28 16:54:54 2025] <STEAM_0:1:942491968> Толстый: // а че делать если я невидимый
+[Sun Dec 28 16:55:07 2025] <STEAM_0:1:620808428> Soldier Boy: // Жалобу напиши
+[Sun Dec 28 16:55:49 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [734][sw_airdrop_v3]"
+[Sun Dec 28 16:55:52 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [740][sw_airdrop_v3]"
+[Sun Dec 28 16:55:58 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [740][sw_airdrop_large_v3]"
+[Sun Dec 28 16:56:00 2025] Толстый has killed боб коксакер.
+[Sun Dec 28 16:56:06 2025] .σαλαδ ϲαεσαρ has killed BloodySmile.
+[Sun Dec 28 16:56:24 2025] <STEAM_0:1:620808428> Soldier Boy ran command "a Смешен"
+[Sun Dec 28 16:56:31 2025] <STEAM_0:1:620808428> Soldier Boy ran command "a F7 нажми"
+[Sun Dec 28 16:56:31 2025] Player "ФаНАТ СОВЫ" <STEAM_0:1:455594560> is attempting to connect.
+[Sun Dec 28 16:56:36 2025] <STEAM_0:1:620808428> Soldier Boy ran command "a Жалобы разбери"
+[Sun Dec 28 16:56:47 2025] Толстый has killed Толстый.
+[Sun Dec 28 16:56:47 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "slay RCT V.U Wright"
+[Sun Dec 28 16:56:54 2025] .σαλαδ ϲαεσαρ has killed Mr.Monolith.
+[Sun Dec 28 16:57:12 2025] <STEAM_0:1:47931114> Mr.Monolith: // А это, кто у НАТО невидимый бегает? С винтовкой? xD
+[Sun Dec 28 16:57:27 2025] <STEAM_0:0:542957151> .σαλαδ ϲαεσαρ: /ooc -2
+[Sun Dec 28 16:57:38 2025] <STEAM_0:1:47931114> Mr.Monolith: // Ну конечно, в инвизе то...
+[Sun Dec 28 16:57:40 2025] .σαλαδ ϲαεσαρ has killed .σαλαδ ϲαεσαρ.
+[Sun Dec 28 16:57:40 2025] <STEAM_0:1:620808428> Soldier Boy ran command "slay Fiske"
+[Sun Dec 28 16:57:47 2025] <STEAM_0:0:542957151> .σαλαδ ϲαεσαρ: /ooc Какой нахуй инвиз
+[Sun Dec 28 16:58:00 2025] <STEAM_0:0:542957151> .σαλαδ ϲαεσαρ: /ooc Хахахаххахах лохи ебаные с помощью команды убили меня
+[Sun Dec 28 16:58:05 2025] <STEAM_0:0:542957151> .σαλαδ ϲαεσαρ: /ooc Герои
+[Sun Dec 28 16:58:09 2025] <STEAM_0:1:47931114> Mr.Monolith: // Обычный. Ты у меян просто невидимый был. Только винтовка летающая xD
+[Sun Dec 28 16:58:22 2025] <STEAM_0:0:74235942> Worshiper of God: // че ты распизделся хуесос не брачного отчима?
+[Sun Dec 28 16:58:23 2025] <STEAM_0:0:542957151> .σαλαδ ϲαεσαρ: /ooc Ага ага
+[Sun Dec 28 16:58:33 2025] <STEAM_0:0:542957151> .σαλαδ ϲαεσαρ: /ooc Вот это да
+[Sun Dec 28 16:58:33 2025] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed punk.
+[Sun Dec 28 16:58:34 2025] punk has killed punk.
+[Sun Dec 28 16:58:38 2025] Толстый has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Sun Dec 28 16:58:39 2025] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Sun Dec 28 16:58:41 2025] <STEAM_0:0:74235942> Worshiper of God: // распиши мне а то я под забыл когда я ебал тебя что я тебе на жопе написал
+[Sun Dec 28 16:58:43 2025] <STEAM_0:1:54838838> BloodySmile ran command "invisible Григорьев"
+[Sun Dec 28 16:59:02 2025] боб коксакер has killed punk.
+[Sun Dec 28 16:59:07 2025] <STEAM_0:1:620808428> Soldier Boy ran command "a Ангел, Смэшер, жалобы разберите"
+[Sun Dec 28 16:59:13 2025] боб коксакер has killed Толстый.
+[Sun Dec 28 16:59:13 2025] <STEAM_0:0:542957151> .σαλαδ ϲαεσαρ: /ooc ХАХАХАХАХАХАХХ блять что ты несешь бля
+[Sun Dec 28 16:59:19 2025] <STEAM_0:0:542957151> .σαλαδ ϲαεσαρ: /ooc Ебнутый
+[Sun Dec 28 16:59:29 2025] <STEAM_0:1:47931114> Mr.Monolith: // Фиске, ты первый так-то начал...
+[Sun Dec 28 16:59:38 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "invisible 1LT A.E. Evergarden"
+[Sun Dec 28 17:00:09 2025] <STEAM_0:1:620808428> Soldier Boy ran command "invisible Дубровин"
+[Sun Dec 28 17:00:11 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "hide 1LT A.E. Evergarden"
+[Sun Dec 28 17:00:14 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "unhide 1LT A.E. Evergarden"
+[Sun Dec 28 17:00:19 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "invisible 1LT A.E. Evergarden"
+[Sun Dec 28 17:00:20 2025] боб коксакер has killed Толстый.
+[Sun Dec 28 17:00:59 2025] <STEAM_0:1:570174214> боб коксакер: /me упал отжался
+[Sun Dec 28 17:01:04 2025] <STEAM_0:1:570174214> боб коксакер: /do 1/10
+[Sun Dec 28 17:01:05 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "a а как ему сменить роль?"
+[Sun Dec 28 17:01:08 2025] <STEAM_0:1:570174214> боб коксакер: /do 2/10
+[Sun Dec 28 17:01:11 2025] <STEAM_0:1:570174214> боб коксакер: /do 3/10
+[Sun Dec 28 17:01:15 2025] <STEAM_0:1:570174214> боб коксакер: /do 4/10
+[Sun Dec 28 17:01:18 2025] <STEAM_0:1:570174214> боб коксакер: /do 5/10
+[Sun Dec 28 17:01:20 2025] <STEAM_0:1:942491968> Толстый: /me отжался 1/10
+[Sun Dec 28 17:01:20 2025] <STEAM_0:1:570174214> боб коксакер: /do 6/10
+[Sun Dec 28 17:01:23 2025] <STEAM_0:1:942491968> Толстый: /me 2/10
+[Sun Dec 28 17:01:23 2025] <STEAM_0:1:620808428> Soldier Boy ran command "goto 1LT A.E. Evergarden"
+[Sun Dec 28 17:01:24 2025] <STEAM_0:1:570174214> боб коксакер: /do 7/10
+[Sun Dec 28 17:01:27 2025] <STEAM_0:1:570174214> боб коксакер: /do 8/10
+[Sun Dec 28 17:01:28 2025] <STEAM_0:1:942491968> Толстый: /me 3/10
+[Sun Dec 28 17:01:29 2025] <STEAM_0:1:570174214> боб коксакер: /do 9/10
+[Sun Dec 28 17:01:32 2025] <STEAM_0:1:942491968> Толстый: /me 4/10
+[Sun Dec 28 17:01:32 2025] <STEAM_0:1:570174214> боб коксакер: /do 10/10
+[Sun Dec 28 17:01:32 2025] <STEAM_0:1:620808428> Soldier Boy: хай
+[Sun Dec 28 17:01:35 2025] <STEAM_0:1:942491968> Толстый: /me 5/10
+[Sun Dec 28 17:01:38 2025] <STEAM_0:1:942491968> Толстый: /me 6/10
+[Sun Dec 28 17:01:44 2025] <STEAM_0:1:942491968> Толстый: /me 7|10
+[Sun Dec 28 17:01:51 2025] <STEAM_0:1:942491968> Толстый: /me 8/10
+[Sun Dec 28 17:01:54 2025] <STEAM_0:1:942491968> Толстый: /me 9/10
+[Sun Dec 28 17:01:59 2025] <STEAM_0:1:942491968> Толстый: /me 10/10
+[Sun Dec 28 17:02:07 2025] <STEAM_0:1:620808428> Soldier Boy ran command "a Умницы!"
+[Sun Dec 28 17:02:09 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "invisible 1LT A.E. Evergarden"
+[Sun Dec 28 17:02:38 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "spectate Иванов"
+[Sun Dec 28 17:03:01 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "spectate COL A.T. Smasher"
+[Sun Dec 28 17:03:03 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "spectate COL A.T. Smasher"
+[Sun Dec 28 17:03:09 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "a бля"
+[Sun Dec 28 17:03:33 2025] Player "YARIK" <STEAM_0:1:947764545> is attempting to connect.
+[Sun Dec 28 17:04:05 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "respawn Леха"
+[Sun Dec 28 17:05:00 2025] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Sun Dec 28 17:05:05 2025] <STEAM_0:0:74235942> Worshiper of God: /rf а
+[Sun Dec 28 17:05:59 2025] Player "Soldier Boy" <STEAM_0:1:620808428> has left the server
+[Sun Dec 28 17:06:01 2025] Player "Soldier Boy" <STEAM_0:1:620808428> is attempting to connect.
+[Sun Dec 28 17:06:11 2025] Smasher has killed Worshiper of God.
+[Sun Dec 28 17:06:11 2025] Worshiper of God has killed Worshiper of God.
+[Sun Dec 28 17:06:13 2025] Player "BloodySmile" <STEAM_0:1:54838838> has left the server
+[Sun Dec 28 17:06:39 2025] Player "Soldier Boy" <STEAM_0:1:620808428> has spawned in the server
+[Sun Dec 28 17:06:50 2025] <STEAM_0:0:542957151> .σαλαδ ϲαεσαρ: Слушаю
+[Sun Dec 28 17:06:54 2025] <STEAM_0:1:47931114> Mr.Monolith: Он миня аскалбил, я абидевся
+[Sun Dec 28 17:07:09 2025] <STEAM_0:0:542957151> .σαλαδ ϲαεσαρ: Че бля?
+[Sun Dec 28 17:07:13 2025] <STEAM_0:0:542957151> .σαλαδ ϲαεσαρ: Где оск?\
+[Sun Dec 28 17:07:28 2025] <STEAM_0:0:542957151> .σαλαδ ϲαεσαρ: прикрепленна
+[Sun Dec 28 17:07:32 2025] <STEAM_0:0:542957151> .σαλαδ ϲαεσαρ: Ой
+[Sun Dec 28 17:07:35 2025] <STEAM_0:0:542957151> .σαλαδ ϲαεσαρ: бля
+[Sun Dec 28 17:07:45 2025] worldspawn has killed Толстый.
+[Sun Dec 28 17:07:56 2025] <STEAM_0:0:542957151> .σαλαδ ϲαεσαρ: Я нормально общался, жнецов как нытик начал что-то пиздеть про родаков
+[Sun Dec 28 17:07:58 2025] <STEAM_0:0:542957151> .σαλαδ ϲαεσαρ: Норм?
+[Sun Dec 28 17:08:06 2025] <STEAM_0:1:620808428> Soldier Boy: // Смэшер, у тебя есть админ чат?
+[Sun Dec 28 17:08:11 2025] <STEAM_0:1:220381002> Smasher: // да
+[Sun Dec 28 17:08:16 2025] <STEAM_0:1:220381002> Smasher: // я хавать отошел
+[Sun Dec 28 17:08:24 2025] <STEAM_0:1:620808428> Soldier Boy: // Приятного
+[Sun Dec 28 17:08:46 2025] <STEAM_0:0:542957151> .σαλαδ ϲαεσαρ: Я спокойно по городу бегал сделал -2 в городе, в итоге со стораны ВС РФ меня кто-то убил с помощью команды
+[Sun Dec 28 17:08:48 2025] <STEAM_0:0:542957151> .σαλαδ ϲαεσαρ: тоесть АА
+[Sun Dec 28 17:09:03 2025] боб коксакер has killed Worshiper of God.
+[Sun Dec 28 17:09:27 2025] <STEAM_0:0:542957151> .σαλαδ ϲαεσαρ: Ам ням короче ам, вы что мрази пидары я не про вас имел ввиду
+[Sun Dec 28 17:09:44 2025] worldspawn has killed punk.
+[Sun Dec 28 17:09:48 2025] Player "BMW_2026" <STEAM_0:0:60804422> is attempting to connect.
+[Sun Dec 28 17:09:56 2025] <STEAM_0:0:542957151> .σαλαδ ϲαεσαρ: Ам ням ням, каких именно?
+[Sun Dec 28 17:10:00 2025] worldspawn has killed боб коксакер.
+[Sun Dec 28 17:10:03 2025] <STEAM_0:0:542957151> .σαλαδ ϲαεσαρ: Вам так обидно ням ням ам
+[Sun Dec 28 17:10:14 2025] <STEAM_0:0:542957151> .σαλαδ ϲαεσαρ: О черт
+[Sun Dec 28 17:10:21 2025] <STEAM_0:1:570174214> боб коксакер: /ooc хахахахахахаха
+[Sun Dec 28 17:10:22 2025] <STEAM_0:0:542957151> .σαλαδ ϲαεσαρ: Мне вас жаль
+[Sun Dec 28 17:10:30 2025] <STEAM_0:0:542957151> .σαλαδ ϲαεσαρ: Ага
+[Sun Dec 28 17:11:07 2025] <STEAM_0:0:542957151> .σαλαδ ϲαεσαρ: Ну типо ам ням ну ладно ам ням
+[Sun Dec 28 17:11:19 2025] <STEAM_0:0:542957151> .σαλαδ ϲαεσαρ: Теперь жнецова тепй
+[Sun Dec 28 17:11:21 2025] <STEAM_0:0:542957151> .σαλαδ ϲαεσαρ: тепай
+[Sun Dec 28 17:11:28 2025] <STEAM_0:1:942491968> Толстый: // а как машину завести?
+[Sun Dec 28 17:11:43 2025] <STEAM_0:1:47931114> Mr.Monolith: // R
+[Sun Dec 28 17:12:31 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "ban Иванов 0 2 Day"
+[Sun Dec 28 17:12:31 2025] Player ".σαλαδ ϲαεσαρ" <STEAM_0:0:542957151> has left the server
+[Sun Dec 28 17:13:04 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "menu"
+[Sun Dec 28 17:13:25 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "unban STEAM_0:0:542957151"
+[Sun Dec 28 17:14:53 2025] worldspawn has killed боб коксакер.
+[Sun Dec 28 17:15:10 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "menu"
+[Sun Dec 28 17:15:10 2025] <STEAM_0:1:620808428> Soldier Boy ran command "menu"
+[Sun Dec 28 17:15:11 2025] Worshiper of God has killed Толстый.
+[Sun Dec 28 17:15:12 2025] Толстый has killed Толстый.
+[Sun Dec 28 17:15:45 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "invisible 1LT A.E. Evergarden"
+[Sun Dec 28 17:16:15 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "invisible 1LT A.E. Evergarden"
+[Sun Dec 28 17:16:57 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [644][sw_airdrop_v3]"
+[Sun Dec 28 17:17:00 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [645][sw_airdrop_v3]"
+[Sun Dec 28 17:17:00 2025] punk has killed Soldier Boy.
+[Sun Dec 28 17:17:03 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [577][sw_airdrop_v3]"
+[Sun Dec 28 17:17:06 2025] <STEAM_0:1:620808428> Soldier Boy: // ало
+[Sun Dec 28 17:17:12 2025] <STEAM_0:1:620808428> Soldier Boy: // хули ты невидимка?
+[Sun Dec 28 17:17:24 2025] <STEAM_0:0:921324874> punk: // хз
+[Sun Dec 28 17:17:40 2025] <STEAM_0:1:620808428> Soldier Boy ran command "respawn RCT F. B. Punkov"
+[Sun Dec 28 17:18:04 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [522][lvs_wheeldrive_hummer_tow]"
+[Sun Dec 28 17:19:26 2025] боб коксакер has killed боб коксакер.
+[Sun Dec 28 17:19:50 2025] Worshiper of God has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Sun Dec 28 17:19:50 2025] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Sun Dec 28 17:20:20 2025] Smasher has killed Worshiper of God.
+[Sun Dec 28 17:20:21 2025] Worshiper of God has killed Worshiper of God.
+[Sun Dec 28 17:20:30 2025] Mr.Monolith has killed Smasher.
+[Sun Dec 28 17:20:31 2025] Smasher has killed Smasher.
+[Sun Dec 28 17:21:00 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [664][sw_airdrop_v3]"
+[Sun Dec 28 17:21:09 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [665][sw_airdrop_v3]"
+[Sun Dec 28 17:21:11 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [668][sw_airdrop_v3]"
+[Sun Dec 28 17:21:49 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [779][lvs_wheeldrive_hummer]"
+[Sun Dec 28 17:23:10 2025] punk has killed боб коксакер.
+[Sun Dec 28 17:23:11 2025] боб коксакер has killed боб коксакер.
+[Sun Dec 28 17:23:19 2025] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Worshiper of God.
+[Sun Dec 28 17:23:20 2025] Worshiper of God has killed Worshiper of God.
+[Sun Dec 28 17:24:06 2025] Mr.Monolith has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Sun Dec 28 17:24:07 2025] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Sun Dec 28 17:24:11 2025] Soldier Boy has killed Толстый.
+[Sun Dec 28 17:24:24 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [492][lvs_concussionmissile]"
+[Sun Dec 28 17:24:24 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [499][lvs_concussionmissile]"
+[Sun Dec 28 17:24:24 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [503][lvs_concussionmissile]"
+[Sun Dec 28 17:24:24 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [506][lvs_concussionmissile]"
+[Sun Dec 28 17:24:25 2025] Player "Толстый" <STEAM_0:1:942491968> has left the server
+[Sun Dec 28 17:24:51 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [525][sw_airdrop_v3]"
+[Sun Dec 28 17:24:55 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [525][sw_airdrop_v3]"
+[Sun Dec 28 17:25:00 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [528][sw_airdrop_v3]"
+[Sun Dec 28 17:25:03 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [528][sw_airdrop_v3]"
+[Sun Dec 28 17:25:08 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [580][sw_airdrop_v3]"
+[Sun Dec 28 17:25:15 2025] Mr.Monolith has killed Soldier Boy.
+[Sun Dec 28 17:25:16 2025] Soldier Boy has killed Soldier Boy.
+[Sun Dec 28 17:25:38 2025] punk has killed Mr.Monolith.
+[Sun Dec 28 17:25:38 2025] Mr.Monolith has killed Mr.Monolith.
+[Sun Dec 28 17:25:56 2025] punk has killed Soldier Boy.
+[Sun Dec 28 17:25:57 2025] Soldier Boy has killed Soldier Boy.
+[Sun Dec 28 17:26:24 2025] <STEAM_0:1:47931114> Mr.Monolith: // Срочно нужны гранаты в профы
+[Sun Dec 28 17:26:27 2025] <STEAM_0:1:47931114> Mr.Monolith: // Прям пипец
+[Sun Dec 28 17:26:32 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [587][lvs_protontorpedo]"
+[Sun Dec 28 17:26:32 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [591][lvs_protontorpedo]"
+[Sun Dec 28 17:26:32 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [592][lvs_protontorpedo]"
+[Sun Dec 28 17:26:33 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [587][lvs_protontorpedo]"
+[Sun Dec 28 17:26:33 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [591][lvs_protontorpedo]"
+[Sun Dec 28 17:26:34 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [598][lvs_protontorpedo]"
+[Sun Dec 28 17:26:34 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [606][lvs_protontorpedo]"
+[Sun Dec 28 17:26:41 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [607][lvs_protontorpedo]"
+[Sun Dec 28 17:26:42 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [587][lvs_protontorpedo]"
+[Sun Dec 28 17:26:44 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [591][lvs_concussionmissile]"
+[Sun Dec 28 17:26:45 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [598][lvs_concussionmissile]"
+[Sun Dec 28 17:26:49 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [632][lvs_concussionmissile]"
+[Sun Dec 28 17:26:53 2025] Mr.Monolith has killed Worshiper of God.
+[Sun Dec 28 17:26:54 2025] <STEAM_0:1:220381002> Smasher ran command "noclip COL A.T. Smasher"
+[Sun Dec 28 17:26:56 2025] <STEAM_0:1:220381002> Smasher ran command "invisible COL A.T. Smasher"
+[Sun Dec 28 17:27:19 2025] <STEAM_0:1:220381002> Smasher used tool "creator"
+[Sun Dec 28 17:27:20 2025] <STEAM_0:1:220381002> Smasher used tool "creator"
+[Sun Dec 28 17:27:20 2025] <STEAM_0:1:220381002> Smasher used tool "creator"
+[Sun Dec 28 17:27:21 2025] <STEAM_0:1:220381002> Smasher used tool "creator"
+[Sun Dec 28 17:27:21 2025] <STEAM_0:1:220381002> Smasher used tool "creator"
+[Sun Dec 28 17:27:23 2025] <STEAM_0:1:220381002> Smasher used tool "creator"
+[Sun Dec 28 17:27:25 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [587][npc_combine_s]"
+[Sun Dec 28 17:27:29 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [607][npc_combine_s]"
+[Sun Dec 28 17:27:29 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [638][npc_combine_s]"
+[Sun Dec 28 17:27:30 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [578][npc_combine_s]"
+[Sun Dec 28 17:27:30 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [644][npc_combine_s]"
+[Sun Dec 28 17:27:30 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [646][npc_combine_s]"
+[Sun Dec 28 17:27:31 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [650][npc_combine_s]"
+[Sun Dec 28 17:27:31 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [652][npc_combine_s]"
+[Sun Dec 28 17:27:32 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [634][npc_combine_s]"
+[Sun Dec 28 17:27:32 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [656][npc_combine_s]"
+[Sun Dec 28 17:27:32 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [658][npc_combine_s]"
+[Sun Dec 28 17:27:33 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [706][npc_combine_s]"
+[Sun Dec 28 17:27:33 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [708][npc_combine_s]"
+[Sun Dec 28 17:27:47 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // не понял кто с пушкой из хл балуеться
+[Sun Dec 28 17:28:15 2025] <STEAM_0:1:620808428> Soldier Boy ran command "a Смэшер, это на всю карту слышно"
+[Sun Dec 28 17:28:18 2025] <STEAM_0:1:620808428> Soldier Boy ran command "a Хватит"
+[Sun Dec 28 17:28:26 2025] <STEAM_0:1:220381002> Smasher: /admin s
+[Sun Dec 28 17:28:30 2025] <STEAM_0:1:220381002> Smasher: // как в этот чат писать
+[Sun Dec 28 17:28:36 2025] <STEAM_0:1:620808428> Soldier Boy: // /a
+[Sun Dec 28 17:28:41 2025] боб коксакер has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Sun Dec 28 17:28:42 2025] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Sun Dec 28 17:28:47 2025] <STEAM_0:1:220381002> Smasher ran command "a я заспавнил нпс комбайнов потому что других нет"
+[Sun Dec 28 17:28:55 2025] <STEAM_0:1:220381002> Smasher ran command "a чтобы типы мои не заскучали"
+[Sun Dec 28 17:28:58 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // cdjb ;t e,bdf.n)
+[Sun Dec 28 17:29:05 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // свои же убивают)
+[Sun Dec 28 17:29:17 2025] <STEAM_0:1:620808428> Soldier Boy: // Не надо их спапунить
+[Sun Dec 28 17:29:21 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [523][npc_zombie]"
+[Sun Dec 28 17:29:22 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [578][npc_zombie]"
+[Sun Dec 28 17:29:23 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [580][npc_zombie]"
+[Sun Dec 28 17:29:23 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [587][npc_zombie]"
+[Sun Dec 28 17:29:27 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [607][npc_fastzombie]"
+[Sun Dec 28 17:29:28 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [633][npc_fastzombie]"
+[Sun Dec 28 17:29:47 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [644][npc_fastzombie]"
+[Sun Dec 28 17:29:47 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [645][npc_fastzombie]"
+[Sun Dec 28 17:29:48 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [646][npc_fastzombie]"
+[Sun Dec 28 17:29:48 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [649][npc_fastzombie]"
+[Sun Dec 28 17:29:48 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [650][sw_airdrop_v3]"
+[Sun Dec 28 17:29:50 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [639][npc_fastzombie]"
+[Sun Dec 28 17:29:50 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [646][sw_airdrop_v3]"
+[Sun Dec 28 17:29:54 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [646][sw_airdrop_v3]"
+[Sun Dec 28 17:29:57 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [647][sw_airdrop_v3]"
+[Sun Dec 28 17:30:01 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [647][sw_airdrop_v3]"
+[Sun Dec 28 17:30:04 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [649][sw_airdrop_v3]"
+[Sun Dec 28 17:30:16 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [647][sw_parachute_v3]"
+[Sun Dec 28 17:30:18 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [649][sw_airdrop_v3]"
+[Sun Dec 28 17:30:29 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [607][lvs_wheeldrive_dabrams_m1a1]"
+[Sun Dec 28 17:30:34 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [578][lvs_wheeldrive_m3a3]"
+[Sun Dec 28 17:30:51 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [578][lvs_wheeldrive_hummer_tow]"
+[Sun Dec 28 17:31:22 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [523][npc_fastzombie]"
+[Sun Dec 28 17:31:22 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [720][npc_fastzombie]"
+[Sun Dec 28 17:31:22 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [721][npc_fastzombie]"
+[Sun Dec 28 17:31:23 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [722][npc_fastzombie]"
+[Sun Dec 28 17:31:23 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [723][npc_fastzombie]"
+[Sun Dec 28 17:31:23 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [724][npc_fastzombie]"
+[Sun Dec 28 17:31:24 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [725][npc_fastzombie]"
+[Sun Dec 28 17:31:28 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [726][npc_fastzombie]"
+[Sun Dec 28 17:31:28 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [727][npc_fastzombie]"
+[Sun Dec 28 17:31:29 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [728][npc_fastzombie]"
+[Sun Dec 28 17:31:29 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [729][npc_fastzombie]"
+[Sun Dec 28 17:31:29 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [730][npc_fastzombie]"
+[Sun Dec 28 17:31:32 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [731][npc_fastzombie]"
+[Sun Dec 28 17:32:05 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [722][npc_poisonzombie]"
+[Sun Dec 28 17:32:06 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [726][npc_poisonzombie]"
+[Sun Dec 28 17:32:07 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [723][npc_poisonzombie]"
+[Sun Dec 28 17:32:09 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [737][npc_headcrab_fast]"
+[Sun Dec 28 17:32:59 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [639][npc_zombie]"
+[Sun Dec 28 17:33:00 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [644][npc_zombie]"
+[Sun Dec 28 17:33:01 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [645][npc_zombie]"
+[Sun Dec 28 17:33:02 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [735][npc_zombie]"
+[Sun Dec 28 17:33:08 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [644][npc_fastzombie]"
+[Sun Dec 28 17:33:08 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [738][npc_fastzombie]"
+[Sun Dec 28 17:33:08 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [740][npc_fastzombie]"
+[Sun Dec 28 17:33:08 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [741][npc_fastzombie]"
+[Sun Dec 28 17:33:08 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [742][npc_fastzombie]"
+[Sun Dec 28 17:33:08 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [743][npc_fastzombie]"
+[Sun Dec 28 17:33:08 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [744][npc_fastzombie]"
+[Sun Dec 28 17:33:09 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [745][npc_fastzombie]"
+[Sun Dec 28 17:33:09 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [746][npc_fastzombie]"
+[Sun Dec 28 17:33:09 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [747][npc_fastzombie]"
+[Sun Dec 28 17:33:09 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [748][npc_fastzombie]"
+[Sun Dec 28 17:33:09 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [749][npc_fastzombie]"
+[Sun Dec 28 17:33:10 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [750][npc_fastzombie]"
+[Sun Dec 28 17:33:10 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [751][npc_fastzombie]"
+[Sun Dec 28 17:33:10 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [753][npc_fastzombie]"
+[Sun Dec 28 17:33:10 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [754][npc_fastzombie]"
+[Sun Dec 28 17:33:10 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [764][npc_fastzombie]"
+[Sun Dec 28 17:33:10 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [765][npc_fastzombie]"
+[Sun Dec 28 17:33:10 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [766][npc_fastzombie]"
+[Sun Dec 28 17:33:10 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [767][npc_fastzombie]"
+[Sun Dec 28 17:33:11 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [768][npc_fastzombie]"
+[Sun Dec 28 17:33:11 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [769][npc_fastzombie]"
+[Sun Dec 28 17:33:11 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [770][npc_fastzombie]"
+[Sun Dec 28 17:33:11 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [771][npc_fastzombie]"
+[Sun Dec 28 17:33:11 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [772][npc_fastzombie]"
+[Sun Dec 28 17:33:11 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [773][npc_fastzombie]"
+[Sun Dec 28 17:33:11 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [774][npc_fastzombie]"
+[Sun Dec 28 17:33:11 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [775][npc_fastzombie]"
+[Sun Dec 28 17:33:12 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [776][npc_fastzombie]"
+[Sun Dec 28 17:33:12 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [777][npc_fastzombie]"
+[Sun Dec 28 17:33:12 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [804][npc_fastzombie]"
+[Sun Dec 28 17:33:14 2025] <STEAM_0:1:220381002> Smasher used tool "creator"
+[Sun Dec 28 17:33:14 2025] <STEAM_0:1:220381002> Smasher used tool "creator"
+[Sun Dec 28 17:33:14 2025] <STEAM_0:1:220381002> Smasher used tool "creator"
+[Sun Dec 28 17:33:14 2025] <STEAM_0:1:220381002> Smasher used tool "creator"
+[Sun Dec 28 17:33:17 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [642][npc_zombie]"
+[Sun Dec 28 17:33:18 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [578][npc_zombie]"
+[Sun Dec 28 17:33:18 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [643][npc_zombie]"
+[Sun Dec 28 17:33:18 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [647][npc_zombie]"
+[Sun Dec 28 17:33:18 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [649][npc_zombie]"
+[Sun Dec 28 17:33:18 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [650][npc_zombie]"
+[Sun Dec 28 17:33:18 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [651][npc_zombie]"
+[Sun Dec 28 17:33:19 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [652][npc_zombie]"
+[Sun Dec 28 17:33:19 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [653][npc_zombie]"
+[Sun Dec 28 17:33:19 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [654][npc_zombie]"
+[Sun Dec 28 17:33:19 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [655][npc_zombie]"
+[Sun Dec 28 17:33:19 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [656][npc_zombie]"
+[Sun Dec 28 17:33:19 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [657][npc_zombie]"
+[Sun Dec 28 17:33:19 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [658][npc_zombie]"
+[Sun Dec 28 17:33:20 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [607][npc_zombie]"
+[Sun Dec 28 17:33:20 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [660][npc_zombie]"
+[Sun Dec 28 17:33:20 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [661][npc_zombie]"
+[Sun Dec 28 17:33:25 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [664][npc_fastzombie_torso]"
+[Sun Dec 28 17:33:25 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [665][npc_fastzombie_torso]"
+[Sun Dec 28 17:33:25 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [668][npc_fastzombie_torso]"
+[Sun Dec 28 17:33:25 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [669][npc_fastzombie_torso]"
+[Sun Dec 28 17:33:26 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [670][npc_fastzombie_torso]"
+[Sun Dec 28 17:33:26 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [690][npc_fastzombie_torso]"
+[Sun Dec 28 17:33:26 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [692][npc_fastzombie_torso]"
+[Sun Dec 28 17:33:26 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [693][npc_fastzombie_torso]"
+[Sun Dec 28 17:33:26 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [696][npc_fastzombie_torso]"
+[Sun Dec 28 17:33:26 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [697][npc_fastzombie_torso]"
+[Sun Dec 28 17:33:26 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [698][npc_fastzombie_torso]"
+[Sun Dec 28 17:33:27 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [699][npc_fastzombie_torso]"
+[Sun Dec 28 17:33:27 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [701][npc_fastzombie_torso]"
+[Sun Dec 28 17:33:27 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [703][npc_fastzombie_torso]"
+[Sun Dec 28 17:33:27 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [704][npc_fastzombie_torso]"
+[Sun Dec 28 17:33:27 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [705][npc_fastzombie_torso]"
+[Sun Dec 28 17:33:27 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [706][npc_fastzombie_torso]"
+[Sun Dec 28 17:33:27 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [707][npc_fastzombie_torso]"
+[Sun Dec 28 17:33:27 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [708][npc_fastzombie_torso]"
+[Sun Dec 28 17:33:28 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [709][npc_fastzombie_torso]"
+[Sun Dec 28 17:33:28 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [710][npc_fastzombie_torso]"
+[Sun Dec 28 17:33:28 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [713][npc_fastzombie_torso]"
+[Sun Dec 28 17:33:28 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [714][npc_fastzombie_torso]"
+[Sun Dec 28 17:33:28 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [715][npc_fastzombie_torso]"
+[Sun Dec 28 17:33:28 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [716][npc_fastzombie_torso]"
+[Sun Dec 28 17:33:28 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [717][npc_fastzombie_torso]"
+[Sun Dec 28 17:34:13 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "invisible 1LT A.E. Evergarden"
+[Sun Dec 28 17:34:31 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [599][sw_bomb_ofab250sh_v3]"
+[Sun Dec 28 17:34:45 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [599][sw_bomb_fab1500m54_umpk_v3]"
+[Sun Dec 28 17:34:55 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [488][sw_bomb_fab250m62_umpk_v3]"
+[Sun Dec 28 17:35:00 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [488][npc_zombine]"
+[Sun Dec 28 17:35:00 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [507][npc_zombine]"
+[Sun Dec 28 17:35:00 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [523][npc_zombine]"
+[Sun Dec 28 17:35:00 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [578][npc_zombine]"
+[Sun Dec 28 17:35:00 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [580][npc_zombine]"
+[Sun Dec 28 17:35:02 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [587][sw_bomb_fab1500m54_umpk_v3]"
+[Sun Dec 28 17:35:04 2025] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed боб коксакер.
+[Sun Dec 28 17:35:07 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [492][sw_bomb_fab1500m54_umpk_v3]"
+[Sun Dec 28 17:35:09 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [492][sw_bomb_fab250m62_umpk_v3]"
+[Sun Dec 28 17:35:12 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [492][sw_bomb_fab250m62_umpk_v3]"
+[Sun Dec 28 17:35:15 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [492][sw_bomb_fab250m62_umpk_v3]"
+[Sun Dec 28 17:35:16 2025] <STEAM_0:1:570174214> боб коксакер: /ooc ебанутые
+[Sun Dec 28 17:35:18 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [492][sw_bomb_fab250m62_umpk_v3]"
+[Sun Dec 28 17:35:20 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [503][sw_bomb_fab250m62_umpk_v3]"
+[Sun Dec 28 17:35:23 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [492][sw_rocket_tt250_v3]"
+[Sun Dec 28 17:35:32 2025] <STEAM_0:1:220381002> Smasher ran command "bring bau"
+[Sun Dec 28 17:35:39 2025] <STEAM_0:1:220381002> Smasher ran command "bring bau"
+[Sun Dec 28 17:35:44 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [492][sw_bomb_fab100m43_v3]"
+[Sun Dec 28 17:35:56 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [492][sw_rocket_kh47m2_v3]"
+[Sun Dec 28 17:35:57 2025] <STEAM_0:1:220381002> Smasher ran command "bring bau"
+[Sun Dec 28 17:36:00 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [492][armor_take]"
+[Sun Dec 28 17:36:00 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [521][sw_rocket_kh47m2_v3]"
+[Sun Dec 28 17:36:02 2025] Worshiper of God has killed боб коксакер.
+[Sun Dec 28 17:36:02 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [600][sw_rocket_kh47m2_v3]"
+[Sun Dec 28 17:36:02 2025] Player "Mr.Monolith" <STEAM_0:1:47931114> has left the server
+[Sun Dec 28 17:36:05 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [503][sw_rocket_kh47m2_v3]"
+[Sun Dec 28 17:36:05 2025] punk has killed Worshiper of God.
+[Sun Dec 28 17:36:06 2025] Player "боб коксакер" <STEAM_0:1:570174214> has left the server
+[Sun Dec 28 17:36:06 2025] Worshiper of God has killed Worshiper of God.
+[Sun Dec 28 17:36:08 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [495][sw_rocket_kh47m2_v3]"
+[Sun Dec 28 17:36:08 2025] Player "Worshiper of God" <STEAM_0:0:74235942> has left the server
+[Sun Dec 28 17:36:13 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [490][sw_rocket_kh47m2_v3]"
+[Sun Dec 28 17:36:14 2025] <STEAM_0:1:220381002> Smasher ran command "bring bau"
+[Sun Dec 28 17:36:16 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [490][sw_rocket_kh47m2_v3]"
+[Sun Dec 28 17:36:20 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [490][sw_rocket_kh47m2_v3]"
+[Sun Dec 28 17:36:23 2025] <STEAM_0:1:220381002> Smasher: // бля ты ебанат
+[Sun Dec 28 17:36:29 2025] <STEAM_0:1:220381002> Smasher: // че ты твориш евергаренд
+[Sun Dec 28 17:36:51 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [488][npc_zombie]"
+[Sun Dec 28 17:36:51 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [490][npc_zombie]"
+[Sun Dec 28 17:36:51 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [492][npc_zombie]"
+[Sun Dec 28 17:36:51 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [503][npc_zombie]"
+[Sun Dec 28 17:36:51 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [507][npc_zombie]"
+[Sun Dec 28 17:36:52 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [521][npc_zombie]"
+[Sun Dec 28 17:36:52 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [523][npc_zombie]"
+[Sun Dec 28 17:36:52 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [524][npc_zombie]"
+[Sun Dec 28 17:36:52 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [526][npc_zombie]"
+[Sun Dec 28 17:36:52 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [527][npc_zombie]"
+[Sun Dec 28 17:36:56 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [495][npc_fastzombie]"
+[Sun Dec 28 17:36:56 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [529][npc_fastzombie]"
+[Sun Dec 28 17:36:56 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [530][npc_fastzombie]"
+[Sun Dec 28 17:36:56 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [531][npc_fastzombie]"
+[Sun Dec 28 17:36:56 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [567][npc_fastzombie]"
+[Sun Dec 28 17:36:56 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [568][npc_fastzombie]"
+[Sun Dec 28 17:36:57 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [569][npc_fastzombie]"
+[Sun Dec 28 17:36:57 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [576][npc_fastzombie]"
+[Sun Dec 28 17:36:57 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [578][npc_fastzombie]"
+[Sun Dec 28 17:36:57 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [580][npc_fastzombie]"
+[Sun Dec 28 17:36:57 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [587][npc_fastzombie]"
+[Sun Dec 28 17:36:57 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [588][npc_fastzombie]"
+[Sun Dec 28 17:36:57 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [591][npc_fastzombie]"
+[Sun Dec 28 17:36:57 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [598][npc_fastzombie]"
+[Sun Dec 28 17:36:58 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [599][npc_fastzombie]"
+[Sun Dec 28 17:36:58 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [600][npc_fastzombie]"
+[Sun Dec 28 17:36:58 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [603][npc_fastzombie]"
+[Sun Dec 28 17:36:58 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [606][npc_fastzombie]"
+[Sun Dec 28 17:36:58 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [607][npc_fastzombie]"
+[Sun Dec 28 17:36:58 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [611][npc_fastzombie]"
+[Sun Dec 28 17:36:58 2025] Player "༒︎シ︎ʰᵉⁿᵗᵃⁱシ" <STEAM_0:0:851601344> has left the server
+[Sun Dec 28 17:36:58 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [613][npc_fastzombie]"
+[Sun Dec 28 17:36:59 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [614][npc_fastzombie]"
+[Sun Dec 28 17:36:59 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [615][npc_fastzombie]"
+[Sun Dec 28 17:36:59 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [625][npc_fastzombie]"
+[Sun Dec 28 17:36:59 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [633][npc_fastzombie]"
+[Sun Dec 28 17:36:59 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [634][npc_fastzombie]"
+[Sun Dec 28 17:36:59 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [639][npc_fastzombie]"
+[Sun Dec 28 17:36:59 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [641][npc_fastzombie]"
+[Sun Dec 28 17:36:59 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [497][npc_fastzombie]"
+[Sun Dec 28 17:37:00 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [500][npc_fastzombie]"
+[Sun Dec 28 17:37:00 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [501][npc_fastzombie]"
+[Sun Dec 28 17:37:02 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [506][npc_poisonzombie]"
+[Sun Dec 28 17:37:02 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [508][npc_poisonzombie]"
+[Sun Dec 28 17:37:03 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [509][npc_poisonzombie]"
+[Sun Dec 28 17:37:03 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [513][npc_poisonzombie]"
+[Sun Dec 28 17:37:03 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [516][npc_poisonzombie]"
+[Sun Dec 28 17:37:03 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [517][npc_poisonzombie]"
+[Sun Dec 28 17:37:03 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [522][npc_poisonzombie]"
+[Sun Dec 28 17:37:03 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [577][npc_poisonzombie]"
+[Sun Dec 28 17:37:04 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [594][npc_poisonzombie]"
+[Sun Dec 28 17:37:04 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [608][npc_poisonzombie]"
+[Sun Dec 28 17:37:04 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [632][npc_poisonzombie]"
+[Sun Dec 28 17:37:04 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [638][npc_poisonzombie]"
+[Sun Dec 28 17:37:07 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [644][npc_zombine]"
+[Sun Dec 28 17:37:08 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [646][npc_zombine]"
+[Sun Dec 28 17:37:08 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [647][npc_zombine]"
+[Sun Dec 28 17:37:08 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [648][npc_zombine]"
+[Sun Dec 28 17:37:08 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [649][npc_zombine]"
+[Sun Dec 28 17:37:08 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [650][npc_zombine]"
+[Sun Dec 28 17:37:09 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [651][npc_zombine]"
+[Sun Dec 28 17:37:09 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [652][npc_zombine]"
+[Sun Dec 28 17:37:09 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [653][npc_zombine]"
+[Sun Dec 28 17:37:09 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [654][npc_zombine]"
+[Sun Dec 28 17:37:09 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [655][npc_zombine]"
+[Sun Dec 28 17:37:12 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [668][npc_poisonzombie]"
+[Sun Dec 28 17:37:13 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [669][npc_poisonzombie]"
+[Sun Dec 28 17:37:13 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [670][npc_poisonzombie]"
+[Sun Dec 28 17:37:13 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [679][npc_poisonzombie]"
+[Sun Dec 28 17:37:13 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [690][npc_poisonzombie]"
+[Sun Dec 28 17:37:13 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [693][npc_poisonzombie]"
+[Sun Dec 28 17:37:13 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [695][npc_poisonzombie]"
+[Sun Dec 28 17:37:14 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [696][npc_poisonzombie]"
+[Sun Dec 28 17:37:14 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [697][npc_poisonzombie]"
+[Sun Dec 28 17:37:14 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [699][npc_poisonzombie]"
+[Sun Dec 28 17:37:14 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [701][npc_poisonzombie]"
+[Sun Dec 28 17:37:14 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [706][npc_poisonzombie]"
+[Sun Dec 28 17:37:14 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [711][npc_poisonzombie]"
+[Sun Dec 28 17:37:14 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [712][npc_poisonzombie]"
+[Sun Dec 28 17:37:15 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [719][npc_poisonzombie]"
+[Sun Dec 28 17:37:15 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [720][npc_poisonzombie]"
+[Sun Dec 28 17:37:15 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [721][npc_poisonzombie]"
+[Sun Dec 28 17:37:15 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [722][npc_poisonzombie]"
+[Sun Dec 28 17:37:15 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [723][npc_poisonzombie]"
+[Sun Dec 28 17:37:15 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [735][npc_poisonzombie]"
+[Sun Dec 28 17:38:54 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [787][npc_zombie]"
+[Sun Dec 28 17:38:55 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [791][npc_zombie]"
+[Sun Dec 28 17:38:59 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [792][npc_fastzombie]"
+[Sun Dec 28 17:39:03 2025] <STEAM_0:0:921324874> punk: // админы в край ебанулись или че?
+[Sun Dec 28 17:40:48 2025] Player "Smasher" <STEAM_0:1:220381002> has left the server
+[Sun Dec 28 17:41:26 2025] Player "punk" <STEAM_0:0:921324874> has left the server
+[Sun Dec 28 17:46:32 2025] Player "punk" <STEAM_0:0:921324874> is attempting to connect.
+[Sun Dec 28 17:47:14 2025] Player "punk" <STEAM_0:0:921324874> has spawned in the server
+[Sun Dec 28 17:53:14 2025] <STEAM_0:1:620808428> Soldier Boy: // панк
+[Sun Dec 28 17:53:20 2025] <STEAM_0:1:620808428> Soldier Boy: // Ты де?
+[Sun Dec 28 17:58:45 2025] <STEAM_0:1:620808428> Soldier Boy ran command "spectate RCT F. B. Punkov"
+[Sun Dec 28 17:59:15 2025] Player "Soldier Boy" <STEAM_0:1:620808428> has left the server
+[Sun Dec 28 18:37:40 2025] Player "punk" <STEAM_0:0:921324874> has left the server
+[Sun Dec 28 18:37:40 2025] Player "punk" <STEAM_0:0:921324874> is attempting to connect.
+[Sun Dec 28 19:34:12 2025] Player "~Slay~" <STEAM_0:0:401436179> is attempting to connect.
+[Sun Dec 28 19:55:18 2025] Player "~Slay~" <STEAM_0:0:401436179> is attempting to connect.
+[Sun Dec 28 21:13:59 2025] Player "TANZI" <STEAM_0:0:561366370> is attempting to connect.
+[Sun Dec 28 21:15:03 2025] Player "punk" <STEAM_0:0:921324874> is attempting to connect.
+[Sun Dec 28 21:15:48 2025] Player "punk" <STEAM_0:0:921324874> has spawned in the server
+[Sun Dec 28 21:21:55 2025] Player "punk" <STEAM_0:0:921324874> has left the server
+[Sun Dec 28 22:08:44 2025] Player "OZOR" <STEAM_0:0:85754053> has spawned in the server
+[Sun Dec 28 22:14:25 2025] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [568][tfa_ammo_357]"
+[Sun Dec 28 22:14:27 2025] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [569][tfa_ammo_sniper_rounds]"
+[Sun Dec 28 22:14:55 2025] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [568][armor_take]"
+[Sun Dec 28 22:21:49 2025] worldspawn has killed OZOR.
+[Sun Dec 28 22:24:54 2025] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [569][item_ammo_ar2_large]"
+[Sun Dec 28 22:24:55 2025] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [570][item_battery]"
+[Sun Dec 28 22:24:55 2025] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [569][item_battery]"
+[Sun Dec 28 22:24:55 2025] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [571][item_battery]"
+[Sun Dec 28 22:24:55 2025] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [572][item_battery]"
+[Sun Dec 28 22:24:55 2025] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [573][item_battery]"
+[Sun Dec 28 22:24:56 2025] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [570][item_battery]"
+[Sun Dec 28 22:24:56 2025] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [574][item_battery]"
+[Sun Dec 28 22:25:20 2025] Player "TANZI" <STEAM_0:0:561366370> is attempting to connect.
+[Sun Dec 28 22:31:13 2025] Player "TANZI" <STEAM_0:0:561366370> is attempting to connect.
+[Sun Dec 28 22:43:49 2025] Player "TANZI" <STEAM_0:0:561366370> is attempting to connect.
+[Sun Dec 28 22:45:51 2025] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [570][lvs_wheeldrive_hummer]"
+[Sun Dec 28 22:46:00 2025] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [592][lvs_wheeldrive_hummer_m134]"
+[Sun Dec 28 22:51:01 2025] <STEAM_0:0:85754053> OZOR: /drop
+[Sun Dec 28 22:51:04 2025] <STEAM_0:0:85754053> OZOR: !drop
+[Sun Dec 28 22:51:05 2025] worldspawn has killed OZOR.
+[Sun Dec 28 22:51:43 2025] Player "TANZI" <STEAM_0:0:561366370> is attempting to connect.
+[Sun Dec 28 22:55:19 2025] worldspawn has killed OZOR.
+[Sun Dec 28 23:36:42 2025] worldspawn has killed OZOR.
+[Sun Dec 28 23:36:49 2025] worldspawn has killed OZOR.
+[Sun Dec 28 23:39:25 2025] worldspawn has killed OZOR.
+[Sun Dec 28 23:39:50 2025] worldspawn has killed OZOR.
+[Sun Dec 28 23:40:14 2025] worldspawn has killed OZOR.
+[Sun Dec 28 23:41:25 2025] worldspawn has killed OZOR.
+[Sun Dec 28 23:42:02 2025] worldspawn has killed OZOR.
+[Sun Dec 28 23:42:37 2025] worldspawn has killed OZOR.
+[Sun Dec 28 23:42:51 2025] worldspawn has killed OZOR.
+[Sun Dec 28 23:45:39 2025] worldspawn has killed OZOR.
+[Sun Dec 28 23:46:04 2025] <STEAM_0:0:85754053> OZOR ran command "menu"
+[Sun Dec 28 23:53:42 2025] Player "OZOR" <STEAM_0:0:85754053> has left the server

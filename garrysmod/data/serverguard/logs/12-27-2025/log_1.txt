@@ -1,0 +1,1469 @@
+[Sat Dec 27 03:34:28 2025] Player "༒︎シ︎ʰᵉⁿᵗᵃⁱシ" <STEAM_0:0:851601344> is attempting to connect.
+[Sat Dec 27 03:35:37 2025] Player "༒︎シ︎ʰᵉⁿᵗᵃⁱシ" <STEAM_0:0:851601344> has spawned in the server
+[Sat Dec 27 03:38:12 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [493][ifak_ammo]"
+[Sat Dec 27 03:38:13 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [494][ifak_ammo]"
+[Sat Dec 27 03:38:14 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [495][ifak_ammo]"
+[Sat Dec 27 03:38:14 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [493][ifak_ammo]"
+[Sat Dec 27 03:38:16 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [493][ifak_ammo]"
+[Sat Dec 27 03:38:16 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [494][ifak_ammo]"
+[Sat Dec 27 03:38:16 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [495][ifak_ammo]"
+[Sat Dec 27 03:38:16 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [496][ifak_ammo]"
+[Sat Dec 27 03:38:17 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [497][ifak_ammo]"
+[Sat Dec 27 03:38:17 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [498][ifak_ammo]"
+[Sat Dec 27 03:38:17 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [499][ifak_ammo]"
+[Sat Dec 27 03:38:17 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [493][ifak_ammo]"
+[Sat Dec 27 03:38:17 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [495][ifak_ammo]"
+[Sat Dec 27 03:38:18 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [496][ifak_ammo]"
+[Sat Dec 27 03:38:18 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [494][ifak_ammo]"
+[Sat Dec 27 03:38:18 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [497][ifak_ammo]"
+[Sat Dec 27 03:38:18 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [498][ifak_ammo]"
+[Sat Dec 27 03:38:18 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [493][ifak_ammo]"
+[Sat Dec 27 03:38:19 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [495][ifak_ammo]"
+[Sat Dec 27 03:38:20 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [494][ifak_ammo]"
+[Sat Dec 27 03:38:20 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [493][ifak_ammo]"
+[Sat Dec 27 03:38:20 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [495][ifak_ammo]"
+[Sat Dec 27 03:38:20 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [496][ifak_ammo]"
+[Sat Dec 27 03:38:21 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [497][ifak_ammo]"
+[Sat Dec 27 03:38:21 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [498][ifak_ammo]"
+[Sat Dec 27 03:38:21 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [499][ifak_ammo]"
+[Sat Dec 27 03:38:21 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [494][ifak_ammo]"
+[Sat Dec 27 03:38:21 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [493][ifak_ammo]"
+[Sat Dec 27 03:38:22 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [495][ifak_ammo]"
+[Sat Dec 27 03:38:23 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [493][ifak_ammo]"
+[Sat Dec 27 03:38:23 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [494][ifak_ammo]"
+[Sat Dec 27 03:38:29 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [493][sw_airdrop_large_v3]"
+[Sat Dec 27 03:38:40 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [493][sw_airdrop_v3]"
+[Sat Dec 27 03:38:45 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [493][sw_parachute_heavy_v3]"
+[Sat Dec 27 03:38:47 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [494][sw_parachute_v3]"
+[Sat Dec 27 03:38:49 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [493][sw_uav_catapult]"
+[Sat Dec 27 03:38:52 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [493][sw_bomb_brab1000_1938_v3]"
+[Sat Dec 27 03:38:52 2025] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Sat Dec 27 03:38:56 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [486][sw_bomb_brab1000_1938_v3]"
+[Sat Dec 27 03:39:02 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [491][sw_mine_pfm1_v3]"
+[Sat Dec 27 03:39:04 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [491][sw_rocket_ros132_v3]"
+[Sat Dec 27 03:39:11 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [491][sw_bomb_fab1000m44_v3]"
+[Sat Dec 27 03:39:11 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [492][sw_bomb_fab1000m44_v3]"
+[Sat Dec 27 03:39:11 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [493][sw_bomb_fab1000m44_v3]"
+[Sat Dec 27 03:39:11 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [494][sw_bomb_fab1000m44_v3]"
+[Sat Dec 27 03:39:11 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [495][sw_bomb_fab1000m44_v3]"
+[Sat Dec 27 03:39:11 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [496][sw_bomb_fab1000m44_v3]"
+[Sat Dec 27 03:39:12 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [497][sw_bomb_fab1000m43_v3]"
+[Sat Dec 27 03:39:12 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [498][sw_bomb_fab1000m43_v3]"
+[Sat Dec 27 03:39:12 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [499][sw_bomb_fab1000m44_v3]"
+[Sat Dec 27 03:39:13 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [500][sw_bomb_fab1000m44_v3]"
+[Sat Dec 27 03:39:13 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [501][sw_bomb_fab1000m43_v3]"
+[Sat Dec 27 03:39:22 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned npc "NextBot [491][npc_tf2_ghost]"
+[Sat Dec 27 03:39:30 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [491][lvs_wheeldrive_nonrp_t90m]"
+[Sat Dec 27 03:39:39 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [587][lvs_wheeldrive_dabrams_m1a1]"
+[Sat Dec 27 03:40:30 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [491][lvs_wheeldrive_dabrams_m1a1]"
+[Sat Dec 27 03:40:37 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [584][lvs_wheeldrive_dabrams_m1a1]"
+[Sat Dec 27 03:40:41 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [491][lvs_wheeldrive_nonrp_t90m]"
+[Sat Dec 27 03:40:44 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ un-froze (reloaded) using the physgun
+[Sat Dec 27 03:40:50 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [486][lfs_grdn_sa316b]"
+[Sat Dec 27 03:40:52 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [486][lvs_wheeldrive_m3a3]"
+[Sat Dec 27 03:41:08 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [486][sw_rocket_kh22_v3]"
+[Sat Dec 27 03:41:09 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [491][sw_rocket_kh22_v3]"
+[Sat Dec 27 03:41:11 2025] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Sat Dec 27 03:41:43 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [486][sw_bomb_fab3000m54_umpk_v3]"
+[Sat Dec 27 03:41:45 2025] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Sat Dec 27 03:41:46 2025] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Sat Dec 27 03:46:56 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [495][lvs_wheeldrive_rp_dabrams_m1a1]"
+[Sat Dec 27 03:47:11 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [495][sw_matv]"
+[Sat Dec 27 03:47:14 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [495][sw_gaz2330]"
+[Sat Dec 27 03:52:26 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned npc "NPC [546][npc_poisonzombie]"
+[Sat Dec 27 03:52:27 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned npc "NPC [547][npc_poisonzombie]"
+[Sat Dec 27 03:52:27 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned npc "NPC [548][npc_poisonzombie]"
+[Sat Dec 27 03:52:27 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned npc "NPC [549][npc_poisonzombie]"
+[Sat Dec 27 03:52:27 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned npc "NPC [550][npc_poisonzombie]"
+[Sat Dec 27 03:52:28 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned npc "NPC [551][npc_poisonzombie]"
+[Sat Dec 27 03:52:28 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned npc "NPC [552][npc_poisonzombie]"
+[Sat Dec 27 03:52:28 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned npc "NPC [553][npc_poisonzombie]"
+[Sat Dec 27 03:52:29 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned npc "NPC [554][npc_zombie]"
+[Sat Dec 27 03:52:29 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned npc "NPC [556][npc_zombie]"
+[Sat Dec 27 03:52:29 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned npc "NPC [557][npc_zombie]"
+[Sat Dec 27 03:52:29 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned npc "NPC [559][npc_zombie]"
+[Sat Dec 27 03:52:29 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned npc "NPC [560][npc_zombie]"
+[Sat Dec 27 03:52:30 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned npc "NPC [563][npc_zombie]"
+[Sat Dec 27 03:52:30 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned npc "NPC [566][npc_headcrab_black]"
+[Sat Dec 27 03:52:30 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned npc "NPC [568][npc_headcrab]"
+[Sat Dec 27 03:52:31 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned npc "NPC [570][npc_headcrab]"
+[Sat Dec 27 03:52:31 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned npc "NPC [571][npc_headcrab]"
+[Sat Dec 27 03:52:31 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned npc "NPC [572][npc_headcrab]"
+[Sat Dec 27 03:52:31 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned npc "NPC [573][npc_headcrab]"
+[Sat Dec 27 03:52:31 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned npc "NPC [574][npc_headcrab]"
+[Sat Dec 27 03:52:32 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned npc "NPC [575][npc_headcrab]"
+[Sat Dec 27 03:52:42 2025] worldspawn has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Sat Dec 27 03:53:18 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [491][sw_bomb_fab9000m54_v3]"
+[Sat Dec 27 03:53:18 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [492][sw_bomb_fab9000m54_v3]"
+[Sat Dec 27 03:53:18 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [493][sw_bomb_fab9000m54_v3]"
+[Sat Dec 27 03:53:19 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [494][sw_bomb_fab9000m54_v3]"
+[Sat Dec 27 03:53:19 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [535][sw_bomb_fab9000m54_v3]"
+[Sat Dec 27 03:53:19 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [536][sw_bomb_fab9000m54_v3]"
+[Sat Dec 27 03:53:19 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [540][sw_bomb_fab9000m54_v3]"
+[Sat Dec 27 03:53:19 2025] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Sat Dec 27 03:53:19 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [630][sw_bomb_fab9000m54_v3]"
+[Sat Dec 27 03:53:20 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [631][sw_bomb_fab9000m54_v3]"
+[Sat Dec 27 03:53:20 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [632][sw_bomb_fab9000m54_v3]"
+[Sat Dec 27 03:53:20 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [633][sw_bomb_fab9000m54_v3]"
+[Sat Dec 27 03:53:20 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [634][sw_bomb_fab9000m54_v3]"
+[Sat Dec 27 03:53:20 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [486][sw_rocket_kh22_v3]"
+[Sat Dec 27 03:53:21 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [483][sw_rocket_kh22_v3]"
+[Sat Dec 27 03:53:21 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [487][sw_rocket_kh22_v3]"
+[Sat Dec 27 03:53:21 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [488][sw_rocket_kh22_v3]"
+[Sat Dec 27 03:53:21 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [491][sw_rocket_kh22_v3]"
+[Sat Dec 27 03:53:21 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [492][sw_rocket_kh22_v3]"
+[Sat Dec 27 03:53:21 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [493][sw_rocket_kh22_v3]"
+[Sat Dec 27 03:53:21 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [494][sw_rocket_kh22_v3]"
+[Sat Dec 27 03:53:22 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [483][sw_rocket_kh22_v3]"
+[Sat Dec 27 03:53:48 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [487][sw_bomb_fab3000m54_umpk_v3]"
+[Sat Dec 27 03:53:48 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [489][sw_bomb_fab3000m54_umpk_v3]"
+[Sat Dec 27 03:53:48 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [493][sw_bomb_fab3000m54_umpk_v3]"
+[Sat Dec 27 03:53:48 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [494][sw_bomb_fab3000m54_umpk_v3]"
+[Sat Dec 27 03:53:48 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [496][sw_bomb_fab3000m54_umpk_v3]"
+[Sat Dec 27 03:53:49 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [497][sw_bomb_fab3000m54_umpk_v3]"
+[Sat Dec 27 03:53:49 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [498][sw_bomb_fab3000m54_umpk_v3]"
+[Sat Dec 27 03:53:49 2025] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Sat Dec 27 03:53:49 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [500][sw_bomb_fab3000m54_umpk_v3]"
+[Sat Dec 27 03:53:49 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [501][sw_bomb_fab3000m54_umpk_v3]"
+[Sat Dec 27 03:53:50 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [502][sw_bomb_fab3000m54_umpk_v3]"
+[Sat Dec 27 03:53:50 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [503][sw_bomb_fab3000m54_umpk_v3]"
+[Sat Dec 27 03:53:50 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [504][sw_bomb_fab3000m54_umpk_v3]"
+[Sat Dec 27 03:53:50 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [505][sw_bomb_fab3000m54_umpk_v3]"
+[Sat Dec 27 03:53:50 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [483][sw_bomb_fab3000m54_umpk_v3]"
+[Sat Dec 27 03:53:50 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [486][sw_bomb_fab3000m54_umpk_v3]"
+[Sat Dec 27 03:54:03 2025] Player "༒︎シ︎ʰᵉⁿᵗᵃⁱシ" <STEAM_0:0:851601344> has left the server
+[Sat Dec 27 13:45:21 2025] Player "Kirieshka" <STEAM_0:1:591861458> is attempting to connect.
+[Sat Dec 27 14:01:05 2025] Player "Kirieshka" <STEAM_0:1:591861458> is attempting to connect.
+[Sat Dec 27 14:02:41 2025] Player "费尔南德斯" <STEAM_0:0:79873507> is attempting to connect.
+[Sat Dec 27 14:02:50 2025] Player "BloodySmile" <STEAM_0:1:54838838> is attempting to connect.
+[Sat Dec 27 14:03:46 2025] Player "deceased" <STEAM_0:0:219840273> is attempting to connect.
+[Sat Dec 27 14:03:48 2025] Player "费尔南德斯" <STEAM_0:0:79873507> has spawned in the server
+[Sat Dec 27 14:04:04 2025] Player "BloodySmile" <STEAM_0:1:54838838> has spawned in the server
+[Sat Dec 27 14:04:35 2025] <STEAM_0:0:79873507> 费尔南德斯 ran command "menu"
+[Sat Dec 27 14:05:01 2025] <STEAM_0:1:54838838> BloodySmile ran command "menu"
+[Sat Dec 27 14:07:21 2025] <STEAM_0:0:79873507> 费尔南德斯: .!invisible
+[Sat Dec 27 14:07:45 2025] <STEAM_0:1:54838838> BloodySmile ran command "invisible Wilson"
+[Sat Dec 27 14:08:10 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 14:08:10 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 14:08:10 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 14:08:10 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 14:08:12 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 14:08:12 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 14:08:20 2025] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Sat Dec 27 14:08:22 2025] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Sat Dec 27 14:08:22 2025] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Sat Dec 27 14:08:23 2025] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Sat Dec 27 14:08:24 2025] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Sat Dec 27 14:08:24 2025] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Sat Dec 27 14:08:25 2025] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Sat Dec 27 14:08:25 2025] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Sat Dec 27 14:08:25 2025] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Sat Dec 27 14:08:25 2025] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Sat Dec 27 14:08:25 2025] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Sat Dec 27 14:08:35 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 14:08:36 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 14:08:36 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 14:08:37 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 14:08:37 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 14:08:37 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 14:08:40 2025] <STEAM_0:1:54838838> BloodySmile: /me показал военный билет: [543288][Соколов К.И.]|[ГСРЖТ][ILDU]|[-][-]
+[Sat Dec 27 14:08:44 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 14:08:44 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 14:08:45 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 14:08:45 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 14:08:45 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 14:08:45 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 14:08:45 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 14:08:45 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 14:08:46 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 14:08:46 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 14:08:46 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 14:08:46 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 14:08:47 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 14:08:47 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 14:08:47 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 14:09:21 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 14:09:21 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 14:09:34 2025] Player "费尔南德斯" <STEAM_0:0:79873507> has left the server
+[Sat Dec 27 14:09:36 2025] Player "费尔南德斯" <STEAM_0:0:79873507> is attempting to connect.
+[Sat Dec 27 14:09:49 2025] <STEAM_0:1:54838838> BloodySmile ran command "menu"
+[Sat Dec 27 14:09:55 2025] Player "费尔南德斯" <STEAM_0:0:79873507> has spawned in the server
+[Sat Dec 27 14:10:07 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 14:10:08 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 14:10:09 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 14:11:23 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 14:11:23 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 14:11:24 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 14:11:24 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 14:11:24 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 14:11:54 2025] <STEAM_0:0:79873507> 费尔南德斯 ran command "menu"
+[Sat Dec 27 14:12:27 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 14:12:28 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 14:12:28 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 14:12:29 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 14:12:29 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 14:12:29 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 14:12:29 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 14:12:29 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 14:12:30 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 14:12:30 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 14:12:30 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 14:13:55 2025] <STEAM_0:0:79873507> 费尔南德斯: !invinsible
+[Sat Dec 27 14:14:01 2025] <STEAM_0:0:79873507> 费尔南德斯 ran command "invisible Adams"
+[Sat Dec 27 14:14:04 2025] Player "XyL[i]gaN4eG" <STEAM_0:1:506505597> is attempting to connect.
+[Sat Dec 27 14:15:05 2025] Player "deceased" <STEAM_0:0:219840273> has spawned in the server
+[Sat Dec 27 14:16:19 2025] <STEAM_0:0:79873507> 费尔南德斯 ran command "goto Павлов"
+[Sat Dec 27 14:16:27 2025] <STEAM_0:0:79873507> 费尔南德斯: !invinsible
+[Sat Dec 27 14:16:32 2025] Player "Kirieshka" <STEAM_0:1:591861458> has spawned in the server
+[Sat Dec 27 14:16:36 2025] <STEAM_0:0:79873507> 费尔南德斯: /l кайн?
+[Sat Dec 27 14:16:39 2025] <STEAM_0:0:219840273> deceased: да
+[Sat Dec 27 14:16:49 2025] <STEAM_0:0:79873507> 费尔南德斯 ran command "menu"
+[Sat Dec 27 14:16:59 2025] <STEAM_0:0:79873507> 费尔南德斯 ran command "rank Павлов helper 0"
+[Sat Dec 27 14:17:18 2025] Player "боб коксакер" <STEAM_0:1:570174214> is attempting to connect.
+[Sat Dec 27 14:18:39 2025] <STEAM_0:0:219840273> deceased: // не понял
+[Sat Dec 27 14:18:44 2025] <STEAM_0:0:219840273> deceased: // внатуре убрали пилотов?
+[Sat Dec 27 14:19:11 2025] <STEAM_0:0:79873507> 费尔南德斯: // ?
+[Sat Dec 27 14:19:19 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [501][lfs_grdn_ka50]"
+[Sat Dec 27 14:19:22 2025] <STEAM_0:0:219840273> deceased: // профу пилота найти не могу
+[Sat Dec 27 14:19:36 2025] <STEAM_0:0:79873507> 费尔南德斯: // так их временно и нет.
+[Sat Dec 27 14:19:40 2025] <STEAM_0:0:219840273> deceased: // бля
+[Sat Dec 27 14:19:47 2025] <STEAM_0:0:219840273> deceased: // а за кого мне играть тогда
+[Sat Dec 27 14:19:55 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [501][sw_matv]"
+[Sat Dec 27 14:20:03 2025] <STEAM_0:0:79873507> 费尔南德斯: // хз, у лидера спроси
+[Sat Dec 27 14:20:04 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [501][sw_gaz2330]"
+[Sat Dec 27 14:20:08 2025] Player "NGT | Miheei" <STEAM_0:1:455818937> is attempting to connect.
+[Sat Dec 27 14:20:15 2025] <STEAM_0:0:219840273> deceased: // был бы он живой еще
+[Sat Dec 27 14:20:23 2025] Player "Kirieshka" <STEAM_0:1:591861458> has left the server
+[Sat Dec 27 14:20:28 2025] Player "Kirieshka" <STEAM_0:1:591861458> is attempting to connect.
+[Sat Dec 27 14:20:33 2025] <STEAM_0:0:219840273> deceased: /cloack
+[Sat Dec 27 14:20:35 2025] <STEAM_0:0:219840273> deceased ran command "menu"
+[Sat Dec 27 14:20:38 2025] Player "Kirieshka" <STEAM_0:1:591861458> is attempting to connect.
+[Sat Dec 27 14:20:58 2025] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Sat Dec 27 14:21:00 2025] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Sat Dec 27 14:21:01 2025] <STEAM_0:0:219840273> deceased: !cloack
+[Sat Dec 27 14:21:02 2025] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Sat Dec 27 14:21:04 2025] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Sat Dec 27 14:21:05 2025] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Sat Dec 27 14:21:07 2025] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Sat Dec 27 14:21:09 2025] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Sat Dec 27 14:21:10 2025] <STEAM_0:0:219840273> deceased: // бля
+[Sat Dec 27 14:21:11 2025] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Sat Dec 27 14:21:12 2025] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Sat Dec 27 14:21:16 2025] <STEAM_0:0:219840273> deceased: // я даже клок не могу врубить
+[Sat Dec 27 14:21:29 2025] <STEAM_0:0:79873507> 费尔南德斯: // .!invisible
+[Sat Dec 27 14:21:43 2025] <STEAM_0:0:219840273> deceased ran command "invisible Павлов"
+[Sat Dec 27 14:22:00 2025] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Sat Dec 27 14:22:03 2025] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Sat Dec 27 14:22:04 2025] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Sat Dec 27 14:22:06 2025] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Sat Dec 27 14:22:45 2025] Player "Kirieshka" <STEAM_0:1:591861458> is attempting to connect.
+[Sat Dec 27 14:23:49 2025] Player "Mr.Monolith" <STEAM_0:1:47931114> is attempting to connect.
+[Sat Dec 27 14:24:02 2025] <STEAM_0:0:219840273> deceased: // вау
+[Sat Dec 27 14:24:15 2025] Player "Kirieshka" <STEAM_0:1:591861458> has spawned in the server
+[Sat Dec 27 14:24:26 2025] <STEAM_0:0:219840273> deceased spawned SENT "Entity [505][lvs_trailer_flak]"
+[Sat Dec 27 14:24:42 2025] deceased has killed deceased.
+[Sat Dec 27 14:24:42 2025] <STEAM_0:0:219840273> deceased ran command "slay Павлов"
+[Sat Dec 27 14:24:51 2025] <STEAM_0:0:219840273> deceased ran command "respawn Павлов"
+[Sat Dec 27 14:25:25 2025] Player "Smasher" <STEAM_0:1:220381002> is attempting to connect.
+[Sat Dec 27 14:25:30 2025] <STEAM_0:0:219840273> deceased spawned SENT "Entity [492][sw_gaz2330]"
+[Sat Dec 27 14:25:45 2025] <STEAM_0:0:219840273> deceased spawned SENT "Entity [492][lvs_wheeldrive_hummer]"
+[Sat Dec 27 14:25:51 2025] <STEAM_0:0:219840273> deceased spawned SENT "Entity [492][sw_matv]"
+[Sat Dec 27 14:25:58 2025] <STEAM_0:0:219840273> deceased spawned SENT "Entity [492][sw_bmp1]"
+[Sat Dec 27 14:26:43 2025] <STEAM_0:0:79873507> 费尔南德斯: /l ты кто?
+[Sat Dec 27 14:27:37 2025] <STEAM_0:0:79873507> 费尔南德斯 ran command "rank Иванов admin-j 0"
+[Sat Dec 27 14:27:52 2025] <STEAM_0:1:591861458> Kirieshka: // сорян
+[Sat Dec 27 14:27:54 2025] <STEAM_0:1:591861458> Kirieshka: // мисклик
+[Sat Dec 27 14:27:57 2025] Player "боб коксакер" <STEAM_0:1:570174214> has spawned in the server
+[Sat Dec 27 14:28:29 2025] <STEAM_0:0:219840273> deceased spawned SENT "Entity [597][sw_bmp2]"
+[Sat Dec 27 14:28:47 2025] Player "NGT | Miheei" <STEAM_0:1:455818937> has spawned in the server
+[Sat Dec 27 14:29:15 2025] <STEAM_0:0:219840273> deceased spawned SENT "Entity [492][lvs_wheeldrive_m3a3]"
+[Sat Dec 27 14:29:18 2025] <STEAM_0:0:219840273> deceased spawned SENT "Entity [589][sw_bmp3]"
+[Sat Dec 27 14:29:29 2025] Player "Mr.Monolith" <STEAM_0:1:47931114> has spawned in the server
+[Sat Dec 27 14:29:29 2025] <STEAM_0:1:591861458> Kirieshka ran command "invisible Иванов"
+[Sat Dec 27 14:29:29 2025] <STEAM_0:0:79873507> 费尔南德斯 ran command "a Павлов в дс"
+[Sat Dec 27 14:30:17 2025] <STEAM_0:0:219840273> deceased spawned SENT "Entity [492][lvs_wheeldrive_rp_dabrams_m1a1]"
+[Sat Dec 27 14:30:28 2025] <STEAM_0:0:219840273> deceased spawned SENT "Entity [607][lvs_wheeldrive_rp_t90m]"
+[Sat Dec 27 14:30:32 2025] <STEAM_0:0:219840273> deceased spawned SENT "Entity [698][lvs_wheeldrive_rp_t90m]"
+[Sat Dec 27 14:31:24 2025] <STEAM_0:1:455818937> NGT | Miheei: /ooc
+[Sat Dec 27 14:31:29 2025] <STEAM_0:1:455818937> NGT | Miheei: /ooc ещкеря
+[Sat Dec 27 14:31:30 2025] <STEAM_0:1:591861458> Kirieshka: // васап михей
+[Sat Dec 27 14:31:36 2025] <STEAM_0:1:570174214> боб коксакер: //здарова пацы
+[Sat Dec 27 14:31:37 2025] <STEAM_0:1:455818937> NGT | Miheei: /ooc кто ты сучка
+[Sat Dec 27 14:31:37 2025] <STEAM_0:1:47931114> Mr.Monolith: // Васап мабой
+[Sat Dec 27 14:31:44 2025] <STEAM_0:1:570174214> боб коксакер: /ooc здарова пацы
+[Sat Dec 27 14:31:45 2025] <STEAM_0:1:591861458> Kirieshka: // я крышка черт возьми
+[Sat Dec 27 14:31:57 2025] <STEAM_0:1:591861458> Kirieshka ran command "goto Иванов"
+[Sat Dec 27 14:32:11 2025] <STEAM_0:1:455818937> NGT | Miheei: ЕБАТЬ РУССКИХ
+[Sat Dec 27 14:32:15 2025] <STEAM_0:1:455818937> NGT | Miheei: МОСКАЛЕЙ ЕБАННЫХ
+[Sat Dec 27 14:32:22 2025] <STEAM_0:1:455818937> NGT | Miheei: МОСКАЛЕЙ ЕБАННЫХ
+[Sat Dec 27 14:32:23 2025] <STEAM_0:1:570174214> боб коксакер: парень
+[Sat Dec 27 14:32:34 2025] <STEAM_0:1:570174214> боб коксакер: где мне взять оружие и начать уничтожать
+[Sat Dec 27 14:32:58 2025] <STEAM_0:1:570174214> боб коксакер: а что сделать то надо
+[Sat Dec 27 14:33:29 2025] <STEAM_0:0:79873507> 费尔南德斯: /l хамса?
+[Sat Dec 27 14:33:31 2025] <STEAM_0:0:79873507> 费尔南德斯: /l хамса?
+[Sat Dec 27 14:33:36 2025] <STEAM_0:1:47931114> Mr.Monolith: /l Да
+[Sat Dec 27 14:33:41 2025] <STEAM_0:1:47931114> Mr.Monolith: /l Шо таке?
+[Sat Dec 27 14:33:45 2025] <STEAM_0:0:79873507> 费尔南德斯: /l ты зам?
+[Sat Dec 27 14:33:51 2025] <STEAM_0:1:47931114> Mr.Monolith: /l Да
+[Sat Dec 27 14:34:11 2025] <STEAM_0:0:79873507> 费尔南德斯: /l выбери подразделение в котором будешь и дам привилегию для вайтлиста
+[Sat Dec 27 14:34:23 2025] <STEAM_0:0:79873507> 费尔南德斯 ran command "rank Johnson cmd 0"
+[Sat Dec 27 14:34:24 2025] <STEAM_0:1:47931114> Mr.Monolith: /l Какие есть?
+[Sat Dec 27 14:34:39 2025] <STEAM_0:0:79873507> 费尔南德斯: /l военная полиция, пехота, бронетанковый полк
+[Sat Dec 27 14:34:44 2025] <STEAM_0:1:570174214> боб коксакер: да
+[Sat Dec 27 14:34:49 2025] <STEAM_0:0:79873507> 费尔南德斯: /l временно только 3
+[Sat Dec 27 14:34:50 2025] <STEAM_0:1:570174214> боб коксакер: ж
+[Sat Dec 27 14:34:51 2025] <STEAM_0:1:47931114> Mr.Monolith: /l Давай бронетанки
+[Sat Dec 27 14:34:53 2025] <STEAM_0:1:570174214> боб коксакер: да
+[Sat Dec 27 14:35:23 2025] <STEAM_0:1:455818937> NGT | Miheei: /me дал хук в шею
+[Sat Dec 27 14:35:43 2025] <STEAM_0:0:79873507> 费尔南德斯: /l вайтлист по пкм в табе
+[Sat Dec 27 14:35:49 2025] <STEAM_0:1:47931114> Mr.Monolith: /l Окей
+[Sat Dec 27 14:36:05 2025] <STEAM_0:0:79873507> 费尔南德斯: /l будут вопросы - пиши (Хранитель)
+[Sat Dec 27 14:36:58 2025] Player "Worshiper of God" <STEAM_0:0:74235942> is attempting to connect.
+[Sat Dec 27 14:37:13 2025] Player "Soldier Boy" <STEAM_0:1:620808428> is attempting to connect.
+[Sat Dec 27 14:37:29 2025] боб коксакер has killed боб коксакер.
+[Sat Dec 27 14:39:04 2025] Player "Soldier Boy" <STEAM_0:1:620808428> has spawned in the server
+[Sat Dec 27 14:40:23 2025] <STEAM_0:1:47931114> Mr.Monolith: /me Исполнил воинское приветствие.
+[Sat Dec 27 14:40:30 2025] <STEAM_0:1:620808428> Soldier Boy: /ooc ⓀⓇⒶⓈⒾⒷⓄ ( ͡° ͜ʖ ͡°)
+[Sat Dec 27 14:40:36 2025] <STEAM_0:1:620808428> Soldier Boy: /l Откат
+[Sat Dec 27 14:40:37 2025] <STEAM_0:1:620808428> Soldier Boy: /me изъял оружие
+[Sat Dec 27 14:40:38 2025] <STEAM_0:1:620808428> Soldier Boy: /me изъял средства связи
+[Sat Dec 27 14:40:39 2025] <STEAM_0:1:620808428> Soldier Boy: /me скрутил
+[Sat Dec 27 14:40:42 2025] <STEAM_0:1:455818937> NGT | Miheei: /do Показал удостоверение: Ф:Мейстер ВЗ:М ЛН:18937 Д:1099182 ДВ:16.11.16 СД:16.11.17
+[Sat Dec 27 14:40:45 2025] <STEAM_0:1:455818937> NGT | Miheei: /me забрал спецсвязь и оружие
+[Sat Dec 27 14:40:45 2025] Player "༒︎シ︎ʰᵉⁿᵗᵃⁱシ" <STEAM_0:0:851601344> is attempting to connect.
+[Sat Dec 27 14:40:46 2025] <STEAM_0:1:455818937> NGT | Miheei: /me связал
+[Sat Dec 27 14:41:32 2025] <STEAM_0:1:591861458> Kirieshka ran command "noclip Иванов"
+[Sat Dec 27 14:41:53 2025] <STEAM_0:1:591861458> Kirieshka ran command "noclip Иванов"
+[Sat Dec 27 14:42:05 2025] <STEAM_0:1:591861458> Kirieshka ran command "noclip Иванов"
+[Sat Dec 27 14:42:13 2025] <STEAM_0:1:591861458> Kirieshka ran command "invisible Иванов"
+[Sat Dec 27 14:42:54 2025] <STEAM_0:1:620808428> Soldier Boy: // КОгда в инвизе летаешь, физган видно
+[Sat Dec 27 14:42:58 2025] Player "Smasher" <STEAM_0:1:220381002> has spawned in the server
+[Sat Dec 27 14:43:19 2025] Player "༒︎シ︎ʰᵉⁿᵗᵃⁱシ" <STEAM_0:0:851601344> has spawned in the server
+[Sat Dec 27 14:45:08 2025] <STEAM_0:1:591861458> Kirieshka ran command "hp Иванов 100"
+[Sat Dec 27 14:45:58 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "stacker_improved"
+[Sat Dec 27 14:46:37 2025] <STEAM_0:1:47931114> Mr.Monolith: // Надо бы вам это, руки в профы прописать
+[Sat Dec 27 14:46:54 2025] <STEAM_0:1:220381002> Smasher: // выдайте полковника нато и админку плз
+[Sat Dec 27 14:47:10 2025] <STEAM_0:0:79873507> 费尔南德斯 ran command "rank Smasher admin-j 0"
+[Sat Dec 27 14:47:17 2025] Player "Wolfhound" <STEAM_0:0:428608365> is attempting to connect.
+[Sat Dec 27 14:47:32 2025] <STEAM_0:0:79873507> 费尔南德斯: // выдал
+[Sat Dec 27 14:48:04 2025] <STEAM_0:1:220381002> Smasher: // спс, вайтлист еще
+[Sat Dec 27 14:48:21 2025] Player "Worshiper of God" <STEAM_0:0:74235942> has spawned in the server
+[Sat Dec 27 14:48:25 2025] <STEAM_0:0:219840273> deceased: /slahmap
+[Sat Dec 27 14:48:32 2025] <STEAM_0:0:79873507> 费尔南德斯: // сам можешь, я не знаю что тебе выдавать
+[Sat Dec 27 14:48:42 2025] Player "Elpozornio" <STEAM_0:0:551032499> is attempting to connect.
+[Sat Dec 27 14:48:47 2025] <STEAM_0:1:220381002> Smasher: // у меня доступа нет пишет
+[Sat Dec 27 14:48:52 2025] <STEAM_0:1:220381002> Smasher: // когда сменяю профу себе
+[Sat Dec 27 14:49:02 2025] <STEAM_0:0:79873507> 费尔南德斯 ran command "menu"
+[Sat Dec 27 14:50:27 2025] <STEAM_0:0:79873507> 费尔南德斯 ran command "menu"
+[Sat Dec 27 14:50:43 2025] <STEAM_0:0:79873507> 费尔南德斯 ran command "rank Smasher cmd 0"
+[Sat Dec 27 14:50:51 2025] <STEAM_0:0:79873507> 费尔南德斯: /l попробуй сейчас
+[Sat Dec 27 14:51:24 2025] <STEAM_0:1:220381002> Smasher: // есть добро, только админки нету
+[Sat Dec 27 14:52:26 2025] Soldier Boy has killed deceased.
+[Sat Dec 27 14:52:26 2025] Soldier Boy has killed боб коксакер.
+[Sat Dec 27 14:52:26 2025] Soldier Boy has killed Kirieshka.
+[Sat Dec 27 14:53:34 2025] <STEAM_0:1:620808428> Soldier Boy ran command "ammo Хохлов"
+[Sat Dec 27 14:54:03 2025] <STEAM_0:0:74235942> Worshiper of God: /l 1
+[Sat Dec 27 14:54:41 2025] <STEAM_0:0:74235942> Worshiper of God: /l дарова ишак на михейке как нахуй вкл 3 лицо? дарова форест
+[Sat Dec 27 14:54:45 2025] <STEAM_0:1:591861458> Kirieshka spawned prop "Entity [674][prop_physics] (models/props_combine/weaponstripper.mdl)"
+[Sat Dec 27 14:54:59 2025] <STEAM_0:1:591861458> Kirieshka spawned prop "Entity [674][prop_physics] (models/props_building_details/Storefront_Template001a_Bars.mdl)"
+[Sat Dec 27 14:55:03 2025] <STEAM_0:1:455818937> NGT | Miheei: /looc кнопка с и сверху глоазик
+[Sat Dec 27 14:55:18 2025] <STEAM_0:0:74235942> Worshiper of God: /l дарова
+[Sat Dec 27 14:55:23 2025] <STEAM_0:1:455818937> NGT | Miheei: /looc ку
+[Sat Dec 27 14:55:32 2025] <STEAM_0:1:591861458> Kirieshka: // Вовчик хохлов а тут есть дроны?
+[Sat Dec 27 14:55:40 2025] <STEAM_0:1:591861458> Kirieshka: // Я хочу байрактар
+[Sat Dec 27 14:55:55 2025] <STEAM_0:0:74235942> Worshiper of God: я ебал твое
+[Sat Dec 27 14:56:00 2025] <STEAM_0:1:455818937> NGT | Miheei: меня ебал?
+[Sat Dec 27 14:56:00 2025] <STEAM_0:1:47931114> Mr.Monolith: // **** сбил мой Байрактар, Байрактар, Байрактар
+[Sat Dec 27 14:56:25 2025] Smasher has killed Kirieshka.
+[Sat Dec 27 14:56:34 2025] deceased has killed NGT | Miheei.
+[Sat Dec 27 14:56:34 2025] deceased has killed Soldier Boy.
+[Sat Dec 27 14:56:35 2025] NGT | Miheei has killed NGT | Miheei.
+[Sat Dec 27 14:56:42 2025] Mr.Monolith has killed боб коксакер.
+[Sat Dec 27 14:56:42 2025] боб коксакер has killed боб коксакер.
+[Sat Dec 27 14:56:43 2025] Mr.Monolith has killed deceased.
+[Sat Dec 27 14:57:01 2025] <STEAM_0:1:220381002> Smasher: // хахахаха
+[Sat Dec 27 14:57:11 2025] <STEAM_0:1:570174214> боб коксакер: /ooc хахахахаха
+[Sat Dec 27 14:57:17 2025] <STEAM_0:1:591861458> Kirieshka: // сука я вылезаю из машины ловлю снаряд от танка ебалом
+[Sat Dec 27 14:57:21 2025] <STEAM_0:0:219840273> deceased: // щас бы вертушку..
+[Sat Dec 27 14:57:40 2025] <STEAM_0:0:219840273> deceased: // адамс
+[Sat Dec 27 14:57:43 2025] <STEAM_0:0:219840273> deceased: // тп
+[Sat Dec 27 14:58:26 2025] Player "боб коксакер" <STEAM_0:1:570174214> has left the server
+[Sat Dec 27 14:58:28 2025] <STEAM_0:1:620808428> Soldier Boy: // Как точку захватить?
+[Sat Dec 27 14:58:36 2025] <STEAM_0:0:79873507> 费尔南德斯: // 5 минут на точке быть
+[Sat Dec 27 14:58:42 2025] <STEAM_0:1:220381002> Smasher: // хуяс ебе
+[Sat Dec 27 14:58:44 2025] <STEAM_0:0:79873507> 费尔南德斯: // на карте показывается все
+[Sat Dec 27 14:58:47 2025] <STEAM_0:1:47931114> Mr.Monolith: !ungod^
+[Sat Dec 27 14:58:47 2025] <STEAM_0:1:47931114> Mr.Monolith: !ungod^
+[Sat Dec 27 14:58:51 2025] <STEAM_0:1:220381002> Smasher: // как карту открыть
+[Sat Dec 27 14:58:58 2025] <STEAM_0:0:219840273> deceased ran command "respawn Павлов"
+[Sat Dec 27 14:59:03 2025] <STEAM_0:0:79873507> 费尔南德斯: // F1
+[Sat Dec 27 14:59:14 2025] <STEAM_0:0:79873507> 费尔南德斯: // и слева карта местности
+[Sat Dec 27 14:59:14 2025] <STEAM_0:1:620808428> Soldier Boy: // От скольки захват?
+[Sat Dec 27 14:59:34 2025] <STEAM_0:0:79873507> 费尔南德斯: // А ты добавлял про захват правило?)
+[Sat Dec 27 14:59:57 2025] Player "Wolfhound" <STEAM_0:0:428608365> has spawned in the server
+[Sat Dec 27 15:00:14 2025] <STEAM_0:1:220381002> Smasher: // кст а добавили то что я просил про защищенную частоту нато?
+[Sat Dec 27 15:00:14 2025] <STEAM_0:1:620808428> Soldier Boy: // А мне сказали, что будет механика захвата?
+[Sat Dec 27 15:00:26 2025] <STEAM_0:0:79873507> 费尔南德斯: // ./nato
+[Sat Dec 27 15:00:36 2025] <STEAM_0:1:220381002> Smasher: /nato Проверка связи
+[Sat Dec 27 15:00:37 2025] <STEAM_0:0:74235942> Worshiper of God: /nato
+[Sat Dec 27 15:00:40 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "invisible 1LT A.E. Evergarden"
+[Sat Dec 27 15:00:41 2025] <STEAM_0:1:220381002> Smasher: // реально
+[Sat Dec 27 15:00:45 2025] <STEAM_0:1:220381002> Smasher: // круто спасибо
+[Sat Dec 27 15:00:49 2025] <STEAM_0:1:47931114> Mr.Monolith: /nato Связь имеется.
+[Sat Dec 27 15:00:51 2025] <STEAM_0:1:455818937> NGT | Miheei: /nato god bless america
+[Sat Dec 27 15:01:13 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "invisible 1LT A.E. Evergarden"
+[Sat Dec 27 15:01:37 2025] Player "Wolfhound" <STEAM_0:0:428608365> has left the server
+[Sat Dec 27 15:01:43 2025] Mr.Monolith has killed Kirieshka.
+[Sat Dec 27 15:01:44 2025] Kirieshka has killed Kirieshka.
+[Sat Dec 27 15:01:46 2025] Player "Wolfhound" <STEAM_0:0:428608365> is attempting to connect.
+[Sat Dec 27 15:01:55 2025] Smasher has killed deceased.
+[Sat Dec 27 15:01:59 2025] <STEAM_0:0:219840273> deceased: // не
+[Sat Dec 27 15:02:04 2025] <STEAM_0:0:219840273> deceased: // это реально не круто
+[Sat Dec 27 15:02:04 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /hato Здравия желаю.
+[Sat Dec 27 15:02:06 2025] <STEAM_0:0:219840273> deceased ran command "respawn Павлов"
+[Sat Dec 27 15:02:10 2025] Player "Wolfhound" <STEAM_0:0:428608365> has spawned in the server
+[Sat Dec 27 15:02:11 2025] <STEAM_0:1:455818937> NGT | Miheei: /ooc алло русские го на ганах файтится
+[Sat Dec 27 15:02:13 2025] <STEAM_0:1:220381002> Smasher: // ебать
+[Sat Dec 27 15:02:20 2025] <STEAM_0:1:220381002> Smasher: // с тов чисто т 90
+[Sat Dec 27 15:02:35 2025] Player "Wolfhound" <STEAM_0:0:428608365> has left the server
+[Sat Dec 27 15:02:40 2025] <STEAM_0:0:219840273> deceased used tool "creator"
+[Sat Dec 27 15:02:41 2025] <STEAM_0:0:219840273> deceased used tool "creator"
+[Sat Dec 27 15:02:42 2025] <STEAM_0:0:219840273> deceased used tool "creator"
+[Sat Dec 27 15:02:55 2025] <STEAM_0:0:219840273> deceased used tool "creator"
+[Sat Dec 27 15:02:55 2025] <STEAM_0:0:219840273> deceased used tool "creator"
+[Sat Dec 27 15:02:55 2025] <STEAM_0:0:219840273> deceased used tool "creator"
+[Sat Dec 27 15:02:56 2025] <STEAM_0:0:219840273> deceased used tool "creator"
+[Sat Dec 27 15:02:56 2025] <STEAM_0:0:219840273> deceased used tool "creator"
+[Sat Dec 27 15:02:56 2025] <STEAM_0:0:219840273> deceased used tool "creator"
+[Sat Dec 27 15:02:56 2025] <STEAM_0:0:219840273> deceased used tool "creator"
+[Sat Dec 27 15:02:56 2025] <STEAM_0:0:219840273> deceased used tool "creator"
+[Sat Dec 27 15:02:56 2025] <STEAM_0:0:219840273> deceased used tool "creator"
+[Sat Dec 27 15:02:57 2025] <STEAM_0:0:219840273> deceased used tool "creator"
+[Sat Dec 27 15:02:57 2025] <STEAM_0:0:219840273> deceased used tool "creator"
+[Sat Dec 27 15:02:57 2025] <STEAM_0:0:219840273> deceased used tool "creator"
+[Sat Dec 27 15:02:57 2025] <STEAM_0:0:219840273> deceased used tool "creator"
+[Sat Dec 27 15:03:00 2025] <STEAM_0:0:74235942> Worshiper of God: дарова
+[Sat Dec 27 15:03:10 2025] <STEAM_0:0:74235942> Worshiper of God: ангел ты?
+[Sat Dec 27 15:03:35 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /nato у нас поступил боец.
+[Sat Dec 27 15:03:43 2025] <STEAM_0:1:220381002> Smasher: /nato обучите
+[Sat Dec 27 15:03:48 2025] <STEAM_0:1:220381002> Smasher: /nato мы на бз
+[Sat Dec 27 15:03:57 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /nato Так точно.
+[Sat Dec 27 15:04:03 2025] <STEAM_0:0:74235942> Worshiper of God: /l аххх ангел дарова падла
+[Sat Dec 27 15:04:23 2025] <STEAM_0:0:74235942> Worshiper of God: да
+[Sat Dec 27 15:04:40 2025] Player "Wolfhound" <STEAM_0:0:428608365> is attempting to connect.
+[Sat Dec 27 15:04:50 2025] <STEAM_0:0:74235942> Worshiper of God: /l как мне нахуй это показать
+[Sat Dec 27 15:04:56 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /l /pass
+[Sat Dec 27 15:05:00 2025] <STEAM_0:0:74235942> Worshiper of God: /l член из трусов достать
+[Sat Dec 27 15:05:03 2025] <STEAM_0:0:74235942> Worshiper of God: /pass
+[Sat Dec 27 15:05:17 2025] Player "Wolfhound" <STEAM_0:0:428608365> has spawned in the server
+[Sat Dec 27 15:05:40 2025] <STEAM_0:0:74235942> Worshiper of God: давайте снайпер что ли
+[Sat Dec 27 15:05:48 2025] <STEAM_0:1:455818937> NGT | Miheei: /ooc хранитель дай гайд как ногу вылечить
+[Sat Dec 27 15:05:58 2025] <STEAM_0:0:74235942> Worshiper of God: у меня просто все меткое в особенности когда член в руках держу
+[Sat Dec 27 15:06:16 2025] deceased has killed Mr.Monolith.
+[Sat Dec 27 15:06:17 2025] Mr.Monolith has killed Mr.Monolith.
+[Sat Dec 27 15:06:28 2025] <STEAM_0:1:620808428> Soldier Boy ran command "ammo Хохлов"
+[Sat Dec 27 15:06:29 2025] <STEAM_0:0:74235942> Worshiper of God: /l дарова волкодав есть же бля
+[Sat Dec 27 15:06:48 2025] Kirieshka has killed Smasher.
+[Sat Dec 27 15:07:05 2025] NGT | Miheei has killed Kirieshka.
+[Sat Dec 27 15:07:06 2025] Kirieshka has killed Kirieshka.
+[Sat Dec 27 15:07:09 2025] Player "ups 32" <STEAM_0:0:55004668> is attempting to connect.
+[Sat Dec 27 15:07:15 2025] Soldier Boy has killed deceased.
+[Sat Dec 27 15:07:20 2025] <STEAM_0:0:74235942> Worshiper of God: а что делать
+[Sat Dec 27 15:07:25 2025] <STEAM_0:0:219840273> deceased ran command "respawn Павлов"
+[Sat Dec 27 15:07:29 2025] <STEAM_0:1:620808428> Soldier Boy ran command "ammo @"
+[Sat Dec 27 15:07:47 2025] <STEAM_0:0:74235942> Worshiper of God: окей
+[Sat Dec 27 15:07:56 2025] Player "Wolfhound" <STEAM_0:0:428608365> has left the server
+[Sat Dec 27 15:08:16 2025] <STEAM_0:0:219840273> deceased spawned SENT "Entity [540][lfs_grdn_mi24d]"
+[Sat Dec 27 15:08:18 2025] <STEAM_0:0:219840273> deceased spawned SENT "Entity [545][lfs_grdn_ah1g]"
+[Sat Dec 27 15:08:21 2025] <STEAM_0:0:219840273> deceased spawned SENT "Entity [540][lfs_grdn_ah1g]"
+[Sat Dec 27 15:08:47 2025] Player "Wolfhound" <STEAM_0:0:428608365> is attempting to connect.
+[Sat Dec 27 15:08:52 2025] <STEAM_0:0:219840273> deceased: // когда вертуху добавят?)
+[Sat Dec 27 15:09:01 2025] <STEAM_0:0:74235942> Worshiper of God: да
+[Sat Dec 27 15:09:03 2025] <STEAM_0:0:79873507> 费尔南德斯: // позже
+[Sat Dec 27 15:09:21 2025] Player "Wolfhound" <STEAM_0:0:428608365> has spawned in the server
+[Sat Dec 27 15:09:22 2025] <STEAM_0:0:74235942> Worshiper of God: нет
+[Sat Dec 27 15:09:34 2025] <STEAM_0:0:74235942> Worshiper of God: у меня же аутизм второй степени
+[Sat Dec 27 15:09:36 2025] <STEAM_0:1:620808428> Soldier Boy ran command "respawn Miheei"
+[Sat Dec 27 15:09:56 2025] Kirieshka has killed deceased.
+[Sat Dec 27 15:09:56 2025] deceased has killed deceased.
+[Sat Dec 27 15:09:58 2025] <STEAM_0:0:74235942> Worshiper of God: ну сюда нужны были люди я так и попал сюда
+[Sat Dec 27 15:10:03 2025] <STEAM_0:0:219840273> deceased: // гений
+[Sat Dec 27 15:10:12 2025] <STEAM_0:0:74235942> Worshiper of God: ну повестка пришла
+[Sat Dec 27 15:10:18 2025] <STEAM_0:0:219840273> deceased: /logs
+[Sat Dec 27 15:10:30 2025] <STEAM_0:0:219840273> deceased: // красава
+[Sat Dec 27 15:10:38 2025] Kirieshka has killed Soldier Boy.
+[Sat Dec 27 15:10:39 2025] Soldier Boy has killed Soldier Boy.
+[Sat Dec 27 15:10:41 2025] <STEAM_0:0:219840273> deceased: // я короч потом зайду
+[Sat Dec 27 15:10:45 2025] <STEAM_0:1:591861458> Kirieshka: // сорян
+[Sat Dec 27 15:10:47 2025] <STEAM_0:0:79873507> 费尔南德斯 ran command "rank Wolfhound helper 0"
+[Sat Dec 27 15:10:52 2025] <STEAM_0:0:428608365> Wolfhound: // бегите
+[Sat Dec 27 15:10:54 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /l пиши заявку в дс канале
+[Sat Dec 27 15:10:59 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /l ан поулчение ролей
+[Sat Dec 27 15:11:04 2025] <STEAM_0:1:455818937> NGT | Miheei: /ooc бегите чеченцы за пендосов зашли
+[Sat Dec 27 15:11:14 2025] <STEAM_0:0:428608365> Wolfhound: // ахуел?
+[Sat Dec 27 15:11:22 2025] <STEAM_0:0:74235942> Worshiper of God: /l та я ебу как ее писать если дс не работает
+[Sat Dec 27 15:11:30 2025] <STEAM_0:1:220381002> Smasher: /nato 1LT Евергарден местоположение?
+[Sat Dec 27 15:11:41 2025] <STEAM_0:1:455818937> NGT | Miheei: /nato где сосал мне?
+[Sat Dec 27 15:11:47 2025] <STEAM_0:1:591861458> Kirieshka ran command "hp Иванов 100"
+[Sat Dec 27 15:11:52 2025] <STEAM_0:1:220381002> Smasher: /nato Отставить хуйню в рацию
+[Sat Dec 27 15:11:55 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /nato база полигон
+[Sat Dec 27 15:12:10 2025] <STEAM_0:1:455818937> NGT | Miheei: /nato im sorry
+[Sat Dec 27 15:12:11 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /l а как ты тогда играть собрался?
+[Sat Dec 27 15:12:23 2025] <STEAM_0:1:220381002> Smasher: /me Исполнил воинское приветствие!
+[Sat Dec 27 15:12:31 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /l ага
+[Sat Dec 27 15:12:37 2025] <STEAM_0:1:620808428> Soldier Boy ran command "ammo @"
+[Sat Dec 27 15:12:54 2025] <STEAM_0:1:620808428> Soldier Boy ran command "ammo @"
+[Sat Dec 27 15:12:55 2025] Player "Elpozornio" <STEAM_0:0:551032499> has spawned in the server
+[Sat Dec 27 15:12:56 2025] <STEAM_0:0:74235942> Worshiper of God: /l бля я ебу честно? гандон на дискорде перестал работать вчера хз уже нахуй все перепробывал мучаюсь!!!
+[Sat Dec 27 15:13:11 2025] <STEAM_0:0:74235942> Worshiper of God: /l даже нахуй с кедром не могу поиграть
+[Sat Dec 27 15:13:17 2025] Player "SWEERLER" <STEAM_0:0:526793564> is attempting to connect.
+[Sat Dec 27 15:13:28 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /l есть запрет
+[Sat Dec 27 15:13:47 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /l а мы просто так роли выдать не можем
+[Sat Dec 27 15:13:54 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /l так как у нас свои правила
+[Sat Dec 27 15:13:58 2025] <STEAM_0:1:220381002> Smasher: /nato Те кто на БЗ в городе доложите обстановку
+[Sat Dec 27 15:14:04 2025] lvs_wheeldrive_attachment_follower has killed Wolfhound.
+[Sat Dec 27 15:14:23 2025] <STEAM_0:0:428608365> Wolfhound: // хамса круто ты это сделал
+[Sat Dec 27 15:14:25 2025] <STEAM_0:1:220381002> Smasher: /rf
+[Sat Dec 27 15:14:30 2025] <STEAM_0:1:47931114> Mr.Monolith: // Я могу
+[Sat Dec 27 15:14:36 2025] <STEAM_0:1:47931114> Mr.Monolith: /ooc ( ͡° ͜ʖ ͡°)
+[Sat Dec 27 15:14:40 2025] <STEAM_0:0:74235942> Worshiper of God: // не можешь
+[Sat Dec 27 15:14:45 2025] <STEAM_0:1:47931114> Mr.Monolith: /nato На БЗ спокойно. Беру танк
+[Sat Dec 27 15:14:57 2025] Soldier Boy has killed Kirieshka.
+[Sat Dec 27 15:14:58 2025] Kirieshka has killed Kirieshka.
+[Sat Dec 27 15:15:17 2025] <STEAM_0:1:220381002> Smasher: /nato не бери пока
+[Sat Dec 27 15:15:24 2025] <STEAM_0:1:220381002> Smasher: /nato щяс будет общий сбор на плацу
+[Sat Dec 27 15:15:30 2025] <STEAM_0:1:220381002> Smasher: /nato и после него поедем на бз
+[Sat Dec 27 15:15:35 2025] <STEAM_0:1:47931114> Mr.Monolith: /nato Понял, пойду тогда его сдавать.
+[Sat Dec 27 15:15:36 2025] <STEAM_0:0:428608365> Wolfhound spawned SENT "Entity [538][sw_bmp1am]"
+[Sat Dec 27 15:15:37 2025] <STEAM_0:0:428608365> Wolfhound spawned SENT "Entity [810][lvs_wheeldrive_m3a3]"
+[Sat Dec 27 15:15:37 2025] lvs_wheeldrive_m3a3 has killed Wolfhound.
+[Sat Dec 27 15:15:39 2025] <STEAM_0:1:220381002> Smasher: /nato бз - боевое задание
+[Sat Dec 27 15:15:41 2025] <STEAM_0:1:620808428> Soldier Boy: /nato Я H захватываю
+[Sat Dec 27 15:15:53 2025] <STEAM_0:0:428608365> Wolfhound: // заебись реализм
+[Sat Dec 27 15:16:06 2025] <STEAM_0:1:455818937> NGT | Miheei: /nato товарищ адмирал я пошел кушать
+[Sat Dec 27 15:16:06 2025] Player "deceased" <STEAM_0:0:219840273> has left the server
+[Sat Dec 27 15:16:16 2025] <STEAM_0:1:220381002> Smasher: /nato добро
+[Sat Dec 27 15:16:19 2025] <STEAM_0:0:74235942> Worshiper of God: Жнец
+[Sat Dec 27 15:16:29 2025] <STEAM_0:0:74235942> Worshiper of God: так я тебе писал в чат
+[Sat Dec 27 15:16:36 2025] <STEAM_0:1:47931114> Mr.Monolith: /me Исполнил воинское приветствие.
+[Sat Dec 27 15:16:40 2025] <STEAM_0:0:74235942> Worshiper of God: та ебать ты слепой
+[Sat Dec 27 15:16:48 2025] <STEAM_0:1:220381002> Smasher: /nato кто тут играет вообще вы есть в дискорде натовском?
+[Sat Dec 27 15:16:55 2025] <STEAM_0:1:47931114> Mr.Monolith: // Чет мало рюсских
+[Sat Dec 27 15:16:55 2025] <STEAM_0:1:591861458> Kirieshka ran command "noclip Иванов"
+[Sat Dec 27 15:17:03 2025] <STEAM_0:1:620808428> Soldier Boy: /nato Я
+[Sat Dec 27 15:17:10 2025] <STEAM_0:1:591861458> Kirieshka ran command "noclip Иванов"
+[Sat Dec 27 15:17:10 2025] <STEAM_0:1:47931114> Mr.Monolith: /nato В спец связи есть.
+[Sat Dec 27 15:17:20 2025] <STEAM_0:1:220381002> Smasher: /nato Поставь позывной как в дисорде хохлов
+[Sat Dec 27 15:17:35 2025] <STEAM_0:1:620808428> Soldier Boy: /nato Ок
+[Sat Dec 27 15:17:42 2025] Player "Kirieshka" <STEAM_0:1:591861458> has left the server
+[Sat Dec 27 15:17:52 2025] <STEAM_0:1:47931114> Mr.Monolith: // А это, у бронетаковых войск, SMAW то буит?
+[Sat Dec 27 15:18:04 2025] <STEAM_0:0:551032499> Elpozornio: // а форма будет?
+[Sat Dec 27 15:18:07 2025] <STEAM_0:0:74235942> Worshiper of God: /l не
+[Sat Dec 27 15:18:11 2025] <STEAM_0:0:79873507> 费尔南德斯: // есть специальность гранатометчик
+[Sat Dec 27 15:18:11 2025] <STEAM_0:0:74235942> Worshiper of God: /l не ебу
+[Sat Dec 27 15:18:19 2025] <STEAM_0:0:79873507> 费尔南德斯: // какая форма?
+[Sat Dec 27 15:18:21 2025] <STEAM_0:1:47931114> Mr.Monolith: // О как
+[Sat Dec 27 15:18:31 2025] <STEAM_0:0:551032499> Elpozornio: // не знаю, какая нибудь
+[Sat Dec 27 15:18:41 2025] <STEAM_0:0:74235942> Worshiper of God: ну я читал присягу
+[Sat Dec 27 15:19:02 2025] Player "Молочница" <STEAM_0:1:75658810> is attempting to connect.
+[Sat Dec 27 15:19:20 2025] <STEAM_0:1:620808428> Soldier Boy ran command "send Хохлов"
+[Sat Dec 27 15:19:25 2025] Player "Махорка" <STEAM_0:0:563533126> is attempting to connect.
+[Sat Dec 27 15:19:33 2025] <STEAM_0:0:74235942> Worshiper of God: ну типо там понял там типо
+[Sat Dec 27 15:20:38 2025] <STEAM_0:1:220381002> Smasher: /nato Подождем пока рекрута обучат
+[Sat Dec 27 15:20:43 2025] <STEAM_0:1:220381002> Smasher: /nato И двинемся захватывать
+[Sat Dec 27 15:20:48 2025] <STEAM_0:1:620808428> Soldier Boy: /nato принял
+[Sat Dec 27 15:21:03 2025] <STEAM_0:1:47931114> Mr.Monolith: /nato Принял. Взял себе AT4.
+[Sat Dec 27 15:21:08 2025] <STEAM_0:0:428608365> Wolfhound: miheel ебло на улицу
+[Sat Dec 27 15:21:28 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /nato Докладываю обучил рекрута выдаю снаряжение.
+[Sat Dec 27 15:21:30 2025] <STEAM_0:1:620808428> Soldier Boy ran command "a Можете мне ник сменить?"
+[Sat Dec 27 15:21:40 2025] <STEAM_0:1:620808428> Soldier Boy ran command "a не меняеться через команду"
+[Sat Dec 27 15:21:41 2025] Player "Elpozornio" <STEAM_0:0:551032499> has left the server
+[Sat Dec 27 15:21:46 2025] <STEAM_0:1:220381002> Smasher: /nato Общий строй около КПП на выходе с базы
+[Sat Dec 27 15:21:52 2025] <STEAM_0:0:79873507> 费尔南德斯 ran command "a через вайтлист попробуй"
+[Sat Dec 27 15:22:36 2025] <STEAM_0:0:74235942> Worshiper of God: давай снайпера попробую
+[Sat Dec 27 15:22:53 2025] <STEAM_0:1:54838838> BloodySmile ran command "invisible Wilson"
+[Sat Dec 27 15:23:16 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /nato Скоро прибудем!
+[Sat Dec 27 15:23:17 2025] <STEAM_0:1:47931114> Mr.Monolith: // А эти, ящикт с БП есть?
+[Sat Dec 27 15:23:29 2025] <STEAM_0:0:79873507> 费尔南德斯: // а их что нету у вас?
+[Sat Dec 27 15:23:35 2025] <STEAM_0:1:220381002> Smasher: // админы поставьте
+[Sat Dec 27 15:23:41 2025] <STEAM_0:1:47931114> Mr.Monolith: // Ну там, где оружейная, нет
+[Sat Dec 27 15:23:45 2025] <STEAM_0:0:79873507> 费尔南德斯: // ща
+[Sat Dec 27 15:24:02 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [602][wesupplycrate]"
+[Sat Dec 27 15:24:06 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [608][ifak_ammo]"
+[Sat Dec 27 15:24:08 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [613][wesupplycrate]"
+[Sat Dec 27 15:24:12 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [608][sent_purchasable_ball]"
+[Sat Dec 27 15:24:16 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [608][wesupplycrate]"
+[Sat Dec 27 15:24:21 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [603][wesupplycrate]"
+[Sat Dec 27 15:24:22 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /l я знаю хамса)
+[Sat Dec 27 15:24:23 2025] <STEAM_0:1:47931114> Mr.Monolith: // Поставили.
+[Sat Dec 27 15:24:45 2025] <STEAM_0:1:220381002> Smasher: /nato Повторяю, общий сбор у КПП
+[Sat Dec 27 15:25:18 2025] <STEAM_0:1:47931114> Mr.Monolith: // Ракеты, я так понял не пополняются?
+[Sat Dec 27 15:25:27 2025] Player "SWEERLER" <STEAM_0:0:526793564> has spawned in the server
+[Sat Dec 27 15:25:28 2025] <STEAM_0:0:79873507> 费尔南德斯: // должны
+[Sat Dec 27 15:25:43 2025] <STEAM_0:1:47931114> Mr.Monolith: // Ну я попробовал, не дались
+[Sat Dec 27 15:25:45 2025] <STEAM_0:1:620808428> Soldier Boy ran command "ammo Дубровин"
+[Sat Dec 27 15:25:53 2025] <STEAM_0:1:47931114> Mr.Monolith: А вот обычные магазины на винтовку даются.
+[Sat Dec 27 15:25:58 2025] <STEAM_0:1:47931114> Mr.Monolith: /l Откат
+[Sat Dec 27 15:26:03 2025] <STEAM_0:1:47931114> Mr.Monolith: // А вот обычные магазины на винтовку даются.
+[Sat Dec 27 15:26:17 2025] <STEAM_0:0:79873507> 费尔南德斯: // исправлю
+[Sat Dec 27 15:26:26 2025] <STEAM_0:1:620808428> Soldier Boy spawned SENT "Entity [758][sw_matv]"
+[Sat Dec 27 15:26:29 2025] <STEAM_0:1:620808428> Soldier Boy spawned SENT "Entity [758][sw_gaz2330]"
+[Sat Dec 27 15:26:35 2025] Player "Zoooz3" <STEAM_0:0:899451698> is attempting to connect.
+[Sat Dec 27 15:26:36 2025] <STEAM_0:1:620808428> Soldier Boy spawned SENT "Entity [756][lvs_wheeldrive_hummer]"
+[Sat Dec 27 15:26:38 2025] <STEAM_0:1:620808428> Soldier Boy spawned SENT "Entity [748][sw_gaz2330]"
+[Sat Dec 27 15:27:20 2025] <STEAM_0:0:74235942> Worshiper of God: что я сдела?
+[Sat Dec 27 15:27:22 2025] <STEAM_0:0:74235942> Worshiper of God: сделал?
+[Sat Dec 27 15:27:36 2025] <STEAM_0:1:620808428> Soldier Boy spawned SENT "Entity [618][sw_gaz2330]"
+[Sat Dec 27 15:27:52 2025] <STEAM_0:0:79873507> 费尔南德斯 ran command "a Я ухожу по делам, о всех багах - сообщайте мне."
+[Sat Dec 27 15:28:04 2025] <STEAM_0:0:79873507> 费尔南德斯 ran command "a ака Хранитель, кто не знает"
+[Sat Dec 27 15:28:06 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /l рук у меня нет сразу говорю
+[Sat Dec 27 15:28:33 2025] <STEAM_0:1:620808428> Soldier Boy ran command "a Я технику вызывал"
+[Sat Dec 27 15:28:42 2025] <STEAM_0:1:620808428> Soldier Boy ran command "a Писало, что место занято"
+[Sat Dec 27 15:28:45 2025] <STEAM_0:1:620808428> Soldier Boy ran command "a А тама пусто"
+[Sat Dec 27 15:29:20 2025] Player "费尔南德斯" <STEAM_0:0:79873507> has left the server
+[Sat Dec 27 15:30:55 2025] <STEAM_0:1:47931114> Mr.Monolith: /me Исполнил воинское приветствие.
+[Sat Dec 27 15:31:51 2025] <STEAM_0:1:620808428> Soldier Boy ran command "ammo Дубровин"
+[Sat Dec 27 15:32:17 2025] Mr.Monolith has killed Soldier Boy.
+[Sat Dec 27 15:32:18 2025] Soldier Boy has killed Soldier Boy.
+[Sat Dec 27 15:33:01 2025] <STEAM_0:1:620808428> Soldier Boy ran command "ammo Дубровин"
+[Sat Dec 27 15:33:20 2025] Wolfhound has killed Soldier Boy.
+[Sat Dec 27 15:33:20 2025] Soldier Boy has killed Soldier Boy.
+[Sat Dec 27 15:34:10 2025] Player "Молочница" <STEAM_0:1:75658810> has spawned in the server
+[Sat Dec 27 15:34:59 2025] Player "Махорка" <STEAM_0:0:563533126> is attempting to connect.
+[Sat Dec 27 15:35:13 2025] Player "Махорка" <STEAM_0:0:563533126> is attempting to connect.
+[Sat Dec 27 15:35:25 2025] <STEAM_0:1:620808428> Soldier Boy: !ammp
+[Sat Dec 27 15:35:28 2025] <STEAM_0:1:620808428> Soldier Boy ran command "ammo Дубровин"
+[Sat Dec 27 15:35:30 2025] Player "Махорка" <STEAM_0:0:563533126> is attempting to connect.
+[Sat Dec 27 15:35:42 2025] <STEAM_0:1:620808428> Soldier Boy ran command "ammo Дубровин"
+[Sat Dec 27 15:36:12 2025] <STEAM_0:1:620808428> Soldier Boy ran command "ammo Дубровин"
+[Sat Dec 27 15:36:28 2025] Player "Махорка" <STEAM_0:0:563533126> has spawned in the server
+[Sat Dec 27 15:36:57 2025] Wolfhound has killed Soldier Boy.
+[Sat Dec 27 15:36:57 2025] Soldier Boy has killed Soldier Boy.
+[Sat Dec 27 15:37:09 2025] <STEAM_0:0:428608365> Wolfhound: убит
+[Sat Dec 27 15:37:12 2025] <STEAM_0:1:47931114> Mr.Monolith: /nato Враг убит.
+[Sat Dec 27 15:37:23 2025] <STEAM_0:1:220381002> Smasher: /nato Good job
+[Sat Dec 27 15:37:38 2025] <STEAM_0:1:620808428> Soldier Boy ran command "ammo Дубровин"
+[Sat Dec 27 15:38:22 2025] <STEAM_0:0:526793564> SWEERLER: // че мне делать
+[Sat Dec 27 15:38:30 2025] <STEAM_0:1:220381002> Smasher: /nato поставьте JALTV за укрепления
+[Sat Dec 27 15:38:38 2025] <STEAM_0:1:220381002> Smasher: // играть
+[Sat Dec 27 15:38:38 2025] Soldier Boy has killed Worshiper of God.
+[Sat Dec 27 15:38:41 2025] Smasher has killed Soldier Boy.
+[Sat Dec 27 15:38:51 2025] <STEAM_0:1:220381002> Smasher: /nato Убил
+[Sat Dec 27 15:38:58 2025] <STEAM_0:1:220381002> Smasher: /nato Прямым 30 мм в ебло
+[Sat Dec 27 15:38:59 2025] <STEAM_0:0:526793564> SWEERLER: // сам с собой?
+[Sat Dec 27 15:39:06 2025] <STEAM_0:1:220381002> Smasher: // С нами
+[Sat Dec 27 15:39:14 2025] <STEAM_0:0:526793564> SWEERLER: // а где вы
+[Sat Dec 27 15:39:19 2025] <STEAM_0:1:620808428> Soldier Boy ran command "ammo Дубровин"
+[Sat Dec 27 15:39:19 2025] <STEAM_0:1:220381002> Smasher: // на точке H
+[Sat Dec 27 15:39:25 2025] <STEAM_0:1:620808428> Soldier Boy ran command "ammo Дубровин"
+[Sat Dec 27 15:39:25 2025] <STEAM_0:0:526793564> SWEERLER: /me Исполнил партийное приветствие
+[Sat Dec 27 15:39:28 2025] <STEAM_0:0:74235942> Worshiper of God: // бля мне это так нравится когда прилетают и ты его по сути не видешь а он тебя видит
+[Sat Dec 27 15:39:41 2025] <STEAM_0:0:74235942> Worshiper of God: // ебалом с торговал я
+[Sat Dec 27 15:39:53 2025] <STEAM_0:0:74235942> Worshiper of God: // нихуя у админов тут возможности
+[Sat Dec 27 15:40:24 2025] <STEAM_0:0:526793564> SWEERLER: // убейте меня плиз, я ходить не могу
+[Sat Dec 27 15:40:30 2025] Soldier Boy has killed Soldier Boy.
+[Sat Dec 27 15:41:31 2025] <STEAM_0:1:620808428> Soldier Boy ran command "ammo Дубровин"
+[Sat Dec 27 15:42:31 2025] <STEAM_0:1:47931114> Mr.Monolith: /nato В поле русский спрятался, раненый.
+[Sat Dec 27 15:42:37 2025] <STEAM_0:1:47931114> Mr.Monolith: /nato Возможно еще жив.
+[Sat Dec 27 15:42:49 2025] <STEAM_0:1:220381002> Smasher: /nato блум ты где
+[Sat Dec 27 15:43:19 2025] <STEAM_0:0:74235942> Worshiper of God: /nato база
+[Sat Dec 27 15:43:23 2025] Wolfhound has killed Soldier Boy.
+[Sat Dec 27 15:43:24 2025] Soldier Boy has killed Soldier Boy.
+[Sat Dec 27 15:43:32 2025] <STEAM_0:1:47931114> Mr.Monolith: /nato Вулф, забери машину, ты на меня наехал...
+[Sat Dec 27 15:43:46 2025] <STEAM_0:1:220381002> Smasher: /nato Все кто откис сейчас заберем вас с базы
+[Sat Dec 27 15:44:03 2025] <STEAM_0:1:620808428> Soldier Boy ran command "ammo Дубровин"
+[Sat Dec 27 15:44:08 2025] <STEAM_0:1:620808428> Soldier Boy ran command "ammo Дубровин"
+[Sat Dec 27 15:44:13 2025] <STEAM_0:0:74235942> Worshiper of God: // бля тут можно дальность прорисовки ебнуть слегка дальше а?
+[Sat Dec 27 15:44:44 2025] <STEAM_0:1:220381002> Smasher: // ты че с ноуклипом с рпг стреляешь
+[Sat Dec 27 15:44:54 2025] <STEAM_0:1:220381002> Smasher: /nato блум сам до точки А доберешься?
+[Sat Dec 27 15:45:05 2025] Soldier Boy has killed Mr.Monolith.
+[Sat Dec 27 15:45:06 2025] Mr.Monolith has killed Mr.Monolith.
+[Sat Dec 27 15:45:14 2025] Player "SWEERLER" <STEAM_0:0:526793564> has left the server
+[Sat Dec 27 15:45:14 2025] Player "SWEERLER" <STEAM_0:0:526793564> is attempting to connect.
+[Sat Dec 27 15:45:28 2025] <STEAM_0:1:220381002> Smasher: /nato Захватываем точку А
+[Sat Dec 27 15:45:37 2025] Soldier Boy has killed Smasher.
+[Sat Dec 27 15:46:01 2025] Wolfhound has killed Soldier Boy.
+[Sat Dec 27 15:46:22 2025] <STEAM_0:0:563533126> Махорка: // Как че делать епт
+[Sat Dec 27 15:46:35 2025] Player "SWEERLER" <STEAM_0:0:526793564> has spawned in the server
+[Sat Dec 27 15:46:44 2025] <STEAM_0:1:75658810> Молочница: // ало где все
+[Sat Dec 27 15:46:53 2025] <STEAM_0:1:220381002> Smasher: /nato Все кто умер идите на точку А
+[Sat Dec 27 15:47:56 2025] Player "NGT | Miheei" <STEAM_0:1:455818937> has left the server
+[Sat Dec 27 15:48:03 2025] Player "Skinny" <STEAM_0:0:107768093> is attempting to connect.
+[Sat Dec 27 15:48:03 2025] <STEAM_0:0:428608365> Wolfhound: он спит
+[Sat Dec 27 15:48:10 2025] <STEAM_0:0:563533126> Махорка: // Как че делать епт
+[Sat Dec 27 15:48:15 2025] <STEAM_0:1:220381002> Smasher: /nato Перекличка - кто живой пишите Я
+[Sat Dec 27 15:48:24 2025] <STEAM_0:0:428608365> Wolfhound: r
+[Sat Dec 27 15:48:45 2025] Player "Mr.Monolith" <STEAM_0:1:47931114> has left the server
+[Sat Dec 27 15:48:50 2025] <STEAM_0:0:526793564> SWEERLER: :birthday:
+[Sat Dec 27 15:49:16 2025] <STEAM_0:1:620808428> Soldier Boy ran command "respawn Дубровин"
+[Sat Dec 27 15:49:24 2025] <STEAM_0:0:526793564> SWEERLER: // :beer:
+[Sat Dec 27 15:49:31 2025] <STEAM_0:0:428608365> Wolfhound: // Трамп?
+[Sat Dec 27 15:49:39 2025] <STEAM_0:1:620808428> Soldier Boy ran command "invisible Дубровин"
+[Sat Dec 27 15:49:39 2025] <STEAM_0:0:563533126> Махорка: // Блять че делать че за серв ваще емае
+[Sat Dec 27 15:49:43 2025] <STEAM_0:0:526793564> SWEERLER: // yes
+[Sat Dec 27 15:49:49 2025] <STEAM_0:0:428608365> Wolfhound ran command "spectate Wolfhound"
+[Sat Dec 27 15:49:52 2025] <STEAM_0:0:428608365> Wolfhound: // меняй
+[Sat Dec 27 15:49:58 2025] <STEAM_0:0:563533126> Махорка: // ау админы
+[Sat Dec 27 15:50:03 2025] <STEAM_0:0:428608365> Wolfhound: // что такое?
+[Sat Dec 27 15:50:09 2025] <STEAM_0:0:563533126> Махорка: // че делать ваще
+[Sat Dec 27 15:50:14 2025] <STEAM_0:0:428608365> Wolfhound: // воевать убивать
+[Sat Dec 27 15:50:19 2025] <STEAM_0:0:428608365> Wolfhound: // милитари
+[Sat Dec 27 15:50:21 2025] <STEAM_0:0:526793564> SWEERLER: // Отказано :x:
+[Sat Dec 27 15:50:22 2025] <STEAM_0:0:74235942> Worshiper of God: // ну типо у вас кенты должны по должности быть выше вас и вам выдать рольку но видите ли у вас никого нету
+[Sat Dec 27 15:50:24 2025] <STEAM_0:0:563533126> Махорка: // где форму взять то бля\
+[Sat Dec 27 15:50:39 2025] <STEAM_0:0:428608365> Wolfhound: // по рп, попроси у военных рф
+[Sat Dec 27 15:50:48 2025] <STEAM_0:0:74235942> Worshiper of God: // форма выдается высшим составом
+[Sat Dec 27 15:50:50 2025] <STEAM_0:0:563533126> Махорка: // збс серв только открыли а уже админо ноль за рф
+[Sat Dec 27 15:50:52 2025] <STEAM_0:0:428608365> Wolfhound: // трамп меняй ник
+[Sat Dec 27 15:51:02 2025] <STEAM_0:0:526793564> SWEERLER: // Отказано :x:
+[Sat Dec 27 15:51:34 2025] <STEAM_0:0:428608365> Wolfhound: уходите
+[Sat Dec 27 15:51:40 2025] <STEAM_0:0:428608365> Wolfhound: уходите
+[Sat Dec 27 15:51:46 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: ~GiveAmmo 100
+[Sat Dec 27 15:51:48 2025] <STEAM_0:0:428608365> Wolfhound: уходите
+[Sat Dec 27 15:51:56 2025] Wolfhound has killed Молочница.
+[Sat Dec 27 15:52:09 2025] Wolfhound has killed Молочница.
+[Sat Dec 27 15:52:10 2025] Worshiper of God has killed Махорка.
+[Sat Dec 27 15:52:13 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [484][lvs_item_ammo]"
+[Sat Dec 27 15:52:16 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [501][lvs_item_ammocrate]"
+[Sat Dec 27 15:52:21 2025] <STEAM_0:0:428608365> Wolfhound: // гении рп
+[Sat Dec 27 15:52:22 2025] <STEAM_0:0:563533126> Махорка: // ой пиздец а не серв какойто пхахах
+[Sat Dec 27 15:52:26 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [484][sw_airdrop_v3]"
+[Sat Dec 27 15:52:30 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [484][sw_airdrop_v3]"
+[Sat Dec 27 15:52:33 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [501][sw_airdrop_v3]"
+[Sat Dec 27 15:52:33 2025] <STEAM_0:0:428608365> Wolfhound: // ливай если хочешь
+[Sat Dec 27 15:52:51 2025] <STEAM_0:1:220381002> Smasher: /nato Собираемся, едем на Г
+[Sat Dec 27 15:53:05 2025] <STEAM_0:0:563533126> Махорка: // типо все админы зашли за нато и балдеют друг от друга?
+[Sat Dec 27 15:53:46 2025] <STEAM_0:0:563533126> Махорка: // cringe какойто
+[Sat Dec 27 15:54:18 2025] <STEAM_0:0:428608365> Wolfhound: // Ок
+[Sat Dec 27 15:54:27 2025] <STEAM_0:0:563533126> Махорка: // Дабаб
+[Sat Dec 27 15:54:40 2025] <STEAM_0:1:75658810> Молочница: // сыны шлюх
+[Sat Dec 27 15:54:59 2025] <STEAM_0:1:220381002> Smasher: // Это не военное преступление если тебя было весело
+[Sat Dec 27 15:55:00 2025] <STEAM_0:0:428608365> Wolfhound ran command "ban Калдуноф 0 пшол нахуй"
+[Sat Dec 27 15:55:00 2025] Player "Молочница" <STEAM_0:1:75658810> has left the server
+[Sat Dec 27 15:55:11 2025] <STEAM_0:0:563533126> Махорка: // ахахах волкодаву задели
+[Sat Dec 27 15:55:29 2025] <STEAM_0:0:428608365> Wolfhound ran command "ban Козлов 0 траву трогай"
+[Sat Dec 27 15:55:29 2025] Player "Махорка" <STEAM_0:0:563533126> has left the server
+[Sat Dec 27 15:55:42 2025] Player "Махорка" <STEAM_0:0:563533126> is attempting to connect.
+[Sat Dec 27 15:55:49 2025] <STEAM_0:1:220381002> Smasher: // тотальное превосходство
+[Sat Dec 27 15:56:15 2025] Player "Wolfhound" <STEAM_0:0:428608365> has left the server
+[Sat Dec 27 15:56:32 2025] Player "SWEERLER" <STEAM_0:0:526793564> has left the server
+[Sat Dec 27 15:57:20 2025] Player "Worshiper of God" <STEAM_0:0:74235942> has left the server
+[Sat Dec 27 15:59:14 2025] Player "Skinny" <STEAM_0:0:107768093> is attempting to connect.
+[Sat Dec 27 15:59:17 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /nato ты где
+[Sat Dec 27 16:00:42 2025] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Sat Dec 27 16:00:43 2025] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Sat Dec 27 16:00:43 2025] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Sat Dec 27 16:04:59 2025] Smasher has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Sat Dec 27 16:05:19 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: !respavn
+[Sat Dec 27 16:05:57 2025] Smasher has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Sat Dec 27 16:05:57 2025] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Smasher.
+[Sat Dec 27 16:06:12 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // хах
+[Sat Dec 27 16:06:25 2025] <STEAM_0:1:220381002> Smasher: // nice
+[Sat Dec 27 16:07:05 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [493][lvs_wheeldrive_nonrp_t90m]"
+[Sat Dec 27 16:07:08 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [746][lvs_wheeldrive_dabrams_m1a1]"
+[Sat Dec 27 16:07:13 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [493][lvs_wheeldrive_nonrp_t90m]"
+[Sat Dec 27 16:08:01 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [493][sw_bomb_p5075_v3]"
+[Sat Dec 27 16:08:03 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [669][sw_bomb_ofab250_umpk_v3]"
+[Sat Dec 27 16:08:03 2025] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Sat Dec 27 16:08:03 2025] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Smasher.
+[Sat Dec 27 16:08:15 2025] <STEAM_0:1:220381002> Smasher: // это ты скалаша?
+[Sat Dec 27 16:08:24 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // а а что я
+[Sat Dec 27 16:08:29 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // )
+[Sat Dec 27 16:08:45 2025] <STEAM_0:1:620808428> Soldier Boy: // Взял блять
+[Sat Dec 27 16:08:49 2025] <STEAM_0:1:620808428> Soldier Boy: // Так захуярил
+[Sat Dec 27 16:08:59 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // людей нету(
+[Sat Dec 27 16:09:05 2025] <STEAM_0:1:620808428> Soldier Boy used tool "remover"
+[Sat Dec 27 16:09:05 2025] <STEAM_0:1:620808428> Soldier Boy used tool "remover"
+[Sat Dec 27 16:09:05 2025] <STEAM_0:1:620808428> Soldier Boy used tool "remover"
+[Sat Dec 27 16:09:05 2025] <STEAM_0:1:620808428> Soldier Boy used tool "remover"
+[Sat Dec 27 16:09:06 2025] <STEAM_0:1:620808428> Soldier Boy used tool "remover"
+[Sat Dec 27 16:09:06 2025] <STEAM_0:1:620808428> Soldier Boy used tool "remover"
+[Sat Dec 27 16:09:06 2025] <STEAM_0:1:620808428> Soldier Boy used tool "remover"
+[Sat Dec 27 16:09:06 2025] <STEAM_0:1:620808428> Soldier Boy used tool "remover"
+[Sat Dec 27 16:09:08 2025] <STEAM_0:1:620808428> Soldier Boy used tool "remover"
+[Sat Dec 27 16:09:08 2025] <STEAM_0:1:620808428> Soldier Boy used tool "remover"
+[Sat Dec 27 16:09:08 2025] <STEAM_0:1:620808428> Soldier Boy used tool "remover"
+[Sat Dec 27 16:09:09 2025] <STEAM_0:1:620808428> Soldier Boy used tool "remover"
+[Sat Dec 27 16:09:11 2025] <STEAM_0:1:620808428> Soldier Boy used tool "remover"
+[Sat Dec 27 16:09:11 2025] <STEAM_0:1:620808428> Soldier Boy used tool "remover"
+[Sat Dec 27 16:09:11 2025] <STEAM_0:1:620808428> Soldier Boy used tool "remover"
+[Sat Dec 27 16:09:30 2025] Smasher has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Sat Dec 27 16:09:56 2025] <STEAM_0:1:220381002> Smasher: // бля через колесо мыши хуй выберешь ствол танка
+[Sat Dec 27 16:10:00 2025] <STEAM_0:1:220381002> Smasher: // вобще как то багано
+[Sat Dec 27 16:10:01 2025] <STEAM_0:1:620808428> Soldier Boy used tool "remover"
+[Sat Dec 27 16:10:01 2025] <STEAM_0:1:620808428> Soldier Boy used tool "remover"
+[Sat Dec 27 16:10:01 2025] <STEAM_0:1:620808428> Soldier Boy used tool "remover"
+[Sat Dec 27 16:10:02 2025] <STEAM_0:1:620808428> Soldier Boy used tool "remover"
+[Sat Dec 27 16:10:02 2025] <STEAM_0:1:620808428> Soldier Boy used tool "remover"
+[Sat Dec 27 16:10:25 2025] <STEAM_0:1:220381002> Smasher: // ебать звук абрамся сочный
+[Sat Dec 27 16:10:44 2025] <STEAM_0:1:620808428> Soldier Boy used tool "remover"
+[Sat Dec 27 16:11:22 2025] <STEAM_0:1:620808428> Soldier Boy: // пропали трупы машин?
+[Sat Dec 27 16:11:30 2025] <STEAM_0:1:220381002> Smasher: // ты очистил карту
+[Sat Dec 27 16:11:32 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [46][wesupplycrate]"
+[Sat Dec 27 16:11:36 2025] <STEAM_0:1:620808428> Soldier Boy ran command "spectate Wilson"
+[Sat Dec 27 16:11:44 2025] <STEAM_0:1:620808428> Soldier Boy ran command "spectate Smasher"
+[Sat Dec 27 16:12:09 2025] <STEAM_0:1:620808428> Soldier Boy ran command "goto Smasher"
+[Sat Dec 27 16:12:47 2025] <STEAM_0:1:620808428> Soldier Boy ran command "invisible Форест"
+[Sat Dec 27 16:12:56 2025] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Smasher.
+[Sat Dec 27 16:12:57 2025] Smasher has killed Smasher.
+[Sat Dec 27 16:13:08 2025] <STEAM_0:1:620808428> Soldier Boy ran command "invisible Форест"
+[Sat Dec 27 16:13:34 2025] <STEAM_0:1:220381002> Smasher: // бля короче онлайн будет зайду пока парни
+[Sat Dec 27 16:13:35 2025] Player "Smasher" <STEAM_0:1:220381002> has left the server
+[Sat Dec 27 16:13:45 2025] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Sat Dec 27 16:13:46 2025] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Sat Dec 27 16:13:47 2025] Player "༒︎シ︎ʰᵉⁿᵗᵃⁱシ" <STEAM_0:0:851601344> has left the server
+[Sat Dec 27 16:13:58 2025] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Sat Dec 27 16:13:59 2025] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Sat Dec 27 16:14:00 2025] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Sat Dec 27 16:14:00 2025] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Sat Dec 27 16:14:00 2025] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Sat Dec 27 16:14:00 2025] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Sat Dec 27 16:14:00 2025] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Sat Dec 27 16:14:00 2025] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Sat Dec 27 16:14:01 2025] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Sat Dec 27 16:14:01 2025] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Sat Dec 27 16:14:01 2025] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Sat Dec 27 16:14:01 2025] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Sat Dec 27 16:14:01 2025] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Sat Dec 27 16:14:38 2025] Player "Othiri's good girl" <STEAM_0:1:832506095> is attempting to connect.
+[Sat Dec 27 16:15:56 2025] <STEAM_0:1:620808428> Soldier Boy ran command "menu"
+[Sat Dec 27 16:16:29 2025] <STEAM_0:1:620808428> Soldier Boy ran command "unban STEAM_0:0:563533126"
+[Sat Dec 27 16:16:30 2025] <STEAM_0:1:620808428> Soldier Boy ran command "unban STEAM_0:1:75658810"
+[Sat Dec 27 16:19:03 2025] Player "Soldier Boy" <STEAM_0:1:620808428> has left the server
+[Sat Dec 27 16:19:08 2025] Player "Soldier Boy" <STEAM_0:1:620808428> is attempting to connect.
+[Sat Dec 27 16:19:43 2025] Player "Soldier Boy" <STEAM_0:1:620808428> has spawned in the server
+[Sat Dec 27 16:20:14 2025] <STEAM_0:1:620808428> Soldier Boy ran command "invisible Форест"
+[Sat Dec 27 16:20:26 2025] <STEAM_0:1:54838838> BloodySmile ran command "menu"
+[Sat Dec 27 16:20:36 2025] <STEAM_0:1:54838838> BloodySmile ran command "unban STEAM_0:1:75658810"
+[Sat Dec 27 16:20:48 2025] <STEAM_0:1:54838838> BloodySmile ran command "unban STEAM_0:0:563533126"
+[Sat Dec 27 16:20:58 2025] <STEAM_0:1:54838838> BloodySmile ran command "unban STEAM_0:0:563533126"
+[Sat Dec 27 16:21:26 2025] <STEAM_0:1:54838838> BloodySmile ran command "unban STEAM_0:0:563533126"
+[Sat Dec 27 16:21:54 2025] <STEAM_0:1:54838838> BloodySmile ran command "menu"
+[Sat Dec 27 16:22:10 2025] <STEAM_0:1:54838838> BloodySmile ran command "unban STEAM_0:0:563533126"
+[Sat Dec 27 16:26:40 2025] <STEAM_0:1:54838838> BloodySmile spawned SWEP "Weapon [523][tfa_fas2_ifak]"
+[Sat Dec 27 16:26:45 2025] <STEAM_0:1:54838838> BloodySmile: /me показал военный билет: [543288][Соколов К.И.]|[ГСРЖТ][ILDU]|[-][-]
+[Sat Dec 27 16:31:19 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [484][sw_airdrop_large_v3]"
+[Sat Dec 27 16:31:27 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [484][sw_uav_catapult]"
+[Sat Dec 27 16:31:36 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [484][sw_airdrop_v3]"
+[Sat Dec 27 16:34:49 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [484][witcher_gateway]"
+[Sat Dec 27 16:35:25 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [484][sw_item_refuel]"
+[Sat Dec 27 16:35:35 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [484][lvs_item_turbo]"
+[Sat Dec 27 16:35:40 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [484][lvs_wheeldrive_dabrams_m1a1]"
+[Sat Dec 27 16:35:44 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [484][lvs_wheeldrive_dabrams_m1a1]"
+[Sat Dec 27 16:49:53 2025] Player "punk" <STEAM_0:0:921324874> is attempting to connect.
+[Sat Dec 27 16:50:02 2025] Player "punk" <STEAM_0:0:921324874> is attempting to connect.
+[Sat Dec 27 16:58:58 2025] Player "punk" <STEAM_0:0:921324874> has spawned in the server
+[Sat Dec 27 17:11:06 2025] <STEAM_0:0:921324874> punk: есть кто живой?
+[Sat Dec 27 17:11:24 2025] <STEAM_0:0:921324874> punk: // есть кто живой?
+[Sat Dec 27 17:13:29 2025] <STEAM_0:0:921324874> punk: :green_circle:
+[Sat Dec 27 17:16:23 2025] Player "УГОЛЬ_НА_ЗАВОДЕ" <STEAM_0:1:547015978> is attempting to connect.
+[Sat Dec 27 17:20:14 2025] Player "punk" <STEAM_0:0:921324874> has left the server
+[Sat Dec 27 17:20:16 2025] Player "punk" <STEAM_0:0:921324874> is attempting to connect.
+[Sat Dec 27 17:20:46 2025] Player "punk" <STEAM_0:0:921324874> has spawned in the server
+[Sat Dec 27 17:28:33 2025] Player "УГОЛЬ_НА_ЗАВОДЕ" <STEAM_0:1:547015978> is attempting to connect.
+[Sat Dec 27 17:38:47 2025] Player "punk" <STEAM_0:0:921324874> has left the server
+[Sat Dec 27 17:38:52 2025] Player "BloodySmile" <STEAM_0:1:54838838> has left the server
+[Sat Dec 27 17:39:22 2025] Player "моченосец по телкам" <STEAM_0:1:148232866> is attempting to connect.
+[Sat Dec 27 17:46:04 2025] Player "моченосец по телкам" <STEAM_0:1:148232866> has spawned in the server
+[Sat Dec 27 17:46:36 2025] <STEAM_0:1:148232866> моченосец по телкам: !ьутг
+[Sat Dec 27 17:46:38 2025] <STEAM_0:1:148232866> моченосец по телкам ran command "menu"
+[Sat Dec 27 17:47:23 2025] <STEAM_0:1:148232866> моченосец по телкам: // форест лох
+[Sat Dec 27 17:47:53 2025] <STEAM_0:1:148232866> моченосец по телкам: // Форест лох
+[Sat Dec 27 17:48:00 2025] моченосец по телкам has killed моченосец по телкам.
+[Sat Dec 27 17:48:00 2025] <STEAM_0:1:620808428> Soldier Boy ran command "slay    "
+[Sat Dec 27 17:48:33 2025] <STEAM_0:1:620808428> Soldier Boy ran command "spectate    "
+[Sat Dec 27 17:50:45 2025] <STEAM_0:1:620808428> Soldier Boy spawned SENT "Entity [508][sw_bmp1]"
+[Sat Dec 27 17:52:33 2025] <STEAM_0:1:620808428> Soldier Boy spawned SENT "Entity [587][lvs_wheeldrive_m3a3]"
+[Sat Dec 27 17:56:16 2025] <STEAM_0:1:620808428> Soldier Boy ran command "goto Фёдоров"
+[Sat Dec 27 17:56:33 2025] <STEAM_0:1:620808428> Soldier Boy spawned SENT "Entity [587][sw_bmp3m]"
+[Sat Dec 27 17:57:20 2025] worldspawn has killed Soldier Boy.
+[Sat Dec 27 17:58:27 2025] моченосец по телкам has killed Soldier Boy.
+[Sat Dec 27 17:59:55 2025] моченосец по телкам has killed Soldier Boy.
+[Sat Dec 27 18:00:53 2025] <STEAM_0:1:620808428> Soldier Boy ran command "goto Фёдоров"
+[Sat Dec 27 18:01:17 2025] моченосец по телкам has killed моченосец по телкам.
+[Sat Dec 27 18:01:40 2025] <STEAM_0:1:620808428> Soldier Boy ran command "send Фёдоров"
+[Sat Dec 27 18:02:51 2025] Soldier Boy has killed моченосец по телкам.
+[Sat Dec 27 18:02:54 2025] Player "моченосец по телкам" <STEAM_0:1:148232866> has left the server
+[Sat Dec 27 18:03:31 2025] Player "Soldier Boy" <STEAM_0:1:620808428> has left the server
+[Sat Dec 27 18:20:02 2025] Player "费尔南德斯" <STEAM_0:0:79873507> is attempting to connect.
+[Sat Dec 27 18:21:08 2025] Player "费尔南德斯" <STEAM_0:0:79873507> has spawned in the server
+[Sat Dec 27 18:24:06 2025] <STEAM_0:0:79873507> 费尔南德斯 ran command "rank Коваленко admin-j 0"
+[Sat Dec 27 18:28:21 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 18:28:22 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 18:28:22 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 18:28:22 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 18:28:22 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 18:29:43 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 18:29:43 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 18:29:48 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 18:29:49 2025] <STEAM_0:0:79873507> 费尔南德斯 ran command "menu"
+[Sat Dec 27 18:35:04 2025] Player "费尔南德斯" <STEAM_0:0:79873507> is attempting to connect.
+[Sat Dec 27 18:35:23 2025] Player "费尔南德斯" <STEAM_0:0:79873507> has spawned in the server
+[Sat Dec 27 18:36:03 2025] Player "费尔南德斯" <STEAM_0:0:79873507> is attempting to connect.
+[Sat Dec 27 18:36:20 2025] Player "费尔南德斯" <STEAM_0:0:79873507> has spawned in the server
+[Sat Dec 27 18:45:01 2025] <STEAM_0:0:79873507> 费尔南德斯: /givemoney
+[Sat Dec 27 18:50:30 2025] Player "费尔南德斯" <STEAM_0:0:79873507> is attempting to connect.
+[Sat Dec 27 18:50:48 2025] Player "费尔南德斯" <STEAM_0:0:79873507> has spawned in the server
+[Sat Dec 27 18:51:07 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 18:51:07 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 18:51:26 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [267][wesupplycrate]"
+[Sat Dec 27 18:51:27 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 18:51:27 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 18:51:27 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 18:51:28 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 18:51:28 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 18:51:28 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 18:51:28 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 18:51:28 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 18:51:28 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 18:51:29 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 18:51:29 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 18:51:29 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 18:51:29 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 18:51:30 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 18:51:36 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 18:51:37 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 18:51:37 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 18:51:37 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 18:51:37 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 18:51:37 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 18:51:37 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 18:51:38 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 18:51:38 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 18:51:38 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 18:51:38 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 18:51:38 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 18:51:39 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 18:51:39 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 18:51:39 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 18:51:39 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 18:51:39 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 18:51:39 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 18:51:40 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 18:51:40 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 18:51:40 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 18:51:40 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 18:51:40 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 18:51:40 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 18:51:41 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 18:51:41 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 18:51:41 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 18:51:41 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 18:51:41 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 18:51:41 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 18:51:42 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 18:53:27 2025] Player "费尔南德斯" <STEAM_0:0:79873507> is attempting to connect.
+[Sat Dec 27 18:53:44 2025] Player "费尔南德斯" <STEAM_0:0:79873507> has spawned in the server
+[Sat Dec 27 18:56:40 2025] <STEAM_0:0:79873507> 费尔南德斯 ran command "menu"
+[Sat Dec 27 18:58:18 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 18:58:18 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 18:58:19 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 18:58:19 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 18:58:19 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 18:58:19 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 18:58:19 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 18:58:19 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 18:58:20 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 18:58:20 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 18:58:20 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 18:58:20 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 18:58:20 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 18:58:20 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 18:58:21 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 18:58:21 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 18:58:21 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 18:58:21 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 18:58:21 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 18:58:21 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 18:58:21 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 18:58:22 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 18:58:22 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 18:58:22 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 18:58:22 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 18:58:22 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 18:58:22 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 18:58:24 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 18:58:25 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 18:58:25 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 18:58:25 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 18:58:25 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 18:58:25 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 18:58:32 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned prop "Entity [267][prop_physics] (models/props_c17/fence03a.mdl)"
+[Sat Dec 27 18:58:32 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "stacker_improved"
+[Sat Dec 27 18:58:32 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned prop "Entity [371][prop_physics] (models/props_c17/fence03a.mdl)"
+[Sat Dec 27 18:58:33 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "stacker_improved"
+[Sat Dec 27 18:58:33 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned prop "Entity [373][prop_physics] (models/props_c17/fence03a.mdl)"
+[Sat Dec 27 18:58:36 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "precision"
+[Sat Dec 27 18:58:37 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "precision"
+[Sat Dec 27 18:58:37 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "precision"
+[Sat Dec 27 18:58:37 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "precision"
+[Sat Dec 27 18:58:38 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "precision"
+[Sat Dec 27 18:58:38 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "precision"
+[Sat Dec 27 18:58:39 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "precision"
+[Sat Dec 27 18:58:40 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "precision"
+[Sat Dec 27 18:58:40 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "precision"
+[Sat Dec 27 18:58:40 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "precision"
+[Sat Dec 27 18:58:40 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "precision"
+[Sat Dec 27 18:58:40 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "precision"
+[Sat Dec 27 18:58:41 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "precision"
+[Sat Dec 27 18:58:41 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "precision"
+[Sat Dec 27 19:13:48 2025] Player "费尔南德斯" <STEAM_0:0:79873507> is attempting to connect.
+[Sat Dec 27 19:14:09 2025] Player "费尔南德斯" <STEAM_0:0:79873507> has spawned in the server
+[Sat Dec 27 19:14:23 2025] <STEAM_0:0:79873507> 费尔南德斯 ran command "menu"
+[Sat Dec 27 19:14:55 2025] Player "费尔南德斯" <STEAM_0:0:79873507> has left the server
+[Sat Dec 27 19:16:46 2025] Player "费尔南德斯" <STEAM_0:0:79873507> is attempting to connect.
+[Sat Dec 27 19:17:06 2025] Player "费尔南德斯" <STEAM_0:0:79873507> has spawned in the server
+[Sat Dec 27 19:17:24 2025] <STEAM_0:0:79873507> 费尔南德斯 ran command "menu"
+[Sat Dec 27 19:17:39 2025] <STEAM_0:0:79873507> 费尔南德斯 ran command "plugintoggle restrictions"
+[Sat Dec 27 19:17:40 2025] <STEAM_0:0:79873507> 费尔南德斯 ran command "plugintoggle restrictions"
+[Sat Dec 27 19:18:16 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 19:18:17 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 19:18:17 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 19:18:17 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 19:18:18 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 19:18:18 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 19:18:18 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 19:18:19 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 19:18:19 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 19:18:19 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 19:18:19 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 19:18:19 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 19:18:19 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 19:18:20 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 19:18:20 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 19:18:20 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 19:18:20 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 19:18:28 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "NPC [267][vehicles_sales]"
+[Sat Dec 27 19:18:29 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 19:18:29 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 19:18:29 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 19:19:27 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 19:19:28 2025] Player "费尔南德斯" <STEAM_0:0:79873507> has left the server
+[Sat Dec 27 19:34:00 2025] Player "боб коксакер" <STEAM_0:1:570174214> is attempting to connect.
+[Sat Dec 27 19:35:26 2025] Player "боб коксакер" <STEAM_0:1:570174214> has spawned in the server
+[Sat Dec 27 19:38:58 2025] Player "боб коксакер" <STEAM_0:1:570174214> has left the server
+[Sat Dec 27 19:41:18 2025] Player "SlippY" <STEAM_0:1:857927478> is attempting to connect.
+[Sat Dec 27 22:27:01 2025] Player "费尔南德斯" <STEAM_0:0:79873507> is attempting to connect.
+[Sat Dec 27 22:27:23 2025] Player "费尔南德斯" <STEAM_0:0:79873507> has spawned in the server
+[Sat Dec 27 22:29:47 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [267][bodygroup]"
+[Sat Dec 27 22:29:50 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 22:29:51 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 22:29:51 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 22:29:51 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 22:29:51 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 22:29:51 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 22:29:52 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 22:29:52 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 22:29:52 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 22:29:52 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 22:29:52 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 22:29:53 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 22:29:53 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 22:29:53 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 22:29:53 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 22:29:53 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 22:29:54 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 22:29:54 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 22:29:54 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 22:29:54 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 22:29:54 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 22:29:55 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 22:30:05 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [267][sw_bmp1]"
+[Sat Dec 27 22:30:07 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "sw_loadout_editor_v3"
+[Sat Dec 27 22:30:07 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "sw_loadout_editor_v3"
+[Sat Dec 27 22:30:07 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "sw_loadout_editor_v3"
+[Sat Dec 27 22:30:08 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "sw_loadout_editor_v3"
+[Sat Dec 27 22:30:08 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "sw_loadout_editor_v3"
+[Sat Dec 27 22:30:13 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [267][sw_matv]"
+[Sat Dec 27 22:30:15 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "sw_loadout_editor_v3"
+[Sat Dec 27 22:30:16 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "sw_loadout_editor_v3"
+[Sat Dec 27 22:30:16 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "sw_loadout_editor_v3"
+[Sat Dec 27 22:30:16 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "sw_loadout_editor_v3"
+[Sat Dec 27 22:30:17 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "sw_loadout_editor_v3"
+[Sat Dec 27 22:30:17 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "sw_loadout_editor_v3"
+[Sat Dec 27 22:30:19 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "sw_loadout_editor_v3"
+[Sat Dec 27 22:30:19 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "sw_loadout_editor_v3"
+[Sat Dec 27 22:30:20 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "sw_loadout_editor_v3"
+[Sat Dec 27 22:30:20 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "sw_loadout_editor_v3"
+[Sat Dec 27 22:30:23 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [267][sw_gaz2330]"
+[Sat Dec 27 22:30:24 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "sw_loadout_editor_v3"
+[Sat Dec 27 22:30:34 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 22:30:34 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 22:30:34 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 22:30:35 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 22:30:50 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [371][armor_take]"
+[Sat Dec 27 22:30:55 2025] worldspawn has killed 费尔南德斯.
+[Sat Dec 27 22:31:47 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [372][armor_take]"
+[Sat Dec 27 22:33:49 2025] Player "费尔南德斯" <STEAM_0:0:79873507> is attempting to connect.
+[Sat Dec 27 22:34:07 2025] Player "费尔南德斯" <STEAM_0:0:79873507> has spawned in the server
+[Sat Dec 27 22:34:21 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [267][armor_take]"
+[Sat Dec 27 22:35:02 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 22:35:03 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 22:35:04 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 22:35:31 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "NPC [371][vehicles_sales]"
+[Sat Dec 27 22:35:44 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 22:35:45 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 22:35:45 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 22:35:45 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 22:35:45 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 22:35:46 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 22:35:46 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 22:35:46 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 22:35:46 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 22:35:47 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 22:35:47 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 22:35:47 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 22:35:47 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 22:35:47 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 22:35:48 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 22:35:48 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 22:35:48 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 22:35:48 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 22:35:48 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 22:35:49 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 22:35:49 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 22:35:49 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 22:35:49 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 22:35:49 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 22:35:49 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 22:35:50 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 22:35:50 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 22:35:50 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 22:35:51 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 22:35:51 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 22:35:51 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 22:35:51 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 22:35:51 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 22:35:52 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 22:35:52 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 22:35:52 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 22:35:56 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 22:35:56 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 22:35:57 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 22:35:57 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 22:35:57 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 22:35:57 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 22:35:57 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 22:35:58 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 22:35:58 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 22:36:36 2025] Player "费尔南德斯" <STEAM_0:0:79873507> has left the server
+[Sat Dec 27 22:38:11 2025] Player "费尔南德斯" <STEAM_0:0:79873507> is attempting to connect.
+[Sat Dec 27 22:38:28 2025] Player "费尔南德斯" <STEAM_0:0:79873507> has spawned in the server
+[Sat Dec 27 22:40:42 2025] Player "费尔南德斯" <STEAM_0:0:79873507> is attempting to connect.
+[Sat Dec 27 22:41:00 2025] Player "费尔南德斯" <STEAM_0:0:79873507> has spawned in the server
+[Sat Dec 27 22:45:18 2025] <STEAM_0:0:79873507> 费尔南德斯 ran command "menu"
+[Sat Dec 27 22:46:06 2025] Player "费尔南德斯" <STEAM_0:0:79873507> has left the server
+[Sat Dec 27 22:46:29 2025] Player "费尔南德斯" <STEAM_0:0:79873507> is attempting to connect.
+[Sat Dec 27 22:46:48 2025] Player "费尔南德斯" <STEAM_0:0:79873507> has spawned in the server
+[Sat Dec 27 22:47:25 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [371][wesupplycrate]"
+[Sat Dec 27 22:47:28 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 22:47:28 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 22:47:29 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 22:47:37 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "NPC [371][vehicles_sales]"
+[Sat Dec 27 22:47:48 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 22:47:57 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "NPC [371][vehicles_sales]"
+[Sat Dec 27 22:48:15 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 22:48:17 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 22:48:18 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 22:48:19 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 22:48:33 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 22:48:34 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 22:48:59 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 22:49:01 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 22:49:01 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 22:49:02 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 22:49:03 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 22:49:03 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 22:49:03 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 22:50:08 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [373][armor_take]"
+[Sat Dec 27 22:50:15 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 22:50:15 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 22:50:55 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 22:50:57 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 22:51:01 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [373][wesupplycrate]"
+[Sat Dec 27 22:58:06 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [374][ifak_ammo]"
+[Sat Dec 27 23:15:47 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [482][wesupplycrate]"
+[Sat Dec 27 23:15:51 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [483][wesupplycrate]"
+[Sat Dec 27 23:15:58 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:15:59 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:16:11 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:21:28 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned prop "Entity [483][prop_physics] (models/ninja/esp/fortification/hescobarrierpyramidbig.mdl)"
+[Sat Dec 27 23:21:51 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "stacker_improved"
+[Sat Dec 27 23:21:51 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned prop "Entity [482][prop_physics] (models/ninja/esp/fortification/hescobarrierpyramidbig.mdl)"
+[Sat Dec 27 23:21:52 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "stacker_improved"
+[Sat Dec 27 23:21:52 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned prop "Entity [485][prop_physics] (models/ninja/esp/fortification/hescobarrierpyramidbig.mdl)"
+[Sat Dec 27 23:21:53 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "stacker_improved"
+[Sat Dec 27 23:21:53 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned prop "Entity [486][prop_physics] (models/ninja/esp/fortification/hescobarrierpyramidbig.mdl)"
+[Sat Dec 27 23:22:00 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned prop "Entity [488][prop_physics] (models/ninja/esp/fortification/hescobarrierpyramid.mdl)"
+[Sat Dec 27 23:22:18 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned prop "Entity [482][prop_physics] (models/ninja/esp/fortification/hescobarrierpyramid.mdl)"
+[Sat Dec 27 23:22:22 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned prop "Entity [482][prop_physics] (models/ninja/esp/fortification/hescobarrierquad.mdl)"
+[Sat Dec 27 23:22:27 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned prop "Entity [482][prop_physics] (models/ninja/esp/fortification/hescobarrierquad.mdl)"
+[Sat Dec 27 23:22:51 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "stacker_improved"
+[Sat Dec 27 23:22:51 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned prop "Entity [483][prop_physics] (models/ninja/esp/fortification/hescobarrierquad.mdl)"
+[Sat Dec 27 23:22:51 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned prop "Entity [485][prop_physics] (models/ninja/esp/fortification/hescobarrierquad.mdl)"
+[Sat Dec 27 23:22:51 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned prop "Entity [486][prop_physics] (models/ninja/esp/fortification/hescobarrierquad.mdl)"
+[Sat Dec 27 23:22:51 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned prop "Entity [487][prop_physics] (models/ninja/esp/fortification/hescobarrierquad.mdl)"
+[Sat Dec 27 23:22:51 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned prop "Entity [488][prop_physics] (models/ninja/esp/fortification/hescobarrierquad.mdl)"
+[Sat Dec 27 23:24:19 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned prop "Entity [490][prop_physics] (models/ninja/esp/fortification/hescobarrierquad.mdl)"
+[Sat Dec 27 23:24:41 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "stacker_improved"
+[Sat Dec 27 23:24:44 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "stacker_improved"
+[Sat Dec 27 23:24:44 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned prop "Entity [489][prop_physics] (models/ninja/esp/fortification/hescobarrierquad.mdl)"
+[Sat Dec 27 23:24:44 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned prop "Entity [491][prop_physics] (models/ninja/esp/fortification/hescobarrierquad.mdl)"
+[Sat Dec 27 23:24:44 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned prop "Entity [492][prop_physics] (models/ninja/esp/fortification/hescobarrierquad.mdl)"
+[Sat Dec 27 23:25:03 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "stacker_improved"
+[Sat Dec 27 23:25:03 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned prop "Entity [489][prop_physics] (models/ninja/esp/fortification/hescobarrierquad.mdl)"
+[Sat Dec 27 23:25:03 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned prop "Entity [491][prop_physics] (models/ninja/esp/fortification/hescobarrierquad.mdl)"
+[Sat Dec 27 23:25:03 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned prop "Entity [492][prop_physics] (models/ninja/esp/fortification/hescobarrierquad.mdl)"
+[Sat Dec 27 23:25:03 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned prop "Entity [493][prop_physics] (models/ninja/esp/fortification/hescobarrierquad.mdl)"
+[Sat Dec 27 23:25:03 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned prop "Entity [494][prop_physics] (models/ninja/esp/fortification/hescobarrierquad.mdl)"
+[Sat Dec 27 23:25:03 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned prop "Entity [495][prop_physics] (models/ninja/esp/fortification/hescobarrierquad.mdl)"
+[Sat Dec 27 23:25:08 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "stacker_improved"
+[Sat Dec 27 23:25:08 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned prop "Entity [489][prop_physics] (models/ninja/esp/fortification/hescobarrierquad.mdl)"
+[Sat Dec 27 23:25:08 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned prop "Entity [491][prop_physics] (models/ninja/esp/fortification/hescobarrierquad.mdl)"
+[Sat Dec 27 23:25:08 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned prop "Entity [492][prop_physics] (models/ninja/esp/fortification/hescobarrierquad.mdl)"
+[Sat Dec 27 23:25:08 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned prop "Entity [493][prop_physics] (models/ninja/esp/fortification/hescobarrierquad.mdl)"
+[Sat Dec 27 23:25:12 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "stacker_improved"
+[Sat Dec 27 23:25:12 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned prop "Entity [489][prop_physics] (models/ninja/esp/fortification/hescobarrierquad.mdl)"
+[Sat Dec 27 23:25:12 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned prop "Entity [491][prop_physics] (models/ninja/esp/fortification/hescobarrierquad.mdl)"
+[Sat Dec 27 23:25:12 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned prop "Entity [492][prop_physics] (models/ninja/esp/fortification/hescobarrierquad.mdl)"
+[Sat Dec 27 23:25:12 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned prop "Entity [493][prop_physics] (models/ninja/esp/fortification/hescobarrierquad.mdl)"
+[Sat Dec 27 23:25:12 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned prop "Entity [494][prop_physics] (models/ninja/esp/fortification/hescobarrierquad.mdl)"
+[Sat Dec 27 23:25:27 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned prop "Entity [496][prop_physics] (models/ninja/esp/fortification/hescobarrierpyramidbig.mdl)"
+[Sat Dec 27 23:25:53 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "stacker_improved"
+[Sat Dec 27 23:25:53 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned prop "Entity [495][prop_physics] (models/ninja/esp/fortification/hescobarrierpyramidbig.mdl)"
+[Sat Dec 27 23:25:53 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned prop "Entity [497][prop_physics] (models/ninja/esp/fortification/hescobarrierpyramidbig.mdl)"
+[Sat Dec 27 23:25:53 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned prop "Entity [498][prop_physics] (models/ninja/esp/fortification/hescobarrierpyramidbig.mdl)"
+[Sat Dec 27 23:25:53 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned prop "Entity [499][prop_physics] (models/ninja/esp/fortification/hescobarrierpyramidbig.mdl)"
+[Sat Dec 27 23:25:53 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned prop "Entity [500][prop_physics] (models/ninja/esp/fortification/hescobarrierpyramidbig.mdl)"
+[Sat Dec 27 23:26:47 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "advdupe2"
+[Sat Dec 27 23:26:52 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "advdupe2"
+[Sat Dec 27 23:26:54 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "advdupe2"
+[Sat Dec 27 23:27:06 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "advdupe2"
+[Sat Dec 27 23:27:06 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned prop "Entity [501][prop_physics] (models/ninja/esp/fortification/hescobarrierquad.mdl)"
+[Sat Dec 27 23:27:06 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned prop "Entity [502][prop_physics] (models/ninja/esp/fortification/hescobarrierquad.mdl)"
+[Sat Dec 27 23:27:06 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned prop "Entity [503][prop_physics] (models/ninja/esp/fortification/hescobarrierquad.mdl)"
+[Sat Dec 27 23:27:06 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned prop "Entity [504][prop_physics] (models/ninja/esp/fortification/hescobarrierquad.mdl)"
+[Sat Dec 27 23:27:06 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned prop "Entity [505][prop_physics] (models/ninja/esp/fortification/hescobarrierquad.mdl)"
+[Sat Dec 27 23:27:06 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned prop "Entity [506][prop_physics] (models/ninja/esp/fortification/hescobarrierquad.mdl)"
+[Sat Dec 27 23:27:06 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned prop "Entity [507][prop_physics] (models/ninja/esp/fortification/hescobarrierquad.mdl)"
+[Sat Dec 27 23:27:06 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned prop "Entity [508][prop_physics] (models/ninja/esp/fortification/hescobarrierquad.mdl)"
+[Sat Dec 27 23:27:06 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned prop "Entity [509][prop_physics] (models/ninja/esp/fortification/hescobarrierquad.mdl)"
+[Sat Dec 27 23:27:06 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned prop "Entity [510][prop_physics] (models/ninja/esp/fortification/hescobarrierquad.mdl)"
+[Sat Dec 27 23:27:06 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned prop "Entity [511][prop_physics] (models/ninja/esp/fortification/hescobarrierquad.mdl)"
+[Sat Dec 27 23:27:14 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "precision"
+[Sat Dec 27 23:27:15 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "precision"
+[Sat Dec 27 23:27:18 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "precision"
+[Sat Dec 27 23:27:21 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "precision"
+[Sat Dec 27 23:27:21 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "precision"
+[Sat Dec 27 23:27:23 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "precision"
+[Sat Dec 27 23:27:24 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "precision"
+[Sat Dec 27 23:27:24 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "precision"
+[Sat Dec 27 23:27:25 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "precision"
+[Sat Dec 27 23:27:38 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "advdupe2"
+[Sat Dec 27 23:27:38 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned prop "Entity [501][prop_physics] (models/ninja/esp/fortification/hescobarrierquad.mdl)"
+[Sat Dec 27 23:27:39 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned prop "Entity [502][prop_physics] (models/ninja/esp/fortification/hescobarrierquad.mdl)"
+[Sat Dec 27 23:27:39 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned prop "Entity [503][prop_physics] (models/ninja/esp/fortification/hescobarrierquad.mdl)"
+[Sat Dec 27 23:27:39 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned prop "Entity [504][prop_physics] (models/ninja/esp/fortification/hescobarrierquad.mdl)"
+[Sat Dec 27 23:27:39 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned prop "Entity [505][prop_physics] (models/ninja/esp/fortification/hescobarrierquad.mdl)"
+[Sat Dec 27 23:27:39 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned prop "Entity [506][prop_physics] (models/ninja/esp/fortification/hescobarrierquad.mdl)"
+[Sat Dec 27 23:27:39 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned prop "Entity [507][prop_physics] (models/ninja/esp/fortification/hescobarrierquad.mdl)"
+[Sat Dec 27 23:27:39 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned prop "Entity [508][prop_physics] (models/ninja/esp/fortification/hescobarrierquad.mdl)"
+[Sat Dec 27 23:27:39 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned prop "Entity [509][prop_physics] (models/ninja/esp/fortification/hescobarrierquad.mdl)"
+[Sat Dec 27 23:27:39 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned prop "Entity [510][prop_physics] (models/ninja/esp/fortification/hescobarrierquad.mdl)"
+[Sat Dec 27 23:27:39 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned prop "Entity [511][prop_physics] (models/ninja/esp/fortification/hescobarrierquad.mdl)"
+[Sat Dec 27 23:27:40 2025] Player "Pizza" <STEAM_0:0:927037697> is attempting to connect.
+[Sat Dec 27 23:28:02 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "advdupe2"
+[Sat Dec 27 23:28:06 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "advdupe2"
+[Sat Dec 27 23:28:15 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "advdupe2"
+[Sat Dec 27 23:28:15 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned prop "Entity [512][prop_physics] (models/ninja/esp/fortification/hescobarrierpyramidbig.mdl)"
+[Sat Dec 27 23:28:15 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned prop "Entity [513][prop_physics] (models/ninja/esp/fortification/hescobarrierpyramidbig.mdl)"
+[Sat Dec 27 23:28:15 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned prop "Entity [514][prop_physics] (models/ninja/esp/fortification/hescobarrierpyramidbig.mdl)"
+[Sat Dec 27 23:28:15 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned prop "Entity [515][prop_physics] (models/ninja/esp/fortification/hescobarrierpyramidbig.mdl)"
+[Sat Dec 27 23:28:27 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "advdupe2"
+[Sat Dec 27 23:28:27 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned prop "Entity [516][prop_physics] (models/ninja/esp/fortification/hescobarrierpyramidbig.mdl)"
+[Sat Dec 27 23:28:27 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned prop "Entity [517][prop_physics] (models/ninja/esp/fortification/hescobarrierpyramidbig.mdl)"
+[Sat Dec 27 23:28:27 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned prop "Entity [518][prop_physics] (models/ninja/esp/fortification/hescobarrierpyramidbig.mdl)"
+[Sat Dec 27 23:28:27 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned prop "Entity [519][prop_physics] (models/ninja/esp/fortification/hescobarrierpyramidbig.mdl)"
+[Sat Dec 27 23:28:42 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:28:42 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:28:43 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:28:45 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:28:46 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:28:46 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:28:46 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:28:46 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:28:46 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:28:47 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:28:47 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:28:47 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:28:47 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:28:47 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:28:47 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:28:47 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:28:48 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:28:49 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:28:49 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:28:49 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:28:49 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:28:49 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:28:49 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:28:50 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:28:50 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:28:50 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:28:50 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:28:50 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:28:50 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:28:51 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:28:51 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:28:51 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:28:51 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:28:51 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:28:51 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:28:52 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:28:52 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:28:52 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:28:53 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:28:53 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:28:53 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:28:53 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:28:54 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:28:54 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:28:54 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:28:54 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:28:54 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:28:55 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:28:56 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:28:56 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:28:56 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:28:56 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:28:56 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:28:57 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:28:57 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:28:57 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:28:57 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:28:57 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:28:57 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:28:58 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:28:58 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:28:58 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:28:58 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:28:58 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:28:58 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:28:59 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:28:59 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:28:59 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:28:59 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:28:59 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:28:59 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:29:00 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:29:00 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:29:01 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:29:01 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:29:02 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:29:02 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:29:02 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:29:02 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:29:02 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:29:02 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:29:03 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:29:03 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:29:03 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:29:03 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:29:03 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:29:03 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:29:04 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:29:04 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:29:04 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:29:04 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:29:04 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:29:04 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:29:05 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:29:06 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:29:06 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:29:06 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:29:06 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:29:06 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:29:06 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:29:07 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:29:07 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:29:08 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:29:08 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:29:08 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:29:08 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:29:08 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:29:09 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:29:09 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:29:09 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:29:09 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:29:09 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:29:10 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:29:10 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:29:10 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:29:10 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:29:10 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:29:10 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:29:11 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:29:11 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:29:11 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:29:11 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:29:11 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:29:12 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:29:12 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:29:12 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:29:13 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:29:13 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:29:13 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:29:13 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:29:13 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:29:14 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:29:14 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:29:14 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:29:14 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:29:14 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:29:14 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:29:15 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:29:15 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:29:15 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:29:15 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:30:25 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "NPC [379][vehicles_sales]"
+[Sat Dec 27 23:30:36 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:30:44 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [513][armor_take]"
+[Sat Dec 27 23:30:52 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:30:56 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:30:56 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:30:57 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:31:05 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [515][wesupplycrate]"
+[Sat Dec 27 23:31:09 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [519][wesupplycrate]"
+[Sat Dec 27 23:31:17 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:31:18 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:31:23 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:31:24 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:31:28 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:31:34 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [519][bodygroup]"
+[Sat Dec 27 23:31:40 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:31:43 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [519][bodygroup]"
+[Sat Dec 27 23:31:47 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:31:52 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [519][bodygroup]"
+[Sat Dec 27 23:31:55 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:32:12 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [519][bodygroup]"
+[Sat Dec 27 23:32:27 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [519][bodygroup]"
+[Sat Dec 27 23:32:36 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:32:40 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:32:40 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:33:29 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:33:29 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:33:30 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:33:30 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:33:33 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [524][bodygroup]"
+[Sat Dec 27 23:33:38 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:33:45 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [524][bodygroup]"
+[Sat Dec 27 23:33:50 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:33:52 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [526][bodygroup]"
+[Sat Dec 27 23:33:56 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:34:02 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [526][bodygroup]"
+[Sat Dec 27 23:34:05 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:34:12 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [526][bodygroup]"
+[Sat Dec 27 23:34:18 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "permaprops"
+[Sat Dec 27 23:52:24 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [524][armor_take]"
+[Sat Dec 27 23:52:57 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [524][armor_take]"
+[Sat Dec 27 23:59:45 2025] <STEAM_0:0:79873507> 费尔南德斯 ran command "menu"

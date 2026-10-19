@@ -1,0 +1,1969 @@
+[Sat Apr  4 08:12:32 2026] Player "marina310824" <STEAM_0:1:902575649> is attempting to connect.
+[Sat Apr  4 08:13:01 2026] Player "marina310824" <STEAM_0:1:902575649> has spawned in the server
+[Sat Apr  4 08:13:20 2026] Player "marina310824" <STEAM_0:1:902575649> has left the server
+[Sat Apr  4 09:38:36 2026] Player "SUN9" <STEAM_0:0:950504593> is attempting to connect.
+[Sat Apr  4 10:26:10 2026] Player "marina310824" <STEAM_0:1:902575649> is attempting to connect.
+[Sat Apr  4 10:27:05 2026] Player "marina310824" <STEAM_0:1:902575649> has spawned in the server
+[Sat Apr  4 10:27:24 2026] Player "marina310824" <STEAM_0:1:902575649> has left the server
+[Sat Apr  4 11:10:29 2026] Player "marina310824" <STEAM_0:1:902575649> is attempting to connect.
+[Sat Apr  4 11:11:25 2026] Player "marina310824" <STEAM_0:1:902575649> has spawned in the server
+[Sat Apr  4 11:11:41 2026] Player "marina310824" <STEAM_0:1:902575649> has left the server
+[Sat Apr  4 12:38:56 2026] Player "ghoprhd" <STEAM_0:0:453883455> is attempting to connect.
+[Sat Apr  4 12:42:22 2026] Player "ghoprhd" <STEAM_0:0:453883455> has spawned in the server
+[Sat Apr  4 12:48:20 2026] Player "ghoprhd" <STEAM_0:0:453883455> has left the server
+[Sat Apr  4 16:23:30 2026] Player "Kotik" <STEAM_0:1:558349975> is attempting to connect.
+[Sat Apr  4 16:24:08 2026] Player "Kotik" <STEAM_0:1:558349975> has spawned in the server
+[Sat Apr  4 16:40:32 2026] Player "Kotik" <STEAM_0:1:558349975> has left the server
+[Sat Apr  4 16:42:06 2026] Player "ghoprhd" <STEAM_0:0:453883455> is attempting to connect.
+[Sat Apr  4 16:44:58 2026] Player "ghoprhd" <STEAM_0:0:453883455> has spawned in the server
+[Sat Apr  4 16:46:34 2026] Player "ghoprhd" <STEAM_0:0:453883455> has left the server
+[Sat Apr  4 17:29:21 2026] Player "Po_rA1" <STEAM_0:0:887714123> is attempting to connect.
+[Sat Apr  4 17:30:36 2026] Player "Po_rA1" <STEAM_0:0:887714123> has spawned in the server
+[Sat Apr  4 17:41:10 2026] <STEAM_0:0:887714123> Po_rA1: /me Показал доккументы Колесников Должность: 3-я Мотострелковая Брига�
+[Sat Apr  4 17:41:14 2026] <STEAM_0:0:887714123> Po_rA1: /me Показал доккументы Колесников Должность: 3-я Мотострелковая Брига�
+[Sat Apr  4 17:41:45 2026] <STEAM_0:0:887714123> Po_rA1: /rp Вырезал на лбу натовца "Мы русские, с нами бог"
+[Sat Apr  4 17:44:21 2026] Player "Po_rA1" <STEAM_0:0:887714123> has left the server
+[Sat Apr  4 17:47:50 2026] Player "Discar" <STEAM_0:0:650470378> is attempting to connect.
+[Sat Apr  4 17:47:53 2026] Player "Мраз" <STEAM_0:0:642089283> is attempting to connect.
+[Sat Apr  4 17:48:59 2026] Player "Lexa_playsek" <STEAM_0:1:849865672> is attempting to connect.
+[Sat Apr  4 17:49:07 2026] Player "Po_rA1" <STEAM_0:0:887714123> is attempting to connect.
+[Sat Apr  4 17:49:38 2026] Player "Centaurus" <STEAM_0:1:176906490> is attempting to connect.
+[Sat Apr  4 17:49:45 2026] Player "Po_rA1" <STEAM_0:0:887714123> has spawned in the server
+[Sat Apr  4 17:50:15 2026] Player "Мраз" <STEAM_0:0:642089283> has spawned in the server
+[Sat Apr  4 17:50:55 2026] Player "Discar" <STEAM_0:0:650470378> has spawned in the server
+[Sat Apr  4 17:52:24 2026] Player "Lexa_playsek" <STEAM_0:1:849865672> has spawned in the server
+[Sat Apr  4 18:04:21 2026] Player "Po_rA1" <STEAM_0:0:887714123> has left the server
+[Sat Apr  4 18:04:21 2026] Player "Po_rA1" <STEAM_0:0:887714123> is attempting to connect.
+[Sat Apr  4 18:05:07 2026] Player "Po_rA1" <STEAM_0:0:887714123> has spawned in the server
+[Sat Apr  4 18:05:37 2026] Player "Po_rA1" <STEAM_0:0:887714123> has left the server
+[Sat Apr  4 18:08:36 2026] Player "Kotik" <STEAM_0:1:558349975> is attempting to connect.
+[Sat Apr  4 18:08:37 2026] Player "Lexa_playsek" <STEAM_0:1:849865672> has left the server
+[Sat Apr  4 18:08:47 2026] Player "Discar" <STEAM_0:0:650470378> has left the server
+[Sat Apr  4 18:09:19 2026] Player "Kotik" <STEAM_0:1:558349975> has spawned in the server
+[Sat Apr  4 18:09:50 2026] <STEAM_0:1:558349975> Kotik: /ooc нас двое?
+[Sat Apr  4 18:11:14 2026] <STEAM_0:0:642089283> Мраз: /ooc Да
+[Sat Apr  4 18:11:25 2026] Player "Dandelion" <STEAM_0:0:148551732> is attempting to connect.
+[Sat Apr  4 18:13:52 2026] Player "Dandelion" <STEAM_0:0:148551732> has spawned in the server
+[Sat Apr  4 18:15:08 2026] <STEAM_0:1:558349975> Kotik: /ooc подтяни своих
+[Sat Apr  4 18:15:19 2026] <STEAM_0:0:642089283> Мраз: /ooc Да думаешь меня слушать будут
+[Sat Apr  4 18:18:55 2026] <STEAM_0:0:642089283> Мраз: /c мда цж
+[Sat Apr  4 18:20:54 2026] <STEAM_0:0:148551732> Dandelion: /ooc Имба онлайн, а я пришел на перестрелку с реальными мужиками
+[Sat Apr  4 18:24:41 2026] Player "Po_rA1" <STEAM_0:0:887714123> is attempting to connect.
+[Sat Apr  4 18:25:42 2026] Player "Po_rA1" <STEAM_0:0:887714123> has spawned in the server
+[Sat Apr  4 18:26:57 2026] <STEAM_0:0:887714123> Po_rA1: /rf Воюете?
+[Sat Apr  4 18:34:32 2026] Player "gREG4IK" <STEAM_0:1:455594560> is attempting to connect.
+[Sat Apr  4 18:34:49 2026] Player "Pobowhite" <STEAM_0:0:792217028> is attempting to connect.
+[Sat Apr  4 18:35:24 2026] Player "༒︎シ︎ʰᵉⁿᵗᵃⁱシ" <STEAM_0:0:851601344> is attempting to connect.
+[Sat Apr  4 18:35:59 2026] Player "gREG4IK" <STEAM_0:1:455594560> has spawned in the server
+[Sat Apr  4 18:36:55 2026] Player "༒︎シ︎ʰᵉⁿᵗᵃⁱシ" <STEAM_0:0:851601344> has spawned in the server
+[Sat Apr  4 18:39:09 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Sat Apr  4 18:39:09 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [705][sw_bomb_fab9000m54_v3]"
+[Sat Apr  4 18:39:09 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Sat Apr  4 18:39:09 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [706][sw_bomb_fab9000m54_v3]"
+[Sat Apr  4 18:39:09 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Sat Apr  4 18:39:09 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [707][sw_bomb_fab9000m54_v3]"
+[Sat Apr  4 18:39:10 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Sat Apr  4 18:39:10 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [708][sw_bomb_fab9000m54_v3]"
+[Sat Apr  4 18:39:10 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Sat Apr  4 18:39:10 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [709][sw_bomb_fab9000m54_v3]"
+[Sat Apr  4 18:39:26 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Sat Apr  4 18:39:26 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [705][sw_rocket_kh22_v3]"
+[Sat Apr  4 18:39:26 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Sat Apr  4 18:39:26 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [706][sw_rocket_kh22_v3]"
+[Sat Apr  4 18:39:27 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Sat Apr  4 18:39:27 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [707][sw_rocket_kh22_v3]"
+[Sat Apr  4 18:39:40 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Sat Apr  4 18:39:40 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [705][sw_bomb_fab3000m54_umpk_v3]"
+[Sat Apr  4 18:39:41 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Sat Apr  4 18:39:41 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [706][sw_bomb_fab3000m54_umpk_v3]"
+[Sat Apr  4 18:39:41 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Sat Apr  4 18:39:41 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [707][sw_bomb_fab3000m54_umpk_v3]"
+[Sat Apr  4 18:39:42 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Sat Apr  4 18:39:42 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [708][sw_bomb_fab3000m54_umpk_v3]"
+[Sat Apr  4 18:39:42 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Sat Apr  4 18:39:42 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [709][sw_bomb_fab3000m54_umpk_v3]"
+[Sat Apr  4 18:39:42 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Sat Apr  4 18:39:42 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [710][sw_bomb_fab3000m54_umpk_v3]"
+[Sat Apr  4 18:39:51 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "ammo Ангел"
+[Sat Apr  4 18:40:04 2026] <STEAM_0:1:455594560> gREG4IK: tfa_ins2_wpn_at4
+[Sat Apr  4 18:40:24 2026] Kotik has killed Po_rA1.
+[Sat Apr  4 18:40:25 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Kotik.
+[Sat Apr  4 18:40:47 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /me перерезал горло
+[Sat Apr  4 18:41:20 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [668][sw_mine_tm62_v3]"
+[Sat Apr  4 18:41:21 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [669][sw_mine_tm62_v3]"
+[Sat Apr  4 18:41:33 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [664][sw_mine_tm62_v3]"
+[Sat Apr  4 18:41:34 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [673][sw_mine_tm62_v3]"
+[Sat Apr  4 18:41:38 2026] Dandelion has killed Po_rA1.
+[Sat Apr  4 18:42:26 2026] Dandelion has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Sat Apr  4 18:42:32 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "respawn Ангел"
+[Sat Apr  4 18:42:58 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "ammo Ангел"
+[Sat Apr  4 18:43:07 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "armor Ангел 150"
+[Sat Apr  4 18:43:26 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Sat Apr  4 18:43:27 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Sat Apr  4 18:43:28 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Sat Apr  4 18:43:28 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SWEP "Weapon [663][tfa_f1]"
+[Sat Apr  4 18:43:30 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Sat Apr  4 18:43:30 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SWEP "Weapon [667][tfa_m67]"
+[Sat Apr  4 18:43:31 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Sat Apr  4 18:43:31 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SWEP "Weapon [709][tfa_rgd5]"
+[Sat Apr  4 18:43:38 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "ammo Колесников"
+[Sat Apr  4 18:43:45 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [712][tfa_ins2_wpn_at4]"
+[Sat Apr  4 18:43:47 2026] <STEAM_0:0:642089283> Мраз: /c Да ладно, народ появился
+[Sat Apr  4 18:43:52 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [712][tfa_ins2_wpn_at4]"
+[Sat Apr  4 18:43:52 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [756][tfa_ins2_wpn_at4]"
+[Sat Apr  4 18:43:53 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [757][tfa_ins2_wpn_at4]"
+[Sat Apr  4 18:43:53 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [759][tfa_ins2_wpn_at4]"
+[Sat Apr  4 18:43:53 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [760][tfa_ins2_wpn_at4]"
+[Sat Apr  4 18:44:41 2026] <STEAM_0:1:558349975> Kotik: /me выбил оружие из рук и скрутил человека напротив
+[Sat Apr  4 18:44:47 2026] <STEAM_0:1:558349975> Kotik: /ooc ангел тп
+[Sat Apr  4 18:44:50 2026] <STEAM_0:1:558349975> Kotik: /ooc ангел тп
+[Sat Apr  4 18:45:03 2026] <STEAM_0:1:558349975> Kotik: /ooc ангел тп
+[Sat Apr  4 18:45:05 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [711][sw_mine_pfm1_v3]"
+[Sat Apr  4 18:45:11 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [712][lvs_missile]"
+[Sat Apr  4 18:45:16 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [756][lvs_missile]"
+[Sat Apr  4 18:45:22 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "goto 'Struna'"
+[Sat Apr  4 18:45:30 2026] Player "ghoprhd" <STEAM_0:0:453883455> is attempting to connect.
+[Sat Apr  4 18:45:34 2026] Player "v1nom" <STEAM_0:0:860853075> is attempting to connect.
+[Sat Apr  4 18:45:54 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [705][lvs_wheeldrive_hummer_tow]"
+[Sat Apr  4 18:46:03 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [705][lvs_wheeldrive_hummer_m2]"
+[Sat Apr  4 18:46:08 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "ragdoll Колесников"
+[Sat Apr  4 18:46:12 2026] Player "v1nom" <STEAM_0:0:860853075> is attempting to connect.
+[Sat Apr  4 18:46:16 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "goto Колесников"
+[Sat Apr  4 18:46:23 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "ragdoll Колесников"
+[Sat Apr  4 18:46:32 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "ammo Колесников"
+[Sat Apr  4 18:46:45 2026] <STEAM_0:1:558349975> Kotik: /ooc АНГЕЛ
+[Sat Apr  4 18:46:50 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [688][lvs_wheeldrive_hummer_m2]"
+[Sat Apr  4 18:46:57 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [776][sw_bmp1]"
+[Sat Apr  4 18:47:30 2026] Player "ghoprhd" <STEAM_0:0:453883455> has spawned in the server
+[Sat Apr  4 18:48:01 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [776][sw_mine_pfm1_v3]"
+[Sat Apr  4 18:48:33 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned prop "Entity [785][prop_physics] (models/props_c17/oildrum001.mdl)"
+[Sat Apr  4 18:48:45 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "armor Колесников 200"
+[Sat Apr  4 18:49:09 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Sat Apr  4 18:49:09 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [786][sw_bomb_fab9000m54_v3]"
+[Sat Apr  4 18:49:10 2026] Player "ghoprhd" <STEAM_0:0:453883455> has left the server
+[Sat Apr  4 18:49:25 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Sat Apr  4 18:49:25 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [777][sw_bomb_fab9000m54_v3]"
+[Sat Apr  4 18:49:26 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Sat Apr  4 18:49:26 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [779][sw_bomb_fab9000m54_v3]"
+[Sat Apr  4 18:49:28 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Sat Apr  4 18:49:28 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [777][sw_bomb_fab9000m54_v3]"
+[Sat Apr  4 18:49:51 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Po_rA1.
+[Sat Apr  4 18:50:05 2026] worldspawn has killed Мраз.
+[Sat Apr  4 18:50:17 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "ammo Колесников"
+[Sat Apr  4 18:50:22 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "armor Колесников 200"
+[Sat Apr  4 18:50:38 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [658][sw_bmp1]"
+[Sat Apr  4 18:50:42 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [845][tfa_ins2_wpn_at4]"
+[Sat Apr  4 18:50:54 2026] <STEAM_0:1:558349975> Kotik: /ooc как в незащищенную писать?
+[Sat Apr  4 18:51:01 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // /com
+[Sat Apr  4 18:51:04 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [781][sw_bmp1]"
+[Sat Apr  4 18:51:13 2026] <STEAM_0:1:558349975> Kotik: /com Danke für den Trophäentiger!
+[Sat Apr  4 18:51:17 2026] <STEAM_0:1:558349975> Kotik: /com Danke für den Trophäentiger!
+[Sat Apr  4 18:51:24 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [784][lvs_wheeldrive_m3a3]"
+[Sat Apr  4 18:51:30 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [848][tfa_ins2_wpn_at4]"
+[Sat Apr  4 18:51:30 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [849][tfa_ins2_wpn_at4]"
+[Sat Apr  4 18:51:30 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [850][tfa_ins2_wpn_at4]"
+[Sat Apr  4 18:51:33 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned prop "Entity [848][prop_physics] (models/props_c17/oildrum001.mdl)"
+[Sat Apr  4 18:51:45 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned prop "Entity [849][prop_physics] (models/props_c17/bench01a.mdl)"
+[Sat Apr  4 18:51:50 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned prop "Entity [782][prop_physics] (models/props_c17/oildrum001.mdl)"
+[Sat Apr  4 18:51:52 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned prop "Entity [775][prop_physics] (models/props_c17/oildrum001.mdl)"
+[Sat Apr  4 18:51:58 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned prop "Entity [847][prop_physics] (models/props_c17/oildrum001.mdl)"
+[Sat Apr  4 18:52:02 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned prop "Entity [850][prop_physics] (models/props_c17/oildrum001.mdl)"
+[Sat Apr  4 18:52:07 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned prop "Entity [854][prop_physics] (models/props_c17/oildrum001.mdl)"
+[Sat Apr  4 18:52:24 2026] Мраз has killed gREG4IK.
+[Sat Apr  4 18:52:38 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned vehicle "Vehicle [656][prop_vehicle_jeep]"
+[Sat Apr  4 18:52:39 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned vehicle "Vehicle [693][prop_vehicle_jeep_old]"
+[Sat Apr  4 18:52:41 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned vehicle "Vehicle [695][prop_vehicle_airboat]"
+[Sat Apr  4 18:53:07 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [697][sw_matv_m2]"
+[Sat Apr  4 18:53:12 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [775][lvs_wheeldrive_kamazrepair]"
+[Sat Apr  4 18:53:30 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [775][sw_mine_pfm1_v3]"
+[Sat Apr  4 18:53:42 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Sat Apr  4 18:53:42 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [781][sw_rocket_pg9v_v3]"
+[Sat Apr  4 18:54:04 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [781][lvs_wheeldrive_rp_t90m]"
+[Sat Apr  4 18:54:36 2026] worldspawn has killed Мраз.
+[Sat Apr  4 18:56:23 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Po_rA1.
+[Sat Apr  4 18:57:07 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "ammo Колесников"
+[Sat Apr  4 18:57:29 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "ammo Ангел"
+[Sat Apr  4 18:57:55 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [605][lvs_missile]"
+[Sat Apr  4 18:57:55 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [606][lvs_missile]"
+[Sat Apr  4 18:57:56 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [607][lvs_missile]"
+[Sat Apr  4 18:57:56 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [608][lvs_missile]"
+[Sat Apr  4 18:57:56 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [609][lvs_missile]"
+[Sat Apr  4 18:57:56 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [610][lvs_missile]"
+[Sat Apr  4 18:57:56 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [612][lvs_missile]"
+[Sat Apr  4 18:57:56 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [613][lvs_missile]"
+[Sat Apr  4 18:57:57 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [605][lvs_missile]"
+[Sat Apr  4 18:58:07 2026] Player "Pobowhite" <STEAM_0:0:792217028> has spawned in the server
+[Sat Apr  4 18:58:10 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [609][lvs_missile]"
+[Sat Apr  4 18:58:11 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [610][lvs_missile]"
+[Sat Apr  4 18:58:11 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [612][lvs_missile]"
+[Sat Apr  4 18:58:11 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [613][lvs_missile]"
+[Sat Apr  4 18:58:11 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [614][lvs_missile]"
+[Sat Apr  4 18:58:11 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [616][lvs_missile]"
+[Sat Apr  4 18:58:11 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [617][lvs_missile]"
+[Sat Apr  4 18:58:12 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [618][lvs_missile]"
+[Sat Apr  4 18:58:12 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [609][lvs_missile]"
+[Sat Apr  4 18:58:12 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [610][lvs_missile]"
+[Sat Apr  4 18:58:12 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [612][lvs_missile]"
+[Sat Apr  4 18:58:12 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [613][lvs_missile]"
+[Sat Apr  4 18:58:12 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [619][lvs_missile]"
+[Sat Apr  4 18:58:13 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [614][lvs_protontorpedo]"
+[Sat Apr  4 18:58:13 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [616][lvs_protontorpedo]"
+[Sat Apr  4 18:58:13 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [617][lvs_protontorpedo]"
+[Sat Apr  4 18:58:13 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [609][lvs_protontorpedo]"
+[Sat Apr  4 18:58:13 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [610][lvs_protontorpedo]"
+[Sat Apr  4 18:58:14 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [612][lvs_protontorpedo]"
+[Sat Apr  4 18:58:14 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [613][lvs_protontorpedo]"
+[Sat Apr  4 18:58:14 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [618][lvs_protontorpedo]"
+[Sat Apr  4 18:58:14 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [614][lvs_concussionmissile]"
+[Sat Apr  4 18:58:15 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [616][lvs_concussionmissile]"
+[Sat Apr  4 18:58:15 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [609][lvs_concussionmissile]"
+[Sat Apr  4 18:58:15 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [610][lvs_concussionmissile]"
+[Sat Apr  4 18:58:15 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [612][lvs_concussionmissile]"
+[Sat Apr  4 18:58:15 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [613][lvs_concussionmissile]"
+[Sat Apr  4 18:58:16 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [617][lvs_concussionmissile]"
+[Sat Apr  4 18:58:16 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [618][lvs_concussionmissile]"
+[Sat Apr  4 18:58:16 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [614][lvs_concussionmissile]"
+[Sat Apr  4 18:58:17 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [609][lvs_protontorpedo]"
+[Sat Apr  4 18:58:17 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [610][lvs_protontorpedo]"
+[Sat Apr  4 18:58:17 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [612][lvs_protontorpedo]"
+[Sat Apr  4 18:58:17 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [613][lvs_protontorpedo]"
+[Sat Apr  4 18:58:18 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [614][lvs_protontorpedo]"
+[Sat Apr  4 18:58:18 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [616][lvs_protontorpedo]"
+[Sat Apr  4 18:58:18 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [609][lvs_missile]"
+[Sat Apr  4 18:58:18 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [617][lvs_missile]"
+[Sat Apr  4 18:58:18 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [610][lvs_missile]"
+[Sat Apr  4 18:58:18 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [612][lvs_missile]"
+[Sat Apr  4 18:59:17 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "armor Смирнов 200"
+[Sat Apr  4 18:59:36 2026] <STEAM_0:0:642089283> Мраз: /c Сос, застрял
+[Sat Apr  4 18:59:39 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "armor Колесников 200"
+[Sat Apr  4 18:59:42 2026] <STEAM_0:0:792217028> Pobowhite: /ooc всем своим
+[Sat Apr  4 18:59:50 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "goto Смирнов"
+[Sat Apr  4 19:00:32 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /rf 321 рация человек паук)
+[Sat Apr  4 19:00:46 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [609][sw_mine_tm62_v3]"
+[Sat Apr  4 19:00:47 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [610][sw_mine_tm62_v3]"
+[Sat Apr  4 19:00:50 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [613][sw_mine_tm62_v3]"
+[Sat Apr  4 19:01:00 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [673][sw_mine_tm62_v3]"
+[Sat Apr  4 19:01:00 2026] Player "пж зарегай 2" <STEAM_0:1:399366781> is attempting to connect.
+[Sat Apr  4 19:01:01 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [713][sw_mine_tm62_v3]"
+[Sat Apr  4 19:01:02 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [714][sw_mine_tm62_v3]"
+[Sat Apr  4 19:01:03 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [715][sw_mine_tm62_v3]"
+[Sat Apr  4 19:01:17 2026] Player "пж зарегай 2" <STEAM_0:1:399366781> is attempting to connect.
+[Sat Apr  4 19:01:59 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "armor Смирнов 500"
+[Sat Apr  4 19:02:11 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Kotik.
+[Sat Apr  4 19:02:11 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Dandelion.
+[Sat Apr  4 19:02:53 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "witchergate"
+[Sat Apr  4 19:02:54 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "witchergate"
+[Sat Apr  4 19:02:54 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "witchergate"
+[Sat Apr  4 19:02:59 2026] Player "ДЯДЯ РАФИК" <STEAM_0:0:399545922> is attempting to connect.
+[Sat Apr  4 19:03:31 2026] <STEAM_0:0:792217028> Pobowhite: пизда это для аутистов что ли?
+[Sat Apr  4 19:04:01 2026] <STEAM_0:1:455594560> gREG4IK: Hi
+[Sat Apr  4 19:04:25 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "hp Ангел 10000000"
+[Sat Apr  4 19:04:26 2026] <STEAM_0:1:455594560> gREG4IK: Hi
+[Sat Apr  4 19:04:33 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "armor Ангел 10000000000"
+[Sat Apr  4 19:04:43 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "armor Ангел 10000"
+[Sat Apr  4 19:05:04 2026] <STEAM_0:1:455594560> gREG4IK: Hi
+[Sat Apr  4 19:05:22 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "a Грэг"
+[Sat Apr  4 19:05:29 2026] <STEAM_0:0:792217028> Pobowhite: так че там
+[Sat Apr  4 19:05:38 2026] <STEAM_0:0:792217028> Pobowhite: хай
+[Sat Apr  4 19:05:39 2026] <STEAM_0:1:455594560> gREG4IK: Hi
+[Sat Apr  4 19:05:43 2026] <STEAM_0:0:792217028> Pobowhite: хай хай
+[Sat Apr  4 19:05:46 2026] <STEAM_0:1:455594560> gREG4IK: Ты говоришь?
+[Sat Apr  4 19:05:50 2026] <STEAM_0:0:792217028> Pobowhite: Ну
+[Sat Apr  4 19:05:56 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "hp Ангел 100"
+[Sat Apr  4 19:05:57 2026] <STEAM_0:0:792217028> Pobowhite: Ну вот
+[Sat Apr  4 19:06:01 2026] Po_rA1 has killed Kotik.
+[Sat Apr  4 19:06:02 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "armor Ангел 100"
+[Sat Apr  4 19:06:06 2026] <STEAM_0:0:792217028> Pobowhite: Не сейчас
+[Sat Apr  4 19:06:09 2026] Dandelion has killed Po_rA1.
+[Sat Apr  4 19:06:16 2026] <STEAM_0:0:792217028> Pobowhite: Я не долбаеб
+[Sat Apr  4 19:06:18 2026] <STEAM_0:0:792217028> Pobowhite: Понимаешь
+[Sat Apr  4 19:06:39 2026] <STEAM_0:0:792217028> Pobowhite: Я есть
+[Sat Apr  4 19:06:46 2026] <STEAM_0:0:792217028> Pobowhite: Ну
+[Sat Apr  4 19:07:12 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [648][sw_rocket_9m114_v3]"
+[Sat Apr  4 19:07:19 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Dandelion.
+[Sat Apr  4 19:07:30 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Sat Apr  4 19:07:30 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [612][sw_rocket_3m7_v3]"
+[Sat Apr  4 19:07:30 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Sat Apr  4 19:07:30 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [619][sw_rocket_3m7_v3]"
+[Sat Apr  4 19:07:30 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Sat Apr  4 19:07:30 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [630][sw_rocket_3m7_v3]"
+[Sat Apr  4 19:07:31 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Sat Apr  4 19:07:31 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [642][sw_rocket_3m7_v3]"
+[Sat Apr  4 19:07:31 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Sat Apr  4 19:07:31 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [646][sw_rocket_3m7_v3]"
+[Sat Apr  4 19:07:31 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Sat Apr  4 19:07:31 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [648][sw_rocket_3m7_v3]"
+[Sat Apr  4 19:07:31 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Sat Apr  4 19:07:31 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [662][sw_rocket_3m7_v3]"
+[Sat Apr  4 19:07:31 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Sat Apr  4 19:07:31 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [663][sw_rocket_3m7_v3]"
+[Sat Apr  4 19:07:31 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Sat Apr  4 19:07:31 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [664][sw_rocket_3m7_v3]"
+[Sat Apr  4 19:08:49 2026] <STEAM_0:0:792217028> Pobowhite: Не прошел бля
+[Sat Apr  4 19:09:23 2026] Po_rA1 has killed Dandelion.
+[Sat Apr  4 19:09:29 2026] Po_rA1 has killed Kotik.
+[Sat Apr  4 19:09:37 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [610][tfa_f1]"
+[Sat Apr  4 19:09:38 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [612][tfa_f1]"
+[Sat Apr  4 19:10:12 2026] <STEAM_0:0:792217028> Pobowhite: Тип полосу надо
+[Sat Apr  4 19:10:15 2026] <STEAM_0:0:792217028> Pobowhite: Еще раз
+[Sat Apr  4 19:10:48 2026] <STEAM_0:0:792217028> Pobowhite: Да
+[Sat Apr  4 19:11:03 2026] <STEAM_0:0:792217028> Pobowhite: Теперь форму надо
+[Sat Apr  4 19:11:18 2026] <STEAM_0:0:792217028> Pobowhite: Теперь в КХО
+[Sat Apr  4 19:12:19 2026] Po_rA1 has killed Dandelion.
+[Sat Apr  4 19:14:33 2026] Мраз has killed Pobowhite.
+[Sat Apr  4 19:14:40 2026] <STEAM_0:0:792217028> Pobowhite: /ooc сурово
+[Sat Apr  4 19:14:50 2026] <STEAM_0:0:792217028> Pobowhite: /ooc даже с базы выйти не успел а уже 200
+[Sat Apr  4 19:14:54 2026] <STEAM_0:0:792217028> Pobowhite: /ooc даже с базы выйти не успел а уже 200
+[Sat Apr  4 19:15:01 2026] Player "Worshiper of God" <STEAM_0:0:74235942> is attempting to connect.
+[Sat Apr  4 19:15:05 2026] <STEAM_0:0:792217028> Pobowhite: /ooc даже с базы выйти не успел а уже 200
+[Sat Apr  4 19:15:16 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Sat Apr  4 19:15:16 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [616][sw_rocket_3m7_v3]"
+[Sat Apr  4 19:15:16 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Sat Apr  4 19:15:16 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [672][sw_rocket_3m7_v3]"
+[Sat Apr  4 19:15:16 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Sat Apr  4 19:15:16 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [738][sw_rocket_3m7_v3]"
+[Sat Apr  4 19:15:17 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Sat Apr  4 19:15:17 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [739][sw_rocket_3m7_v3]"
+[Sat Apr  4 19:15:17 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Sat Apr  4 19:15:17 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [740][sw_rocket_3m7_v3]"
+[Sat Apr  4 19:15:17 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Sat Apr  4 19:15:17 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [741][sw_rocket_3m7_v3]"
+[Sat Apr  4 19:15:17 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Sat Apr  4 19:15:17 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [742][sw_rocket_3m7_v3]"
+[Sat Apr  4 19:15:17 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Sat Apr  4 19:15:17 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [743][sw_rocket_3m7_v3]"
+[Sat Apr  4 19:15:25 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Sat Apr  4 19:15:25 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [616][sw_rocket_3m7_v3]"
+[Sat Apr  4 19:15:25 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Sat Apr  4 19:15:25 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [739][sw_rocket_3m7_v3]"
+[Sat Apr  4 19:15:25 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Sat Apr  4 19:15:25 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [740][sw_rocket_3m7_v3]"
+[Sat Apr  4 19:15:25 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Sat Apr  4 19:15:25 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [741][sw_rocket_3m7_v3]"
+[Sat Apr  4 19:15:26 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Sat Apr  4 19:15:26 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [742][sw_rocket_3m7_v3]"
+[Sat Apr  4 19:15:26 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Sat Apr  4 19:15:26 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [743][sw_rocket_3m7_v3]"
+[Sat Apr  4 19:15:26 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Sat Apr  4 19:15:26 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [744][sw_rocket_3m7_v3]"
+[Sat Apr  4 19:15:26 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Sat Apr  4 19:15:26 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [745][sw_rocket_3m7_v3]"
+[Sat Apr  4 19:15:26 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Sat Apr  4 19:15:26 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [746][sw_rocket_3m7_v3]"
+[Sat Apr  4 19:15:26 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Sat Apr  4 19:15:26 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [747][sw_rocket_3m7_v3]"
+[Sat Apr  4 19:15:31 2026] <STEAM_0:0:792217028> Pobowhite: Я
+[Sat Apr  4 19:15:40 2026] <STEAM_0:0:792217028> Pobowhite: Ник тут можно поменять?
+[Sat Apr  4 19:15:41 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Sat Apr  4 19:15:41 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [616][sw_rocket_3m7_v3]"
+[Sat Apr  4 19:15:41 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Sat Apr  4 19:15:41 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [738][sw_rocket_3m7_v3]"
+[Sat Apr  4 19:15:41 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Sat Apr  4 19:15:41 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [740][sw_rocket_3m7_v3]"
+[Sat Apr  4 19:15:41 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Sat Apr  4 19:15:41 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [741][sw_rocket_3m7_v3]"
+[Sat Apr  4 19:15:41 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Sat Apr  4 19:15:41 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [742][sw_rocket_3m7_v3]"
+[Sat Apr  4 19:15:42 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Sat Apr  4 19:15:42 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [743][sw_rocket_3m7_v3]"
+[Sat Apr  4 19:15:42 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Sat Apr  4 19:15:42 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [744][sw_rocket_3m7_v3]"
+[Sat Apr  4 19:15:42 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Sat Apr  4 19:15:42 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [745][sw_rocket_3m7_v3]"
+[Sat Apr  4 19:15:42 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Sat Apr  4 19:15:42 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [747][sw_rocket_3m7_v3]"
+[Sat Apr  4 19:15:42 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Sat Apr  4 19:15:42 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [748][sw_rocket_3m7_v3]"
+[Sat Apr  4 19:15:45 2026] Player "Worshiper of God" <STEAM_0:0:74235942> has spawned in the server
+[Sat Apr  4 19:16:01 2026] <STEAM_0:1:455594560> gREG4IK: /event КЕМПИТЬ НЕЛЬЗЯ ПОЛУЧИМ БАН!!!))))
+[Sat Apr  4 19:16:08 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Sat Apr  4 19:16:08 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [666][sw_rocket_3m7_v3]"
+[Sat Apr  4 19:16:08 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Sat Apr  4 19:16:08 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [671][sw_rocket_3m7_v3]"
+[Sat Apr  4 19:16:08 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Sat Apr  4 19:16:08 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [743][sw_rocket_3m7_v3]"
+[Sat Apr  4 19:16:08 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Sat Apr  4 19:16:08 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [744][sw_rocket_3m7_v3]"
+[Sat Apr  4 19:16:08 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Sat Apr  4 19:16:08 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [745][sw_rocket_3m7_v3]"
+[Sat Apr  4 19:16:09 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Sat Apr  4 19:16:09 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [747][sw_rocket_3m7_v3]"
+[Sat Apr  4 19:16:09 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Sat Apr  4 19:16:09 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [748][sw_rocket_3m7_v3]"
+[Sat Apr  4 19:16:09 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Sat Apr  4 19:16:09 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [753][sw_rocket_3m7_v3]"
+[Sat Apr  4 19:16:09 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Sat Apr  4 19:16:09 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [754][sw_rocket_3m7_v3]"
+[Sat Apr  4 19:16:09 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Sat Apr  4 19:16:09 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [755][sw_rocket_3m7_v3]"
+[Sat Apr  4 19:16:09 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Sat Apr  4 19:16:09 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [759][sw_rocket_3m7_v3]"
+[Sat Apr  4 19:16:09 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Sat Apr  4 19:16:09 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [763][sw_rocket_3m7_v3]"
+[Sat Apr  4 19:16:10 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Sat Apr  4 19:16:10 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [774][sw_rocket_3m7_v3]"
+[Sat Apr  4 19:16:10 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Sat Apr  4 19:16:10 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [775][sw_rocket_3m7_v3]"
+[Sat Apr  4 19:16:10 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Sat Apr  4 19:16:10 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [776][sw_rocket_3m7_v3]"
+[Sat Apr  4 19:16:27 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Sat Apr  4 19:16:27 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [616][sw_rocket_3m7_v3]"
+[Sat Apr  4 19:16:30 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Sat Apr  4 19:16:30 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [776][sw_rocket_3m7_v3]"
+[Sat Apr  4 19:16:40 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Sat Apr  4 19:16:40 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [744][sw_rocket_m31_v3]"
+[Sat Apr  4 19:16:42 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Sat Apr  4 19:16:42 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [750][sw_rocket_m31_v3]"
+[Sat Apr  4 19:16:48 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Sat Apr  4 19:16:48 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [750][sw_rocket_m31_v3]"
+[Sat Apr  4 19:17:35 2026] Мраз has killed gREG4IK.
+[Sat Apr  4 19:17:47 2026] Player "★☾₳ⱤØ₦₦ł₭☽★" <STEAM_0:0:456016030> is attempting to connect.
+[Sat Apr  4 19:17:57 2026] <STEAM_0:1:455594560> gREG4IK ran command "respawn ^"
+[Sat Apr  4 19:17:58 2026] <STEAM_0:0:74235942> Worshiper of God: // ебать а че мы проебуем???
+[Sat Apr  4 19:18:01 2026] Player "Dandelion" <STEAM_0:0:148551732> has left the server
+[Sat Apr  4 19:18:50 2026] <STEAM_0:0:792217028> Pobowhite: Нармальный пак стоит
+[Sat Apr  4 19:18:56 2026] Мраз has killed gREG4IK.
+[Sat Apr  4 19:19:14 2026] <STEAM_0:1:455594560> gREG4IK ran command "respawn ^"
+[Sat Apr  4 19:19:31 2026] <STEAM_0:0:792217028> Pobowhite: Ник поменять посже можно?
+[Sat Apr  4 19:19:36 2026] <STEAM_0:0:792217028> Pobowhite: Закрой еще на всякий
+[Sat Apr  4 19:19:41 2026] <STEAM_0:0:792217028> Pobowhite: Машину
+[Sat Apr  4 19:19:45 2026] Player "★☾₳ⱤØ₦₦ł₭☽★" <STEAM_0:0:456016030> has spawned in the server
+[Sat Apr  4 19:19:45 2026] <STEAM_0:1:455594560> gREG4IK: /event ВНИМАНИЯ РФ ПРИОБЛАДАЕТ НА ТОЧКАХ!
+[Sat Apr  4 19:19:55 2026] <STEAM_0:0:792217028> Pobowhite: Карта есть тут?
+[Sat Apr  4 19:20:19 2026] Pobowhite has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Sat Apr  4 19:20:25 2026] Po_rA1 has killed gREG4IK.
+[Sat Apr  4 19:20:26 2026] <STEAM_0:0:792217028> Pobowhite: агс это
+[Sat Apr  4 19:20:30 2026] <STEAM_0:0:792217028> Pobowhite: я думал пулемет
+[Sat Apr  4 19:20:31 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "respawn Ангел"
+[Sat Apr  4 19:20:36 2026] Worshiper of God has killed Po_rA1.
+[Sat Apr  4 19:20:43 2026] Мраз has killed Worshiper of God.
+[Sat Apr  4 19:20:44 2026] Worshiper of God has killed Worshiper of God.
+[Sat Apr  4 19:20:53 2026] <STEAM_0:0:74235942> Worshiper of God: // ебать всадил типу
+[Sat Apr  4 19:21:04 2026] <STEAM_0:0:792217028> Pobowhite: козлы горные
+[Sat Apr  4 19:21:06 2026] <STEAM_0:0:792217028> Pobowhite: ъаъаъаъа
+[Sat Apr  4 19:21:15 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "ammo Ангел"
+[Sat Apr  4 19:21:26 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [683][lvs_wheeldrive_rp_t90m]"
+[Sat Apr  4 19:21:44 2026] <STEAM_0:0:792217028> Pobowhite: есть рация?
+[Sat Apr  4 19:21:45 2026] <STEAM_0:0:792217028> Pobowhite: у нас
+[Sat Apr  4 19:21:48 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [604][sw_bmp3m]"
+[Sat Apr  4 19:21:53 2026] <STEAM_0:0:792217028> Pobowhite: ну на всякий было бы
+[Sat Apr  4 19:21:54 2026] <STEAM_0:0:792217028> Pobowhite: хахахха
+[Sat Apr  4 19:21:58 2026] <STEAM_0:1:558349975> Kotik: /nato 124 частота
+[Sat Apr  4 19:22:00 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [604][lvs_wheeldrive_rp_t90m]"
+[Sat Apr  4 19:22:07 2026] <STEAM_0:0:792217028> Pobowhite: как в сеть писать, напомни?
+[Sat Apr  4 19:22:22 2026] <STEAM_0:0:792217028> Pobowhite: защишеную
+[Sat Apr  4 19:22:23 2026] <STEAM_0:0:792217028> Pobowhite: да
+[Sat Apr  4 19:22:24 2026] <STEAM_0:1:455594560> gREG4IK: /nato 124 я подключаюсь
+[Sat Apr  4 19:22:24 2026] <STEAM_0:0:792217028> Pobowhite: дыы
+[Sat Apr  4 19:22:25 2026] <STEAM_0:0:792217028> Pobowhite: аа
+[Sat Apr  4 19:22:31 2026] <STEAM_0:1:558349975> Kotik: /nato повтор не было запроса
+[Sat Apr  4 19:23:10 2026] Player "ДЯДЯ РАФИК" <STEAM_0:0:399545922> has spawned in the server
+[Sat Apr  4 19:23:19 2026] <STEAM_0:0:792217028> Pobowhite: /бля ты че
+[Sat Apr  4 19:23:29 2026] Player "Dandelion" <STEAM_0:0:148551732> is attempting to connect.
+[Sat Apr  4 19:23:33 2026] <STEAM_0:0:792217028> Pobowhite: просто ахуй
+[Sat Apr  4 19:23:34 2026] <STEAM_0:0:792217028> Pobowhite: не
+[Sat Apr  4 19:24:01 2026] Kotik has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Sat Apr  4 19:24:01 2026] Kotik has killed Po_rA1.
+[Sat Apr  4 19:24:08 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "respawn Ангел"
+[Sat Apr  4 19:24:28 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SWEP "Weapon [667][tfa_inss2_hk_mp5a5]"
+[Sat Apr  4 19:24:35 2026] Kotik has killed Мраз.
+[Sat Apr  4 19:24:47 2026] Player "ДЯДЯ РАФИК" <STEAM_0:0:399545922> has left the server
+[Sat Apr  4 19:25:00 2026] <STEAM_0:0:792217028> Pobowhite: У меня рация бракованная что ли
+[Sat Apr  4 19:25:06 2026] <STEAM_0:0:792217028> Pobowhite: Че со звуком
+[Sat Apr  4 19:25:12 2026] <STEAM_0:0:792217028> Pobowhite: Окислилась что ли
+[Sat Apr  4 19:25:20 2026] <STEAM_0:1:455594560> gREG4IK: /nato нажми ф2 и выбери еще раз рацию 124
+[Sat Apr  4 19:25:22 2026] Player "Dandelion" <STEAM_0:0:148551732> has spawned in the server
+[Sat Apr  4 19:25:29 2026] <STEAM_0:0:792217028> Pobowhite: Я просто свой
+[Sat Apr  4 19:25:32 2026] <STEAM_0:0:792217028> Pobowhite: Ахахаха
+[Sat Apr  4 19:25:48 2026] <STEAM_0:0:792217028> Pobowhite: Может
+[Sat Apr  4 19:26:17 2026] <STEAM_0:0:792217028> Pobowhite: Где техника
+[Sat Apr  4 19:26:40 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Kotik.
+[Sat Apr  4 19:27:09 2026] Po_rA1 has killed gREG4IK.
+[Sat Apr  4 19:27:14 2026] Po_rA1 has killed Pobowhite.
+[Sat Apr  4 19:27:16 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [616][sw_airdrop_v3]"
+[Sat Apr  4 19:28:26 2026] <STEAM_0:0:792217028> Pobowhite: Ник поменять можно?
+[Sat Apr  4 19:28:31 2026] Мраз has killed Worshiper of God.
+[Sat Apr  4 19:28:35 2026] <STEAM_0:0:74235942> Worshiper of God: // хуею
+[Sat Apr  4 19:28:37 2026] <STEAM_0:1:455594560> gREG4IK: да
+[Sat Apr  4 19:28:42 2026] <STEAM_0:1:455594560> gREG4IK: какой?
+[Sat Apr  4 19:28:55 2026] <STEAM_0:0:792217028> Pobowhite: на позывной, да?
+[Sat Apr  4 19:28:55 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [618][sw_mine_tm62_v3]"
+[Sat Apr  4 19:28:57 2026] <STEAM_0:1:455594560> gREG4IK: да
+[Sat Apr  4 19:28:57 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [669][sw_mine_tm62_v3]"
+[Sat Apr  4 19:28:58 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [670][sw_mine_tm62_v3]"
+[Sat Apr  4 19:29:08 2026] <STEAM_0:0:792217028> Pobowhite: давай Big Pipe
+[Sat Apr  4 19:29:14 2026] <STEAM_0:0:887714123> Po_rA1: /rf Частота 321
+[Sat Apr  4 19:29:31 2026] <STEAM_0:0:792217028> Pobowhite: Пепе
+[Sat Apr  4 19:29:32 2026] <STEAM_0:0:792217028> Pobowhite: Аххахахаха
+[Sat Apr  4 19:29:34 2026] <STEAM_0:0:792217028> Pobowhite: кхахахаха
+[Sat Apr  4 19:29:44 2026] <STEAM_0:0:792217028> Pobowhite: pepe хмаахаххаха
+[Sat Apr  4 19:29:49 2026] <STEAM_0:1:455594560> gREG4IK: ааа
+[Sat Apr  4 19:29:54 2026] <STEAM_0:0:792217028> Pobowhite: Грег, ты что куришь?
+[Sat Apr  4 19:29:56 2026] <STEAM_0:0:792217028> Pobowhite: хахахахах
+[Sat Apr  4 19:30:12 2026] <STEAM_0:1:455594560> gREG4IK: йоу пепе, шнейне?
+[Sat Apr  4 19:30:21 2026] <STEAM_0:0:792217028> Pobowhite: ахахахах
+[Sat Apr  4 19:30:38 2026] <STEAM_0:0:792217028> Pobowhite: Агс можешь не брать?
+[Sat Apr  4 19:30:43 2026] <STEAM_0:0:792217028> Pobowhite: Во
+[Sat Apr  4 19:30:55 2026] <STEAM_0:0:792217028> Pobowhite: Ща до кхо
+[Sat Apr  4 19:30:56 2026] <STEAM_0:0:792217028> Pobowhite: Ок?
+[Sat Apr  4 19:30:59 2026] Player "Pioner" <STEAM_0:1:923042528> is attempting to connect.
+[Sat Apr  4 19:31:08 2026] Po_rA1 has killed Worshiper of God.
+[Sat Apr  4 19:31:37 2026] Мраз has killed gREG4IK.
+[Sat Apr  4 19:32:02 2026] Pobowhite has killed ★☾₳ⱤØ₦₦ł₭☽★.
+[Sat Apr  4 19:32:03 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "ammo Ангел"
+[Sat Apr  4 19:32:08 2026] Po_rA1 has killed Dandelion.
+[Sat Apr  4 19:32:08 2026] Po_rA1 has killed Pobowhite.
+[Sat Apr  4 19:32:11 2026] <STEAM_0:0:792217028> Pobowhite: блять
+[Sat Apr  4 19:32:11 2026] Po_rA1 has killed Kotik.
+[Sat Apr  4 19:32:41 2026] <STEAM_0:0:792217028> Pobowhite: /ooc Я чет не понимаю, там каждый что-ли партизан в мире ГМ?
+[Sat Apr  4 19:32:54 2026] <STEAM_0:0:792217028> Pobowhite: /ooc Столько ГПшек я даже в гробу не увижу
+[Sat Apr  4 19:32:56 2026] <STEAM_0:0:792217028> Pobowhite: /ooc Столько ГПшек я даже в гробу не увижу
+[Sat Apr  4 19:32:58 2026] <STEAM_0:0:792217028> Pobowhite: /ooc Столько ГПшек я даже в гробу не увижу
+[Sat Apr  4 19:33:02 2026] <STEAM_0:0:792217028> Pobowhite: /ooc Столько ГПшек я даже в гробу не увижу
+[Sat Apr  4 19:33:03 2026] <STEAM_0:0:792217028> Pobowhite: /ooc Столько ГПшек я даже в гробу не увижу
+[Sat Apr  4 19:33:04 2026] <STEAM_0:0:74235942> Worshiper of God: // ужас блять не регает залупа
+[Sat Apr  4 19:33:07 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc Грег, а почему меня на неделю замутили в ДС серваке
+[Sat Apr  4 19:33:51 2026] <STEAM_0:0:792217028> Pobowhite: Есть другие специализации?
+[Sat Apr  4 19:34:02 2026] <STEAM_0:0:792217028> Pobowhite: Снайпера мне ебни
+[Sat Apr  4 19:34:06 2026] <STEAM_0:0:792217028> Pobowhite: А
+[Sat Apr  4 19:34:07 2026] <STEAM_0:0:792217028> Pobowhite: Все
+[Sat Apr  4 19:34:10 2026] <STEAM_0:0:792217028> Pobowhite: Щас
+[Sat Apr  4 19:34:13 2026] Worshiper of God has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Sat Apr  4 19:34:18 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "respawn Ангел"
+[Sat Apr  4 19:34:18 2026] <STEAM_0:0:792217028> Pobowhite: Ебля ради чего
+[Sat Apr  4 19:34:20 2026] <STEAM_0:0:792217028> Pobowhite: Ххахахаха
+[Sat Apr  4 19:34:22 2026] Мраз has killed Worshiper of God.
+[Sat Apr  4 19:34:54 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "ammo Ангел"
+[Sat Apr  4 19:35:01 2026] <STEAM_0:0:74235942> Worshiper of God: // не парни я все понимаю но это ужас
+[Sat Apr  4 19:35:43 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Sat Apr  4 19:35:46 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "respawn Ангел"
+[Sat Apr  4 19:35:57 2026] <STEAM_0:1:558349975> Kotik: /ooc Грег тп
+[Sat Apr  4 19:36:13 2026] Мраз has killed Dandelion.
+[Sat Apr  4 19:36:30 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "ammo Ангел"
+[Sat Apr  4 19:36:33 2026] Мраз has killed Worshiper of God.
+[Sat Apr  4 19:36:39 2026] <STEAM_0:0:74235942> Worshiper of God: // ну и че это такое
+[Sat Apr  4 19:37:06 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [618][lvs_wheeldrive_rp_t90m]"
+[Sat Apr  4 19:37:18 2026] Kotik has killed Po_rA1.
+[Sat Apr  4 19:37:32 2026] Kotik has killed Мраз.
+[Sat Apr  4 19:37:39 2026] <STEAM_0:0:792217028> Pobowhite: не
+[Sat Apr  4 19:37:45 2026] Player "Mr.Ruskov" <STEAM_0:0:641109614> is attempting to connect.
+[Sat Apr  4 19:38:10 2026] <STEAM_0:0:642089283> Мраз: /c Ебать ты с чего лупишь там а
+[Sat Apr  4 19:38:31 2026] Player "Mr.Ruskov" <STEAM_0:0:641109614> has spawned in the server
+[Sat Apr  4 19:38:59 2026] Player "Pioner" <STEAM_0:1:923042528> is attempting to connect.
+[Sat Apr  4 19:39:12 2026] <STEAM_0:0:792217028> Pobowhite: /r Всем своим
+[Sat Apr  4 19:39:24 2026] Kotik has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Sat Apr  4 19:39:26 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "respawn Ангел"
+[Sat Apr  4 19:39:29 2026] <STEAM_0:1:558349975> Kotik: /nato 124 частота
+[Sat Apr  4 19:39:47 2026] Player "Pioner" <STEAM_0:1:923042528> has spawned in the server
+[Sat Apr  4 19:40:09 2026] Player "Pioner" <STEAM_0:1:923042528> has left the server
+[Sat Apr  4 19:40:36 2026] Po_rA1 has killed Worshiper of God.
+[Sat Apr  4 19:40:37 2026] Worshiper of God has killed Worshiper of God.
+[Sat Apr  4 19:41:02 2026] Dandelion has killed Po_rA1.
+[Sat Apr  4 19:41:35 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Kotik.
+[Sat Apr  4 19:41:47 2026] Dandelion has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Sat Apr  4 19:41:50 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "respawn Ангел"
+[Sat Apr  4 19:41:54 2026] Dandelion has killed Мраз.
+[Sat Apr  4 19:42:34 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "ammo Ангел"
+[Sat Apr  4 19:42:56 2026] Player "Mr.Ruskov" <STEAM_0:0:641109614> has left the server
+[Sat Apr  4 19:43:36 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [625][sw_rocket_4k40_v3]"
+[Sat Apr  4 19:43:45 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [625][sw_rocket_4k40_v3]"
+[Sat Apr  4 19:43:51 2026] Dandelion has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Sat Apr  4 19:43:53 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "respawn Ангел"
+[Sat Apr  4 19:43:57 2026] Player "Pioner" <STEAM_0:1:923042528> is attempting to connect.
+[Sat Apr  4 19:44:19 2026] ★☾₳ⱤØ₦₦ł₭☽★ has killed Dandelion.
+[Sat Apr  4 19:44:31 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "ammo Ангел"
+[Sat Apr  4 19:44:52 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [712][sw_bomb_kab500s_v3]"
+[Sat Apr  4 19:44:58 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [716][sw_rocket_s25o_v3]"
+[Sat Apr  4 19:45:03 2026] ★☾₳ⱤØ₦₦ł₭☽★ has killed Po_rA1.
+[Sat Apr  4 19:45:23 2026] Player "Pioner" <STEAM_0:1:923042528> has spawned in the server
+[Sat Apr  4 19:45:34 2026] <STEAM_0:0:792217028> Pobowhite: /ooc за работу унтерменш
+[Sat Apr  4 19:45:54 2026] <STEAM_0:1:455594560> gREG4IK: /event ПОЯВИЛАСЬ ТОЧКА УКРЕПРАЙОН
+[Sat Apr  4 19:46:15 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [727][sw_mine_tm62_v3]"
+[Sat Apr  4 19:46:17 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [728][sw_mine_tm62_v3]"
+[Sat Apr  4 19:46:18 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [733][sw_mine_tm62_v3]"
+[Sat Apr  4 19:46:29 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [742][sw_mine_tm62_v3]"
+[Sat Apr  4 19:46:31 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [745][sw_mine_tm62_v3]"
+[Sat Apr  4 19:46:32 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Worshiper of God.
+[Sat Apr  4 19:46:32 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Kotik.
+[Sat Apr  4 19:46:33 2026] Po_rA1 has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Sat Apr  4 19:46:33 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Sat Apr  4 19:46:36 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "respawn Ангел"
+[Sat Apr  4 19:47:09 2026] <STEAM_0:0:792217028> Pobowhite: Я ебу что ли
+[Sat Apr  4 19:47:37 2026] Player "SPIRIT" <STEAM_0:1:55416156> is attempting to connect.
+[Sat Apr  4 19:47:39 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "ammo Ангел"
+[Sat Apr  4 19:47:58 2026] Po_rA1 has killed Pobowhite.
+[Sat Apr  4 19:48:47 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [702][sw_mine_tm62_v3]"
+[Sat Apr  4 19:48:48 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [703][sw_mine_tm62_v3]"
+[Sat Apr  4 19:48:49 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [704][sw_mine_tm62_v3]"
+[Sat Apr  4 19:49:01 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned prop "Entity [731][alydus_destructiblefortification] (models/props_fortifications/concrete_wall001_96_reference.mdl)"
+[Sat Apr  4 19:49:02 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned prop "Entity [732][alydus_destructiblefortification] (models/props_fortifications/concrete_wall001_96_reference.mdl)"
+[Sat Apr  4 19:49:03 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned prop "Entity [738][alydus_destructiblefortification] (models/props_fortifications/concrete_wall001_96_reference.mdl)"
+[Sat Apr  4 19:49:05 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned prop "Entity [741][alydus_destructiblefortification] (models/props_fortifications/concrete_wall001_96_reference.mdl)"
+[Sat Apr  4 19:49:05 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned prop "Entity [742][alydus_destructiblefortification] (models/props_fortifications/concrete_wall001_96_reference.mdl)"
+[Sat Apr  4 19:49:06 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned prop "Entity [743][alydus_destructiblefortification] (models/props_fortifications/concrete_wall001_96_reference.mdl)"
+[Sat Apr  4 19:49:07 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned prop "Entity [745][alydus_destructiblefortification] (models/props_fortifications/concrete_wall001_96_reference.mdl)"
+[Sat Apr  4 19:49:07 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned prop "Entity [673][alydus_destructiblefortification] (models/props_fortifications/concrete_wall001_96_reference.mdl)"
+[Sat Apr  4 19:49:11 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned prop "Entity [655][alydus_destructiblefortification] (models/props_fortifications/concrete_wall001_96_reference.mdl)"
+[Sat Apr  4 19:49:21 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Sat Apr  4 19:49:21 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [673][sw_rocket_3m7_v3]"
+[Sat Apr  4 19:49:32 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned prop "Entity [673][alydus_destructiblefortification] (models/props_fortifications/sandbags_line2_tall.mdl)"
+[Sat Apr  4 19:49:34 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned prop "Entity [705][alydus_destructiblefortification] (models/props_fortifications/sandbags_line2_tall.mdl)"
+[Sat Apr  4 19:49:35 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned prop "Entity [707][alydus_destructiblefortification] (models/props_fortifications/sandbags_line2_tall.mdl)"
+[Sat Apr  4 19:49:38 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned prop "Entity [719][alydus_destructiblefortification] (models/props_fortifications/sandbags_line2_tall.mdl)"
+[Sat Apr  4 19:49:39 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned prop "Entity [748][alydus_destructiblefortification] (models/props_fortifications/sandbags_line2_tall.mdl)"
+[Sat Apr  4 19:49:40 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned prop "Entity [753][alydus_destructiblefortification] (models/props_fortifications/sandbags_line2_tall.mdl)"
+[Sat Apr  4 19:49:41 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned prop "Entity [754][alydus_destructiblefortification] (models/props_fortifications/sandbags_line2_tall.mdl)"
+[Sat Apr  4 19:49:43 2026] <STEAM_0:0:74235942> Worshiper of God: // ГРЭГ БЛЯТЬ
+[Sat Apr  4 19:49:44 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned prop "Entity [755][alydus_destructiblefortification] (models/props_fortifications/sandbags_line2_tall.mdl)"
+[Sat Apr  4 19:49:45 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned prop "Entity [757][alydus_destructiblefortification] (models/props_fortifications/sandbags_line2_tall.mdl)"
+[Sat Apr  4 19:50:49 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned prop "Entity [683][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1.mdl)"
+[Sat Apr  4 19:50:50 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned prop "Entity [693][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1.mdl)"
+[Sat Apr  4 19:50:52 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned prop "Entity [730][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1.mdl)"
+[Sat Apr  4 19:50:54 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned prop "Entity [744][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1.mdl)"
+[Sat Apr  4 19:50:55 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned prop "Entity [746][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1.mdl)"
+[Sat Apr  4 19:50:57 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned prop "Entity [750][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1.mdl)"
+[Sat Apr  4 19:51:37 2026] Pobowhite has killed Worshiper of God.
+[Sat Apr  4 19:51:38 2026] Kotik has killed Po_rA1.
+[Sat Apr  4 19:51:44 2026] ★☾₳ⱤØ₦₦ł₭☽★ has killed Pioner.
+[Sat Apr  4 19:51:54 2026] Kotik has killed Dandelion.
+[Sat Apr  4 19:52:09 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Pobowhite.
+[Sat Apr  4 19:52:13 2026] Kotik has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Sat Apr  4 19:52:16 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "respawn Ангел"
+[Sat Apr  4 19:52:52 2026] Kotik has killed ★☾₳ⱤØ₦₦ł₭☽★.
+[Sat Apr  4 19:52:55 2026] <STEAM_0:0:74235942> Worshiper of God: // Giving ༒︎シ︎ʰᵉⁿᵗᵃⁱシ a tfa_ins2_m500\nGiving ༒︎シ︎ʰᵉⁿᵗᵃⁱシ a tfa_ins2_izh43sw\nGiving ༒︎シ︎ʰᵉⁿᵗᵃⁱシ a tfa_ins2_warface_cheytac_m200\nGiving gREG4IK a alydus_fortificationbuildertablet\nGiving ༒︎シ︎ʰᵉⁿᵗᵃⁱシ a tfa_ins2_ak103\nGiving ༒︎シ︎ʰᵉⁿᵗᵃⁱシ a tfa_ins2_ak12\nGiving ༒︎シ︎ʰᵉⁿᵗᵃⁱシ a tfa_at_ak_15
+[Sat Apr  4 19:53:08 2026] <STEAM_0:0:74235942> Worshiper of God: // может успокоишься а ангел?
+[Sat Apr  4 19:53:11 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // и?
+[Sat Apr  4 19:53:22 2026] Player ""White"" <STEAM_0:1:514738252> is attempting to connect.
+[Sat Apr  4 19:53:28 2026] <STEAM_0:0:792217028> Pobowhite: /ooc правила не для нас
+[Sat Apr  4 19:53:41 2026] <STEAM_0:0:792217028> Pobowhite: /ooc базово бы прописали, хз
+[Sat Apr  4 19:53:43 2026] <STEAM_0:0:792217028> Pobowhite: /ooc базово бы прописали, хз
+[Sat Apr  4 19:53:50 2026] Po_rA1 has killed Kotik.
+[Sat Apr  4 19:53:54 2026] <STEAM_0:0:74235942> Worshiper of God: // я бы сказал что и
+[Sat Apr  4 19:54:05 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /me Связал
+[Sat Apr  4 19:54:32 2026] Player ""White"" <STEAM_0:1:514738252> has spawned in the server
+[Sat Apr  4 19:54:39 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /me изьял средства связи и сломал их
+[Sat Apr  4 19:54:43 2026] <STEAM_0:0:74235942> Worshiper of God: /nato струна выдай мне снайпера специальность
+[Sat Apr  4 19:54:47 2026] <STEAM_0:1:923042528> Pioner: /me перебентовал поврежденную часть тела
+[Sat Apr  4 19:54:58 2026] <STEAM_0:0:74235942> Worshiper of God: /nato я ебал оружие на меде которое мисает
+[Sat Apr  4 19:55:24 2026] Player "Мраз" <STEAM_0:0:642089283> has left the server
+[Sat Apr  4 19:55:36 2026] <STEAM_0:0:74235942> Worshiper of God: /nato я ебал оружие на меде которое мисает
+[Sat Apr  4 19:56:05 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /me изьял оружие
+[Sat Apr  4 19:57:05 2026] <STEAM_0:1:558349975> Kotik: Schneide dir deine Eier ab
+[Sat Apr  4 19:57:07 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /me достал нож снял перчатку пленного
+[Sat Apr  4 19:57:21 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: Schneide dir deine Eier ab
+[Sat Apr  4 19:57:51 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /me воткнул нож в руку пленного и стал его проворачивать
+[Sat Apr  4 19:58:02 2026] <STEAM_0:1:558349975> Kotik: Der Hund läuft schon und beißt dir die Hoden ab
+[Sat Apr  4 19:58:31 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /com Эй вы дауны натовские у нас ваш командир!
+[Sat Apr  4 19:58:47 2026] <STEAM_0:0:74235942> Worshiper of God: // как писать в данный чат?
+[Sat Apr  4 19:58:51 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // com
+[Sat Apr  4 19:58:52 2026] <STEAM_0:0:792217028> Pobowhite: нашже
+[Sat Apr  4 19:58:53 2026] <STEAM_0:1:558349975> Kotik: /ooc /col вроде
+[Sat Apr  4 19:58:55 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // /com
+[Sat Apr  4 19:58:55 2026] <STEAM_0:0:887714123> Po_rA1: /ooc /com
+[Sat Apr  4 19:58:57 2026] <STEAM_0:1:558349975> Kotik: /me выбил оружие из рук и скрутил человека напротив
+[Sat Apr  4 19:59:11 2026] <STEAM_0:1:558349975> Kotik: /ooc а Schön
+[Sat Apr  4 19:59:13 2026] <STEAM_0:1:558349975> Kotik: Schön
+[Sat Apr  4 19:59:34 2026] <STEAM_0:0:74235942> Worshiper of God: /com Nixyu udu dayn a podojdi sdelau mne sosi-sosi za 5 baksov!
+[Sat Apr  4 19:59:36 2026] <STEAM_0:1:558349975> Kotik: Schmerzhaft, aber erträglich
+[Sat Apr  4 20:00:03 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /com Пошел нахуй, коллаборант. Я тебя как РОАвца в 40-х отьебашу
+[Sat Apr  4 20:00:14 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /com чистота 093 для переговоров
+[Sat Apr  4 20:00:43 2026] <STEAM_0:1:455594560> gREG4IK: /nato f
+[Sat Apr  4 20:00:46 2026] <STEAM_0:1:558349975> Kotik: Ich will nicht
+[Sat Apr  4 20:00:48 2026] <STEAM_0:0:887714123> Po_rA1: /com Ты лучше на 32 частоту зайди для переговоров
+[Sat Apr  4 20:00:48 2026] <STEAM_0:0:74235942> Worshiper of God: /com Probiro4niu viskazalca sosi mou big dick yeba
+[Sat Apr  4 20:00:51 2026] Pobowhite has killed ★☾₳ⱤØ₦₦ł₭☽★.
+[Sat Apr  4 20:00:52 2026] <STEAM_0:1:455594560> gREG4IK: /nato fadfad]
+[Sat Apr  4 20:00:53 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /me достал нож и воткнул его в голень
+[Sat Apr  4 20:01:04 2026] <STEAM_0:0:887714123> Po_rA1: /com ой бля 93 частоту
+[Sat Apr  4 20:01:22 2026] <STEAM_0:0:74235942> Worshiper of God: // Giving gREG4IK a tfa_ins2_wpn_m249saw
+[Sat Apr  4 20:01:24 2026] <STEAM_0:1:558349975> Kotik: Du Miststück!
+[Sat Apr  4 20:01:42 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc Kill All American_solider
+[Sat Apr  4 20:02:24 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /me снял бронижелет с человека на против и воткнул нож ему в печень
+[Sat Apr  4 20:02:25 2026] <STEAM_0:1:455594560> gREG4IK ran command "goto Колесников"
+[Sat Apr  4 20:02:39 2026] <STEAM_0:1:558349975> Kotik: Scheiße! Du bist schon in den Rand der Acherel!
+[Sat Apr  4 20:04:14 2026] Worshiper of God has killed gREG4IK.
+[Sat Apr  4 20:04:22 2026] <STEAM_0:1:455594560> gREG4IK ran command "respawn ^"
+[Sat Apr  4 20:04:32 2026] <STEAM_0:0:887714123> Po_rA1: /com Если наш человек умрет. Умрет ваш командир
+[Sat Apr  4 20:05:28 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /rf грэк в дс?
+[Sat Apr  4 20:05:46 2026] <STEAM_0:0:887714123> Po_rA1: /rf На горе нато бегают
+[Sat Apr  4 20:05:52 2026] <STEAM_0:0:887714123> Po_rA1: /rf За вч которая
+[Sat Apr  4 20:06:08 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /rf на какой частоте сидим?
+[Sat Apr  4 20:07:05 2026] <STEAM_0:0:887714123> Po_rA1: /com Нато, часики тикают. У вас 5 минут
+[Sat Apr  4 20:07:32 2026] <STEAM_0:0:792217028> Pobowhite: /com We control the area around your military unit; any unauthorized shots fired in our direction will be met with return fire.
+[Sat Apr  4 20:07:34 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /rf убиваю?
+[Sat Apr  4 20:08:05 2026] <STEAM_0:0:887714123> Po_rA1: /com Уведите ваших бойцов с горы
+[Sat Apr  4 20:08:24 2026] <STEAM_0:0:148551732> Dandelion: /com Сначала мой человек, только тогда и отведу их
+[Sat Apr  4 20:08:36 2026] <STEAM_0:0:792217028> Pobowhite: /com We are monitoring the situation
+[Sat Apr  4 20:08:40 2026] <STEAM_0:0:887714123> Po_rA1: /com Мы его не выведем. Вдруг вы нас убьете и его заберете?
+[Sat Apr  4 20:08:57 2026] <STEAM_0:0:792217028> Pobowhite: /com There will be return fire
+[Sat Apr  4 20:09:02 2026] <STEAM_0:1:455594560> gREG4IK: /logs
+[Sat Apr  4 20:09:03 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /com Отказано один из ваших бойцов идёт к нам бер оружия для переговоров
+[Sat Apr  4 20:09:14 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // без*
+[Sat Apr  4 20:09:15 2026] <STEAM_0:1:455594560> gREG4IK: /logs
+[Sat Apr  4 20:09:17 2026] <STEAM_0:0:792217028> Pobowhite: /com Everything within the UN
+[Sat Apr  4 20:09:19 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /ooc без*
+[Sat Apr  4 20:09:20 2026] <STEAM_0:0:148551732> Dandelion: /com 32 частота
+[Sat Apr  4 20:09:30 2026] <STEAM_0:1:455594560> gREG4IK: /logs
+[Sat Apr  4 20:09:55 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Sat Apr  4 20:09:55 2026] <STEAM_0:1:455594560> gREG4IK spawned prop "Entity [664][prop_physics] (models/Cranes/crane_frame.mdl)"
+[Sat Apr  4 20:09:59 2026] <STEAM_0:1:455594560> gREG4IK used tool "camera"
+[Sat Apr  4 20:10:01 2026] <STEAM_0:1:455594560> gREG4IK: /logs
+[Sat Apr  4 20:10:09 2026] <STEAM_0:0:887714123> Po_rA1: /com Уводите бойцов. Оставте одного человека для передачи
+[Sat Apr  4 20:10:25 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /com один из ваших бойцов идёт к нам мы переговариваем и отдаём его вам
+[Sat Apr  4 20:10:30 2026] Player "Smasher" <STEAM_0:1:220381002> is attempting to connect.
+[Sat Apr  4 20:11:37 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /com мы вашего бойца трогать не будем переговорим и уёдете с командиром у вас 2 минуты потом будет хуже ему
+[Sat Apr  4 20:11:54 2026] <STEAM_0:0:792217028> Pobowhite: /com Are you guys fucking nuts?
+[Sat Apr  4 20:12:10 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /com сам ты орех ёбаный
+[Sat Apr  4 20:12:18 2026] ★☾₳ⱤØ₦₦ł₭☽★ has killed Po_rA1.
+[Sat Apr  4 20:12:18 2026] ★☾₳ⱤØ₦₦ł₭☽★ has killed gREG4IK.
+[Sat Apr  4 20:12:18 2026] ★☾₳ⱤØ₦₦ł₭☽★ has killed ★☾₳ⱤØ₦₦ł₭☽★.
+[Sat Apr  4 20:12:23 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc БЛЯТЬБ
+[Sat Apr  4 20:12:30 2026] <STEAM_0:0:887714123> Po_rA1: /ooc Блять ебать ты молодец
+[Sat Apr  4 20:12:37 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /rf убиваю?
+[Sat Apr  4 20:12:40 2026] <STEAM_0:1:558349975> Kotik: Das Schwein grunzt-grunzt-grunzt
+[Sat Apr  4 20:12:42 2026] <STEAM_0:0:887714123> Po_rA1: /rf Нет
+[Sat Apr  4 20:12:42 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc блять
+[Sat Apr  4 20:12:43 2026] <STEAM_0:1:558349975> Kotik: Das Schwein grunzt-grunzt-grunzt
+[Sat Apr  4 20:12:48 2026] <STEAM_0:1:558349975> Kotik: Das Schwein grunzt-grunzt-grunzt
+[Sat Apr  4 20:12:54 2026] <STEAM_0:0:887714123> Po_rA1: /rf Ты его убил?
+[Sat Apr  4 20:12:54 2026] <STEAM_0:1:558349975> Kotik: Das Schwein grunzt grunzt grunzt
+[Sat Apr  4 20:13:01 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /rp забрал документы и прострелил голову командиру
+[Sat Apr  4 20:13:03 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Kotik.
+[Sat Apr  4 20:13:07 2026] Pobowhite has killed ★☾₳ⱤØ₦₦ł₭☽★.
+[Sat Apr  4 20:13:07 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc  CERF
+[Sat Apr  4 20:13:32 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "witchergate"
+[Sat Apr  4 20:13:37 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "ledscreen"
+[Sat Apr  4 20:13:50 2026] Worshiper of God has killed Po_rA1.
+[Sat Apr  4 20:14:37 2026] Pobowhite has killed Dandelion.
+[Sat Apr  4 20:14:39 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // рр для кого?
+[Sat Apr  4 20:14:48 2026] "White" has killed Worshiper of God.
+[Sat Apr  4 20:14:54 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc а чо тут по базе стреляют
+[Sat Apr  4 20:14:55 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [624][sw_airdrop_v3]"
+[Sat Apr  4 20:15:10 2026] <STEAM_0:0:74235942> Worshiper of God: // хуею как испортили нато
+[Sat Apr  4 20:15:11 2026] Player "Worshiper of God" <STEAM_0:0:74235942> has left the server
+[Sat Apr  4 20:15:19 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc я хуею
+[Sat Apr  4 20:15:21 2026] Po_rA1 has killed Po_rA1.
+[Sat Apr  4 20:15:21 2026] Po_rA1 has killed Pioner.
+[Sat Apr  4 20:15:21 2026] Po_rA1 has killed Pobowhite.
+[Sat Apr  4 20:15:41 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Pobowhite.
+[Sat Apr  4 20:15:42 2026] Player "THE-_-Reper" <STEAM_0:1:526999954> is attempting to connect.
+[Sat Apr  4 20:15:49 2026] "White" has killed ★☾₳ⱤØ₦₦ł₭☽★.
+[Sat Apr  4 20:15:57 2026] "White" has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Sat Apr  4 20:16:06 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // харе по базе стрелять рр для кого
+[Sat Apr  4 20:16:14 2026] <STEAM_0:1:558349975> Kotik: /ooc вы тоже по нашей стреляли, к слову
+[Sat Apr  4 20:16:14 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "respawn Ангел"
+[Sat Apr  4 20:16:18 2026] <STEAM_0:1:514738252> "White": // Я ебу?
+[Sat Apr  4 20:16:18 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc Где же?
+[Sat Apr  4 20:16:23 2026] <STEAM_0:1:558349975> Kotik: /ooc да вы что?
+[Sat Apr  4 20:16:32 2026] <STEAM_0:0:792217028> Pobowhite: /ooc Нам нечего делать было кроме этого, тут других вариантов нет
+[Sat Apr  4 20:16:37 2026] <STEAM_0:0:792217028> Pobowhite: /ooc Мы бы не уехали
+[Sat Apr  4 20:16:48 2026] Player "THE-_-Reper" <STEAM_0:1:526999954> has spawned in the server
+[Sat Apr  4 20:16:48 2026] <STEAM_0:0:792217028> Pobowhite: /ooc Мы бы не уехали просто напросто
+[Sat Apr  4 20:16:51 2026] <STEAM_0:0:792217028> Pobowhite: /ooc Мы бы не уехали просто напросто
+[Sat Apr  4 20:16:52 2026] <STEAM_0:0:792217028> Pobowhite: /ooc Мы бы не уехали просто напросто
+[Sat Apr  4 20:17:03 2026] <STEAM_0:1:455594560> gREG4IK: /ooc ну честно рф вы конечно гениии, сами лезите на их базу и потом просите такого же.
+[Sat Apr  4 20:17:15 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc Кто лезет? Та не в коем случае
+[Sat Apr  4 20:17:39 2026] <STEAM_0:0:792217028> Pobowhite: /ooc тут 3 чувака горных козлов косплеили, меня на базе убили, ну не ты так другие, почему нам нельзя тогда так же?
+[Sat Apr  4 20:17:40 2026] ★☾₳ⱤØ₦₦ł₭☽★ has killed Kotik.
+[Sat Apr  4 20:17:41 2026] <STEAM_0:0:887714123> Po_rA1: /ooc Можно было просто вам уйти и оставить одного для передачи. Мы гарантировали безопасность
+[Sat Apr  4 20:17:52 2026] <STEAM_0:0:148551732> Dandelion: /ooc Не лезли к нам на базу? Вы около часа суки кемпели на базе нас
+[Sat Apr  4 20:17:57 2026] <STEAM_0:0:792217028> Pobowhite: /ooc Ну есть как есть, усе
+[Sat Apr  4 20:18:08 2026] <STEAM_0:1:514738252> "White": // Бля РФ не нойте
+[Sat Apr  4 20:18:10 2026] <STEAM_0:0:792217028> Pobowhite: диванные войска
+[Sat Apr  4 20:18:13 2026] <STEAM_0:0:792217028> Pobowhite: ахахаха
+[Sat Apr  4 20:18:17 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [632][lvs_wheeldrive_rp_t90m]"
+[Sat Apr  4 20:18:20 2026] <STEAM_0:1:514738252> "White": // Вы выебываетесь только тогда когда все на вашей стороне
+[Sat Apr  4 20:18:24 2026] <STEAM_0:1:514738252> "White": // Вы выебываетесь только тогда когда все на вашей стороне
+[Sat Apr  4 20:18:31 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [709][sw_bmp1]"
+[Sat Apr  4 20:18:32 2026] <STEAM_0:0:792217028> Pobowhite: Снайперка шотает в тело
+[Sat Apr  4 20:18:34 2026] <STEAM_0:1:514738252> "White": // Вы выебываетесь только тогда когда все на вашей стороне
+[Sat Apr  4 20:18:38 2026] <STEAM_0:0:792217028> Pobowhite: Если 100 брони
+[Sat Apr  4 20:18:39 2026] <STEAM_0:1:558349975> Kotik: Да
+[Sat Apr  4 20:18:44 2026] <STEAM_0:1:558349975> Kotik: гарант ваншот
+[Sat Apr  4 20:18:46 2026] <STEAM_0:0:792217028> Pobowhite: А если 200 то нет
+[Sat Apr  4 20:18:47 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [645][sw_bmp1am]"
+[Sat Apr  4 20:18:52 2026] <STEAM_0:1:514738252> "White": // Напомню когда я с 2 своими держал вас 6-7 ебл на базе
+[Sat Apr  4 20:18:52 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [645][sw_bmp1m]"
+[Sat Apr  4 20:18:55 2026] <STEAM_0:0:792217028> Pobowhite: Как у меня сделай
+[Sat Apr  4 20:18:55 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [645][sw_bmp1p]"
+[Sat Apr  4 20:18:59 2026] <STEAM_0:1:558349975> Kotik: у меня ваншот всех
+[Sat Apr  4 20:19:00 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [645][sw_bmp2]"
+[Sat Apr  4 20:19:03 2026] <STEAM_0:1:558349975> Kotik: встань
+[Sat Apr  4 20:19:04 2026] <STEAM_0:1:455594560> gREG4IK: /ooc лезть на гору тоже не збс 'Hellhound'
+[Sat Apr  4 20:19:04 2026] <STEAM_0:1:514738252> "White": // Напомню когда я с 2 своими держал вас 6-7 ебл на базе, НЕ ЗАХОДЯ НА БАЗУ И НЕ ЗАЛЕЗАЯ НА ГОРЫ
+[Sat Apr  4 20:19:07 2026] <STEAM_0:1:558349975> Kotik: ударю раз
+[Sat Apr  4 20:19:18 2026] <STEAM_0:0:792217028> Pobowhite: да
+[Sat Apr  4 20:19:21 2026] <STEAM_0:0:792217028> Pobowhite: броня гасит
+[Sat Apr  4 20:19:29 2026] <STEAM_0:0:792217028> Pobowhite: если брони 200 то не убивает
+[Sat Apr  4 20:19:35 2026] <STEAM_0:0:792217028> Pobowhite: Если меньше или 0 то убивает
+[Sat Apr  4 20:19:44 2026] <STEAM_0:0:792217028> Pobowhite: Да
+[Sat Apr  4 20:19:45 2026] Po_rA1 has killed gREG4IK.
+[Sat Apr  4 20:19:46 2026] Dandelion has killed ★☾₳ⱤØ₦₦ł₭☽★.
+[Sat Apr  4 20:20:51 2026] <STEAM_0:0:792217028> Pobowhite: /nato Рацию единую установите, мейби?
+[Sat Apr  4 20:21:02 2026] <STEAM_0:1:514738252> "White": /nato Ни
+[Sat Apr  4 20:21:42 2026] Player "Dandelion" <STEAM_0:0:148551732> has left the server
+[Sat Apr  4 20:21:47 2026] <STEAM_0:1:923042528> Pioner: /me Показал военный билет: [Чан Ли Фу] {МЛЕЙТ} [2-я ПР] [СВ] [№20112]
+[Sat Apr  4 20:21:48 2026] Player "Discar" <STEAM_0:0:650470378> is attempting to connect.
+[Sat Apr  4 20:22:00 2026] Po_rA1 has killed Kotik.
+[Sat Apr  4 20:22:00 2026] Po_rA1 has killed Pobowhite.
+[Sat Apr  4 20:22:44 2026] Player "Discar" <STEAM_0:0:650470378> has spawned in the server
+[Sat Apr  4 20:23:36 2026] <STEAM_0:0:650470378> Discar: /ooc  Здарова
+[Sat Apr  4 20:24:08 2026] <STEAM_0:0:792217028> Pobowhite: /com You Russians are all crazy, I think the best thing for your situation is to surrender to us as prisoners of war, you fucking idiots.
+[Sat Apr  4 20:24:21 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Sat Apr  4 20:24:21 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Po_rA1.
+[Sat Apr  4 20:24:22 2026] Player "Dandelion" <STEAM_0:0:148551732> is attempting to connect.
+[Sat Apr  4 20:24:27 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "respawn Ангел"
+[Sat Apr  4 20:24:29 2026] Player "༒︎シ︎ʰᵉⁿᵗᵃⁱシ" <STEAM_0:0:851601344> has left the server
+[Sat Apr  4 20:25:25 2026] <STEAM_0:0:792217028> Pobowhite: /com I will personally keep track of the "killed".
+[Sat Apr  4 20:26:00 2026] <STEAM_0:0:792217028> Pobowhite: /com Good luck dying, idiots.
+[Sat Apr  4 20:26:02 2026] Player "Dandelion" <STEAM_0:0:148551732> has spawned in the server
+[Sat Apr  4 20:26:28 2026] Pioner has killed gREG4IK.
+[Sat Apr  4 20:26:59 2026] Player "mister_black_man" <STEAM_0:1:380562281> is attempting to connect.
+[Sat Apr  4 20:28:13 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [711][item_battery]"
+[Sat Apr  4 20:28:13 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [713][item_battery]"
+[Sat Apr  4 20:28:13 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [714][item_battery]"
+[Sat Apr  4 20:28:13 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [715][item_battery]"
+[Sat Apr  4 20:28:13 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [719][item_battery]"
+[Sat Apr  4 20:28:14 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [711][item_battery]"
+[Sat Apr  4 20:28:14 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [713][item_battery]"
+[Sat Apr  4 20:28:17 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [711][item_battery]"
+[Sat Apr  4 20:29:23 2026] "White" has killed gREG4IK.
+[Sat Apr  4 20:32:56 2026] <STEAM_0:1:558349975> Kotik: /ooc топливо можно?
+[Sat Apr  4 20:33:20 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [684][lvs_item_refuel]"
+[Sat Apr  4 20:33:39 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [704][sw_gaz2330]"
+[Sat Apr  4 20:33:46 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [703][lvs_wheeldrive_hummer_m134]"
+[Sat Apr  4 20:34:03 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [703][lvs_item_jerrycan]"
+[Sat Apr  4 20:34:15 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [684][sw_item_refuel]"
+[Sat Apr  4 20:34:25 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [703][lvs_vehicle_repair]"
+[Sat Apr  4 20:34:38 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [704][lvs_wheeldrive_hummer_m134]"
+[Sat Apr  4 20:35:09 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [705][lvs_vehicle_spammer]"
+[Sat Apr  4 20:35:11 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [704][lvs_vehicle_spammer]"
+[Sat Apr  4 20:35:19 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [705][lvs_item_ammo]"
+[Sat Apr  4 20:35:41 2026] "White" has killed Po_rA1.
+[Sat Apr  4 20:35:45 2026] "White" has killed Discar.
+[Sat Apr  4 20:35:47 2026] "White" has killed ★☾₳ⱤØ₦₦ł₭☽★.
+[Sat Apr  4 20:35:50 2026] <STEAM_0:0:887714123> Po_rA1: /ooc Заебись
+[Sat Apr  4 20:35:51 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc але блять
+[Sat Apr  4 20:36:03 2026] <STEAM_0:0:650470378> Discar: /ooc Блять кто на базу зашел?
+[Sat Apr  4 20:37:26 2026] "White" has killed Po_rA1.
+[Sat Apr  4 20:37:39 2026] Pobowhite has killed Kotik.
+[Sat Apr  4 20:37:43 2026] <STEAM_0:0:887714123> Po_rA1: /ooc Ты куда нахуй полез блять?
+[Sat Apr  4 20:37:55 2026] "White" has killed Discar.
+[Sat Apr  4 20:38:28 2026] <STEAM_0:0:792217028> Pobowhite: /ooc кого я убил то?
+[Sat Apr  4 20:38:37 2026] Player "★☾₳ⱤØ₦₦ł₭☽★" <STEAM_0:0:456016030> has left the server
+[Sat Apr  4 20:38:38 2026] <STEAM_0:0:148551732> Dandelion: /ooc Струну
+[Sat Apr  4 20:39:06 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [629][tfa_f1]"
+[Sat Apr  4 20:39:09 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [639][tfa_f1]"
+[Sat Apr  4 20:39:26 2026] Kotik has killed Kotik.
+[Sat Apr  4 20:40:30 2026] Player "Lord of the world" <STEAM_0:1:425432238> is attempting to connect.
+[Sat Apr  4 20:40:36 2026] Dandelion has killed gREG4IK.
+[Sat Apr  4 20:41:00 2026] Player "Limbo" <STEAM_0:0:791981714> is attempting to connect.
+[Sat Apr  4 20:41:27 2026] <STEAM_0:0:650470378> Discar: /ooc Грэг ТП
+[Sat Apr  4 20:41:57 2026] Player "༒︎シ︎ʰᵉⁿᵗᵃⁱシ" <STEAM_0:0:851601344> is attempting to connect.
+[Sat Apr  4 20:42:15 2026] Player "K.A.I.S.E.R." <STEAM_0:1:412637413> is attempting to connect.
+[Sat Apr  4 20:42:33 2026] Player "Lord of the world" <STEAM_0:1:425432238> has spawned in the server
+[Sat Apr  4 20:42:41 2026] Player "BloodySmile" <STEAM_0:1:54838838> is attempting to connect.
+[Sat Apr  4 20:43:06 2026] Pobowhite has killed Po_rA1.
+[Sat Apr  4 20:43:17 2026] "White" has killed THE-_-Reper.
+[Sat Apr  4 20:43:17 2026] THE-_-Reper has killed THE-_-Reper.
+[Sat Apr  4 20:43:31 2026] "White" has killed THE-_-Reper.
+[Sat Apr  4 20:43:41 2026] Player "༒︎シ︎ʰᵉⁿᵗᵃⁱシ" <STEAM_0:0:851601344> has spawned in the server
+[Sat Apr  4 20:43:45 2026] <STEAM_0:1:923042528> Pioner: /me Показал военный билет: [Чан Ли Фу] {МЛЕЙТ} [2-я ПР] [СВ] [№20112]
+[Sat Apr  4 20:43:47 2026] <STEAM_0:1:923042528> Pioner: /me перебентовал поврежденную часть тела
+[Sat Apr  4 20:43:53 2026] Player "Limbo" <STEAM_0:0:791981714> has spawned in the server
+[Sat Apr  4 20:43:55 2026] <STEAM_0:1:558349975> Kotik: /ooc и где РФ?
+[Sat Apr  4 20:44:11 2026] <STEAM_0:0:650470378> Discar: /ooc Струна а ты думаешь где мы?
+[Sat Apr  4 20:44:40 2026] <STEAM_0:0:148551732> Dandelion: /ooc Плачете о том как вас в городе ебут? Учитывая как нас на базе зажимали
+[Sat Apr  4 20:45:01 2026] <STEAM_0:0:887714123> Po_rA1: /ooc Мы к вам на базу не залетали
+[Sat Apr  4 20:45:12 2026] <STEAM_0:0:792217028> Pobowhite: /ooc За то хуярили по нам_
+[Sat Apr  4 20:45:14 2026] <STEAM_0:0:148551732> Dandelion: /ooc Один хуй кемпели
+[Sat Apr  4 20:45:14 2026] Player "K.A.I.S.E.R." <STEAM_0:1:412637413> has spawned in the server
+[Sat Apr  4 20:45:19 2026] <STEAM_0:1:923042528> Pioner: откуда у тебя at4
+[Sat Apr  4 20:45:30 2026] <STEAM_0:1:923042528> Pioner: просто я хз где брать его
+[Sat Apr  4 20:45:53 2026] Player "BloodySmile" <STEAM_0:1:54838838> has spawned in the server
+[Sat Apr  4 20:47:31 2026] <STEAM_0:1:54838838> BloodySmile: !incov
+[Sat Apr  4 20:47:41 2026] <STEAM_0:1:54838838> BloodySmile ran command "invisible unknown1"
+[Sat Apr  4 20:47:50 2026] <STEAM_0:1:54838838> BloodySmile: /nouclip
+[Sat Apr  4 20:47:53 2026] <STEAM_0:1:54838838> BloodySmile ran command "noclip unknown1"
+[Sat Apr  4 20:48:08 2026] Limbo has killed Pobowhite.
+[Sat Apr  4 20:48:19 2026] <STEAM_0:1:558349975> Kotik: уже
+[Sat Apr  4 20:48:25 2026] <STEAM_0:1:558349975> Kotik: я молчу
+[Sat Apr  4 20:48:32 2026] <STEAM_0:1:558349975> Kotik: ага
+[Sat Apr  4 20:48:39 2026] <STEAM_0:1:558349975> Kotik: расскажу потом
+[Sat Apr  4 20:49:10 2026] Player ""White"" <STEAM_0:1:514738252> has left the server
+[Sat Apr  4 20:49:13 2026] Player "THE-_-Reper" <STEAM_0:1:526999954> has left the server
+[Sat Apr  4 20:49:26 2026] Player "Lord of the world" <STEAM_0:1:425432238> has left the server
+[Sat Apr  4 20:49:29 2026] <STEAM_0:0:792217028> Pobowhite: /ooc чуваку хед дал, видимо в рот попал и он схавал раз не умер
+[Sat Apr  4 20:49:43 2026] Kotik has killed Po_rA1.
+[Sat Apr  4 20:50:25 2026] Player "ghoprhd" <STEAM_0:0:453883455> is attempting to connect.
+[Sat Apr  4 20:50:30 2026] Kotik has killed Discar.
+[Sat Apr  4 20:50:37 2026] Kotik has killed Limbo.
+[Sat Apr  4 20:50:46 2026] <STEAM_0:0:650470378> Discar: /ooc блять что с интернетом сегодня
+[Sat Apr  4 20:50:58 2026] Player "david280911" <STEAM_0:1:839860057> is attempting to connect.
+[Sat Apr  4 20:51:06 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [625][lvs_wheeldrive_dabrams_m1a1]"
+[Sat Apr  4 20:51:08 2026] Kotik has killed Limbo.
+[Sat Apr  4 20:51:11 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [620][lvs_wheeldrive_nonrp_t90m]"
+[Sat Apr  4 20:51:18 2026] <STEAM_0:1:558349975> Kotik: /me забрал оружие и связал
+[Sat Apr  4 20:51:24 2026] Limbo has killed Limbo.
+[Sat Apr  4 20:51:35 2026] Po_rA1 has killed Limbo.
+[Sat Apr  4 20:51:43 2026] Player "david280911" <STEAM_0:1:839860057> has spawned in the server
+[Sat Apr  4 20:51:45 2026] Dandelion has killed Po_rA1.
+[Sat Apr  4 20:51:47 2026] Player "K.A.I.S.E.R." <STEAM_0:1:412637413> has left the server
+[Sat Apr  4 20:51:56 2026] <STEAM_0:1:558349975> Kotik: /me отрезал голову
+[Sat Apr  4 20:52:02 2026] <STEAM_0:0:791981714> Limbo: /ooc окак
+[Sat Apr  4 20:52:11 2026] <STEAM_0:0:791981714> Limbo: /ooc ты душман дохуя братан?
+[Sat Apr  4 20:52:20 2026] <STEAM_0:0:791981714> Limbo: /ooc ты душман дохуя братан?
+[Sat Apr  4 20:52:25 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [667][lvs_wheeldrive_nonrp_t90m]"
+[Sat Apr  4 20:52:28 2026] <STEAM_0:0:791981714> Limbo: /ooc ты душман дохуя братан?
+[Sat Apr  4 20:52:38 2026] <STEAM_0:1:54838838> BloodySmile spawned SWEP "Weapon [819][tfa_ins2_wpn_at4]"
+[Sat Apr  4 20:52:39 2026] <STEAM_0:1:558349975> Kotik: /ooc вы с нами также, увы
+[Sat Apr  4 20:52:40 2026] <STEAM_0:1:54838838> BloodySmile spawned SWEP "Weapon [822][tfa_ins2_wpn_at4]"
+[Sat Apr  4 20:52:42 2026] <STEAM_0:1:558349975> Kotik: /ooc не плачь
+[Sat Apr  4 20:52:46 2026] <STEAM_0:0:792217028> Pobowhite: /ooc у нас тоже есть птички
+[Sat Apr  4 20:52:51 2026] Player "ghoprhd" <STEAM_0:0:453883455> has spawned in the server
+[Sat Apr  4 20:52:54 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [684][lvs_wheeldrive_rp_t90m]"
+[Sat Apr  4 20:53:05 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [668][lvs_wheeldrive_rp_t90m]"
+[Sat Apr  4 20:53:09 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [684][lvs_wheeldrive_rp_t90m]"
+[Sat Apr  4 20:53:13 2026] <STEAM_0:0:791981714> Limbo: /ooc хэх нее погоди, головы трупам мы не отрезаем, вы не душманы и не нацики по моему пахнет НРП
+[Sat Apr  4 20:53:35 2026] Discar has killed Pioner.
+[Sat Apr  4 20:54:05 2026] <STEAM_0:0:650470378> Discar: /me достал стяжки, затем закрепил человеку на против
+[Sat Apr  4 20:54:06 2026] Dandelion has killed Po_rA1.
+[Sat Apr  4 20:54:23 2026] <STEAM_0:0:148551732> Dandelion: /ooc А кто говорил из ваших кмд, что выебут струну и голову отрежут?~
+[Sat Apr  4 20:54:33 2026] <STEAM_0:1:839860057> david280911: /me осмотор машины
+[Sat Apr  4 20:54:39 2026] <STEAM_0:0:791981714> Limbo: /ooc а я ебу?
+[Sat Apr  4 20:54:45 2026] <STEAM_0:1:558349975> Kotik: /ooc мне показать отпись от ваших бойцов?
+[Sat Apr  4 20:54:47 2026] <STEAM_0:1:839860057> david280911: -нету боеприпасов
+[Sat Apr  4 20:54:53 2026] <STEAM_0:0:148551732> Dandelion: /ooc На к ник как-то
+[Sat Apr  4 20:55:04 2026] <STEAM_0:1:839860057> david280911: /me взял патроны для бмп 3
+[Sat Apr  4 20:55:11 2026] Pobowhite has killed Limbo.
+[Sat Apr  4 20:55:21 2026] Dandelion has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Sat Apr  4 20:55:22 2026] <STEAM_0:0:791981714> Limbo: /ooс та кидай отпись
+[Sat Apr  4 20:55:23 2026] <STEAM_0:1:839860057> david280911: /rf прием беру последнюю ленту на бмп 3
+[Sat Apr  4 20:55:26 2026] <STEAM_0:0:791981714> Limbo: /ooc сука
+[Sat Apr  4 20:55:33 2026] <STEAM_0:0:792217028> Pobowhite: /ooc лежи лежи
+[Sat Apr  4 20:55:38 2026] <STEAM_0:0:791981714> Limbo: /ooc оос не с первого раза сработал
+[Sat Apr  4 20:55:39 2026] <STEAM_0:0:792217028> Pobowhite: /ooc побота тебя уложил
+[Sat Apr  4 20:55:49 2026] <STEAM_0:0:791981714> Limbo: /ooc оос не с первого раза сработал , а по поводу отписи давай покажи
+[Sat Apr  4 20:55:52 2026] <STEAM_0:0:791981714> Limbo: /ooc оос не с первого раза сработал , а по поводу отписи давай покажи
+[Sat Apr  4 20:55:59 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: не могу
+[Sat Apr  4 20:56:01 2026] Po_rA1 has killed Pobowhite.
+[Sat Apr  4 20:56:06 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: чеми
+[Sat Apr  4 20:56:13 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Limbo.
+[Sat Apr  4 20:56:13 2026] <STEAM_0:1:839860057> david280911: /rf прием взял последнии патроны для бмп 3
+[Sat Apr  4 20:56:19 2026] <STEAM_0:0:791981714> Limbo: /ooc оос не с первого раза сработал , а по поводу отписи давай покажи
+[Sat Apr  4 20:56:22 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "respawn Филатов"
+[Sat Apr  4 20:56:25 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "send Филатов"
+[Sat Apr  4 20:56:28 2026] <STEAM_0:0:792217028> Pobowhite: /ooc филатов ты с чем побежал то
+[Sat Apr  4 20:56:31 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: перезайди
+[Sat Apr  4 20:56:35 2026] <STEAM_0:1:558349975> Kotik: /ooc покажу
+[Sat Apr  4 20:56:37 2026] Kotik has killed Po_rA1.
+[Sat Apr  4 20:56:38 2026] <STEAM_0:0:887714123> Po_rA1: /ooc Это колесников быол
+[Sat Apr  4 20:56:40 2026] <STEAM_0:0:791981714> Limbo: /ooc так у меня третье лицо а первое врубить не могу, с пмом шел
+[Sat Apr  4 20:56:44 2026] <STEAM_0:0:791981714> Limbo: /ooc так у меня третье лицо а первое врубить не могу, с пмом шел
+[Sat Apr  4 20:56:49 2026] <STEAM_0:1:558349975> Kotik: /me забрал оружие и связал
+[Sat Apr  4 20:56:55 2026] <STEAM_0:0:792217028> Pobowhite: /ooc не ты, я филатова уложил и чуркой назвал, хахахах
+[Sat Apr  4 20:56:56 2026] <STEAM_0:1:558349975> Kotik: /me забрал оружие и связал
+[Sat Apr  4 20:57:05 2026] <STEAM_0:1:558349975> Kotik: /me забрал оружие и связал
+[Sat Apr  4 20:57:05 2026] Player "Discar" <STEAM_0:0:650470378> has left the server
+[Sat Apr  4 20:57:13 2026] <STEAM_0:0:887714123> Po_rA1: /ooc Поздно начал
+[Sat Apr  4 20:57:20 2026] <STEAM_0:0:791981714> Limbo: /ooc побота сам ты чурка
+[Sat Apr  4 20:57:42 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "respawn Ангел"
+[Sat Apr  4 20:57:52 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Sat Apr  4 20:57:52 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "slay Ангел"
+[Sat Apr  4 20:57:56 2026] Player "david280911" <STEAM_0:1:839860057> has left the server
+[Sat Apr  4 20:58:00 2026] Player "BloodySmile" <STEAM_0:1:54838838> has left the server
+[Sat Apr  4 20:58:47 2026] <STEAM_0:0:791981714> Limbo: /looc [dash-master] gamemodes/militaryrp/gamemode/modules/ui/cl_context.lua:80: Tried to use a NULL Panel!\n  1. SetParent - [C]:-1\n   2. v - gamemodes/militaryrp/gamemode/modules/ui/cl_context.lua:80\n    3. Run - addons/dash-master/lua/dash/libraries/hook.lua:37\n     4. unknown - gamemodes/base/gamemode/cl_spawnmenu.lua:30\n      5. unknown - lua/includes/modules/concommand.lua:54 (x19)
+[Sat Apr  4 20:59:53 2026] Kotik has killed Kotik.
+[Sat Apr  4 21:01:38 2026] <STEAM_0:0:792217028> Pobowhite: /com Russians, faggots, burn in hell, you monkeys born in Africa, who changed the color of their skin to white
+[Sat Apr  4 21:02:26 2026] Player "Limbo" <STEAM_0:0:791981714> has left the server
+[Sat Apr  4 21:03:14 2026] <STEAM_0:0:148551732> Dandelion: /com Gebt auf, ihr Russen, wir garantieren euch ein warmes Dach über dem Kopf und Essen
+[Sat Apr  4 21:03:14 2026] <STEAM_0:0:792217028> Pobowhite: /com Did you hear me?!
+[Sat Apr  4 21:03:21 2026] Player "Limbo" <STEAM_0:0:791981714> is attempting to connect.
+[Sat Apr  4 21:03:23 2026] Player "K.A.I.S.E.R." <STEAM_0:1:412637413> is attempting to connect.
+[Sat Apr  4 21:03:51 2026] Po_rA1 has killed Pioner.
+[Sat Apr  4 21:03:52 2026] Pioner has killed Pioner.
+[Sat Apr  4 21:04:08 2026] <STEAM_0:0:792217028> Pobowhite: /com Burn in hell, fiends of hell
+[Sat Apr  4 21:04:20 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [629][sw_gaz2330]"
+[Sat Apr  4 21:05:25 2026] Player "༒︎シ︎ʰᵉⁿᵗᵃⁱシ" <STEAM_0:0:851601344> has left the server
+[Sat Apr  4 21:05:59 2026] Player "K.A.I.S.E.R." <STEAM_0:1:412637413> has spawned in the server
+[Sat Apr  4 21:07:56 2026] Player "BloodySmile" <STEAM_0:1:54838838> is attempting to connect.
+[Sat Apr  4 21:09:34 2026] Player "K.A.I.S.E.R." <STEAM_0:1:412637413> has left the server
+[Sat Apr  4 21:11:22 2026] Player "BloodySmile" <STEAM_0:1:54838838> is attempting to connect.
+[Sat Apr  4 21:11:47 2026] Player "BloodySmile" <STEAM_0:1:54838838> is attempting to connect.
+[Sat Apr  4 21:12:29 2026] Player "gREG4IK" <STEAM_0:1:455594560> has left the server
+[Sat Apr  4 21:14:39 2026] <STEAM_0:0:792217028> Pobowhite: /ooc ну че вы там
+[Sat Apr  4 21:14:56 2026] <STEAM_0:0:453883455> ghoprhd: /OOC НУ КАК ЧЕ, В КПЗ СОДИМСЯ
+[Sat Apr  4 21:14:58 2026] <STEAM_0:0:887714123> Po_rA1: /l /com
+[Sat Apr  4 21:15:29 2026] Player "BloodySmile" <STEAM_0:1:54838838> has spawned in the server
+[Sat Apr  4 21:15:55 2026] Player "ghoprhd" <STEAM_0:0:453883455> has left the server
+[Sat Apr  4 21:15:55 2026] Dandelion has killed Po_rA1.
+[Sat Apr  4 21:16:02 2026] <STEAM_0:1:54838838> BloodySmile ran command "noclip unknown1"
+[Sat Apr  4 21:16:08 2026] <STEAM_0:1:54838838> BloodySmile ran command "invisible unknown1"
+[Sat Apr  4 21:16:25 2026] <STEAM_0:1:54838838> BloodySmile ran command "noclip unknown1"
+[Sat Apr  4 21:16:36 2026] <STEAM_0:1:54838838> BloodySmile: /drop 
+[Sat Apr  4 21:16:36 2026] <STEAM_0:1:54838838> BloodySmile: /drop
+[Sat Apr  4 21:17:04 2026] Pobowhite has killed Po_rA1.
+[Sat Apr  4 21:17:48 2026] Pioner has killed Po_rA1.
+[Sat Apr  4 21:17:55 2026] Player "Limbo" <STEAM_0:0:791981714> has spawned in the server
+[Sat Apr  4 21:18:46 2026] <STEAM_0:1:54838838> BloodySmile ran command "noclip unknown1"
+[Sat Apr  4 21:19:24 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [610][sw_bomb_kab500lg_v3]"
+[Sat Apr  4 21:19:28 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [610][sw_rocket_pg26_v3]"
+[Sat Apr  4 21:19:35 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [622][sw_rocket_pg26_v3]"
+[Sat Apr  4 21:19:42 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [689][sw_rocket_pg26_v3]"
+[Sat Apr  4 21:20:00 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [622][sw_rocket_pg9v_v3]"
+[Sat Apr  4 21:20:14 2026] Pobowhite has killed Po_rA1.
+[Sat Apr  4 21:20:20 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [617][sw_rocket_pg26_v3]"
+[Sat Apr  4 21:20:21 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [617][sw_rocket_pg9v_v3]"
+[Sat Apr  4 21:20:28 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [617][sw_rocket_pg9v_v3]"
+[Sat Apr  4 21:20:33 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [617][sw_rocket_pg9v_v3]"
+[Sat Apr  4 21:20:39 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [617][sw_rocket_pg9v_v3]"
+[Sat Apr  4 21:20:48 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [610][sw_rocket_pg9v_v3]"
+[Sat Apr  4 21:21:01 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [668][sw_rocket_pg9v_v3]"
+[Sat Apr  4 21:21:09 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [668][sw_rocket_pg9v_v3]"
+[Sat Apr  4 21:21:11 2026] <STEAM_0:0:887714123> Po_rA1: /rf Филатов ты где?
+[Sat Apr  4 21:21:24 2026] <STEAM_0:0:791981714> Limbo: /rf на склады ща попижу
+[Sat Apr  4 21:21:36 2026] <STEAM_0:0:887714123> Po_rA1: /rf Ща подбегу
+[Sat Apr  4 21:21:43 2026] <STEAM_0:1:54838838> BloodySmile: cl_tfa_keys_customize 0
+[Sat Apr  4 21:21:48 2026] <STEAM_0:0:887714123> Po_rA1: /rf Частота 321
+[Sat Apr  4 21:21:57 2026] <STEAM_0:0:887714123> Po_rA1: /rf Частота 321
+[Sat Apr  4 21:22:11 2026] <STEAM_0:1:54838838> BloodySmile ran command "noclip unknown1"
+[Sat Apr  4 21:22:36 2026] <STEAM_0:1:54838838> BloodySmile ran command "stripweapons unknown1"
+[Sat Apr  4 21:22:41 2026] <STEAM_0:1:54838838> BloodySmile ran command "noclip unknown1"
+[Sat Apr  4 21:23:25 2026] Pioner has killed Po_rA1.
+[Sat Apr  4 21:23:31 2026] <STEAM_0:1:54838838> BloodySmile ran command "respawn unknown1"
+[Sat Apr  4 21:23:37 2026] <STEAM_0:1:54838838> BloodySmile ran command "invisible unknown1"
+[Sat Apr  4 21:23:39 2026] <STEAM_0:1:54838838> BloodySmile: /noclip
+[Sat Apr  4 21:23:42 2026] <STEAM_0:1:54838838> BloodySmile ran command "noclip unknown1"
+[Sat Apr  4 21:24:10 2026] Pobowhite has killed BloodySmile.
+[Sat Apr  4 21:24:17 2026] <STEAM_0:1:54838838> BloodySmile ran command "noclip unknown1"
+[Sat Apr  4 21:24:28 2026] <STEAM_0:1:54838838> BloodySmile ran command "respawn unknown1"
+[Sat Apr  4 21:24:31 2026] <STEAM_0:1:54838838> BloodySmile ran command "noclip unknown1"
+[Sat Apr  4 21:24:35 2026] <STEAM_0:1:54838838> BloodySmile ran command "invisible unknown1"
+[Sat Apr  4 21:25:05 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [656][sw_mine_pfm1_v3]"
+[Sat Apr  4 21:25:07 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [672][sw_mine_pfm1_v3]"
+[Sat Apr  4 21:25:17 2026] BloodySmile has killed Pioner.
+[Sat Apr  4 21:25:41 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [637][sw_mine_pfm1_v3]"
+[Sat Apr  4 21:25:48 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [678][sw_mine_pfm1_v3]"
+[Sat Apr  4 21:25:55 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [681][sw_mine_pfm1_v3]"
+[Sat Apr  4 21:26:40 2026] worldspawn has killed Pioner.
+[Sat Apr  4 21:26:41 2026] Player "★☾₳ⱤØ₦₦ł₭☽★" <STEAM_0:0:456016030> is attempting to connect.
+[Sat Apr  4 21:26:55 2026] <STEAM_0:1:54838838> BloodySmile: /me ILDU | 'Svarshik' showed military warrant card: [Alex Murphy]|[MSGT]|[ILDU]|[CU]
+[Sat Apr  4 21:27:15 2026] Player "david280911" <STEAM_0:1:839860057> is attempting to connect.
+[Sat Apr  4 21:27:34 2026] Player "★☾₳ⱤØ₦₦ł₭☽★" <STEAM_0:0:456016030> has spawned in the server
+[Sat Apr  4 21:28:02 2026] Player "david280911" <STEAM_0:1:839860057> has spawned in the server
+[Sat Apr  4 21:28:45 2026] Po_rA1 has killed Dandelion.
+[Sat Apr  4 21:28:55 2026] Po_rA1 has killed Pobowhite.
+[Sat Apr  4 21:29:06 2026] <STEAM_0:0:887714123> Po_rA1: /me Связал и забрал оружие
+[Sat Apr  4 21:29:25 2026] Pobowhite has killed Pobowhite.
+[Sat Apr  4 21:29:56 2026] <STEAM_0:1:839860057> david280911: на 2 место это оператор
+[Sat Apr  4 21:32:20 2026] <STEAM_0:1:923042528> Pioner: не хотел
+[Sat Apr  4 21:32:34 2026] <STEAM_0:1:923042528> Pioner: я подумаю
+[Sat Apr  4 21:33:03 2026] <STEAM_0:1:558349975> Kotik: /nato 124 наша частота
+[Sat Apr  4 21:33:27 2026] ★☾₳ⱤØ₦₦ł₭☽★ has killed Kotik.
+[Sat Apr  4 21:33:58 2026] Player "david280911" <STEAM_0:1:839860057> has left the server
+[Sat Apr  4 21:34:47 2026] <STEAM_0:1:54838838> BloodySmile ran command "noclip unknown1"
+[Sat Apr  4 21:34:53 2026] Player "berateren965" <STEAM_0:1:892407439> is attempting to connect.
+[Sat Apr  4 21:35:09 2026] <STEAM_0:0:887714123> Po_rA1: /me Ударил
+[Sat Apr  4 21:35:27 2026] <STEAM_0:0:887714123> Po_rA1: /me Ударил в живот
+[Sat Apr  4 21:36:08 2026] Player "Gray Blackwell" <STEAM_0:1:410319943> is attempting to connect.
+[Sat Apr  4 21:37:05 2026] Player "ghoprhd" <STEAM_0:0:453883455> is attempting to connect.
+[Sat Apr  4 21:37:39 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /com Многоуважаемые американцы! Мы = представительство ВС РФ словили вашего солдата Спецназа. Именно поэтому требуем выкуп за него. Если вы согласны - отпишите, мы дадим канал рации.
+[Sat Apr  4 21:37:57 2026] <STEAM_0:1:558349975> Kotik: /con Ну удивите РЧ
+[Sat Apr  4 21:38:04 2026] <STEAM_0:1:558349975> Kotik: /com Ну удивите РЧ
+[Sat Apr  4 21:38:06 2026] <STEAM_0:0:792217028> Pobowhite: /me раскусил ампулу во рту
+[Sat Apr  4 21:38:25 2026] <STEAM_0:1:54838838> BloodySmile ran command "noclip unknown1"
+[Sat Apr  4 21:38:50 2026] Player "Worshiper of God" <STEAM_0:0:74235942> is attempting to connect.
+[Sat Apr  4 21:38:52 2026] <STEAM_0:1:558349975> Kotik ran command "pm unk жив?"
+[Sat Apr  4 21:38:56 2026] <STEAM_0:0:792217028> Pobowhite: /try просрочена ли таблетка?
+[Sat Apr  4 21:39:13 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /com Вы уверены?
+[Sat Apr  4 21:39:14 2026] <STEAM_0:1:54838838> BloodySmile ran command "pm Kotik da"
+[Sat Apr  4 21:39:21 2026] Player "Worshiper of God" <STEAM_0:0:74235942> has spawned in the server
+[Sat Apr  4 21:39:24 2026] <STEAM_0:1:558349975> Kotik ran command "pm unk Мы можем сделать спасательную операцию?"
+[Sat Apr  4 21:39:29 2026] <STEAM_0:0:887714123> Po_rA1: /me Достал нож из ножны
+[Sat Apr  4 21:39:34 2026] <STEAM_0:0:791981714> Limbo: /try накончал в глаза пленного
+[Sat Apr  4 21:39:37 2026] Player "ghoprhd" <STEAM_0:0:453883455> has spawned in the server
+[Sat Apr  4 21:39:45 2026] <STEAM_0:1:54838838> BloodySmile ran command "pm Kotik хмммм"
+[Sat Apr  4 21:39:47 2026] <STEAM_0:0:887714123> Po_rA1: /roll Обоссал пленного
+[Sat Apr  4 21:39:54 2026] <STEAM_0:1:54838838> BloodySmile ran command "pm Kotik если ток по стелсу"
+[Sat Apr  4 21:39:54 2026] <STEAM_0:0:791981714> Limbo: /dice
+[Sat Apr  4 21:39:59 2026] <STEAM_0:1:558349975> Kotik ran command "pm unk Базар"
+[Sat Apr  4 21:40:01 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /com На ответ даём 2 минуты
+[Sat Apr  4 21:40:01 2026] <STEAM_0:0:887714123> Po_rA1: /me Передал нож
+[Sat Apr  4 21:41:10 2026] <STEAM_0:1:558349975> Kotik: /com Если запросил то да
+[Sat Apr  4 21:42:03 2026] Player "Gray Blackwell" <STEAM_0:1:410319943> has spawned in the server
+[Sat Apr  4 21:42:21 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /rf Время вышло, мы идём напихивать вашему новобранцу во все дырки, а затем сделаем из него беляши и отпрвим вам на базу
+[Sat Apr  4 21:42:29 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /com Время вышло, мы идём напихивать вашему новобранцу\n во все дырки, а затем сделаем из него беляши и отпрвим вам на базу
+[Sat Apr  4 21:42:44 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /com Время вышло, мы идём напихивать вашему новобранцу\n во все дырки, а затем сделаем из него беляши и отпрвим вам на базу
+[Sat Apr  4 21:42:55 2026] <STEAM_0:1:558349975> Kotik: /ooc АЛЕ Я ЗАПРОСИЛ РЧ К СЛОВУ
+[Sat Apr  4 21:42:56 2026] <STEAM_0:0:792217028> Pobowhite: Ich kann dich nicht hören
+[Sat Apr  4 21:43:03 2026] <STEAM_0:0:792217028> Pobowhite: Auf Deutsch
+[Sat Apr  4 21:43:04 2026] <STEAM_0:1:54838838> BloodySmile ran command "goto Jnecov"
+[Sat Apr  4 21:43:22 2026] <STEAM_0:0:792217028> Pobowhite: Was?
+[Sat Apr  4 21:43:28 2026] <STEAM_0:0:792217028> Pobowhite: Machen Sie einen Deal
+[Sat Apr  4 21:43:33 2026] <STEAM_0:0:792217028> Pobowhite: Ich höre dir zu.
+[Sat Apr  4 21:43:35 2026] <STEAM_0:0:791981714> Limbo: /com Рч 567
+[Sat Apr  4 21:43:44 2026] <STEAM_0:0:792217028> Pobowhite: Ich verstehe Sie nicht
+[Sat Apr  4 21:43:57 2026] <STEAM_0:0:792217028> Pobowhite: Meine Sprache ist dominant
+[Sat Apr  4 21:44:09 2026] Kotik has killed Limbo.
+[Sat Apr  4 21:44:13 2026] <STEAM_0:0:792217028> Pobowhite: Ich verstehe Sie nicht
+[Sat Apr  4 21:44:20 2026] <STEAM_0:0:791981714> Limbo: /ooc а нахуя меня сняли нахуй?
+[Sat Apr  4 21:44:27 2026] <STEAM_0:0:792217028> Pobowhite: Stoppt diesen Zirkus
+[Sat Apr  4 21:44:27 2026] <STEAM_0:0:791981714> Limbo: /rf режьте его как свинью
+[Sat Apr  4 21:44:31 2026] <STEAM_0:1:54838838> BloodySmile: /ooc всё гуд
+[Sat Apr  4 21:44:34 2026] <STEAM_0:0:791981714> Limbo: /rf режьте его как свинью
+[Sat Apr  4 21:44:38 2026] <STEAM_0:0:791981714> Limbo: /rf режьте его как свинью
+[Sat Apr  4 21:44:42 2026] <STEAM_0:0:791981714> Limbo: /rf режьте его как свинью
+[Sat Apr  4 21:44:53 2026] <STEAM_0:0:792217028> Pobowhite: /me поднял балаклаву
+[Sat Apr  4 21:45:03 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: здравия громов
+[Sat Apr  4 21:45:04 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [684][prop_physics] (models/props_building_details/Storefront_Template001a_Bars.mdl)"
+[Sat Apr  4 21:45:07 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: как дела?
+[Sat Apr  4 21:45:10 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [685][prop_physics] (models/props_building_details/Storefront_Template001a_Bars.mdl)"
+[Sat Apr  4 21:45:13 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /rf не наглей
+[Sat Apr  4 21:45:16 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /rf филей
+[Sat Apr  4 21:45:19 2026] Kotik has killed ★☾₳ⱤØ₦₦ł₭☽★.
+[Sat Apr  4 21:45:27 2026] Kotik has killed ghoprhd.
+[Sat Apr  4 21:45:27 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc АЛЛЕ БЛЯТЬ КТО МЕНЯ СНЯЛ
+[Sat Apr  4 21:45:38 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc АЛЛО БЛЯТЬ ДЕГЕНЕРАТ
+[Sat Apr  4 21:46:06 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc АЛЛЕ БЛЯТЬ КТО НА БАЗЕ НАС СНИМАЕТ
+[Sat Apr  4 21:46:14 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: убери
+[Sat Apr  4 21:46:25 2026] <STEAM_0:0:792217028> Pobowhite: Du solltest dich verstecken
+[Sat Apr  4 21:46:35 2026] Po_rA1 has killed Pobowhite.
+[Sat Apr  4 21:46:40 2026] Po_rA1 has killed Kotik.
+[Sat Apr  4 21:46:48 2026] Dandelion has killed Po_rA1.
+[Sat Apr  4 21:47:04 2026] <STEAM_0:1:558349975> Kotik ran command "pm unk ЗАСТРЯЛ"
+[Sat Apr  4 21:47:31 2026] Kotik has killed Limbo.
+[Sat Apr  4 21:47:35 2026] <STEAM_0:0:792217028> Pobowhite: /ooc ебздец вы конечно
+[Sat Apr  4 21:47:38 2026] <STEAM_0:0:791981714> Limbo: /ooc вы чо наделали
+[Sat Apr  4 21:47:45 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc алле блять что за хуйня у нас на бзе
+[Sat Apr  4 21:47:53 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc как еблан начал стрельбу?
+[Sat Apr  4 21:48:00 2026] Player "Limbo" <STEAM_0:0:791981714> has left the server
+[Sat Apr  4 21:48:03 2026] <STEAM_0:0:453883455> ghoprhd: /ooc нехуй нападать было пендосы
+[Sat Apr  4 21:48:26 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc это пизда, я грегу пишу
+[Sat Apr  4 21:48:33 2026] <STEAM_0:0:792217028> Pobowhite: /ooc аче
+[Sat Apr  4 21:49:09 2026] <STEAM_0:0:792217028> Pobowhite: /ooc что называется рейдом, а что диверсией
+[Sat Apr  4 21:49:13 2026] <STEAM_0:0:792217028> Pobowhite: /ooc подумайте
+[Sat Apr  4 21:49:17 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc этО РР
+[Sat Apr  4 21:49:20 2026] <STEAM_0:0:887714123> Po_rA1: /ooc а че за астрал?
+[Sat Apr  4 21:49:22 2026] <STEAM_0:1:558349975> Kotik: /ooc НЕ РР
+[Sat Apr  4 21:49:32 2026] <STEAM_0:0:792217028> Pobowhite: /ooc что за рр?
+[Sat Apr  4 21:49:41 2026] <STEAM_0:1:54838838> BloodySmile: /ooc диверсия не удалась
+[Sat Apr  4 21:49:46 2026] <STEAM_0:0:792217028> Pobowhite: /ooc это не рейд
+[Sat Apr  4 21:49:49 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc Алле блять, какая нахер диверсия?
+[Sat Apr  4 21:50:00 2026] <STEAM_0:1:558349975> Kotik: /ooc ну все не плачь~
+[Sat Apr  4 21:50:16 2026] <STEAM_0:0:792217028> Pobowhite: /ooc рейд, это когда обьявляют о том что будет, а диверсяи когда нет, дивресия может быть одобрено без оглашения другой стороне
+[Sat Apr  4 21:50:26 2026] <STEAM_0:0:792217028> Pobowhite: /ooc пишу как сын бляди
+[Sat Apr  4 21:50:47 2026] <STEAM_0:1:54838838> BloodySmile: /ooc сори думал норм всё будет( прошу прощение
+[Sat Apr  4 21:51:00 2026] <STEAM_0:0:792217028> Pobowhite: /ooc разницу знать надо, ханоев тоже
+[Sat Apr  4 21:51:11 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [829][lvs_item_compressor]"
+[Sat Apr  4 21:51:24 2026] <STEAM_0:0:74235942> Worshiper of God: // а че не рп событие что ли? Это же прикольно когда вас в тихоря снимают
+[Sat Apr  4 21:51:37 2026] <STEAM_0:0:74235942> Worshiper of God: // и крадут заложника нужно было лучше охранять базу
+[Sat Apr  4 21:51:49 2026] <STEAM_0:0:74235942> Worshiper of God: // и крадут заложника нужно было лучше охранять базу
+[Sat Apr  4 21:52:01 2026] <STEAM_0:0:792217028> Pobowhite: /ooc может быть и рп, но когда тебя отвлекают от того что-бы издеватся над пленным, это конечно чуть чуть раздражает, аххахаха
+[Sat Apr  4 21:52:48 2026] <STEAM_0:1:410319943> Gray Blackwell: М?
+[Sat Apr  4 21:53:02 2026] <STEAM_0:1:54838838> BloodySmile: /ooc у вас тут свежое мясо для еб.....
+[Sat Apr  4 21:53:12 2026] <STEAM_0:1:54838838> BloodySmile: /ooc рф
+[Sat Apr  4 21:53:16 2026] <STEAM_0:1:54838838> BloodySmile: /ooc рф
+[Sat Apr  4 21:53:22 2026] <STEAM_0:1:54838838> BloodySmile: /ooc рф
+[Sat Apr  4 21:53:24 2026] <STEAM_0:1:54838838> BloodySmile: /ooc рф
+[Sat Apr  4 21:53:25 2026] <STEAM_0:1:54838838> BloodySmile: /ooc рф
+[Sat Apr  4 21:53:25 2026] <STEAM_0:0:792217028> Pobowhite: /OOC ептить, кто такой неизвестный?
+[Sat Apr  4 21:53:27 2026] <STEAM_0:0:792217028> Pobowhite: а
+[Sat Apr  4 21:53:30 2026] <STEAM_0:1:54838838> BloodySmile: /ooc рф
+[Sat Apr  4 21:53:39 2026] <STEAM_0:1:410319943> Gray Blackwell: Здравия желаю
+[Sat Apr  4 21:53:50 2026] <STEAM_0:1:410319943> Gray Blackwell: Гутен так
+[Sat Apr  4 21:54:07 2026] <STEAM_0:0:792217028> Pobowhite: /ooc можешь на рф дать погонять чисто опробывать ощущения боли?
+[Sat Apr  4 21:54:51 2026] <STEAM_0:0:792217028> Pobowhite: /ooc я щас в прайме
+[Sat Apr  4 21:55:02 2026] <STEAM_0:1:54838838> BloodySmile: /ooc нет
+[Sat Apr  4 21:55:06 2026] <STEAM_0:0:792217028> Pobowhite: /ooc не в прайме?
+[Sat Apr  4 21:55:06 2026] <STEAM_0:1:54838838> BloodySmile: /ooc ток перевод
+[Sat Apr  4 21:55:14 2026] <STEAM_0:0:792217028> Pobowhite: /ooc не в прайме?
+[Sat Apr  4 21:55:40 2026] ghoprhd has killed Worshiper of God.
+[Sat Apr  4 21:56:21 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [836][lvs_wheeldrive_kamazfuel]"
+[Sat Apr  4 21:56:23 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [862][lvs_wheeldrive_kamazrepair]"
+[Sat Apr  4 21:56:25 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [836][lvs_wheeldrive_kamaztroop]"
+[Sat Apr  4 21:56:28 2026] <STEAM_0:1:410319943> Gray Blackwell: Я даже не знаю...
+[Sat Apr  4 21:57:06 2026] <STEAM_0:1:410319943> Gray Blackwell: Бить по всем?
+[Sat Apr  4 21:57:42 2026] <STEAM_0:0:792217028> Pobowhite: :brain:
+[Sat Apr  4 21:59:27 2026] <STEAM_0:1:410319943> Gray Blackwell: Пайп, ты в машину залесь
+[Sat Apr  4 21:59:51 2026] <STEAM_0:1:410319943> Gray Blackwell: смотри чтоб пуля не прилетела тогда ведь мед кит не взять
+[Sat Apr  4 22:01:10 2026] <STEAM_0:1:558349975> Kotik: /ooc ПОМОГИТЕ АДМИНЫ
+[Sat Apr  4 22:01:37 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [685][lvs_wheeldrive_hummer]"
+[Sat Apr  4 22:01:47 2026] <STEAM_0:1:54838838> BloodySmile used tool "remover"
+[Sat Apr  4 22:02:10 2026] <STEAM_0:1:54838838> BloodySmile ran command "goto Колесников"
+[Sat Apr  4 22:02:14 2026] <STEAM_0:0:792217028> Pobowhite: 124
+[Sat Apr  4 22:02:15 2026] <STEAM_0:0:792217028> Pobowhite: ф2
+[Sat Apr  4 22:02:18 2026] <STEAM_0:0:792217028> Pobowhite: ф2
+[Sat Apr  4 22:04:18 2026] worldspawn has killed Pobowhite.
+[Sat Apr  4 22:04:47 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [759][sw_rocket_pg9v_v3]"
+[Sat Apr  4 22:04:51 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [759][sw_rocket_pg9v_v3]"
+[Sat Apr  4 22:06:07 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [792][npc_citizen]"
+[Sat Apr  4 22:06:09 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [797][npc_combine_s]"
+[Sat Apr  4 22:06:14 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Sat Apr  4 22:06:14 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [792][npc_combine_s]"
+[Sat Apr  4 22:06:15 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Sat Apr  4 22:06:15 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [798][npc_combine_s]"
+[Sat Apr  4 22:06:17 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Sat Apr  4 22:06:17 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [798][npc_combine_s]"
+[Sat Apr  4 22:06:20 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Sat Apr  4 22:06:20 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [759][npc_combine_s]"
+[Sat Apr  4 22:06:22 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Sat Apr  4 22:06:22 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [759][npc_combine_s]"
+[Sat Apr  4 22:06:23 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Sat Apr  4 22:06:23 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [797][npc_combine_s]"
+[Sat Apr  4 22:06:23 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Sat Apr  4 22:06:23 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [800][npc_combine_s]"
+[Sat Apr  4 22:06:26 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Sat Apr  4 22:06:26 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [696][npc_combine_s]"
+[Sat Apr  4 22:06:28 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Sat Apr  4 22:06:28 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [789][npc_combine_s]"
+[Sat Apr  4 22:06:29 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Sat Apr  4 22:06:29 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [804][npc_combine_s]"
+[Sat Apr  4 22:06:34 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Sat Apr  4 22:06:34 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [684][npc_combine_s]"
+[Sat Apr  4 22:06:36 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Sat Apr  4 22:06:36 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [809][npc_combine_s]"
+[Sat Apr  4 22:06:37 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Sat Apr  4 22:06:37 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [812][npc_combine_s]"
+[Sat Apr  4 22:06:43 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Sat Apr  4 22:06:43 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [819][npc_combine_s]"
+[Sat Apr  4 22:06:43 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Sat Apr  4 22:06:43 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [818][npc_combine_s]"
+[Sat Apr  4 22:06:44 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Sat Apr  4 22:06:44 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [823][npc_combine_s]"
+[Sat Apr  4 22:06:45 2026] <STEAM_0:1:410319943> Gray Blackwell: /r С города стрельба
+[Sat Apr  4 22:06:47 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Sat Apr  4 22:06:47 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [826][npc_combine_s]"
+[Sat Apr  4 22:06:51 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Sat Apr  4 22:06:51 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [698][npc_combine_s]"
+[Sat Apr  4 22:06:51 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Sat Apr  4 22:06:51 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [848][npc_combine_s]"
+[Sat Apr  4 22:06:52 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Sat Apr  4 22:06:52 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [877][npc_combine_s]"
+[Sat Apr  4 22:06:53 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Sat Apr  4 22:06:53 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [883][npc_combine_s]"
+[Sat Apr  4 22:06:53 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Sat Apr  4 22:06:53 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [886][npc_combine_s]"
+[Sat Apr  4 22:06:54 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Sat Apr  4 22:06:54 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [889][npc_combine_s]"
+[Sat Apr  4 22:06:55 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Sat Apr  4 22:06:55 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [892][npc_combine_s]"
+[Sat Apr  4 22:06:55 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Sat Apr  4 22:06:55 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [895][npc_combine_s]"
+[Sat Apr  4 22:06:55 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Sat Apr  4 22:06:55 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [898][npc_combine_s]"
+[Sat Apr  4 22:06:57 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Sat Apr  4 22:06:57 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [901][npc_combine_s]"
+[Sat Apr  4 22:06:57 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Sat Apr  4 22:06:57 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [904][npc_combine_s]"
+[Sat Apr  4 22:07:01 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Sat Apr  4 22:07:01 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [832][npc_combine_s]"
+[Sat Apr  4 22:07:01 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Sat Apr  4 22:07:01 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [896][npc_combine_s]"
+[Sat Apr  4 22:07:18 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Sat Apr  4 22:07:18 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [909][npc_combine_s]"
+[Sat Apr  4 22:07:19 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Sat Apr  4 22:07:19 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [914][npc_combine_s]"
+[Sat Apr  4 22:07:21 2026] Player "Pobowhite" <STEAM_0:0:792217028> has left the server
+[Sat Apr  4 22:08:27 2026] npc_combine_s has killed Gray Blackwell.
+[Sat Apr  4 22:08:45 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [608][npc_combine_s]"
+[Sat Apr  4 22:08:51 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Sat Apr  4 22:08:51 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [669][npc_combine_s]"
+[Sat Apr  4 22:08:51 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Sat Apr  4 22:08:51 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [696][npc_combine_s]"
+[Sat Apr  4 22:08:51 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Sat Apr  4 22:08:51 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [758][npc_combine_s]"
+[Sat Apr  4 22:08:51 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Sat Apr  4 22:08:51 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [772][npc_combine_s]"
+[Sat Apr  4 22:08:51 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Sat Apr  4 22:08:51 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [775][npc_combine_s]"
+[Sat Apr  4 22:08:52 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Sat Apr  4 22:08:52 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [791][npc_combine_s]"
+[Sat Apr  4 22:09:08 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Sat Apr  4 22:09:08 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [620][npc_combine_s]"
+[Sat Apr  4 22:09:08 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Sat Apr  4 22:09:08 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [698][npc_combine_s]"
+[Sat Apr  4 22:10:07 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [605][sw_mine_pfm1_v3]"
+[Sat Apr  4 22:10:10 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [607][sw_mine_pfm1_v3]"
+[Sat Apr  4 22:10:13 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [620][sw_mine_pfm1_v3]"
+[Sat Apr  4 22:10:20 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [895][sw_mine_pfm1_v3]"
+[Sat Apr  4 22:10:21 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [896][sw_mine_pfm1_v3]"
+[Sat Apr  4 22:10:30 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [902][sw_mine_pfm1_v3]"
+[Sat Apr  4 22:10:32 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [903][sw_mine_pfm1_v3]"
+[Sat Apr  4 22:10:44 2026] BloodySmile has killed Pioner.
+[Sat Apr  4 22:10:46 2026] BloodySmile has killed Dandelion.
+[Sat Apr  4 22:11:10 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [693][sw_mine_pfm1_v3]"
+[Sat Apr  4 22:11:10 2026] Player "Pobowhite" <STEAM_0:0:792217028> is attempting to connect.
+[Sat Apr  4 22:11:14 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [903][sw_mine_pfm1_v3]"
+[Sat Apr  4 22:11:18 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [904][sw_mine_pfm1_v3]"
+[Sat Apr  4 22:11:23 2026] BloodySmile has killed Kotik.
+[Sat Apr  4 22:11:26 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [607][sw_mine_pfm1_v3]"
+[Sat Apr  4 22:11:32 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [610][sw_mine_pfm1_v3]"
+[Sat Apr  4 22:11:43 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc Админ, теп к нам
+[Sat Apr  4 22:11:56 2026] <STEAM_0:1:54838838> BloodySmile ran command "goto Ханоев"
+[Sat Apr  4 22:12:43 2026] Player "Pobowhite" <STEAM_0:0:792217028> has spawned in the server
+[Sat Apr  4 22:15:24 2026] <STEAM_0:1:410319943> Gray Blackwell: Вражеская машина ездила по горе на против
+[Sat Apr  4 22:17:41 2026] Worshiper of God has killed Kotik.
+[Sat Apr  4 22:18:51 2026] Worshiper of God has killed Pioner.
+[Sat Apr  4 22:19:57 2026] <STEAM_0:0:792217028> Pobowhite: /me Показал удостоверение личности в У/Л: [5684] Поботников Б.В. | Подполко
+[Sat Apr  4 22:20:02 2026] Po_rA1 has killed Kotik.
+[Sat Apr  4 22:20:14 2026] Gray Blackwell has killed ★☾₳ⱤØ₦₦ł₭☽★.
+[Sat Apr  4 22:20:15 2026] Worshiper of God has killed Dandelion.
+[Sat Apr  4 22:20:19 2026] <STEAM_0:0:887714123> Po_rA1: /me Связал и забрал оружие
+[Sat Apr  4 22:20:21 2026] Worshiper of God has killed Gray Blackwell.
+[Sat Apr  4 22:20:41 2026] <STEAM_0:0:887714123> Po_rA1: /me Связал и забрал оружие
+[Sat Apr  4 22:21:23 2026] Pioner has killed Po_rA1.
+[Sat Apr  4 22:21:24 2026] <STEAM_0:1:410319943> Gray Blackwell: Was Sie von mir wollen, bin ich nur ein Mediziner!
+[Sat Apr  4 22:21:32 2026] <STEAM_0:1:410319943> Gray Blackwell: Was Sie von mir wollen, bin ich nur ein Mediziner!
+[Sat Apr  4 22:21:34 2026] Pioner has killed Worshiper of God.
+[Sat Apr  4 22:21:39 2026] <STEAM_0:0:887714123> Po_rA1: /ooc Это че за пизда?
+[Sat Apr  4 22:23:17 2026] <STEAM_0:1:410319943> Gray Blackwell: Was Sie von mir wollen, bin ich nur ein Mediziner!
+[Sat Apr  4 22:23:20 2026] <STEAM_0:1:54838838> BloodySmile: /drop 
+[Sat Apr  4 22:23:20 2026] <STEAM_0:1:54838838> BloodySmile: /drop
+[Sat Apr  4 22:23:33 2026] <STEAM_0:1:54838838> BloodySmile spawned SWEP "Weapon [692][tfa_ins2_barrett_m98_bravo]"
+[Sat Apr  4 22:23:34 2026] <STEAM_0:1:54838838> BloodySmile spawned SWEP "Weapon [897][tfa_ins2_barrett_m98_bravo]"
+[Sat Apr  4 22:23:37 2026] <STEAM_0:1:54838838> BloodySmile spawned SWEP "Weapon [897][tfa_ins2_barrett_m98_bravo]"
+[Sat Apr  4 22:23:37 2026] <STEAM_0:1:54838838> BloodySmile spawned SWEP "Weapon [898][tfa_ins2_barrett_m98_bravo]"
+[Sat Apr  4 22:23:37 2026] <STEAM_0:1:54838838> BloodySmile spawned SWEP "Weapon [899][tfa_ins2_barrett_m98_bravo]"
+[Sat Apr  4 22:23:37 2026] <STEAM_0:1:54838838> BloodySmile spawned SWEP "Weapon [900][tfa_ins2_barrett_m98_bravo]"
+[Sat Apr  4 22:23:37 2026] <STEAM_0:1:54838838> BloodySmile spawned SWEP "Weapon [901][tfa_ins2_barrett_m98_bravo]"
+[Sat Apr  4 22:23:40 2026] Player "Worshiper of God" <STEAM_0:0:74235942> has left the server
+[Sat Apr  4 22:23:51 2026] <STEAM_0:1:410319943> Gray Blackwell: /looc тебя плохо слышно...
+[Sat Apr  4 22:24:00 2026] Player "david280911" <STEAM_0:1:839860057> is attempting to connect.
+[Sat Apr  4 22:24:00 2026] Dandelion has killed Po_rA1.
+[Sat Apr  4 22:24:41 2026] Pioner has killed ★☾₳ⱤØ₦₦ł₭☽★.
+[Sat Apr  4 22:24:52 2026] Player "david280911" <STEAM_0:1:839860057> has spawned in the server
+[Sat Apr  4 22:25:03 2026] Player "Worshiper of God" <STEAM_0:0:74235942> is attempting to connect.
+[Sat Apr  4 22:25:38 2026] Po_rA1 has killed Pobowhite.
+[Sat Apr  4 22:25:40 2026] Player "Worshiper of God" <STEAM_0:0:74235942> has spawned in the server
+[Sat Apr  4 22:25:55 2026] <STEAM_0:0:887714123> Po_rA1: /ooc Это че за пизда?
+[Sat Apr  4 22:26:17 2026] <STEAM_0:1:410319943> Gray Blackwell: /ooc Взяли медика в плен :3
+[Sat Apr  4 22:26:38 2026] Pobowhite has killed ★☾₳ⱤØ₦₦ł₭☽★.
+[Sat Apr  4 22:26:54 2026] <STEAM_0:1:839860057> david280911: я мл сержант
+[Sat Apr  4 22:27:01 2026] <STEAM_0:1:839860057> david280911: ты че рядик
+[Sat Apr  4 22:27:13 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc А чо за хуйня. Почему они могут в наш тигр, а я в их хамвей нет
+[Sat Apr  4 22:27:29 2026] <STEAM_0:1:410319943> Gray Blackwell: /ooc у нас есть хамвей живой?
+[Sat Apr  4 22:27:34 2026] <STEAM_0:0:792217028> Pobowhite: /ooc Я ебу что ли? что то машина что эта
+[Sat Apr  4 22:27:54 2026] Player "impotent" <STEAM_0:1:425612974> is attempting to connect.
+[Sat Apr  4 22:27:59 2026] <STEAM_0:0:887714123> Po_rA1: /rf SOS я в плену
+[Sat Apr  4 22:28:12 2026] <STEAM_0:1:839860057> david280911: /rf щас
+[Sat Apr  4 22:28:13 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /rf каплю с цианидом крч
+[Sat Apr  4 22:28:50 2026] <STEAM_0:1:410319943> Gray Blackwell: /Looc М?
+[Sat Apr  4 22:28:56 2026] <STEAM_0:0:887714123> Po_rA1: /rf Ребят говорите что у вас есть пленный
+[Sat Apr  4 22:29:09 2026] <STEAM_0:1:410319943> Gray Blackwell: /looc взяли просто закинули... медика в КПЗ и ушли
+[Sat Apr  4 22:29:10 2026] <STEAM_0:1:54838838> BloodySmile ran command "goto Ханоев"
+[Sat Apr  4 22:29:16 2026] <STEAM_0:1:558349975> Kotik: /com У нас ваш рядовой из 3-ей бригады, РЧ - 111
+[Sat Apr  4 22:29:18 2026] <STEAM_0:0:148551732> Dandelion: /com всрф на 32 частоту
+[Sat Apr  4 22:29:35 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /rf алле цианистый калию узай
+[Sat Apr  4 22:29:53 2026] <STEAM_0:0:887714123> Po_rA1: /rf Ща
+[Sat Apr  4 22:30:15 2026] <STEAM_0:0:792217028> Pobowhite: /com We have your prisoner of war. If our conditions are not met, he will be sent to the UN tribunal.
+[Sat Apr  4 22:30:16 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /com У нас пленный ваш, даю 2 минуты на ответ. Если не ответите - оторву ему нахуй все что есть
+[Sat Apr  4 22:30:21 2026] Player "impotent" <STEAM_0:1:425612974> has spawned in the server
+[Sat Apr  4 22:30:30 2026] <STEAM_0:1:558349975> Kotik: /com У нас ваш рядовой из 3-ей бригады, РЧ - 111
+[Sat Apr  4 22:30:43 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /com Докажи нахуй
+[Sat Apr  4 22:30:48 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /com докажи
+[Sat Apr  4 22:30:52 2026] <STEAM_0:1:839860057> david280911: /com натовцы прием на связи мехвод 68  танковой бригады
+[Sat Apr  4 22:30:56 2026] <STEAM_0:0:148551732> Dandelion: /com Ммм...Нихуя ты базаришь, что попущенец ебанный?
+[Sat Apr  4 22:30:56 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /rf да бля умирай уже
+[Sat Apr  4 22:30:58 2026] <STEAM_0:1:558349975> Kotik: /com Вы не в том положении
+[Sat Apr  4 22:31:07 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /rf Алле цианид юзай
+[Sat Apr  4 22:31:10 2026] <STEAM_0:1:558349975> Kotik: /com У нас ваш рядовой из 3-ей бригады, РЧ - 111. У вас 1 минута чтобы выйти на РЧ
+[Sat Apr  4 22:31:23 2026] <STEAM_0:0:792217028> Pobowhite: /com If our prisoner is killed, then yours will be sent to the same place as our man.
+[Sat Apr  4 22:31:25 2026] <STEAM_0:1:839860057> david280911: /com давайте по хорошему без убийство
+[Sat Apr  4 22:31:32 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /com Виноградов, сьеби нахуй
+[Sat Apr  4 22:31:36 2026] <STEAM_0:0:74235942> Worshiper of God: /rf мне убить нашего заложника?
+[Sat Apr  4 22:31:41 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /rf Не
+[Sat Apr  4 22:31:46 2026] <STEAM_0:1:839860057> david280911: /rf  я у базы нато
+[Sat Apr  4 22:31:52 2026] <STEAM_0:1:54838838> BloodySmile spawned SWEP "Weapon [759][tfa_ins2_barrett_m98_bravo]"
+[Sat Apr  4 22:31:52 2026] <STEAM_0:1:54838838> BloodySmile spawned SWEP "Weapon [771][tfa_ins2_barrett_m98_bravo]"
+[Sat Apr  4 22:31:52 2026] <STEAM_0:1:54838838> BloodySmile spawned SWEP "Weapon [772][tfa_ins2_barrett_m98_bravo]"
+[Sat Apr  4 22:31:53 2026] <STEAM_0:1:54838838> BloodySmile spawned SWEP "Weapon [773][tfa_ins2_barrett_m98_bravo]"
+[Sat Apr  4 22:31:58 2026] <STEAM_0:1:839860057> david280911: /rf ханоев я у базы нато
+[Sat Apr  4 22:32:03 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /rf где заложник?
+[Sat Apr  4 22:32:17 2026] Dandelion has killed Po_rA1.
+[Sat Apr  4 22:32:30 2026] <STEAM_0:1:410319943> Gray Blackwell: /ooc даше не оказали мед помощь бандюки...
+[Sat Apr  4 22:32:39 2026] <STEAM_0:0:792217028> Pobowhite: /me сорвал нашивку с солдата
+[Sat Apr  4 22:32:56 2026] <STEAM_0:1:839860057> david280911: /rf ханоев разрешите огонь по базе нато
+[Sat Apr  4 22:33:09 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /rf на базу нахуй не разрешаю
+[Sat Apr  4 22:33:12 2026] Worshiper of God has killed impotent.
+[Sat Apr  4 22:33:24 2026] <STEAM_0:1:425612974> impotent: /ooc ахуено
+[Sat Apr  4 22:33:41 2026] <STEAM_0:1:558349975> Kotik: /nato 124 частота, на ВЧ враг
+[Sat Apr  4 22:33:42 2026] <STEAM_0:1:410319943> Gray Blackwell: /ooc а я могу вытечь по  логике РП сигмента...
+[Sat Apr  4 22:34:10 2026] <STEAM_0:1:839860057> david280911: /rf ханоев ты куда на камазе тебя же с рпг грохнут
+[Sat Apr  4 22:34:28 2026] Dandelion has killed ghoprhd.
+[Sat Apr  4 22:34:37 2026] Player "ghoprhd" <STEAM_0:0:453883455> has left the server
+[Sat Apr  4 22:34:41 2026] <STEAM_0:1:558349975> Kotik: /y СДАВАЙСЯ НАХУЙ! БРОСАЙ ОРУЖИЕ И ПОДНИМИ РУКИ! У ТЕБЯ НЕТ ШАНСОВ!
+[Sat Apr  4 22:34:50 2026] impotent has killed Worshiper of God.
+[Sat Apr  4 22:34:52 2026] <STEAM_0:1:558349975> Kotik: /me достал пистолет и пристрелил ВС РФ
+[Sat Apr  4 22:35:04 2026] Player "ghoprhd" <STEAM_0:0:453883455> is attempting to connect.
+[Sat Apr  4 22:35:08 2026] Player "ghoprhd" <STEAM_0:0:453883455> is attempting to connect.
+[Sat Apr  4 22:35:30 2026] Pobowhite has killed ★☾₳ⱤØ₦₦ł₭☽★.
+[Sat Apr  4 22:35:43 2026] <STEAM_0:1:410319943> Gray Blackwell: /ooc а как заглушить рацию?
+[Sat Apr  4 22:35:53 2026] Player "ѾПон ЧокѾ" <STEAM_0:1:711510267> is attempting to connect.
+[Sat Apr  4 22:35:56 2026] <STEAM_0:1:558349975> Kotik: /nato 124 частота
+[Sat Apr  4 22:35:58 2026] <STEAM_0:1:839860057> david280911: /rf прием ханоев как ты
+[Sat Apr  4 22:36:01 2026] <STEAM_0:0:792217028> Pobowhite: /ooc я застрял нахуй
+[Sat Apr  4 22:36:31 2026] Po_rA1 has killed Kotik.
+[Sat Apr  4 22:36:42 2026] <STEAM_0:0:887714123> Po_rA1: /me Связал и забрал оружие
+[Sat Apr  4 22:36:43 2026] Player "ghoprhd" <STEAM_0:0:453883455> has spawned in the server
+[Sat Apr  4 22:36:44 2026] Player "Kotik" <STEAM_0:1:558349975> has left the server
+[Sat Apr  4 22:36:44 2026] Player "Kotik" <STEAM_0:1:558349975> is attempting to connect.
+[Sat Apr  4 22:36:57 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc Астрал у нас заложник ливнул
+[Sat Apr  4 22:37:13 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc Тп ко мне
+[Sat Apr  4 22:37:16 2026] <STEAM_0:1:410319943> Gray Blackwell: /ooc смс ливнула я тут нахожусь!
+[Sat Apr  4 22:37:27 2026] Player "Kotik" <STEAM_0:1:558349975> has spawned in the server
+[Sat Apr  4 22:37:33 2026] <STEAM_0:1:54838838> BloodySmile: /ooc да он тут
+[Sat Apr  4 22:37:34 2026] <STEAM_0:1:839860057> david280911: /me вылез с машины
+[Sat Apr  4 22:37:35 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc Алло, тп админ, срочна!
+[Sat Apr  4 22:37:46 2026] <STEAM_0:1:54838838> BloodySmile ran command "goto Ханоев"
+[Sat Apr  4 22:37:49 2026] <STEAM_0:1:839860057> david280911: /me из ушей кровь
+[Sat Apr  4 22:38:03 2026] <STEAM_0:1:54838838> BloodySmile: /logs
+[Sat Apr  4 22:38:04 2026] <STEAM_0:1:839860057> david280911: /me из ушей кровь
+[Sat Apr  4 22:38:37 2026] <STEAM_0:1:839860057> david280911: блять из рпг по мне ебанули
+[Sat Apr  4 22:39:07 2026] <STEAM_0:1:54838838> BloodySmile ran command "pm Kotik s"
+[Sat Apr  4 22:39:07 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /me Достал аптечку, достал бинты и намочил бинты спиртом
+[Sat Apr  4 22:39:12 2026] <STEAM_0:1:839860057> david280911: /me боец не слышит у него лопнулись перепонки
+[Sat Apr  4 22:39:18 2026] <STEAM_0:1:54838838> BloodySmile ran command "pm Kotik ты зачем ливнул с плена"
+[Sat Apr  4 22:39:23 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /me обматал этими бинтами голову виноградова
+[Sat Apr  4 22:39:24 2026] <STEAM_0:0:148551732> Dandelion: /com ВСРФ, Яников это ваш или чвкшник? Если чвк то казним на месте
+[Sat Apr  4 22:39:30 2026] <STEAM_0:1:54838838> BloodySmile ran command "goto 'Struna'"
+[Sat Apr  4 22:39:36 2026] <STEAM_0:1:54838838> BloodySmile: /logs
+[Sat Apr  4 22:39:43 2026] <STEAM_0:1:558349975> Kotik ran command "pm unk так надо, ибо порой бесит что они так мощно пользуются подобной шнягой"
+[Sat Apr  4 22:39:45 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /me обматал голову Виноградова бинтами
+[Sat Apr  4 22:39:57 2026] <STEAM_0:1:839860057> david280911: /me придеживую уши
+[Sat Apr  4 22:40:13 2026] <STEAM_0:1:558349975> Kotik: просто ливну
+[Sat Apr  4 22:40:19 2026] <STEAM_0:1:558349975> Kotik: нет
+[Sat Apr  4 22:40:35 2026] <STEAM_0:1:839860057> david280911: /me лежит на боку
+[Sat Apr  4 22:41:06 2026] <STEAM_0:1:839860057> david280911: // у нас кровати бомжы спиздили
+[Sat Apr  4 22:41:26 2026] <STEAM_0:1:923042528> Pioner: г
+[Sat Apr  4 22:41:54 2026] <STEAM_0:1:839860057> david280911: эуипаж не выжил
+[Sat Apr  4 22:41:58 2026] <STEAM_0:1:410319943> Gray Blackwell: нGib mir einen Verbandskasten, den ich schlecht finde
+[Sat Apr  4 22:42:00 2026] <STEAM_0:1:839860057> david280911: экипаж*
+[Sat Apr  4 22:42:19 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc Астрал, чо там?
+[Sat Apr  4 22:42:42 2026] <STEAM_0:0:148551732> Dandelion: /com ВСРФ, своего выкупать будите? Частота 22
+[Sat Apr  4 22:42:50 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /com Это ЧВКшник
+[Sat Apr  4 22:42:54 2026] <STEAM_0:1:839860057> david280911: /me я не мог слышать
+[Sat Apr  4 22:42:59 2026] <STEAM_0:1:54838838> BloodySmile: /ooc ща
+[Sat Apr  4 22:43:00 2026] Player ""White"" <STEAM_0:1:514738252> is attempting to connect.
+[Sat Apr  4 22:43:11 2026] <STEAM_0:1:839860057> david280911: у меня экипаж не выжил
+[Sat Apr  4 22:43:22 2026] <STEAM_0:1:839860057> david280911: не в жту
+[Sat Apr  4 22:43:29 2026] <STEAM_0:1:839860057> david280911: она насквозь пробита
+[Sat Apr  4 22:43:52 2026] <STEAM_0:0:792217028> Pobowhite: /ooc а что флаги не захватываются?
+[Sat Apr  4 22:43:55 2026] Player ""White"" <STEAM_0:1:514738252> has spawned in the server
+[Sat Apr  4 22:44:01 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc потомушт. Щас перемирие
+[Sat Apr  4 22:44:11 2026] <STEAM_0:0:792217028> Pobowhite: /ooc точки не хотят перемещатся в синий цвет
+[Sat Apr  4 22:44:16 2026] <STEAM_0:1:425612974> impotent: /ooc что? какое перемирие?
+[Sat Apr  4 22:44:17 2026] <STEAM_0:1:410319943> Gray Blackwell: /ooc во время перемирия вы захватывали...
+[Sat Apr  4 22:44:21 2026] <STEAM_0:0:792217028> Pobowhite: /ooc точки не хотят перемещатся в синий цвет
+[Sat Apr  4 22:44:23 2026] <STEAM_0:0:792217028> Pobowhite: /ooc точки не хотят перемещатся в синий цвет
+[Sat Apr  4 22:44:29 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc все перемирие мы на вч сидим. У нас РП
+[Sat Apr  4 22:44:35 2026] <STEAM_0:1:410319943> Gray Blackwell: /ooc также херачили по нам...какое перемирия...
+[Sat Apr  4 22:44:39 2026] <STEAM_0:1:839860057> david280911: щас
+[Sat Apr  4 22:44:57 2026] <STEAM_0:1:839860057> david280911: /me взял бензопилу и отрубил люк
+[Sat Apr  4 22:45:07 2026] <STEAM_0:1:410319943> Gray Blackwell: Gib mir einen Verbandskasten, den ich schlecht finde
+[Sat Apr  4 22:45:30 2026] <STEAM_0:1:410319943> Gray Blackwell: Ich bin ein Mediziner, was ich Ihnen getan habe!
+[Sat Apr  4 22:46:14 2026] <STEAM_0:1:410319943> Gray Blackwell: Ich kann dich nicht hören, ich kann dich vor der Tür nicht gut hören
+[Sat Apr  4 22:46:42 2026] <STEAM_0:1:54838838> BloodySmile ran command "jail 'Struna' 1800"
+[Sat Apr  4 22:46:58 2026] <STEAM_0:1:54838838> BloodySmile ran command "menu"
+[Sat Apr  4 22:47:13 2026] <STEAM_0:1:54838838> BloodySmile ran command "jail 'Struna' 1"
+[Sat Apr  4 22:47:16 2026] <STEAM_0:1:410319943> Gray Blackwell: Ich bin ein normaler Mediziner
+[Sat Apr  4 22:47:22 2026] <STEAM_0:1:54838838> BloodySmile ran command "unjail 'Struna'"
+[Sat Apr  4 22:47:24 2026] Dandelion has killed Worshiper of God.
+[Sat Apr  4 22:47:25 2026] <STEAM_0:1:54838838> BloodySmile ran command "menu"
+[Sat Apr  4 22:47:31 2026] Player "ѾПон ЧокѾ" <STEAM_0:1:711510267> has spawned in the server
+[Sat Apr  4 22:47:35 2026] "White" has killed Worshiper of God.
+[Sat Apr  4 22:47:38 2026] <STEAM_0:1:410319943> Gray Blackwell: Geben Sie mir bitte die Bandagen!
+[Sat Apr  4 22:47:40 2026] Player "THE-_-Reper" <STEAM_0:1:526999954> is attempting to connect.
+[Sat Apr  4 22:47:44 2026] <STEAM_0:1:54838838> BloodySmile ran command "menu"
+[Sat Apr  4 22:47:45 2026] <STEAM_0:0:792217028> Pobowhite: /me снял каску с бойца
+[Sat Apr  4 22:47:58 2026] <STEAM_0:1:425612974> impotent: /ooc Так и не добавили мне ключи
+[Sat Apr  4 22:48:01 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /com У нас ваш пленный спецназовец
+[Sat Apr  4 22:48:02 2026] <STEAM_0:1:54838838> BloodySmile ran command "menu"
+[Sat Apr  4 22:48:13 2026] <STEAM_0:1:410319943> Gray Blackwell: /me Персона держиться за кровавый бок истикая кровью...
+[Sat Apr  4 22:48:15 2026] Player "david280911" <STEAM_0:1:839860057> has left the server
+[Sat Apr  4 22:48:20 2026] <STEAM_0:1:54838838> BloodySmile ran command "ban 'Struna' 30 liv rp"
+[Sat Apr  4 22:48:20 2026] Player "Kotik" <STEAM_0:1:558349975> has left the server
+[Sat Apr  4 22:48:21 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /com Немец, Габриель вроде. Рекрут. Требуем выкуп
+[Sat Apr  4 22:48:23 2026] Player "Kotik" <STEAM_0:1:558349975> is attempting to connect.
+[Sat Apr  4 22:48:24 2026] <STEAM_0:0:453883455> ghoprhd: /me достал перчатки из подсумка, надел на руки
+[Sat Apr  4 22:48:48 2026] <STEAM_0:1:410319943> Gray Blackwell: /Looc мля а чё всмысле? я 1-й раз в плену
+[Sat Apr  4 22:48:50 2026] <STEAM_0:1:425612974> impotent: /com Какой еще спецназовец?
+[Sat Apr  4 22:49:01 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /com Gray Blackwel
+[Sat Apr  4 22:49:01 2026] Pobowhite has killed "White".
+[Sat Apr  4 22:49:03 2026] <STEAM_0:0:453883455> ghoprhd: /me нажол на кочти нижней челюсти, челюсть открылась
+[Sat Apr  4 22:49:18 2026] <STEAM_0:0:792217028> Pobowhite: /ooc бронестекло не такое уж бронестекло
+[Sat Apr  4 22:49:34 2026] <STEAM_0:1:410319943> Gray Blackwell: /me Протянула руку и взялась за жгут тянула себе
+[Sat Apr  4 22:49:37 2026] Player "Mr.Monolith" <STEAM_0:1:47931114> is attempting to connect.
+[Sat Apr  4 22:49:38 2026] <STEAM_0:1:425612974> impotent: /com Ну, понятно...
+[Sat Apr  4 22:49:41 2026] <STEAM_0:0:453883455> ghoprhd: /me наложил повязку на боок
+[Sat Apr  4 22:49:42 2026] Dandelion has killed Dandelion.
+[Sat Apr  4 22:49:42 2026] Dandelion has killed Pobowhite.
+[Sat Apr  4 22:50:06 2026] "White" has killed Pobowhite.
+[Sat Apr  4 22:50:10 2026] <STEAM_0:1:410319943> Gray Blackwell: /looc могу аптечку взять? чтоб хотябы 20 хп захилить?
+[Sat Apr  4 22:50:12 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /сщь Убиваем?
+[Sat Apr  4 22:50:16 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /com Убиваем?
+[Sat Apr  4 22:50:25 2026] <STEAM_0:1:410319943> Gray Blackwell: /Looc зачем?
+[Sat Apr  4 22:50:30 2026] <STEAM_0:0:453883455> ghoprhd: /me достал из подсумка ампулу с неорелаксантом, и снатворпным, ввел в шприц
+[Sat Apr  4 22:50:42 2026] <STEAM_0:1:425612974> impotent: /com Не нужно. Думаю, решим как-нибудь вопрос
+[Sat Apr  4 22:50:42 2026] <STEAM_0:0:453883455> ghoprhd: /me произвел инекцию в бедро
+[Sat Apr  4 22:50:47 2026] <STEAM_0:1:410319943> Gray Blackwell: /looc зачем...мне медиком хватает
+[Sat Apr  4 22:50:52 2026] <STEAM_0:1:425612974> impotent: /nato Штурм проводим?
+[Sat Apr  4 22:50:56 2026] <STEAM_0:0:453883455> ghoprhd: /me произвел инекцию в бедро
+[Sat Apr  4 22:51:08 2026] <STEAM_0:1:410319943> Gray Blackwell: /looc а не проще в рп договориться? без шуток?
+[Sat Apr  4 22:51:10 2026] <STEAM_0:1:923042528> Pioner: так можно мне специализацию?
+[Sat Apr  4 22:52:01 2026] <STEAM_0:1:425612974> impotent: /com Чего вы хотите то?
+[Sat Apr  4 22:52:14 2026] <STEAM_0:0:792217028> Pobowhite: /drop
+[Sat Apr  4 22:52:21 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /com Автоматы, Бредли и ящик кока-колы
+[Sat Apr  4 22:52:34 2026] <STEAM_0:1:410319943> Gray Blackwell: /looc ну у меня по рп все родители дед а я просто  ебучий медик который лечит даже врагов
+[Sat Apr  4 22:52:40 2026] <STEAM_0:1:514738252> "White": /comm Губу закатай, за обычного рекрута
+[Sat Apr  4 22:52:44 2026] <STEAM_0:1:514738252> "White": /com Губу закатай, за обычного рекрута
+[Sat Apr  4 22:52:53 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /com Просто бредли
+[Sat Apr  4 22:52:55 2026] <STEAM_0:1:410319943> Gray Blackwell: /looc все и деды и бабушки.
+[Sat Apr  4 22:52:58 2026] <STEAM_0:1:410319943> Gray Blackwell: /looc все и деды и бабушки.
+[Sat Apr  4 22:53:01 2026] Player "Mr.Monolith" <STEAM_0:1:47931114> has spawned in the server
+[Sat Apr  4 22:53:05 2026] <STEAM_0:1:514738252> "White": /com M-ATV дам
+[Sat Apr  4 22:53:10 2026] <STEAM_0:1:514738252> "White": /com M-ATV дам
+[Sat Apr  4 22:53:46 2026] <STEAM_0:1:410319943> Gray Blackwell: Was Sie brauchen, verstehe ich nicht?
+[Sat Apr  4 22:53:51 2026] Player "THE-_-Reper" <STEAM_0:1:526999954> has spawned in the server
+[Sat Apr  4 22:53:55 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /com Хм... А ящик колы?
+[Sat Apr  4 22:54:09 2026] <STEAM_0:1:514738252> "White": /com Ты опеределись M-ATV или ящик Колы
+[Sat Apr  4 22:54:12 2026] <STEAM_0:1:923042528> Pioner: /name "Pioner"
+[Sat Apr  4 22:54:17 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /com И то, и то
+[Sat Apr  4 22:54:21 2026] <STEAM_0:1:923042528> Pioner: а как ник сменить?
+[Sat Apr  4 22:54:22 2026] <STEAM_0:1:47931114> Mr.Monolith ran command "noclip SGM | Castle"
+[Sat Apr  4 22:54:22 2026] <STEAM_0:1:47931114> Mr.Monolith: /noclip
+[Sat Apr  4 22:54:23 2026] <STEAM_0:1:47931114> Mr.Monolith: /noclip
+[Sat Apr  4 22:54:23 2026] <STEAM_0:1:47931114> Mr.Monolith: /noclip
+[Sat Apr  4 22:54:23 2026] <STEAM_0:1:47931114> Mr.Monolith: /noclip
+[Sat Apr  4 22:54:25 2026] <STEAM_0:1:514738252> "White": /com Не только одно
+[Sat Apr  4 22:54:25 2026] <STEAM_0:1:47931114> Mr.Monolith ran command "noclip SGM | Castle"
+[Sat Apr  4 22:54:28 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc щас просто РПКашнем челика
+[Sat Apr  4 22:54:30 2026] <STEAM_0:1:514738252> "White": /com Не только одно
+[Sat Apr  4 22:54:44 2026] Player "Мраз" <STEAM_0:0:642089283> is attempting to connect.
+[Sat Apr  4 22:54:47 2026] <STEAM_0:1:47931114> Mr.Monolith: // Белка, тут?
+[Sat Apr  4 22:54:53 2026] <STEAM_0:1:425612974> impotent: /ooc Да
+[Sat Apr  4 22:54:53 2026] <STEAM_0:1:514738252> "White": /com Не только одно
+[Sat Apr  4 22:54:59 2026] <STEAM_0:1:47931114> Mr.Monolith: // Зайди в ожидание.
+[Sat Apr  4 22:55:07 2026] <STEAM_0:0:453883455> ghoprhd: /do какого типа ранение
+[Sat Apr  4 22:55:13 2026] <STEAM_0:1:47931114> Mr.Monolith: // Зайди в ожидание.
+[Sat Apr  4 22:55:13 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /com Какую колу? Может хотябы машинку и коул зеро?
+[Sat Apr  4 22:55:15 2026] Player "THE-_-Reper" <STEAM_0:1:526999954> has left the server
+[Sat Apr  4 22:55:18 2026] <STEAM_0:0:453883455> ghoprhd: /do и какой тяжести
+[Sat Apr  4 22:55:19 2026] <STEAM_0:1:410319943> Gray Blackwell: /me На животе было пулевое отверстие от снайперской винтовки калибр был не известен....но пуля видемо прошла на сквозь?
+[Sat Apr  4 22:55:22 2026] <STEAM_0:1:47931114> Mr.Monolith: // Зайди в ожидание.
+[Sat Apr  4 22:55:26 2026] <STEAM_0:1:514738252> "White": /com Не только одно
+[Sat Apr  4 22:55:28 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /com Кола Зеро херня же, а у нас только говяная доброе
+[Sat Apr  4 22:55:55 2026] <STEAM_0:1:410319943> Gray Blackwell: Gib mir den Verbandskasten...und eine Pinzette...
+[Sat Apr  4 22:55:59 2026] Player "Kotik" <STEAM_0:1:558349975> is attempting to connect.
+[Sat Apr  4 22:56:00 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /com Прошу. Ради анс. РАди свободной России
+[Sat Apr  4 22:56:04 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc нас*
+[Sat Apr  4 22:56:14 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc ДА Я ЕБЛА КД НА СООБЩЕНИЯ
+[Sat Apr  4 22:56:16 2026] <STEAM_0:1:514738252> "White": /com Я ради свободной Росисии могу только под дверь насрать
+[Sat Apr  4 22:56:37 2026] <STEAM_0:1:54838838> BloodySmile: /logs
+[Sat Apr  4 22:56:42 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /com Бля, ну по братски, дружище. Вы нам коул и машину, а мы вам пацанёнка и уважение
+[Sat Apr  4 22:56:45 2026] <STEAM_0:1:410319943> Gray Blackwell: /looc по правилам же рпк (вывода персонажа же нету на этом сервере?)
+[Sat Apr  4 22:56:53 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /looc есть
+[Sat Apr  4 22:56:57 2026] <STEAM_0:1:514738252> "White": /com Ты рекрута связал...
+[Sat Apr  4 22:57:02 2026] <STEAM_0:0:792217028> Pobowhite: /com Are you fucking nuts or something?
+[Sat Apr  4 22:57:08 2026] Player "Мраз" <STEAM_0:0:642089283> has spawned in the server
+[Sat Apr  4 22:57:09 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc я в рот манал КД на соо
+[Sat Apr  4 22:57:13 2026] <STEAM_0:1:410319943> Gray Blackwell: /looc по логике тогда вещей вы должны 24 на 7 менять имя и звания...
+[Sat Apr  4 22:57:17 2026] <STEAM_0:1:410319943> Gray Blackwell: /looc по логике тогда вещей вы должны 24 на 7 менять имя и звания...
+[Sat Apr  4 22:57:33 2026] <STEAM_0:0:792217028> Pobowhite: /com Go kill yourself, and then go fuck yourself.
+[Sat Apr  4 22:57:36 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /com А шоколадки мистера биста? Или докторая пейпера хотяб
+[Sat Apr  4 22:57:44 2026] <STEAM_0:1:410319943> Gray Blackwell: Мх...
+[Sat Apr  4 22:57:45 2026] <STEAM_0:1:514738252> "White": /com Ни
+[Sat Apr  4 22:58:47 2026] <STEAM_0:1:54838838> BloodySmile spawned SWEP "Weapon [873][tfa_ins2_wpn_rpg7]"
+[Sat Apr  4 22:59:08 2026] <STEAM_0:1:410319943> Gray Blackwell: /looc друг сказал модель попросит залить женскую. По рп я за девушку щяс...
+[Sat Apr  4 22:59:22 2026] <STEAM_0:0:642089283> Мраз: /rf РЧ?
+[Sat Apr  4 22:59:28 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /rf 321
+[Sat Apr  4 22:59:34 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [874][lvs_wheeldrive_kamazrepair]"
+[Sat Apr  4 22:59:37 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [874][lvs_wheeldrive_kamazrepair]"
+[Sat Apr  4 22:59:39 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [900][lvs_wheeldrive_kamaztroop]"
+[Sat Apr  4 22:59:41 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [951][lvs_wheeldrive_kamazfuel]"
+[Sat Apr  4 23:00:18 2026] <STEAM_0:1:410319943> Gray Blackwell: /looc что мешает щяс в рп просто через переводчик это всё сделать? по говорить с персонажем.... если вы не понимаете его языка....
+[Sat Apr  4 23:00:27 2026] Pobowhite has killed Worshiper of God.
+[Sat Apr  4 23:00:48 2026] <STEAM_0:0:887714123> Po_rA1: /me Достал телефон. Написал в переводчике с немецкого на русский все вышеперечисленное
+[Sat Apr  4 23:01:04 2026] <STEAM_0:0:887714123> Po_rA1: /me показал телефон
+[Sat Apr  4 23:01:07 2026] <STEAM_0:1:410319943> Gray Blackwell: /looc можешь писать или говорить по русский буду писать в скбках по русский
+[Sat Apr  4 23:01:24 2026] <STEAM_0:0:74235942> Worshiper of God: // а как вы проигрываете если у вас дохуя брони и норм оружие?
+[Sat Apr  4 23:01:34 2026] <STEAM_0:0:792217028> Pobowhite: /ooc в плане
+[Sat Apr  4 23:01:36 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [724][sw_bmp1p]"
+[Sat Apr  4 23:01:37 2026] <STEAM_0:0:887714123> Po_rA1: /me Показал текст
+[Sat Apr  4 23:01:38 2026] <STEAM_0:1:514738252> "White": // Незнаю, ВС РФ как вы проигрываете?
+[Sat Apr  4 23:01:49 2026] <STEAM_0:0:74235942> Worshiper of God: // типо ладно я у которого было уебанское не регающее практически м4а1
+[Sat Apr  4 23:01:59 2026] <STEAM_0:1:410319943> Gray Blackwell: Was Sie brauchen, ich bin nur ein Mediziner, der hierher kommt, um Verletzte zu behandeln! und Ihre Seite und ihre Seite! (\nЧто вам нужно я просто Медик который приехать сюда лечить раненых! и вашу сторону и их сторону!\n)
+[Sat Apr  4 23:02:05 2026] <STEAM_0:0:642089283> Мраз: /c Теперь понял как ты за них проигрывал
+[Sat Apr  4 23:02:07 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /com АЛло, вам пленный не нужен? Как оказалось, это девушка
+[Sat Apr  4 23:02:16 2026] <STEAM_0:0:74235942> Worshiper of God: // к слову если бы не выстрел с рпг вы бы даже с базы не вышли
+[Sat Apr  4 23:02:27 2026] <STEAM_0:1:47931114> Mr.Monolith ran command "menu"
+[Sat Apr  4 23:02:32 2026] Pioner has killed Worshiper of God.
+[Sat Apr  4 23:02:39 2026] Pioner has killed Мраз.
+[Sat Apr  4 23:02:40 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /com еще 1 выстрел и я убиваю
+[Sat Apr  4 23:02:42 2026] <STEAM_0:1:47931114> Mr.Monolith ran command "rank 1LT Montgomeru sadmin 0"
+[Sat Apr  4 23:02:44 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /com пленного
+[Sat Apr  4 23:03:06 2026] <STEAM_0:1:425612974> impotent ran command "menu"
+[Sat Apr  4 23:03:07 2026] "White" has killed ghoprhd.
+[Sat Apr  4 23:03:13 2026] "White" has killed ★☾₳ⱤØ₦₦ł₭☽★.
+[Sat Apr  4 23:03:15 2026] <STEAM_0:1:410319943> Gray Blackwell: Wir können mit ihnen ohne Blut auf Frieden verhandeln! (Мы можем договориться с ними без крови на мир!)
+[Sat Apr  4 23:03:18 2026] "White" has killed Po_rA1.
+[Sat Apr  4 23:03:25 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc АЛЛЕ ДАУНЫ НАХЙ Я ЖБ ПИШУ ДЕТИ ШЛЮХ
+[Sat Apr  4 23:03:47 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc АДмин тп
+[Sat Apr  4 23:03:54 2026] <STEAM_0:0:792217028> Pobowhite: /ooc завали ебасос
+[Sat Apr  4 23:03:59 2026] "White" has killed ghoprhd.
+[Sat Apr  4 23:04:29 2026] <STEAM_0:1:410319943> Gray Blackwell: могу и по участвовать
+[Sat Apr  4 23:05:54 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc Астрал, тп
+[Sat Apr  4 23:06:03 2026] Player "THE-_-Reper" <STEAM_0:1:526999954> is attempting to connect.
+[Sat Apr  4 23:06:12 2026] <STEAM_0:1:54838838> BloodySmile: /ooc я всё понимаю нооооо дабро не давал на деверсия или-же штурм
+[Sat Apr  4 23:06:28 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc ТЕпнись
+[Sat Apr  4 23:06:37 2026] Player "THE-_-Reper" <STEAM_0:1:526999954> has spawned in the server
+[Sat Apr  4 23:06:48 2026] <STEAM_0:1:54838838> BloodySmile: /ooc на прошлый дал но ради интереса
+[Sat Apr  4 23:07:18 2026] <STEAM_0:1:514738252> "White": // Разве добавили правило о соглашении диверсии?
+[Sat Apr  4 23:07:54 2026] Player "Dandelion" <STEAM_0:0:148551732> has left the server
+[Sat Apr  4 23:08:03 2026] Worshiper of God has killed Pobowhite.
+[Sat Apr  4 23:08:09 2026] Worshiper of God has killed Pioner.
+[Sat Apr  4 23:08:29 2026] <STEAM_0:1:410319943> Gray Blackwell: Хз
+[Sat Apr  4 23:09:36 2026] "White" has killed ghoprhd.
+[Sat Apr  4 23:09:38 2026] <STEAM_0:1:425612974> impotent ran command "menu"
+[Sat Apr  4 23:09:43 2026] "White" has killed Worshiper of God.
+[Sat Apr  4 23:09:48 2026] <STEAM_0:0:74235942> Worshiper of God: // хахахахахахх
+[Sat Apr  4 23:09:49 2026] Player "Kotik" <STEAM_0:1:558349975> is attempting to connect.
+[Sat Apr  4 23:09:57 2026] <STEAM_0:0:74235942> Worshiper of God: // ебать я подлетел
+[Sat Apr  4 23:09:59 2026] <STEAM_0:0:74235942> Worshiper of God: // ебать я подлетел
+[Sat Apr  4 23:10:30 2026] <STEAM_0:0:74235942> Worshiper of God: // ебать я подлетел
+[Sat Apr  4 23:10:35 2026] Pobowhite has killed Pobowhite.
+[Sat Apr  4 23:11:39 2026] Player "★☾₳ⱤØ₦₦ł₭☽★" <STEAM_0:0:456016030> has left the server
+[Sat Apr  4 23:12:22 2026] Player "ghoprhd" <STEAM_0:0:453883455> has left the server
+[Sat Apr  4 23:12:30 2026] <STEAM_0:1:54838838> BloodySmile ran command "bring Gray Blackwell"
+[Sat Apr  4 23:12:46 2026] <STEAM_0:1:410319943> Gray Blackwell: /looc а....
+[Sat Apr  4 23:13:14 2026] <STEAM_0:1:54838838> BloodySmile: /ooc откат ситуации штурма-диверсии
+[Sat Apr  4 23:13:18 2026] <STEAM_0:1:410319943> Gray Blackwell: /looc я уже собираться идти спать... ну ладно посижу... ещё
+[Sat Apr  4 23:13:30 2026] <STEAM_0:0:792217028> Pobowhite: /ooc схуев
+[Sat Apr  4 23:13:30 2026] <STEAM_0:1:54838838> BloodySmile: /ooc пленик вернул на рф  бэйс
+[Sat Apr  4 23:13:50 2026] <STEAM_0:1:54838838> BloodySmile: /ooc добро не давал на штурм-диверсии
+[Sat Apr  4 23:14:03 2026] <STEAM_0:0:792217028> Pobowhite: /ooc ну так, прописали бы отдельно пунктом
+[Sat Apr  4 23:14:07 2026] <STEAM_0:1:514738252> "White": // А есть правило регулирующее одобрение/отказ дивки?
+[Sat Apr  4 23:14:17 2026] <STEAM_0:1:410319943> Gray Blackwell: /Looc ты тихий...
+[Sat Apr  4 23:14:25 2026] <STEAM_0:0:792217028> Pobowhite: /ooc вообще, про диверсии ничего не написано
+[Sat Apr  4 23:14:34 2026] <STEAM_0:1:410319943> Gray Blackwell: /looc я по рп в наручниках зачем?
+[Sat Apr  4 23:14:36 2026] <STEAM_0:0:792217028> Pobowhite: /ooc вообще, про диверсии ничего не написано, хоть после диверсии диверсируй
+[Sat Apr  4 23:14:49 2026] <STEAM_0:1:54838838> BloodySmile: /ooc его нету в правилах! решил сделать ради интереса как это будет
+[Sat Apr  4 23:14:49 2026] <STEAM_0:1:410319943> Gray Blackwell: /ooc зачем мне к стене если я в наручниках
+[Sat Apr  4 23:15:00 2026] <STEAM_0:1:514738252> "White": // Ну так значит и откат не за что давать
+[Sat Apr  4 23:15:05 2026] <STEAM_0:1:54838838> BloodySmile: /ooc в  первый раз когда котя запросил
+[Sat Apr  4 23:15:07 2026] <STEAM_0:0:792217028> Pobowhite: /ooc суть отката в чем?
+[Sat Apr  4 23:15:08 2026] <STEAM_0:1:54838838> BloodySmile: /ooc в  первый раз когда котя запросил
+[Sat Apr  4 23:15:08 2026] <STEAM_0:1:514738252> "White": // Т.к нет регулирующего правила
+[Sat Apr  4 23:15:09 2026] Player "Kotik" <STEAM_0:1:558349975> is attempting to connect.
+[Sat Apr  4 23:15:09 2026] <STEAM_0:1:54838838> BloodySmile: /ooc в  первый раз когда котя запросил
+[Sat Apr  4 23:15:12 2026] <STEAM_0:1:54838838> BloodySmile: /ooc в  первый раз когда котя запросил
+[Sat Apr  4 23:15:15 2026] <STEAM_0:1:54838838> BloodySmile: /ooc в  первый раз когда котя запросил
+[Sat Apr  4 23:15:22 2026] <STEAM_0:1:514738252> "White": // Т.к нет регулирующего правила
+[Sat Apr  4 23:15:27 2026] <STEAM_0:1:514738252> "White": // Т.к нет регулирующего правила
+[Sat Apr  4 23:15:29 2026] <STEAM_0:1:410319943> Gray Blackwell: Welche Möglichkeiten haben Sie, zu Ihnen zu wechseln?
+[Sat Apr  4 23:15:50 2026] <STEAM_0:1:514738252> "White": // Пропишите по поводу диверсии правила и тогда уже откатываете, нарушения как такого не было :0
+[Sat Apr  4 23:15:53 2026] <STEAM_0:1:514738252> "White": // Пропишите по поводу диверсии правила и тогда уже откатываете, нарушения как такого не было :0
+[Sat Apr  4 23:15:55 2026] <STEAM_0:0:792217028> Pobowhite: /ooc нету правил по поводу этого, я могу и в одного это сделать
+[Sat Apr  4 23:15:57 2026] <STEAM_0:0:74235942> Worshiper of God: // так вы по сути зарейдили а не штурм.-дивер.
+[Sat Apr  4 23:16:09 2026] <STEAM_0:0:792217028> Pobowhite: /ooc рейд это когда обьявляют, понимаешь?
+[Sat Apr  4 23:16:14 2026] <STEAM_0:1:410319943> Gray Blackwell: /ooc они же спасательную миссию устроили
+[Sat Apr  4 23:16:19 2026] <STEAM_0:0:792217028> Pobowhite: /ooc рейд это когда обьявляют о том что будет, понимаешь?
+[Sat Apr  4 23:16:21 2026] <STEAM_0:1:514738252> "White": // Мы дивку провели, незнаю как ГСГ, но мы по тихой с спины зашли 75
+[Sat Apr  4 23:16:22 2026] <STEAM_0:1:54838838> BloodySmile: /ooc извините за такие неудобства :cry:
+[Sat Apr  4 23:16:37 2026] <STEAM_0:0:74235942> Worshiper of God: // не ныть правила не дописаны))
+[Sat Apr  4 23:16:37 2026] <STEAM_0:0:887714123> Po_rA1: Du bist ein Rekrut, oder&
+[Sat Apr  4 23:16:44 2026] <STEAM_0:0:887714123> Po_rA1: Du bist ein Rekrut, oder?
+[Sat Apr  4 23:16:47 2026] <STEAM_0:0:887714123> Po_rA1: Du bist ein Rekrut, oder
+[Sat Apr  4 23:16:49 2026] <STEAM_0:0:792217028> Pobowhite: /ooc хоть в жопу ебись ничего об этой ситуации не прописано
+[Sat Apr  4 23:16:52 2026] <STEAM_0:1:514738252> "White": // Так никто не ноет кроме как вашей стороны :0
+[Sat Apr  4 23:17:02 2026] <STEAM_0:1:514738252> "White": // Правила не прописаны и это факт
+[Sat Apr  4 23:17:02 2026] <STEAM_0:1:410319943> Gray Blackwell: ?
+[Sat Apr  4 23:17:03 2026] <STEAM_0:0:74235942> Worshiper of God: // ну хуй знает мени похуй
+[Sat Apr  4 23:17:06 2026] <STEAM_0:0:74235942> Worshiper of God: // ну хуй знает мени похуй
+[Sat Apr  4 23:17:07 2026] <STEAM_0:0:74235942> Worshiper of God: // ну хуй знает мени похуй
+[Sat Apr  4 23:17:07 2026] <STEAM_0:0:792217028> Pobowhite: /ooc пропиши в дс якобы диверсии запрещены на это время
+[Sat Apr  4 23:17:10 2026] <STEAM_0:0:792217028> Pobowhite: /ooc пропиши в дс якобы диверсии запрещены на это время
+[Sat Apr  4 23:17:12 2026] <STEAM_0:1:514738252> "White": // Правила не прописаны и это факт
+[Sat Apr  4 23:17:13 2026] <STEAM_0:1:410319943> Gray Blackwell: /looc у меня все спят сори
+[Sat Apr  4 23:17:14 2026] <STEAM_0:1:47931114> Mr.Monolith: // Хоть в жопу ебись, но правила пишутся в настоящем времени
+[Sat Apr  4 23:17:18 2026] <STEAM_0:1:514738252> "White": // Правила не прописаны и это факт
+[Sat Apr  4 23:17:21 2026] <STEAM_0:0:792217028> Pobowhite: /ooc пропиши в дс якобы диверсии запрещены на это время
+[Sat Apr  4 23:17:41 2026] <STEAM_0:1:410319943> Gray Blackwell: Ich verstehe nur die Nichtspezies...
+[Sat Apr  4 23:17:51 2026] Player "Мраз" <STEAM_0:0:642089283> has left the server
+[Sat Apr  4 23:17:53 2026] Player "Мраз" <STEAM_0:0:642089283> is attempting to connect.
+[Sat Apr  4 23:18:00 2026] <STEAM_0:1:923042528> Pioner: /OOC админ тп ко мне помощь нужна
+[Sat Apr  4 23:18:13 2026] <STEAM_0:0:792217028> Pobowhite: /ooc трофимов, ты ебись в жопу а пока правила нету и предьявлений не должно быть
+[Sat Apr  4 23:18:17 2026] <STEAM_0:1:410319943> Gray Blackwell: was...
+[Sat Apr  4 23:18:44 2026] <STEAM_0:1:410319943> Gray Blackwell: /me Указывает на выход и делает жест похода пальцами и потом на себя.
+[Sat Apr  4 23:18:54 2026] <STEAM_0:1:47931114> Mr.Monolith: // Старшая Администрация имеет полное право выносить вердикт независимо от правил, указанных выше. Принимая участие в проекте, вы соглашаетесь с его условиями.
+[Sat Apr  4 23:18:56 2026] Player "Мраз" <STEAM_0:0:642089283> has spawned in the server
+[Sat Apr  4 23:19:03 2026] <STEAM_0:1:410319943> Gray Blackwell: /me показала жест не понимания
+[Sat Apr  4 23:19:06 2026] <STEAM_0:1:410319943> Gray Blackwell: /me показала жест не понимания
+[Sat Apr  4 23:19:17 2026] worldspawn has killed THE-_-Reper.
+[Sat Apr  4 23:19:21 2026] <STEAM_0:0:792217028> Pobowhite: /ooc ну так, че сказали? простите и се
+[Sat Apr  4 23:19:31 2026] <STEAM_0:1:514738252> "White": // СА должна все это делать в соотношении того что прописано в правилах, а не сугубо из того кто быстрее наныл
+[Sat Apr  4 23:19:36 2026] Player "Kotik" <STEAM_0:1:558349975> is attempting to connect.
+[Sat Apr  4 23:19:53 2026] <STEAM_0:1:410319943> Gray Blackwell: /me Вздохнула и спокойно пытаеться показать на его рацию пальцем
+[Sat Apr  4 23:20:07 2026] <STEAM_0:1:47931114> Mr.Monolith: // Все, что СА должна делать, прописано в конце правил.
+[Sat Apr  4 23:20:26 2026] <STEAM_0:1:514738252> "White": // Все что должна делать СА следить за соблюдением правил и дополнять их
+[Sat Apr  4 23:20:29 2026] Player "Kotik" <STEAM_0:1:558349975> has spawned in the server
+[Sat Apr  4 23:20:33 2026] <STEAM_0:1:410319943> Gray Blackwell: /me после чего сделав вид что держит в руках телефон начала делать вид общения и протягивания ему телефона в ответ или устройства...
+[Sat Apr  4 23:21:27 2026] <STEAM_0:1:47931114> Mr.Monolith: // Ну вот, вам сказали, что правила пишутся в настоящем времени. Но вы продолжаете чет выписывать.
+[Sat Apr  4 23:21:27 2026] <STEAM_0:1:410319943> Gray Blackwell: /looc ты пытаешься по англ говорить немецкому персу...
+[Sat Apr  4 23:21:41 2026] <STEAM_0:0:887714123> Po_rA1: /l Я спрашивал про твой английсикй
+[Sat Apr  4 23:21:42 2026] <STEAM_0:0:792217028> Pobowhite: /ooc если в правилах будет написано тогда будет исполнено
+[Sat Apr  4 23:21:49 2026] <STEAM_0:1:514738252> "White": // Нус, я выписываю о отсутствии правила за которое пытаются дать откат :.
+[Sat Apr  4 23:21:57 2026] <STEAM_0:1:410319943> Gray Blackwell: /me Показывает руками что та типа что-то пишет в невидемый телефон или устройство
+[Sat Apr  4 23:21:59 2026] <STEAM_0:1:47931114> Mr.Monolith: // Откат будет и все тут.
+[Sat Apr  4 23:22:07 2026] <STEAM_0:1:514738252> "White": // А ты решил тут?
+[Sat Apr  4 23:22:17 2026] <STEAM_0:0:792217028> Pobowhite: /ooc есть документ, если там так написано сразу после этой ситуации, значит так написано и нужно будет это выполнить
+[Sat Apr  4 23:22:28 2026] <STEAM_0:0:887714123> Po_rA1: Wem&
+[Sat Apr  4 23:22:29 2026] <STEAM_0:1:514738252> "White": // А ты решил это? Правила нет, значит откат не легитивен и не имеет силы, как и то что не за что притянуть этот откат
+[Sat Apr  4 23:22:31 2026] <STEAM_0:0:887714123> Po_rA1: ?
+[Sat Apr  4 23:22:33 2026] <STEAM_0:1:410319943> Gray Blackwell: /me Хлопнула по лицу себя и проматерилась по немецкий
+[Sat Apr  4 23:22:44 2026] <STEAM_0:1:47931114> Mr.Monolith: // Если надо будет, притянут, поверь.
+[Sat Apr  4 23:22:53 2026] <STEAM_0:1:54838838> BloodySmile: /ooc просто если вас всех перебанить то скем вы воевать будете.......
+[Sat Apr  4 23:22:56 2026] <STEAM_0:0:74235942> Worshiper of God: /com пидафилы может быть вы начнете свои действия боевые а то как будто вы сосете на линии фронта
+[Sat Apr  4 23:22:57 2026] <STEAM_0:1:514738252> "White": // Ну притягивайте, хуже сделаете :/
+[Sat Apr  4 23:23:12 2026] <STEAM_0:1:526999954> THE-_-Reper: /ooc ты точки почини для начала
+[Sat Apr  4 23:23:15 2026] <STEAM_0:0:792217028> Pobowhite: /com Fuck your mother, you idiot
+[Sat Apr  4 23:23:18 2026] <STEAM_0:1:410319943> Gray Blackwell: /me Подойдя к мужчине и взялась за его рацию после чего начала прислонять рацию к своему уху и говорить в неё
+[Sat Apr  4 23:23:18 2026] <STEAM_0:1:558349975> Kotik: /nato Сбор в ангаре на спасалку
+[Sat Apr  4 23:23:27 2026] <STEAM_0:1:558349975> Kotik ran command "pm unk спасалку можем?"
+[Sat Apr  4 23:23:32 2026] Pobowhite has killed Mr.Monolith.
+[Sat Apr  4 23:23:32 2026] Mr.Monolith has killed Mr.Monolith.
+[Sat Apr  4 23:23:41 2026] <STEAM_0:0:887714123> Po_rA1: /rf Смирнов. Подойди к изолятору
+[Sat Apr  4 23:23:42 2026] <STEAM_0:1:47931114> Mr.Monolith ran command "respawn ^"
+[Sat Apr  4 23:23:45 2026] <STEAM_0:0:642089283> Мраз: /c Ууууу......... а вот за такие слова даже не в рамках рп, можно и полететь
+[Sat Apr  4 23:23:49 2026] Worshiper of God has killed Pioner.
+[Sat Apr  4 23:23:54 2026] <STEAM_0:1:558349975> Kotik ran command "pm unk тп хелп"
+[Sat Apr  4 23:24:00 2026] Player "Кирилл Колбасенк" <STEAM_0:0:554676038> is attempting to connect.
+[Sat Apr  4 23:24:01 2026] impotent has killed Worshiper of God.
+[Sat Apr  4 23:24:05 2026] <STEAM_0:1:923042528> Pioner: .
+[Sat Apr  4 23:24:06 2026] <STEAM_0:1:923042528> Pioner: .
+[Sat Apr  4 23:24:08 2026] <STEAM_0:1:923042528> Pioner: .
+[Sat Apr  4 23:24:10 2026] <STEAM_0:1:54838838> BloodySmile ran command "pm Kotik лучше не надо"
+[Sat Apr  4 23:24:13 2026] <STEAM_0:1:558349975> Kotik ran command "pm unk тп хелп"
+[Sat Apr  4 23:24:25 2026] <STEAM_0:1:54838838> BloodySmile ran command "goto 'Struna'"
+[Sat Apr  4 23:24:42 2026] <STEAM_0:1:54838838> BloodySmile used tool "remover"
+[Sat Apr  4 23:24:43 2026] <STEAM_0:1:54838838> BloodySmile used tool "remover"
+[Sat Apr  4 23:24:43 2026] <STEAM_0:1:54838838> BloodySmile used tool "remover"
+[Sat Apr  4 23:24:43 2026] <STEAM_0:1:54838838> BloodySmile used tool "remover"
+[Sat Apr  4 23:24:43 2026] <STEAM_0:1:54838838> BloodySmile used tool "remover"
+[Sat Apr  4 23:24:44 2026] <STEAM_0:1:54838838> BloodySmile used tool "remover"
+[Sat Apr  4 23:24:44 2026] <STEAM_0:1:54838838> BloodySmile used tool "remover"
+[Sat Apr  4 23:24:50 2026] <STEAM_0:1:410319943> Gray Blackwell: /me тычит в руки делая вид будто держет устройство или телефон протягивая им в ответ
+[Sat Apr  4 23:25:20 2026] <STEAM_0:0:887714123> Po_rA1: /me Достал телефон и включил переводчик с немецкого на русский. После передал
+[Sat Apr  4 23:25:43 2026] <STEAM_0:1:54838838> BloodySmile ran command "goto 'Struna'"
+[Sat Apr  4 23:26:19 2026] <STEAM_0:1:54838838> BloodySmile ran command "invisible unknown1"
+[Sat Apr  4 23:26:23 2026] <STEAM_0:1:54838838> BloodySmile ran command "invisible unknown1"
+[Sat Apr  4 23:26:24 2026] <STEAM_0:1:410319943> Gray Blackwell: /me Девушка спокойно выдохнула после чего начала говорить" Ich bin nur ein normaler Mediziner neutraler Art, um Menschen und Bürgern zu helfen, die in Schwierigkeiten geraten sind. Sogar Ihre Armee, wenn sie gefangen genommen wurden..."  (Я просто обычный медик нейтрального вида приехала помогать людям,  и гражданам которые попали в беду. Даже вашей армии если попали в плен...)
+[Sat Apr  4 23:27:00 2026] <STEAM_0:1:54838838> BloodySmile ran command "noclip unknown1"
+[Sat Apr  4 23:27:20 2026] <STEAM_0:0:887714123> Po_rA1: /me Взял телефон и сказал. "Почему на  тебе форма Спецназа SGS 9?"
+[Sat Apr  4 23:27:31 2026] <STEAM_0:0:887714123> Po_rA1: gsg
+[Sat Apr  4 23:27:43 2026] <STEAM_0:0:887714123> Po_rA1: /me Передал телефон
+[Sat Apr  4 23:27:47 2026] <STEAM_0:1:558349975> Kotik: /nato Сбор в ангаре на спасалку
+[Sat Apr  4 23:27:49 2026] <STEAM_0:0:642089283> Мраз: /me Громко вздохнув, ответил девушке "Selbst wenn Sie Sanitäter sind, was tun Sie in einer Militäruniform?" (Даже если вы и медик, то что вы делаете в военной форме?)
+[Sat Apr  4 23:28:04 2026] <STEAM_0:1:558349975> Kotik: спасалка
+[Sat Apr  4 23:28:07 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Sat Apr  4 23:28:07 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [714][sw_bomb_ao1_v3]"
+[Sat Apr  4 23:28:10 2026] <STEAM_0:1:558349975> Kotik: нашего взяли
+[Sat Apr  4 23:28:33 2026] <STEAM_0:1:410319943> Gray Blackwell: /me Продолжила говорить "Mir wurde gegeben, was passiert ist... sie sagten, es gebe keine Form für mich... und Ihre Streifen wurden abgerissen, als ich neben einem Mann, der mit 2 Stäbchen auf dem Boden lag, auf dem Boden lag" (Мне дали что было... сказали для меня формы нету... а нашивки ваши сорвали когда я лежала на земле рядом с человеком который был с 2-я палочками)
+[Sat Apr  4 23:28:53 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [714][lvs_wheeldrive_kamazfuel]"
+[Sat Apr  4 23:28:55 2026] <STEAM_0:1:425612974> impotent: /nato 124 - рч
+[Sat Apr  4 23:28:58 2026] <STEAM_0:1:558349975> Kotik ran command "pm unk спасалка"
+[Sat Apr  4 23:29:01 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [770][sw_mine_tm62_v3]"
+[Sat Apr  4 23:29:20 2026] <STEAM_0:0:642089283> Мраз: /me Продолжил отвечать Zwei Streifen an den Schultergurten wie bei mir? (Две полоски на погонах как у меня?)
+[Sat Apr  4 23:29:25 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [777][sw_mine_tm62_v3]"
+[Sat Apr  4 23:29:40 2026] <STEAM_0:0:887714123> Po_rA1: /me Взял телефон и сказал. "Этим должно ООН заниматься, или ты от ООН?"
+[Sat Apr  4 23:29:55 2026] <STEAM_0:0:887714123> Po_rA1: /me Передал телефон
+[Sat Apr  4 23:30:03 2026] <STEAM_0:0:887714123> Po_rA1: /me Передал телефон
+[Sat Apr  4 23:30:06 2026] <STEAM_0:0:887714123> Po_rA1: /me Передал телефон
+[Sat Apr  4 23:30:07 2026] <STEAM_0:0:887714123> Po_rA1: /me Передал телефон
+[Sat Apr  4 23:30:09 2026] <STEAM_0:1:410319943> Gray Blackwell: /me Продолжила говорить "So etwas hat er nur in Silber..." (Что-то типа того только у него они серебряные...)
+[Sat Apr  4 23:30:43 2026] <STEAM_0:0:792217028> Pobowhite: /ooc смирнов, слона в комнате не замечаешь
+[Sat Apr  4 23:30:46 2026] <STEAM_0:1:558349975> Kotik ran command "pm unk спасалка ок?"
+[Sat Apr  4 23:31:01 2026] <STEAM_0:1:514738252> "White": // Астрал, ну чо, согласовать надобно наше этокое мероприятие
+[Sat Apr  4 23:31:02 2026] <STEAM_0:0:642089283> Мраз: /c ?
+[Sat Apr  4 23:31:02 2026] <STEAM_0:1:54838838> BloodySmile ran command "pm Kotik no"
+[Sat Apr  4 23:31:08 2026] <STEAM_0:1:558349975> Kotik ran command "pm unk а чего?"
+[Sat Apr  4 23:31:32 2026] <STEAM_0:0:642089283> Мраз: /me Ответил Bist du sicher, dass es Palkia und nicht Sterne sind? (Уверена что палкиа, а не звёзды?)
+[Sat Apr  4 23:31:35 2026] <STEAM_0:0:642089283> Мраз: /me Ответил Bist du sicher, dass es Palkia und nicht Sterne sind? (Уверена что палкиа, а не звёзды?)
+[Sat Apr  4 23:31:35 2026] <STEAM_0:1:54838838> BloodySmile ran command "pm Kotik в правилах не прописано и всем это не нрав"
+[Sat Apr  4 23:31:50 2026] <STEAM_0:1:558349975> Kotik ran command "pm unk а нам тогда не нрав то что наших берут в плен"
+[Sat Apr  4 23:32:00 2026] <STEAM_0:0:792217028> Pobowhite: /ooc думай
+[Sat Apr  4 23:32:03 2026] <STEAM_0:1:558349975> Kotik ran command "pm unk Мы делаем доп рп буквально"
+[Sat Apr  4 23:32:14 2026] <STEAM_0:0:642089283> Мраз: /c Я тебе гадалка или что? Я с тобой в угадайку играть не собираюсь
+[Sat Apr  4 23:32:17 2026] THE-_-Reper has killed Mr.Monolith.
+[Sat Apr  4 23:32:20 2026] "White" has killed Worshiper of God.
+[Sat Apr  4 23:32:21 2026] Worshiper of God has killed Worshiper of God.
+[Sat Apr  4 23:32:23 2026] <STEAM_0:1:47931114> Mr.Monolith ran command "respawn ^"
+[Sat Apr  4 23:32:26 2026] <STEAM_0:1:425612974> impotent: /nato уведомляете в /com, Даете 10-15 минут на подготовку и идете (())
+[Sat Apr  4 23:32:30 2026] <STEAM_0:1:410319943> Gray Blackwell: /me Говорит "Ich habe nur zwei silberne Stöcke neben mir gesehen, als mich eure mit ihm angegriffen haben...und sie haben ihn erschossen und mich gefangen genommen, indem sie alles zerstört haben... sogar ein Kreuz..." (Я видела только рядом собой 2-е палочки серебреные когда на меня с ним напали ваши...и пристрелили его а меня взяли в плен сорвав всё... даже крест...)
+[Sat Apr  4 23:32:40 2026] <STEAM_0:1:558349975> Kotik: /nato рейд?
+[Sat Apr  4 23:32:56 2026] Pioner has killed Worshiper of God.
+[Sat Apr  4 23:33:05 2026] <STEAM_0:0:642089283> Мраз: /rf Т. прапорщик Трофимов
+[Sat Apr  4 23:33:21 2026] <STEAM_0:1:47931114> Mr.Monolith: /rf Слушаю
+[Sat Apr  4 23:33:31 2026] <STEAM_0:0:642089283> Мраз: /me Продолжает говорить Handeln Sie im Auftrag der UN oder nicht? (Ты от ООН действуйешь или нет?)
+[Sat Apr  4 23:33:32 2026] <STEAM_0:1:54838838> BloodySmile ran command "pm Kotik у вас перевес"
+[Sat Apr  4 23:33:38 2026] <STEAM_0:1:54838838> BloodySmile ran command "pm Kotik даже для рейда"
+[Sat Apr  4 23:33:41 2026] <STEAM_0:0:642089283> Мраз: /rf Пройдите в блок КПЗ
+[Sat Apr  4 23:33:53 2026] "White" has killed Worshiper of God.
+[Sat Apr  4 23:34:02 2026] "White" has killed Worshiper of God.
+[Sat Apr  4 23:34:09 2026] <STEAM_0:1:54838838> BloodySmile: /drop manuy
+[Sat Apr  4 23:34:09 2026] <STEAM_0:1:425612974> impotent: /nato Крч, если своего штурмом освободить, то только так (())
+[Sat Apr  4 23:34:10 2026] <STEAM_0:0:887714123> Po_rA1: /rf Товарищ прапорщик. Подойдите в изолятор пожалуйста
+[Sat Apr  4 23:34:20 2026] <STEAM_0:1:558349975> Kotik: /nato (( рейд типо? ))
+[Sat Apr  4 23:34:24 2026] <STEAM_0:1:526999954> THE-_-Reper: /rp достав ломку , пробил ею голову солдата
+[Sat Apr  4 23:34:28 2026] <STEAM_0:1:558349975> Kotik: /nato (( да бред ))
+[Sat Apr  4 23:34:39 2026] <STEAM_0:1:558349975> Kotik: /nato (( да бред ))
+[Sat Apr  4 23:34:44 2026] <STEAM_0:1:558349975> Kotik: /nato (( да бред ))
+[Sat Apr  4 23:34:45 2026] <STEAM_0:1:410319943> Gray Blackwell: /me Говорит "Ich habe nur zwei silberne Stöcke neben mir gesehen, als mich eure mit ihm angegriffen haben...und sie haben ihn erschossen und mich gefangen genommen, indem sie alles zerstört haben... /me Девушка задумалась и вспоминала что такое оон но после чего ответила "Ich bin nur ein Chirurg mit Gataleia, teilweise wurde ich von Blauhelmen gebeten, hierher zu kommen" (Я просто Хирург с Гаталеии частично меня попросили сюда синии каски придти но я итак сюда уже ехала)
+[Sat Apr  4 23:34:45 2026] <STEAM_0:1:558349975> Kotik: /me выбил оружие из рук и скрутил человека напротив
+[Sat Apr  4 23:34:46 2026] <STEAM_0:1:425612974> impotent: /nato Типо того (())
+[Sat Apr  4 23:35:05 2026] <STEAM_0:1:558349975> Kotik: /nato (( Я просто сделаю дивку и все, ну бред ))
+[Sat Apr  4 23:35:07 2026] <STEAM_0:1:558349975> Kotik: /nato (( Я просто сделаю дивку и все, ну бред ))
+[Sat Apr  4 23:35:10 2026] <STEAM_0:1:54838838> BloodySmile spawned SWEP "Weapon [728][tfa_ins2_barrett_m98_bravo]"
+[Sat Apr  4 23:35:12 2026] <STEAM_0:1:558349975> Kotik: /nato (( Я просто сделаю дивку и все, ну бред ))
+[Sat Apr  4 23:35:34 2026] <STEAM_0:0:642089283> Мраз: /me Говорит \nIhre Einheit? (Твоё подразделение?)
+[Sat Apr  4 23:35:50 2026] <STEAM_0:1:558349975> Kotik: /nato сбор на КПП на дивку
+[Sat Apr  4 23:36:11 2026] <STEAM_0:1:410319943> Gray Blackwell: /me говорит "Abteilung... Was ist das..." (Подразделение... это что...)
+[Sat Apr  4 23:36:13 2026] Mr.Monolith has killed Gray Blackwell.
+[Sat Apr  4 23:36:14 2026] Gray Blackwell has killed Gray Blackwell.
+[Sat Apr  4 23:36:39 2026] Player "Dandelion" <STEAM_0:0:148551732> is attempting to connect.
+[Sat Apr  4 23:36:57 2026] Player "impotent" <STEAM_0:1:425612974> has left the server
+[Sat Apr  4 23:37:06 2026] Mr.Monolith has killed Pioner.
+[Sat Apr  4 23:37:10 2026] <STEAM_0:1:410319943> Gray Blackwell: /ooc а за что убили?
+[Sat Apr  4 23:37:18 2026] "White" has killed Po_rA1.
+[Sat Apr  4 23:37:30 2026] Pobowhite has killed Mr.Monolith.
+[Sat Apr  4 23:37:33 2026] <STEAM_0:1:47931114> Mr.Monolith: /rf Слушаю
+[Sat Apr  4 23:37:35 2026] <STEAM_0:1:47931114> Mr.Monolith ran command "respawn ^"
+[Sat Apr  4 23:37:38 2026] <STEAM_0:1:47931114> Mr.Monolith: // откат
+[Sat Apr  4 23:37:40 2026] THE-_-Reper has killed Мраз.
+[Sat Apr  4 23:37:49 2026] <STEAM_0:1:47931114> Mr.Monolith: // откат защищенной сети
+[Sat Apr  4 23:37:53 2026] <STEAM_0:1:47931114> Mr.Monolith: // откат защищенной сети
+[Sat Apr  4 23:38:00 2026] <STEAM_0:1:47931114> Mr.Monolith: // откат защищенной сети
+[Sat Apr  4 23:38:11 2026] <STEAM_0:1:923042528> Pioner: /me перебентовал поврежденную часть тела
+[Sat Apr  4 23:38:17 2026] <STEAM_0:0:642089283> Мраз: /c От базы съебались
+[Sat Apr  4 23:38:19 2026] <STEAM_0:1:47931114> Mr.Monolith: /giveammo ^ 500
+[Sat Apr  4 23:38:22 2026] <STEAM_0:1:558349975> Kotik: /ooc поплачь
+[Sat Apr  4 23:38:27 2026] <STEAM_0:1:47931114> Mr.Monolith ran command "ammo ^ 400"
+[Sat Apr  4 23:38:35 2026] "White" has killed Worshiper of God.
+[Sat Apr  4 23:38:48 2026] <STEAM_0:1:54838838> BloodySmile: /char
+[Sat Apr  4 23:39:09 2026] <STEAM_0:1:47931114> Mr.Monolith ran command "noclip Трофимов"
+[Sat Apr  4 23:39:09 2026] <STEAM_0:1:47931114> Mr.Monolith: /noclip
+[Sat Apr  4 23:39:10 2026] <STEAM_0:1:47931114> Mr.Monolith: /noclip
+[Sat Apr  4 23:39:11 2026] <STEAM_0:1:47931114> Mr.Monolith ran command "noclip Трофимов"
+[Sat Apr  4 23:39:14 2026] Мраз has killed "White".
+[Sat Apr  4 23:39:18 2026] Player "Кирилл Колбасенк" <STEAM_0:0:554676038> has spawned in the server
+[Sat Apr  4 23:39:31 2026] Mr.Monolith has killed THE-_-Reper.
+[Sat Apr  4 23:39:37 2026] Kotik has killed Mr.Monolith.
+[Sat Apr  4 23:39:47 2026] <STEAM_0:1:47931114> Mr.Monolith ran command "respawn ^"
+[Sat Apr  4 23:39:58 2026] <STEAM_0:1:47931114> Mr.Monolith ran command "ammo ^ 400"
+[Sat Apr  4 23:40:15 2026] Player "Dandelion" <STEAM_0:0:148551732> has spawned in the server
+[Sat Apr  4 23:40:23 2026] Kotik has killed Worshiper of God.
+[Sat Apr  4 23:40:38 2026] Kotik has killed BloodySmile.
+[Sat Apr  4 23:40:48 2026] <STEAM_0:1:54838838> BloodySmile ran command "respawn Андреев"
+[Sat Apr  4 23:41:15 2026] <STEAM_0:0:642089283> Мраз: /rf Я иду им в спину
+[Sat Apr  4 23:41:28 2026] Kotik has killed Worshiper of God.
+[Sat Apr  4 23:42:03 2026] Мраз has killed Pobowhite.
+[Sat Apr  4 23:42:03 2026] Kotik has killed Мраз.
+[Sat Apr  4 23:42:13 2026] Pioner has killed Mr.Monolith.
+[Sat Apr  4 23:42:16 2026] Po_rA1 has killed Kotik.
+[Sat Apr  4 23:42:18 2026] <STEAM_0:1:47931114> Mr.Monolith ran command "respawn ^"
+[Sat Apr  4 23:42:27 2026] Pioner has killed Po_rA1.
+[Sat Apr  4 23:43:25 2026] <STEAM_0:1:410319943> Gray Blackwell: /ooc перемирия вроде бы шло...но когда? если РФ захватывала базы...и потом начала херачить по нам... и меня в плен взяли
+[Sat Apr  4 23:43:33 2026] <STEAM_0:0:792217028> Pobowhite: Струна?
+[Sat Apr  4 23:43:50 2026] <STEAM_0:0:792217028> Pobowhite: /ooc Какое перемирие, те в уши ссут
+[Sat Apr  4 23:44:08 2026] <STEAM_0:0:792217028> Pobowhite: /nato призывника можете обучить?
+[Sat Apr  4 23:44:13 2026] <STEAM_0:0:792217028> Pobowhite: /nato призывника можете обучить?
+[Sat Apr  4 23:44:14 2026] <STEAM_0:0:792217028> Pobowhite: /nato призывника можете обучить?
+[Sat Apr  4 23:44:19 2026] <STEAM_0:0:792217028> Pobowhite: /nato призывника можете обучить?
+[Sat Apr  4 23:44:34 2026] <STEAM_0:1:514738252> "White": /nato Ты и займись
+[Sat Apr  4 23:45:17 2026] "White" has killed Po_rA1.
+[Sat Apr  4 23:45:39 2026] <STEAM_0:1:410319943> Gray Blackwell: /me зовёт за собой
+[Sat Apr  4 23:45:40 2026] <STEAM_0:0:887714123> Po_rA1: /me Поднял руки
+[Sat Apr  4 23:46:00 2026] "White" has killed Po_rA1.
+[Sat Apr  4 23:46:25 2026] <STEAM_0:1:54838838> BloodySmile ran command "ammo 300"
+[Sat Apr  4 23:46:33 2026] <STEAM_0:1:54838838> BloodySmile ran command "ammo ^ 300"
+[Sat Apr  4 23:46:36 2026] <STEAM_0:1:410319943> Gray Blackwell: /me зовёт за собой
+[Sat Apr  4 23:47:34 2026] <STEAM_0:1:514738252> "White": ?
+[Sat Apr  4 23:47:39 2026] <STEAM_0:1:410319943> Gray Blackwell: /me Достала планшет и спокойно посмотрела на тело человека на против проверяя его вид на повреждения
+[Sat Apr  4 23:48:06 2026] <STEAM_0:0:792217028> Pobowhite: Орешек
+[Sat Apr  4 23:48:10 2026] <STEAM_0:0:792217028> Pobowhite: Ты как попал сюда вообще?
+[Sat Apr  4 23:48:14 2026] Кирилл Колбасенк has killed ѾПон ЧокѾ.
+[Sat Apr  4 23:48:27 2026] <STEAM_0:0:792217028> Pobowhite: Нормально
+[Sat Apr  4 23:48:55 2026] <STEAM_0:0:792217028> Pobowhite: Постою тут
+[Sat Apr  4 23:48:57 2026] <STEAM_0:1:410319943> Gray Blackwell: /me Достала планшет и начала говорить в него "Also...ich werde Sie nicht foltern...ich möchte nach dem Guten fragen...wer Sie sind...ich werde von ganzem Herzen versuchen, dass Sie nicht getötet oder gefoltert werden." Итак...пытать я вас не буду...хочется спросить по хорошему...кем вы являетесь...я буду пытаться всей душой чтоб вас не убили и не пытали.)
+[Sat Apr  4 23:49:17 2026] <STEAM_0:0:792217028> Pobowhite: Итак...пытать я вас не буду...хочется спросить по\n хорошему...кем вы являетесь...я буду пытаться всей душой чтоб вас не убили и не пытали.
+[Sat Apr  4 23:49:18 2026] <STEAM_0:1:410319943> Gray Blackwell: /me Протянула планшет с переводом человеку
+[Sat Apr  4 23:49:21 2026] <STEAM_0:1:410319943> Gray Blackwell: /me Протянула планшет с переводом человеку
+[Sat Apr  4 23:49:25 2026] <STEAM_0:0:792217028> Pobowhite: А
+[Sat Apr  4 23:49:26 2026] <STEAM_0:0:792217028> Pobowhite: Давай
+[Sat Apr  4 23:49:29 2026] <STEAM_0:0:792217028> Pobowhite: Давай
+[Sat Apr  4 23:49:32 2026] <STEAM_0:0:792217028> Pobowhite: Я весь во внимании
+[Sat Apr  4 23:49:34 2026] <STEAM_0:1:54838838> BloodySmile ran command "ammo ^ 300"
+[Sat Apr  4 23:49:55 2026] <STEAM_0:0:792217028> Pobowhite: Kolesnikow von der 3. Schützenbrigade
+[Sat Apr  4 23:50:03 2026] <STEAM_0:1:410319943> Gray Blackwell: угу...
+[Sat Apr  4 23:50:04 2026] <STEAM_0:0:792217028> Pobowhite: Дальше?
+[Sat Apr  4 23:50:21 2026] Player "Кирилл Колбасенк" <STEAM_0:0:554676038> has left the server
+[Sat Apr  4 23:50:30 2026] Player "Lord of the world" <STEAM_0:1:425432238> is attempting to connect.
+[Sat Apr  4 23:50:57 2026] Player "Мраз" <STEAM_0:0:642089283> has left the server
+[Sat Apr  4 23:51:03 2026] <STEAM_0:0:792217028> Pobowhite: У человека планшет же
+[Sat Apr  4 23:51:05 2026] <STEAM_0:0:792217028> Pobowhite: Нет?
+[Sat Apr  4 23:51:07 2026] <STEAM_0:0:792217028> Pobowhite: Нет?
+[Sat Apr  4 23:51:23 2026] <STEAM_0:1:410319943> Gray Blackwell: /me Взяла планшет и продолжила писать после чего сказала туда "Mein lieber Mann...es tut mir sehr leid, dass Sie in diese Situation geraten sind, aber ich kann den Zweck Ihrer Ankunft hier herausfinden. Und in Zukunft, damit Sie sich freilassen können, sich ruhig zu verhalten?" Дорогой мой человек...мне очень жаль что вы попали в такую ситуацию, но могу я узнать цель вашего прибытия сюда. И в будущем чтоб вас могли отпустить предложить вести себя спокойно?
+[Sat Apr  4 23:51:31 2026] <STEAM_0:1:923042528> Pioner: а его рпкашать можно?
+[Sat Apr  4 23:51:41 2026] Player "Lord of the world" <STEAM_0:1:425432238> has spawned in the server
+[Sat Apr  4 23:51:46 2026] <STEAM_0:0:792217028> Pobowhite: Что такое "рпкшать"?
+[Sat Apr  4 23:51:47 2026] <STEAM_0:1:410319943> Gray Blackwell: /looc ну нет...ну пж...ну дай поиграть с ним...
+[Sat Apr  4 23:51:52 2026] <STEAM_0:1:410319943> Gray Blackwell: /looc ну нет...ну пж...ну дай поиграть с ним...
+[Sat Apr  4 23:51:54 2026] <STEAM_0:1:410319943> Gray Blackwell: /looc ну нет...ну пж...ну дай поиграть с ним...
+[Sat Apr  4 23:52:01 2026] <STEAM_0:1:923042528> Pioner: убить
+[Sat Apr  4 23:52:04 2026] <STEAM_0:1:514738252> "White": А лимонадов
+[Sat Apr  4 23:52:08 2026] <STEAM_0:1:514738252> "White": Уже брали его
+[Sat Apr  4 23:52:11 2026] <STEAM_0:1:514738252> "White": Ну тоесть убрали
+[Sat Apr  4 23:52:14 2026] <STEAM_0:1:514738252> "White": Из МО РФ
+[Sat Apr  4 23:52:27 2026] <STEAM_0:1:514738252> "White": У них еще есть капитан Амбассадоров
+[Sat Apr  4 23:52:29 2026] <STEAM_0:1:514738252> "White": Еще какой то
+[Sat Apr  4 23:52:37 2026] <STEAM_0:1:410319943> Gray Blackwell: На нем: можно его не убивать...
+[Sat Apr  4 23:52:38 2026] <STEAM_0:1:514738252> "White": И полковник АНгел
+[Sat Apr  4 23:52:42 2026] <STEAM_0:1:514738252> "White": ФСБ, ССО
+[Sat Apr  4 23:53:03 2026] <STEAM_0:1:514738252> "White": Блять, ну Колесников какой раз нам попадаешься
+[Sat Apr  4 23:53:03 2026] Player "ѾПон ЧокѾ" <STEAM_0:1:711510267> has left the server
+[Sat Apr  4 23:53:07 2026] Player "ѾПон ЧокѾ" <STEAM_0:1:711510267> is attempting to connect.
+[Sat Apr  4 23:53:20 2026] <STEAM_0:0:148551732> Dandelion: Он уже свой тут почти
+[Sat Apr  4 23:53:25 2026] <STEAM_0:0:74235942> Worshiper of God: /com пасивные в сексе че как вам счастье сидеть без точек?
+[Sat Apr  4 23:53:28 2026] <STEAM_0:1:514738252> "White": Чего...
+[Sat Apr  4 23:53:37 2026] Player "ѾПон ЧокѾ" <STEAM_0:1:711510267> has spawned in the server
+[Sat Apr  4 23:53:38 2026] <STEAM_0:1:514738252> "White": Это рядик блять
+[Sat Apr  4 23:53:43 2026] <STEAM_0:1:514738252> "White": Че ты от него получаешь
+[Sat Apr  4 23:53:45 2026] <STEAM_0:0:792217028> Pobowhite: /ooc Мне похуй честно, не знаешь ли бля?
+[Sat Apr  4 23:53:47 2026] <STEAM_0:1:514738252> "White": Ты Капитан
+[Sat Apr  4 23:53:51 2026] <STEAM_0:1:514738252> "White": Че ты получил от него
+[Sat Apr  4 23:53:54 2026] <STEAM_0:0:148551732> Dandelion: /com Похуй как-то
+[Sat Apr  4 23:54:03 2026] <STEAM_0:1:514738252> "White": Пздц
+[Sat Apr  4 23:54:07 2026] <STEAM_0:1:514738252> "White": Ты получил целое нихуя
+[Sat Apr  4 23:54:09 2026] <STEAM_0:0:74235942> Worshiper of God: /com ну чувствуется как вы проебываете нам в хуй
+[Sat Apr  4 23:54:14 2026] <STEAM_0:1:514738252> "White": Все что нужно мы получили из их офицеров
+[Sat Apr  4 23:54:17 2026] "White" has killed Po_rA1.
+[Sat Apr  4 23:54:34 2026] <STEAM_0:1:410319943> Gray Blackwell: но зачем...
+[Sat Apr  4 23:54:39 2026] <STEAM_0:1:514738252> "White": /rp Достал из за спины томагавк отсекая голову бойцу ВС РФ и фотка после на телефон
+[Sat Apr  4 23:54:41 2026] <STEAM_0:1:514738252> "White": А забавы ради
+[Sat Apr  4 23:54:41 2026] <STEAM_0:1:526999954> THE-_-Reper: /comm Брат , если что точки интереса сломались по велению господа бога или кто у вас там
+[Sat Apr  4 23:55:08 2026] <STEAM_0:0:792217028> Pobowhite: /ooc 0, ощущается как 10, да?
+[Sat Apr  4 23:56:08 2026] "White" has killed "White".
+[Sat Apr  4 23:56:20 2026] <STEAM_0:0:792217028> Pobowhite: /com I can't hear your grunts, fat cunt, shut the fuck up and breathe through your mouth while you can.
+[Sat Apr  4 23:56:24 2026] Lord of the world has killed Po_rA1.
+[Sat Apr  4 23:56:33 2026] Player "Pioner" <STEAM_0:1:923042528> has left the server
+[Sat Apr  4 23:56:36 2026] Player "Pioner" <STEAM_0:1:923042528> is attempting to connect.
+[Sat Apr  4 23:57:05 2026] Mr.Monolith has killed Gray Blackwell.
+[Sat Apr  4 23:57:18 2026] Player "Pioner" <STEAM_0:1:923042528> has spawned in the server
+[Sat Apr  4 23:58:00 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [726][sw_rocket_pg9v_v3]"
+[Sat Apr  4 23:58:03 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [752][sw_rocket_pg9v_v3]"
+[Sat Apr  4 23:58:07 2026] <STEAM_0:1:410319943> Gray Blackwell: /ooc Пайпа это что щяс было? почему по своим херачишь
+[Sat Apr  4 23:58:22 2026] Lord of the world has killed Po_rA1.
+[Sat Apr  4 23:58:34 2026] <STEAM_0:0:792217028> Pobowhite: /ooc логи хочешь увидить - глянь, посмотри
+[Sat Apr  4 23:58:44 2026] Mr.Monolith has killed "White".
+[Sat Apr  4 23:58:58 2026] <STEAM_0:1:410319943> Gray Blackwell: /ooc я просто увидеть как из твоего ствола пуля вылетела...
+[Sat Apr  4 23:59:20 2026] <STEAM_0:1:54838838> BloodySmile: /ooc хех
+[Sat Apr  4 23:59:22 2026] <STEAM_0:0:792217028> Pobowhite: /ooc че

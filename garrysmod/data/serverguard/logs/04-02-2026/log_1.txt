@@ -1,0 +1,2162 @@
+[Thu Apr  2 19:37:36 2026] Player "Discar" <STEAM_0:0:650470378> is attempting to connect.
+[Thu Apr  2 19:38:22 2026] Player "Discar" <STEAM_0:0:650470378> has spawned in the server
+[Thu Apr  2 19:39:02 2026] Player "gREG4IK" <STEAM_0:1:455594560> is attempting to connect.
+[Thu Apr  2 19:40:39 2026] Player "gREG4IK" <STEAM_0:1:455594560> has spawned in the server
+[Thu Apr  2 19:42:08 2026] Player "Kotik" <STEAM_0:1:558349975> is attempting to connect.
+[Thu Apr  2 19:42:53 2026] <STEAM_0:0:650470378> Discar: /ooc Где мой лейтинант и КМД ГТП
+[Thu Apr  2 19:42:59 2026] <STEAM_0:1:455594560> gREG4IK ran command "goto Дискаров"
+[Thu Apr  2 19:43:03 2026] <STEAM_0:1:455594560> gREG4IK: ?
+[Thu Apr  2 19:43:05 2026] <STEAM_0:1:455594560> gREG4IK: кого?
+[Thu Apr  2 19:43:21 2026] <STEAM_0:1:455594560> gREG4IK: ГТП ЭТО?
+[Thu Apr  2 19:43:47 2026] <STEAM_0:1:455594560> gREG4IK: А летеха?
+[Thu Apr  2 19:44:21 2026] <STEAM_0:1:455594560> gREG4IK: все?
+[Thu Apr  2 19:45:14 2026] <STEAM_0:0:650470378> Discar: /ooc баг с ключами ахахахах
+[Thu Apr  2 19:45:36 2026] Player "Discar" <STEAM_0:0:650470378> has left the server
+[Thu Apr  2 19:45:38 2026] Player "Discar" <STEAM_0:0:650470378> is attempting to connect.
+[Thu Apr  2 19:46:18 2026] Player "Discar" <STEAM_0:0:650470378> has spawned in the server
+[Thu Apr  2 19:49:49 2026] Player "Sou1" <STEAM_0:1:618974024> is attempting to connect.
+[Thu Apr  2 19:49:57 2026] <STEAM_0:0:650470378> Discar: /ooc клыч забагался
+[Thu Apr  2 19:50:02 2026] <STEAM_0:1:455594560> gREG4IK ran command "goto Дискаров"
+[Thu Apr  2 19:50:04 2026] <STEAM_0:0:650470378> Discar: /ooc *ключ
+[Thu Apr  2 19:50:19 2026] Player "ZALP" <STEAM_0:1:473271326> is attempting to connect.
+[Thu Apr  2 19:50:27 2026] Player "Emperor of Mankind" <STEAM_0:1:443626364> is attempting to connect.
+[Thu Apr  2 19:50:56 2026] Player "Sou1" <STEAM_0:1:618974024> has spawned in the server
+[Thu Apr  2 19:51:09 2026] Player "ZALP" <STEAM_0:1:473271326> has spawned in the server
+[Thu Apr  2 19:51:35 2026] <STEAM_0:1:455594560> gREG4IK ran command "goto Zalp Vebalo"
+[Thu Apr  2 19:51:41 2026] <STEAM_0:1:618974024> Sou1: // грег ну что?
+[Thu Apr  2 19:51:42 2026] Player "Emperor of Mankind" <STEAM_0:1:443626364> has spawned in the server
+[Thu Apr  2 19:51:55 2026] Player "Kotik" <STEAM_0:1:558349975> has spawned in the server
+[Thu Apr  2 19:52:25 2026] Player "#warlrod bloody" <STEAM_0:1:406895857> is attempting to connect.
+[Thu Apr  2 19:53:49 2026] <STEAM_0:1:618974024> Sou1: // грег, подлети ко мне а
+[Thu Apr  2 19:53:53 2026] <STEAM_0:1:618974024> Sou1: // да
+[Thu Apr  2 19:54:12 2026] Player "Kotik" <STEAM_0:1:558349975> has left the server
+[Thu Apr  2 19:54:40 2026] Player "Kotik" <STEAM_0:1:558349975> is attempting to connect.
+[Thu Apr  2 19:56:06 2026] <STEAM_0:1:455594560> gREG4IK ran command "goto Соколов"
+[Thu Apr  2 19:56:22 2026] <STEAM_0:1:455594560> gREG4IK ran command "menu"
+[Thu Apr  2 19:56:34 2026] <STEAM_0:1:455594560> gREG4IK ran command "menu"
+[Thu Apr  2 19:56:39 2026] <STEAM_0:1:618974024> Sou1: ulx?
+[Thu Apr  2 19:56:55 2026] <STEAM_0:1:455594560> gREG4IK ran command "menu"
+[Thu Apr  2 19:57:00 2026] <STEAM_0:1:443626364> Emperor of Mankind spawned SENT "Entity [623][item_rpg_round]"
+[Thu Apr  2 19:57:01 2026] <STEAM_0:1:443626364> Emperor of Mankind spawned SENT "Entity [695][item_rpg_round]"
+[Thu Apr  2 19:57:01 2026] <STEAM_0:1:443626364> Emperor of Mankind spawned SENT "Entity [696][item_rpg_round]"
+[Thu Apr  2 19:57:01 2026] <STEAM_0:1:443626364> Emperor of Mankind spawned SENT "Entity [697][item_rpg_round]"
+[Thu Apr  2 19:57:01 2026] <STEAM_0:1:443626364> Emperor of Mankind spawned SENT "Entity [623][item_rpg_round]"
+[Thu Apr  2 19:57:01 2026] <STEAM_0:1:443626364> Emperor of Mankind spawned SENT "Entity [698][item_rpg_round]"
+[Thu Apr  2 19:57:01 2026] <STEAM_0:1:443626364> Emperor of Mankind spawned SENT "Entity [699][item_rpg_round]"
+[Thu Apr  2 19:57:02 2026] <STEAM_0:1:443626364> Emperor of Mankind spawned SENT "Entity [695][item_rpg_round]"
+[Thu Apr  2 19:57:02 2026] <STEAM_0:1:443626364> Emperor of Mankind spawned SENT "Entity [696][item_rpg_round]"
+[Thu Apr  2 19:57:04 2026] <STEAM_0:1:443626364> Emperor of Mankind spawned SENT "Entity [623][item_rpg_round]"
+[Thu Apr  2 19:57:04 2026] <STEAM_0:1:443626364> Emperor of Mankind spawned SENT "Entity [695][item_rpg_round]"
+[Thu Apr  2 19:57:06 2026] <STEAM_0:1:455594560> gREG4IK ran command "menu"
+[Thu Apr  2 19:57:51 2026] Player "Kotik" <STEAM_0:1:558349975> has spawned in the server
+[Thu Apr  2 19:57:53 2026] <STEAM_0:1:473271326> ZALP: // Сеньор грэг ви хэв проблему
+[Thu Apr  2 19:58:02 2026] <STEAM_0:1:618974024> Sou1: /rf дискаров ты тут?
+[Thu Apr  2 19:58:09 2026] <STEAM_0:1:618974024> Sou1: // ща ща погодите
+[Thu Apr  2 19:58:20 2026] <STEAM_0:1:618974024> Sou1: // ща ща погодите, я до него ели додолбился, ждите
+[Thu Apr  2 19:58:22 2026] <STEAM_0:1:618974024> Sou1: // ща ща погодите, я до него ели додолбился, ждите
+[Thu Apr  2 19:58:23 2026] <STEAM_0:1:618974024> Sou1: // ща ща погодите, я до него ели додолбился, ждите
+[Thu Apr  2 19:58:27 2026] <STEAM_0:1:618974024> Sou1: // ща ща погодите, я до него ели додолбился, ждите
+[Thu Apr  2 19:58:29 2026] <STEAM_0:1:618974024> Sou1: // ща ща погодите, я до него ели додолбился, ждите
+[Thu Apr  2 19:59:09 2026] <STEAM_0:0:650470378> Discar: /ooc соколов ты где?
+[Thu Apr  2 19:59:21 2026] <STEAM_0:0:650470378> Discar: Роль в ДС имеется о 68?
+[Thu Apr  2 19:59:42 2026] <STEAM_0:0:650470378> Discar: подай на мех вадо тогда
+[Thu Apr  2 19:59:51 2026] <STEAM_0:1:455594560> gREG4IK ran command "rank Соколов media 0"
+[Thu Apr  2 19:59:54 2026] <STEAM_0:1:455594560> gREG4IK ran command "menu"
+[Thu Apr  2 20:00:16 2026] <STEAM_0:1:455594560> gREG4IK ran command "goto Zalp Vebalo"
+[Thu Apr  2 20:00:21 2026] <STEAM_0:0:650470378> Discar: Ну что
+[Thu Apr  2 20:00:21 2026] <STEAM_0:1:618974024> Sou1 ran command "a ."
+[Thu Apr  2 20:00:32 2026] <STEAM_0:0:650470378> Discar: В 68 только мех воды
+[Thu Apr  2 20:00:43 2026] <STEAM_0:0:650470378> Discar: В 68 только мех воды
+[Thu Apr  2 20:00:52 2026] <STEAM_0:1:455594560> gREG4IK ran command "send Zalp Vebalo"
+[Thu Apr  2 20:00:59 2026] <STEAM_0:1:618974024> Sou1 ran command "a как пользоваться то ей"
+[Thu Apr  2 20:00:59 2026] <STEAM_0:0:650470378> Discar: Что получается
+[Thu Apr  2 20:01:05 2026] <STEAM_0:1:443626364> Emperor of Mankind: /autoheal
+[Thu Apr  2 20:01:06 2026] <STEAM_0:1:443626364> Emperor of Mankind: /autoheal
+[Thu Apr  2 20:01:06 2026] <STEAM_0:0:650470378> Discar: Подай фастом мехвода
+[Thu Apr  2 20:01:19 2026] <STEAM_0:1:455594560> gREG4IK ran command "goto Perez"
+[Thu Apr  2 20:01:23 2026] <STEAM_0:0:650470378> Discar: Подай фастом мехвода
+[Thu Apr  2 20:02:08 2026] <STEAM_0:1:618974024> Sou1: // грег ехала за нас, 3 на 3 будет
+[Thu Apr  2 20:02:32 2026] <STEAM_0:0:650470378> Discar: Соколов незнаю почему, но в 68 только механики водители
+[Thu Apr  2 20:02:42 2026] <STEAM_0:1:455594560> gREG4IK ran command "goto Perez"
+[Thu Apr  2 20:02:47 2026] <STEAM_0:0:650470378> Discar: Ты в ДС есть в РФ?
+[Thu Apr  2 20:02:57 2026] <STEAM_0:0:650470378> Discar: Да я не в войс
+[Thu Apr  2 20:04:20 2026] <STEAM_0:0:650470378> Discar: Выбирай 3 мотострелковая или 68 ГТП
+[Thu Apr  2 20:04:35 2026] <STEAM_0:0:650470378> Discar: Просто выбери
+[Thu Apr  2 20:04:43 2026] Player "Kotik" <STEAM_0:1:558349975> has left the server
+[Thu Apr  2 20:04:47 2026] <STEAM_0:0:650470378> Discar: у тебя в ролях 3 мотострелковая
+[Thu Apr  2 20:05:19 2026] Player "ZALP" <STEAM_0:1:473271326> has left the server
+[Thu Apr  2 20:05:21 2026] Player "ZALP" <STEAM_0:1:473271326> is attempting to connect.
+[Thu Apr  2 20:05:49 2026] Player "ZALP" <STEAM_0:1:473271326> has spawned in the server
+[Thu Apr  2 20:06:15 2026] <STEAM_0:1:473271326> ZALP: /me Исполнил воинское приветствие
+[Thu Apr  2 20:06:19 2026] Player "ZALP" <STEAM_0:1:473271326> has left the server
+[Thu Apr  2 20:06:49 2026] <STEAM_0:1:455594560> gREG4IK ran command "menu"
+[Thu Apr  2 20:06:56 2026] <STEAM_0:1:618974024> Sou1: /adminmode
+[Thu Apr  2 20:07:09 2026] <STEAM_0:1:618974024> Sou1 ran command "a грег я так и не пойму, как админкой пользоваться то?"
+[Thu Apr  2 20:07:27 2026] Player "ZALP" <STEAM_0:1:473271326> is attempting to connect.
+[Thu Apr  2 20:08:09 2026] Player "ZALP" <STEAM_0:1:473271326> has spawned in the server
+[Thu Apr  2 20:08:41 2026] Player "Kotik" <STEAM_0:1:558349975> is attempting to connect.
+[Thu Apr  2 20:08:51 2026] <STEAM_0:1:618974024> Sou1: /admin
+[Thu Apr  2 20:08:55 2026] <STEAM_0:1:618974024> Sou1: /adminmode ^
+[Thu Apr  2 20:09:13 2026] Player "ghoprhd" <STEAM_0:0:453883455> is attempting to connect.
+[Thu Apr  2 20:09:26 2026] <STEAM_0:1:618974024> Sou1: // грег, помоги)
+[Thu Apr  2 20:10:25 2026] Player "Limbo" <STEAM_0:0:791981714> is attempting to connect.
+[Thu Apr  2 20:10:34 2026] <STEAM_0:1:455594560> gREG4IK: !
+[Thu Apr  2 20:10:43 2026] <STEAM_0:1:455594560> gREG4IK ran command "menu"
+[Thu Apr  2 20:10:45 2026] <STEAM_0:1:443626364> Emperor of Mankind used tool "creator"
+[Thu Apr  2 20:10:46 2026] <STEAM_0:1:443626364> Emperor of Mankind used tool "creator"
+[Thu Apr  2 20:10:46 2026] <STEAM_0:1:443626364> Emperor of Mankind used tool "creator"
+[Thu Apr  2 20:10:46 2026] <STEAM_0:1:443626364> Emperor of Mankind used tool "creator"
+[Thu Apr  2 20:10:46 2026] <STEAM_0:1:443626364> Emperor of Mankind spawned SWEP "Weapon [645][tfa_ins2_barrett_m98_bravo]"
+[Thu Apr  2 20:10:47 2026] <STEAM_0:1:443626364> Emperor of Mankind used tool "creator"
+[Thu Apr  2 20:10:47 2026] <STEAM_0:1:443626364> Emperor of Mankind used tool "creator"
+[Thu Apr  2 20:10:47 2026] <STEAM_0:1:443626364> Emperor of Mankind used tool "creator"
+[Thu Apr  2 20:10:48 2026] <STEAM_0:1:443626364> Emperor of Mankind used tool "creator"
+[Thu Apr  2 20:10:48 2026] <STEAM_0:1:443626364> Emperor of Mankind used tool "creator"
+[Thu Apr  2 20:10:48 2026] <STEAM_0:1:618974024> Sou1: !godmode
+[Thu Apr  2 20:10:49 2026] <STEAM_0:1:443626364> Emperor of Mankind used tool "creator"
+[Thu Apr  2 20:10:49 2026] <STEAM_0:1:443626364> Emperor of Mankind spawned SWEP "Weapon [684][tfa_ins2_barrett_m98_bravo]"
+[Thu Apr  2 20:10:50 2026] <STEAM_0:1:443626364> Emperor of Mankind used tool "creator"
+[Thu Apr  2 20:10:50 2026] <STEAM_0:1:443626364> Emperor of Mankind spawned SWEP "Weapon [694][tfa_ins2_barrett_m98_bravo]"
+[Thu Apr  2 20:11:25 2026] Player "Kotik" <STEAM_0:1:558349975> has spawned in the server
+[Thu Apr  2 20:11:57 2026] <STEAM_0:1:618974024> Sou1 ran command "noclip Соколов"
+[Thu Apr  2 20:11:59 2026] <STEAM_0:1:618974024> Sou1 ran command "noclip Соколов"
+[Thu Apr  2 20:12:05 2026] <STEAM_0:1:455594560> gREG4IK ran command "goto Perez"
+[Thu Apr  2 20:12:09 2026] <STEAM_0:1:473271326> ZALP: /me Исполнил воинское приветствие
+[Thu Apr  2 20:12:19 2026] <STEAM_0:1:618974024> Sou1 ran command "a грег, тут скрытие действий же автоматом стоит?"
+[Thu Apr  2 20:12:26 2026] <STEAM_0:1:618974024> Sou1 ran command "spectate Соколов"
+[Thu Apr  2 20:12:27 2026] <STEAM_0:1:455594560> gREG4IK ran command "a скрытия нет"
+[Thu Apr  2 20:12:29 2026] Player "ТАГИЛЛА" <STEAM_0:1:782845482> is attempting to connect.
+[Thu Apr  2 20:12:30 2026] <STEAM_0:1:618974024> Sou1 ran command "a ага"
+[Thu Apr  2 20:12:39 2026] Player "ghoprhd" <STEAM_0:0:453883455> has spawned in the server
+[Thu Apr  2 20:12:42 2026] <STEAM_0:1:618974024> Sou1 ran command "a типо они видят что я врубил ноуклип и тд?"
+[Thu Apr  2 20:12:47 2026] <STEAM_0:1:455594560> gREG4IK ran command "a да"
+[Thu Apr  2 20:12:56 2026] <STEAM_0:1:618974024> Sou1 ran command "a не круто"
+[Thu Apr  2 20:12:59 2026] <STEAM_0:1:618974024> Sou1 ran command "a но спасибо"
+[Thu Apr  2 20:13:02 2026] Player "Limbo" <STEAM_0:0:791981714> has spawned in the server
+[Thu Apr  2 20:14:28 2026] Player "stalker_20130" <STEAM_0:1:890482601> is attempting to connect.
+[Thu Apr  2 20:14:52 2026] <STEAM_0:1:455594560> gREG4IK: form_store
+[Thu Apr  2 20:15:20 2026] Player "Kotik" <STEAM_0:1:558349975> has left the server
+[Thu Apr  2 20:15:48 2026] <STEAM_0:1:618974024> Sou1 ran command "a а за нато же нельзя войти?"
+[Thu Apr  2 20:15:52 2026] Player "Segun" <STEAM_0:1:530604380> is attempting to connect.
+[Thu Apr  2 20:15:53 2026] <STEAM_0:1:473271326> ZALP: /me Исполнил воинское приветствие
+[Thu Apr  2 20:16:12 2026] Player "stalker_20130" <STEAM_0:1:890482601> has spawned in the server
+[Thu Apr  2 20:16:30 2026] <STEAM_0:1:455594560> gREG4IK: /event РФ наращивает силы.
+[Thu Apr  2 20:16:47 2026] <STEAM_0:1:455594560> gREG4IK: /event К БАЗАМ ПОДХОДИТЬ ЗАПРЕЩЕННО
+[Thu Apr  2 20:17:09 2026] Player "Segun" <STEAM_0:1:530604380> has spawned in the server
+[Thu Apr  2 20:17:15 2026] <STEAM_0:1:618974024> Sou1: // тогда какого у нас вчера бредли было чуть ли не в базе и кемпило нас
+[Thu Apr  2 20:17:19 2026] <STEAM_0:1:455594560> gREG4IK ran command "goto Филатов"
+[Thu Apr  2 20:17:25 2026] Player "Kotik" <STEAM_0:1:558349975> is attempting to connect.
+[Thu Apr  2 20:17:54 2026] Player "Kotik" <STEAM_0:1:558349975> has spawned in the server
+[Thu Apr  2 20:18:41 2026] <STEAM_0:1:443626364> Emperor of Mankind: /i
+[Thu Apr  2 20:19:24 2026] <STEAM_0:1:443626364> Emperor of Mankind: /com Geh spazieren, russische Schweine
+[Thu Apr  2 20:19:36 2026] <STEAM_0:1:618974024> Sou1: /com По русски базарь, хуета
+[Thu Apr  2 20:19:47 2026] <STEAM_0:1:890482601> stalker_20130: // Администрация сервера ждет ваши вопросы и жалобы в F7, мы любим вас!
+[Thu Apr  2 20:20:24 2026] <STEAM_0:1:443626364> Emperor of Mankind: /com Über euren Schwarzmalerei spreche ich nicht
+[Thu Apr  2 20:21:11 2026] <STEAM_0:1:530604380> Segun: /COM to jest czasem kiedy my zlapamy ich za dupu
+[Thu Apr  2 20:21:20 2026] <STEAM_0:1:530604380> Segun: /COM to jest czasem kiedy my zlapamy ich za dupu
+[Thu Apr  2 20:21:20 2026] <STEAM_0:1:890482601> stalker_20130: /com чо ты там пишешь дуралей
+[Thu Apr  2 20:21:25 2026] <STEAM_0:1:530604380> Segun: /COM  to jest czasem kiedy my zlapamy ich za dupu
+[Thu Apr  2 20:21:32 2026] <STEAM_0:1:890482601> stalker_20130: /com давай на могущем русском яязыке напиши
+[Thu Apr  2 20:21:37 2026] <STEAM_0:1:618974024> Sou1: /com Jeśli nie rozumiesz, czy mnie zrozumiesz?
+[Thu Apr  2 20:21:37 2026] <STEAM_0:1:455594560> gREG4IK ran command "send Самсонов"
+[Thu Apr  2 20:21:52 2026] Player "ТАГИЛЛА" <STEAM_0:1:782845482> is attempting to connect.
+[Thu Apr  2 20:21:54 2026] <STEAM_0:1:455594560> gREG4IK ran command "goto Perez"
+[Thu Apr  2 20:22:07 2026] <STEAM_0:1:455594560> gREG4IK ran command "goto Филатов"
+[Thu Apr  2 20:22:38 2026] <STEAM_0:1:443626364> Emperor of Mankind: /com Wir folgen dir, russisches Schwein
+[Thu Apr  2 20:23:22 2026] worldspawn has killed ZALP.
+[Thu Apr  2 20:24:05 2026] <STEAM_0:1:618974024> Sou1: /rf Нуждаюсь в помощи в городе. Два натовца в здании.
+[Thu Apr  2 20:24:38 2026] Sou1 has killed Emperor of Mankind.
+[Thu Apr  2 20:24:39 2026] Emperor of Mankind has killed Emperor of Mankind.
+[Thu Apr  2 20:25:34 2026] <STEAM_0:1:618974024> Sou1: /rf 1 умер уже
+[Thu Apr  2 20:25:47 2026] <STEAM_0:1:443626364> Emperor of Mankind spawned SENT "Entity [792][item_rpg_round]"
+[Thu Apr  2 20:25:47 2026] <STEAM_0:1:618974024> Sou1: /rf другой в здании которое ближе к нам
+[Thu Apr  2 20:25:47 2026] <STEAM_0:1:443626364> Emperor of Mankind spawned SENT "Entity [793][item_rpg_round]"
+[Thu Apr  2 20:25:47 2026] <STEAM_0:1:443626364> Emperor of Mankind spawned SENT "Entity [794][item_rpg_round]"
+[Thu Apr  2 20:25:47 2026] <STEAM_0:1:443626364> Emperor of Mankind spawned SENT "Entity [795][item_rpg_round]"
+[Thu Apr  2 20:25:47 2026] <STEAM_0:1:443626364> Emperor of Mankind spawned SENT "Entity [796][item_rpg_round]"
+[Thu Apr  2 20:25:48 2026] <STEAM_0:1:443626364> Emperor of Mankind spawned SENT "Entity [797][item_rpg_round]"
+[Thu Apr  2 20:25:48 2026] <STEAM_0:1:443626364> Emperor of Mankind spawned SENT "Entity [799][item_rpg_round]"
+[Thu Apr  2 20:25:48 2026] <STEAM_0:1:443626364> Emperor of Mankind spawned SENT "Entity [792][item_rpg_round]"
+[Thu Apr  2 20:25:48 2026] <STEAM_0:1:443626364> Emperor of Mankind spawned SENT "Entity [793][item_rpg_round]"
+[Thu Apr  2 20:25:48 2026] <STEAM_0:1:443626364> Emperor of Mankind spawned SENT "Entity [791][item_rpg_round]"
+[Thu Apr  2 20:25:48 2026] <STEAM_0:1:443626364> Emperor of Mankind spawned SENT "Entity [794][item_rpg_round]"
+[Thu Apr  2 20:25:48 2026] <STEAM_0:1:443626364> Emperor of Mankind spawned SENT "Entity [795][item_rpg_round]"
+[Thu Apr  2 20:25:49 2026] <STEAM_0:1:443626364> Emperor of Mankind spawned SENT "Entity [796][item_rpg_round]"
+[Thu Apr  2 20:25:49 2026] <STEAM_0:1:443626364> Emperor of Mankind spawned SENT "Entity [799][item_rpg_round]"
+[Thu Apr  2 20:25:59 2026] <STEAM_0:1:618974024> Sou1: /rf другой в здании которое ближе к нам
+[Thu Apr  2 20:26:19 2026] Player "★☾₳ⱤØ₦₦ł₭☽★" <STEAM_0:0:456016030> is attempting to connect.
+[Thu Apr  2 20:26:30 2026] <STEAM_0:0:650470378> Discar: /rf Соколов перейди на 453 частоту
+[Thu Apr  2 20:27:20 2026] <STEAM_0:1:890482601> stalker_20130: // грэг а там в правах медиа что?
+[Thu Apr  2 20:27:24 2026] <STEAM_0:1:890482601> stalker_20130: // ноклип?
+[Thu Apr  2 20:27:38 2026] ZALP has killed Sou1.
+[Thu Apr  2 20:27:38 2026] Player "punk" <STEAM_0:0:921324874> is attempting to connect.
+[Thu Apr  2 20:27:45 2026] Limbo has killed Emperor of Mankind.
+[Thu Apr  2 20:28:05 2026] Player "★☾₳ⱤØ₦₦ł₭☽★" <STEAM_0:0:456016030> has spawned in the server
+[Thu Apr  2 20:28:26 2026] Player "punk" <STEAM_0:0:921324874> has spawned in the server
+[Thu Apr  2 20:28:32 2026] <STEAM_0:1:890482601> stalker_20130 ran command "menu"
+[Thu Apr  2 20:28:45 2026] <STEAM_0:1:618974024> Sou1: /looc я щас не в наушниках
+[Thu Apr  2 20:28:56 2026] <STEAM_0:1:443626364> Emperor of Mankind spawned SENT "Entity [798][item_rpg_round]"
+[Thu Apr  2 20:28:56 2026] <STEAM_0:1:443626364> Emperor of Mankind spawned SENT "Entity [799][item_rpg_round]"
+[Thu Apr  2 20:28:56 2026] <STEAM_0:1:443626364> Emperor of Mankind spawned SENT "Entity [800][item_rpg_round]"
+[Thu Apr  2 20:28:56 2026] <STEAM_0:1:443626364> Emperor of Mankind spawned SENT "Entity [801][item_rpg_round]"
+[Thu Apr  2 20:28:56 2026] <STEAM_0:1:443626364> Emperor of Mankind spawned SENT "Entity [802][item_rpg_round]"
+[Thu Apr  2 20:28:56 2026] <STEAM_0:1:443626364> Emperor of Mankind spawned SENT "Entity [803][item_rpg_round]"
+[Thu Apr  2 20:28:57 2026] <STEAM_0:1:443626364> Emperor of Mankind spawned SENT "Entity [804][item_rpg_round]"
+[Thu Apr  2 20:28:57 2026] <STEAM_0:1:443626364> Emperor of Mankind spawned SENT "Entity [798][item_rpg_round]"
+[Thu Apr  2 20:28:57 2026] <STEAM_0:1:443626364> Emperor of Mankind spawned SENT "Entity [667][item_rpg_round]"
+[Thu Apr  2 20:28:57 2026] <STEAM_0:1:443626364> Emperor of Mankind spawned SENT "Entity [799][item_rpg_round]"
+[Thu Apr  2 20:28:57 2026] <STEAM_0:1:443626364> Emperor of Mankind spawned SENT "Entity [800][item_rpg_round]"
+[Thu Apr  2 20:28:57 2026] <STEAM_0:1:443626364> Emperor of Mankind spawned SENT "Entity [801][item_rpg_round]"
+[Thu Apr  2 20:28:57 2026] <STEAM_0:1:443626364> Emperor of Mankind spawned SENT "Entity [802][item_rpg_round]"
+[Thu Apr  2 20:29:14 2026] <STEAM_0:1:443626364> Emperor of Mankind spawned SENT "Entity [801][lvs_wheeldrive_hummer_m134]"
+[Thu Apr  2 20:30:16 2026] Limbo has killed Emperor of Mankind.
+[Thu Apr  2 20:30:32 2026] Player "ТАГИЛЛА" <STEAM_0:1:782845482> is attempting to connect.
+[Thu Apr  2 20:31:26 2026] <STEAM_0:1:443626364> Emperor of Mankind spawned SENT "Entity [866][item_rpg_round]"
+[Thu Apr  2 20:31:26 2026] <STEAM_0:1:443626364> Emperor of Mankind spawned SENT "Entity [867][item_rpg_round]"
+[Thu Apr  2 20:31:27 2026] <STEAM_0:1:443626364> Emperor of Mankind spawned SENT "Entity [868][item_rpg_round]"
+[Thu Apr  2 20:31:27 2026] <STEAM_0:1:443626364> Emperor of Mankind spawned SENT "Entity [869][item_rpg_round]"
+[Thu Apr  2 20:31:27 2026] <STEAM_0:1:443626364> Emperor of Mankind spawned SENT "Entity [870][item_rpg_round]"
+[Thu Apr  2 20:31:27 2026] <STEAM_0:1:443626364> Emperor of Mankind spawned SENT "Entity [871][item_rpg_round]"
+[Thu Apr  2 20:31:27 2026] <STEAM_0:1:443626364> Emperor of Mankind spawned SENT "Entity [866][item_rpg_round]"
+[Thu Apr  2 20:31:27 2026] <STEAM_0:1:443626364> Emperor of Mankind spawned SENT "Entity [867][item_rpg_round]"
+[Thu Apr  2 20:31:28 2026] <STEAM_0:1:443626364> Emperor of Mankind spawned SENT "Entity [868][item_rpg_round]"
+[Thu Apr  2 20:31:28 2026] <STEAM_0:1:443626364> Emperor of Mankind spawned SENT "Entity [869][item_rpg_round]"
+[Thu Apr  2 20:31:28 2026] <STEAM_0:1:443626364> Emperor of Mankind spawned SENT "Entity [870][item_rpg_round]"
+[Thu Apr  2 20:31:28 2026] <STEAM_0:1:443626364> Emperor of Mankind spawned SENT "Entity [872][item_rpg_round]"
+[Thu Apr  2 20:31:28 2026] <STEAM_0:1:443626364> Emperor of Mankind spawned SENT "Entity [871][item_rpg_round]"
+[Thu Apr  2 20:31:44 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:31:44 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [866][lvs_missile]"
+[Thu Apr  2 20:31:44 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:31:44 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [867][lvs_missile]"
+[Thu Apr  2 20:31:45 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:31:45 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [868][lvs_missile]"
+[Thu Apr  2 20:31:45 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:31:45 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [870][lvs_missile]"
+[Thu Apr  2 20:31:45 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:31:45 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [871][lvs_missile]"
+[Thu Apr  2 20:31:45 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:31:45 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [872][lvs_missile]"
+[Thu Apr  2 20:31:45 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:31:45 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [873][lvs_missile]"
+[Thu Apr  2 20:31:45 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:31:45 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [874][lvs_missile]"
+[Thu Apr  2 20:31:46 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:31:46 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [875][lvs_missile]"
+[Thu Apr  2 20:31:46 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:31:46 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [876][lvs_missile]"
+[Thu Apr  2 20:31:46 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:31:46 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [877][lvs_missile]"
+[Thu Apr  2 20:31:46 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:31:46 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [878][lvs_missile]"
+[Thu Apr  2 20:31:46 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:31:46 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [879][lvs_missile]"
+[Thu Apr  2 20:31:46 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:31:46 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [880][lvs_missile]"
+[Thu Apr  2 20:31:46 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:31:46 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [881][lvs_missile]"
+[Thu Apr  2 20:31:47 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:31:47 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [866][lvs_missile]"
+[Thu Apr  2 20:31:47 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:31:47 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [882][lvs_missile]"
+[Thu Apr  2 20:31:47 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:31:47 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [883][lvs_missile]"
+[Thu Apr  2 20:31:47 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:31:47 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [867][lvs_missile]"
+[Thu Apr  2 20:31:47 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:31:47 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [870][lvs_missile]"
+[Thu Apr  2 20:31:47 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:31:47 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [884][lvs_missile]"
+[Thu Apr  2 20:31:47 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:31:47 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [868][lvs_missile]"
+[Thu Apr  2 20:31:48 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:31:48 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [872][lvs_missile]"
+[Thu Apr  2 20:31:48 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:31:48 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [885][lvs_missile]"
+[Thu Apr  2 20:31:48 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:31:48 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [877][lvs_missile]"
+[Thu Apr  2 20:31:48 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:31:48 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [886][lvs_missile]"
+[Thu Apr  2 20:31:48 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:31:48 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [869][lvs_missile]"
+[Thu Apr  2 20:31:48 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:31:48 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [887][lvs_missile]"
+[Thu Apr  2 20:31:48 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:31:48 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [873][lvs_missile]"
+[Thu Apr  2 20:31:49 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:31:49 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [874][lvs_missile]"
+[Thu Apr  2 20:31:49 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:31:49 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [888][lvs_missile]"
+[Thu Apr  2 20:31:49 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:31:49 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [866][lvs_missile]"
+[Thu Apr  2 20:31:49 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:31:49 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [879][lvs_missile]"
+[Thu Apr  2 20:31:49 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:31:49 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [867][lvs_missile]"
+[Thu Apr  2 20:31:49 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:31:49 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [881][lvs_missile]"
+[Thu Apr  2 20:31:50 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:31:50 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [870][lvs_missile]"
+[Thu Apr  2 20:31:50 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:31:50 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [882][lvs_missile]"
+[Thu Apr  2 20:31:50 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:31:50 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [878][lvs_missile]"
+[Thu Apr  2 20:31:50 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:31:50 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [868][lvs_missile]"
+[Thu Apr  2 20:31:50 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:31:50 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [872][lvs_missile]"
+[Thu Apr  2 20:31:50 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:31:50 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [869][lvs_missile]"
+[Thu Apr  2 20:31:50 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:31:50 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [740][lvs_missile]"
+[Thu Apr  2 20:31:51 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:31:51 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [875][lvs_missile]"
+[Thu Apr  2 20:31:51 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:31:51 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [877][lvs_missile]"
+[Thu Apr  2 20:31:51 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:31:51 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [866][lvs_missile]"
+[Thu Apr  2 20:31:51 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:31:51 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [873][lvs_missile]"
+[Thu Apr  2 20:31:51 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:31:51 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [874][lvs_missile]"
+[Thu Apr  2 20:31:51 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:31:51 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [870][lvs_missile]"
+[Thu Apr  2 20:31:52 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:31:52 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [867][lvs_missile]"
+[Thu Apr  2 20:31:52 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:31:52 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [876][lvs_missile]"
+[Thu Apr  2 20:31:52 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:31:52 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [878][lvs_missile]"
+[Thu Apr  2 20:31:52 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:31:52 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [879][lvs_missile]"
+[Thu Apr  2 20:31:52 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:31:52 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [880][lvs_missile]"
+[Thu Apr  2 20:31:52 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:31:52 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [869][lvs_missile]"
+[Thu Apr  2 20:31:52 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:31:52 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [740][lvs_missile]"
+[Thu Apr  2 20:31:53 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:31:53 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [871][lvs_missile]"
+[Thu Apr  2 20:31:56 2026] Player "ТАГИЛЛА" <STEAM_0:1:782845482> has spawned in the server
+[Thu Apr  2 20:32:01 2026] ZALP has killed Limbo.
+[Thu Apr  2 20:32:01 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:32:01 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [871][lvs_missile]"
+[Thu Apr  2 20:32:01 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:32:01 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [872][lvs_missile]"
+[Thu Apr  2 20:32:01 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:32:01 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [873][lvs_missile]"
+[Thu Apr  2 20:32:01 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:32:01 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [874][lvs_missile]"
+[Thu Apr  2 20:32:02 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:32:02 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [736][lvs_missile]"
+[Thu Apr  2 20:32:02 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:32:02 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [694][lvs_missile]"
+[Thu Apr  2 20:32:02 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:32:02 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [712][lvs_missile]"
+[Thu Apr  2 20:32:02 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:32:02 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [716][lvs_missile]"
+[Thu Apr  2 20:32:02 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:32:02 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [718][lvs_missile]"
+[Thu Apr  2 20:32:02 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:32:02 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [719][lvs_missile]"
+[Thu Apr  2 20:32:02 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:32:02 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [724][lvs_missile]"
+[Thu Apr  2 20:32:03 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:32:03 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [875][lvs_missile]"
+[Thu Apr  2 20:32:03 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:32:03 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [872][lvs_missile]"
+[Thu Apr  2 20:32:03 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:32:03 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [876][lvs_missile]"
+[Thu Apr  2 20:32:03 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:32:03 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [873][lvs_missile]"
+[Thu Apr  2 20:32:03 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:32:03 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [877][lvs_missile]"
+[Thu Apr  2 20:32:03 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:32:03 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [878][lvs_missile]"
+[Thu Apr  2 20:32:04 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:32:04 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [871][lvs_missile]"
+[Thu Apr  2 20:32:04 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:32:04 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [712][lvs_missile]"
+[Thu Apr  2 20:32:04 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:32:04 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [736][lvs_missile]"
+[Thu Apr  2 20:32:04 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:32:04 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [716][lvs_missile]"
+[Thu Apr  2 20:32:04 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:32:04 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [694][lvs_missile]"
+[Thu Apr  2 20:32:04 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:32:04 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [874][lvs_missile]"
+[Thu Apr  2 20:32:04 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:32:04 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [718][lvs_missile]"
+[Thu Apr  2 20:32:05 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:32:05 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [719][lvs_missile]"
+[Thu Apr  2 20:32:05 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:32:05 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:32:05 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [872][lvs_missile]"
+[Thu Apr  2 20:32:05 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:32:05 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [875][lvs_missile]"
+[Thu Apr  2 20:32:05 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:32:05 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [870][lvs_missile]"
+[Thu Apr  2 20:32:05 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:32:05 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [871][lvs_missile]"
+[Thu Apr  2 20:32:11 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:32:11 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [719][lvs_missile]"
+[Thu Apr  2 20:32:11 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:32:11 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [870][lvs_missile]"
+[Thu Apr  2 20:32:11 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:32:11 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [879][lvs_missile]"
+[Thu Apr  2 20:32:11 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:32:11 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [880][lvs_missile]"
+[Thu Apr  2 20:32:11 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:32:11 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [694][lvs_missile]"
+[Thu Apr  2 20:32:15 2026] <STEAM_0:0:791981714> Limbo: /ooc это че за авиаудары ебана ма
+[Thu Apr  2 20:32:23 2026] ZALP has killed Discar.
+[Thu Apr  2 20:32:26 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:32:26 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [607][sw_rocket_4k40_v3]"
+[Thu Apr  2 20:32:37 2026] <STEAM_0:0:650470378> Discar: /ooc какого
+[Thu Apr  2 20:32:42 2026] <STEAM_0:1:473271326> ZALP: /me Связал
+[Thu Apr  2 20:32:43 2026] <STEAM_0:1:618974024> Sou1: // пхах ебать
+[Thu Apr  2 20:32:48 2026] <STEAM_0:0:650470378> Discar: /ooc ору
+[Thu Apr  2 20:33:00 2026] <STEAM_0:1:473271326> ZALP: /me отобрал оружие и связь
+[Thu Apr  2 20:33:23 2026] worldspawn has killed Sou1.
+[Thu Apr  2 20:33:36 2026] <STEAM_0:1:618974024> Sou1: // бля такой шанс был, я 2-4 раза стрельнул - типок не умер
+[Thu Apr  2 20:33:37 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [667][lvs_trailer_flak]"
+[Thu Apr  2 20:33:53 2026] ZALP has killed Discar.
+[Thu Apr  2 20:33:54 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // грег дай медийки права
+[Thu Apr  2 20:34:00 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // и чвк
+[Thu Apr  2 20:34:02 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // и чвк
+[Thu Apr  2 20:34:04 2026] <STEAM_0:1:455594560> gREG4IK ran command "rank Wilson media 0"
+[Thu Apr  2 20:34:04 2026] <STEAM_0:1:473271326> ZALP: /me еще раз связал и затянул потуде
+[Thu Apr  2 20:34:07 2026] <STEAM_0:1:890482601> stalker_20130: // да грег вилсону
+[Thu Apr  2 20:34:09 2026] <STEAM_0:1:890482601> stalker_20130: // да спс
+[Thu Apr  2 20:34:09 2026] <STEAM_0:1:782845482> ТАГИЛЛА ran command "a sps"
+[Thu Apr  2 20:34:11 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:34:11 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [694][lvs_missile]"
+[Thu Apr  2 20:34:11 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:34:11 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [892][lvs_missile]"
+[Thu Apr  2 20:34:11 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:34:11 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [893][lvs_missile]"
+[Thu Apr  2 20:34:11 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:34:11 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [894][lvs_missile]"
+[Thu Apr  2 20:34:12 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:34:12 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [895][lvs_missile]"
+[Thu Apr  2 20:34:12 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:34:12 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [619][lvs_missile]"
+[Thu Apr  2 20:34:12 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:34:12 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [897][lvs_missile]"
+[Thu Apr  2 20:34:12 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:34:12 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [898][lvs_missile]"
+[Thu Apr  2 20:34:12 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:34:12 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [613][lvs_missile]"
+[Thu Apr  2 20:34:12 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:34:12 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [870][lvs_missile]"
+[Thu Apr  2 20:34:13 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:34:13 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [899][lvs_missile]"
+[Thu Apr  2 20:34:21 2026] <STEAM_0:1:782845482> ТАГИЛЛА ran command "a дай чвк мне я в чвк"
+[Thu Apr  2 20:34:26 2026] <STEAM_0:1:455594560> gREG4IK used tool "advdupe2"
+[Thu Apr  2 20:34:35 2026] <STEAM_0:1:455594560> gREG4IK ran command "goto Wilson"
+[Thu Apr  2 20:34:40 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // командир чвк
+[Thu Apr  2 20:34:43 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // дай чвк
+[Thu Apr  2 20:35:11 2026] ZALP has killed Discar.
+[Thu Apr  2 20:35:18 2026] Player "Maki" <STEAM_0:1:83599016> is attempting to connect.
+[Thu Apr  2 20:35:30 2026] Player "impotent" <STEAM_0:1:425612974> is attempting to connect.
+[Thu Apr  2 20:35:32 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /l дай чв
+[Thu Apr  2 20:36:06 2026] <STEAM_0:1:782845482> ТАГИЛЛА: здравия
+[Thu Apr  2 20:36:09 2026] <STEAM_0:1:782845482> ТАГИЛЛА: здравия
+[Thu Apr  2 20:36:14 2026] <STEAM_0:1:782845482> ТАГИЛЛА: можете ччвк дать
+[Thu Apr  2 20:36:17 2026] <STEAM_0:1:890482601> stalker_20130: // грэг я надеюсь медиа не могут жалобы разбирать?
+[Thu Apr  2 20:36:18 2026] <STEAM_0:1:782845482> ТАГИЛЛА: пожалуйста
+[Thu Apr  2 20:36:22 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // не могут
+[Thu Apr  2 20:36:25 2026] <STEAM_0:1:618974024> Sou1: // это медиа
+[Thu Apr  2 20:36:29 2026] <STEAM_0:1:455594560> gREG4IK: /ooc не могут
+[Thu Apr  2 20:36:33 2026] <STEAM_0:1:618974024> Sou1: // а не админы)
+[Thu Apr  2 20:36:33 2026] <STEAM_0:1:455594560> gREG4IK used tool "advdupe2"
+[Thu Apr  2 20:36:34 2026] <STEAM_0:1:455594560> gREG4IK used tool "advdupe2"
+[Thu Apr  2 20:36:35 2026] <STEAM_0:1:782845482> ТАГИЛЛА: тв командир
+[Thu Apr  2 20:36:37 2026] <STEAM_0:1:890482601> stalker_20130: // + грэг надо убрать наверное админ чат у медиа
+[Thu Apr  2 20:36:41 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:36:41 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [889][lvs_missile]"
+[Thu Apr  2 20:36:41 2026] <STEAM_0:1:782845482> ТАГИЛЛА: дайте пожалуйста мне роль чвк
+[Thu Apr  2 20:36:41 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:36:41 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [890][lvs_missile]"
+[Thu Apr  2 20:36:41 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:36:41 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [891][lvs_missile]"
+[Thu Apr  2 20:36:41 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:36:41 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [895][lvs_missile]"
+[Thu Apr  2 20:36:42 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:36:42 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [896][lvs_missile]"
+[Thu Apr  2 20:36:42 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:36:42 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [897][lvs_missile]"
+[Thu Apr  2 20:36:42 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:36:42 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [898][lvs_missile]"
+[Thu Apr  2 20:36:42 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:36:42 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [899][lvs_missile]"
+[Thu Apr  2 20:36:42 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:36:42 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [900][lvs_missile]"
+[Thu Apr  2 20:36:43 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:36:43 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [901][lvs_missile]"
+[Thu Apr  2 20:36:43 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:36:43 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [902][lvs_missile]"
+[Thu Apr  2 20:36:43 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:36:43 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [903][lvs_missile]"
+[Thu Apr  2 20:36:43 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:36:43 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [904][lvs_missile]"
+[Thu Apr  2 20:36:43 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:36:43 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [905][lvs_missile]"
+[Thu Apr  2 20:36:43 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:36:43 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [889][lvs_missile]"
+[Thu Apr  2 20:36:44 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:36:44 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [906][lvs_missile]"
+[Thu Apr  2 20:36:44 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:36:44 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [907][lvs_missile]"
+[Thu Apr  2 20:36:44 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:36:44 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [908][lvs_missile]"
+[Thu Apr  2 20:36:44 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:36:44 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [909][lvs_missile]"
+[Thu Apr  2 20:36:44 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:36:44 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [910][lvs_missile]"
+[Thu Apr  2 20:36:44 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:36:44 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [911][lvs_missile]"
+[Thu Apr  2 20:36:45 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:36:45 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [912][lvs_missile]"
+[Thu Apr  2 20:36:45 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:36:45 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [913][lvs_missile]"
+[Thu Apr  2 20:36:45 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /l мартинез
+[Thu Apr  2 20:36:45 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:36:45 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [895][lvs_missile]"
+[Thu Apr  2 20:36:45 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:36:45 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [914][lvs_missile]"
+[Thu Apr  2 20:36:45 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:36:45 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [890][lvs_missile]"
+[Thu Apr  2 20:36:45 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:36:45 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [891][lvs_missile]"
+[Thu Apr  2 20:36:46 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:36:46 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [915][lvs_missile]"
+[Thu Apr  2 20:36:46 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /l мартинез\
+[Thu Apr  2 20:36:48 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:36:48 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [889][lvs_missile]"
+[Thu Apr  2 20:36:49 2026] <STEAM_0:1:890482601> stalker_20130: // + грэг надо убрать наверное админ чат у медиа, ну сам посмотришь
+[Thu Apr  2 20:36:49 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:36:49 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [896][lvs_missile]"
+[Thu Apr  2 20:36:49 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:36:49 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [897][lvs_missile]"
+[Thu Apr  2 20:36:49 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:36:49 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [898][lvs_missile]"
+[Thu Apr  2 20:36:49 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:36:49 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [899][lvs_missile]"
+[Thu Apr  2 20:36:49 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:36:49 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [900][lvs_missile]"
+[Thu Apr  2 20:36:49 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:36:49 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [618][lvs_missile]"
+[Thu Apr  2 20:36:50 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:36:50 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [901][lvs_missile]"
+[Thu Apr  2 20:36:50 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:36:50 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [902][lvs_missile]"
+[Thu Apr  2 20:36:50 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:36:50 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [903][lvs_missile]"
+[Thu Apr  2 20:36:50 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:36:50 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [888][lvs_missile]"
+[Thu Apr  2 20:36:50 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:36:50 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [904][lvs_missile]"
+[Thu Apr  2 20:36:50 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:36:50 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [905][lvs_missile]"
+[Thu Apr  2 20:36:50 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:36:50 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [906][lvs_missile]"
+[Thu Apr  2 20:36:52 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:36:52 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [889][lvs_missile]"
+[Thu Apr  2 20:36:52 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:36:52 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [890][lvs_missile]"
+[Thu Apr  2 20:36:52 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:36:52 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [618][lvs_missile]"
+[Thu Apr  2 20:36:52 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:36:52 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [891][lvs_missile]"
+[Thu Apr  2 20:36:53 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:36:53 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [895][lvs_missile]"
+[Thu Apr  2 20:36:53 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:36:53 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [888][lvs_missile]"
+[Thu Apr  2 20:36:53 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:36:53 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [896][lvs_missile]"
+[Thu Apr  2 20:36:53 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:36:53 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [897][lvs_missile]"
+[Thu Apr  2 20:36:53 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:36:53 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [898][lvs_missile]"
+[Thu Apr  2 20:36:53 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:36:53 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [899][lvs_missile]"
+[Thu Apr  2 20:36:54 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:36:54 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [900][lvs_missile]"
+[Thu Apr  2 20:36:54 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:36:54 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [901][lvs_missile]"
+[Thu Apr  2 20:36:54 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:36:54 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [902][lvs_missile]"
+[Thu Apr  2 20:36:54 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:36:54 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [903][lvs_missile]"
+[Thu Apr  2 20:36:54 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:36:54 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [904][lvs_missile]"
+[Thu Apr  2 20:36:54 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:36:54 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [905][lvs_missile]"
+[Thu Apr  2 20:36:55 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:36:55 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [906][lvs_missile]"
+[Thu Apr  2 20:36:55 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:36:55 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [907][lvs_missile]"
+[Thu Apr  2 20:36:55 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:36:55 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [908][lvs_missile]"
+[Thu Apr  2 20:36:55 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:36:55 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [889][lvs_missile]"
+[Thu Apr  2 20:36:55 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:36:55 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [890][lvs_missile]"
+[Thu Apr  2 20:36:55 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:36:55 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [888][lvs_missile]"
+[Thu Apr  2 20:36:56 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:36:56 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [618][lvs_missile]"
+[Thu Apr  2 20:36:56 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:36:56 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [895][lvs_missile]"
+[Thu Apr  2 20:36:56 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:36:56 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [896][lvs_missile]"
+[Thu Apr  2 20:36:56 2026] <STEAM_0:1:782845482> ТАГИЛЛА: / нахуя
+[Thu Apr  2 20:36:56 2026] <STEAM_0:1:890482601> stalker_20130 ran command "menu"
+[Thu Apr  2 20:36:58 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // нахуя
+[Thu Apr  2 20:37:01 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:37:01 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [888][lvs_missile]"
+[Thu Apr  2 20:37:01 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:37:01 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [889][lvs_missile]"
+[Thu Apr  2 20:37:01 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:37:01 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [890][lvs_missile]"
+[Thu Apr  2 20:37:01 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:37:01 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [891][lvs_missile]"
+[Thu Apr  2 20:37:02 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:37:02 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [895][lvs_missile]"
+[Thu Apr  2 20:37:02 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:37:02 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [896][lvs_missile]"
+[Thu Apr  2 20:37:02 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:37:02 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [897][lvs_missile]"
+[Thu Apr  2 20:37:02 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:37:02 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [898][lvs_missile]"
+[Thu Apr  2 20:37:02 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:37:02 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [899][lvs_missile]"
+[Thu Apr  2 20:37:06 2026] <STEAM_0:1:782845482> ТАГИЛЛА ran command "a грег дай чвк меня игнорят"
+[Thu Apr  2 20:37:07 2026] <STEAM_0:1:618974024> Sou1: // нахуя? не надо
+[Thu Apr  2 20:37:07 2026] Player "Vlad" <STEAM_0:0:507798739> is attempting to connect.
+[Thu Apr  2 20:37:09 2026] <STEAM_0:1:782845482> ТАГИЛЛА: А МОЖНО Я???
+[Thu Apr  2 20:37:10 2026] Player "impotent" <STEAM_0:1:425612974> has spawned in the server
+[Thu Apr  2 20:37:14 2026] <STEAM_0:1:455594560> gREG4IK: /ooc в смысле игнорят
+[Thu Apr  2 20:37:18 2026] <STEAM_0:1:455594560> gREG4IK ran command "goto Martinez"
+[Thu Apr  2 20:37:23 2026] <STEAM_0:1:782845482> ТАГИЛЛА ran command "a ну вот таки"
+[Thu Apr  2 20:37:32 2026] <STEAM_0:1:782845482> ТАГИЛЛА: ебаный заткнись
+[Thu Apr  2 20:37:33 2026] Sou1 has killed ZALP.
+[Thu Apr  2 20:37:37 2026] <STEAM_0:1:782845482> ТАГИЛЛА: мартинез
+[Thu Apr  2 20:37:38 2026] <STEAM_0:1:782845482> ТАГИЛЛА: мартинез
+[Thu Apr  2 20:37:39 2026] <STEAM_0:1:890482601> stalker_20130: // админ чат пусть для админов будет лучше)
+[Thu Apr  2 20:37:41 2026] <STEAM_0:1:782845482> ТАГИЛЛА: мартинез
+[Thu Apr  2 20:37:45 2026] <STEAM_0:1:618974024> Sou1: // да пох))
+[Thu Apr  2 20:37:48 2026] <STEAM_0:1:782845482> ТАГИЛЛА: ДАВАЙ
+[Thu Apr  2 20:37:50 2026] <STEAM_0:1:782845482> ТАГИЛЛА: СТРЕЛЯЙ
+[Thu Apr  2 20:37:52 2026] <STEAM_0:1:782845482> ТАГИЛЛА: СТРЕЛЯЙ
+[Thu Apr  2 20:37:57 2026] <STEAM_0:1:782845482> ТАГИЛЛА: скучно
+[Thu Apr  2 20:38:03 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /me ударил в пузо
+[Thu Apr  2 20:38:11 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:38:11 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [896][lvs_missile]"
+[Thu Apr  2 20:38:11 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:38:11 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [897][lvs_missile]"
+[Thu Apr  2 20:38:11 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:38:11 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [898][lvs_missile]"
+[Thu Apr  2 20:38:11 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:38:11 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [899][lvs_missile]"
+[Thu Apr  2 20:38:12 2026] <STEAM_0:1:782845482> ТАГИЛЛА: заткнись
+[Thu Apr  2 20:38:12 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:38:12 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [900][lvs_missile]"
+[Thu Apr  2 20:38:12 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:38:12 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [901][lvs_missile]"
+[Thu Apr  2 20:38:12 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:38:12 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [902][lvs_missile]"
+[Thu Apr  2 20:38:12 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:38:12 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [903][lvs_missile]"
+[Thu Apr  2 20:38:13 2026] <STEAM_0:1:782845482> ТАГИЛЛА: мразь
+[Thu Apr  2 20:38:17 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /me ударил ногой в лицо
+[Thu Apr  2 20:38:19 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /me ударил ногой в лицо
+[Thu Apr  2 20:38:22 2026] <STEAM_0:1:890482601> stalker_20130 ran command "menu"
+[Thu Apr  2 20:38:22 2026] <STEAM_0:1:473271326> ZALP: /me Исполнил воинское приветствие
+[Thu Apr  2 20:38:23 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /l сука кд на команды че за хуйня
+[Thu Apr  2 20:38:25 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /me ударил ногой в лицо
+[Thu Apr  2 20:38:37 2026] Emperor of Mankind has killed Discar.
+[Thu Apr  2 20:38:41 2026] <STEAM_0:1:782845482> ТАГИЛЛА: т команлдирр
+[Thu Apr  2 20:38:45 2026] <STEAM_0:1:782845482> ТАГИЛЛА: я
+[Thu Apr  2 20:38:50 2026] Player "Vlad" <STEAM_0:0:507798739> has spawned in the server
+[Thu Apr  2 20:38:50 2026] <STEAM_0:1:782845482> ТАГИЛЛА: нужно чвк
+[Thu Apr  2 20:39:22 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:39:22 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [933][lvs_missile]"
+[Thu Apr  2 20:39:44 2026] <STEAM_0:1:890482601> stalker_20130: /rf где весь наш состав?
+[Thu Apr  2 20:39:47 2026] <STEAM_0:1:890482601> stalker_20130 ran command "menu"
+[Thu Apr  2 20:39:48 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:39:48 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [937][lvs_missile]"
+[Thu Apr  2 20:39:52 2026] impotent has killed Limbo.
+[Thu Apr  2 20:40:17 2026] <STEAM_0:1:890482601> stalker_20130 ran command "menu"
+[Thu Apr  2 20:40:30 2026] <STEAM_0:1:890482601> stalker_20130 ran command "menu"
+[Thu Apr  2 20:40:39 2026] <STEAM_0:1:782845482> ТАГИЛЛА: еее
+[Thu Apr  2 20:40:43 2026] <STEAM_0:1:782845482> ТАГИЛЛА: ПОГНАЛИ
+[Thu Apr  2 20:41:01 2026] <STEAM_0:1:782845482> ТАГИЛЛА: агась
+[Thu Apr  2 20:41:07 2026] <STEAM_0:1:782845482> ТАГИЛЛА: я бы попытал пару русских
+[Thu Apr  2 20:41:11 2026] <STEAM_0:1:782845482> ТАГИЛЛА: ножем
+[Thu Apr  2 20:41:13 2026] <STEAM_0:1:782845482> ТАГИЛЛА: желательно
+[Thu Apr  2 20:41:17 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /me улыбаетьс
+[Thu Apr  2 20:41:23 2026] Player "Maki" <STEAM_0:1:83599016> has spawned in the server
+[Thu Apr  2 20:41:34 2026] <STEAM_0:0:921324874> punk: йоу
+[Thu Apr  2 20:41:37 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /me исполнил партийное приветствие
+[Thu Apr  2 20:41:38 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /me исполнил партийное приветствие
+[Thu Apr  2 20:41:41 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /me исполнил партийное приветствие
+[Thu Apr  2 20:41:42 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /me исполнил партийное приветствие
+[Thu Apr  2 20:41:44 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /me исполнил партийное приветствие
+[Thu Apr  2 20:41:48 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [761][sw_rocket_4k40_v3]"
+[Thu Apr  2 20:41:50 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [761][sw_rocket_4k40_v3]"
+[Thu Apr  2 20:41:54 2026] <STEAM_0:1:782845482> ТАГИЛЛА: надо песочницу отбить
+[Thu Apr  2 20:41:59 2026] <STEAM_0:0:921324874> punk: дерзай
+[Thu Apr  2 20:42:04 2026] <STEAM_0:1:782845482> ТАГИЛЛА: НА АЗС
+[Thu Apr  2 20:42:06 2026] <STEAM_0:1:782845482> ТАГИЛЛА: НА АЗС
+[Thu Apr  2 20:42:13 2026] ТАГИЛЛА has killed Discar.
+[Thu Apr  2 20:42:13 2026] ТАГИЛЛА has killed Limbo.
+[Thu Apr  2 20:42:16 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [607][sw_rocket_4k40_v3]"
+[Thu Apr  2 20:42:18 2026] <STEAM_0:1:782845482> ТАГИЛЛА: взорвал
+[Thu Apr  2 20:42:28 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [609][sw_rocket_4k40_v3]"
+[Thu Apr  2 20:42:30 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [609][sw_rocket_4k40_v3]"
+[Thu Apr  2 20:42:32 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [670][sw_rocket_4k40_v3]"
+[Thu Apr  2 20:42:41 2026] ТАГИЛЛА has killed Discar.
+[Thu Apr  2 20:42:47 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [682][sw_rocket_4k40_v3]"
+[Thu Apr  2 20:42:49 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /me забрал оружие и сс
+[Thu Apr  2 20:42:53 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [609][sw_rocket_4k40_v3]"
+[Thu Apr  2 20:42:56 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [763][sw_rocket_4k40_v3]"
+[Thu Apr  2 20:42:57 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [609][sw_rocket_4k40_v3]"
+[Thu Apr  2 20:42:58 2026] <STEAM_0:1:782845482> ТАГИЛЛА: НА КОЛЕНИ
+[Thu Apr  2 20:43:06 2026] <STEAM_0:1:890482601> stalker_20130: !ulx
+[Thu Apr  2 20:43:14 2026] <STEAM_0:1:890482601> stalker_20130 ran command "menu"
+[Thu Apr  2 20:43:16 2026] <STEAM_0:0:650470378> Discar: /ooc снова в плен
+[Thu Apr  2 20:43:16 2026] <STEAM_0:1:618974024> Sou1: /rf РЧ 453
+[Thu Apr  2 20:43:31 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /rp включил камеру
+[Thu Apr  2 20:43:32 2026] <STEAM_0:1:618974024> Sou1: // существует /rf, не пиши в оос
+[Thu Apr  2 20:43:33 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc а как в рацию говорить?
+[Thu Apr  2 20:43:36 2026] <STEAM_0:1:618974024> Sou1: // существует /rf, не пиши в оос
+[Thu Apr  2 20:43:39 2026] <STEAM_0:1:782845482> ТАГИЛЛА: таак
+[Thu Apr  2 20:43:41 2026] <STEAM_0:1:782845482> ТАГИЛЛА: лейтенант
+[Thu Apr  2 20:43:47 2026] <STEAM_0:1:455594560> gREG4IK used tool "lamp"
+[Thu Apr  2 20:44:02 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /rp в камере лейтенант рф показал в камеру документы
+[Thu Apr  2 20:44:05 2026] Vlad has killed Sou1.
+[Thu Apr  2 20:44:09 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:44:09 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [617][sw_rocket_m31_v3]"
+[Thu Apr  2 20:44:11 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:44:11 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [694][sw_rocket_m31_v3]"
+[Thu Apr  2 20:44:14 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /me пристегнул к стене
+[Thu Apr  2 20:44:20 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:44:20 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [617][sw_rocket_m31_v3]"
+[Thu Apr  2 20:44:21 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:44:21 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [694][sw_rocket_m31_v3]"
+[Thu Apr  2 20:44:21 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:44:21 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [770][sw_rocket_m31_v3]"
+[Thu Apr  2 20:44:21 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:44:21 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [771][sw_rocket_m31_v3]"
+[Thu Apr  2 20:44:21 2026] <STEAM_0:1:618974024> Sou1: /rf БЛЯТЬ Я У ФЛАГА ЛЕГ
+[Thu Apr  2 20:44:21 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:44:21 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [774][sw_rocket_m31_v3]"
+[Thu Apr  2 20:44:29 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /rp достал нож и воткнул в живот рф
+[Thu Apr  2 20:44:34 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:44:34 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [771][sw_rocket_m31_v3]"
+[Thu Apr  2 20:44:39 2026] <STEAM_0:1:782845482> ТАГИЛЛА: у тебя мало времени
+[Thu Apr  2 20:44:40 2026] <STEAM_0:1:782845482> ТАГИЛЛА: сука
+[Thu Apr  2 20:44:46 2026] <STEAM_0:1:782845482> ТАГИЛЛА: ТУТ
+[Thu Apr  2 20:44:49 2026] ТАГИЛЛА has killed Discar.
+[Thu Apr  2 20:44:53 2026] <STEAM_0:1:782845482> ТАГИЛЛА: хорошо
+[Thu Apr  2 20:44:56 2026] <STEAM_0:1:425612974> impotent: /nato Едут. Город
+[Thu Apr  2 20:44:59 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /rp выстрелил в голову
+[Thu Apr  2 20:45:01 2026] impotent has killed ghoprhd.
+[Thu Apr  2 20:45:03 2026] Emperor of Mankind has killed Limbo.
+[Thu Apr  2 20:45:03 2026] ZALP has killed stalker_20130.
+[Thu Apr  2 20:45:04 2026] <STEAM_0:0:650470378> Discar: /ooc парни я мертв
+[Thu Apr  2 20:45:04 2026] Limbo has killed Limbo.
+[Thu Apr  2 20:45:09 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:45:09 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [725][sw_rocket_m31_v3]"
+[Thu Apr  2 20:45:11 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 20:45:11 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [609][sw_rocket_m31_v3]"
+[Thu Apr  2 20:45:11 2026] ZALP has killed ★☾₳ⱤØ₦₦ł₭☽★.
+[Thu Apr  2 20:45:12 2026] Player "ghoprhd" <STEAM_0:0:453883455> has left the server
+[Thu Apr  2 20:45:15 2026] <STEAM_0:1:425612974> impotent: /nato одного снял. еще двое
+[Thu Apr  2 20:45:17 2026] <STEAM_0:0:507798739> Vlad: /nato Захватываю высоту
+[Thu Apr  2 20:45:20 2026] <STEAM_0:0:791981714> Limbo: /ooc маму ам ням ням делал
+[Thu Apr  2 20:45:32 2026] <STEAM_0:1:455594560> gREG4IK: /ooc /com /nato
+[Thu Apr  2 20:45:41 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /com суки русские пошли нахуй с города
+[Thu Apr  2 20:45:59 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /com 1 ваш уже 2000
+[Thu Apr  2 20:46:01 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /com 1 ваш уже 200
+[Thu Apr  2 20:46:03 2026] <STEAM_0:1:455594560> gREG4IK ran command "goto Гонорий"
+[Thu Apr  2 20:46:10 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /l откат
+[Thu Apr  2 20:46:24 2026] Player "Kotik" <STEAM_0:1:558349975> has left the server
+[Thu Apr  2 20:46:24 2026] Player "Kotik" <STEAM_0:1:558349975> is attempting to connect.
+[Thu Apr  2 20:46:43 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [731][sw_rocket_4k40_v3]"
+[Thu Apr  2 20:46:44 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [674][sw_rocket_4k40_v3]"
+[Thu Apr  2 20:46:54 2026] Player "Kotik" <STEAM_0:1:558349975> has spawned in the server
+[Thu Apr  2 20:46:54 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /nato кто на горе?
+[Thu Apr  2 20:47:07 2026] <STEAM_0:1:473271326> ZALP: /nato свои
+[Thu Apr  2 20:47:08 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [752][sw_rocket_4k40_v3]"
+[Thu Apr  2 20:47:14 2026] <STEAM_0:1:455594560> gREG4IK ran command "goto Perez"
+[Thu Apr  2 20:47:32 2026] <STEAM_0:1:890482601> stalker_20130: я машину
+[Thu Apr  2 20:47:35 2026] <STEAM_0:1:890482601> stalker_20130: ты за граник
+[Thu Apr  2 20:47:47 2026] <STEAM_0:1:782845482> ТАГИЛЛА: )\
+[Thu Apr  2 20:48:18 2026] punk has killed Limbo.
+[Thu Apr  2 20:48:18 2026] ★☾₳ⱤØ₦₦ł₭☽★ has killed punk.
+[Thu Apr  2 20:48:49 2026] <STEAM_0:1:782845482> ТАГИЛЛА: не получаеться
+[Thu Apr  2 20:49:37 2026] Player "Kotik" <STEAM_0:1:558349975> has left the server
+[Thu Apr  2 20:49:58 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /com т командир я бы хотел перевестись в снайпера
+[Thu Apr  2 20:50:08 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /com разрешаю
+[Thu Apr  2 20:50:17 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // откат com
+[Thu Apr  2 20:50:23 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // откат com
+[Thu Apr  2 20:50:24 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // откат com
+[Thu Apr  2 20:50:27 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // откат com
+[Thu Apr  2 20:50:30 2026] <STEAM_0:1:455594560> gREG4IK ran command "goto Adams"
+[Thu Apr  2 20:50:36 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc причина?
+[Thu Apr  2 20:50:44 2026] Vlad has killed Limbo.
+[Thu Apr  2 20:50:55 2026] <STEAM_0:1:455594560> gREG4IK: /ooc К БАЗАМ НЕ ПОДХОДИТЬ
+[Thu Apr  2 20:50:56 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /nato я хочу в снайпера
+[Thu Apr  2 20:51:08 2026] <STEAM_0:0:921324874> punk: /nato хоти
+[Thu Apr  2 20:51:09 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /l ухади атсуда
+[Thu Apr  2 20:51:09 2026] Player "Kotik" <STEAM_0:1:558349975> is attempting to connect.
+[Thu Apr  2 20:51:10 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /l ухади атсуда
+[Thu Apr  2 20:51:11 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /l ухади атсуда
+[Thu Apr  2 20:51:12 2026] Emperor of Mankind has killed Discar.
+[Thu Apr  2 20:51:12 2026] Discar has killed Discar.
+[Thu Apr  2 20:51:13 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /l ухади атсуда
+[Thu Apr  2 20:51:29 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /nato я не вам
+[Thu Apr  2 20:51:35 2026] Sou1 has killed Emperor of Mankind.
+[Thu Apr  2 20:51:38 2026] <STEAM_0:0:650470378> Discar: /ooc давайте без плена, всетаки я возле базы
+[Thu Apr  2 20:51:45 2026] ZALP has killed Sou1.
+[Thu Apr  2 20:51:47 2026] <STEAM_0:1:782845482> ТАГИЛЛА: УХОДИМ
+[Thu Apr  2 20:51:49 2026] Player "Kotik" <STEAM_0:1:558349975> has spawned in the server
+[Thu Apr  2 20:51:52 2026] ZALP has killed ★☾₳ⱤØ₦₦ł₭☽★.
+[Thu Apr  2 20:51:54 2026] <STEAM_0:1:618974024> Sou1: /rf ТАМ ДВОЕ ИХ БЛЯТЬ
+[Thu Apr  2 20:51:56 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /me забрал оружие и сс
+[Thu Apr  2 20:52:01 2026] <STEAM_0:1:618974024> Sou1: /rf Меня в плен берут
+[Thu Apr  2 20:52:09 2026] <STEAM_0:1:473271326> ZALP: /me связал
+[Thu Apr  2 20:52:09 2026] <STEAM_0:1:618974024> Sou1: /rf Меня в плен берут
+[Thu Apr  2 20:52:15 2026] <STEAM_0:1:618974024> Sou1: /rf Меня в плен берут
+[Thu Apr  2 20:52:19 2026] <STEAM_0:1:618974024> Sou1: /rf Меня в плен берут!!!!
+[Thu Apr  2 20:52:21 2026] <STEAM_0:1:782845482> ТАГИЛЛА: есть места?
+[Thu Apr  2 20:52:27 2026] <STEAM_0:1:473271326> ZALP: /me изъял оружие и рацию
+[Thu Apr  2 20:52:28 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /rf бездари я в плену
+[Thu Apr  2 20:52:33 2026] <STEAM_0:1:782845482> ТАГИЛЛА: PFKTP
+[Thu Apr  2 20:52:41 2026] <STEAM_0:1:618974024> Sou1: /rf Меня в плен берут СУКА
+[Thu Apr  2 20:52:46 2026] Sou1 has killed impotent.
+[Thu Apr  2 20:52:46 2026] Sou1 has killed Sou1.
+[Thu Apr  2 20:52:46 2026] Sou1 has killed ТАГИЛЛА.
+[Thu Apr  2 20:52:46 2026] Sou1 has killed Emperor of Mankind.
+[Thu Apr  2 20:52:47 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /rf але блять я в плену
+[Thu Apr  2 20:52:50 2026] <STEAM_0:1:473271326> ZALP: /me изъял оружие и рацию
+[Thu Apr  2 20:52:52 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /l опа а это репорт
+[Thu Apr  2 20:52:53 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: нет
+[Thu Apr  2 20:52:55 2026] <STEAM_0:1:455594560> gREG4IK ran command "goto Perez"
+[Thu Apr  2 20:52:57 2026] <STEAM_0:1:425612974> impotent: /ooc пиздец ты
+[Thu Apr  2 20:52:57 2026] Player "Maki" <STEAM_0:1:83599016> has left the server
+[Thu Apr  2 20:52:57 2026] worldspawn has killed Vlad.
+[Thu Apr  2 20:53:05 2026] <STEAM_0:1:618974024> Sou1: // чё произошло
+[Thu Apr  2 20:53:07 2026] <STEAM_0:1:618974024> Sou1: // чё произошло
+[Thu Apr  2 20:53:08 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // примите репорт
+[Thu Apr  2 20:53:10 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // примите репорт
+[Thu Apr  2 20:53:16 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /loc расскусил таблетку с цианидом*
+[Thu Apr  2 20:53:16 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // щас узнаешь)
+[Thu Apr  2 20:53:18 2026] <STEAM_0:1:782845482> ТАГИЛЛА: t
+[Thu Apr  2 20:53:18 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: бля
+[Thu Apr  2 20:53:19 2026] <STEAM_0:1:618974024> Sou1: // я даже сам нихуя не понял :/
+[Thu Apr  2 20:53:21 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: а как в лок
+[Thu Apr  2 20:53:25 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /looc .
+[Thu Apr  2 20:53:30 2026] <STEAM_0:1:782845482> ТАГИЛЛА: репарт
+[Thu Apr  2 20:53:32 2026] <STEAM_0:1:782845482> ТАГИЛЛА: прими
+[Thu Apr  2 20:53:36 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /l откат
+[Thu Apr  2 20:53:37 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /looc с вертушки убил пендоса*
+[Thu Apr  2 20:53:42 2026] <STEAM_0:1:618974024> Sou1: // окей пиши, я щас тоже аргументы свои предоставлю, себе бан и другим тоже
+[Thu Apr  2 20:53:42 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /l убери ебаное кд на команды
+[Thu Apr  2 20:53:43 2026] <STEAM_0:1:455594560> gREG4IK ran command "a жалобы"
+[Thu Apr  2 20:53:45 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /l убери ебаное кд на команды
+[Thu Apr  2 20:53:46 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /l убери ебаное кд на команды
+[Thu Apr  2 20:53:58 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /looc вьебалс пендсоу с двойки
+[Thu Apr  2 20:54:02 2026] <STEAM_0:1:443626364> Emperor of Mankind spawned SENT "Entity [785][item_rpg_round]"
+[Thu Apr  2 20:54:02 2026] <STEAM_0:1:443626364> Emperor of Mankind spawned SENT "Entity [786][item_rpg_round]"
+[Thu Apr  2 20:54:02 2026] <STEAM_0:1:443626364> Emperor of Mankind spawned SENT "Entity [787][item_rpg_round]"
+[Thu Apr  2 20:54:02 2026] <STEAM_0:1:443626364> Emperor of Mankind spawned SENT "Entity [788][item_rpg_round]"
+[Thu Apr  2 20:54:02 2026] <STEAM_0:1:443626364> Emperor of Mankind spawned SENT "Entity [789][item_rpg_round]"
+[Thu Apr  2 20:54:03 2026] <STEAM_0:1:443626364> Emperor of Mankind spawned SENT "Entity [790][item_rpg_round]"
+[Thu Apr  2 20:54:03 2026] <STEAM_0:1:443626364> Emperor of Mankind spawned SENT "Entity [791][item_rpg_round]"
+[Thu Apr  2 20:54:03 2026] <STEAM_0:1:443626364> Emperor of Mankind spawned SENT "Entity [785][item_rpg_round]"
+[Thu Apr  2 20:54:03 2026] <STEAM_0:1:443626364> Emperor of Mankind spawned SENT "Entity [792][item_rpg_round]"
+[Thu Apr  2 20:54:09 2026] <STEAM_0:1:890482601> stalker_20130 ran command "send Wilson"
+[Thu Apr  2 20:54:15 2026] <STEAM_0:1:782845482> ТАГИЛЛА: соколова
+[Thu Apr  2 20:54:16 2026] <STEAM_0:1:782845482> ТАГИЛЛА: суда
+[Thu Apr  2 20:54:25 2026] <STEAM_0:1:782845482> ТАГИЛЛА: он в наручниках стрелял из пулемета
+[Thu Apr  2 20:54:27 2026] <STEAM_0:1:782845482> ТАГИЛЛА: под машину нам
+[Thu Apr  2 20:54:30 2026] <STEAM_0:1:782845482> ТАГИЛЛА: нет
+[Thu Apr  2 20:54:31 2026] <STEAM_0:1:782845482> ТАГИЛЛА: да
+[Thu Apr  2 20:54:32 2026] <STEAM_0:1:782845482> ТАГИЛЛА: да
+[Thu Apr  2 20:54:32 2026] <STEAM_0:1:782845482> ТАГИЛЛА: да
+[Thu Apr  2 20:54:34 2026] <STEAM_0:1:782845482> ТАГИЛЛА: да
+[Thu Apr  2 20:54:35 2026] <STEAM_0:1:782845482> ТАГИЛЛА: да
+[Thu Apr  2 20:54:36 2026] <STEAM_0:1:782845482> ТАГИЛЛА: да
+[Thu Apr  2 20:54:37 2026] <STEAM_0:1:782845482> ТАГИЛЛА: да
+[Thu Apr  2 20:54:43 2026] <STEAM_0:1:782845482> ТАГИЛЛА: тепни его
+[Thu Apr  2 20:54:58 2026] Player "Segun" <STEAM_0:1:530604380> has left the server
+[Thu Apr  2 20:55:06 2026] <STEAM_0:1:890482601> stalker_20130 ran command "goto Соколов"
+[Thu Apr  2 20:55:12 2026] <STEAM_0:1:890482601> stalker_20130 ran command "goto Wilson"
+[Thu Apr  2 20:55:19 2026] <STEAM_0:1:890482601> stalker_20130 ran command "send Соколов"
+[Thu Apr  2 20:55:22 2026] <STEAM_0:0:921324874> punk: Салам всем
+[Thu Apr  2 20:55:27 2026] <STEAM_0:1:782845482> ТАГИЛЛА: привит
+[Thu Apr  2 20:55:56 2026] <STEAM_0:1:782845482> ТАГИЛЛА: да
+[Thu Apr  2 20:56:01 2026] <STEAM_0:1:782845482> ТАГИЛЛА: и фир рп
+[Thu Apr  2 20:56:09 2026] <STEAM_0:1:782845482> ТАГИЛЛА: ты ебанул под колеса
+[Thu Apr  2 20:56:12 2026] <STEAM_0:1:782845482> ТАГИЛЛА: не боясь смерти
+[Thu Apr  2 20:56:15 2026] <STEAM_0:1:782845482> ТАГИЛЛА: ты ебанул под колеса
+[Thu Apr  2 20:56:16 2026] <STEAM_0:1:782845482> ТАГИЛЛА: не боясь смерти
+[Thu Apr  2 20:56:18 2026] <STEAM_0:1:782845482> ТАГИЛЛА: ну
+[Thu Apr  2 20:56:21 2026] <STEAM_0:1:782845482> ТАГИЛЛА: и че
+[Thu Apr  2 20:56:23 2026] <STEAM_0:1:782845482> ТАГИЛЛА: навелся
+[Thu Apr  2 20:56:25 2026] <STEAM_0:1:782845482> ТАГИЛЛА: навелся
+[Thu Apr  2 20:56:30 2026] <STEAM_0:1:782845482> ТАГИЛЛА: и мискликнул
+[Thu Apr  2 20:56:32 2026] <STEAM_0:1:473271326> ZALP: /me Въебал прикладом по яйцам
+[Thu Apr  2 20:56:33 2026] <STEAM_0:1:782845482> ТАГИЛЛА: 1 офенс
+[Thu Apr  2 20:56:39 2026] <STEAM_0:1:782845482> ТАГИЛЛА: окей
+[Thu Apr  2 20:56:41 2026] <STEAM_0:0:650470378> Discar: /com
+[Thu Apr  2 20:56:42 2026] <STEAM_0:1:782845482> ТАГИЛЛА: дай ему пред
+[Thu Apr  2 20:56:43 2026] <STEAM_0:0:791981714> Limbo: /com
+[Thu Apr  2 20:56:49 2026] <STEAM_0:1:782845482> ТАГИЛЛА: самсон
+[Thu Apr  2 20:56:55 2026] <STEAM_0:1:782845482> ТАГИЛЛА: щас
+[Thu Apr  2 20:57:03 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /looc тут
+[Thu Apr  2 20:57:06 2026] <STEAM_0:0:791981714> Limbo: /com НАТО у вас есть 5 минут что бы вывести пленных
+[Thu Apr  2 20:57:12 2026] Limbo has killed impotent.
+[Thu Apr  2 20:57:46 2026] <STEAM_0:0:791981714> Limbo: /com НАТО у вас есть 5 минут что бы вывести пленных к воротам своей базы иначе мы их выбьем нахуй снарядом
+[Thu Apr  2 20:58:07 2026] <STEAM_0:1:782845482> ТАГИЛЛА: ща
+[Thu Apr  2 20:58:19 2026] <STEAM_0:1:782845482> ТАГИЛЛА: самсон
+[Thu Apr  2 20:58:35 2026] <STEAM_0:1:473271326> ZALP: /me Пнул батинком по лицу
+[Thu Apr  2 20:59:01 2026] <STEAM_0:1:425612974> impotent: /com Двухсотые пленные подойдут?
+[Thu Apr  2 20:59:09 2026] Player "ТАГИЛЛА" <STEAM_0:1:782845482> has left the server
+[Thu Apr  2 20:59:11 2026] <STEAM_0:1:473271326> ZALP: /me растегнул ширинку
+[Thu Apr  2 20:59:14 2026] <STEAM_0:1:455594560> gREG4IK: /event Силы НАТО приобладают на ключевых точках
+[Thu Apr  2 20:59:14 2026] <STEAM_0:0:791981714> Limbo: /com значит будут у вас двухсотики
+[Thu Apr  2 20:59:16 2026] Player "ТАГИЛЛА" <STEAM_0:1:782845482> is attempting to connect.
+[Thu Apr  2 20:59:24 2026] <STEAM_0:0:650470378> Discar: /ooc как в глобал Рп писать?
+[Thu Apr  2 20:59:48 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc LP{FP{GP{FGP{FP{GP{FGP{FGP{FG
+[Thu Apr  2 20:59:55 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc F{PV{ЗХАЗХАЗХПЗХАПЗХАПЗХАПЗХАП
+[Thu Apr  2 20:59:56 2026] <STEAM_0:1:473271326> ZALP: /me Застегнул ширинку
+[Thu Apr  2 20:59:57 2026] <STEAM_0:0:650470378> Discar: /lp
+[Thu Apr  2 21:00:16 2026] <STEAM_0:1:455594560> gREG4IK: /event Силы НАТО приобладают на ключевых точках
+[Thu Apr  2 21:00:34 2026] <STEAM_0:0:507798739> Vlad: /nato Кто-то вкратце может рассказать, что за пленные?
+[Thu Apr  2 21:01:02 2026] <STEAM_0:1:425612974> impotent: /nato Орк в кпз. Готовьтесь к обороне части
+[Thu Apr  2 21:01:10 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [670][sw_rocket_4k40_v3]"
+[Thu Apr  2 21:01:24 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [760][sw_rocket_4k40_v3]"
+[Thu Apr  2 21:01:26 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [763][sw_rocket_4k40_v3]"
+[Thu Apr  2 21:01:31 2026] <STEAM_0:1:890482601> stalker_20130 ran command "return Соколов"
+[Thu Apr  2 21:01:32 2026] Player "ТАГИЛЛА" <STEAM_0:1:782845482> has spawned in the server
+[Thu Apr  2 21:01:50 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /looc 5 сек
+[Thu Apr  2 21:01:58 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [752][sw_rocket_4k40_v3]"
+[Thu Apr  2 21:02:15 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [1007][sw_rocket_4k40_v3]"
+[Thu Apr  2 21:02:25 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // 67
+[Thu Apr  2 21:02:40 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 21:02:40 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [705][lvs_missile]"
+[Thu Apr  2 21:02:40 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 21:02:40 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [763][lvs_missile]"
+[Thu Apr  2 21:02:40 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 21:02:40 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [1014][lvs_missile]"
+[Thu Apr  2 21:02:41 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 21:02:41 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [1020][lvs_missile]"
+[Thu Apr  2 21:02:41 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 21:02:41 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [1011][lvs_missile]"
+[Thu Apr  2 21:02:41 2026] <STEAM_0:1:618974024> Sou1: // нет
+[Thu Apr  2 21:02:41 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 21:02:41 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [1021][lvs_missile]"
+[Thu Apr  2 21:02:41 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 21:02:41 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [1022][lvs_missile]"
+[Thu Apr  2 21:02:41 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 21:02:41 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [1023][lvs_missile]"
+[Thu Apr  2 21:02:41 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 21:02:41 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [1024][lvs_missile]"
+[Thu Apr  2 21:02:42 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 21:02:42 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [1025][lvs_missile]"
+[Thu Apr  2 21:02:42 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 21:02:42 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [705][lvs_missile]"
+[Thu Apr  2 21:02:42 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 21:02:42 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [763][lvs_missile]"
+[Thu Apr  2 21:02:42 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 21:02:42 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [1014][lvs_missile]"
+[Thu Apr  2 21:02:42 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 21:02:42 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [1020][lvs_missile]"
+[Thu Apr  2 21:02:42 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 21:02:42 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [1011][lvs_missile]"
+[Thu Apr  2 21:02:42 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 21:02:42 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [1021][lvs_missile]"
+[Thu Apr  2 21:02:43 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 21:02:43 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [1022][lvs_missile]"
+[Thu Apr  2 21:02:43 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 21:02:43 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [1027][lvs_missile]"
+[Thu Apr  2 21:02:43 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 21:02:43 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [1023][lvs_missile]"
+[Thu Apr  2 21:02:43 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 21:02:43 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [1024][lvs_missile]"
+[Thu Apr  2 21:02:43 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 21:02:43 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [1025][lvs_missile]"
+[Thu Apr  2 21:02:43 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 21:02:43 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [705][lvs_missile]"
+[Thu Apr  2 21:02:44 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 21:02:44 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [670][lvs_missile]"
+[Thu Apr  2 21:02:44 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 21:02:44 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [763][lvs_missile]"
+[Thu Apr  2 21:02:44 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 21:02:44 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [1014][lvs_missile]"
+[Thu Apr  2 21:02:44 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 21:02:44 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [1011][lvs_missile]"
+[Thu Apr  2 21:02:44 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 21:02:44 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [1020][lvs_missile]"
+[Thu Apr  2 21:02:44 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Apr  2 21:02:44 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [1021][lvs_missile]"
+[Thu Apr  2 21:03:02 2026] <STEAM_0:1:782845482> ТАГИЛЛА: НА КОЛЕНИ
+[Thu Apr  2 21:03:03 2026] ТАГИЛЛА has killed ★☾₳ⱤØ₦₦ł₭☽★.
+[Thu Apr  2 21:03:08 2026] <STEAM_0:1:782845482> ТАГИЛЛА: НЕ СПАСЯ
+[Thu Apr  2 21:03:09 2026] <STEAM_0:0:791981714> Limbo: /rf народ давайте ка соберёмся надо устроить кое что
+[Thu Apr  2 21:03:13 2026] <STEAM_0:1:455594560> gREG4IK ran command "respawn Ханоев"
+[Thu Apr  2 21:04:18 2026] <STEAM_0:1:782845482> ТАГИЛЛА: ана не аткрываса
+[Thu Apr  2 21:04:20 2026] <STEAM_0:1:782845482> ТАГИЛЛА: а
+[Thu Apr  2 21:04:47 2026] <STEAM_0:1:890482601> stalker_20130: // Администрация сервера ждет ваши вопросы и жалобы в F7, мы любим вас!
+[Thu Apr  2 21:05:27 2026] Player "ZALP" <STEAM_0:1:473271326> has left the server
+[Thu Apr  2 21:05:37 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc алле админы уважаемые. ЗАспавньте машинку
+[Thu Apr  2 21:05:43 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // самсонов го тулиса\nЦ
+[Thu Apr  2 21:05:55 2026] <STEAM_0:1:618974024> Sou1: // чтобы жб потом написал на него?)))
+[Thu Apr  2 21:06:00 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [612][sw_bmp1am]"
+[Thu Apr  2 21:06:04 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // вхвхв я же закрыл на тебя))
+[Thu Apr  2 21:06:12 2026] <STEAM_0:1:618974024> Sou1: // ток ты ливнул помоему
+[Thu Apr  2 21:06:12 2026] <STEAM_0:1:890482601> stalker_20130: // ханоев  в репортик пиши что заспавнить надо, по чату не работаем ;)
+[Thu Apr  2 21:06:14 2026] <STEAM_0:1:618974024> Sou1: // ток ты ливнул помоему
+[Thu Apr  2 21:06:16 2026] <STEAM_0:1:618974024> Sou1: // ток ты ливнул помоему
+[Thu Apr  2 21:06:17 2026] <STEAM_0:1:618974024> Sou1: // ток ты ливнул помоему
+[Thu Apr  2 21:06:18 2026] <STEAM_0:1:618974024> Sou1: // ток ты ливнул помоему
+[Thu Apr  2 21:06:19 2026] <STEAM_0:1:618974024> Sou1: // ток ты ливнул помоему
+[Thu Apr  2 21:06:20 2026] <STEAM_0:1:618974024> Sou1: // ток ты ливнул помоему
+[Thu Apr  2 21:06:21 2026] <STEAM_0:1:618974024> Sou1: // ток ты ливнул помоему
+[Thu Apr  2 21:06:24 2026] <STEAM_0:1:618974024> Sou1: // ток ты ливнул помоему
+[Thu Apr  2 21:06:30 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // грег почему он может жб разбирать
+[Thu Apr  2 21:06:35 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // я в дс напичал закрыть жб
+[Thu Apr  2 21:06:38 2026] <STEAM_0:1:618974024> Sou1: // я?
+[Thu Apr  2 21:06:41 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // я в дс напичал закрыть жб
+[Thu Apr  2 21:06:43 2026] <STEAM_0:1:618974024> Sou1: // я?
+[Thu Apr  2 21:06:43 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // я в дс напичал закрыть жб
+[Thu Apr  2 21:06:47 2026] <STEAM_0:1:618974024> Sou1: // я? Я не могу как раз таки
+[Thu Apr  2 21:06:54 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // я в дс напичал закрыть жб
+[Thu Apr  2 21:06:55 2026] <STEAM_0:1:618974024> Sou1: // я? Я не могу как раз таки
+[Thu Apr  2 21:06:57 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // я в дс напичал закрыть жб
+[Thu Apr  2 21:06:57 2026] Player "BERKYT" <STEAM_0:1:765972148> is attempting to connect.
+[Thu Apr  2 21:07:11 2026] impotent has killed ★☾₳ⱤØ₦₦ł₭☽★.
+[Thu Apr  2 21:07:11 2026] impotent has killed Sou1.
+[Thu Apr  2 21:07:18 2026] <STEAM_0:1:618974024> Sou1: /looc БЛЯТЬ ТАМ ТУМАН НЕ ВИДНО НИХУЯ
+[Thu Apr  2 21:07:20 2026] <STEAM_0:1:618974024> Sou1: /looc БЛЯТЬ ТАМ ТУМАН НЕ ВИДНО НИХУЯ
+[Thu Apr  2 21:07:25 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc бля
+[Thu Apr  2 21:07:26 2026] Player "★☾₳ⱤØ₦₦ł₭☽★" <STEAM_0:0:456016030> has left the server
+[Thu Apr  2 21:07:28 2026] Player "★☾₳ⱤØ₦₦ł₭☽★" <STEAM_0:0:456016030> is attempting to connect.
+[Thu Apr  2 21:07:31 2026] <STEAM_0:0:921324874> punk: !wl
+[Thu Apr  2 21:07:34 2026] impotent has killed Discar.
+[Thu Apr  2 21:07:34 2026] impotent has killed Limbo.
+[Thu Apr  2 21:07:36 2026] <STEAM_0:1:618974024> Sou1: /looc Поближе надо было подъехать
+[Thu Apr  2 21:07:37 2026] <STEAM_0:0:921324874> punk: /wl
+[Thu Apr  2 21:07:37 2026] <STEAM_0:1:618974024> Sou1: /looc Поближе надо было подъехать
+[Thu Apr  2 21:07:38 2026] <STEAM_0:1:618974024> Sou1: /looc Поближе надо было подъехать
+[Thu Apr  2 21:07:38 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // [ФЫХАФХАФХА
+[Thu Apr  2 21:07:39 2026] <STEAM_0:1:618974024> Sou1: /looc Поближе надо было подъехать
+[Thu Apr  2 21:07:40 2026] <STEAM_0:1:618974024> Sou1: /looc Поближе надо было подъехать
+[Thu Apr  2 21:07:41 2026] <STEAM_0:1:618974024> Sou1: /looc Поближе надо было подъехать
+[Thu Apr  2 21:07:41 2026] <STEAM_0:1:425612974> impotent: /ooc пиздец))
+[Thu Apr  2 21:07:46 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /l чилите?
+[Thu Apr  2 21:07:54 2026] <STEAM_0:0:791981714> Limbo: /ooc вай бля жи ес ебаный насвай
+[Thu Apr  2 21:07:55 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /l чилите?
+[Thu Apr  2 21:07:57 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /l чилите?
+[Thu Apr  2 21:07:57 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /l чилите?
+[Thu Apr  2 21:07:58 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /l чилите?
+[Thu Apr  2 21:07:59 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /l чилите?
+[Thu Apr  2 21:08:01 2026] Player "★☾₳ⱤØ₦₦ł₭☽★" <STEAM_0:0:456016030> has spawned in the server
+[Thu Apr  2 21:08:19 2026] <STEAM_0:1:890482601> stalker_20130: /logs
+[Thu Apr  2 21:08:23 2026] <STEAM_0:0:921324874> punk: /logs
+[Thu Apr  2 21:10:06 2026] Emperor of Mankind has killed Discar.
+[Thu Apr  2 21:10:11 2026] <STEAM_0:1:782845482> ТАГИЛЛА: gbdtn
+[Thu Apr  2 21:10:12 2026] <STEAM_0:1:782845482> ТАГИЛЛА: пивет
+[Thu Apr  2 21:10:20 2026] <STEAM_0:1:782845482> ТАГИЛЛА: эпична
+[Thu Apr  2 21:10:30 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [623][lvs_missile]"
+[Thu Apr  2 21:10:35 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /me забрал сс и оружие
+[Thu Apr  2 21:10:43 2026] Emperor of Mankind has killed Limbo.
+[Thu Apr  2 21:10:44 2026] <STEAM_0:1:782845482> ТАГИЛЛА: за мной сука
+[Thu Apr  2 21:10:45 2026] Vlad has killed Sou1.
+[Thu Apr  2 21:10:48 2026] <STEAM_0:1:782845482> ТАГИЛЛА: за мной сука
+[Thu Apr  2 21:10:51 2026] <STEAM_0:1:782845482> ТАГИЛЛА: за мной сука
+[Thu Apr  2 21:10:58 2026] impotent has killed Discar.
+[Thu Apr  2 21:11:00 2026] <STEAM_0:1:618974024> Sou1: /rf Блять.. город 1
+[Thu Apr  2 21:11:07 2026] Emperor of Mankind has killed Limbo.
+[Thu Apr  2 21:11:15 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // нахуя вы фир рпшите я же перепорчу вас
+[Thu Apr  2 21:11:16 2026] <STEAM_0:0:791981714> Limbo: /ooc допрыгал до базы и умэр
+[Thu Apr  2 21:11:19 2026] <STEAM_0:0:921324874> punk ran command "respawn Филатов"
+[Thu Apr  2 21:11:24 2026] <STEAM_0:0:921324874> punk ran command "send Филатов"
+[Thu Apr  2 21:11:34 2026] <STEAM_0:1:618974024> Sou1: // ебать еррорка летает
+[Thu Apr  2 21:11:35 2026] <STEAM_0:1:890482601> stalker_20130 ran command "goto Wilson"
+[Thu Apr  2 21:11:39 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [670][sw_bmp1m]"
+[Thu Apr  2 21:11:51 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /l опаа
+[Thu Apr  2 21:11:54 2026] <STEAM_0:1:782845482> ТАГИЛЛА: ты шо твариш
+[Thu Apr  2 21:12:00 2026] <STEAM_0:1:455594560> gREG4IK: /event ОТОЙДИТЕ ОТ БАЗЫ!!!! РФ
+[Thu Apr  2 21:12:00 2026] <STEAM_0:1:782845482> ТАГИЛЛА: топ
+[Thu Apr  2 21:12:06 2026] <STEAM_0:0:921324874> punk ran command "goto Дискаров"
+[Thu Apr  2 21:12:11 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [670][sw_bmp1]"
+[Thu Apr  2 21:12:15 2026] <STEAM_0:0:921324874> punk ran command "send Филатов"
+[Thu Apr  2 21:12:23 2026] <STEAM_0:1:890482601> stalker_20130 ran command "send Wilson"
+[Thu Apr  2 21:12:34 2026] <STEAM_0:1:782845482> ТАГИЛЛА: фир рп от ханоевп
+[Thu Apr  2 21:12:40 2026] <STEAM_0:0:921324874> punk ran command "goto Самсонов"
+[Thu Apr  2 21:12:58 2026] <STEAM_0:1:782845482> ТАГИЛЛА: нету аткат а
+[Thu Apr  2 21:13:06 2026] Emperor of Mankind has killed ★☾₳ⱤØ₦₦ł₭☽★.
+[Thu Apr  2 21:13:07 2026] <STEAM_0:1:782845482> ТАГИЛЛА: че
+[Thu Apr  2 21:13:12 2026] impotent has killed Limbo.
+[Thu Apr  2 21:13:12 2026] impotent has killed Discar.
+[Thu Apr  2 21:13:13 2026] <STEAM_0:1:782845482> ТАГИЛЛА: парень
+[Thu Apr  2 21:13:16 2026] <STEAM_0:0:507798739> Vlad: /nato На складах свои
+[Thu Apr  2 21:13:17 2026] <STEAM_0:1:782845482> ТАГИЛЛА: мб сознаеться
+[Thu Apr  2 21:13:20 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc чо за хуйня с регой алло
+[Thu Apr  2 21:13:25 2026] Sou1 has killed Emperor of Mankind.
+[Thu Apr  2 21:13:26 2026] <STEAM_0:1:782845482> ТАГИЛЛА: на той жб был откат
+[Thu Apr  2 21:13:28 2026] Sou1 has killed ★☾₳ⱤØ₦₦ł₭☽★.
+[Thu Apr  2 21:13:31 2026] <STEAM_0:1:782845482> ТАГИЛЛА: пивет
+[Thu Apr  2 21:13:32 2026] <STEAM_0:0:791981714> Limbo: /ooc бля дискаров давай ты не будешь больше садится за орудие и за руль у тебя плохо получается
+[Thu Apr  2 21:13:33 2026] impotent has killed Sou1.
+[Thu Apr  2 21:13:36 2026] <STEAM_0:1:782845482> ТАГИЛЛА: нет
+[Thu Apr  2 21:13:45 2026] <STEAM_0:1:782845482> ТАГИЛЛА: не кажеться
+[Thu Apr  2 21:13:46 2026] <STEAM_0:1:618974024> Sou1: // дискарова вообще не берите ёпта))
+[Thu Apr  2 21:13:48 2026] <STEAM_0:1:890482601> stalker_20130 ran command "goto Ханоев"
+[Thu Apr  2 21:13:48 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc да блять я в ахуе просто
+[Thu Apr  2 21:13:51 2026] <STEAM_0:1:782845482> ТАГИЛЛА: так будут типы дальше нарушат
+[Thu Apr  2 21:14:04 2026] <STEAM_0:1:782845482> ТАГИЛЛА: я откат запустил
+[Thu Apr  2 21:14:04 2026] Player "Emperor of Mankind" <STEAM_0:1:443626364> has left the server
+[Thu Apr  2 21:14:11 2026] <STEAM_0:1:890482601> stalker_20130 ran command "send Ханоев"
+[Thu Apr  2 21:14:12 2026] <STEAM_0:1:782845482> ТАГИЛЛА: не
+[Thu Apr  2 21:14:19 2026] <STEAM_0:1:782845482> ТАГИЛЛА: НЕТ НЕ ОН
+[Thu Apr  2 21:14:21 2026] <STEAM_0:1:782845482> ТАГИЛЛА: ОЙО
+[Thu Apr  2 21:14:22 2026] <STEAM_0:1:782845482> ТАГИЛЛА: ОЙО
+[Thu Apr  2 21:14:24 2026] <STEAM_0:1:782845482> ТАГИЛЛА: там тип
+[Thu Apr  2 21:14:27 2026] <STEAM_0:1:782845482> ТАГИЛЛА: в формен
+[Thu Apr  2 21:14:29 2026] <STEAM_0:1:782845482> ТАГИЛЛА: черной
+[Thu Apr  2 21:14:31 2026] <STEAM_0:1:782845482> ТАГИЛЛА ran command "menu"
+[Thu Apr  2 21:14:39 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /console
+[Thu Apr  2 21:14:44 2026] <STEAM_0:1:782845482> ТАГИЛЛА: !console
+[Thu Apr  2 21:14:48 2026] <STEAM_0:0:650470378> Discar: /ooc Грэн  у неас снова 1 вместимость
+[Thu Apr  2 21:14:51 2026] <STEAM_0:1:782845482> ТАГИЛЛА: бэбэбжэ
+[Thu Apr  2 21:14:56 2026] <STEAM_0:1:782845482> ТАГИЛЛА: сука ладно закройте жб
+[Thu Apr  2 21:15:02 2026] <STEAM_0:0:650470378> Discar: /ooc под технику
+[Thu Apr  2 21:15:05 2026] <STEAM_0:0:650470378> Discar: /ooc под технику
+[Thu Apr  2 21:15:09 2026] worldspawn has killed ТАГИЛЛА.
+[Thu Apr  2 21:15:20 2026] <STEAM_0:1:890482601> stalker_20130 ran command "return Ханоев"
+[Thu Apr  2 21:15:27 2026] <STEAM_0:1:455594560> gREG4IK ran command "respawn Console | Greg"
+[Thu Apr  2 21:15:50 2026] Sou1 has killed Kotik.
+[Thu Apr  2 21:16:30 2026] <STEAM_0:0:921324874> punk: /said pla
+[Thu Apr  2 21:16:45 2026] impotent has killed Limbo.
+[Thu Apr  2 21:16:47 2026] ★☾₳ⱤØ₦₦ł₭☽★ has killed Sou1.
+[Thu Apr  2 21:16:51 2026] <STEAM_0:1:618974024> Sou1: // баля
+[Thu Apr  2 21:16:52 2026] <STEAM_0:0:921324874> punk ran command "send player"
+[Thu Apr  2 21:17:08 2026] <STEAM_0:0:921324874> punk ran command "send player stalker_20130"
+[Thu Apr  2 21:17:09 2026] <STEAM_0:0:791981714> Limbo: /ooc чет я так подумал, пулемётчик вообще беспомощный верните моего гренадира пожалуйсчта
+[Thu Apr  2 21:17:15 2026] <STEAM_0:0:921324874> punk ran command "send player stalker_20130"
+[Thu Apr  2 21:17:22 2026] ТАГИЛЛА has killed ★☾₳ⱤØ₦₦ł₭☽★.
+[Thu Apr  2 21:17:23 2026] <STEAM_0:1:618974024> Sou1 ran command "invisible Соколов"
+[Thu Apr  2 21:17:35 2026] <STEAM_0:1:890482601> stalker_20130: // обратно рапорт напиши одобрю
+[Thu Apr  2 21:17:46 2026] <STEAM_0:0:791981714> Limbo: /ooc прям ща напишу
+[Thu Apr  2 21:18:05 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // заебали с танками
+[Thu Apr  2 21:18:10 2026] <STEAM_0:1:425612974> impotent: /ooc
+[Thu Apr  2 21:18:47 2026] <STEAM_0:0:791981714> Limbo: /ooc все есть одобряй самсон
+[Thu Apr  2 21:18:58 2026] impotent has killed Discar.
+[Thu Apr  2 21:19:17 2026] Vlad has killed punk.
+[Thu Apr  2 21:20:35 2026] <STEAM_0:1:425612974> impotent: /nato Уничтожил
+[Thu Apr  2 21:20:39 2026] <STEAM_0:1:618974024> Sou1: // хуя
+[Thu Apr  2 21:20:40 2026] <STEAM_0:0:650470378> Discar: /ooc бля я не могу танк взять
+[Thu Apr  2 21:20:43 2026] punk has killed Vlad.
+[Thu Apr  2 21:21:07 2026] impotent has killed Limbo.
+[Thu Apr  2 21:21:20 2026] <STEAM_0:1:618974024> Sou1 ran command "a если я в ноуклип входил, у меня годмод врубается автоматом?"
+[Thu Apr  2 21:21:20 2026] <STEAM_0:0:791981714> Limbo: /ooc абрамс с сопки съебался в ужасе
+[Thu Apr  2 21:21:45 2026] <STEAM_0:0:921324874> punk ran command "a да вроде"
+[Thu Apr  2 21:21:50 2026] impotent has killed Discar.
+[Thu Apr  2 21:21:59 2026] <STEAM_0:1:618974024> Sou1 ran command "a бля я то думаю, а че я не взорвался, рано предубредили"
+[Thu Apr  2 21:22:02 2026] <STEAM_0:0:650470378> Discar: /ooc Какого хуя не регает
+[Thu Apr  2 21:22:05 2026] Player "Мраз" <STEAM_0:0:642089283> is attempting to connect.
+[Thu Apr  2 21:22:05 2026] <STEAM_0:1:425612974> impotent: /nato т90 уничтожаю как комаров
+[Thu Apr  2 21:22:06 2026] <STEAM_0:1:618974024> Sou1 ran command "a спасибо что сказал"
+[Thu Apr  2 21:22:08 2026] <STEAM_0:1:618974024> Sou1: /godmode
+[Thu Apr  2 21:22:12 2026] <STEAM_0:0:921324874> punk ran command "a да"
+[Thu Apr  2 21:22:13 2026] <STEAM_0:0:650470378> Discar: /ooc 3 в башню
+[Thu Apr  2 21:22:18 2026] ТАГИЛЛА has killed Limbo.
+[Thu Apr  2 21:22:32 2026] ТАГИЛЛА has killed Discar.
+[Thu Apr  2 21:22:33 2026] <STEAM_0:0:791981714> Limbo: /ooc а че за пидр на горе сидит и хуярит
+[Thu Apr  2 21:22:35 2026] <STEAM_0:1:618974024> Sou1: // ну да, на базе прям убивать
+[Thu Apr  2 21:22:38 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // я
+[Thu Apr  2 21:22:48 2026] <STEAM_0:0:791981714> Limbo: /ooc головка от хуя съебался в ужасе
+[Thu Apr  2 21:22:54 2026] <STEAM_0:0:791981714> Limbo: /ooc головка от хуя съебался в ужасе
+[Thu Apr  2 21:22:56 2026] <STEAM_0:0:650470378> Discar: /ooc Оибо я криворукий либо не регает
+[Thu Apr  2 21:22:56 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // ладно бб всем
+[Thu Apr  2 21:22:58 2026] <STEAM_0:1:618974024> Sou1: // грег, тогда вопрос - Какого хуя НАТО У БАЗЫ КЕМПИТЬ МОЖЕТ, А РФ НЕТ?
+[Thu Apr  2 21:22:59 2026] <STEAM_0:1:618974024> Sou1: // грег, тогда вопрос - Какого хуя НАТО У БАЗЫ КЕМПИТЬ МОЖЕТ, А РФ НЕТ?
+[Thu Apr  2 21:23:07 2026] <STEAM_0:0:791981714> Limbo: /ooc головка от хуя съебался в ужасе
+[Thu Apr  2 21:23:13 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // извини
+[Thu Apr  2 21:23:31 2026] <STEAM_0:1:618974024> Sou1 ran command "a я годмод вырубить не могу :fist:"
+[Thu Apr  2 21:23:38 2026] <STEAM_0:1:618974024> Sou1 ran command "a прав не хватает"
+[Thu Apr  2 21:23:43 2026] punk has killed impotent.
+[Thu Apr  2 21:23:47 2026] Player "ТАГИЛЛА" <STEAM_0:1:782845482> has left the server
+[Thu Apr  2 21:24:00 2026] <STEAM_0:1:890482601> stalker_20130 ran command "a а нах включил"
+[Thu Apr  2 21:24:08 2026] Player "Мраз" <STEAM_0:0:642089283> has spawned in the server
+[Thu Apr  2 21:24:22 2026] <STEAM_0:1:890482601> stalker_20130 ran command "ungod Соколов"
+[Thu Apr  2 21:24:52 2026] worldspawn has killed Sou1.
+[Thu Apr  2 21:25:04 2026] stalker_20130 has killed Sou1.
+[Thu Apr  2 21:25:08 2026] punk has killed Kotik.
+[Thu Apr  2 21:25:38 2026] <STEAM_0:1:618974024> Sou1 ran command "invisible Соколов"
+[Thu Apr  2 21:26:35 2026] <STEAM_0:0:921324874> punk ran command "goto Самсонов"
+[Thu Apr  2 21:27:04 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [764][item_healthkit]"
+[Thu Apr  2 21:27:05 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [774][item_healthkit]"
+[Thu Apr  2 21:27:31 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [759][item_healthkit]"
+[Thu Apr  2 21:27:32 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [760][item_healthkit]"
+[Thu Apr  2 21:27:34 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [758][item_battery]"
+[Thu Apr  2 21:27:35 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [759][item_battery]"
+[Thu Apr  2 21:27:35 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [760][item_battery]"
+[Thu Apr  2 21:27:35 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [763][item_battery]"
+[Thu Apr  2 21:27:35 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [764][item_battery]"
+[Thu Apr  2 21:27:35 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [758][item_battery]"
+[Thu Apr  2 21:27:36 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [771][item_battery]"
+[Thu Apr  2 21:27:36 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [772][item_battery]"
+[Thu Apr  2 21:27:36 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [759][item_battery]"
+[Thu Apr  2 21:27:36 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [760][item_battery]"
+[Thu Apr  2 21:27:36 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [763][item_battery]"
+[Thu Apr  2 21:27:39 2026] ★☾₳ⱤØ₦₦ł₭☽★ has killed impotent.
+[Thu Apr  2 21:28:21 2026] Player "Po_rA1" <STEAM_0:0:887714123> is attempting to connect.
+[Thu Apr  2 21:28:24 2026] <STEAM_0:1:618974024> Sou1: /rf РЧ 453
+[Thu Apr  2 21:28:26 2026] <STEAM_0:1:455594560> gREG4IK: /event РФ ИМЕЕТ численное приемущство
+[Thu Apr  2 21:28:27 2026] Limbo has killed Vlad.
+[Thu Apr  2 21:28:46 2026] <STEAM_0:1:618974024> Sou1: // (не пиздеж!!)
+[Thu Apr  2 21:28:47 2026] <STEAM_0:1:618974024> Sou1: // (не пиздеж!!)
+[Thu Apr  2 21:28:52 2026] <STEAM_0:1:618974024> Sou1: // (не пиздеж!!)
+[Thu Apr  2 21:29:19 2026] <STEAM_0:0:507798739> Vlad: /do У бойца на руках идет кровь...
+[Thu Apr  2 21:29:19 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [742][lvs_wheeldrive_rp_dabrams_m1a1]"
+[Thu Apr  2 21:29:20 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [995][lvs_wheeldrive_rp_dabrams_m1a1]"
+[Thu Apr  2 21:29:41 2026] <STEAM_0:0:921324874> punk used tool "remover"
+[Thu Apr  2 21:29:44 2026] <STEAM_0:1:890482601> stalker_20130: в чат напиши кого
+[Thu Apr  2 21:29:45 2026] <STEAM_0:0:921324874> punk used tool "remover"
+[Thu Apr  2 21:29:48 2026] <STEAM_0:1:890482601> stalker_20130: пингует
+[Thu Apr  2 21:29:50 2026] Player "Po_rA1" <STEAM_0:0:887714123> has spawned in the server
+[Thu Apr  2 21:29:50 2026] <STEAM_0:0:507798739> Vlad: /me Начинает медлено сходить с ума
+[Thu Apr  2 21:29:54 2026] <STEAM_0:1:425612974> impotent: Командира Бронетанкового Полка
+[Thu Apr  2 21:30:12 2026] <STEAM_0:0:507798739> Vlad: /do Кровь течет очень быстро...
+[Thu Apr  2 21:30:15 2026] gREG4IK has killed Limbo.
+[Thu Apr  2 21:30:20 2026] <STEAM_0:1:425612974> impotent: /ooc спасибо
+[Thu Apr  2 21:30:21 2026] <STEAM_0:0:507798739> Vlad: /me Упал
+[Thu Apr  2 21:30:34 2026] <STEAM_0:0:791981714> Limbo: /ooc админ абуз?)
+[Thu Apr  2 21:30:38 2026] <STEAM_0:1:425612974> impotent: /ooc застрял
+[Thu Apr  2 21:30:43 2026] <STEAM_0:1:425612974> impotent: /ooc застрял помогите
+[Thu Apr  2 21:30:44 2026] <STEAM_0:1:618974024> Sou1: /rf СУКА ТАНК ЕДЕТ ВЫ НЕ СЛЫШИТЕ??
+[Thu Apr  2 21:30:54 2026] <STEAM_0:1:455594560> gREG4IK ran command "goto 1LT Montgomeru"
+[Thu Apr  2 21:31:09 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /me отобрал рацию, еду, оружие
+[Thu Apr  2 21:31:10 2026] <STEAM_0:0:507798739> Vlad: /do боец весь крови
+[Thu Apr  2 21:31:24 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /me Начал осматривать руки пендоса
+[Thu Apr  2 21:31:56 2026] ★☾₳ⱤØ₦₦ł₭☽★ has killed Vlad.
+[Thu Apr  2 21:33:35 2026] Kotik has killed Sou1.
+[Thu Apr  2 21:33:36 2026] Po_rA1 has killed Kotik.
+[Thu Apr  2 21:33:41 2026] impotent has killed Limbo.
+[Thu Apr  2 21:33:43 2026] Player "punk" <STEAM_0:0:921324874> has left the server
+[Thu Apr  2 21:33:49 2026] <STEAM_0:1:618974024> Sou1: // ебать танки op
+[Thu Apr  2 21:34:02 2026] <STEAM_0:1:558349975> Kotik: /ooc T-90 Core
+[Thu Apr  2 21:34:03 2026] Мраз has killed impotent.
+[Thu Apr  2 21:34:06 2026] <STEAM_0:1:618974024> Sou1: // ждём нерфа танков
+[Thu Apr  2 21:34:09 2026] <STEAM_0:1:618974024> Sou1: // ждём нерфа танков у нато
+[Thu Apr  2 21:34:11 2026] <STEAM_0:1:618974024> Sou1: // ждём нерфа танков у нато
+[Thu Apr  2 21:34:11 2026] <STEAM_0:1:425612974> impotent: /ooc Куда танк удалили, емае
+[Thu Apr  2 21:34:13 2026] <STEAM_0:1:618974024> Sou1: // ждём нерфа танков у нато
+[Thu Apr  2 21:34:28 2026] <STEAM_0:0:650470378> Discar: /me связал
+[Thu Apr  2 21:35:18 2026] <STEAM_0:1:890482601> stalker_20130: // Есть вопросы и не у кого спросить и получить ответа ? Тогда тебе в F7, тебе там ответят;)
+[Thu Apr  2 21:36:27 2026] Мраз has killed ★☾₳ⱤØ₦₦ł₭☽★.
+[Thu Apr  2 21:36:29 2026] Мраз has killed Limbo.
+[Thu Apr  2 21:36:31 2026] Мраз has killed Мраз.
+[Thu Apr  2 21:36:39 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc БЕЗДАРИ ЕБАНЫЕ
+[Thu Apr  2 21:36:41 2026] <STEAM_0:0:791981714> Limbo: /ooc я ебу нахуй проосто сука зажал и хуярит
+[Thu Apr  2 21:36:55 2026] Kotik has killed Po_rA1.
+[Thu Apr  2 21:36:55 2026] <STEAM_0:0:791981714> Limbo: /ooc и фпс кстати тоже пропадают
+[Thu Apr  2 21:37:09 2026] Kotik has killed ★☾₳ⱤØ₦₦ł₭☽★.
+[Thu Apr  2 21:37:27 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc так пишем жб ибо админ абуз и тд да
+[Thu Apr  2 21:37:39 2026] impotent has killed Discar.
+[Thu Apr  2 21:37:45 2026] Kotik has killed Мраз.
+[Thu Apr  2 21:37:50 2026] <STEAM_0:0:650470378> Discar: /ooc не залезает бляять
+[Thu Apr  2 21:38:03 2026] <STEAM_0:0:650470378> Discar: /rf Я уволюсь с мехводов нахуй
+[Thu Apr  2 21:38:13 2026] <STEAM_0:0:650470378> Discar: /rf Я уволюсь с мехводов нахуй
+[Thu Apr  2 21:38:18 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc НАТО, просто вопрос. Сколько у каждого часов в ГМ?
+[Thu Apr  2 21:38:27 2026] <STEAM_0:1:425612974> impotent: /ooc много
+[Thu Apr  2 21:38:32 2026] Player "Мраз" <STEAM_0:0:642089283> has left the server
+[Thu Apr  2 21:38:33 2026] Player "Мраз" <STEAM_0:0:642089283> is attempting to connect.
+[Thu Apr  2 21:38:34 2026] <STEAM_0:0:650470378> Discar: /rf Я уволюсь с мехводов нахуй
+[Thu Apr  2 21:38:36 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc боле 3к?
+[Thu Apr  2 21:38:40 2026] <STEAM_0:1:558349975> Kotik: /ooc 6186 часов
+[Thu Apr  2 21:38:54 2026] <STEAM_0:1:618974024> Sou1: // Теперь ясно почему половина всрф сосёт))
+[Thu Apr  2 21:39:00 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc так у меня 250 всего
+[Thu Apr  2 21:39:01 2026] Player "Мраз" <STEAM_0:0:642089283> has spawned in the server
+[Thu Apr  2 21:39:25 2026] Vlad has killed Limbo.
+[Thu Apr  2 21:39:47 2026] <STEAM_0:0:791981714> Limbo: /ooc сколько я вам одной ракетой снёс?
+[Thu Apr  2 21:39:59 2026] <STEAM_0:1:425612974> impotent: /ooc хп 200
+[Thu Apr  2 21:40:07 2026] <STEAM_0:0:791981714> Limbo: /ooc а всего сколько?
+[Thu Apr  2 21:40:10 2026] Vlad has killed ★☾₳ⱤØ₦₦ł₭☽★.
+[Thu Apr  2 21:40:10 2026] <STEAM_0:0:791981714> Limbo: /ooc а всего сколько?
+[Thu Apr  2 21:40:34 2026] impotent has killed Discar.
+[Thu Apr  2 21:40:43 2026] Po_rA1 has killed Vlad.
+[Thu Apr  2 21:40:51 2026] Po_rA1 has killed impotent.
+[Thu Apr  2 21:41:01 2026] <STEAM_0:0:650470378> Discar: /rf и у абрамся перезарядка быстрая
+[Thu Apr  2 21:41:30 2026] <STEAM_0:0:650470378> Discar: /rf может все напишем увольнительное и в НАТО?
+[Thu Apr  2 21:41:35 2026] Player "༒︎シ︎ʰᵉⁿᵗᵃⁱシ" <STEAM_0:0:851601344> is attempting to connect.
+[Thu Apr  2 21:41:43 2026] Kotik has killed Мраз.
+[Thu Apr  2 21:41:45 2026] Kotik has killed Limbo.
+[Thu Apr  2 21:41:45 2026] Limbo has killed Kotik.
+[Thu Apr  2 21:41:49 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc мы все пишем увольнительное в нато
+[Thu Apr  2 21:41:58 2026] <STEAM_0:0:791981714> Limbo: /ooc Я ПОСМЕРТНО СНЁС ЕГО УХАХАХАХАХА
+[Thu Apr  2 21:42:13 2026] <STEAM_0:1:558349975> Kotik: /ooc МОИ ПОСЛЕДНИЕ СЛОВА ПЕРЕД ВЗРЫВОМ АБРАМСА: "Я ЖИВОООЙ"
+[Thu Apr  2 21:42:56 2026] <STEAM_0:0:650470378> Discar: /rf Давайте Филатова в кмд 68?
+[Thu Apr  2 21:43:03 2026] Player "Dandelion" <STEAM_0:0:148551732> is attempting to connect.
+[Thu Apr  2 21:43:14 2026] Player "༒︎シ︎ʰᵉⁿᵗᵃⁱシ" <STEAM_0:0:851601344> has spawned in the server
+[Thu Apr  2 21:43:20 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /rf не обижайся, мы сами сосем
+[Thu Apr  2 21:44:01 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /rf кто где?
+[Thu Apr  2 21:44:08 2026] <STEAM_0:1:618974024> Sou1: /rf РЧ 453
+[Thu Apr  2 21:45:16 2026] Kotik has killed Limbo.
+[Thu Apr  2 21:45:30 2026] Vlad has killed Po_rA1.
+[Thu Apr  2 21:45:32 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [638][sw_airdrop_large_v3]"
+[Thu Apr  2 21:45:32 2026] <STEAM_0:0:791981714> Limbo: /ooc я прям на танк выбежал сука
+[Thu Apr  2 21:45:39 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [638][sw_airdrop_large_v3]"
+[Thu Apr  2 21:45:49 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [662][sw_airdrop_large_v3]"
+[Thu Apr  2 21:46:11 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [942][sw_airdrop_large_v3]"
+[Thu Apr  2 21:46:22 2026] impotent has killed Мраз.
+[Thu Apr  2 21:46:27 2026] Player "Мраз" <STEAM_0:0:642089283> has left the server
+[Thu Apr  2 21:47:12 2026] Player "Worshiper of God" <STEAM_0:0:74235942> is attempting to connect.
+[Thu Apr  2 21:47:22 2026] Kotik has killed ★☾₳ⱤØ₦₦ł₭☽★.
+[Thu Apr  2 21:47:34 2026] impotent has killed Limbo.
+[Thu Apr  2 21:47:51 2026] <STEAM_0:0:791981714> Limbo: /ooc суки совесть имейте не хуярьте со своего пулимёта зажимом блядь
+[Thu Apr  2 21:47:57 2026] impotent has killed Discar.
+[Thu Apr  2 21:48:12 2026] <STEAM_0:0:650470378> Discar: /ooc Я 200 на починке
+[Thu Apr  2 21:48:19 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [721][sw_airdrop_v3]"
+[Thu Apr  2 21:48:22 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [679][sw_airdrop_v3]"
+[Thu Apr  2 21:48:22 2026] <STEAM_0:1:618974024> Sou1: /rf ((чтобы сюда писать, пишите /rf))
+[Thu Apr  2 21:48:51 2026] Vlad has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Thu Apr  2 21:48:58 2026] ★☾₳ⱤØ₦₦ł₭☽★ has killed impotent.
+[Thu Apr  2 21:49:16 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "respawn Ангел"
+[Thu Apr  2 21:49:20 2026] Vlad has killed ★☾₳ⱤØ₦₦ł₭☽★.
+[Thu Apr  2 21:49:55 2026] Player "Worshiper of God" <STEAM_0:0:74235942> has spawned in the server
+[Thu Apr  2 21:50:26 2026] Vlad has killed Limbo.
+[Thu Apr  2 21:50:52 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Vlad.
+[Thu Apr  2 21:51:00 2026] <STEAM_0:0:74235942> Worshiper of God: // хуйня какая то дохуя русских
+[Thu Apr  2 21:51:05 2026] Po_rA1 has killed Kotik.
+[Thu Apr  2 21:51:11 2026] <STEAM_0:0:74235942> Worshiper of God: // а ну закиньте меня за нато
+[Thu Apr  2 21:51:13 2026] <STEAM_0:1:618974024> Sou1: // русских дохуя, а проигрывают четырем))))
+[Thu Apr  2 21:51:19 2026] <STEAM_0:0:74235942> Worshiper of God: // а ну закиньте меня за нато
+[Thu Apr  2 21:51:22 2026] <STEAM_0:0:74235942> Worshiper of God: // а ну закиньте меня за нато
+[Thu Apr  2 21:51:23 2026] <STEAM_0:0:887714123> Po_rA1: /me Связваю и забираю оружие
+[Thu Apr  2 21:51:24 2026] <STEAM_0:0:74235942> Worshiper of God: // а ну закиньте меня за нато
+[Thu Apr  2 21:51:29 2026] <STEAM_0:0:74235942> Worshiper of God: // а ну закиньте меня за нато
+[Thu Apr  2 21:51:29 2026] impotent has killed Kotik.
+[Thu Apr  2 21:51:30 2026] impotent has killed Discar.
+[Thu Apr  2 21:51:30 2026] impotent has killed Po_rA1.
+[Thu Apr  2 21:51:36 2026] <STEAM_0:1:618974024> Sou1: // нет
+[Thu Apr  2 21:51:45 2026] <STEAM_0:1:558349975> Kotik: /ooc АВХАХВАХВХАВХАХВАХ
+[Thu Apr  2 21:51:48 2026] <STEAM_0:0:650470378> Discar: /rf и брендли сразу
+[Thu Apr  2 21:51:51 2026] <STEAM_0:1:558349975> Kotik: /ooc ТАК МОГЛИ ПЛЕНИТЬ
+[Thu Apr  2 21:51:52 2026] <STEAM_0:1:618974024> Sou1: // будешь жить на моче и хлебе
+[Thu Apr  2 21:51:56 2026] <STEAM_0:1:558349975> Kotik: /ooc ТАК МОГЛИ ПЛЕНИТЬ
+[Thu Apr  2 21:51:57 2026] <STEAM_0:1:618974024> Sou1: // будешь жить на моче и хлебе как и мы
+[Thu Apr  2 21:52:02 2026] impotent has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Thu Apr  2 21:52:04 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "respawn Ангел"
+[Thu Apr  2 21:52:08 2026] <STEAM_0:0:74235942> Worshiper of God: // че нить нужно да написать
+[Thu Apr  2 21:52:24 2026] <STEAM_0:1:558349975> Kotik: /ooc ВЫ ТРОИМ СОСЕТЕ
+[Thu Apr  2 21:52:28 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [608][sw_airdrop_large_v3]"
+[Thu Apr  2 21:52:37 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Thu Apr  2 21:52:37 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SWEP "Weapon [935][tfa_ins2_wpn_rpg7]"
+[Thu Apr  2 21:52:45 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [608][sw_airdrop_large_v3]"
+[Thu Apr  2 21:52:54 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [651][sw_airdrop_large_v3]"
+[Thu Apr  2 21:53:01 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [608][sw_airdrop_v3]"
+[Thu Apr  2 21:53:21 2026] <STEAM_0:0:507798739> Vlad: /drop
+[Thu Apr  2 21:54:40 2026] Vlad has killed Sou1.
+[Thu Apr  2 21:56:16 2026] impotent has killed Limbo.
+[Thu Apr  2 21:56:19 2026] impotent has killed Po_rA1.
+[Thu Apr  2 21:56:23 2026] Player "Dandelion" <STEAM_0:0:148551732> has spawned in the server
+[Thu Apr  2 21:56:43 2026] <STEAM_0:0:791981714> Limbo: /rf работают с 46-ой бредли стоит и одна пехота спустилась на завод
+[Thu Apr  2 21:56:46 2026] impotent has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Thu Apr  2 21:56:49 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "respawn Ангел"
+[Thu Apr  2 21:56:50 2026] Vlad has killed ★☾₳ⱤØ₦₦ł₭☽★.
+[Thu Apr  2 21:57:10 2026] impotent has killed Worshiper of God.
+[Thu Apr  2 21:57:19 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [680][sw_airdrop_large_v3]"
+[Thu Apr  2 21:57:20 2026] <STEAM_0:0:74235942> Worshiper of God: // сука прохода не было
+[Thu Apr  2 21:57:29 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [841][sw_airdrop_large_v3]"
+[Thu Apr  2 21:57:29 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [845][sw_airdrop_large_v3]"
+[Thu Apr  2 21:57:44 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [743][sw_airdrop_large_v3]"
+[Thu Apr  2 21:57:51 2026] Kotik has killed Po_rA1.
+[Thu Apr  2 21:58:11 2026] <STEAM_0:1:558349975> Kotik: /me забрал оружие и связал
+[Thu Apr  2 21:59:15 2026] impotent has killed ★☾₳ⱤØ₦₦ł₭☽★.
+[Thu Apr  2 21:59:17 2026] Vlad has killed Po_rA1.
+[Thu Apr  2 21:59:25 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc И ПОЧЕМУ Я БЛЯТЬ ЕГО НЕ СНЕС?
+[Thu Apr  2 21:59:36 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc Я СУКА ВСЮ ОБОЙМУ ВЫЖАЛ
+[Thu Apr  2 21:59:39 2026] Limbo has killed Kotik.
+[Thu Apr  2 21:59:41 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Limbo.
+[Thu Apr  2 21:59:45 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed impotent.
+[Thu Apr  2 22:00:41 2026] Vlad has killed Sou1.
+[Thu Apr  2 22:00:43 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [608][sw_mine_tm62_v3]"
+[Thu Apr  2 22:00:44 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [623][sw_mine_tm62_v3]"
+[Thu Apr  2 22:00:46 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [634][sw_mine_tm62_v3]"
+[Thu Apr  2 22:00:47 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [668][sw_mine_tm62_v3]"
+[Thu Apr  2 22:00:49 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [706][sw_mine_pfm1_v3]"
+[Thu Apr  2 22:00:50 2026] <STEAM_0:1:618974024> Sou1: /rf Меня натовец в спину забрал блядина
+[Thu Apr  2 22:00:50 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [848][sw_mine_pfm1_v3]"
+[Thu Apr  2 22:00:53 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [853][sw_mine_pfm1_v3]"
+[Thu Apr  2 22:00:56 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [644][sw_mine_pfm1_v3]"
+[Thu Apr  2 22:00:59 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [853][sw_mine_pfm1_v3]"
+[Thu Apr  2 22:00:59 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Thu Apr  2 22:01:02 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "respawn Ангел"
+[Thu Apr  2 22:01:35 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "a грэг"
+[Thu Apr  2 22:01:59 2026] <STEAM_0:0:650470378> Discar: /rf Давайте КВ-3 сюда
+[Thu Apr  2 22:02:44 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [891][sw_airdrop_large_v3]"
+[Thu Apr  2 22:02:54 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [665][sw_airdrop_large_v3]"
+[Thu Apr  2 22:02:59 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [891][sw_airdrop_large_v3]"
+[Thu Apr  2 22:03:12 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [891][sw_airdrop_large_v3]"
+[Thu Apr  2 22:03:54 2026] Po_rA1 has killed Vlad.
+[Thu Apr  2 22:04:46 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [705][sw_rocket_9m22_v3]"
+[Thu Apr  2 22:04:48 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Thu Apr  2 22:04:57 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "respawn Ангел"
+[Thu Apr  2 22:05:03 2026] <STEAM_0:0:650470378> Discar: /rf Ангел заспавнь абрамс и изучим куда лучше стрелять
+[Thu Apr  2 22:05:16 2026] ★☾₳ⱤØ₦₦ł₭☽★ has killed Vlad.
+[Thu Apr  2 22:05:22 2026] Player "stalker_20130" <STEAM_0:1:890482601> has left the server
+[Thu Apr  2 22:05:28 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Thu Apr  2 22:05:28 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [616][sw_rocket_tt250_v3]"
+[Thu Apr  2 22:05:32 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed impotent.
+[Thu Apr  2 22:05:37 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Thu Apr  2 22:05:37 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [616][sw_rocket_tt250_v3]"
+[Thu Apr  2 22:05:41 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Kotik.
+[Thu Apr  2 22:05:52 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Thu Apr  2 22:05:52 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [664][sw_rocket_tt250_v3]"
+[Thu Apr  2 22:05:54 2026] Worshiper of God has killed Vlad.
+[Thu Apr  2 22:06:03 2026] <STEAM_0:0:507798739> Vlad: // У нас типа рейда?
+[Thu Apr  2 22:06:08 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [608][sw_bomb_upab1500v_v3]"
+[Thu Apr  2 22:06:18 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [608][sw_rocket_s25l_v3]"
+[Thu Apr  2 22:06:24 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [608][sw_rocket_s25l_v3]"
+[Thu Apr  2 22:06:28 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [608][sw_rocket_s25l_v3]"
+[Thu Apr  2 22:06:35 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [608][sw_rocket_tt250_v3]"
+[Thu Apr  2 22:06:37 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [640][sw_bomb_upab1500v_v3]"
+[Thu Apr  2 22:06:42 2026] <STEAM_0:1:618974024> Sou1: /rf в /rp отпишите что рейд ебать
+[Thu Apr  2 22:06:50 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [640][sw_rocket_s13of_v3]"
+[Thu Apr  2 22:06:59 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [640][sw_rocket_s25of_v3]"
+[Thu Apr  2 22:07:02 2026] <STEAM_0:1:618974024> Sou1: /rf смысла нету похуй
+[Thu Apr  2 22:07:03 2026] <STEAM_0:0:74235942> Worshiper of God: // а как писать в рп чат?
+[Thu Apr  2 22:07:05 2026] <STEAM_0:1:618974024> Sou1: /rf смысла нету похуй не пишите
+[Thu Apr  2 22:07:06 2026] <STEAM_0:0:791981714> Limbo: /rp РФ объявляет рейд НАТО
+[Thu Apr  2 22:07:07 2026] <STEAM_0:1:618974024> Sou1: /rf смысла нету похуй не пишите
+[Thu Apr  2 22:07:17 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // уходите
+[Thu Apr  2 22:07:46 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // подготовка у них 15 минут
+[Thu Apr  2 22:08:12 2026] <STEAM_0:0:650470378> Discar: /rf Давайте соберемпся в ДС и в роблокс
+[Thu Apr  2 22:08:20 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned prop "Entity [696][prop_physics] (models/props_c17/fence03a.mdl)"
+[Thu Apr  2 22:08:22 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned prop "Entity [701][prop_physics] (models/props_c17/fence03a.mdl)"
+[Thu Apr  2 22:08:34 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned prop "Entity [700][prop_physics] (models/props_c17/fence02b.mdl)"
+[Thu Apr  2 22:08:45 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned prop "Entity [674][prop_physics] (models/props_wasteland/cargo_container01.mdl)"
+[Thu Apr  2 22:08:50 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned prop "Entity [608][prop_physics] (models/props_wasteland/cargo_container01.mdl)"
+[Thu Apr  2 22:08:53 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned prop "Entity [730][prop_physics] (models/props_wasteland/cargo_container01.mdl)"
+[Thu Apr  2 22:08:56 2026] <STEAM_0:1:558349975> Kotik: /ooc Грег
+[Thu Apr  2 22:09:08 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // его нет
+[Thu Apr  2 22:09:17 2026] <STEAM_0:0:74235942> Worshiper of God: // а как писать в рп чат?
+[Thu Apr  2 22:09:24 2026] <STEAM_0:1:618974024> Sou1: // нахуя?
+[Thu Apr  2 22:09:29 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // как обычно
+[Thu Apr  2 22:09:32 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // как обычно
+[Thu Apr  2 22:09:33 2026] <STEAM_0:0:74235942> Worshiper of God: // мол базарить с другой стороной
+[Thu Apr  2 22:09:37 2026] <STEAM_0:0:74235942> Worshiper of God: // мол базарить с другой стороной
+[Thu Apr  2 22:09:45 2026] <STEAM_0:0:74235942> Worshiper of God: // мол базарить с другой стороной
+[Thu Apr  2 22:10:03 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // НАТО С базы выходить нельзя
+[Thu Apr  2 22:10:28 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [607][sw_mine_tm62_v3]"
+[Thu Apr  2 22:10:30 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [608][sw_mine_tm62_v3]"
+[Thu Apr  2 22:10:31 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [674][sw_mine_tm62_v3]"
+[Thu Apr  2 22:10:33 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [696][sw_mine_tm62_v3]"
+[Thu Apr  2 22:10:36 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [845][sw_mine_tm62_v3]"
+[Thu Apr  2 22:10:39 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [846][sw_mine_tm62_v3]"
+[Thu Apr  2 22:10:41 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [847][sw_mine_tm62_v3]"
+[Thu Apr  2 22:10:42 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [848][sw_mine_tm62_v3]"
+[Thu Apr  2 22:10:43 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [849][sw_mine_tm62_v3]"
+[Thu Apr  2 22:10:45 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [866][sw_mine_tm62_v3]"
+[Thu Apr  2 22:10:47 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [867][sw_mine_tm62_v3]"
+[Thu Apr  2 22:10:49 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [868][sw_mine_tm62_v3]"
+[Thu Apr  2 22:10:50 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [869][sw_mine_tm62_v3]"
+[Thu Apr  2 22:10:51 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [870][sw_mine_tm62_v3]"
+[Thu Apr  2 22:10:53 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [871][sw_mine_tm62_v3]"
+[Thu Apr  2 22:10:58 2026] <STEAM_0:0:74235942> Worshiper of God: // ангел за нато закинь меня
+[Thu Apr  2 22:10:59 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [873][sw_mine_tm62_v3]"
+[Thu Apr  2 22:11:00 2026] <STEAM_0:0:791981714> Limbo: /rf все соберайтесь у штаба кабанчиком
+[Thu Apr  2 22:11:00 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [874][sw_mine_tm62_v3]"
+[Thu Apr  2 22:11:12 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // у тебя нету там роли
+[Thu Apr  2 22:11:17 2026] <STEAM_0:0:74235942> Worshiper of God: // и что?
+[Thu Apr  2 22:11:20 2026] <STEAM_0:0:650470378> Discar: /rf пока вы там собираетесь я в рб гоняю
+[Thu Apr  2 22:11:28 2026] Player "Worshiper of God" <STEAM_0:0:74235942> has left the server
+[Thu Apr  2 22:11:29 2026] Player "Worshiper of God" <STEAM_0:0:74235942> is attempting to connect.
+[Thu Apr  2 22:11:36 2026] <STEAM_0:0:791981714> Limbo: /rf все соберайтесь у штаба кабанчиком
+[Thu Apr  2 22:11:58 2026] Player "Worshiper of God" <STEAM_0:0:74235942> has spawned in the server
+[Thu Apr  2 22:12:12 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: 1
+[Thu Apr  2 22:13:28 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: не отходи долеко
+[Thu Apr  2 22:13:50 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [608][sw_rocket_9m127_v3]"
+[Thu Apr  2 22:13:51 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [608][sw_airdrop_large_v3]"
+[Thu Apr  2 22:13:52 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [697][sw_airdrop_large_v3]"
+[Thu Apr  2 22:13:53 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [755][sw_airdrop_large_v3]"
+[Thu Apr  2 22:13:53 2026] Player "𝙞𝙘𝙖𝙧𝙪𝙨" <STEAM_0:1:760600354> is attempting to connect.
+[Thu Apr  2 22:13:54 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [845][sw_airdrop_large_v3]"
+[Thu Apr  2 22:13:55 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [846][sw_airdrop_large_v3]"
+[Thu Apr  2 22:13:56 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [847][sw_airdrop_large_v3]"
+[Thu Apr  2 22:13:56 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [848][sw_airdrop_large_v3]"
+[Thu Apr  2 22:14:04 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Thu Apr  2 22:14:04 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SWEP "Weapon [849][tfa_ins2_pkp]"
+[Thu Apr  2 22:14:06 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Thu Apr  2 22:14:07 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Thu Apr  2 22:14:07 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SWEP "Weapon [667][tfa_ins2_pkp]"
+[Thu Apr  2 22:14:08 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Thu Apr  2 22:14:08 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Thu Apr  2 22:14:09 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Thu Apr  2 22:14:09 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SWEP "Weapon [696][tfa_ins2_pkp]"
+[Thu Apr  2 22:14:10 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Thu Apr  2 22:14:10 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Thu Apr  2 22:14:10 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SWEP "Weapon [866][tfa_ins2_pkp]"
+[Thu Apr  2 22:14:12 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Thu Apr  2 22:14:12 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SWEP "Weapon [840][tfa_ins2_pkp]"
+[Thu Apr  2 22:14:17 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Thu Apr  2 22:14:17 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Thu Apr  2 22:14:17 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SWEP "Weapon [867][tfa_ins2_m500]"
+[Thu Apr  2 22:14:18 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Thu Apr  2 22:14:18 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SWEP "Weapon [868][tfa_ins2_m500]"
+[Thu Apr  2 22:14:20 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Thu Apr  2 22:14:20 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SWEP "Weapon [869][tfa_ins2_m500]"
+[Thu Apr  2 22:14:21 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Thu Apr  2 22:14:21 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SWEP "Weapon [870][tfa_ins2_m500]"
+[Thu Apr  2 22:14:23 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Thu Apr  2 22:14:23 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SWEP "Weapon [871][tfa_ins2_m500]"
+[Thu Apr  2 22:14:29 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Thu Apr  2 22:14:29 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SWEP "Weapon [872][tfa_ins2_ax50_upver]"
+[Thu Apr  2 22:14:31 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Thu Apr  2 22:14:31 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SWEP "Weapon [874][tfa_ins2_ax50_upver]"
+[Thu Apr  2 22:14:32 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Thu Apr  2 22:14:32 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SWEP "Weapon [876][tfa_ins2_ax50_upver]"
+[Thu Apr  2 22:14:33 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Thu Apr  2 22:14:34 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Thu Apr  2 22:14:34 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SWEP "Weapon [877][tfa_ins2_ax50_upver]"
+[Thu Apr  2 22:14:35 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Thu Apr  2 22:14:35 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SWEP "Weapon [878][tfa_ins2_ax50_upver]"
+[Thu Apr  2 22:14:41 2026] <STEAM_0:0:74235942> Worshiper of God: // гоните мне профу меда
+[Thu Apr  2 22:14:53 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // ни
+[Thu Apr  2 22:15:04 2026] Player "Beep" <STEAM_0:0:570454016> is attempting to connect.
+[Thu Apr  2 22:15:12 2026] <STEAM_0:1:618974024> Sou1: /rf С79 КАК ПО МНЕ САМЫЙ НОРМ
+[Thu Apr  2 22:15:48 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [697][sw_airdrop_large_v3]"
+[Thu Apr  2 22:15:49 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [755][sw_airdrop_large_v3]"
+[Thu Apr  2 22:15:49 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [845][sw_airdrop_large_v3]"
+[Thu Apr  2 22:15:49 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [846][sw_airdrop_large_v3]"
+[Thu Apr  2 22:15:49 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [847][sw_airdrop_large_v3]"
+[Thu Apr  2 22:15:49 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [848][sw_airdrop_large_v3]"
+[Thu Apr  2 22:15:50 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [875][sw_airdrop_large_v3]"
+[Thu Apr  2 22:15:52 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [881][sw_airdrop_large_v3]"
+[Thu Apr  2 22:15:56 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Thu Apr  2 22:15:56 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [882][sw_bomb_kab1500l_v3]"
+[Thu Apr  2 22:16:43 2026] Player "Beep" <STEAM_0:0:570454016> has spawned in the server
+[Thu Apr  2 22:16:52 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "armor Филатов 100"
+[Thu Apr  2 22:17:14 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [761][lvs_wheeldrive_nonrp_t90m]"
+[Thu Apr  2 22:17:17 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [761][lvs_wheeldrive_rp_t90m]"
+[Thu Apr  2 22:17:18 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [994][lvs_wheeldrive_rp_t90m]"
+[Thu Apr  2 22:17:22 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [1080][lvs_wheeldrive_rp_t90m]"
+[Thu Apr  2 22:17:23 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [886][lvs_wheeldrive_rp_t90m]"
+[Thu Apr  2 22:18:22 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [886][sw_bmp3]"
+[Thu Apr  2 22:18:23 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [1154][sw_bmp3]"
+[Thu Apr  2 22:18:24 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [1232][sw_bmp3]"
+[Thu Apr  2 22:18:41 2026] <STEAM_0:1:618974024> Sou1: // ебать у нас пинг
+[Thu Apr  2 22:19:02 2026] <STEAM_0:0:570454016> Beep: /ooc НАТО глушит.
+[Thu Apr  2 22:19:25 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Thu Apr  2 22:19:25 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [883][sw_rocket_9m120_v3]"
+[Thu Apr  2 22:19:32 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Thu Apr  2 22:19:32 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [883][sw_rocket_9m120_v3]"
+[Thu Apr  2 22:19:32 2026] <STEAM_0:0:791981714> Limbo: /rp РФ ОБЪЯВЛЯЕТ РЕЙД НАТО
+[Thu Apr  2 22:19:34 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Thu Apr  2 22:19:34 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [1154][sw_rocket_9m120_v3]"
+[Thu Apr  2 22:20:03 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // начало
+[Thu Apr  2 22:20:04 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Thu Apr  2 22:20:04 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [817][sw_rocket_9m120_v3]"
+[Thu Apr  2 22:20:05 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Thu Apr  2 22:20:05 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [818][sw_rocket_9m120_v3]"
+[Thu Apr  2 22:20:11 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Thu Apr  2 22:20:11 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [817][sw_rocket_9m120_v3]"
+[Thu Apr  2 22:20:12 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Thu Apr  2 22:20:12 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [818][sw_rocket_9m120_v3]"
+[Thu Apr  2 22:20:12 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Thu Apr  2 22:20:12 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [837][sw_rocket_9m120_v3]"
+[Thu Apr  2 22:20:43 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Thu Apr  2 22:20:43 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [718][sw_bomb_kab1500l_v3]"
+[Thu Apr  2 22:20:44 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Thu Apr  2 22:20:47 2026] <STEAM_0:0:74235942> Worshiper of God: // ангел дай профу меда
+[Thu Apr  2 22:20:52 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Thu Apr  2 22:20:52 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [817][sw_bomb_kab1500l_v3]"
+[Thu Apr  2 22:20:53 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Thu Apr  2 22:21:13 2026] <STEAM_0:1:618974024> Sou1: /rp выбил ворота НАТО
+[Thu Apr  2 22:21:22 2026] Kotik has killed Sou1.
+[Thu Apr  2 22:21:26 2026] <STEAM_0:1:618974024> Sou1: /rf Я 200.
+[Thu Apr  2 22:21:50 2026] Player "★☾₳ⱤØ₦₦ł₭☽★" <STEAM_0:0:456016030> has left the server
+[Thu Apr  2 22:22:12 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // ворот у нато нету
+[Thu Apr  2 22:22:21 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [669][sw_rocket_4k40_v3]"
+[Thu Apr  2 22:22:22 2026] Limbo has killed Kotik.
+[Thu Apr  2 22:22:22 2026] <STEAM_0:0:650470378> Discar: /rf Ай лагает и у меня дикие разрывы экрана
+[Thu Apr  2 22:22:39 2026] Limbo has killed Worshiper of God.
+[Thu Apr  2 22:22:42 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned prop "Entity [623][prop_physics] (models/props_interiors/refrigerator01a.mdl)"
+[Thu Apr  2 22:22:50 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned prop "Entity [671][prop_physics] (models/props_interiors/refrigerator01a.mdl)"
+[Thu Apr  2 22:22:53 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned prop "Entity [644][prop_physics] (models/props_interiors/refrigerator01a.mdl)"
+[Thu Apr  2 22:23:00 2026] Sou1 has killed Vlad.
+[Thu Apr  2 22:23:22 2026] Dandelion has killed Po_rA1.
+[Thu Apr  2 22:23:23 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "ammo Соколов"
+[Thu Apr  2 22:23:23 2026] Beep has killed Discar.
+[Thu Apr  2 22:23:24 2026] Sou1 has killed Dandelion.
+[Thu Apr  2 22:23:28 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "ammo Дискаров"
+[Thu Apr  2 22:23:33 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "ammo Колесников"
+[Thu Apr  2 22:23:37 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "ammo Колесников"
+[Thu Apr  2 22:23:39 2026] Sou1 has killed Limbo.
+[Thu Apr  2 22:23:46 2026] <STEAM_0:0:650470378> Discar: /ooc Я РПГ лицом поймал
+[Thu Apr  2 22:23:48 2026] <STEAM_0:0:791981714> Limbo: /rf на вышке поднимите
+[Thu Apr  2 22:23:50 2026] Sou1 has killed Beep.
+[Thu Apr  2 22:24:01 2026] Sou1 has killed Kotik.
+[Thu Apr  2 22:24:30 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /rp нато проиграло
+[Thu Apr  2 22:24:31 2026] <STEAM_0:1:618974024> Sou1: /rp РФ ВЫЙГРАЛО РЕЙД
+[Thu Apr  2 22:24:33 2026] Player "𝙞𝙘𝙖𝙧𝙪𝙨" <STEAM_0:1:760600354> is attempting to connect.
+[Thu Apr  2 22:24:40 2026] <STEAM_0:0:507798739> Vlad: // ГООООЛ
+[Thu Apr  2 22:24:47 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ un-froze (reloaded) using the physgun
+[Thu Apr  2 22:25:21 2026] Player "gREG4IK" <STEAM_0:1:455594560> has left the server
+[Thu Apr  2 22:25:36 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Thu Apr  2 22:25:36 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [89][sw_rocket_9m528_v3]"
+[Thu Apr  2 22:25:37 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Thu Apr  2 22:25:37 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [90][sw_rocket_9m528_v3]"
+[Thu Apr  2 22:25:38 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Thu Apr  2 22:25:38 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [91][sw_rocket_9m528_v3]"
+[Thu Apr  2 22:25:39 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Thu Apr  2 22:25:39 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [85][sw_rocket_9m528_v3]"
+[Thu Apr  2 22:26:09 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Discar.
+[Thu Apr  2 22:26:09 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Sou1.
+[Thu Apr  2 22:26:09 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Limbo.
+[Thu Apr  2 22:26:09 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Po_rA1.
+[Thu Apr  2 22:26:12 2026] <STEAM_0:1:618974024> Sou1: // сука
+[Thu Apr  2 22:26:19 2026] <STEAM_0:1:618974024> Sou1: // ангел я тебя услышал
+[Thu Apr  2 22:26:20 2026] <STEAM_0:0:887714123> Po_rA1: /ooc Нормалды
+[Thu Apr  2 22:26:21 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "respawn Соколов"
+[Thu Apr  2 22:26:21 2026] <STEAM_0:1:618974024> Sou1: // ангел я тебя услышал
+[Thu Apr  2 22:26:23 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "respawn Дискаров"
+[Thu Apr  2 22:26:26 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "respawn Колесников"
+[Thu Apr  2 22:26:29 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "respawn Филатов"
+[Thu Apr  2 22:26:37 2026] <STEAM_0:0:791981714> Limbo: /ooc нато обиделось что мы выйграли и послали орешник
+[Thu Apr  2 22:26:41 2026] <STEAM_0:1:425612974> impotent: /ooc Контр рейд хотите?
+[Thu Apr  2 22:26:55 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // обьявляйте
+[Thu Apr  2 22:27:00 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [173][sw_airdrop_large_v3]"
+[Thu Apr  2 22:27:01 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [186][sw_airdrop_large_v3]"
+[Thu Apr  2 22:27:01 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [187][sw_airdrop_large_v3]"
+[Thu Apr  2 22:27:01 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [188][sw_airdrop_large_v3]"
+[Thu Apr  2 22:27:01 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [189][sw_airdrop_large_v3]"
+[Thu Apr  2 22:27:01 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [190][sw_airdrop_large_v3]"
+[Thu Apr  2 22:27:02 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [191][sw_airdrop_large_v3]"
+[Thu Apr  2 22:27:02 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [192][sw_airdrop_large_v3]"
+[Thu Apr  2 22:27:02 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [193][sw_airdrop_large_v3]"
+[Thu Apr  2 22:27:02 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [194][sw_airdrop_large_v3]"
+[Thu Apr  2 22:27:03 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [182][sw_airdrop_large_v3]"
+[Thu Apr  2 22:27:03 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [196][sw_airdrop_large_v3]"
+[Thu Apr  2 22:27:03 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [197][sw_airdrop_large_v3]"
+[Thu Apr  2 22:27:04 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [198][sw_airdrop_large_v3]"
+[Thu Apr  2 22:27:04 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [200][sw_airdrop_large_v3]"
+[Thu Apr  2 22:27:04 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [201][sw_airdrop_large_v3]"
+[Thu Apr  2 22:27:04 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [202][sw_airdrop_large_v3]"
+[Thu Apr  2 22:27:04 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [203][sw_airdrop_large_v3]"
+[Thu Apr  2 22:27:05 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [204][sw_airdrop_large_v3]"
+[Thu Apr  2 22:27:05 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [205][sw_airdrop_large_v3]"
+[Thu Apr  2 22:27:07 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [208][sw_airdrop_large_v3]"
+[Thu Apr  2 22:27:07 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [206][sw_airdrop_large_v3]"
+[Thu Apr  2 22:27:07 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [209][sw_airdrop_large_v3]"
+[Thu Apr  2 22:27:08 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [210][sw_airdrop_large_v3]"
+[Thu Apr  2 22:27:09 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [207][sw_airdrop_large_v3]"
+[Thu Apr  2 22:27:09 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [214][sw_airdrop_large_v3]"
+[Thu Apr  2 22:27:10 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [211][sw_airdrop_large_v3]"
+[Thu Apr  2 22:27:10 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [215][sw_airdrop_large_v3]"
+[Thu Apr  2 22:27:24 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Thu Apr  2 22:27:24 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SWEP "Weapon [220][tfa_ins2_barrett_m98_bravo]"
+[Thu Apr  2 22:27:26 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Thu Apr  2 22:27:26 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SWEP "Weapon [212][tfa_ins2_ax50_upver]"
+[Thu Apr  2 22:27:32 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Thu Apr  2 22:27:32 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SWEP "Weapon [217][tfa_ins2_pkp]"
+[Thu Apr  2 22:27:35 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Thu Apr  2 22:27:35 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SWEP "Weapon [218][tfa_ins2_pkp]"
+[Thu Apr  2 22:27:36 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Thu Apr  2 22:27:36 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SWEP "Weapon [222][tfa_ins2_pkp]"
+[Thu Apr  2 22:27:37 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Thu Apr  2 22:27:37 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SWEP "Weapon [223][tfa_ins2_pkp]"
+[Thu Apr  2 22:27:38 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Thu Apr  2 22:27:38 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SWEP "Weapon [216][tfa_ins2_pkp]"
+[Thu Apr  2 22:27:38 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Thu Apr  2 22:27:38 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SWEP "Weapon [224][tfa_ins2_pkp]"
+[Thu Apr  2 22:27:39 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Thu Apr  2 22:27:39 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SWEP "Weapon [225][tfa_ins2_pkp]"
+[Thu Apr  2 22:27:39 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Thu Apr  2 22:27:39 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SWEP "Weapon [227][tfa_ins2_pkp]"
+[Thu Apr  2 22:27:45 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Thu Apr  2 22:27:45 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SWEP "Weapon [87][tfa_ins2_ax50_upver]"
+[Thu Apr  2 22:27:46 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Thu Apr  2 22:27:46 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SWEP "Weapon [224][tfa_ins2_ax50_upver]"
+[Thu Apr  2 22:27:46 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Thu Apr  2 22:27:46 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SWEP "Weapon [223][tfa_ins2_ax50_upver]"
+[Thu Apr  2 22:27:47 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Thu Apr  2 22:27:47 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SWEP "Weapon [228][tfa_ins2_ax50_upver]"
+[Thu Apr  2 22:27:47 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Thu Apr  2 22:27:47 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SWEP "Weapon [229][tfa_ins2_ax50_upver]"
+[Thu Apr  2 22:27:48 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Thu Apr  2 22:27:48 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SWEP "Weapon [230][tfa_ins2_ax50_upver]"
+[Thu Apr  2 22:27:53 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Thu Apr  2 22:27:53 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SWEP "Weapon [87][tfa_ins2_wpn_rpg7]"
+[Thu Apr  2 22:27:53 2026] <STEAM_0:1:425612974> impotent: /com Русня, через 5 минут ваша часть будет уничтожена, а ваши жены будут изнасилованы и убиты. Готовьтесь, смертные
+[Thu Apr  2 22:27:54 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Thu Apr  2 22:27:54 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SWEP "Weapon [224][tfa_ins2_wpn_rpg7]"
+[Thu Apr  2 22:27:54 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Thu Apr  2 22:27:54 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SWEP "Weapon [229][tfa_ins2_wpn_rpg7]"
+[Thu Apr  2 22:28:00 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // 15*
+[Thu Apr  2 22:28:02 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Thu Apr  2 22:28:02 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SWEP "Weapon [87][tfa_ins2_wpn_rpg7]"
+[Thu Apr  2 22:28:03 2026] <STEAM_0:1:618974024> Sou1: // 15  вроде на подготовку
+[Thu Apr  2 22:28:03 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Thu Apr  2 22:28:03 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SWEP "Weapon [226][tfa_ins2_wpn_rpg7]"
+[Thu Apr  2 22:28:03 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Thu Apr  2 22:28:03 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SWEP "Weapon [227][tfa_ins2_wpn_rpg7]"
+[Thu Apr  2 22:28:04 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Thu Apr  2 22:28:04 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SWEP "Weapon [228][tfa_ins2_wpn_rpg7]"
+[Thu Apr  2 22:28:05 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Thu Apr  2 22:28:05 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SWEP "Weapon [87][tfa_ins2_wpn_rpg7]"
+[Thu Apr  2 22:28:06 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Thu Apr  2 22:28:06 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SWEP "Weapon [227][tfa_ins2_wpn_rpg7]"
+[Thu Apr  2 22:28:07 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Thu Apr  2 22:28:07 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SWEP "Weapon [228][tfa_ins2_wpn_rpg7]"
+[Thu Apr  2 22:28:08 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Thu Apr  2 22:28:08 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SWEP "Weapon [87][tfa_ins2_wpn_rpg7]"
+[Thu Apr  2 22:28:09 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Thu Apr  2 22:28:09 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SWEP "Weapon [231][tfa_ins2_wpn_rpg7]"
+[Thu Apr  2 22:28:10 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Thu Apr  2 22:28:10 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SWEP "Weapon [87][tfa_ins2_wpn_rpg7]"
+[Thu Apr  2 22:28:11 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Thu Apr  2 22:28:11 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SWEP "Weapon [228][tfa_ins2_wpn_rpg7]"
+[Thu Apr  2 22:28:11 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Thu Apr  2 22:28:11 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SWEP "Weapon [232][tfa_ins2_wpn_rpg7]"
+[Thu Apr  2 22:28:17 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Thu Apr  2 22:28:17 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SWEP "Weapon [225][tfa_ins2_pkp]"
+[Thu Apr  2 22:28:18 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Thu Apr  2 22:28:18 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SWEP "Weapon [225][tfa_ins2_pkp]"
+[Thu Apr  2 22:28:18 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Thu Apr  2 22:28:18 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SWEP "Weapon [228][tfa_ins2_pkp]"
+[Thu Apr  2 22:28:18 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Thu Apr  2 22:28:18 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SWEP "Weapon [233][tfa_ins2_pkp]"
+[Thu Apr  2 22:28:19 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Thu Apr  2 22:28:19 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SWEP "Weapon [234][tfa_ins2_pkp]"
+[Thu Apr  2 22:28:19 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Thu Apr  2 22:28:19 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SWEP "Weapon [235][tfa_ins2_pkp]"
+[Thu Apr  2 22:28:20 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Thu Apr  2 22:28:20 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SWEP "Weapon [87][tfa_ins2_pkp]"
+[Thu Apr  2 22:28:24 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Thu Apr  2 22:28:24 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SWEP "Weapon [232][tfa_ins2_m500]"
+[Thu Apr  2 22:28:25 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Thu Apr  2 22:28:25 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SWEP "Weapon [233][tfa_ins2_m500]"
+[Thu Apr  2 22:28:25 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Thu Apr  2 22:28:25 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SWEP "Weapon [236][tfa_ins2_m500]"
+[Thu Apr  2 22:28:25 2026] <STEAM_0:1:425612974> impotent: /ooc Долго, но ок
+[Thu Apr  2 22:28:26 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Thu Apr  2 22:28:26 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SWEP "Weapon [237][tfa_ins2_m500]"
+[Thu Apr  2 22:28:26 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Thu Apr  2 22:28:26 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Thu Apr  2 22:28:27 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Thu Apr  2 22:28:31 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Thu Apr  2 22:28:33 2026] Player "Vlad" <STEAM_0:0:507798739> has left the server
+[Thu Apr  2 22:28:34 2026] <STEAM_0:0:570454016> Beep: /ooc Да, но всё выше перечисленное произойдёт через 5 минут
+[Thu Apr  2 22:28:38 2026] <STEAM_0:1:558349975> Kotik: /ooc Админы есть?
+[Thu Apr  2 22:28:42 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // м
+[Thu Apr  2 22:28:46 2026] <STEAM_0:1:558349975> Kotik: /ooc ТП
+[Thu Apr  2 22:28:49 2026] <STEAM_0:1:558349975> Kotik: /ooc ТП
+[Thu Apr  2 22:28:52 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [75][sw_airdrop_large_v3]"
+[Thu Apr  2 22:28:53 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [76][sw_airdrop_large_v3]"
+[Thu Apr  2 22:28:53 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [78][sw_airdrop_large_v3]"
+[Thu Apr  2 22:28:54 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [83][sw_airdrop_large_v3]"
+[Thu Apr  2 22:28:56 2026] <STEAM_0:1:558349975> Kotik: /ooc ТП
+[Thu Apr  2 22:28:58 2026] <STEAM_0:1:425612974> impotent: /ooc Давайте 10
+[Thu Apr  2 22:29:07 2026] <STEAM_0:1:618974024> Sou1: // давайте 5, это итак много
+[Thu Apr  2 22:29:12 2026] <STEAM_0:1:558349975> Kotik: /ooc ТП адм
+[Thu Apr  2 22:29:29 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [77][lvs_wheeldrive_m3a3]"
+[Thu Apr  2 22:29:34 2026] <STEAM_0:1:618974024> Sou1: // мы готовы уже на половину, я готов на 5 минут
+[Thu Apr  2 22:29:34 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [77][lvs_wheeldrive_m3a3]"
+[Thu Apr  2 22:29:37 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [270][lvs_wheeldrive_m3a3]"
+[Thu Apr  2 22:29:39 2026] <STEAM_0:1:618974024> Sou1: // мы готовы уже на половину, я готов на 5 минут готовки
+[Thu Apr  2 22:30:13 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [86][lvs_wheeldrive_hummer_tow]"
+[Thu Apr  2 22:30:20 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [86][lvs_wheeldrive_hummer_m2]"
+[Thu Apr  2 22:30:26 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [205][lvs_wheeldrive_hummer_tow]"
+[Thu Apr  2 22:30:35 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [252][sw_airdrop_large_v3]"
+[Thu Apr  2 22:30:35 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [253][sw_airdrop_large_v3]"
+[Thu Apr  2 22:30:36 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [254][sw_airdrop_large_v3]"
+[Thu Apr  2 22:31:09 2026] <STEAM_0:1:618974024> Sou1: // вы где там?
+[Thu Apr  2 22:31:15 2026] <STEAM_0:1:558349975> Kotik: /nato 124 наша частота
+[Thu Apr  2 22:31:29 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /rf рч какая?
+[Thu Apr  2 22:31:31 2026] <STEAM_0:0:791981714> Limbo: /ooc главная задача рейда в штаб залететь и отбить его по факту
+[Thu Apr  2 22:31:34 2026] <STEAM_0:1:425612974> impotent: /ooc Танк застрял
+[Thu Apr  2 22:31:43 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "goto 1LT Montgomeru"
+[Thu Apr  2 22:31:43 2026] <STEAM_0:1:425612974> impotent: /ooc Ангел тп пж
+[Thu Apr  2 22:32:10 2026] Player "Sou1" <STEAM_0:1:618974024> has left the server
+[Thu Apr  2 22:32:20 2026] Kotik has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Thu Apr  2 22:32:29 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "respawn Ангел"
+[Thu Apr  2 22:32:37 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "goto 1LT Montgomeru"
+[Thu Apr  2 22:33:05 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [95][lvs_wheeldrive_dabrams_m1a1]"
+[Thu Apr  2 22:33:42 2026] Kotik has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Thu Apr  2 22:33:45 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "respawn Ангел"
+[Thu Apr  2 22:33:49 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "goto 1LT Montgomeru"
+[Thu Apr  2 22:34:05 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [92][lvs_missile]"
+[Thu Apr  2 22:34:06 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [185][lvs_missile]"
+[Thu Apr  2 22:34:06 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [217][lvs_missile]"
+[Thu Apr  2 22:34:06 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [223][lvs_missile]"
+[Thu Apr  2 22:34:06 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [226][lvs_missile]"
+[Thu Apr  2 22:34:06 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [252][lvs_missile]"
+[Thu Apr  2 22:34:06 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [253][lvs_missile]"
+[Thu Apr  2 22:34:07 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [254][lvs_missile]"
+[Thu Apr  2 22:34:07 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [256][lvs_missile]"
+[Thu Apr  2 22:34:07 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [258][lvs_missile]"
+[Thu Apr  2 22:34:07 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [259][lvs_missile]"
+[Thu Apr  2 22:34:07 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [92][lvs_missile]"
+[Thu Apr  2 22:34:07 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [185][lvs_missile]"
+[Thu Apr  2 22:34:11 2026] Kotik has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Thu Apr  2 22:34:13 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "respawn Ангел"
+[Thu Apr  2 22:34:17 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "goto 1LT Montgomeru"
+[Thu Apr  2 22:34:32 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Beep.
+[Thu Apr  2 22:34:58 2026] Kotik has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Thu Apr  2 22:34:58 2026] Kotik has killed Beep.
+[Thu Apr  2 22:35:01 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "respawn Ангел"
+[Thu Apr  2 22:35:06 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "goto 1LT Montgomeru"
+[Thu Apr  2 22:35:15 2026] Worshiper of God has killed Worshiper of God.
+[Thu Apr  2 22:35:15 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "slay Jnecov"
+[Thu Apr  2 22:35:35 2026] <STEAM_0:1:425612974> impotent: /ooc Вы готовы?
+[Thu Apr  2 22:35:44 2026] <STEAM_0:0:791981714> Limbo: /ooc рейд объявляйте
+[Thu Apr  2 22:35:53 2026] <STEAM_0:0:650470378> Discar: /ooc более менее готовы
+[Thu Apr  2 22:35:56 2026] <STEAM_0:0:791981714> Limbo: /ooc но с учетом того что нас мало а ангел следящий есть одно правило
+[Thu Apr  2 22:35:59 2026] <STEAM_0:0:791981714> Limbo: /ooc но с учетом того что нас мало а ангел следящий есть одно правило
+[Thu Apr  2 22:36:05 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [253][sw_gaz2330]"
+[Thu Apr  2 22:36:08 2026] <STEAM_0:0:791981714> Limbo: /ooc но с учетом того что нас мало а ангел следящий есть одно правило
+[Thu Apr  2 22:36:10 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [312][lvs_item_gear]"
+[Thu Apr  2 22:36:11 2026] <STEAM_0:0:650470378> Discar: /rf Алтынай
+[Thu Apr  2 22:36:13 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [312][lvs_item_gauge]"
+[Thu Apr  2 22:36:15 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [226][lvs_item_compressor]"
+[Thu Apr  2 22:36:19 2026] <STEAM_0:0:650470378> Discar: /rf Алтынай
+[Thu Apr  2 22:36:23 2026] <STEAM_0:0:791981714> Limbo: /ooc но с учетом того что нас мало а ангел следящий есть одно правило - с техники пехоты хуярить нельзя
+[Thu Apr  2 22:36:30 2026] <STEAM_0:0:650470378> Discar: /rf Позывноей котакбас
+[Thu Apr  2 22:36:34 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [258][lvs_missile]"
+[Thu Apr  2 22:36:35 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [312][lvs_missile]"
+[Thu Apr  2 22:36:35 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [313][lvs_missile]"
+[Thu Apr  2 22:36:35 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [314][lvs_missile]"
+[Thu Apr  2 22:36:43 2026] <STEAM_0:1:425612974> impotent: /com Доблестная армия НАТО идет освобождать Россию от орков
+[Thu Apr  2 22:36:57 2026] <STEAM_0:0:650470378> Discar: /rf А во время золотой елды
+[Thu Apr  2 22:37:03 2026] <STEAM_0:0:650470378> Discar: /rf А во время золотой елды
+[Thu Apr  2 22:37:53 2026] <STEAM_0:0:650470378> Discar: /rf Россия с нами братья, разгромим роскомнадзор
+[Thu Apr  2 22:37:54 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned vehicle "Vehicle [95][prop_vehicle_jeep]"
+[Thu Apr  2 22:37:56 2026] <STEAM_0:1:425612974> impotent: /ooc Ангел, куда?
+[Thu Apr  2 22:37:56 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned vehicle "Vehicle [96][prop_vehicle_jeep_old]"
+[Thu Apr  2 22:37:58 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [95][lvs_item_gear]"
+[Thu Apr  2 22:38:11 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned vehicle "Vehicle [95][prop_vehicle_jeep_old]"
+[Thu Apr  2 22:38:25 2026] <STEAM_0:1:425612974> impotent: /ooc Ангел, тепнись
+[Thu Apr  2 22:38:29 2026] Worshiper of God has killed impotent.
+[Thu Apr  2 22:38:29 2026] <STEAM_0:0:650470378> Discar: /rf нюхнул питерскую соль
+[Thu Apr  2 22:38:32 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "goto 1LT Montgomeru"
+[Thu Apr  2 22:39:20 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [76][sw_airdrop_large_v3]"
+[Thu Apr  2 22:39:20 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [78][sw_airdrop_large_v3]"
+[Thu Apr  2 22:39:21 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [81][sw_airdrop_large_v3]"
+[Thu Apr  2 22:39:21 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [82][sw_airdrop_large_v3]"
+[Thu Apr  2 22:39:22 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [83][sw_airdrop_large_v3]"
+[Thu Apr  2 22:39:30 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "armor Jnecov 100"
+[Thu Apr  2 22:39:39 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "armor 1LT Montgomeru 100"
+[Thu Apr  2 22:39:57 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [76][lvs_wheeldrive_rp_t90m]"
+[Thu Apr  2 22:39:59 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [76][lvs_wheeldrive_dabrams_m1a1]"
+[Thu Apr  2 22:40:05 2026] <STEAM_0:0:650470378> Discar: /rf КПП пока чист
+[Thu Apr  2 22:40:08 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [196][lvs_wheeldrive_hummer_tow]"
+[Thu Apr  2 22:40:21 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /rf рч какая?
+[Thu Apr  2 22:40:30 2026] <STEAM_0:0:791981714> Limbo: /rf 453
+[Thu Apr  2 22:40:30 2026] <STEAM_0:0:887714123> Po_rA1: /rf 453
+[Thu Apr  2 22:42:18 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // ворота можно выбить
+[Thu Apr  2 22:42:32 2026] <STEAM_0:0:791981714> Limbo: /ooc только с отыгровкой в /rp
+[Thu Apr  2 22:42:54 2026] Po_rA1 has killed Worshiper of God.
+[Thu Apr  2 22:43:23 2026] impotent has killed Po_rA1.
+[Thu Apr  2 22:43:26 2026] Kotik has killed Discar.
+[Thu Apr  2 22:43:30 2026] <STEAM_0:0:887714123> Po_rA1: sos
+[Thu Apr  2 22:43:35 2026] <STEAM_0:0:650470378> Discar: /ooc я же укрышся
+[Thu Apr  2 22:43:36 2026] Player "Worshiper of God" <STEAM_0:0:74235942> has left the server
+[Thu Apr  2 22:43:48 2026] <STEAM_0:1:558349975> Kotik: /ooc ты черный на фоне зеленого
+[Thu Apr  2 22:44:51 2026] <STEAM_0:1:558349975> Kotik: /y СДАВАЙСЯ НАХУЙ! БРОСАЙ ОРУЖИЕ И ПОДНИМИ РУКИ! У ТЕБЯ НЕТ ШАНСОВ!
+[Thu Apr  2 22:45:22 2026] Dandelion has killed Limbo.
+[Thu Apr  2 22:45:34 2026] <STEAM_0:0:791981714> Limbo: /ooc ну бля честный проёб
+[Thu Apr  2 22:46:01 2026] <STEAM_0:1:425612974> impotent: /ooc все?
+[Thu Apr  2 22:46:06 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // да
+[Thu Apr  2 22:47:45 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Po_rA1.
+[Thu Apr  2 22:47:45 2026] Po_rA1 has killed Po_rA1.
+[Thu Apr  2 22:48:14 2026] worldspawn has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Thu Apr  2 22:49:06 2026] <STEAM_0:0:650470378> Discar: /ooc Я короче пошел, спасибо за игру
+[Thu Apr  2 22:49:15 2026] Player "Discar" <STEAM_0:0:650470378> has left the server
+[Thu Apr  2 22:49:36 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [66][sw_airdrop_large_v3]"
+[Thu Apr  2 22:49:42 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Po_rA1.
+[Thu Apr  2 22:50:29 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [66][sw_gaz2330]"
+[Thu Apr  2 22:50:33 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [66][sw_matv]"
+[Thu Apr  2 22:50:37 2026] Player "чмо сіті 17" <STEAM_0:0:768899408> is attempting to connect.
+[Thu Apr  2 22:50:43 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [66][lvs_wheeldrive_hummer_m2]"
+[Thu Apr  2 22:51:02 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [66][lvs_wheeldrive_hummer_mk19]"
+[Thu Apr  2 22:51:28 2026] <STEAM_0:1:558349975> Kotik: /ooc помогите
+[Thu Apr  2 22:51:33 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "goto 'Struna'"
+[Thu Apr  2 22:51:42 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: сьо\
+[Thu Apr  2 22:51:48 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [75][lvs_wheeldrive_hummer_tow]"
+[Thu Apr  2 22:51:57 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "goto Колесников"
+[Thu Apr  2 22:51:59 2026] Player "𝗺𝟏𝗿𝗮𝗰𝗹𝗲" <STEAM_0:0:869238922> is attempting to connect.
+[Thu Apr  2 22:52:49 2026] <STEAM_0:0:570454016> Beep: /rp Передал водителю Хамви за проезд.
+[Thu Apr  2 22:52:58 2026] <STEAM_0:0:148551732> Dandelion: /rp передал водителю Хамви за проезд
+[Thu Apr  2 22:53:00 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // хаыхахыха
+[Thu Apr  2 22:53:04 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "goto Adler"
+[Thu Apr  2 22:53:11 2026] <STEAM_0:0:887714123> Po_rA1: /ooc Что за бизнес сука
+[Thu Apr  2 22:53:19 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [117][lvs_wheeldrive_hummer_tow]"
+[Thu Apr  2 22:53:51 2026] worldspawn has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Thu Apr  2 22:53:55 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "respawn Ангел"
+[Thu Apr  2 22:54:00 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "goto Adler"
+[Thu Apr  2 22:54:10 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [116][lvs_wheeldrive_rp_t90m]"
+[Thu Apr  2 22:54:13 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [205][lvs_item_gear]"
+[Thu Apr  2 22:54:14 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [205][lvs_item_compressor]"
+[Thu Apr  2 22:55:43 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [115][lvs_missile]"
+[Thu Apr  2 22:55:43 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [116][lvs_missile]"
+[Thu Apr  2 22:55:44 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [117][lvs_missile]"
+[Thu Apr  2 22:55:45 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [118][lvs_missile]"
+[Thu Apr  2 22:55:45 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [119][lvs_missile]"
+[Thu Apr  2 22:55:45 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [120][lvs_missile]"
+[Thu Apr  2 22:55:45 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [121][lvs_missile]"
+[Thu Apr  2 22:55:46 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [115][lvs_missile]"
+[Thu Apr  2 22:55:46 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [116][lvs_missile]"
+[Thu Apr  2 22:55:46 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [117][lvs_missile]"
+[Thu Apr  2 22:55:46 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [122][lvs_missile]"
+[Thu Apr  2 22:55:46 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [118][lvs_missile]"
+[Thu Apr  2 22:55:47 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [119][lvs_missile]"
+[Thu Apr  2 22:55:47 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [120][lvs_missile]"
+[Thu Apr  2 22:55:47 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [121][lvs_missile]"
+[Thu Apr  2 22:55:47 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [115][lvs_missile]"
+[Thu Apr  2 22:55:47 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [123][lvs_missile]"
+[Thu Apr  2 22:55:47 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [116][lvs_missile]"
+[Thu Apr  2 22:55:48 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [117][lvs_missile]"
+[Thu Apr  2 22:55:48 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [118][lvs_missile]"
+[Thu Apr  2 22:55:49 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [115][lvs_missile]"
+[Thu Apr  2 22:55:49 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [119][lvs_missile]"
+[Thu Apr  2 22:55:49 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [120][lvs_missile]"
+[Thu Apr  2 22:55:49 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [116][lvs_missile]"
+[Thu Apr  2 22:55:49 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [117][lvs_missile]"
+[Thu Apr  2 22:55:49 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [121][lvs_missile]"
+[Thu Apr  2 22:55:50 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [115][lvs_missile]"
+[Thu Apr  2 22:55:50 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [118][lvs_missile]"
+[Thu Apr  2 22:55:51 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [116][lvs_missile]"
+[Thu Apr  2 22:55:51 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [117][lvs_missile]"
+[Thu Apr  2 22:55:51 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [119][lvs_missile]"
+[Thu Apr  2 22:55:51 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [115][lvs_missile]"
+[Thu Apr  2 22:55:52 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [118][lvs_missile]"
+[Thu Apr  2 22:55:52 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [120][lvs_missile]"
+[Thu Apr  2 22:55:52 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [121][lvs_missile]"
+[Thu Apr  2 22:55:52 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [116][lvs_missile]"
+[Thu Apr  2 22:55:52 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [122][lvs_missile]"
+[Thu Apr  2 22:55:52 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [117][lvs_missile]"
+[Thu Apr  2 22:55:53 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [119][lvs_missile]"
+[Thu Apr  2 22:55:55 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [115][lvs_missile]"
+[Thu Apr  2 22:55:57 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [115][lvs_missile]"
+[Thu Apr  2 22:55:58 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [116][lvs_missile]"
+[Thu Apr  2 22:55:58 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [117][lvs_missile]"
+[Thu Apr  2 22:55:58 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [118][lvs_missile]"
+[Thu Apr  2 22:55:58 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [119][lvs_missile]"
+[Thu Apr  2 22:55:58 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [120][lvs_missile]"
+[Thu Apr  2 22:55:59 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [121][lvs_missile]"
+[Thu Apr  2 22:55:59 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [115][lvs_missile]"
+[Thu Apr  2 22:55:59 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [116][lvs_missile]"
+[Thu Apr  2 22:55:59 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [122][lvs_missile]"
+[Thu Apr  2 22:55:59 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [117][lvs_missile]"
+[Thu Apr  2 22:55:59 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [118][lvs_missile]"
+[Thu Apr  2 22:55:59 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [119][lvs_missile]"
+[Thu Apr  2 22:56:02 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [115][lvs_protontorpedo]"
+[Thu Apr  2 22:56:02 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [116][lvs_protontorpedo]"
+[Thu Apr  2 22:56:02 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [117][lvs_protontorpedo]"
+[Thu Apr  2 22:56:02 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [118][lvs_protontorpedo]"
+[Thu Apr  2 22:56:02 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [119][lvs_protontorpedo]"
+[Thu Apr  2 22:56:03 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [120][lvs_protontorpedo]"
+[Thu Apr  2 22:56:03 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [121][lvs_protontorpedo]"
+[Thu Apr  2 22:56:03 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [115][lvs_protontorpedo]"
+[Thu Apr  2 22:56:03 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [116][lvs_protontorpedo]"
+[Thu Apr  2 22:56:03 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [117][lvs_protontorpedo]"
+[Thu Apr  2 22:56:03 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [118][lvs_protontorpedo]"
+[Thu Apr  2 22:56:04 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [122][lvs_protontorpedo]"
+[Thu Apr  2 22:56:04 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [119][lvs_protontorpedo]"
+[Thu Apr  2 22:56:04 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [123][lvs_protontorpedo]"
+[Thu Apr  2 22:56:04 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [120][lvs_concussionmissile]"
+[Thu Apr  2 22:56:04 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [115][lvs_concussionmissile]"
+[Thu Apr  2 22:56:05 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [116][lvs_concussionmissile]"
+[Thu Apr  2 22:56:05 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [117][lvs_concussionmissile]"
+[Thu Apr  2 22:56:05 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [118][lvs_concussionmissile]"
+[Thu Apr  2 22:56:05 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [119][lvs_concussionmissile]"
+[Thu Apr  2 22:56:05 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [121][lvs_concussionmissile]"
+[Thu Apr  2 22:56:06 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [120][lvs_concussionmissile]"
+[Thu Apr  2 22:56:06 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [122][lvs_concussionmissile]"
+[Thu Apr  2 22:56:06 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [115][lvs_concussionmissile]"
+[Thu Apr  2 22:56:06 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [116][lvs_concussionmissile]"
+[Thu Apr  2 22:56:06 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [117][lvs_concussionmissile]"
+[Thu Apr  2 22:56:07 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [118][lvs_concussionmissile]"
+[Thu Apr  2 22:56:07 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [119][lvs_concussionmissile]"
+[Thu Apr  2 22:56:07 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [121][lvs_concussionmissile]"
+[Thu Apr  2 22:56:07 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [120][lvs_concussionmissile]"
+[Thu Apr  2 22:56:07 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [122][lvs_concussionmissile]"
+[Thu Apr  2 22:56:07 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [115][lvs_concussionmissile]"
+[Thu Apr  2 22:56:39 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "armor Ангел 1000"
+[Thu Apr  2 22:56:44 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "hp Ангел 10000000"
+[Thu Apr  2 22:56:50 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Dandelion.
+[Thu Apr  2 22:56:54 2026] Po_rA1 has killed Limbo.
+[Thu Apr  2 22:57:49 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [133][sw_mine_tm62_v3]"
+[Thu Apr  2 22:57:51 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [137][sw_bomb_fab100m43_v3]"
+[Thu Apr  2 22:58:06 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [130][lvs_vehicle_repair]"
+[Thu Apr  2 22:58:08 2026] Po_rA1 has killed Limbo.
+[Thu Apr  2 22:58:15 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [143][sw_item_refuel]"
+[Thu Apr  2 22:58:31 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [143][lvs_item_refuel]"
+[Thu Apr  2 22:58:32 2026] Po_rA1 has killed Limbo.
+[Thu Apr  2 22:58:58 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [127][lvs_vehicle_air_refil]"
+[Thu Apr  2 22:59:04 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Beep.
+[Thu Apr  2 22:59:04 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Kotik.
+[Thu Apr  2 22:59:04 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed impotent.
+[Thu Apr  2 22:59:32 2026] Po_rA1 has killed Limbo.
+[Thu Apr  2 22:59:33 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Thu Apr  2 22:59:33 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [78][sw_bomb_upab1500v_v3]"
+[Thu Apr  2 22:59:42 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Po_rA1.
+[Thu Apr  2 23:00:10 2026] Limbo has killed Limbo.
+[Thu Apr  2 23:00:18 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [84][sw_rocket_pg9v_v3]"
+[Thu Apr  2 23:00:28 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [108][sw_mine_pfm1_v3]"
+[Thu Apr  2 23:00:29 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [109][sw_mine_pfm1_v3]"
+[Thu Apr  2 23:00:30 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Po_rA1.
+[Thu Apr  2 23:00:30 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Thu Apr  2 23:00:34 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "respawn Ангел"
+[Thu Apr  2 23:00:54 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "respawn Колесников"
+[Thu Apr  2 23:00:58 2026] <STEAM_0:1:558349975> Kotik: /ooc ангел
+[Thu Apr  2 23:01:04 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "goto 'Struna'"
+[Thu Apr  2 23:01:20 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "goto Филатов"
+[Thu Apr  2 23:02:01 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [148][sw_rocket_rbs132_v3]"
+[Thu Apr  2 23:02:02 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [127][sw_rocket_rbs132_v3]"
+[Thu Apr  2 23:02:07 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Limbo.
+[Thu Apr  2 23:02:07 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Thu Apr  2 23:02:10 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "respawn Ангел"
+[Thu Apr  2 23:02:20 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "respawn Филатов"
+[Thu Apr  2 23:02:57 2026] impotent has killed Kotik.
+[Thu Apr  2 23:03:12 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Limbo.
+[Thu Apr  2 23:03:21 2026] Player "чмо сіті 17" <STEAM_0:0:768899408> has spawned in the server
+[Thu Apr  2 23:03:30 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [82][sw_mine_pfm1_v3]"
+[Thu Apr  2 23:03:35 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [82][sw_mine_pfm1_v3]"
+[Thu Apr  2 23:03:38 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [92][sw_mine_pfm1_v3]"
+[Thu Apr  2 23:03:41 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Po_rA1.
+[Thu Apr  2 23:03:49 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "respawn Колесников"
+[Thu Apr  2 23:03:58 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [102][sw_mine_ozm72_v3]"
+[Thu Apr  2 23:04:06 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Limbo.
+[Thu Apr  2 23:04:06 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Po_rA1.
+[Thu Apr  2 23:04:27 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Po_rA1.
+[Thu Apr  2 23:04:36 2026] <STEAM_0:0:887714123> Po_rA1: sooooos
+[Thu Apr  2 23:04:47 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [135][sw_mine_pfm1_v3]"
+[Thu Apr  2 23:04:50 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [150][sw_mine_pfm1_v3]"
+[Thu Apr  2 23:04:52 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [151][sw_mine_tm62_v3]"
+[Thu Apr  2 23:04:54 2026] Po_rA1 has killed Limbo.
+[Thu Apr  2 23:04:59 2026] impotent has killed Beep.
+[Thu Apr  2 23:05:10 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [106][sw_rocket_rbs132_v3]"
+[Thu Apr  2 23:05:11 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [107][sw_rocket_rbs132_v3]"
+[Thu Apr  2 23:05:12 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Limbo.
+[Thu Apr  2 23:05:12 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Thu Apr  2 23:05:15 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "respawn Ангел"
+[Thu Apr  2 23:05:19 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "respawn Колесников"
+[Thu Apr  2 23:05:30 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Po_rA1.
+[Thu Apr  2 23:05:46 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Po_rA1.
+[Thu Apr  2 23:06:07 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // хаыххыаа
+[Thu Apr  2 23:06:09 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // хаыххыаа
+[Thu Apr  2 23:06:16 2026] <STEAM_0:0:887714123> Po_rA1: /ooc Филя сука
+[Thu Apr  2 23:06:29 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [108][sw_mine_pfm1_v3]"
+[Thu Apr  2 23:06:30 2026] Beep has killed impotent.
+[Thu Apr  2 23:06:35 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [86][sw_mine_pfm1_v3]"
+[Thu Apr  2 23:06:39 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Po_rA1.
+[Thu Apr  2 23:06:39 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Thu Apr  2 23:06:41 2026] Beep has killed impotent.
+[Thu Apr  2 23:06:41 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // хаыххыаа
+[Thu Apr  2 23:06:43 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "respawn Ангел"
+[Thu Apr  2 23:06:48 2026] Beep has killed impotent.
+[Thu Apr  2 23:06:51 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [76][sw_mine_ozm72_v3]"
+[Thu Apr  2 23:06:53 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Thu Apr  2 23:06:54 2026] <STEAM_0:0:887714123> Po_rA1: /ooc филя сука
+[Thu Apr  2 23:06:54 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Limbo.
+[Thu Apr  2 23:06:55 2026] Beep has killed impotent.
+[Thu Apr  2 23:06:57 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "respawn Ангел"
+[Thu Apr  2 23:07:11 2026] <STEAM_0:0:791981714> Limbo: /ooc ох ты епт твою мать минина
+[Thu Apr  2 23:07:15 2026] Po_rA1 has killed Limbo.
+[Thu Apr  2 23:07:35 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "ammo Ангел"
+[Thu Apr  2 23:07:39 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "hp Ангел 1000000000"
+[Thu Apr  2 23:08:11 2026] Po_rA1 has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Thu Apr  2 23:08:13 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "respawn Ангел"
+[Thu Apr  2 23:08:17 2026] Po_rA1 has killed Limbo.
+[Thu Apr  2 23:08:18 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Po_rA1.
+[Thu Apr  2 23:08:42 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "hp Ангел 100000000"
+[Thu Apr  2 23:09:03 2026] Limbo has killed Po_rA1.
+[Thu Apr  2 23:09:03 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Limbo.
+[Thu Apr  2 23:09:41 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "respawn Филатов"
+[Thu Apr  2 23:09:45 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "goto Филатов"
+[Thu Apr  2 23:10:13 2026] Limbo has killed Limbo.
+[Thu Apr  2 23:10:27 2026] Po_rA1 has killed Limbo.
+[Thu Apr  2 23:10:57 2026] Po_rA1 has killed Po_rA1.
+[Thu Apr  2 23:11:05 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "respawn Филатов"
+[Thu Apr  2 23:11:08 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "respawn Колесников"
+[Thu Apr  2 23:11:10 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "respawn Ангел"
+[Thu Apr  2 23:11:50 2026] Beep has killed impotent.
+[Thu Apr  2 23:11:50 2026] Beep has killed Beep.
+[Thu Apr  2 23:12:05 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [197][sw_bomb_fab9000m54_v3]"
+[Thu Apr  2 23:12:06 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Limbo.
+[Thu Apr  2 23:12:07 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [200][sw_bomb_fab9000m54_v3]"
+[Thu Apr  2 23:12:10 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [81][sw_bomb_fab9000m54_v3]"
+[Thu Apr  2 23:12:14 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [81][sw_bomb_fab9000m54_v3]"
+[Thu Apr  2 23:12:15 2026] impotent has killed Beep.
+[Thu Apr  2 23:12:17 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [81][sw_bomb_fab9000m54_v3]"
+[Thu Apr  2 23:12:22 2026] impotent has killed Beep.
+[Thu Apr  2 23:12:23 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Po_rA1.
+[Thu Apr  2 23:12:28 2026] impotent has killed Beep.
+[Thu Apr  2 23:12:29 2026] Beep has killed Beep.
+[Thu Apr  2 23:12:31 2026] <STEAM_0:1:558349975> Kotik: /ooc а где рф
+[Thu Apr  2 23:12:41 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "goto 'Struna'"
+[Thu Apr  2 23:12:42 2026] <STEAM_0:0:887714123> Po_rA1: /ooc Чаи гоняем
+[Thu Apr  2 23:12:53 2026] <STEAM_0:0:570454016> Beep: /ooc РФ, 500 рублей до центра, подвезёте?
+[Thu Apr  2 23:12:59 2026] Kotik has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Thu Apr  2 23:13:01 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "respawn Ангел"
+[Thu Apr  2 23:13:04 2026] <STEAM_0:0:148551732> Dandelion: /ooc А как же гэнг-бэнг с тентаклями?
+[Thu Apr  2 23:13:09 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "goto 'Struna'"
+[Thu Apr  2 23:13:10 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Kotik.
+[Thu Apr  2 23:13:10 2026] <STEAM_0:0:570454016> Beep: /ooc С Базы НАТО заберите.
+[Thu Apr  2 23:13:11 2026] impotent has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Thu Apr  2 23:13:13 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "respawn Ангел"
+[Thu Apr  2 23:13:16 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "goto Adler"
+[Thu Apr  2 23:13:20 2026] impotent has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Thu Apr  2 23:13:22 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "respawn Ангел"
+[Thu Apr  2 23:13:30 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "goto Adler"
+[Thu Apr  2 23:13:31 2026] impotent has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Thu Apr  2 23:13:33 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "respawn Ангел"
+[Thu Apr  2 23:13:39 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "goto Adler"
+[Thu Apr  2 23:13:51 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "hp Ангел 10000000"
+[Thu Apr  2 23:14:08 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Kotik.
+[Thu Apr  2 23:14:10 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Dandelion.
+[Thu Apr  2 23:14:10 2026] Dandelion has killed Dandelion.
+[Thu Apr  2 23:14:12 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed impotent.
+[Thu Apr  2 23:14:16 2026] Player "чмо сіті 17" <STEAM_0:0:768899408> has left the server
+[Thu Apr  2 23:14:34 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [85][sw_mine_pfm1_v3]"
+[Thu Apr  2 23:14:37 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [85][sw_mine_pfm1_v3]"
+[Thu Apr  2 23:14:42 2026] Player "BROWKIN" <STEAM_0:0:188517725> is attempting to connect.
+[Thu Apr  2 23:14:45 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [90][sw_mine_pfm1_v3]"
+[Thu Apr  2 23:15:02 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed impotent.
+[Thu Apr  2 23:15:02 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Kotik.
+[Thu Apr  2 23:15:02 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Dandelion.
+[Thu Apr  2 23:15:24 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Kotik.
+[Thu Apr  2 23:15:37 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [101][sw_bomb_fab3000m54_umpk_v3]"
+[Thu Apr  2 23:15:57 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [101][sw_mine_pfm1_v3]"
+[Thu Apr  2 23:15:58 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Dandelion.
+[Thu Apr  2 23:16:00 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [88][sw_mine_pfm1_v3]"
+[Thu Apr  2 23:16:02 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [85][sw_mine_pfm1_v3]"
+[Thu Apr  2 23:16:02 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [92][sw_mine_pfm1_v3]"
+[Thu Apr  2 23:16:02 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Kotik.
+[Thu Apr  2 23:16:37 2026] Limbo has killed Po_rA1.
+[Thu Apr  2 23:16:43 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed impotent.
+[Thu Apr  2 23:16:48 2026] Player "Limbo" <STEAM_0:0:791981714> has left the server
+[Thu Apr  2 23:17:07 2026] Player "Po_rA1" <STEAM_0:0:887714123> has left the server
+[Thu Apr  2 23:17:28 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Dandelion.
+[Thu Apr  2 23:21:29 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "hp Ангел 1000000000000000000000000000"
+[Thu Apr  2 23:21:35 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Dandelion.
+[Thu Apr  2 23:21:38 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed impotent.
+[Thu Apr  2 23:21:46 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Kotik.
+[Thu Apr  2 23:21:47 2026] Kotik has killed Kotik.
+[Thu Apr  2 23:22:05 2026] Player "༒︎シ︎ʰᵉⁿᵗᵃⁱシ" <STEAM_0:0:851601344> has left the server
+[Thu Apr  2 23:23:18 2026] impotent has killed Beep.
+[Thu Apr  2 23:26:34 2026] Player "Kotik" <STEAM_0:1:558349975> has left the server
+[Thu Apr  2 23:26:43 2026] Player "Dandelion" <STEAM_0:0:148551732> has left the server
+[Thu Apr  2 23:27:01 2026] Player "impotent" <STEAM_0:1:425612974> has left the server
+[Thu Apr  2 23:29:35 2026] Player "Beep" <STEAM_0:0:570454016> has left the server
+[Thu Apr  2 23:42:32 2026] Player "nx |💎_SmAiL_💎" <STEAM_0:0:918764332> is attempting to connect.

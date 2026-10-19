@@ -1,0 +1,140 @@
+[Thu Jan 29 03:45:28 2026] Player "treet" <STEAM_0:0:636179286> is attempting to connect.
+[Thu Jan 29 09:20:24 2026] Player "Zhenechka" <STEAM_0:0:114787793> is attempting to connect.
+[Thu Jan 29 10:49:39 2026] Player "RealMan" <STEAM_0:1:615301120> is attempting to connect.
+[Thu Jan 29 11:01:15 2026] Player "RealMan" <STEAM_0:1:615301120> has spawned in the server
+[Thu Jan 29 11:03:52 2026] Player "RealMan" <STEAM_0:1:615301120> has left the server
+[Thu Jan 29 11:04:49 2026] Player "StoticS" <STEAM_0:1:607847294> is attempting to connect.
+[Thu Jan 29 11:06:34 2026] Player "StoticS" <STEAM_0:1:607847294> has spawned in the server
+[Thu Jan 29 11:07:26 2026] <STEAM_0:1:607847294> StoticS: /nato [rp] расписался за снаряжение
+[Thu Jan 29 11:10:16 2026] <STEAM_0:1:607847294> StoticS: мда
+[Thu Jan 29 11:10:17 2026] Player "StoticS" <STEAM_0:1:607847294> has left the server
+[Thu Jan 29 11:24:49 2026] Player "Zhenechka" <STEAM_0:0:114787793> is attempting to connect.
+[Thu Jan 29 11:27:06 2026] Player "Zhenechka" <STEAM_0:0:114787793> has spawned in the server
+[Thu Jan 29 11:40:43 2026] Player "Zhenechka" <STEAM_0:0:114787793> has left the server
+[Thu Jan 29 11:40:46 2026] Player "Juk" <STEAM_0:0:586457449> is attempting to connect.
+[Thu Jan 29 11:43:08 2026] Player "Juk" <STEAM_0:0:586457449> has spawned in the server
+[Thu Jan 29 11:52:47 2026] Juk has killed Juk.
+[Thu Jan 29 11:52:57 2026] Player "Juk" <STEAM_0:0:586457449> has left the server
+[Thu Jan 29 14:38:23 2026] Player "OZOR" <STEAM_0:0:85754053> has spawned in the server
+[Thu Jan 29 15:01:52 2026] <STEAM_0:0:85754053> OZOR: /test
+[Thu Jan 29 15:02:00 2026] <STEAM_0:0:85754053> OZOR: /militaryplay
+[Thu Jan 29 15:02:22 2026] <STEAM_0:0:85754053> OZOR: /militaryplay
+[Thu Jan 29 15:03:34 2026] <STEAM_0:0:85754053> OZOR: /militaryplay
+[Thu Jan 29 15:03:37 2026] <STEAM_0:0:85754053> OZOR: /test
+[Thu Jan 29 15:04:45 2026] <STEAM_0:0:85754053> OZOR: /test
+[Thu Jan 29 15:04:46 2026] <STEAM_0:0:85754053> OZOR: /militaryplay
+[Thu Jan 29 15:05:52 2026] <STEAM_0:0:85754053> OZOR: /militaryplay
+[Thu Jan 29 15:08:17 2026] <STEAM_0:0:85754053> OZOR: /militaryplay
+[Thu Jan 29 15:08:30 2026] <STEAM_0:0:85754053> OZOR: /militaryplay
+[Thu Jan 29 15:08:46 2026] <STEAM_0:0:85754053> OZOR: /militaryplay
+[Thu Jan 29 15:09:15 2026] <STEAM_0:0:85754053> OZOR: /militaryplay
+[Thu Jan 29 15:09:18 2026] <STEAM_0:0:85754053> OZOR: /militaryplay
+[Thu Jan 29 15:09:49 2026] <STEAM_0:0:85754053> OZOR: /militaryplay
+[Thu Jan 29 15:11:54 2026] <STEAM_0:0:85754053> OZOR: /militaryplay
+[Thu Jan 29 15:12:08 2026] <STEAM_0:0:85754053> OZOR: /militaryplay
+[Thu Jan 29 15:15:12 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Jan 29 15:15:12 2026] <STEAM_0:0:85754053> OZOR spawned SWEP "Weapon [516][tfa_inss2_hk_mp5a5]"
+[Thu Jan 29 15:25:30 2026] <STEAM_0:0:85754053> OZOR: /militaryplay
+[Thu Jan 29 15:25:58 2026] <STEAM_0:0:85754053> OZOR: /militaryplay
+[Thu Jan 29 15:26:19 2026] <STEAM_0:0:85754053> OZOR: /militaryplay
+[Thu Jan 29 15:29:32 2026] <STEAM_0:0:85754053> OZOR: /militaryplay
+[Thu Jan 29 15:33:25 2026] Player "OZOR" <STEAM_0:0:85754053> has spawned in the server
+[Thu Jan 29 15:33:51 2026] <STEAM_0:0:85754053> OZOR: /militaryplay
+[Thu Jan 29 15:34:30 2026] <STEAM_0:0:85754053> OZOR: /militaryplay
+[Thu Jan 29 15:39:44 2026] <STEAM_0:0:85754053> OZOR: /militaryplay
+[Thu Jan 29 15:41:00 2026] <STEAM_0:0:85754053> OZOR ran command "menu"
+[Thu Jan 29 15:41:07 2026] <STEAM_0:0:85754053> OZOR: /militaryplay
+[Thu Jan 29 15:43:25 2026] <STEAM_0:0:85754053> OZOR: /militaryplay
+[Thu Jan 29 17:01:36 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [515][ladder_small3]"
+[Thu Jan 29 17:01:38 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [515][ladder_small3]"
+[Thu Jan 29 17:01:38 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [520][ladder_small3]"
+[Thu Jan 29 17:01:40 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [515][ladder_small]"
+[Thu Jan 29 17:01:43 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [515][lvs_vehicle_spammer]"
+[Thu Jan 29 17:01:43 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [517][sw_item_refuel]"
+[Thu Jan 29 17:02:37 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [515][lvs_item_jerrycan_diesel]"
+[Thu Jan 29 17:02:38 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [517][lvs_item_jerrycan_diesel]"
+[Thu Jan 29 17:02:40 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [517][lvs_item_jerrycan_diesel]"
+[Thu Jan 29 17:02:40 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [515][lvs_item_jerrycan_diesel]"
+[Thu Jan 29 17:02:40 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [518][lvs_item_jerrycan_diesel]"
+[Thu Jan 29 17:02:44 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [515][lvs_item_jerrycan_diesel]"
+[Thu Jan 29 17:02:44 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [517][lvs_item_jerrycan]"
+[Thu Jan 29 17:02:44 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [518][lvs_item_jerrycan]"
+[Thu Jan 29 17:10:05 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [515][lvs_item_jerrycan]"
+[Thu Jan 29 17:10:05 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [517][lvs_item_ammo]"
+[Thu Jan 29 17:10:07 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [517][lvs_item_ammo]"
+[Thu Jan 29 17:10:07 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [518][lvs_item_ammo]"
+[Thu Jan 29 17:10:07 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [515][lvs_item_ammo]"
+[Thu Jan 29 17:10:07 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [519][lvs_item_ammo]"
+[Thu Jan 29 17:10:32 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [515][lvs_item_ammo]"
+[Thu Jan 29 17:10:32 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [517][lvs_item_ammo]"
+[Thu Jan 29 17:10:32 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [518][lvs_item_ammo]"
+[Thu Jan 29 17:10:33 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [519][lvs_item_ammo]"
+[Thu Jan 29 17:10:37 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [515][lvs_item_ammo]"
+[Thu Jan 29 17:11:07 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [509][lvs_item_ammo]"
+[Thu Jan 29 17:14:02 2026] <STEAM_0:0:85754053> OZOR: /militaryplay
+[Thu Jan 29 17:14:07 2026] <STEAM_0:0:85754053> OZOR: /militaryplay
+[Thu Jan 29 17:14:12 2026] <STEAM_0:0:85754053> OZOR: /militaryplay
+[Thu Jan 29 17:15:02 2026] Player "OZOR" <STEAM_0:0:85754053> has left the server
+[Thu Jan 29 17:57:34 2026] Player "OZOR" <STEAM_0:0:85754053> has spawned in the server
+[Thu Jan 29 18:02:16 2026] Player "ЧВК ВАГНЕР" <STEAM_0:0:790911940> is attempting to connect.
+[Thu Jan 29 18:34:00 2026] Player "OZOR" <STEAM_0:0:85754053> has left the server
+[Thu Jan 29 18:48:54 2026] Player "OZOR" <STEAM_0:0:85754053> has spawned in the server
+[Thu Jan 29 19:02:07 2026] Player "OZOR" <STEAM_0:0:85754053> has left the server
+[Thu Jan 29 19:07:57 2026] Player "Juk" <STEAM_0:0:586457449> is attempting to connect.
+[Thu Jan 29 19:09:38 2026] Player "Juk" <STEAM_0:0:586457449> has spawned in the server
+[Thu Jan 29 19:23:01 2026] Player "StoticS" <STEAM_0:1:607847294> is attempting to connect.
+[Thu Jan 29 19:24:15 2026] Player "StoticS" <STEAM_0:1:607847294> has spawned in the server
+[Thu Jan 29 19:26:52 2026] <STEAM_0:0:586457449> Juk: /ooc о хуй американский
+[Thu Jan 29 19:27:15 2026] <STEAM_0:0:586457449> Juk: /ooc ААА ТЫ Ж ЭТОТ..с подствольником кошмар мой
+[Thu Jan 29 19:29:03 2026] <STEAM_0:0:586457449> Juk: /ooc ща заеду за тобой
+[Thu Jan 29 19:29:51 2026] <STEAM_0:0:586457449> Juk: /com открывайте нахуй ворота
+[Thu Jan 29 19:30:32 2026] <STEAM_0:0:586457449> Juk: /ooc та я не стрелять не ссы
+[Thu Jan 29 19:30:42 2026] <STEAM_0:1:607847294> StoticS: // зря ты меня разбудил...
+[Thu Jan 29 19:30:43 2026] <STEAM_0:1:607847294> StoticS: /nato [rp] расписался за снаряжение
+[Thu Jan 29 19:30:59 2026] <STEAM_0:0:586457449> Juk: /ooc поехали кататься
+[Thu Jan 29 19:31:18 2026] StoticS has killed Juk.
+[Thu Jan 29 19:31:28 2026] <STEAM_0:0:586457449> Juk: /ooc зря.
+[Thu Jan 29 19:32:38 2026] <STEAM_0:1:607847294> StoticS: // у тебя приемущество, у меня пингач
+[Thu Jan 29 19:32:38 2026] Player "Juk" <STEAM_0:0:586457449> is attempting to connect.
+[Thu Jan 29 19:32:38 2026] Player "Juk" <STEAM_0:0:586457449> has left the server
+[Thu Jan 29 19:33:26 2026] Player "Juk" <STEAM_0:0:586457449> is attempting to connect.
+[Thu Jan 29 19:35:13 2026] Player "Juk" <STEAM_0:0:586457449> has spawned in the server
+[Thu Jan 29 19:35:38 2026] <STEAM_0:0:586457449> Juk: /ooc у сука ебанные баги
+[Thu Jan 29 19:35:52 2026] <STEAM_0:1:607847294> StoticS: // у тебя приемущество, у меня пингач
+[Thu Jan 29 19:36:03 2026] <STEAM_0:0:586457449> Juk: /ooc 71 блять
+[Thu Jan 29 19:36:07 2026] <STEAM_0:0:586457449> Juk: /ooc у тебя
+[Thu Jan 29 19:37:00 2026] Player "StoticS" <STEAM_0:1:607847294> has left the server
+[Thu Jan 29 19:38:26 2026] Player "StoticS" <STEAM_0:1:607847294> is attempting to connect.
+[Thu Jan 29 19:39:09 2026] Player "StoticS" <STEAM_0:1:607847294> has spawned in the server
+[Thu Jan 29 19:39:48 2026] <STEAM_0:0:586457449> Juk: /ooc сдох и не мог возрадиться?
+[Thu Jan 29 19:39:58 2026] <STEAM_0:1:607847294> StoticS: // меня сильно откидует
+[Thu Jan 29 19:40:23 2026] <STEAM_0:1:607847294> StoticS: // я никуда дойти немогу
+[Thu Jan 29 19:40:38 2026] <STEAM_0:0:586457449> Juk: /ooc пиздец ща заеду за тобой мой бургерный бедолага
+[Thu Jan 29 19:40:43 2026] <STEAM_0:1:607847294> StoticS: /nato [rp] расписался за снаряжение
+[Thu Jan 29 19:41:01 2026] Player "Syper_Pypok" <STEAM_0:1:799971294> is attempting to connect.
+[Thu Jan 29 19:41:23 2026] Player "Syper_Pypok" <STEAM_0:1:799971294> is attempting to connect.
+[Thu Jan 29 19:41:36 2026] <STEAM_0:0:586457449> Juk: /ooc иди  на кпп родной
+[Thu Jan 29 19:41:48 2026] Player "Syper_Pypok" <STEAM_0:1:799971294> is attempting to connect.
+[Thu Jan 29 19:45:37 2026] <STEAM_0:1:607847294> StoticS: пиксельный человечек
+[Thu Jan 29 19:45:54 2026] <STEAM_0:0:586457449> Juk: мультиCUM
+[Thu Jan 29 19:46:25 2026] <STEAM_0:1:607847294> StoticS: а у меня анигиляторный подствольник
+[Thu Jan 29 19:48:07 2026] <STEAM_0:1:607847294> StoticS: у тигра есть броня лвс-ная
+[Thu Jan 29 19:48:22 2026] <STEAM_0:1:607847294> StoticS: а у т-90 и бмп нету
+[Thu Jan 29 19:48:49 2026] <STEAM_0:1:607847294> StoticS: поетому все кроме тигра сносится за 1 выстрел
+[Thu Jan 29 19:49:16 2026] <STEAM_0:1:607847294> StoticS: у тигра сколько хп?
+[Thu Jan 29 19:49:32 2026] <STEAM_0:1:607847294> StoticS: у хамеров тоже 1000
+[Thu Jan 29 19:49:43 2026] <STEAM_0:1:607847294> StoticS: да
+[Thu Jan 29 19:50:02 2026] <STEAM_0:1:607847294> StoticS: ?
+[Thu Jan 29 19:51:19 2026] <STEAM_0:1:607847294> StoticS: ъ
+[Thu Jan 29 19:52:46 2026] <STEAM_0:0:586457449> Juk: /ooc АХХАХАХ А КАК
+[Thu Jan 29 19:52:51 2026] <STEAM_0:1:607847294> StoticS: // пхахахах
+[Thu Jan 29 19:53:02 2026] <STEAM_0:1:607847294> StoticS: // я у себя на вч
+[Thu Jan 29 19:53:15 2026] <STEAM_0:0:586457449> Juk: /ooc на минуту посадил же?
+[Thu Jan 29 19:53:25 2026] <STEAM_0:1:607847294> StoticS: // не написано
+[Thu Jan 29 19:53:37 2026] <STEAM_0:0:586457449> Juk: /ooc а я хуй зайду
+[Thu Jan 29 19:54:08 2026] <STEAM_0:0:586457449> Juk: /ooc ладно давай удачи генерал макнагетс
+[Thu Jan 29 19:55:00 2026] Player "Juk" <STEAM_0:0:586457449> has left the server
+[Thu Jan 29 19:55:29 2026] Player "StoticS" <STEAM_0:1:607847294> has left the server
+[Thu Jan 29 19:57:38 2026] Player "Syper_Pypok" <STEAM_0:1:799971294> is attempting to connect.
+[Thu Jan 29 20:08:14 2026] Player "Syper_Pypok" <STEAM_0:1:799971294> has spawned in the server
+[Thu Jan 29 20:12:37 2026] Player "Syper_Pypok" <STEAM_0:1:799971294> has left the server

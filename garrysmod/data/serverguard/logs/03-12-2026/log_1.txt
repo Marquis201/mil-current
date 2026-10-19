@@ -1,0 +1,7 @@
+[Thu Mar 12 14:56:36 2026] Player "aaandrys" <STEAM_0:1:460065968> is attempting to connect.
+[Thu Mar 12 16:59:13 2026] Player "aaandrys" <STEAM_0:1:460065968> is attempting to connect.
+[Thu Mar 12 17:32:55 2026] Player "nikitadaniluk443" <STEAM_0:1:395937941> is attempting to connect.
+[Thu Mar 12 21:55:45 2026] Player "VIP MuBik 2" <STEAM_0:1:791918163> is attempting to connect.
+[Thu Mar 12 22:08:14 2026] Player "VIP MuBik 2" <STEAM_0:1:791918163> has spawned in the server
+[Thu Mar 12 22:13:11 2026] <STEAM_0:1:791918163> VIP MuBik 2: /me показал военный билет |1-ый МСБ |Рядовой |Гранатомётчик|Тумаков Г.А.
+[Thu Mar 12 22:14:30 2026] Player "VIP MuBik 2" <STEAM_0:1:791918163> has left the server

@@ -1,0 +1,156 @@
+[Sun May  3 11:52:47 2026] Player "Domka" <STEAM_0:0:55267399> is attempting to connect.
+[Sun May  3 14:47:02 2026] Player "gREG4IK" <STEAM_0:1:455594560> is attempting to connect.
+[Sun May  3 14:47:04 2026] Player "Casebook" <STEAM_0:0:585468466> is attempting to connect.
+[Sun May  3 14:48:29 2026] Player "gREG4IK" <STEAM_0:1:455594560> has spawned in the server
+[Sun May  3 14:48:42 2026] Player "Casebook" <STEAM_0:0:585468466> has spawned in the server
+[Sun May  3 14:49:56 2026] <STEAM_0:1:455594560> gREG4IK ran command "goto Тайпан"
+[Sun May  3 14:50:10 2026] Player "Casebook" <STEAM_0:0:585468466> has left the server
+[Sun May  3 15:01:01 2026] Player "Белочка" <STEAM_0:1:411221606> is attempting to connect.
+[Sun May  3 15:03:43 2026] Player "Белочка" <STEAM_0:1:411221606> has spawned in the server
+[Sun May  3 15:06:57 2026] Player "kirill.bobov" <STEAM_0:1:116825962> is attempting to connect.
+[Sun May  3 15:10:48 2026] <STEAM_0:1:455594560> gREG4IK: /event Вы зашли на сервер Military-Play
+[Sun May  3 15:21:19 2026] <STEAM_0:1:455594560> gREG4IK: 283387
+[Sun May  3 15:21:36 2026] <STEAM_0:1:455594560> gREG4IK: 283387
+[Sun May  3 15:21:52 2026] <STEAM_0:1:455594560> gREG4IK: 283387
+[Sun May  3 15:30:12 2026] Player "kirill.bobov" <STEAM_0:1:116825962> has spawned in the server
+[Sun May  3 15:31:13 2026] Player "kirill.bobov" <STEAM_0:1:116825962> has left the server
+[Sun May  3 15:31:43 2026] Player "Bot01" <BOT> has spawned in the server
+[Sun May  3 15:31:44 2026] Player "Bot02" <BOT> has spawned in the server
+[Sun May  3 15:38:24 2026] Player "Bot03" <BOT> has spawned in the server
+[Sun May  3 15:38:41 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [639][sw_mh60s]"
+[Sun May  3 15:45:52 2026] Player "Электровоз ВЛ80" <STEAM_0:1:862887967> is attempting to connect.
+[Sun May  3 15:46:45 2026] Player "Электровоз ВЛ80" <STEAM_0:1:862887967> has spawned in the server
+[Sun May  3 15:47:53 2026] <STEAM_0:1:455594560> gREG4IK ran command "goto CPL Miser"
+[Sun May  3 15:48:35 2026] gREG4IK has killed Электровоз ВЛ80.
+[Sun May  3 15:48:44 2026] Белочка has killed gREG4IK.
+[Sun May  3 15:49:01 2026] <STEAM_0:1:862887967> Электровоз ВЛ80: у тебя есть ипуброфен? голова болит
+[Sun May  3 15:50:08 2026] <STEAM_0:1:411221606> Белочка: // ГРЭГ дай звание STG в дя доква!
+[Sun May  3 15:50:16 2026] <STEAM_0:1:862887967> Электровоз ВЛ80 spawned prop "Entity [615][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1.mdl)"
+[Sun May  3 15:50:17 2026] <STEAM_0:1:455594560> gREG4IK ran command "goto CPL Miser"
+[Sun May  3 15:50:25 2026] <STEAM_0:1:862887967> Электровоз ВЛ80 spawned prop "Entity [615][alydus_destructiblefortification] (models/iraq/ir_hesco_basket_01.mdl)"
+[Sun May  3 15:50:27 2026] <STEAM_0:1:862887967> Электровоз ВЛ80 spawned prop "Entity [617][alydus_destructiblefortification] (models/iraq/ir_hesco_basket_01.mdl)"
+[Sun May  3 15:50:28 2026] <STEAM_0:1:455594560> gREG4IK: кто?
+[Sun May  3 15:50:54 2026] <STEAM_0:1:455594560> gREG4IK: Кого?
+[Sun May  3 15:50:58 2026] <STEAM_0:1:411221606> Белочка: МЕНЯ
+[Sun May  3 15:50:58 2026] <STEAM_0:1:455594560> gREG4IK: кто такой stg?
+[Sun May  3 15:51:04 2026] <STEAM_0:1:411221606> Белочка: СЕРЖАНТ
+[Sun May  3 15:51:05 2026] <STEAM_0:1:455594560> gREG4IK: пулеметчик?
+[Sun May  3 15:51:06 2026] <STEAM_0:1:455594560> gREG4IK: ааа
+[Sun May  3 15:51:15 2026] <STEAM_0:1:862887967> Электровоз ВЛ80 spawned prop "Entity [615][alydus_destructiblefortification] (models/static_afghan/prop_fortification_hesco_small.mdl)"
+[Sun May  3 15:51:16 2026] <STEAM_0:1:455594560> gREG4IK: все
+[Sun May  3 15:51:17 2026] <STEAM_0:1:862887967> Электровоз ВЛ80 spawned prop "Entity [617][alydus_destructiblefortification] (models/static_afghan/prop_fortification_hesco_small.mdl)"
+[Sun May  3 15:51:28 2026] <STEAM_0:1:411221606> Белочка: // НКИ ТОЖЕЕЕЕ
+[Sun May  3 15:52:13 2026] <STEAM_0:1:411221606> Белочка: // ГРЭГ НИК ТОЖЕ ПОМЕНЯЙ на STG|Miser
+[Sun May  3 15:53:58 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [624][npc_combine_s]"
+[Sun May  3 15:54:00 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [860][npc_combine_s]"
+[Sun May  3 15:54:01 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [864][npc_combine_s]"
+[Sun May  3 15:54:12 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [861][npc_combine_s]"
+[Sun May  3 15:54:13 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [860][npc_combine_s]"
+[Sun May  3 15:54:14 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [866][npc_combine_s]"
+[Sun May  3 15:54:27 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [624][npc_combine_s]"
+[Sun May  3 15:54:28 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [866][npc_combine_s]"
+[Sun May  3 15:54:31 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [868][npc_combine_s]"
+[Sun May  3 15:54:32 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [870][npc_combine_s]"
+[Sun May  3 15:54:33 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [873][npc_combine_s]"
+[Sun May  3 15:54:42 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [876][npc_combine_s]"
+[Sun May  3 15:54:42 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [879][npc_combine_s]"
+[Sun May  3 15:54:43 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [881][npc_combine_s]"
+[Sun May  3 15:55:07 2026] Player "impotent" <STEAM_0:1:425612974> is attempting to connect.
+[Sun May  3 15:55:57 2026] <STEAM_0:1:411221606> Белочка: // я перезайду у меня пинг
+[Sun May  3 15:56:03 2026] Player "Белочка" <STEAM_0:1:411221606> has left the server
+[Sun May  3 15:56:03 2026] Player "Белочка" <STEAM_0:1:411221606> is attempting to connect.
+[Sun May  3 15:57:11 2026] Player "impotent" <STEAM_0:1:425612974> has spawned in the server
+[Sun May  3 15:57:13 2026] Электровоз ВЛ80 has killed Bot01.
+[Sun May  3 15:57:16 2026] Электровоз ВЛ80 has killed Bot03.
+[Sun May  3 15:57:17 2026] Player "gREG4IK" <STEAM_0:1:455594560> has left the server
+[Sun May  3 15:57:18 2026] Player "gREG4IK" <STEAM_0:1:455594560> is attempting to connect.
+[Sun May  3 15:57:29 2026] Электровоз ВЛ80 has killed Bot03.
+[Sun May  3 15:57:42 2026] Электровоз ВЛ80 has killed Bot03.
+[Sun May  3 15:57:53 2026] Электровоз ВЛ80 has killed Bot01.
+[Sun May  3 15:58:40 2026] Player "gREG4IK" <STEAM_0:1:455594560> has spawned in the server
+[Sun May  3 15:58:45 2026] <STEAM_0:1:862887967> Электровоз ВЛ80 spawned prop "Entity [657][alydus_destructiblefortification] (models/static_afghan/prop_fortification_hesco_small.mdl)"
+[Sun May  3 15:58:47 2026] <STEAM_0:1:862887967> Электровоз ВЛ80 spawned prop "Entity [658][alydus_destructiblefortification] (models/static_afghan/prop_fortification_hesco_small.mdl)"
+[Sun May  3 15:58:53 2026] <STEAM_0:1:862887967> Электровоз ВЛ80 spawned prop "Entity [620][alydus_destructiblefortification] (models/iraq/ir_hesco_basket_01.mdl)"
+[Sun May  3 15:58:55 2026] <STEAM_0:1:862887967> Электровоз ВЛ80 spawned prop "Entity [621][alydus_destructiblefortification] (models/iraq/ir_hesco_basket_01.mdl)"
+[Sun May  3 15:59:46 2026] Player "impotent" <STEAM_0:1:425612974> has left the server
+[Sun May  3 16:00:13 2026] Player "Белочка" <STEAM_0:1:411221606> has spawned in the server
+[Sun May  3 16:00:23 2026] <STEAM_0:1:862887967> Электровоз ВЛ80 spawned prop "Entity [621][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1.mdl)"
+[Sun May  3 16:00:40 2026] gREG4IK has killed Электровоз ВЛ80.
+[Sun May  3 16:01:39 2026] Player "Белочка" <STEAM_0:1:411221606> has left the server
+[Sun May  3 16:04:28 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [672][tfa_ins2_akm]"
+[Sun May  3 16:04:28 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [673][tfa_ins2_akm]"
+[Sun May  3 16:04:46 2026] <STEAM_0:1:862887967> Электровоз ВЛ80 spawned prop "Entity [674][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1.mdl)"
+[Sun May  3 16:04:47 2026] <STEAM_0:1:862887967> Электровоз ВЛ80 spawned prop "Entity [676][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1.mdl)"
+[Sun May  3 16:04:49 2026] <STEAM_0:1:862887967> Электровоз ВЛ80 spawned prop "Entity [675][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1.mdl)"
+[Sun May  3 16:04:59 2026] <STEAM_0:1:862887967> Электровоз ВЛ80 spawned prop "Entity [675][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1.mdl)"
+[Sun May  3 16:05:02 2026] <STEAM_0:1:862887967> Электровоз ВЛ80 spawned prop "Entity [676][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1.mdl)"
+[Sun May  3 16:05:05 2026] <STEAM_0:1:862887967> Электровоз ВЛ80 spawned prop "Entity [677][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1.mdl)"
+[Sun May  3 16:05:07 2026] <STEAM_0:1:862887967> Электровоз ВЛ80 spawned prop "Entity [678][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1.mdl)"
+[Sun May  3 16:05:09 2026] <STEAM_0:1:862887967> Электровоз ВЛ80 spawned prop "Entity [677][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1.mdl)"
+[Sun May  3 16:05:10 2026] <STEAM_0:1:862887967> Электровоз ВЛ80 spawned prop "Entity [678][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1.mdl)"
+[Sun May  3 16:05:11 2026] <STEAM_0:1:862887967> Электровоз ВЛ80 spawned prop "Entity [677][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1.mdl)"
+[Sun May  3 16:05:13 2026] <STEAM_0:1:862887967> Электровоз ВЛ80 spawned prop "Entity [678][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1.mdl)"
+[Sun May  3 16:05:14 2026] <STEAM_0:1:862887967> Электровоз ВЛ80 spawned prop "Entity [677][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1.mdl)"
+[Sun May  3 16:05:42 2026] Электровоз ВЛ80 has killed gREG4IK.
+[Sun May  3 16:06:09 2026] <STEAM_0:1:862887967> Электровоз ВЛ80 spawned prop "Entity [620][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1.mdl)"
+[Sun May  3 16:08:07 2026] <STEAM_0:1:862887967> Электровоз ВЛ80: // грэг ебани возможность пинать ногой и выбивать двери
+[Sun May  3 16:08:12 2026] <STEAM_0:1:862887967> Электровоз ВЛ80 spawned prop "Entity [627][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1.mdl)"
+[Sun May  3 16:08:14 2026] <STEAM_0:1:862887967> Электровоз ВЛ80 spawned prop "Entity [629][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1.mdl)"
+[Sun May  3 16:08:19 2026] <STEAM_0:1:862887967> Электровоз ВЛ80 spawned prop "Entity [632][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1.mdl)"
+[Sun May  3 16:08:21 2026] <STEAM_0:1:862887967> Электровоз ВЛ80 spawned prop "Entity [642][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1.mdl)"
+[Sun May  3 16:08:24 2026] <STEAM_0:1:862887967> Электровоз ВЛ80 spawned prop "Entity [632][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1.mdl)"
+[Sun May  3 16:08:26 2026] <STEAM_0:1:862887967> Электровоз ВЛ80 spawned prop "Entity [642][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1.mdl)"
+[Sun May  3 16:08:28 2026] <STEAM_0:1:862887967> Электровоз ВЛ80 spawned prop "Entity [632][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1.mdl)"
+[Sun May  3 16:08:43 2026] <STEAM_0:1:862887967> Электровоз ВЛ80 spawned prop "Entity [627][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1.mdl)"
+[Sun May  3 16:08:46 2026] <STEAM_0:1:862887967> Электровоз ВЛ80 spawned prop "Entity [629][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1.mdl)"
+[Sun May  3 16:10:42 2026] Player "Электровоз ВЛ80" <STEAM_0:1:862887967> has left the server
+[Sun May  3 16:11:42 2026] Player "Casebook" <STEAM_0:0:585468466> is attempting to connect.
+[Sun May  3 16:13:34 2026] Player "Casebook" <STEAM_0:0:585468466> has spawned in the server
+[Sun May  3 16:17:48 2026] <STEAM_0:0:585468466> Casebook: /ooc Дай точки захвачу,бразер
+[Sun May  3 16:20:11 2026] <STEAM_0:0:585468466> Casebook: /ooc Грэг,ты тут?
+[Sun May  3 16:23:08 2026] <STEAM_0:0:585468466> Casebook: /ooc Грэг,тут баг карты
+[Sun May  3 16:28:38 2026] Player "gREG4IK" <STEAM_0:1:455594560> has left the server
+[Sun May  3 16:29:16 2026] worldspawn has killed Casebook.
+[Sun May  3 16:32:08 2026] Player "Casebook" <STEAM_0:0:585468466> has left the server
+[Sun May  3 16:32:08 2026] Player "Bot01" <BOT> has left the server
+[Sun May  3 16:32:08 2026] Player "Bot02" <BOT> has left the server
+[Sun May  3 16:32:08 2026] Player "Bot03" <BOT> has left the server
+[Sun May  3 17:29:59 2026] Player "Discar" <STEAM_0:0:650470378> is attempting to connect.
+[Sun May  3 17:31:11 2026] Player "Discar" <STEAM_0:0:650470378> has spawned in the server
+[Sun May  3 17:34:14 2026] Player "Discar" <STEAM_0:0:650470378> has left the server
+[Sun May  3 17:35:47 2026] Player "Casebook" <STEAM_0:0:585468466> is attempting to connect.
+[Sun May  3 17:36:59 2026] Player "Casebook" <STEAM_0:0:585468466> has spawned in the server
+[Sun May  3 17:40:16 2026] Player "Casebook" <STEAM_0:0:585468466> has left the server
+[Sun May  3 17:46:11 2026] Player "winogrono320" <STEAM_0:0:380594428> is attempting to connect.
+[Sun May  3 18:45:45 2026] Player "gREG4IK" <STEAM_0:1:455594560> is attempting to connect.
+[Sun May  3 18:47:05 2026] Player "gREG4IK" <STEAM_0:1:455594560> has spawned in the server
+[Sun May  3 18:52:43 2026] Player "CoSSi" <STEAM_0:1:680262853> is attempting to connect.
+[Sun May  3 19:03:22 2026] Player "CoSSi" <STEAM_0:1:680262853> has spawned in the server
+[Sun May  3 19:05:10 2026] Player "CoSSi" <STEAM_0:1:680262853> has left the server
+[Sun May  3 19:09:35 2026] Player "garikmeishon52" <STEAM_0:1:926325853> is attempting to connect.
+[Sun May  3 19:13:41 2026] Player "impotent" <STEAM_0:1:425612974> is attempting to connect.
+[Sun May  3 19:15:26 2026] Player "impotent" <STEAM_0:1:425612974> has spawned in the server
+[Sun May  3 19:16:09 2026] Player "Bot04" <BOT> has spawned in the server
+[Sun May  3 19:16:10 2026] Player "Bot05" <BOT> has spawned in the server
+[Sun May  3 19:16:11 2026] Player "Bot06" <BOT> has spawned in the server
+[Sun May  3 19:16:12 2026] Player "Bot07" <BOT> has spawned in the server
+[Sun May  3 19:16:12 2026] Player "Bot08" <BOT> has spawned in the server
+[Sun May  3 19:16:12 2026] Player "Bot09" <BOT> has spawned in the server
+[Sun May  3 19:23:12 2026] <STEAM_0:1:455594560> gREG4IK: f
+[Sun May  3 19:23:16 2026] Player "gREG4IK" <STEAM_0:1:455594560> has left the server
+[Sun May  3 19:43:48 2026] impotent has killed Bot06.
+[Sun May  3 19:43:49 2026] Bot06 has killed Bot06.
+[Sun May  3 19:44:16 2026] impotent has killed Bot08.
+[Sun May  3 19:45:21 2026] impotent has killed Bot09.
+[Sun May  3 19:45:31 2026] impotent has killed Bot05.
+[Sun May  3 19:45:44 2026] Player "impotent" <STEAM_0:1:425612974> has left the server
+[Sun May  3 19:45:44 2026] Player "Bot04" <BOT> has left the server
+[Sun May  3 19:45:44 2026] Player "Bot05" <BOT> has left the server
+[Sun May  3 19:45:44 2026] Player "Bot06" <BOT> has left the server
+[Sun May  3 19:45:44 2026] Player "Bot07" <BOT> has left the server
+[Sun May  3 19:45:44 2026] Player "Bot08" <BOT> has left the server
+[Sun May  3 19:45:44 2026] Player "Bot09" <BOT> has left the server
+[Sun May  3 19:53:12 2026] Player "старая бабушка рыбак ноывй аккау" <STEAM_0:1:29179203> is attempting to connect.
+[Sun May  3 21:15:24 2026] Player "Капибара" <STEAM_0:0:938398360> is attempting to connect.
+[Sun May  3 21:24:54 2026] Player "Ynnirc" <STEAM_0:0:733505843> is attempting to connect.
+[Sun May  3 23:58:39 2026] Player "Pioner" <STEAM_0:1:923042528> is attempting to connect.

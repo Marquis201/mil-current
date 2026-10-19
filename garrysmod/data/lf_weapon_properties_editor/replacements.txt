@@ -1,0 +1,1 @@
+~'weapon_shotgun":'tfa_ins2_norinco_qbz97"'weapon_pistol":'tfa_eft_vityaz"'weapon_smg1":'tfa_ins2_m4a1"'weapon_ar2":'tfa_ins2_acr"

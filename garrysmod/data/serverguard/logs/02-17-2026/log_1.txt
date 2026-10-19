@@ -1,0 +1,86 @@
+[Tue Feb 17 14:31:12 2026] Player "Mr.Monolith" <STEAM_0:1:47931114> is attempting to connect.
+[Tue Feb 17 14:32:07 2026] Player "Mr.Monolith" <STEAM_0:1:47931114> has spawned in the server
+[Tue Feb 17 14:32:30 2026] <STEAM_0:1:47931114> Mr.Monolith ran command "noclip SGM | Castle"
+[Tue Feb 17 14:32:36 2026] <STEAM_0:1:47931114> Mr.Monolith ran command "noclip SGM | Castle"
+[Tue Feb 17 14:32:48 2026] <STEAM_0:1:47931114> Mr.Monolith ran command "noclip SGM | Castle"
+[Tue Feb 17 14:32:55 2026] <STEAM_0:1:47931114> Mr.Monolith ran command "noclip SGM | Castle"
+[Tue Feb 17 14:36:13 2026] <STEAM_0:1:47931114> Mr.Monolith ran command "noclip SGM | Castle"
+[Tue Feb 17 14:36:16 2026] <STEAM_0:1:47931114> Mr.Monolith ran command "noclip SGM | Castle"
+[Tue Feb 17 14:37:56 2026] <STEAM_0:1:47931114> Mr.Monolith ran command "noclip SGM | Castle"
+[Tue Feb 17 14:37:57 2026] <STEAM_0:1:47931114> Mr.Monolith ran command "noclip SGM | Castle"
+[Tue Feb 17 14:54:48 2026] <STEAM_0:1:47931114> Mr.Monolith ran command "noclip SGM | Castle"
+[Tue Feb 17 14:54:56 2026] <STEAM_0:1:47931114> Mr.Monolith ran command "noclip SGM | Castle"
+[Tue Feb 17 15:17:27 2026] Player "silard87" <STEAM_0:1:414630400> is attempting to connect.
+[Tue Feb 17 15:18:23 2026] Player "silard87" <STEAM_0:1:414630400> has spawned in the server
+[Tue Feb 17 15:19:02 2026] Player "silard87" <STEAM_0:1:414630400> has left the server
+[Tue Feb 17 15:19:04 2026] Player "silard87" <STEAM_0:1:414630400> is attempting to connect.
+[Tue Feb 17 15:19:26 2026] Player "silard87" <STEAM_0:1:414630400> has spawned in the server
+[Tue Feb 17 15:19:39 2026] Player "silard87" <STEAM_0:1:414630400> has left the server
+[Tue Feb 17 16:17:44 2026] <STEAM_0:1:47931114> Mr.Monolith ran command "noclip SGM | Castle"
+[Tue Feb 17 16:17:49 2026] <STEAM_0:1:47931114> Mr.Monolith spawned SENT "Entity [701][lfs_grdn_ah1z]"
+[Tue Feb 17 16:17:55 2026] <STEAM_0:1:47931114> Mr.Monolith spawned SENT "Entity [701][lfs_grdn_ah1g]"
+[Tue Feb 17 16:18:00 2026] <STEAM_0:1:47931114> Mr.Monolith spawned SENT "Entity [701][lfs_grdn_ec665uht]"
+[Tue Feb 17 16:18:02 2026] <STEAM_0:1:47931114> Mr.Monolith spawned SENT "Entity [701][lfs_uh60]"
+[Tue Feb 17 16:18:05 2026] <STEAM_0:1:47931114> Mr.Monolith spawned SENT "Entity [701][lfs_uh60]"
+[Tue Feb 17 16:18:07 2026] <STEAM_0:1:47931114> Mr.Monolith spawned SENT "Entity [701][lfs_uh60]"
+[Tue Feb 17 16:18:15 2026] <STEAM_0:1:47931114> Mr.Monolith spawned SENT "Entity [701][lfs_grdn_mi28nm]"
+[Tue Feb 17 16:18:17 2026] <STEAM_0:1:47931114> Mr.Monolith spawned SENT "Entity [701][lfs_grdn_ah64d]"
+[Tue Feb 17 16:18:18 2026] <STEAM_0:1:47931114> Mr.Monolith spawned SENT "Entity [703][lfs_grdn_bo105pah1]"
+[Tue Feb 17 16:18:19 2026] <STEAM_0:1:47931114> Mr.Monolith spawned SENT "Entity [701][lfs_grdn_hkp9a]"
+[Tue Feb 17 16:18:20 2026] <STEAM_0:1:47931114> Mr.Monolith spawned SENT "Entity [703][lfs_grdn_ka50]"
+[Tue Feb 17 16:18:21 2026] <STEAM_0:1:47931114> Mr.Monolith spawned SENT "Entity [701][lfs_grdn_md500tow]"
+[Tue Feb 17 16:18:26 2026] <STEAM_0:1:47931114> Mr.Monolith spawned SENT "Entity [701][lvs_wheeldrive_rp_dabrams_m1a1]"
+[Tue Feb 17 16:18:43 2026] <STEAM_0:1:47931114> Mr.Monolith spawned SENT "Entity [701][lvs_wheeldrive_hummer_tow]"
+[Tue Feb 17 16:19:22 2026] <STEAM_0:1:47931114> Mr.Monolith spawned SENT "Entity [701][lvs_wheeldrive_hummer_mk19]"
+[Tue Feb 17 16:19:36 2026] <STEAM_0:1:47931114> Mr.Monolith spawned SENT "Entity [701][lvs_wheeldrive_hummer_m240]"
+[Tue Feb 17 16:19:39 2026] <STEAM_0:1:47931114> Mr.Monolith spawned SENT "Entity [701][lvs_wheeldrive_hummer_m2]"
+[Tue Feb 17 16:19:40 2026] <STEAM_0:1:47931114> Mr.Monolith ran command "noclip SGM | Castle"
+[Tue Feb 17 16:19:42 2026] <STEAM_0:1:47931114> Mr.Monolith ran command "noclip SGM | Castle"
+[Tue Feb 17 16:19:51 2026] <STEAM_0:1:47931114> Mr.Monolith spawned SENT "Entity [701][lvs_wheeldrive_hummer_m240]"
+[Tue Feb 17 16:20:07 2026] <STEAM_0:1:47931114> Mr.Monolith spawned SENT "Entity [701][lvs_wheeldrive_hummer_m134]"
+[Tue Feb 17 16:20:26 2026] Player "Mr.Monolith" <STEAM_0:1:47931114> has left the server
+[Tue Feb 17 16:35:12 2026] Player "punk" <STEAM_0:0:921324874> is attempting to connect.
+[Tue Feb 17 16:36:03 2026] Player "punk" <STEAM_0:0:921324874> has spawned in the server
+[Tue Feb 17 16:37:00 2026] <STEAM_0:0:921324874> punk spawned prop "Entity [701][prop_physics] (models/props_combine/weaponstripper.mdl)"
+[Tue Feb 17 16:37:05 2026] <STEAM_0:0:921324874> punk spawned prop "Entity [701][prop_physics] (models/props_vehicles/tire001a_tractor.mdl)"
+[Tue Feb 17 16:37:07 2026] <STEAM_0:0:921324874> punk spawned prop "Entity [702][prop_physics] (models/props_vehicles/tire001a_tractor.mdl)"
+[Tue Feb 17 16:37:07 2026] <STEAM_0:0:921324874> punk spawned prop "Entity [701][prop_physics] (models/props_vehicles/tire001a_tractor.mdl)"
+[Tue Feb 17 16:37:08 2026] <STEAM_0:0:921324874> punk spawned prop "Entity [703][prop_physics] (models/props_vehicles/tire001a_tractor.mdl)"
+[Tue Feb 17 16:37:13 2026] <STEAM_0:0:921324874> punk spawned prop "Entity [701][prop_physics] (models/props_wasteland/wood_fence01a.mdl)"
+[Tue Feb 17 17:14:14 2026] Player "GfdgoXD" <STEAM_0:0:838144940> is attempting to connect.
+[Tue Feb 17 17:18:03 2026] Player "Boboher123" <STEAM_0:0:208481474> is attempting to connect.
+[Tue Feb 17 17:26:23 2026] Player "Boboher123" <STEAM_0:0:208481474> has spawned in the server
+[Tue Feb 17 17:28:53 2026] Player "Boboher123" <STEAM_0:0:208481474> has left the server
+[Tue Feb 17 18:03:54 2026] Player "Igruha" <STEAM_0:0:914720065> is attempting to connect.
+[Tue Feb 17 19:16:25 2026] Player "impotent" <STEAM_0:1:425612974> is attempting to connect.
+[Tue Feb 17 19:44:02 2026] Player "Beskvr" <STEAM_0:1:538554908> is attempting to connect.
+[Tue Feb 17 20:07:15 2026] Player "babkiqorek" <STEAM_0:1:403141794> is attempting to connect.
+[Tue Feb 17 20:16:31 2026] Player "babkiqorek" <STEAM_0:1:403141794> has spawned in the server
+[Tue Feb 17 20:18:02 2026] Player "babkiqorek" <STEAM_0:1:403141794> has left the server
+[Tue Feb 17 20:18:04 2026] Player "babkiqorek" <STEAM_0:1:403141794> is attempting to connect.
+[Tue Feb 17 21:23:17 2026] Player "punk" <STEAM_0:0:921324874> has left the server
+[Tue Feb 17 21:26:17 2026] Player "KGB" <STEAM_0:1:102153490> is attempting to connect.
+[Tue Feb 17 21:27:36 2026] Player "KGB" <STEAM_0:1:102153490> has spawned in the server
+[Tue Feb 17 21:28:36 2026] Player "gREG4IK" <STEAM_0:1:455594560> is attempting to connect.
+[Tue Feb 17 21:30:31 2026] Player "gREG4IK" <STEAM_0:1:455594560> has spawned in the server
+[Tue Feb 17 21:31:44 2026] <STEAM_0:1:455594560> gREG4IK ran command "send Медведев"
+[Tue Feb 17 21:37:05 2026] Player "Platinum exo" <STEAM_0:1:788302063> is attempting to connect.
+[Tue Feb 17 21:44:04 2026] <STEAM_0:1:455594560> gREG4IK used tool "light"
+[Tue Feb 17 21:44:09 2026] <STEAM_0:1:455594560> gREG4IK used tool "camera"
+[Tue Feb 17 21:44:10 2026] <STEAM_0:1:455594560> gREG4IK used tool "camera"
+[Tue Feb 17 21:44:13 2026] Player "KGB" <STEAM_0:1:102153490> has left the server
+[Tue Feb 17 21:47:10 2026] <STEAM_0:1:455594560> gREG4IK ran command "respawn Л-т Грэг"
+[Tue Feb 17 22:06:56 2026] Player "gREG4IK" <STEAM_0:1:455594560> has left the server
+[Tue Feb 17 22:11:05 2026] Player "Креветка" <STEAM_0:1:942364657> is attempting to connect.
+[Tue Feb 17 22:11:59 2026] Player "Креветка" <STEAM_0:1:942364657> has spawned in the server
+[Tue Feb 17 22:15:06 2026] Player "impotent" <STEAM_0:1:425612974> is attempting to connect.
+[Tue Feb 17 22:15:10 2026] Player "Креветка" <STEAM_0:1:942364657> has left the server
+[Tue Feb 17 22:17:23 2026] Player "impotent" <STEAM_0:1:425612974> has spawned in the server
+[Tue Feb 17 22:21:05 2026] Player "Величайший" <STEAM_0:0:181607717> is attempting to connect.
+[Tue Feb 17 22:25:06 2026] <STEAM_0:1:425612974> impotent: /ONLINEUP
+[Tue Feb 17 22:26:46 2026] Player "Величайший" <STEAM_0:0:181607717> has spawned in the server
+[Tue Feb 17 22:27:50 2026] Player "Величайший" <STEAM_0:0:181607717> has left the server
+[Tue Feb 17 22:28:04 2026] Player "Verssace" <STEAM_0:0:446671450> is attempting to connect.
+[Tue Feb 17 22:35:38 2026] Player "Verssace" <STEAM_0:0:446671450> has spawned in the server
+[Tue Feb 17 22:38:55 2026] Player "Verssace" <STEAM_0:0:446671450> has left the server
+[Tue Feb 17 23:06:04 2026] Player "impotent" <STEAM_0:1:425612974> has left the server

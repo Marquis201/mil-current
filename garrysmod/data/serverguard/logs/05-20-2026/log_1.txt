@@ -1,0 +1,29 @@
+[Wed May 20 01:45:34 2026] Player "𓀃" <STEAM_0:1:546879288> is attempting to connect.
+[Wed May 20 08:31:31 2026] Player "Pioner" <STEAM_0:1:923042528> is attempting to connect.
+[Wed May 20 08:36:43 2026] Player "Pioner" <STEAM_0:1:923042528> has spawned in the server
+[Wed May 20 08:38:35 2026] Player "Pioner" <STEAM_0:1:923042528> has left the server
+[Wed May 20 08:39:17 2026] Player "Pioner" <STEAM_0:1:923042528> is attempting to connect.
+[Wed May 20 08:43:04 2026] Player "Pioner" <STEAM_0:1:923042528> has spawned in the server
+[Wed May 20 09:06:17 2026] <STEAM_0:1:923042528> Pioner: /yell сдавайся! Тебе не выжить!
+[Wed May 20 09:06:19 2026] <STEAM_0:1:923042528> Pioner: /yell сдавайся! Тебе не выжить!
+[Wed May 20 09:06:20 2026] <STEAM_0:1:923042528> Pioner: /yell сдавайся! Тебе не выжить!
+[Wed May 20 09:06:20 2026] <STEAM_0:1:923042528> Pioner: /yell сдавайся! Тебе не выжить!
+[Wed May 20 09:31:26 2026] <STEAM_0:1:923042528> Pioner: 8
+[Wed May 20 09:31:30 2026] <STEAM_0:1:923042528> Pioner: 8
+[Wed May 20 09:31:40 2026] <STEAM_0:1:923042528> Pioner: 8
+[Wed May 20 09:59:23 2026] Player "Pioner" <STEAM_0:1:923042528> has left the server
+[Wed May 20 13:15:01 2026] Player "uziel" <STEAM_0:1:444524797> is attempting to connect.
+[Wed May 20 13:34:33 2026] Player "david280911" <STEAM_0:1:839860057> is attempting to connect.
+[Wed May 20 13:36:22 2026] Player "david280911" <STEAM_0:1:839860057> has spawned in the server
+[Wed May 20 13:38:09 2026] Player "Pioner" <STEAM_0:1:923042528> is attempting to connect.
+[Wed May 20 13:39:13 2026] Player "Pioner" <STEAM_0:1:923042528> has spawned in the server
+[Wed May 20 13:43:11 2026] <STEAM_0:1:923042528> Pioner: Внимание на квадрат: I9
+[Wed May 20 13:43:12 2026] <STEAM_0:1:923042528> Pioner: Внимание на квадрат: I9
+[Wed May 20 13:49:17 2026] Player "david280911" <STEAM_0:1:839860057> has left the server
+[Wed May 20 13:51:17 2026] Player "Pioner" <STEAM_0:1:923042528> has left the server
+[Wed May 20 15:46:07 2026] Player "mb100" <STEAM_0:1:931618895> is attempting to connect.
+[Wed May 20 16:30:41 2026] Player "xand3r.mendonca" <STEAM_0:1:783803158> is attempting to connect.
+[Wed May 20 19:51:19 2026] Player "ivaslipknot" <STEAM_0:1:48959226> is attempting to connect.
+[Wed May 20 20:20:00 2026] Player "marina310824" <STEAM_0:1:902575649> is attempting to connect.
+[Wed May 20 20:21:03 2026] Player "marina310824" <STEAM_0:1:902575649> has spawned in the server
+[Wed May 20 20:22:29 2026] Player "marina310824" <STEAM_0:1:902575649> has left the server

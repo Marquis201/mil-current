@@ -1,0 +1,118 @@
+[Wed Apr 29 08:37:15 2026] Player "kishibe supremacy" <STEAM_0:0:203916137> is attempting to connect.
+[Wed Apr 29 08:44:32 2026] Player "kishibe supremacy" <STEAM_0:0:203916137> has spawned in the server
+[Wed Apr 29 09:08:38 2026] Player "kishibe supremacy" <STEAM_0:0:203916137> has left the server
+[Wed Apr 29 11:41:03 2026] Player "爪ㄚれ丹爪モ工れ" <STEAM_0:0:900183008> is attempting to connect.
+[Wed Apr 29 12:04:00 2026] Player "爪ㄚれ丹爪モ工れ" <STEAM_0:0:900183008> has spawned in the server
+[Wed Apr 29 12:05:23 2026] Player "C2H5OH в Крови" <STEAM_0:1:500418219> is attempting to connect.
+[Wed Apr 29 12:07:09 2026] Player "爪ㄚれ丹爪モ工れ" <STEAM_0:0:900183008> has left the server
+[Wed Apr 29 12:15:19 2026] Player "C2H5OH в Крови" <STEAM_0:1:500418219> has spawned in the server
+[Wed Apr 29 12:18:01 2026] <STEAM_0:1:500418219> C2H5OH в Крови: Внимание на квадрат: G1
+[Wed Apr 29 12:18:01 2026] <STEAM_0:1:500418219> C2H5OH в Крови: Внимание на квадрат: G1
+[Wed Apr 29 12:21:55 2026] Player "C2H5OH в Крови" <STEAM_0:1:500418219> has left the server
+[Wed Apr 29 12:21:56 2026] Player "C2H5OH в Крови" <STEAM_0:1:500418219> is attempting to connect.
+[Wed Apr 29 12:22:40 2026] Player "C2H5OH в Крови" <STEAM_0:1:500418219> has spawned in the server
+[Wed Apr 29 12:30:15 2026] Player "C2H5OH в Крови" <STEAM_0:1:500418219> has left the server
+[Wed Apr 29 12:46:55 2026] Player "онет" <STEAM_0:0:578683948> is attempting to connect.
+[Wed Apr 29 12:48:49 2026] Player "Igruha" <STEAM_0:0:914720065> is attempting to connect.
+[Wed Apr 29 13:00:56 2026] Player "C2H5OH в Крови" <STEAM_0:1:500418219> is attempting to connect.
+[Wed Apr 29 13:02:07 2026] Player "C2H5OH в Крови" <STEAM_0:1:500418219> has spawned in the server
+[Wed Apr 29 13:04:41 2026] Player "C2H5OH в Крови" <STEAM_0:1:500418219> has left the server
+[Wed Apr 29 13:17:19 2026] Player "Primo_streloc" <STEAM_0:1:964631160> is attempting to connect.
+[Wed Apr 29 14:06:52 2026] Player "marina310824" <STEAM_0:1:902575649> is attempting to connect.
+[Wed Apr 29 14:07:51 2026] Player "marina310824" <STEAM_0:1:902575649> has spawned in the server
+[Wed Apr 29 14:09:30 2026] Player "marina310824" <STEAM_0:1:902575649> has left the server
+[Wed Apr 29 14:40:51 2026] Player "mafter_rg" <STEAM_0:1:928105782> is attempting to connect.
+[Wed Apr 29 15:48:22 2026] Player "termisters play" <STEAM_0:1:44333849> is attempting to connect.
+[Wed Apr 29 15:49:17 2026] Player "termisters play" <STEAM_0:1:44333849> has spawned in the server
+[Wed Apr 29 15:59:25 2026] Player "Discar" <STEAM_0:0:650470378> is attempting to connect.
+[Wed Apr 29 15:59:30 2026] Player "termisters play" <STEAM_0:1:44333849> has left the server
+[Wed Apr 29 16:00:16 2026] Player "Discar" <STEAM_0:0:650470378> has spawned in the server
+[Wed Apr 29 16:16:58 2026] Player "Discar" <STEAM_0:0:650470378> has left the server
+[Wed Apr 29 17:12:58 2026] Player "Casebook" <STEAM_0:0:585468466> is attempting to connect.
+[Wed Apr 29 17:14:54 2026] Player "Casebook" <STEAM_0:0:585468466> has spawned in the server
+[Wed Apr 29 17:16:56 2026] Player "Casebook" <STEAM_0:0:585468466> has left the server
+[Wed Apr 29 17:31:57 2026] Player "Белочка" <STEAM_0:1:411221606> is attempting to connect.
+[Wed Apr 29 17:33:30 2026] Player "Discar" <STEAM_0:0:650470378> is attempting to connect.
+[Wed Apr 29 17:53:42 2026] Player "Casebook" <STEAM_0:0:585468466> is attempting to connect.
+[Wed Apr 29 17:54:43 2026] Player "Casebook" <STEAM_0:0:585468466> has spawned in the server
+[Wed Apr 29 17:58:09 2026] Player "Mak" <STEAM_0:0:45305500> is attempting to connect.
+[Wed Apr 29 18:18:26 2026] Player "Casebook" <STEAM_0:0:585468466> is attempting to connect.
+[Wed Apr 29 18:21:42 2026] Player "Дегустатор пива" <STEAM_0:1:862887967> is attempting to connect.
+[Wed Apr 29 18:24:27 2026] Player "Millennio" <STEAM_0:1:223253650> is attempting to connect.
+[Wed Apr 29 18:25:25 2026] Player "MATIKANEFUKUKITARU" <STEAM_0:0:696873227> is attempting to connect.
+[Wed Apr 29 18:34:01 2026] Player "DEKO\ЧЕРЕМША" <STEAM_0:1:962183843> is attempting to connect.
+[Wed Apr 29 18:35:06 2026] Player "Дегустатор пива" <STEAM_0:1:862887967> is attempting to connect.
+[Wed Apr 29 18:36:04 2026] Player "Casebook" <STEAM_0:0:585468466> is attempting to connect.
+[Wed Apr 29 18:37:52 2026] Player "Casebook" <STEAM_0:0:585468466> is attempting to connect.
+[Wed Apr 29 18:39:55 2026] Player "好心人" <STEAM_0:0:808074113> is attempting to connect.
+[Wed Apr 29 18:40:09 2026] Player "Pioner" <STEAM_0:1:923042528> is attempting to connect.
+[Wed Apr 29 18:41:40 2026] Player "Casebook" <STEAM_0:0:585468466> is attempting to connect.
+[Wed Apr 29 18:44:40 2026] Player "Casebook" <STEAM_0:0:585468466> is attempting to connect.
+[Wed Apr 29 18:44:58 2026] Player "gREG4IK" <STEAM_0:1:455594560> is attempting to connect.
+[Wed Apr 29 18:49:54 2026] Player "Pioner" <STEAM_0:1:923042528> is attempting to connect.
+[Wed Apr 29 18:53:13 2026] Player "gREG4IK" <STEAM_0:1:455594560> is attempting to connect.
+[Wed Apr 29 18:57:16 2026] Player "𝗺𝟏𝗿𝗮𝗰𝗹𝗲" <STEAM_0:0:869238922> is attempting to connect.
+[Wed Apr 29 18:58:50 2026] Player "marina310824" <STEAM_0:1:902575649> is attempting to connect.
+[Wed Apr 29 19:02:13 2026] Player "Casebook" <STEAM_0:0:585468466> is attempting to connect.
+[Wed Apr 29 19:03:03 2026] Player "impotent" <STEAM_0:1:425612974> is attempting to connect.
+[Wed Apr 29 19:03:10 2026] Player "impotent" <STEAM_0:1:425612974> is attempting to connect.
+[Wed Apr 29 19:03:16 2026] Player "impotent" <STEAM_0:1:425612974> is attempting to connect.
+[Wed Apr 29 19:03:22 2026] Player "impotent" <STEAM_0:1:425612974> is attempting to connect.
+[Wed Apr 29 19:04:52 2026] Player "gREG4IK" <STEAM_0:1:455594560> is attempting to connect.
+[Wed Apr 29 19:05:11 2026] Player "Discar" <STEAM_0:0:650470378> is attempting to connect.
+[Wed Apr 29 19:11:05 2026] Player "Discar" <STEAM_0:0:650470378> is attempting to connect.
+[Wed Apr 29 19:11:12 2026] Player "gREG4IK" <STEAM_0:1:455594560> is attempting to connect.
+[Wed Apr 29 19:13:41 2026] Player "impotent" <STEAM_0:1:425612974> is attempting to connect.
+[Wed Apr 29 19:16:24 2026] Player "Discar" <STEAM_0:0:650470378> is attempting to connect.
+[Wed Apr 29 19:18:53 2026] Player "gREG4IK" <STEAM_0:1:455594560> is attempting to connect.
+[Wed Apr 29 19:20:33 2026] Player "impotent" <STEAM_0:1:425612974> is attempting to connect.
+[Wed Apr 29 19:27:09 2026] Player "gREG4IK" <STEAM_0:1:455594560> is attempting to connect.
+[Wed Apr 29 19:27:30 2026] Player "gREG4IK" <STEAM_0:1:455594560> is attempting to connect.
+[Wed Apr 29 19:34:32 2026] Player "gREG4IK" <STEAM_0:1:455594560> is attempting to connect.
+[Wed Apr 29 19:39:40 2026] Player "𝗺𝟏𝗿𝗮𝗰𝗹𝗲" <STEAM_0:0:869238922> is attempting to connect.
+[Wed Apr 29 19:44:51 2026] Player "BloodySmile" <STEAM_0:1:54838838> is attempting to connect.
+[Wed Apr 29 19:45:28 2026] Player "Pioner" <STEAM_0:1:923042528> is attempting to connect.
+[Wed Apr 29 19:50:57 2026] Player "Casebook" <STEAM_0:0:585468466> is attempting to connect.
+[Wed Apr 29 19:56:07 2026] Player "Discar" <STEAM_0:0:650470378> is attempting to connect.
+[Wed Apr 29 20:07:09 2026] Player "OZOR" <STEAM_0:0:85754053> has spawned in the server
+[Wed Apr 29 20:22:36 2026] Player "OZOR" <STEAM_0:0:85754053> has spawned in the server
+[Wed Apr 29 20:23:49 2026] <STEAM_0:0:85754053> OZOR: /name Озор
+[Wed Apr 29 20:23:57 2026] <STEAM_0:0:85754053> OZOR: !name Озор
+[Wed Apr 29 20:28:07 2026] Player "Discar" <STEAM_0:0:650470378> is attempting to connect.
+[Wed Apr 29 20:28:47 2026] Player "Discar" <STEAM_0:0:650470378> has spawned in the server
+[Wed Apr 29 20:35:35 2026] Player "gREG4IK" <STEAM_0:1:455594560> is attempting to connect.
+[Wed Apr 29 20:36:54 2026] Player "gREG4IK" <STEAM_0:1:455594560> has spawned in the server
+[Wed Apr 29 20:37:44 2026] <STEAM_0:1:455594560> gREG4IK ran command "goto Озор"
+[Wed Apr 29 20:38:37 2026] Player "Casebook" <STEAM_0:0:585468466> is attempting to connect.
+[Wed Apr 29 20:40:00 2026] Player "Casebook" <STEAM_0:0:585468466> has spawned in the server
+[Wed Apr 29 20:41:49 2026] Player "| 5ITER_P0N |" <STEAM_0:1:864066085> is attempting to connect.
+[Wed Apr 29 20:45:20 2026] <STEAM_0:1:455594560> gREG4IK: а
+[Wed Apr 29 20:45:22 2026] <STEAM_0:1:455594560> gREG4IK: а
+[Wed Apr 29 20:45:23 2026] <STEAM_0:1:455594560> gREG4IK: б
+[Wed Apr 29 20:45:52 2026] Player "impotent" <STEAM_0:1:425612974> is attempting to connect.
+[Wed Apr 29 20:47:18 2026] Player "impotent" <STEAM_0:1:425612974> has spawned in the server
+[Wed Apr 29 20:48:38 2026] <STEAM_0:0:650470378> Discar: Ник обычный с позывным
+[Wed Apr 29 20:48:43 2026] <STEAM_0:0:650470378> Discar: Ник обычный с позывным
+[Wed Apr 29 20:48:52 2026] <STEAM_0:0:650470378> Discar: гоуст
+[Wed Apr 29 20:51:39 2026] <STEAM_0:1:455594560> gREG4IK ran command "goto Дискаров"
+[Wed Apr 29 20:51:45 2026] Player "Fernández" <STEAM_0:0:79873507> is attempting to connect.
+[Wed Apr 29 20:52:33 2026] Player "Fernández" <STEAM_0:0:79873507> has spawned in the server
+[Wed Apr 29 20:53:27 2026] Player "Pro100_Filya" <STEAM_0:0:803102855> is attempting to connect.
+[Wed Apr 29 20:55:03 2026] Player "Pro100_Filya" <STEAM_0:0:803102855> has spawned in the server
+[Wed Apr 29 20:57:34 2026] <STEAM_0:1:425612974> impotent ran command "respawn Montgomery"
+[Wed Apr 29 20:59:26 2026] <STEAM_0:1:455594560> gREG4IK: /event Сервер Работает ШТАТНО
+[Wed Apr 29 20:59:51 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [842][npc_vj_re5_em81]"
+[Wed Apr 29 21:01:16 2026] Player "impotent" <STEAM_0:1:425612974> has left the server
+[Wed Apr 29 21:01:55 2026] Player "OZOR" <STEAM_0:0:85754053> has left the server
+[Wed Apr 29 21:02:06 2026] Player "Fernández" <STEAM_0:0:79873507> has left the server
+[Wed Apr 29 21:08:25 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [609][npc_combine_s]"
+[Wed Apr 29 21:08:26 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [698][npc_combine_s]"
+[Wed Apr 29 21:10:25 2026] Player "gREG4IK" <STEAM_0:1:455594560> has left the server
+[Wed Apr 29 21:10:50 2026] <STEAM_0:0:803102855> Pro100_Filya: /ooc администрация возьмите тикет :pleading_face:
+[Wed Apr 29 21:15:37 2026] Player "dengalim" <STEAM_0:1:868357972> is attempting to connect.
+[Wed Apr 29 21:26:02 2026] Player "Discar" <STEAM_0:0:650470378> has left the server
+[Wed Apr 29 21:27:52 2026] Player "Casebook" <STEAM_0:0:585468466> has left the server
+[Wed Apr 29 21:32:58 2026] Player "Pro100_Filya" <STEAM_0:0:803102855> has left the server
+[Wed Apr 29 23:39:38 2026] Player "BloodySmile" <STEAM_0:1:54838838> is attempting to connect.
+[Wed Apr 29 23:40:02 2026] Player "BloodySmile" <STEAM_0:1:54838838> has spawned in the server
+[Wed Apr 29 23:42:30 2026] Player "BloodySmile" <STEAM_0:1:54838838> has left the server

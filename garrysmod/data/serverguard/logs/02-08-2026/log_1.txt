@@ -1,0 +1,346 @@
+[Sun Feb  8 00:48:20 2026] Player "tyla2011" <STEAM_0:0:752710683> is attempting to connect.
+[Sun Feb  8 01:06:43 2026] Player "tyla2011" <STEAM_0:0:752710683> has spawned in the server
+[Sun Feb  8 01:08:52 2026] Player "tyla2011" <STEAM_0:0:752710683> has left the server
+[Sun Feb  8 11:47:02 2026] Player "Discar" <STEAM_0:0:650470378> is attempting to connect.
+[Sun Feb  8 11:48:19 2026] Player "Discar" <STEAM_0:0:650470378> has spawned in the server
+[Sun Feb  8 11:49:36 2026] Player "Drost" <STEAM_0:0:232646138> is attempting to connect.
+[Sun Feb  8 11:53:05 2026] Player "★☾₳ⱤØ₦₦ł₭☽★" <STEAM_0:0:456016030> is attempting to connect.
+[Sun Feb  8 11:54:37 2026] Player "George Ganja" <STEAM_0:1:581906703> is attempting to connect.
+[Sun Feb  8 11:55:56 2026] Player "★☾₳ⱤØ₦₦ł₭☽★" <STEAM_0:0:456016030> has spawned in the server
+[Sun Feb  8 12:00:13 2026] Player "Drost" <STEAM_0:0:232646138> has spawned in the server
+[Sun Feb  8 12:01:59 2026] Player "Drost" <STEAM_0:0:232646138> has left the server
+[Sun Feb  8 12:02:03 2026] Player "Drost" <STEAM_0:0:232646138> is attempting to connect.
+[Sun Feb  8 12:02:33 2026] Player "l3320933" <STEAM_0:1:414732433> is attempting to connect.
+[Sun Feb  8 12:04:18 2026] Player "Drost" <STEAM_0:0:232646138> has spawned in the server
+[Sun Feb  8 12:06:11 2026] Player "George Ganja" <STEAM_0:1:581906703> has spawned in the server
+[Sun Feb  8 12:07:14 2026] Player "❤КоТоПёС❤" <STEAM_0:1:707644118> is attempting to connect.
+[Sun Feb  8 12:07:43 2026] Player "George Ganja" <STEAM_0:1:581906703> has left the server
+[Sun Feb  8 12:09:54 2026] Player "l3320933" <STEAM_0:1:414732433> has spawned in the server
+[Sun Feb  8 12:10:17 2026] Player "Nikita/Sasha" <STEAM_0:0:139939558> is attempting to connect.
+[Sun Feb  8 12:10:34 2026] Player "l3320933" <STEAM_0:1:414732433> has left the server
+[Sun Feb  8 12:12:52 2026] Player "BloodySmile" <STEAM_0:1:54838838> is attempting to connect.
+[Sun Feb  8 12:13:59 2026] Player "BloodySmile" <STEAM_0:1:54838838> has spawned in the server
+[Sun Feb  8 12:14:16 2026] <STEAM_0:1:54838838> BloodySmile ran command "goto Ханоев"
+[Sun Feb  8 12:14:23 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc выдай призывнику пулеметчика
+[Sun Feb  8 12:15:48 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [570][lvs_wheeldrive_rp_dabrams_m1a1]"
+[Sun Feb  8 12:16:44 2026] Player "ЛОМИК" <STEAM_0:1:576585521> is attempting to connect.
+[Sun Feb  8 12:20:08 2026] Player "ЛОМИК" <STEAM_0:1:576585521> has spawned in the server
+[Sun Feb  8 12:20:54 2026] Player "Nikita/Sasha" <STEAM_0:0:139939558> has spawned in the server
+[Sun Feb  8 12:21:36 2026] Player "❤КоТоПёС❤" <STEAM_0:1:707644118> has spawned in the server
+[Sun Feb  8 12:22:19 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc выдай беляеву стрелка
+[Sun Feb  8 12:22:52 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: ща , дискаров
+[Sun Feb  8 12:23:00 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc Кедр
+[Sun Feb  8 12:23:07 2026] <STEAM_0:0:650470378> Discar: /ooc сор за афк
+[Sun Feb  8 12:23:13 2026] <STEAM_0:1:54838838> BloodySmile ran command "goto Ханоев"
+[Sun Feb  8 12:23:21 2026] <STEAM_0:1:54838838> BloodySmile: /l ryr
+[Sun Feb  8 12:23:24 2026] Player "Nikita/Sasha" <STEAM_0:0:139939558> has left the server
+[Sun Feb  8 12:23:31 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc Беляева в стрекли
+[Sun Feb  8 12:23:33 2026] <STEAM_0:1:54838838> BloodySmile: /l тут
+[Sun Feb  8 12:24:05 2026] Player "❤КоТоПёС❤" <STEAM_0:1:707644118> has left the server
+[Sun Feb  8 12:24:11 2026] <STEAM_0:1:576585521> ЛОМИК: не выдержал
+[Sun Feb  8 12:26:47 2026] <STEAM_0:1:576585521> ЛОМИК: дави
+[Sun Feb  8 12:26:57 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [579][bodygroup]"
+[Sun Feb  8 12:27:08 2026] <STEAM_0:1:576585521> ЛОМИК: обратно
+[Sun Feb  8 12:28:07 2026] <STEAM_0:1:576585521> ЛОМИК: влево
+[Sun Feb  8 12:31:46 2026] <STEAM_0:1:576585521> ЛОМИК: /rf стреляем по солдатам у которых на спине "Военная полиция"
+[Sun Feb  8 12:31:58 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /rf я тебе пиздюлей дам, Рядовой Романов
+[Sun Feb  8 12:32:17 2026] <STEAM_0:0:650470378> Discar: /rf Что у вас там блять происходит?
+[Sun Feb  8 12:32:23 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /rf проводим рейд
+[Sun Feb  8 12:32:58 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [579][armor_take]"
+[Sun Feb  8 12:33:22 2026] <STEAM_0:0:650470378> Discar: /rf Если проебешься с салагами то ты лох Ханоев.
+[Sun Feb  8 12:33:31 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /rf я тебе тоже пиздюлей дам
+[Sun Feb  8 12:34:20 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [588][sw_gaz2330_kord]"
+[Sun Feb  8 12:34:55 2026] <STEAM_0:1:576585521> ЛОМИК: так точно
+[Sun Feb  8 12:35:08 2026] Player "Drost" <STEAM_0:0:232646138> has left the server
+[Sun Feb  8 12:36:15 2026] Discar has killed Discar.
+[Sun Feb  8 12:37:19 2026] <STEAM_0:1:54838838> BloodySmile: /com dead...
+[Sun Feb  8 12:37:43 2026] BloodySmile has killed ★☾₳ⱤØ₦₦ł₭☽★.
+[Sun Feb  8 12:38:03 2026] <STEAM_0:1:54838838> BloodySmile spawned SWEP "Weapon [510][tfa_fas2_ifak]"
+[Sun Feb  8 12:38:37 2026] BloodySmile has killed Discar.
+[Sun Feb  8 12:38:51 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /rf выорота откройте
+[Sun Feb  8 12:39:59 2026] <STEAM_0:1:54838838> BloodySmile: /ooc  ханоев у тебя взрывы норм?
+[Sun Feb  8 12:40:08 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc норм
+[Sun Feb  8 12:41:31 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /rf ДИСКАРОВ
+[Sun Feb  8 12:41:35 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /rf В МАШИНУ
+[Sun Feb  8 12:41:59 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [551][sw_rocket_9m17m_v3]"
+[Sun Feb  8 12:42:00 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [568][sw_rocket_9m17m_v3]"
+[Sun Feb  8 12:42:03 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [551][sw_rocket_9m17m_v3]"
+[Sun Feb  8 12:42:14 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [551][sw_rocket_9m17m_v3]"
+[Sun Feb  8 12:42:16 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [568][sw_rocket_9m17m_v3]"
+[Sun Feb  8 12:42:36 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [520][sw_rocket_9m17m_v3]"
+[Sun Feb  8 12:45:24 2026] Player "★☾₳ⱤØ₦₦ł₭☽★" <STEAM_0:0:456016030> has left the server
+[Sun Feb  8 12:47:36 2026] worldspawn has killed BloodySmile.
+[Sun Feb  8 12:51:27 2026] Player "Discar" <STEAM_0:0:650470378> has left the server
+[Sun Feb  8 13:02:22 2026] Player "ЛОМИК" <STEAM_0:1:576585521> has left the server
+[Sun Feb  8 13:02:51 2026] Player "BloodySmile" <STEAM_0:1:54838838> has left the server
+[Sun Feb  8 13:08:37 2026] Player "G○SP○DIN" <STEAM_0:1:188836584> is attempting to connect.
+[Sun Feb  8 13:13:03 2026] Player "gREG4IK" <STEAM_0:1:455594560> is attempting to connect.
+[Sun Feb  8 13:14:54 2026] Player "gREG4IK" <STEAM_0:1:455594560> has spawned in the server
+[Sun Feb  8 13:19:56 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [513][lvs_wheeldrive_hummer_mk19]"
+[Sun Feb  8 13:20:25 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [513][sw_gaz2330_ags30]"
+[Sun Feb  8 13:26:06 2026] <STEAM_0:1:455594560> gREG4IK ran command "model ^ models/dorkports/callofduty/aw/characters/multiplayer/sentinel_recon.mdl"
+[Sun Feb  8 13:26:46 2026] Player "gREG4IK" <STEAM_0:1:455594560> has left the server
+[Sun Feb  8 13:32:16 2026] Player "gREG4IK" <STEAM_0:1:455594560> is attempting to connect.
+[Sun Feb  8 13:33:06 2026] Player "gREG4IK" <STEAM_0:1:455594560> has spawned in the server
+[Sun Feb  8 13:45:27 2026] Player "akuma" <STEAM_0:0:651569515> is attempting to connect.
+[Sun Feb  8 14:16:11 2026] gREG4IK has killed gREG4IK.
+[Sun Feb  8 14:16:17 2026] <STEAM_0:1:455594560> gREG4IK ran command "respawn ^"
+[Sun Feb  8 14:16:23 2026] <STEAM_0:1:455594560> gREG4IK: /DONATE
+[Sun Feb  8 14:16:26 2026] <STEAM_0:1:455594560> gREG4IK: /donate
+[Sun Feb  8 14:18:15 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "NPC [517][npc_igs]"
+[Sun Feb  8 14:21:55 2026] Player "gREG4IK" <STEAM_0:1:455594560> has left the server
+[Sun Feb  8 14:21:59 2026] Player "gREG4IK" <STEAM_0:1:455594560> is attempting to connect.
+[Sun Feb  8 14:23:31 2026] Player "gREG4IK" <STEAM_0:1:455594560> has spawned in the server
+[Sun Feb  8 14:31:46 2026] Player "gREG4IK" <STEAM_0:1:455594560> is attempting to connect.
+[Sun Feb  8 14:32:28 2026] Player "gREG4IK" <STEAM_0:1:455594560> has spawned in the server
+[Sun Feb  8 14:33:03 2026] Player "ma1vnI" <STEAM_0:0:80956828> is attempting to connect.
+[Sun Feb  8 14:44:07 2026] npc_combine_s has killed gREG4IK.
+[Sun Feb  8 14:45:02 2026] Player "gREG4IK" <STEAM_0:1:455594560> has left the server
+[Sun Feb  8 14:47:12 2026] Player "★☾₳ⱤØ₦₦ł₭☽★" <STEAM_0:0:456016030> is attempting to connect.
+[Sun Feb  8 14:48:39 2026] Player "★☾₳ⱤØ₦₦ł₭☽★" <STEAM_0:0:456016030> has spawned in the server
+[Sun Feb  8 14:49:08 2026] Player "Discar" <STEAM_0:0:650470378> is attempting to connect.
+[Sun Feb  8 14:49:51 2026] Player "Discar" <STEAM_0:0:650470378> has spawned in the server
+[Sun Feb  8 14:54:09 2026] Player "Juk" <STEAM_0:0:586457449> is attempting to connect.
+[Sun Feb  8 14:56:44 2026] Player "Juk" <STEAM_0:0:586457449> has spawned in the server
+[Sun Feb  8 14:57:43 2026] <STEAM_0:0:586457449> Juk: ты как одет овощь бляит
+[Sun Feb  8 14:57:55 2026] <STEAM_0:0:650470378> Discar: Обычно
+[Sun Feb  8 14:58:02 2026] <STEAM_0:0:586457449> Juk: хуя ты не спишь
+[Sun Feb  8 14:58:35 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: нет
+[Sun Feb  8 14:59:20 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: нет
+[Sun Feb  8 14:59:25 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: давай
+[Sun Feb  8 15:00:10 2026] worldspawn has killed ★☾₳ⱤØ₦₦ł₭☽★.
+[Sun Feb  8 15:00:10 2026] worldspawn has killed Discar.
+[Sun Feb  8 15:00:28 2026] <STEAM_0:0:650470378> Discar: бля не пробивает
+[Sun Feb  8 15:00:33 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: бля не работает
+[Sun Feb  8 15:00:36 2026] <STEAM_0:0:650470378> Discar: АГС
+[Sun Feb  8 15:01:26 2026] ★☾₳ⱤØ₦₦ł₭☽★ has killed Juk.
+[Sun Feb  8 15:01:27 2026] Juk has killed Juk.
+[Sun Feb  8 15:01:35 2026] ★☾₳ⱤØ₦₦ł₭☽★ has killed Discar.
+[Sun Feb  8 15:01:36 2026] Discar has killed Discar.
+[Sun Feb  8 15:03:01 2026] ★☾₳ⱤØ₦₦ł₭☽★ has killed Juk.
+[Sun Feb  8 15:03:01 2026] Juk has killed Juk.
+[Sun Feb  8 15:03:40 2026] Discar has killed Juk.
+[Sun Feb  8 15:04:00 2026] Discar has killed Juk.
+[Sun Feb  8 15:04:01 2026] Discar has killed ★☾₳ⱤØ₦₦ł₭☽★.
+[Sun Feb  8 15:04:01 2026] ★☾₳ⱤØ₦₦ł₭☽★ has killed ★☾₳ⱤØ₦₦ł₭☽★.
+[Sun Feb  8 15:04:33 2026] Discar has killed Juk.
+[Sun Feb  8 15:04:34 2026] Juk has killed Juk.
+[Sun Feb  8 15:05:23 2026] ★☾₳ⱤØ₦₦ł₭☽★ has killed Discar.
+[Sun Feb  8 15:06:02 2026] Juk has killed Discar.
+[Sun Feb  8 15:06:45 2026] Juk has killed Discar.
+[Sun Feb  8 15:06:56 2026] ★☾₳ⱤØ₦₦ł₭☽★ has killed Juk.
+[Sun Feb  8 15:07:35 2026] ★☾₳ⱤØ₦₦ł₭☽★ has killed ★☾₳ⱤØ₦₦ł₭☽★.
+[Sun Feb  8 15:07:53 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: мда
+[Sun Feb  8 15:07:56 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: ашс
+[Sun Feb  8 15:07:59 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: агс и тш
+[Sun Feb  8 15:09:40 2026] ★☾₳ⱤØ₦₦ł₭☽★ has killed Discar.
+[Sun Feb  8 15:10:57 2026] Player "Mr.Monolith" <STEAM_0:1:47931114> is attempting to connect.
+[Sun Feb  8 15:12:06 2026] Player "Mr.Monolith" <STEAM_0:1:47931114> has spawned in the server
+[Sun Feb  8 15:12:36 2026] ★☾₳ⱤØ₦₦ł₭☽★ has killed ★☾₳ⱤØ₦₦ł₭☽★.
+[Sun Feb  8 15:13:47 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc где твы
+[Sun Feb  8 15:14:57 2026] <STEAM_0:0:586457449> Juk: /ooc ебать а как..
+[Sun Feb  8 15:15:03 2026] <STEAM_0:0:586457449> Juk: /rf дезертиры ебанные
+[Sun Feb  8 15:15:08 2026] <STEAM_0:0:586457449> Juk: /rf выпустите из кпз
+[Sun Feb  8 15:15:18 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /rf я дискарова поймаю и выпущу
+[Sun Feb  8 15:15:25 2026] <STEAM_0:0:586457449> Juk: /rf хуя
+[Sun Feb  8 15:15:47 2026] <STEAM_0:0:586457449> Juk: /rf ебать а когда..ладно сек
+[Sun Feb  8 15:15:56 2026] <STEAM_0:0:586457449> Juk: /ooc хамса мой любимый тепнись
+[Sun Feb  8 15:16:16 2026] <STEAM_0:0:586457449> Juk: /ooc у меня пару миллионов вопросов
+[Sun Feb  8 15:16:51 2026] <STEAM_0:1:47931114> Mr.Monolith: // Мне еще права не дали
+[Sun Feb  8 15:17:04 2026] <STEAM_0:1:47931114> Mr.Monolith: // И я официально не в РФ
+[Sun Feb  8 15:17:28 2026] <STEAM_0:0:650470378> Discar: /rf По беспределу оформляете
+[Sun Feb  8 15:17:54 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /rf ВНИМАНИЕ! МЛАДШИЙ СЕРЖАНТ ДИСКАРОВ ОБЪЯВЛЯЕТСЯ ИНОСТРАННЫМ АГЕНТОМ ПО УКАЗУ ГЛАВНОГО УПРАВЛЕНИЯ ВОЙСКАМИ РФ
+[Sun Feb  8 15:19:38 2026] Player "gREG4IK" <STEAM_0:1:455594560> is attempting to connect.
+[Sun Feb  8 15:20:52 2026] <STEAM_0:0:586457449> Juk: /rf по статьям 275 УК РФ, 338 УК РФ 276 УК РФ 335 УК РФ объявлен в розыск сержант 68 го гвардейского полка
+[Sun Feb  8 15:21:02 2026] <STEAM_0:0:586457449> Juk: /rf дискаров
+[Sun Feb  8 15:21:04 2026] Player "gREG4IK" <STEAM_0:1:455594560> has spawned in the server
+[Sun Feb  8 15:22:23 2026] <STEAM_0:1:455594560> gREG4IK: /com Жалкие русские...
+[Sun Feb  8 15:22:37 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [787][tfa_ins2_mk18]"
+[Sun Feb  8 15:22:38 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [788][tfa_ins2_mk18]"
+[Sun Feb  8 15:22:38 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [789][tfa_ins2_mk18]"
+[Sun Feb  8 15:22:38 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [790][tfa_ins2_mk18]"
+[Sun Feb  8 15:22:38 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [791][tfa_ins2_mk18]"
+[Sun Feb  8 15:22:41 2026] <STEAM_0:0:586457449> Juk: /com пошел нахуй толстый американец
+[Sun Feb  8 15:22:45 2026] <STEAM_0:0:650470378> Discar: /com Удачи в поисках
+[Sun Feb  8 15:23:06 2026] <STEAM_0:1:455594560> gREG4IK ran command "rank Хамсов founder 0"
+[Sun Feb  8 15:23:09 2026] <STEAM_0:1:455594560> gREG4IK ran command "send Хамсов"
+[Sun Feb  8 15:23:52 2026] worldspawn has killed Discar.
+[Sun Feb  8 15:24:06 2026] <STEAM_0:0:650470378> Discar: /ooc Все я разбился
+[Sun Feb  8 15:24:08 2026] Juk has killed Juk.
+[Sun Feb  8 15:25:30 2026] <STEAM_0:1:47931114> Mr.Monolith ran command "noclip Хамсов"
+[Sun Feb  8 15:25:30 2026] <STEAM_0:1:47931114> Mr.Monolith ran command "noclip Хамсов"
+[Sun Feb  8 15:26:25 2026] <STEAM_0:0:586457449> Juk: /rf все обвинения с дискарова сняты
+[Sun Feb  8 15:26:35 2026] <STEAM_0:1:455594560> gREG4IK ran command "send Хамсов"
+[Sun Feb  8 15:26:43 2026] <STEAM_0:0:586457449> Juk: /com слыште толстые американцы
+[Sun Feb  8 15:26:58 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [582][bodygroup]"
+[Sun Feb  8 15:26:59 2026] <STEAM_0:0:586457449> Juk: /com вам стрелу в городе забиваем
+[Sun Feb  8 15:27:40 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [632][sw_matv_m2]"
+[Sun Feb  8 15:28:16 2026] <STEAM_0:1:47931114> Mr.Monolith spawned SENT "Entity [790][armor_take]"
+[Sun Feb  8 15:28:34 2026] <STEAM_0:1:47931114> Mr.Monolith ran command "noclip Хамсов"
+[Sun Feb  8 15:28:36 2026] <STEAM_0:1:47931114> Mr.Monolith ran command "noclip Хамсов"
+[Sun Feb  8 15:29:09 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [560][sw_rocket_4k40_v3]"
+[Sun Feb  8 15:29:13 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [560][sw_rocket_4k40_v3]"
+[Sun Feb  8 15:29:28 2026] <STEAM_0:1:455594560> gREG4IK: /nato Садись хули ы
+[Sun Feb  8 15:29:30 2026] <STEAM_0:1:455594560> gREG4IK: /nato Садись хули ты
+[Sun Feb  8 15:29:40 2026] <STEAM_0:1:455594560> gREG4IK: рули
+[Sun Feb  8 15:29:42 2026] <STEAM_0:0:586457449> Juk: /rp осмотрел тело неизвестного
+[Sun Feb  8 15:29:43 2026] <STEAM_0:1:455594560> gREG4IK: в город
+[Sun Feb  8 15:29:55 2026] <STEAM_0:0:586457449> Juk: /rp опозновательные знаки..патчи?
+[Sun Feb  8 15:30:32 2026] <STEAM_0:0:586457449> Juk: /rf нашело ли докуметы?
+[Sun Feb  8 15:30:37 2026] <STEAM_0:1:455594560> gREG4IK: к городу
+[Sun Feb  8 15:30:40 2026] <STEAM_0:0:586457449> Juk: /rp нашел ли докумменты?
+[Sun Feb  8 15:31:49 2026] <STEAM_0:1:455594560> gREG4IK: центральный город
+[Sun Feb  8 15:31:52 2026] ★☾₳ⱤØ₦₦ł₭☽★ has killed Mr.Monolith.
+[Sun Feb  8 15:31:52 2026] ★☾₳ⱤØ₦₦ł₭☽★ has killed gREG4IK.
+[Sun Feb  8 15:32:00 2026] <STEAM_0:1:455594560> gREG4IK: /ooc четко в цель)
+[Sun Feb  8 15:32:38 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [604][item_suit]"
+[Sun Feb  8 15:32:42 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [604][npc_grenade_frag]"
+[Sun Feb  8 15:32:43 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [610][item_suit]"
+[Sun Feb  8 15:32:47 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [604][item_suitcharger]"
+[Sun Feb  8 15:32:49 2026] <STEAM_0:1:47931114> Mr.Monolith: /l Откат
+[Sun Feb  8 15:32:49 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [610][item_battery]"
+[Sun Feb  8 15:32:50 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [613][item_battery]"
+[Sun Feb  8 15:32:50 2026] ★☾₳ⱤØ₦₦ł₭☽★ has killed ★☾₳ⱤØ₦₦ł₭☽★.
+[Sun Feb  8 15:32:50 2026] ★☾₳ⱤØ₦₦ł₭☽★ has killed Juk.
+[Sun Feb  8 15:32:50 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [633][item_battery]"
+[Sun Feb  8 15:32:50 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [634][item_battery]"
+[Sun Feb  8 15:32:51 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [395][item_battery]"
+[Sun Feb  8 15:32:51 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [398][item_battery]"
+[Sun Feb  8 15:32:51 2026] <STEAM_0:1:47931114> Mr.Monolith: /l Откат
+[Sun Feb  8 15:32:51 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [511][item_battery]"
+[Sun Feb  8 15:32:53 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [395][item_battery]"
+[Sun Feb  8 15:32:53 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [398][item_battery]"
+[Sun Feb  8 15:32:54 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [395][item_battery]"
+[Sun Feb  8 15:33:01 2026] <STEAM_0:0:586457449> Juk: /ooc ханоев БЛЯТЬ
+[Sun Feb  8 15:33:18 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc так я сам себя захуярил
+[Sun Feb  8 15:33:31 2026] <STEAM_0:1:47931114> Mr.Monolith: // А я сбежал xD
+[Sun Feb  8 15:34:12 2026] <STEAM_0:1:455594560> gREG4IK: /event Внимания сторона не захватывается рядом враг.
+[Sun Feb  8 15:35:05 2026] <STEAM_0:1:47931114> Mr.Monolith: /nato Я сбежал, иду на базу
+[Sun Feb  8 15:35:13 2026] gREG4IK has killed Juk.
+[Sun Feb  8 15:35:13 2026] gREG4IK has killed ★☾₳ⱤØ₦₦ł₭☽★.
+[Sun Feb  8 15:35:20 2026] gREG4IK has killed Discar.
+[Sun Feb  8 15:35:20 2026] Discar has killed Discar.
+[Sun Feb  8 15:35:23 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc кто овощ
+[Sun Feb  8 15:35:30 2026] <STEAM_0:0:586457449> Juk: /ooc мы
+[Sun Feb  8 15:36:00 2026] <STEAM_0:1:455594560> gREG4IK: /ooc гении
+[Sun Feb  8 15:37:59 2026] ★☾₳ⱤØ₦₦ł₭☽★ has killed gREG4IK.
+[Sun Feb  8 15:38:07 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /rf убил на цг едь
+[Sun Feb  8 15:38:47 2026] <STEAM_0:1:47931114> Mr.Monolith: /nato Открой ворота
+[Sun Feb  8 15:39:06 2026] Player "ФИКУС" <STEAM_0:1:918290974> is attempting to connect.
+[Sun Feb  8 15:40:25 2026] <STEAM_0:0:586457449> Juk: /me открыл двери и посадил капитана грега на сидение
+[Sun Feb  8 15:42:11 2026] Player "1000-7?" <STEAM_0:0:452129016> is attempting to connect.
+[Sun Feb  8 15:42:54 2026] <STEAM_0:0:586457449> Juk: /me снял одну часть наручников и приковал к решетке
+[Sun Feb  8 15:43:07 2026] <STEAM_0:0:586457449> Juk: /me забрал средства связи и оружие
+[Sun Feb  8 15:43:28 2026] <STEAM_0:1:47931114> Mr.Monolith ran command "noclip SGM | Castle"
+[Sun Feb  8 15:43:29 2026] <STEAM_0:1:47931114> Mr.Monolith ran command "noclip SGM | Castle"
+[Sun Feb  8 15:43:53 2026] <STEAM_0:1:47931114> Mr.Monolith ran command "spectate Cpt|Greg"
+[Sun Feb  8 15:44:09 2026] <STEAM_0:0:586457449> Juk: /me снял наручник с решетки и заковал обе руки
+[Sun Feb  8 15:44:14 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /rf на базу
+[Sun Feb  8 15:44:23 2026] <STEAM_0:0:586457449> Juk: /com капитан грег у нас
+[Sun Feb  8 15:44:38 2026] <STEAM_0:0:586457449> Juk: /rf открой кпз
+[Sun Feb  8 15:44:50 2026] ★☾₳ⱤØ₦₦ł₭☽★ has killed Juk.
+[Sun Feb  8 15:44:50 2026] ★☾₳ⱤØ₦₦ł₭☽★ has killed gREG4IK.
+[Sun Feb  8 15:44:56 2026] <STEAM_0:0:586457449> Juk: /ooc ОВОЩЬ БЛЯТЬ
+[Sun Feb  8 15:45:05 2026] <STEAM_0:1:47931114> Mr.Monolith ran command "respawn SGM | Castle"
+[Sun Feb  8 15:45:42 2026] <STEAM_0:0:586457449> Juk: /com ваш капитан у нас
+[Sun Feb  8 15:45:54 2026] <STEAM_0:1:47931114> Mr.Monolith: // Ну пизда, вы мне игру забагали :с
+[Sun Feb  8 15:46:03 2026] <STEAM_0:0:586457449> Juk: /ooc че случилось родной
+[Sun Feb  8 15:46:31 2026] <STEAM_0:1:47931114> Mr.Monolith: // Ну вы меня повязали, я убежал. А руки то мне хер кто развяжет, я переродился, а руки связаны xD
+[Sun Feb  8 15:46:42 2026] <STEAM_0:0:586457449> Juk: /ooc тепайся
+[Sun Feb  8 15:46:50 2026] <STEAM_0:1:47931114> Mr.Monolith: // Не
+[Sun Feb  8 15:46:55 2026] Mr.Monolith has killed Mr.Monolith.
+[Sun Feb  8 15:46:55 2026] <STEAM_0:1:47931114> Mr.Monolith ran command "slay SGM | Castle"
+[Sun Feb  8 15:46:57 2026] <STEAM_0:0:586457449> Juk: /ooc та я развяжу
+[Sun Feb  8 15:47:04 2026] <STEAM_0:1:47931114> Mr.Monolith: // Ща я попробую кое-что
+[Sun Feb  8 15:47:11 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /rf ДИСКАРОВ ТЫ ГДЕ
+[Sun Feb  8 15:48:07 2026] <STEAM_0:0:586457449> Juk: /ooc кажется вы перепутали...я впшник а ханоев танковый полк
+[Sun Feb  8 15:48:40 2026] <STEAM_0:0:586457449> Juk: /rp передал капитана грега в ФСБ
+[Sun Feb  8 15:48:43 2026] Juk has killed gREG4IK.
+[Sun Feb  8 15:48:44 2026] gREG4IK has killed gREG4IK.
+[Sun Feb  8 15:51:13 2026] <STEAM_0:0:586457449> Juk: /me вытащил дискарова и прижал ногой к земле заломал руки и одел на них наручникпи
+[Sun Feb  8 15:51:26 2026] <STEAM_0:0:586457449> Juk: дискаров
+[Sun Feb  8 15:52:25 2026] <STEAM_0:0:586457449> Juk: ПОСЛЕДНЕЕ ПРЕДУПРЕЖДЕНИЕ
+[Sun Feb  8 15:52:49 2026] <STEAM_0:0:586457449> Juk: /rf цг дискаров
+[Sun Feb  8 15:54:30 2026] <STEAM_0:0:586457449> Juk: /ooc откат
+[Sun Feb  8 15:54:40 2026] <STEAM_0:0:586457449> Juk: /rf я усну
+[Sun Feb  8 15:55:44 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: р
+[Sun Feb  8 15:56:45 2026] Player "Juk" <STEAM_0:0:586457449> has left the server
+[Sun Feb  8 15:58:37 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: р
+[Sun Feb  8 15:59:31 2026] <STEAM_0:0:650470378> Discar: /rf Что потеряли меня?
+[Sun Feb  8 16:02:38 2026] Player "impotent" <STEAM_0:1:425612974> is attempting to connect.
+[Sun Feb  8 16:03:30 2026] <STEAM_0:0:650470378> Discar: /ooc Я перевез 25кг кокайна
+[Sun Feb  8 16:04:06 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: п
+[Sun Feb  8 16:04:49 2026] Player "impotent" <STEAM_0:1:425612974> has spawned in the server
+[Sun Feb  8 16:07:50 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: выйдешь - убью
+[Sun Feb  8 16:08:08 2026] ★☾₳ⱤØ₦₦ł₭☽★ has killed Discar.
+[Sun Feb  8 16:09:08 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: бибизяна
+[Sun Feb  8 16:09:29 2026] <STEAM_0:0:650470378> Discar: /ooc Фу нонрпкоп
+[Sun Feb  8 16:09:54 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: где газик
+[Sun Feb  8 16:10:39 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /me включил макана
+[Sun Feb  8 16:10:46 2026] ★☾₳ⱤØ₦₦ł₭☽★ has killed Discar.
+[Sun Feb  8 16:10:46 2026] Discar has killed Discar.
+[Sun Feb  8 16:11:39 2026] ★☾₳ⱤØ₦₦ł₭☽★ has killed Discar.
+[Sun Feb  8 16:11:40 2026] Discar has killed Discar.
+[Sun Feb  8 16:12:19 2026] worldspawn has killed Discar.
+[Sun Feb  8 16:12:36 2026] worldspawn has killed Discar.
+[Sun Feb  8 16:13:37 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: неподчинение приказу
+[Sun Feb  8 16:16:18 2026] impotent has killed Discar.
+[Sun Feb  8 16:21:43 2026] impotent has killed Discar.
+[Sun Feb  8 16:22:43 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: п
+[Sun Feb  8 16:24:50 2026] Player "Discar" <STEAM_0:0:650470378> has left the server
+[Sun Feb  8 16:24:58 2026] Player "Mr.Monolith" <STEAM_0:1:47931114> has left the server
+[Sun Feb  8 16:28:42 2026] Player "impotent" <STEAM_0:1:425612974> has left the server
+[Sun Feb  8 16:45:05 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: ижп
+[Sun Feb  8 17:01:10 2026] ★☾₳ⱤØ₦₦ł₭☽★ has killed ★☾₳ⱤØ₦₦ł₭☽★.
+[Sun Feb  8 17:01:11 2026] Player "★☾₳ⱤØ₦₦ł₭☽★" <STEAM_0:0:456016030> has left the server
+[Sun Feb  8 17:23:39 2026] Player "Kurwa" <STEAM_0:0:411014888> is attempting to connect.
+[Sun Feb  8 17:26:04 2026] Player "Discar" <STEAM_0:0:650470378> is attempting to connect.
+[Sun Feb  8 17:26:59 2026] Player "Discar" <STEAM_0:0:650470378> has spawned in the server
+[Sun Feb  8 17:52:13 2026] Player "Zhenechka" <STEAM_0:0:114787793> is attempting to connect.
+[Sun Feb  8 17:53:49 2026] Player "Zhenechka" <STEAM_0:0:114787793> has spawned in the server
+[Sun Feb  8 17:58:22 2026] worldspawn has killed Zhenechka.
+[Sun Feb  8 17:59:19 2026] Player "impotent" <STEAM_0:1:425612974> is attempting to connect.
+[Sun Feb  8 18:01:15 2026] Player "impotent" <STEAM_0:1:425612974> has spawned in the server
+[Sun Feb  8 18:05:19 2026] Player "BloodySmile" <STEAM_0:1:54838838> is attempting to connect.
+[Sun Feb  8 18:06:13 2026] Player "BloodySmile" <STEAM_0:1:54838838> has spawned in the server
+[Sun Feb  8 18:08:02 2026] Player "Discar" <STEAM_0:0:650470378> has left the server
+[Sun Feb  8 18:08:05 2026] Player "tinexksov" <STEAM_0:0:736745661> is attempting to connect.
+[Sun Feb  8 18:08:48 2026] <STEAM_0:1:54838838> BloodySmile: /char
+[Sun Feb  8 18:14:03 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [392][sw_airdrop_v3]"
+[Sun Feb  8 18:14:23 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [392][sw_parachute_heavy_v3]"
+[Sun Feb  8 18:14:57 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [392][vehicles_sales]"
+[Sun Feb  8 18:19:25 2026] Player "miroslavbykov265" <STEAM_0:0:940241619> is attempting to connect.
+[Sun Feb  8 18:23:16 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [539][sw_bomb_ao1_v3]"
+[Sun Feb  8 18:23:20 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [539][sw_bomb_ao1_v3]"
+[Sun Feb  8 18:23:34 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [539][sw_bomb_ao1_v3]"
+[Sun Feb  8 18:23:41 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [539][sw_bomb_ao1_v3]"
+[Sun Feb  8 18:24:14 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [539][sw_bomb_ao1_v3]"
+[Sun Feb  8 18:24:17 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [539][sw_bomb_ao1_v3]"
+[Sun Feb  8 18:24:19 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [539][sw_bomb_ao1_v3]"
+[Sun Feb  8 18:24:26 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [539][sw_bomb_ao1_v3]"
+[Sun Feb  8 18:26:04 2026] <STEAM_0:0:114787793> Zhenechka: // я афк 5 мин
+[Sun Feb  8 18:27:22 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [392][prop_physics] (models/props_debris/walldestroyed06b.mdl)"
+[Sun Feb  8 18:27:24 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [539][prop_physics] (models/props_debris/plaster_wall002a.mdl)"
+[Sun Feb  8 18:27:34 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [392][prop_physics] (models/props_debris/windowdestroyed01a.mdl)"
+[Sun Feb  8 18:27:38 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [539][prop_physics] (models/props_debris/tile_wall001a_base.mdl)"
+[Sun Feb  8 18:27:40 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [539][prop_physics] (models/props_debris/concrete_section128wall001c.mdl)"
+[Sun Feb  8 18:27:52 2026] Player "silard87" <STEAM_0:1:414630400> is attempting to connect.
+[Sun Feb  8 18:28:32 2026] Player "silard87" <STEAM_0:1:414630400> has spawned in the server
+[Sun Feb  8 18:29:22 2026] Player "silard87" <STEAM_0:1:414630400> has left the server
+[Sun Feb  8 18:29:24 2026] Player "silard87" <STEAM_0:1:414630400> is attempting to connect.
+[Sun Feb  8 18:29:48 2026] Player "silard87" <STEAM_0:1:414630400> has spawned in the server
+[Sun Feb  8 18:30:07 2026] Player "silard87" <STEAM_0:1:414630400> has left the server
+[Sun Feb  8 18:32:51 2026] Player "BloodySmile" <STEAM_0:1:54838838> has left the server
+[Sun Feb  8 18:33:08 2026] Player "babaika1233213" <STEAM_0:0:951708306> is attempting to connect.
+[Sun Feb  8 18:37:38 2026] Player "miroslavbykov265" <STEAM_0:0:940241619> has spawned in the server
+[Sun Feb  8 18:39:50 2026] Player "babaika1233213" <STEAM_0:0:951708306> is attempting to connect.
+[Sun Feb  8 18:42:13 2026] Player "miroslavbykov265" <STEAM_0:0:940241619> has left the server
+[Sun Feb  8 18:53:20 2026] Player "impotent" <STEAM_0:1:425612974> has left the server
+[Sun Feb  8 18:55:51 2026] Player "Zhenechka" <STEAM_0:0:114787793> has left the server
+[Sun Feb  8 19:04:12 2026] Player "gREG4IK" <STEAM_0:1:455594560> has left the server
+[Sun Feb  8 21:10:27 2026] Player "Tio2k" <STEAM_0:0:393895213> is attempting to connect.
+[Sun Feb  8 21:13:18 2026] Player "masha03021987" <STEAM_0:0:389723860> is attempting to connect.
+[Sun Feb  8 21:13:27 2026] Player "masha03021987" <STEAM_0:0:389723860> is attempting to connect.
+[Sun Feb  8 23:32:46 2026] Player "danielfroloff" <STEAM_0:0:410362465> is attempting to connect.
+[Sun Feb  8 23:36:27 2026] Player "danielfroloff" <STEAM_0:0:410362465> is attempting to connect.
+[Sun Feb  8 23:53:39 2026] Player "Gen3ZiS" <STEAM_0:1:874251522> is attempting to connect.

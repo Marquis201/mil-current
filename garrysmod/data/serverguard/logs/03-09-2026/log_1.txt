@@ -1,0 +1,29 @@
+[Mon Mar  9 10:04:54 2026] Player "HALLS™" <STEAM_0:0:618118117> is attempting to connect.
+[Mon Mar  9 11:51:48 2026] Player "Сен" <STEAM_0:1:110234317> is attempting to connect.
+[Mon Mar  9 11:56:57 2026] Player "Сен" <STEAM_0:1:110234317> has spawned in the server
+[Mon Mar  9 12:20:21 2026] Player "Сен" <STEAM_0:1:110234317> has left the server
+[Mon Mar  9 12:36:27 2026] Player "gREG4IK" <STEAM_0:1:455594560> is attempting to connect.
+[Mon Mar  9 12:38:04 2026] Player "gREG4IK" <STEAM_0:1:455594560> has spawned in the server
+[Mon Mar  9 12:41:48 2026] <STEAM_0:1:455594560> gREG4IK ran command "menu"
+[Mon Mar  9 13:12:42 2026] Player "gREG4IK" <STEAM_0:1:455594560> has left the server
+[Mon Mar  9 13:16:36 2026] Player "gREG4IK" <STEAM_0:1:455594560> is attempting to connect.
+[Mon Mar  9 13:17:21 2026] Player "gREG4IK" <STEAM_0:1:455594560> is attempting to connect.
+[Mon Mar  9 13:18:22 2026] Player "gREG4IK" <STEAM_0:1:455594560> has spawned in the server
+[Mon Mar  9 13:25:05 2026] Player "gREG4IK" <STEAM_0:1:455594560> has left the server
+[Mon Mar  9 13:28:04 2026] Player "gREG4IK" <STEAM_0:1:455594560> is attempting to connect.
+[Mon Mar  9 13:28:47 2026] Player "gREG4IK" <STEAM_0:1:455594560> has spawned in the server
+[Mon Mar  9 13:59:24 2026] Player "gREG4IK" <STEAM_0:1:455594560> has left the server
+[Mon Mar  9 20:10:35 2026] Player "masyanyalena12" <STEAM_0:0:939562975> is attempting to connect.
+[Mon Mar  9 20:26:31 2026] Player "masyanyalena12" <STEAM_0:0:939562975> has spawned in the server
+[Mon Mar  9 20:28:57 2026] Player "dhcehd95" <STEAM_0:0:395280866> is attempting to connect.
+[Mon Mar  9 20:32:49 2026] Player "masyanyalena12" <STEAM_0:0:939562975> has left the server
+[Mon Mar  9 20:39:30 2026] Player "dhcehd95" <STEAM_0:0:395280866> has spawned in the server
+[Mon Mar  9 20:39:43 2026] Player "masyanyalena12" <STEAM_0:0:939562975> is attempting to connect.
+[Mon Mar  9 20:42:33 2026] Player "masyanyalena12" <STEAM_0:0:939562975> has spawned in the server
+[Mon Mar  9 20:43:51 2026] Player "masyanyalena12" <STEAM_0:0:939562975> has left the server
+[Mon Mar  9 20:45:21 2026] Player "ugan123555" <STEAM_0:0:405952322> is attempting to connect.
+[Mon Mar  9 20:50:17 2026] Player "dhcehd95" <STEAM_0:0:395280866> has left the server
+[Mon Mar  9 20:54:55 2026] Player "ugan123555" <STEAM_0:0:405952322> has spawned in the server
+[Mon Mar  9 20:55:35 2026] Player "ugan123555" <STEAM_0:0:405952322> has left the server
+[Mon Mar  9 23:22:46 2026] Player "LlamaG4m3r" <STEAM_0:0:639362663> is attempting to connect.
+[Mon Mar  9 23:28:31 2026] Player "LlamaG4m3r" <STEAM_0:0:639362663> has spawned in the server

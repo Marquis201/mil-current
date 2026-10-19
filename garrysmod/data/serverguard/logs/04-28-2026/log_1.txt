@@ -1,0 +1,1318 @@
+[Tue Apr 28 00:57:51 2026] Player "impotent" <STEAM_0:1:425612974> has left the server
+[Tue Apr 28 07:09:03 2026] Player "jacek.tur2" <STEAM_0:1:588438857> is attempting to connect.
+[Tue Apr 28 08:13:02 2026] Player "Sou1" <STEAM_0:1:618974024> is attempting to connect.
+[Tue Apr 28 08:14:40 2026] Player "Sou1" <STEAM_0:1:618974024> has spawned in the server
+[Tue Apr 28 08:18:35 2026] Player "Sou1" <STEAM_0:1:618974024> has left the server
+[Tue Apr 28 08:56:47 2026] Player "𝗺𝟏𝗿𝗮𝗰𝗹𝗲" <STEAM_0:0:869238922> is attempting to connect.
+[Tue Apr 28 09:30:51 2026] Player "𝗺𝟏𝗿𝗮𝗰𝗹𝗲" <STEAM_0:0:869238922> has spawned in the server
+[Tue Apr 28 09:38:41 2026] Player "𝗺𝟏𝗿𝗮𝗰𝗹𝗲" <STEAM_0:0:869238922> has left the server
+[Tue Apr 28 10:24:29 2026] Player "Дегустатор пива" <STEAM_0:1:862887967> is attempting to connect.
+[Tue Apr 28 10:25:29 2026] Player "Дегустатор пива" <STEAM_0:1:862887967> has spawned in the server
+[Tue Apr 28 10:35:01 2026] Player "Дегустатор пива" <STEAM_0:1:862887967> has left the server
+[Tue Apr 28 11:58:44 2026] Player "paper???$$$" <STEAM_0:0:396231366> is attempting to connect.
+[Tue Apr 28 12:45:51 2026] Player "david280911" <STEAM_0:1:839860057> is attempting to connect.
+[Tue Apr 28 12:47:32 2026] Player "david280911" <STEAM_0:1:839860057> has spawned in the server
+[Tue Apr 28 12:48:14 2026] Player "Pioner" <STEAM_0:1:923042528> is attempting to connect.
+[Tue Apr 28 12:49:55 2026] Player "Pioner" <STEAM_0:1:923042528> has spawned in the server
+[Tue Apr 28 12:50:47 2026] <STEAM_0:1:839860057> david280911: // бля кто меня снял с мехвода
+[Tue Apr 28 12:52:37 2026] Player "david280911" <STEAM_0:1:839860057> has left the server
+[Tue Apr 28 13:07:39 2026] Player "Pioner" <STEAM_0:1:923042528> has left the server
+[Tue Apr 28 13:27:01 2026] Player "Креветка" <STEAM_0:1:942364657> is attempting to connect.
+[Tue Apr 28 13:28:04 2026] Player "Креветка" <STEAM_0:1:942364657> has spawned in the server
+[Tue Apr 28 13:29:03 2026] Player "Креветка" <STEAM_0:1:942364657> has left the server
+[Tue Apr 28 14:47:25 2026] Player "Discar" <STEAM_0:0:650470378> is attempting to connect.
+[Tue Apr 28 14:47:54 2026] Player "Casebook" <STEAM_0:0:585468466> is attempting to connect.
+[Tue Apr 28 14:48:40 2026] Player "Discar" <STEAM_0:0:650470378> has spawned in the server
+[Tue Apr 28 14:50:14 2026] Player "Casebook" <STEAM_0:0:585468466> has spawned in the server
+[Tue Apr 28 14:54:19 2026] Player "Pioner" <STEAM_0:1:923042528> is attempting to connect.
+[Tue Apr 28 14:55:26 2026] Player "Pioner" <STEAM_0:1:923042528> has spawned in the server
+[Tue Apr 28 15:02:09 2026] Pioner has killed Discar.
+[Tue Apr 28 15:02:09 2026] Pioner has killed Casebook.
+[Tue Apr 28 15:12:15 2026] Pioner has killed Discar.
+[Tue Apr 28 15:14:09 2026] Pioner has killed Casebook.
+[Tue Apr 28 15:14:57 2026] Player "Дегустатор пива" <STEAM_0:1:862887967> is attempting to connect.
+[Tue Apr 28 15:15:21 2026] Pioner has killed Casebook.
+[Tue Apr 28 15:15:51 2026] Player "Дегустатор пива" <STEAM_0:1:862887967> has spawned in the server
+[Tue Apr 28 15:16:20 2026] Discar has killed Pioner.
+[Tue Apr 28 15:17:07 2026] <STEAM_0:0:650470378> Discar: /me взял стяжки, затем заковал человека на против
+[Tue Apr 28 15:17:23 2026] <STEAM_0:0:650470378> Discar: /me взял за стяжки
+[Tue Apr 28 15:17:29 2026] <STEAM_0:0:650470378> Discar: /me взял за стяжки
+[Tue Apr 28 15:17:31 2026] <STEAM_0:0:650470378> Discar: /me взял за стяжки
+[Tue Apr 28 15:18:02 2026] <STEAM_0:0:650470378> Discar: /me закинул
+[Tue Apr 28 15:18:19 2026] <STEAM_0:1:923042528> Pioner: /me взял ртом гранату за чеку
+[Tue Apr 28 15:18:26 2026] <STEAM_0:1:923042528> Pioner: /me вырвал чеку с гранаты
+[Tue Apr 28 15:18:31 2026] <STEAM_0:0:650470378> Discar: /me  dsrbyek
+[Tue Apr 28 15:19:28 2026] <STEAM_0:0:650470378> Discar: /me выстрелил в руку, затем отнес человека на против
+[Tue Apr 28 15:19:38 2026] Pioner has killed Pioner.
+[Tue Apr 28 15:20:55 2026] <STEAM_0:1:862887967> Дегустатор пива: // Выкати терпинатор Дискаров
+[Tue Apr 28 15:21:45 2026] <STEAM_0:1:923042528> Pioner: /nato ты где?
+[Tue Apr 28 15:21:58 2026] <STEAM_0:1:862887967> Дегустатор пива: /nato In Город
+[Tue Apr 28 15:22:03 2026] <STEAM_0:1:862887967> Дегустатор пива: /pass е
+[Tue Apr 28 15:22:11 2026] <STEAM_0:1:862887967> Дегустатор пива: /com
+[Tue Apr 28 15:22:23 2026] <STEAM_0:1:923042528> Pioner: /nato терминатор едит в город если что
+[Tue Apr 28 15:22:46 2026] <STEAM_0:1:923042528> Pioner: /nato Он около города на дороге
+[Tue Apr 28 15:23:42 2026] Дегустатор пива has killed Discar.
+[Tue Apr 28 15:24:09 2026] Дегустатор пива has killed Casebook.
+[Tue Apr 28 15:25:36 2026] <STEAM_0:1:862887967> Дегустатор пива: гусля
+[Tue Apr 28 15:25:55 2026] <STEAM_0:1:923042528> Pioner: у них танк на базе
+[Tue Apr 28 15:26:03 2026] <STEAM_0:1:923042528> Pioner: они выкатывают его
+[Tue Apr 28 15:26:51 2026] Pioner has killed Discar.
+[Tue Apr 28 15:26:51 2026] Pioner has killed Casebook.
+[Tue Apr 28 15:27:12 2026] <STEAM_0:1:923042528> Pioner: а техника платная?
+[Tue Apr 28 15:27:16 2026] <STEAM_0:1:923042528> Pioner: или нет:?
+[Tue Apr 28 15:27:54 2026] <STEAM_0:1:862887967> Дегустатор пива: спасиб что уничтожил
+[Tue Apr 28 15:28:02 2026] <STEAM_0:1:862887967> Дегустатор пива: /com 1
+[Tue Apr 28 15:28:08 2026] <STEAM_0:1:923042528> Pioner: техника платная или нет?
+[Tue Apr 28 15:28:12 2026] <STEAM_0:1:862887967> Дегустатор пива: нет
+[Tue Apr 28 15:28:15 2026] <STEAM_0:1:862887967> Дегустатор пива: нет
+[Tue Apr 28 15:28:29 2026] <STEAM_0:1:862887967> Дегустатор пива: у тебя спосбока есть?
+[Tue Apr 28 15:28:35 2026] <STEAM_0:1:923042528> Pioner: да есть
+[Tue Apr 28 15:28:38 2026] <STEAM_0:1:923042528> Pioner: мина есть
+[Tue Apr 28 15:28:45 2026] <STEAM_0:1:923042528> Pioner: но 2 минуты надо ждать
+[Tue Apr 28 15:28:45 2026] <STEAM_0:1:862887967> Дегустатор пива: противотанковая?
+[Tue Apr 28 15:28:51 2026] <STEAM_0:1:923042528> Pioner: хз вроде бы
+[Tue Apr 28 15:28:52 2026] <STEAM_0:1:862887967> Дегустатор пива: Ваншотит?
+[Tue Apr 28 15:28:56 2026] <STEAM_0:1:923042528> Pioner: не ебу
+[Tue Apr 28 15:29:14 2026] <STEAM_0:1:923042528> Pioner: миссклик
+[Tue Apr 28 15:29:23 2026] <STEAM_0:0:585468466> Casebook: /pass
+[Tue Apr 28 15:29:37 2026] <STEAM_0:1:862887967> Дегустатор пива: // Дискаров
+[Tue Apr 28 15:29:39 2026] <STEAM_0:1:923042528> Pioner: я не понимаю где у них техника
+[Tue Apr 28 15:29:44 2026] <STEAM_0:0:650470378> Discar: /ooc ?
+[Tue Apr 28 15:29:48 2026] <STEAM_0:1:862887967> Дегустатор пива: // ИХНИЙ
+[Tue Apr 28 15:29:56 2026] <STEAM_0:1:862887967> Дегустатор пива: //
+[Tue Apr 28 15:30:01 2026] <STEAM_0:1:862887967> Дегустатор пива: // ИХНИЙ
+[Tue Apr 28 15:30:05 2026] <STEAM_0:1:862887967> Дегустатор пива: // ИХНИЙ
+[Tue Apr 28 15:31:30 2026] <STEAM_0:1:923042528> Pioner: там пехота или не?
+[Tue Apr 28 15:31:35 2026] <STEAM_0:1:862887967> Дегустатор пива: где
+[Tue Apr 28 15:31:40 2026] <STEAM_0:1:923042528> Pioner: я спрашиваю
+[Tue Apr 28 15:31:45 2026] <STEAM_0:1:862887967> Дегустатор пива: не вижу
+[Tue Apr 28 15:32:36 2026] Casebook has killed Pioner.
+[Tue Apr 28 15:32:51 2026] m67_srpnl has killed Casebook.
+[Tue Apr 28 15:32:51 2026] m67_srpnl has killed Discar.
+[Tue Apr 28 15:32:52 2026] Casebook has killed Casebook.
+[Tue Apr 28 15:32:59 2026] <STEAM_0:1:923042528> Pioner: // я здох
+[Tue Apr 28 15:33:08 2026] Дегустатор пива has killed Discar.
+[Tue Apr 28 15:33:18 2026] <STEAM_0:1:862887967> Дегустатор пива: // я знаю
+[Tue Apr 28 15:33:30 2026] <STEAM_0:0:650470378> Discar: /ooc Гранатой ты его добил
+[Tue Apr 28 15:34:18 2026] Player "Discar" <STEAM_0:0:650470378> has left the server
+[Tue Apr 28 15:34:18 2026] Player "Casebook" <STEAM_0:0:585468466> has left the server
+[Tue Apr 28 15:34:25 2026] <STEAM_0:1:862887967> Дегустатор пива: FUCK
+[Tue Apr 28 15:35:28 2026] <STEAM_0:1:923042528> Pioner: как ты застрял?
+[Tue Apr 28 15:35:36 2026] <STEAM_0:1:862887967> Дегустатор пива: Сам не понял
+[Tue Apr 28 15:36:09 2026] <STEAM_0:1:862887967> Дегустатор пива: а че вообще на что деньги тратить?
+[Tue Apr 28 15:36:15 2026] <STEAM_0:1:923042528> Pioner: я хз
+[Tue Apr 28 15:36:19 2026] <STEAM_0:1:923042528> Pioner: не продумали походу
+[Tue Apr 28 15:36:25 2026] <STEAM_0:1:862887967> Дегустатор пива: перезайду сейчас
+[Tue Apr 28 15:36:36 2026] Player "Дегустатор пива" <STEAM_0:1:862887967> has left the server
+[Tue Apr 28 15:39:32 2026] Player "Pioner" <STEAM_0:1:923042528> has left the server
+[Tue Apr 28 15:39:38 2026] Player "termisters play" <STEAM_0:1:44333849> is attempting to connect.
+[Tue Apr 28 15:40:46 2026] Player "Дегустатор пива" <STEAM_0:1:862887967> is attempting to connect.
+[Tue Apr 28 15:41:20 2026] Player "termisters play" <STEAM_0:1:44333849> has spawned in the server
+[Tue Apr 28 15:41:27 2026] Player "Дегустатор пива" <STEAM_0:1:862887967> has spawned in the server
+[Tue Apr 28 15:42:17 2026] <STEAM_0:1:862887967> Дегустатор пива: // ихний
+[Tue Apr 28 15:43:31 2026] Player "marina310824" <STEAM_0:1:902575649> is attempting to connect.
+[Tue Apr 28 15:44:35 2026] Player "marina310824" <STEAM_0:1:902575649> has spawned in the server
+[Tue Apr 28 15:46:42 2026] <STEAM_0:1:862887967> Дегустатор пива: ку
+[Tue Apr 28 15:46:51 2026] <STEAM_0:1:862887967> Дегустатор пива: я чисто посмотреть
+[Tue Apr 28 15:46:56 2026] <STEAM_0:1:862887967> Дегустатор пива: все уежаю
+[Tue Apr 28 15:47:06 2026] <STEAM_0:1:862887967> Дегустатор пива: на люк нажми
+[Tue Apr 28 15:47:11 2026] <STEAM_0:1:862887967> Дегустатор пива: люк
+[Tue Apr 28 15:47:37 2026] <STEAM_0:1:862887967> Дегустатор пива: лезь на мой
+[Tue Apr 28 15:47:46 2026] <STEAM_0:1:862887967> Дегустатор пива: все давай
+[Tue Apr 28 15:49:30 2026] <STEAM_0:1:862887967> Дегустатор пива: // вон есть же желтая хуйня на нее запрыгни потом на танк
+[Tue Apr 28 15:50:40 2026] Дегустатор пива has killed termisters play.
+[Tue Apr 28 15:51:19 2026] Дегустатор пива has killed marina310824.
+[Tue Apr 28 15:52:47 2026] <STEAM_0:1:862887967> Дегустатор пива: // Кузьмин если че поднимать тех кого танк ебнул нон рп
+[Tue Apr 28 15:53:41 2026] <STEAM_0:1:862887967> Дегустатор пива: че
+[Tue Apr 28 15:53:53 2026] <STEAM_0:1:862887967> Дегустатор пива: они есть
+[Tue Apr 28 15:54:05 2026] <STEAM_0:1:862887967> Дегустатор пива: их выкатить нельзя
+[Tue Apr 28 15:54:13 2026] <STEAM_0:1:862887967> Дегустатор пива: только админ или инветолог
+[Tue Apr 28 15:54:21 2026] <STEAM_0:1:862887967> Дегустатор пива: и отделная роль пилота надо
+[Tue Apr 28 15:54:37 2026] <STEAM_0:1:862887967> Дегустатор пива: не прошло
+[Tue Apr 28 15:54:54 2026] <STEAM_0:1:862887967> Дегустатор пива: новый выкатитшь
+[Tue Apr 28 15:54:59 2026] <STEAM_0:1:862887967> Дегустатор пива: все ди нахуй
+[Tue Apr 28 15:55:14 2026] Дегустатор пива has killed termisters play.
+[Tue Apr 28 15:55:31 2026] Дегустатор пива has killed marina310824.
+[Tue Apr 28 15:56:11 2026] <STEAM_0:1:862887967> Дегустатор пива: бедный
+[Tue Apr 28 16:03:21 2026] <STEAM_0:1:862887967> Дегустатор пива: // Ну бля так не интересно давай танк
+[Tue Apr 28 16:04:55 2026] <STEAM_0:1:862887967> Дегустатор пива: Внимание на квадрат: I9
+[Tue Apr 28 16:04:55 2026] <STEAM_0:1:862887967> Дегустатор пива: Внимание на квадрат: I9
+[Tue Apr 28 16:05:04 2026] <STEAM_0:1:862887967> Дегустатор пива: п
+[Tue Apr 28 16:05:10 2026] <STEAM_0:1:862887967> Дегустатор пива: а
+[Tue Apr 28 16:06:14 2026] <STEAM_0:1:862887967> Дегустатор пива: Внимание на квадрат: I8
+[Tue Apr 28 16:06:14 2026] <STEAM_0:1:862887967> Дегустатор пива: Внимание на квадрат: I8
+[Tue Apr 28 16:06:15 2026] <STEAM_0:1:862887967> Дегустатор пива: Внимание на квадрат: H7
+[Tue Apr 28 16:06:15 2026] <STEAM_0:1:862887967> Дегустатор пива: Внимание на квадрат: H7
+[Tue Apr 28 16:06:16 2026] <STEAM_0:1:862887967> Дегустатор пива: Внимание на квадрат: F6
+[Tue Apr 28 16:06:16 2026] <STEAM_0:1:862887967> Дегустатор пива: Внимание на квадрат: F6
+[Tue Apr 28 16:06:35 2026] <STEAM_0:1:862887967> Дегустатор пива: Внимание на квадрат: G5
+[Tue Apr 28 16:06:35 2026] <STEAM_0:1:862887967> Дегустатор пива: Внимание на квадрат: G5
+[Tue Apr 28 16:08:44 2026] <STEAM_0:1:862887967> Дегустатор пива: Внимание на квадрат: K2
+[Tue Apr 28 16:08:44 2026] <STEAM_0:1:862887967> Дегустатор пива: Внимание на квадрат: K2
+[Tue Apr 28 16:08:45 2026] <STEAM_0:1:862887967> Дегустатор пива: Внимание на квадрат: I2
+[Tue Apr 28 16:08:45 2026] <STEAM_0:1:862887967> Дегустатор пива: Внимание на квадрат: I2
+[Tue Apr 28 16:08:46 2026] <STEAM_0:1:862887967> Дегустатор пива: Внимание на квадрат: I2
+[Tue Apr 28 16:08:46 2026] <STEAM_0:1:862887967> Дегустатор пива: Внимание на квадрат: I2
+[Tue Apr 28 16:08:48 2026] <STEAM_0:1:862887967> Дегустатор пива: Внимание на квадрат: I2
+[Tue Apr 28 16:08:48 2026] <STEAM_0:1:862887967> Дегустатор пива: Внимание на квадрат: I2
+[Tue Apr 28 16:08:48 2026] termisters play has killed marina310824.
+[Tue Apr 28 16:08:48 2026] <STEAM_0:1:862887967> Дегустатор пива: Внимание на квадрат: I2
+[Tue Apr 28 16:08:49 2026] <STEAM_0:1:862887967> Дегустатор пива: Внимание на квадрат: I2
+[Tue Apr 28 16:08:49 2026] <STEAM_0:1:862887967> Дегустатор пива: Внимание на квадрат: I2
+[Tue Apr 28 16:08:49 2026] <STEAM_0:1:862887967> Дегустатор пива: Внимание на квадрат: I2
+[Tue Apr 28 16:08:50 2026] <STEAM_0:1:862887967> Дегустатор пива: Внимание на квадрат: I2
+[Tue Apr 28 16:08:50 2026] <STEAM_0:1:862887967> Дегустатор пива: Внимание на квадрат: I2
+[Tue Apr 28 16:08:51 2026] <STEAM_0:1:862887967> Дегустатор пива: Внимание на квадрат: I2
+[Tue Apr 28 16:08:51 2026] <STEAM_0:1:862887967> Дегустатор пива: Внимание на квадрат: I2
+[Tue Apr 28 16:08:51 2026] <STEAM_0:1:862887967> Дегустатор пива: Внимание на квадрат: I2
+[Tue Apr 28 16:08:51 2026] <STEAM_0:1:862887967> Дегустатор пива: Внимание на квадрат: I2
+[Tue Apr 28 16:08:52 2026] <STEAM_0:1:862887967> Дегустатор пива: Внимание на квадрат: I2
+[Tue Apr 28 16:08:52 2026] <STEAM_0:1:862887967> Дегустатор пива: Внимание на квадрат: I2
+[Tue Apr 28 16:09:37 2026] Player "Креветка" <STEAM_0:1:942364657> is attempting to connect.
+[Tue Apr 28 16:10:40 2026] marina310824 has killed termisters play.
+[Tue Apr 28 16:10:45 2026] Player "Креветка" <STEAM_0:1:942364657> has spawned in the server
+[Tue Apr 28 16:11:05 2026] Player "marina310824" <STEAM_0:1:902575649> has left the server
+[Tue Apr 28 16:11:46 2026] Player "Креветка" <STEAM_0:1:942364657> has left the server
+[Tue Apr 28 16:12:58 2026] <STEAM_0:1:44333849> termisters play: ты где
+[Tue Apr 28 16:13:31 2026] rgd5_srpnl has killed termisters play.
+[Tue Apr 28 16:13:34 2026] Player "termisters play" <STEAM_0:1:44333849> has left the server
+[Tue Apr 28 16:16:38 2026] Player "Дегустатор пива" <STEAM_0:1:862887967> has left the server
+[Tue Apr 28 16:53:48 2026] Player "david280911" <STEAM_0:1:839860057> is attempting to connect.
+[Tue Apr 28 16:55:07 2026] Player "david280911" <STEAM_0:1:839860057> has spawned in the server
+[Tue Apr 28 16:55:27 2026] Player "david280911" <STEAM_0:1:839860057> has left the server
+[Tue Apr 28 16:56:31 2026] Player "david280911" <STEAM_0:1:839860057> is attempting to connect.
+[Tue Apr 28 16:57:18 2026] Player "david280911" <STEAM_0:1:839860057> has spawned in the server
+[Tue Apr 28 16:57:38 2026] Player "david280911" <STEAM_0:1:839860057> has left the server
+[Tue Apr 28 17:07:20 2026] Player "Discar" <STEAM_0:0:650470378> is attempting to connect.
+[Tue Apr 28 17:10:16 2026] Player "Discar" <STEAM_0:0:650470378> has spawned in the server
+[Tue Apr 28 17:16:26 2026] Player "Kaktus" <STEAM_0:1:686924875> is attempting to connect.
+[Tue Apr 28 17:19:36 2026] Player "Kaktus" <STEAM_0:1:686924875> has spawned in the server
+[Tue Apr 28 17:23:53 2026] Player "gg" <STEAM_0:1:632726439> is attempting to connect.
+[Tue Apr 28 17:27:03 2026] Player "gg" <STEAM_0:1:632726439> has spawned in the server
+[Tue Apr 28 17:28:23 2026] Player "BloodySmile" <STEAM_0:1:54838838> is attempting to connect.
+[Tue Apr 28 17:28:41 2026] Player "gg" <STEAM_0:1:632726439> has left the server
+[Tue Apr 28 17:29:20 2026] Player "Casebook" <STEAM_0:0:585468466> is attempting to connect.
+[Tue Apr 28 17:29:20 2026] Player "BloodySmile" <STEAM_0:1:54838838> has spawned in the server
+[Tue Apr 28 17:30:19 2026] worldspawn has killed Discar.
+[Tue Apr 28 17:30:36 2026] <STEAM_0:0:650470378> Discar: /ooc ва гражданские переводи
+[Tue Apr 28 17:31:00 2026] <STEAM_0:1:54838838> BloodySmile ran command "stripweapons Дискаров"
+[Tue Apr 28 17:31:28 2026] Player "BloodySmile" <STEAM_0:1:54838838> has left the server
+[Tue Apr 28 17:31:34 2026] Player "Casebook" <STEAM_0:0:585468466> has spawned in the server
+[Tue Apr 28 17:32:32 2026] Player "Sou1" <STEAM_0:1:618974024> is attempting to connect.
+[Tue Apr 28 17:33:56 2026] Player "Sou1" <STEAM_0:1:618974024> has spawned in the server
+[Tue Apr 28 17:35:47 2026] <STEAM_0:0:650470378> Discar: /ooc ура я свободен
+[Tue Apr 28 17:36:29 2026] Player "david280911" <STEAM_0:1:839860057> is attempting to connect.
+[Tue Apr 28 17:37:42 2026] <STEAM_0:0:650470378> Discar: /ooc откройте дверьб я покушать пришел
+[Tue Apr 28 17:37:53 2026] Player "david280911" <STEAM_0:1:839860057> has spawned in the server
+[Tue Apr 28 17:39:22 2026] <STEAM_0:0:585468466> Casebook: /rf Виноградов,24 частота
+[Tue Apr 28 17:41:04 2026] <STEAM_0:0:650470378> Discar: /ooc откройте дверь я покушать пришел
+[Tue Apr 28 17:45:45 2026] <STEAM_0:0:650470378> Discar: /me взял ящик пластиковых пестолетов
+[Tue Apr 28 17:46:04 2026] <STEAM_0:0:650470378> Discar: /me положил ящик пластиковых пестолетов в камаз
+[Tue Apr 28 17:46:28 2026] <STEAM_0:0:650470378> Discar: /me положил ящик пластиковых пестолетов в камаз
+[Tue Apr 28 17:47:41 2026] <STEAM_0:0:650470378> Discar: /me  достал бланк документов, затем передал человеку на против
+[Tue Apr 28 17:48:03 2026] <STEAM_0:0:585468466> Casebook: /me Взял и расмотрел документы
+[Tue Apr 28 17:48:22 2026] <STEAM_0:0:585468466> Casebook: /me чирканул подпись
+[Tue Apr 28 17:48:28 2026] <STEAM_0:0:585468466> Casebook: /me чирканул подпись
+[Tue Apr 28 17:48:31 2026] <STEAM_0:0:585468466> Casebook: /me чирканул подпись
+[Tue Apr 28 17:48:53 2026] <STEAM_0:0:650470378> Discar: /me взял документ и убрал на стол
+[Tue Apr 28 17:49:02 2026] <STEAM_0:1:839860057> david280911: Я ЩА АФК
+[Tue Apr 28 17:49:27 2026] <STEAM_0:0:650470378> Discar: /me взял ящик пластиковых пестолетов
+[Tue Apr 28 17:49:35 2026] <STEAM_0:0:650470378> Discar: /me положил ящик пластиковых пестолетов в камаз
+[Tue Apr 28 17:50:02 2026] <STEAM_0:0:650470378> Discar: /me положил ящик пластиковых пестолетов в камаз
+[Tue Apr 28 17:50:23 2026] <STEAM_0:0:650470378> Discar: /me взял ящик  смачного борща
+[Tue Apr 28 17:51:00 2026] <STEAM_0:0:650470378> Discar: /me положил ящик  смачного борща в камаз
+[Tue Apr 28 17:53:17 2026] <STEAM_0:1:839860057> david280911: вы не хотите куда то уехать в другое место?
+[Tue Apr 28 17:53:41 2026] <STEAM_0:1:839860057> david280911: так
+[Tue Apr 28 17:53:51 2026] <STEAM_0:1:839860057> david280911: я не собираюсь охронять
+[Tue Apr 28 17:53:55 2026] <STEAM_0:1:839860057> david280911: а вы кто?
+[Tue Apr 28 17:54:08 2026] <STEAM_0:1:839860057> david280911: вы не мой командир
+[Tue Apr 28 17:54:13 2026] <STEAM_0:0:585468466> Casebook: /me взял ящик и разгрузил пистолеты
+[Tue Apr 28 17:54:38 2026] <STEAM_0:0:585468466> Casebook: /me взял ящик и разгрузил сухой борщ
+[Tue Apr 28 17:56:18 2026] <STEAM_0:1:618974024> Sou1: // а как давно существуют граждане
+[Tue Apr 28 17:56:28 2026] <STEAM_0:0:650470378> Discar: /ooc я недавно
+[Tue Apr 28 17:57:06 2026] <STEAM_0:1:618974024> Sou1: // а я могу тебя убить по приколу
+[Tue Apr 28 17:57:22 2026] <STEAM_0:0:650470378> Discar: /ooc Я владелец склада
+[Tue Apr 28 17:57:34 2026] <STEAM_0:0:650470378> Discar: /ooc приежай это нейтральная точка
+[Tue Apr 28 17:58:23 2026] Player "Sou1" <STEAM_0:1:618974024> has left the server
+[Tue Apr 28 17:58:29 2026] <STEAM_0:0:650470378> Discar: /ooc приежай это нейтральная точка
+[Tue Apr 28 18:01:01 2026] Player "black9087" <STEAM_0:0:400402766> is attempting to connect.
+[Tue Apr 28 18:03:05 2026] <STEAM_0:1:839860057> david280911: /rp подорвался на мине
+[Tue Apr 28 18:03:28 2026] <STEAM_0:1:839860057> david280911: /try я выжил?
+[Tue Apr 28 18:03:53 2026] <STEAM_0:1:839860057> david280911: /rp рука оторвалась и улетела в стенку
+[Tue Apr 28 18:05:52 2026] Player "Дегустатор пива" <STEAM_0:1:862887967> is attempting to connect.
+[Tue Apr 28 18:06:48 2026] Player "Дегустатор пива" <STEAM_0:1:862887967> has spawned in the server
+[Tue Apr 28 18:07:01 2026] <STEAM_0:1:839860057> david280911: /rp потреял сознание
+[Tue Apr 28 18:07:19 2026] <STEAM_0:1:839860057> david280911: // я без руки
+[Tue Apr 28 18:07:55 2026] <STEAM_0:1:839860057> david280911: на мине
+[Tue Apr 28 18:08:19 2026] <STEAM_0:1:839860057> david280911: кстати привет еррор
+[Tue Apr 28 18:08:26 2026] <STEAM_0:1:862887967> Дегустатор пива: // Дискаров че ты гражданский?
+[Tue Apr 28 18:08:32 2026] <STEAM_0:0:650470378> Discar: /ooc ага
+[Tue Apr 28 18:08:42 2026] <STEAM_0:0:650470378> Discar: /ooc и я мэр города
+[Tue Apr 28 18:08:48 2026] <STEAM_0:1:862887967> Дегустатор пива: // Расказывай че случилось
+[Tue Apr 28 18:08:48 2026] <STEAM_0:0:585468466> Casebook: /ooc Теперь арбузами на складе торгует
+[Tue Apr 28 18:08:52 2026] <STEAM_0:0:650470378> Discar: /ooc и я мэр города
+[Tue Apr 28 18:08:55 2026] <STEAM_0:1:862887967> Дегустатор пива: // А что случилось?
+[Tue Apr 28 18:08:56 2026] <STEAM_0:0:650470378> Discar: /ooc и я мэр города
+[Tue Apr 28 18:09:20 2026] <STEAM_0:1:839860057> david280911: // короче теперь я очутился за пилота
+[Tue Apr 28 18:09:29 2026] <STEAM_0:1:839860057> david280911: // магией
+[Tue Apr 28 18:09:40 2026] <STEAM_0:1:862887967> Дегустатор пива: // Ты же вдв
+[Tue Apr 28 18:09:41 2026] <STEAM_0:0:650470378> Discar: /ooc открой дверку покушать хочу
+[Tue Apr 28 18:09:45 2026] Player "Weletx" <STEAM_0:1:948707730> is attempting to connect.
+[Tue Apr 28 18:10:18 2026] <STEAM_0:1:839860057> david280911: // я магией стал пилотом ми 24
+[Tue Apr 28 18:10:48 2026] Player "Kaktus" <STEAM_0:1:686924875> has left the server
+[Tue Apr 28 18:10:50 2026] <STEAM_0:1:862887967> Дегустатор пива: что надо?
+[Tue Apr 28 18:10:55 2026] <STEAM_0:1:862887967> Дегустатор пива: пропуск есть?
+[Tue Apr 28 18:11:13 2026] <STEAM_0:1:862887967> Дегустатор пива: Значит оформляй у командира части, щас нельзя
+[Tue Apr 28 18:12:33 2026] <STEAM_0:1:839860057> david280911: /rp включил винты ми 24 и поднялся в воздух
+[Tue Apr 28 18:13:42 2026] <STEAM_0:1:839860057> david280911: /rp начал работать по городу не задевая склад где работает дискаров
+[Tue Apr 28 18:14:20 2026] <STEAM_0:1:839860057> david280911: /rp ракеты кончились и я пустил птур в микро район
+[Tue Apr 28 18:14:41 2026] Дегустатор пива has killed Casebook.
+[Tue Apr 28 18:14:41 2026] Дегустатор пива has killed Discar.
+[Tue Apr 28 18:14:46 2026] Дегустатор пива has killed david280911.
+[Tue Apr 28 18:14:53 2026] <STEAM_0:0:650470378> Discar: /ooc Томпсон ты ебу дал
+[Tue Apr 28 18:14:59 2026] <STEAM_0:1:839860057> david280911: /rp авиация прилетела на склад
+[Tue Apr 28 18:15:03 2026] <STEAM_0:1:862887967> Дегустатор пива: // Це военные преступления
+[Tue Apr 28 18:15:04 2026] <STEAM_0:0:585468466> Casebook: /ooc Вы нахуя гражданского убили,дурики
+[Tue Apr 28 18:15:18 2026] <STEAM_0:1:839860057> david280911: /rp прилетел ми 24
+[Tue Apr 28 18:15:35 2026] <STEAM_0:1:839860057> david280911: /try удалось уничтожить амбрамс?
+[Tue Apr 28 18:16:23 2026] <STEAM_0:1:839860057> david280911: афк
+[Tue Apr 28 18:17:19 2026] <STEAM_0:0:650470378> Discar: Внимание на квадрат: G5
+[Tue Apr 28 18:17:19 2026] <STEAM_0:0:650470378> Discar: Внимание на квадрат: G5
+[Tue Apr 28 18:17:26 2026] <STEAM_0:0:650470378> Discar: Внимание на квадрат: G4
+[Tue Apr 28 18:17:27 2026] <STEAM_0:0:650470378> Discar: Внимание на квадрат: G4
+[Tue Apr 28 18:17:38 2026] <STEAM_0:1:839860057> david280911: /rp после уничтожение танка ми 24 вернулась на базу
+[Tue Apr 28 18:17:49 2026] <STEAM_0:1:862887967> Дегустатор пива: // схуяли
+[Tue Apr 28 18:18:13 2026] Дегустатор пива has killed Casebook.
+[Tue Apr 28 18:18:30 2026] <STEAM_0:1:839860057> david280911: // не схуяли
+[Tue Apr 28 18:18:43 2026] <STEAM_0:1:862887967> Дегустатор пива: о здравствуйте
+[Tue Apr 28 18:18:54 2026] <STEAM_0:1:839860057> david280911: /rp началась дозаправка ми 24 и его перевооружение
+[Tue Apr 28 18:19:11 2026] Player "Po_rA1" <STEAM_0:0:887714123> is attempting to connect.
+[Tue Apr 28 18:19:13 2026] <STEAM_0:1:839860057> david280911: /rp были сняты блоки с 8 и были заменены на нары и с 9
+[Tue Apr 28 18:20:41 2026] <STEAM_0:1:839860057> david280911: /rp ми 24 поднялся и начал работу по городу и снова не задел склад дискарова
+[Tue Apr 28 18:21:27 2026] Player "Po_rA1" <STEAM_0:0:887714123> has spawned in the server
+[Tue Apr 28 18:21:30 2026] Player "Beep" <STEAM_0:0:570454016> is attempting to connect.
+[Tue Apr 28 18:21:41 2026] <STEAM_0:1:839860057> david280911: /rp Стингер выпустил ракету по вертлёту и попала в движок и вертолет разбился
+[Tue Apr 28 18:21:42 2026] Casebook has killed Discar.
+[Tue Apr 28 18:23:10 2026] <STEAM_0:1:839860057> david280911: /rp вертолет разбился и у вертолета отлетел хвост который упал на склад дискарова но попала на джип
+[Tue Apr 28 18:23:21 2026] Player "Beep" <STEAM_0:0:570454016> has spawned in the server
+[Tue Apr 28 18:24:01 2026] <STEAM_0:1:862887967> Дегустатор пива: /RP От упавших обломков двигатель повредился, начал чинить
+[Tue Apr 28 18:24:05 2026] <STEAM_0:1:839860057> david280911: // админы есть на сервере?
+[Tue Apr 28 18:24:10 2026] <STEAM_0:1:862887967> Дегустатор пива: // не
+[Tue Apr 28 18:24:23 2026] <STEAM_0:1:862887967> Дегустатор пива: /rp От упавших обломков двигатель повредился, начал чинить
+[Tue Apr 28 18:24:50 2026] <STEAM_0:1:839860057> david280911: // если что у него нет хвоста
+[Tue Apr 28 18:25:00 2026] <STEAM_0:1:862887967> Дегустатор пива: // я свой танк
+[Tue Apr 28 18:25:10 2026] <STEAM_0:0:570454016> Beep: /ooc Че там кому надо было
+[Tue Apr 28 18:25:12 2026] <STEAM_0:1:839860057> david280911: /rp а
+[Tue Apr 28 18:25:18 2026] <STEAM_0:1:839860057> david280911: // а
+[Tue Apr 28 18:25:21 2026] <STEAM_0:1:862887967> Дегустатор пива: // б
+[Tue Apr 28 18:25:33 2026] <STEAM_0:1:862887967> Дегустатор пива: // б
+[Tue Apr 28 18:25:37 2026] <STEAM_0:1:839860057> david280911: // да так наш ми 24 упал
+[Tue Apr 28 18:25:43 2026] worldspawn has killed Дегустатор пива.
+[Tue Apr 28 18:25:47 2026] <STEAM_0:1:862887967> Дегустатор пива: ХПХХХАХА
+[Tue Apr 28 18:25:53 2026] <STEAM_0:1:862887967> Дегустатор пива: прикольно
+[Tue Apr 28 18:25:55 2026] <STEAM_0:1:839860057> david280911: // да так  у нас ми 24 упал
+[Tue Apr 28 18:26:00 2026] <STEAM_0:0:570454016> Beep: /ooc И шо
+[Tue Apr 28 18:26:27 2026] <STEAM_0:1:862887967> Дегустатор пива: привет
+[Tue Apr 28 18:27:47 2026] <STEAM_0:1:839860057> david280911: // командир 160 полка а у вас есть вертушки? или нету
+[Tue Apr 28 18:28:11 2026] <STEAM_0:0:570454016> Beep: /ooc У меня есть, но не боевые.
+[Tue Apr 28 18:28:20 2026] worldspawn has killed Дегустатор пива.
+[Tue Apr 28 18:28:28 2026] <STEAM_0:1:839860057> david280911: // а у нас вообще нету
+[Tue Apr 28 18:28:33 2026] <STEAM_0:1:862887967> Дегустатор пива: // есть
+[Tue Apr 28 18:28:36 2026] <STEAM_0:1:839860057> david280911: // а можешь показать?
+[Tue Apr 28 18:28:40 2026] <STEAM_0:0:570454016> Beep: /ooc Так я через админку спавню.
+[Tue Apr 28 18:28:45 2026] <STEAM_0:1:839860057> david280911: // а
+[Tue Apr 28 18:28:57 2026] <STEAM_0:1:839860057> david280911: // а
+[Tue Apr 28 18:29:03 2026] <STEAM_0:1:862887967> Дегустатор пива: // б
+[Tue Apr 28 18:29:32 2026] <STEAM_0:0:570454016> Beep: /pass
+[Tue Apr 28 18:29:41 2026] <STEAM_0:1:839860057> david280911: // а можешь мне ми 24 заспавнить?
+[Tue Apr 28 18:29:57 2026] <STEAM_0:1:839860057> david280911: //по вашей базе фигачить не буду
+[Tue Apr 28 18:29:59 2026] <STEAM_0:0:570454016> Beep: /ooc Не могу. Ты ж не пилот.
+[Tue Apr 28 18:30:08 2026] <STEAM_0:0:570454016> Beep spawned SENT "Entity [824][sw_uh60]"
+[Tue Apr 28 18:30:15 2026] <STEAM_0:1:839860057> david280911: //  а жаль
+[Tue Apr 28 18:30:16 2026] <STEAM_0:0:887714123> Po_rA1: Внимание на квадрат: F2
+[Tue Apr 28 18:30:16 2026] <STEAM_0:0:887714123> Po_rA1: Внимание на квадрат: F2
+[Tue Apr 28 18:30:19 2026] Player "Дегустатор пива" <STEAM_0:1:862887967> has left the server
+[Tue Apr 28 18:31:51 2026] <STEAM_0:1:839860057> david280911: /rp спасательный ми 8 амтш прилетел на точку где упала вертушка
+[Tue Apr 28 18:32:17 2026] Player "gREG4IK" <STEAM_0:1:455594560> is attempting to connect.
+[Tue Apr 28 18:32:43 2026] <STEAM_0:1:839860057> david280911: /try они нали там раненых?
+[Tue Apr 28 18:33:20 2026] <STEAM_0:1:839860057> david280911: /rpX Они нали раненых пилотов и десантников живыми
+[Tue Apr 28 18:33:36 2026] <STEAM_0:1:839860057> david280911: /rp они нали пилотов и десантников живыми
+[Tue Apr 28 18:33:54 2026] <STEAM_0:1:839860057> david280911: /rp они их эвыкуировали
+[Tue Apr 28 18:34:07 2026] <STEAM_0:0:887714123> Po_rA1: /rf Рч 68
+[Tue Apr 28 18:34:09 2026] Player "gREG4IK" <STEAM_0:1:455594560> has spawned in the server
+[Tue Apr 28 18:35:42 2026] <STEAM_0:1:455594560> gREG4IK ran command "respawn Грэг"
+[Tue Apr 28 18:36:05 2026] worldspawn has killed Po_rA1.
+[Tue Apr 28 18:36:52 2026] <STEAM_0:0:585468466> Casebook: /com Грэг,пж иди сюда
+[Tue Apr 28 18:37:08 2026] <STEAM_0:1:839860057> david280911: /rp диспетчер запросил вертушку для нахождении солдат
+[Tue Apr 28 18:37:13 2026] <STEAM_0:1:455594560> gREG4IK ran command "respawn Тайпан"
+[Tue Apr 28 18:37:18 2026] <STEAM_0:1:455594560> gREG4IK ran command "goto Тайпан"
+[Tue Apr 28 18:37:22 2026] <STEAM_0:0:570454016> Beep ran command "goto Тайпан"
+[Tue Apr 28 18:37:35 2026] <STEAM_0:0:570454016> Beep: крутой
+[Tue Apr 28 18:37:50 2026] <STEAM_0:0:887714123> Po_rA1: /rf Рч 68
+[Tue Apr 28 18:37:51 2026] <STEAM_0:0:570454016> Beep: А я говорил Хранителю, что с модельками залупа какая-то
+[Tue Apr 28 18:38:13 2026] <STEAM_0:1:839860057> david280911: /rp ми 8 поднялся для нахождении солдат которые не выходят на связь
+[Tue Apr 28 18:38:52 2026] <STEAM_0:1:839860057> david280911: // солдаты а вы живы хоть?
+[Tue Apr 28 18:39:05 2026] <STEAM_0:0:650470378> Discar: /ooc Виноградов пиздуй на завод
+[Tue Apr 28 18:39:57 2026] <STEAM_0:0:570454016> Beep: Крутые потому что
+[Tue Apr 28 18:40:17 2026] <STEAM_0:0:570454016> Beep: Военное преступление - не военное преступление, если тебе было весело
+[Tue Apr 28 18:41:23 2026] <STEAM_0:0:570454016> Beep ran command "a А где посмотреть, что мой перк делает"
+[Tue Apr 28 18:41:53 2026] <STEAM_0:1:839860057> david280911: Внимание на квадрат: G4
+[Tue Apr 28 18:41:53 2026] <STEAM_0:1:839860057> david280911: Внимание на квадрат: G4
+[Tue Apr 28 18:42:04 2026] <STEAM_0:1:839860057> david280911: // ой
+[Tue Apr 28 18:42:09 2026] <STEAM_0:0:570454016> Beep: а че в гражданку
+[Tue Apr 28 18:42:22 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Tue Apr 28 18:42:22 2026] <STEAM_0:0:570454016> Beep spawned SWEP "Weapon [615][tfa_ins2_pm]"
+[Tue Apr 28 18:42:28 2026] <STEAM_0:0:570454016> Beep: только тссс
+[Tue Apr 28 18:42:36 2026] <STEAM_0:0:887714123> Po_rA1: /ooc А где музыка?
+[Tue Apr 28 18:42:50 2026] <STEAM_0:0:650470378> Discar: /ooc Я Мэр Города
+[Tue Apr 28 18:43:22 2026] <STEAM_0:0:650470378> Discar: /ooc мб даже губернатор
+[Tue Apr 28 18:43:45 2026] <STEAM_0:0:570454016> Beep spawned prop "Entity [858][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1.mdl)"
+[Tue Apr 28 18:44:01 2026] <STEAM_0:0:570454016> Beep spawned prop "Entity [862][alydus_destructiblefortification] (models/props_street/police_barricade2.mdl)"
+[Tue Apr 28 18:44:05 2026] <STEAM_0:1:455594560> gREG4IK: Внимание на квадрат: E9
+[Tue Apr 28 18:44:05 2026] <STEAM_0:1:455594560> gREG4IK: Внимание на квадрат: E9
+[Tue Apr 28 18:44:20 2026] <STEAM_0:0:570454016> Beep spawned prop "Entity [860][alydus_destructiblefortification] (models/jbarnes/props/concrete barricade.mdl)"
+[Tue Apr 28 18:44:26 2026] <STEAM_0:0:570454016> Beep spawned prop "Entity [864][alydus_destructiblefortification] (models/props_fortifications/concrete_barrier001_128_reference.mdl)"
+[Tue Apr 28 18:44:35 2026] <STEAM_0:0:570454016> Beep spawned prop "Entity [866][alydus_destructiblefortification] (models/props_fortifications/sandbags_line2b.mdl)"
+[Tue Apr 28 18:44:43 2026] <STEAM_0:0:570454016> Beep spawned prop "Entity [863][alydus_destructiblefortification] (models/props_fortifications/sandbags_line2_tall.mdl)"
+[Tue Apr 28 18:44:47 2026] Player "Casebook" <STEAM_0:0:585468466> has left the server
+[Tue Apr 28 18:46:37 2026] <STEAM_0:0:570454016> Beep spawned prop "Entity [610][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1.mdl)"
+[Tue Apr 28 18:46:38 2026] <STEAM_0:0:570454016> Beep spawned prop "Entity [613][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1.mdl)"
+[Tue Apr 28 18:46:41 2026] <STEAM_0:1:455594560> gREG4IK: /nato Я ВАС УБЬЮ РФ
+[Tue Apr 28 18:46:47 2026] <STEAM_0:0:570454016> Beep spawned prop "Entity [610][alydus_destructiblefortification] (models/props_fortifications/concrete_wall001_96_reference.mdl)"
+[Tue Apr 28 18:47:10 2026] <STEAM_0:0:570454016> Beep spawned prop "Entity [613][alydus_destructiblefortification] (models/props_fortifications/concrete_wall001_96_reference.mdl)"
+[Tue Apr 28 18:47:42 2026] Player "Casebook" <STEAM_0:0:585468466> is attempting to connect.
+[Tue Apr 28 18:48:02 2026] gREG4IK has killed david280911.
+[Tue Apr 28 18:48:12 2026] gREG4IK has killed Po_rA1.
+[Tue Apr 28 18:48:53 2026] <STEAM_0:0:570454016> Beep spawned prop "Entity [613][alydus_destructiblefortification] (models/props_fortifications/concrete_barrier001_96_reference.mdl)"
+[Tue Apr 28 18:49:01 2026] <STEAM_0:0:570454016> Beep spawned prop "Entity [617][alydus_destructiblefortification] (models/props_fortifications/concrete_barrier001_96_reference.mdl)"
+[Tue Apr 28 18:49:15 2026] Player "Casebook" <STEAM_0:0:585468466> has spawned in the server
+[Tue Apr 28 18:49:19 2026] <STEAM_0:0:570454016> Beep spawned prop "Entity [630][alydus_destructiblefortification] (models/iraq/ir_hesco_basket_01.mdl)"
+[Tue Apr 28 18:49:25 2026] <STEAM_0:0:570454016> Beep spawned prop "Entity [631][alydus_destructiblefortification] (models/iraq/ir_hesco_basket_01.mdl)"
+[Tue Apr 28 18:49:30 2026] <STEAM_0:0:570454016> Beep spawned prop "Entity [850][alydus_destructiblefortification] (models/iraq/ir_hesco_basket_01.mdl)"
+[Tue Apr 28 18:49:31 2026] <STEAM_0:0:570454016> Beep spawned prop "Entity [852][alydus_destructiblefortification] (models/iraq/ir_hesco_basket_01.mdl)"
+[Tue Apr 28 18:49:45 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [629][tfa_ins2_mk18]"
+[Tue Apr 28 18:49:45 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [630][tfa_ins2_mk18]"
+[Tue Apr 28 18:49:50 2026] <STEAM_0:0:570454016> Beep spawned prop "Entity [629][alydus_destructiblefortification] (models/props_street/police_barricade.mdl)"
+[Tue Apr 28 18:49:55 2026] <STEAM_0:0:650470378> Discar: /pass
+[Tue Apr 28 18:50:07 2026] <STEAM_0:0:570454016> Beep spawned prop "Entity [631][alydus_destructiblefortification] (models/props_street/police_barricade.mdl)"
+[Tue Apr 28 18:50:25 2026] Player "david280911" <STEAM_0:1:839860057> has left the server
+[Tue Apr 28 18:50:28 2026] <STEAM_0:1:455594560> gREG4IK ran command "model @ models/player/breen.mdl"
+[Tue Apr 28 18:51:30 2026] Po_rA1 has killed Discar.
+[Tue Apr 28 18:51:44 2026] <STEAM_0:0:887714123> Po_rA1: /ooc БЛЯЯЯЯТЬ
+[Tue Apr 28 18:52:41 2026] Po_rA1 has killed gREG4IK.
+[Tue Apr 28 18:52:53 2026] <STEAM_0:1:455594560> gREG4IK: /event В городе обьявился МЭР
+[Tue Apr 28 18:52:58 2026] <STEAM_0:1:455594560> gREG4IK ran command "respawn ^"
+[Tue Apr 28 18:53:10 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [643][tfa_ins2_mk18]"
+[Tue Apr 28 18:53:10 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [644][tfa_ins2_mk18]"
+[Tue Apr 28 18:53:13 2026] <STEAM_0:0:650470378> Discar: /ooc у меня скин сбросиля
+[Tue Apr 28 18:53:42 2026] Player "Дегустатор пива" <STEAM_0:1:862887967> is attempting to connect.
+[Tue Apr 28 18:54:00 2026] <STEAM_0:0:570454016> Beep: /setmodel Мэр models/breen.mdl
+[Tue Apr 28 18:54:06 2026] <STEAM_0:0:570454016> Beep ran command "menu"
+[Tue Apr 28 18:54:29 2026] <STEAM_0:0:570454016> Beep ran command "model Мэр models/breen.mdl"
+[Tue Apr 28 18:54:35 2026] Po_rA1 has killed gREG4IK.
+[Tue Apr 28 18:54:37 2026] <STEAM_0:1:455594560> gREG4IK ran command "respawn ^"
+[Tue Apr 28 18:54:43 2026] <STEAM_0:1:455594560> gREG4IK: /event В городе обьявился МЭР
+[Tue Apr 28 18:54:48 2026] Player "Дегустатор пива" <STEAM_0:1:862887967> has spawned in the server
+[Tue Apr 28 18:54:50 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [667][tfa_ins2_pd2_remington_msr]"
+[Tue Apr 28 18:54:50 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [668][tfa_ins2_pd2_remington_msr]"
+[Tue Apr 28 18:54:55 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [667][item_battery]"
+[Tue Apr 28 18:54:55 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [668][item_battery]"
+[Tue Apr 28 18:54:55 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [669][item_battery]"
+[Tue Apr 28 18:54:55 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [670][item_battery]"
+[Tue Apr 28 18:54:55 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [823][item_battery]"
+[Tue Apr 28 18:54:56 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [634][item_battery]"
+[Tue Apr 28 18:54:57 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [667][item_battery]"
+[Tue Apr 28 18:54:57 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [668][item_battery]"
+[Tue Apr 28 18:54:57 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [669][item_battery]"
+[Tue Apr 28 18:54:57 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [670][item_battery]"
+[Tue Apr 28 18:54:57 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [823][item_battery]"
+[Tue Apr 28 18:54:57 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [824][item_battery]"
+[Tue Apr 28 18:54:57 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [825][item_battery]"
+[Tue Apr 28 18:54:58 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [634][item_battery]"
+[Tue Apr 28 18:55:12 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [667][tfa_ins2_panzerfaust3]"
+[Tue Apr 28 18:55:12 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [668][tfa_ins2_panzerfaust3]"
+[Tue Apr 28 18:55:15 2026] <STEAM_0:0:570454016> Beep ran command "a Бля, я не могу норм модельку найти Брина"
+[Tue Apr 28 18:55:20 2026] Po_rA1 has killed gREG4IK.
+[Tue Apr 28 18:55:23 2026] <STEAM_0:1:455594560> gREG4IK ran command "respawn ^"
+[Tue Apr 28 18:55:30 2026] <STEAM_0:0:570454016> Beep ran command "model Мэр models/player/breen.mdl"
+[Tue Apr 28 18:55:41 2026] <STEAM_0:0:570454016> Beep ran command "a О, я сделял"
+[Tue Apr 28 18:55:50 2026] Player "Po_rA1" <STEAM_0:0:887714123> has left the server
+[Tue Apr 28 18:56:05 2026] <STEAM_0:0:650470378> Discar: /ooc Дискаров "Мэр"
+[Tue Apr 28 18:56:16 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [613][sw_mi24a]"
+[Tue Apr 28 18:56:39 2026] <STEAM_0:0:650470378> Discar: /ooc ахахахахах
+[Tue Apr 28 18:56:49 2026] Player "Pro100_Filya" <STEAM_0:0:803102855> is attempting to connect.
+[Tue Apr 28 18:57:15 2026] <STEAM_0:0:650470378> Discar: /ooc Основляю ГО ( Гражданскую Оборону)
+[Tue Apr 28 18:57:27 2026] <STEAM_0:0:570454016> Beep ran command "a Когда Апачи уже будут..."
+[Tue Apr 28 18:57:34 2026] <STEAM_0:1:862887967> Дегустатор пива: // основываю вообще то
+[Tue Apr 28 18:57:46 2026] <STEAM_0:0:650470378> Discar: /ooc да похуй
+[Tue Apr 28 18:58:22 2026] <STEAM_0:0:570454016> Beep ran command "goto Мэр Дискаров"
+[Tue Apr 28 18:58:26 2026] <STEAM_0:0:570454016> Beep ran command "model Мэр models/player/breen.mdl"
+[Tue Apr 28 18:59:32 2026] Player "Emperor of Mankind" <STEAM_0:1:443626364> is attempting to connect.
+[Tue Apr 28 19:00:01 2026] <STEAM_0:0:650470378> Discar: /net Обьявляю Город нейтральной территорией, за нарушение нейтралитета будете задержаны сотрудниками ГО
+[Tue Apr 28 19:00:08 2026] <STEAM_0:0:570454016> Beep ran command "goto Мэр Дискаров"
+[Tue Apr 28 19:00:17 2026] <STEAM_0:0:650470378> Discar: /com Обьявляю Город нейтральной территорией, за нарушение нейтралитета будете задержаны сотрудниками ГО
+[Tue Apr 28 19:00:26 2026] <STEAM_0:0:570454016> Beep: /ooc LoL
+[Tue Apr 28 19:00:30 2026] <STEAM_0:1:862887967> Дегустатор пива: // не
+[Tue Apr 28 19:00:53 2026] <STEAM_0:1:862887967> Дегустатор пива: // Ну хотя рп идея прикольная
+[Tue Apr 28 19:01:10 2026] <STEAM_0:0:585468466> Casebook: /ooc Грэг,иди сюда,тут  надо тебя
+[Tue Apr 28 19:01:15 2026] <STEAM_0:0:570454016> Beep ran command "goto Тайпан"
+[Tue Apr 28 19:01:20 2026] Player "OZOR" <STEAM_0:0:85754053> has spawned in the server
+[Tue Apr 28 19:01:22 2026] <STEAM_0:0:650470378> Discar: /ooc Щас птуроеб зайдет отвчаю
+[Tue Apr 28 19:01:32 2026] Player "★☾₳ⱤØ₦₦ł₭☽★" <STEAM_0:0:456016030> is attempting to connect.
+[Tue Apr 28 19:01:34 2026] <STEAM_0:1:862887967> Дегустатор пива: /rp закрыл свой хамер в городе
+[Tue Apr 28 19:01:41 2026] <STEAM_0:1:862887967> Дегустатор пива: здравствуйте
+[Tue Apr 28 19:02:23 2026] <STEAM_0:0:570454016> Beep: Он АФК.
+[Tue Apr 28 19:02:38 2026] <STEAM_0:0:570454016> Beep: Я и так тут.
+[Tue Apr 28 19:02:49 2026] <STEAM_0:0:650470378> Discar: /ooc дайте пистолетик для самообороны
+[Tue Apr 28 19:02:51 2026] <STEAM_0:1:862887967> Дегустатор пива spawned prop "Entity [642][alydus_destructiblefortification] (models/iraq/ir_hesco_basket_01.mdl)"
+[Tue Apr 28 19:02:55 2026] <STEAM_0:0:570454016> Beep: и шо
+[Tue Apr 28 19:02:56 2026] <STEAM_0:1:862887967> Дегустатор пива spawned prop "Entity [642][alydus_destructiblefortification] (models/iraq/ir_hesco_basket_01.mdl)"
+[Tue Apr 28 19:02:59 2026] <STEAM_0:1:862887967> Дегустатор пива spawned prop "Entity [642][alydus_destructiblefortification] (models/iraq/ir_hesco_basket_01.mdl)"
+[Tue Apr 28 19:02:59 2026] <STEAM_0:1:862887967> Дегустатор пива spawned prop "Entity [644][alydus_destructiblefortification] (models/iraq/ir_hesco_basket_01.mdl)"
+[Tue Apr 28 19:03:09 2026] <STEAM_0:0:570454016> Beep: А он сам хочет?
+[Tue Apr 28 19:03:15 2026] <STEAM_0:0:85754053> OZOR: /character
+[Tue Apr 28 19:03:21 2026] <STEAM_0:0:570454016> Beep: Залагало, не услышал
+[Tue Apr 28 19:03:23 2026] <STEAM_0:0:85754053> OZOR ran command "goto Грэг"
+[Tue Apr 28 19:03:26 2026] <STEAM_0:1:862887967> Дегустатор пива spawned prop "Entity [642][alydus_destructiblefortification] (models/props_fortifications/concrete_wall001_96_reference.mdl)"
+[Tue Apr 28 19:03:28 2026] <STEAM_0:1:862887967> Дегустатор пива spawned prop "Entity [650][alydus_destructiblefortification] (models/props_fortifications/concrete_wall001_96_reference.mdl)"
+[Tue Apr 28 19:03:28 2026] <STEAM_0:0:570454016> Beep: ок ща
+[Tue Apr 28 19:03:29 2026] <STEAM_0:0:85754053> OZOR: шо ты славик
+[Tue Apr 28 19:03:30 2026] Player "Emperor of Mankind" <STEAM_0:1:443626364> has spawned in the server
+[Tue Apr 28 19:03:31 2026] <STEAM_0:1:862887967> Дегустатор пива spawned prop "Entity [656][alydus_destructiblefortification] (models/props_fortifications/concrete_wall001_96_reference.mdl)"
+[Tue Apr 28 19:03:36 2026] <STEAM_0:1:862887967> Дегустатор пива spawned prop "Entity [658][alydus_destructiblefortification] (models/props_fortifications/concrete_wall001_96_reference.mdl)"
+[Tue Apr 28 19:03:38 2026] <STEAM_0:0:570454016> Beep ran command "send Мэр Дискаров"
+[Tue Apr 28 19:03:48 2026] <STEAM_0:0:570454016> Beep: Ты в ФСБ хочешь?
+[Tue Apr 28 19:04:15 2026] <STEAM_0:1:455594560> gREG4IK ran command "goto Schattenführer"
+[Tue Apr 28 19:04:15 2026] <STEAM_0:0:570454016> Beep: пон
+[Tue Apr 28 19:04:17 2026] <STEAM_0:1:862887967> Дегустатор пива: // ебать онлайн нато есть
+[Tue Apr 28 19:04:22 2026] <STEAM_0:1:862887967> Дегустатор пива spawned prop "Entity [616][alydus_destructiblefortification] (models/props_fortifications/concrete_wall001_96_reference.mdl)"
+[Tue Apr 28 19:04:22 2026] <STEAM_0:1:862887967> Дегустатор пива spawned prop "Entity [629][alydus_destructiblefortification] (models/props_fortifications/concrete_wall001_96_reference.mdl)"
+[Tue Apr 28 19:04:35 2026] <STEAM_0:0:570454016> Beep ran command "send Дискаров"
+[Tue Apr 28 19:04:37 2026] <STEAM_0:0:570454016> Beep: о
+[Tue Apr 28 19:04:40 2026] <STEAM_0:0:570454016> Beep: еррорка
+[Tue Apr 28 19:04:52 2026] <STEAM_0:0:570454016> Beep ran command "goto Тайпан"
+[Tue Apr 28 19:04:55 2026] <STEAM_0:0:570454016> Beep ran command "send Дискаров"
+[Tue Apr 28 19:05:05 2026] <STEAM_0:0:570454016> Beep: а че какое ему звание
+[Tue Apr 28 19:05:08 2026] <STEAM_0:0:570454016> Beep: спецуру
+[Tue Apr 28 19:05:13 2026] <STEAM_0:0:570454016> Beep: че ему выдавать
+[Tue Apr 28 19:05:17 2026] <STEAM_0:1:862887967> Дегустатор пива spawned prop "Entity [615][alydus_destructiblefortification] (models/jbarnes/props/concrete barricade.mdl)"
+[Tue Apr 28 19:05:18 2026] Player "ajiqmastermc" <STEAM_0:0:962681071> is attempting to connect.
+[Tue Apr 28 19:05:18 2026] Player "★☾₳ⱤØ₦₦ł₭☽★" <STEAM_0:0:456016030> has spawned in the server
+[Tue Apr 28 19:05:19 2026] <STEAM_0:0:570454016> Beep: Да.
+[Tue Apr 28 19:05:22 2026] <STEAM_0:1:862887967> Дегустатор пива spawned prop "Entity [658][alydus_destructiblefortification] (models/jbarnes/props/concrete barricade.mdl)"
+[Tue Apr 28 19:05:23 2026] <STEAM_0:0:570454016> Beep: Еррорка
+[Tue Apr 28 19:05:24 2026] <STEAM_0:1:862887967> Дегустатор пива spawned prop "Entity [667][alydus_destructiblefortification] (models/jbarnes/props/concrete barricade.mdl)"
+[Tue Apr 28 19:05:27 2026] <STEAM_0:0:570454016> Beep: хз
+[Tue Apr 28 19:05:29 2026] <STEAM_0:1:862887967> Дегустатор пива spawned prop "Entity [668][alydus_destructiblefortification] (models/jbarnes/props/concrete barricade.mdl)"
+[Tue Apr 28 19:05:41 2026] <STEAM_0:1:862887967> Дегустатор пива spawned prop "Entity [668][alydus_destructiblefortification] (models/jbarnes/props/concrete barricade.mdl)"
+[Tue Apr 28 19:05:55 2026] Player "Discar" <STEAM_0:0:650470378> has left the server
+[Tue Apr 28 19:06:00 2026] <STEAM_0:0:570454016> Beep: да
+[Tue Apr 28 19:06:05 2026] <STEAM_0:0:570454016> Beep: А где Дискаров
+[Tue Apr 28 19:06:17 2026] <STEAM_0:0:570454016> Beep: красава
+[Tue Apr 28 19:06:34 2026] <STEAM_0:1:862887967> Дегустатор пива spawned prop "Entity [624][alydus_destructiblefortification] (models/props_street/police_barricade2.mdl)"
+[Tue Apr 28 19:06:36 2026] <STEAM_0:1:862887967> Дегустатор пива spawned prop "Entity [627][alydus_destructiblefortification] (models/props_street/police_barricade2.mdl)"
+[Tue Apr 28 19:06:37 2026] <STEAM_0:1:862887967> Дегустатор пива spawned prop "Entity [629][alydus_destructiblefortification] (models/props_street/police_barricade2.mdl)"
+[Tue Apr 28 19:06:48 2026] <STEAM_0:1:862887967> Дегустатор пива spawned prop "Entity [611][alydus_destructiblefortification] (models/props_street/police_barricade2.mdl)"
+[Tue Apr 28 19:06:50 2026] <STEAM_0:1:862887967> Дегустатор пива spawned prop "Entity [624][alydus_destructiblefortification] (models/props_street/police_barricade2.mdl)"
+[Tue Apr 28 19:06:53 2026] <STEAM_0:1:862887967> Дегустатор пива spawned prop "Entity [629][alydus_destructiblefortification] (models/props_street/police_barricade2.mdl)"
+[Tue Apr 28 19:06:58 2026] <STEAM_0:1:862887967> Дегустатор пива spawned prop "Entity [609][alydus_destructiblefortification] (models/props_street/police_barricade2.mdl)"
+[Tue Apr 28 19:07:00 2026] <STEAM_0:1:862887967> Дегустатор пива spawned prop "Entity [651][alydus_destructiblefortification] (models/props_street/police_barricade2.mdl)"
+[Tue Apr 28 19:07:03 2026] <STEAM_0:1:862887967> Дегустатор пива spawned prop "Entity [658][alydus_destructiblefortification] (models/props_street/police_barricade2.mdl)"
+[Tue Apr 28 19:07:05 2026] <STEAM_0:1:862887967> Дегустатор пива spawned prop "Entity [662][alydus_destructiblefortification] (models/props_street/police_barricade.mdl)"
+[Tue Apr 28 19:07:07 2026] <STEAM_0:1:862887967> Дегустатор пива spawned prop "Entity [667][alydus_destructiblefortification] (models/props_street/police_barricade.mdl)"
+[Tue Apr 28 19:07:08 2026] <STEAM_0:1:862887967> Дегустатор пива spawned prop "Entity [668][alydus_destructiblefortification] (models/props_street/police_barricade.mdl)"
+[Tue Apr 28 19:07:10 2026] <STEAM_0:1:862887967> Дегустатор пива spawned prop "Entity [627][alydus_destructiblefortification] (models/props_street/police_barricade.mdl)"
+[Tue Apr 28 19:07:12 2026] <STEAM_0:1:862887967> Дегустатор пива spawned prop "Entity [674][alydus_destructiblefortification] (models/props_street/police_barricade.mdl)"
+[Tue Apr 28 19:07:38 2026] <STEAM_0:1:862887967> Дегустатор пива spawned prop "Entity [818][alydus_destructiblefortification] (models/props_street/police_barricade.mdl)"
+[Tue Apr 28 19:07:59 2026] <STEAM_0:1:862887967> Дегустатор пива spawned prop "Entity [699][alydus_destructiblefortification] (models/props_wasteland/exterior_fence002d.mdl)"
+[Tue Apr 28 19:08:04 2026] <STEAM_0:1:862887967> Дегустатор пива spawned prop "Entity [817][alydus_destructiblefortification] (models/props_wasteland/exterior_fence002d.mdl)"
+[Tue Apr 28 19:08:52 2026] <STEAM_0:0:570454016> Beep: мб она в кд?
+[Tue Apr 28 19:09:03 2026] <STEAM_0:1:455594560> gREG4IK ran command "respawn Schattenführer"
+[Tue Apr 28 19:09:05 2026] m67_srpnl has killed Дегустатор пива.
+[Tue Apr 28 19:09:08 2026] <STEAM_0:1:455594560> gREG4IK ran command "send Schattenführer"
+[Tue Apr 28 19:09:23 2026] <STEAM_0:0:570454016> Beep: а че мой перк делает
+[Tue Apr 28 19:09:29 2026] <STEAM_0:0:570454016> Beep: ремон техники
+[Tue Apr 28 19:09:33 2026] <STEAM_0:0:85754053> OZOR: /character
+[Tue Apr 28 19:09:35 2026] <STEAM_0:0:570454016> Beep: а
+[Tue Apr 28 19:09:36 2026] <STEAM_0:0:570454016> Beep: пон
+[Tue Apr 28 19:09:43 2026] Player "vagris036" <STEAM_0:1:390409812> is attempting to connect.
+[Tue Apr 28 19:09:45 2026] <STEAM_0:0:85754053> OZOR: ханоев как поднялся
+[Tue Apr 28 19:09:52 2026] <STEAM_0:0:85754053> OZOR: уже не слон
+[Tue Apr 28 19:10:10 2026] <STEAM_0:0:85754053> OZOR: ничего, щас ему по башке прилетит арта, проснется
+[Tue Apr 28 19:10:27 2026] <STEAM_0:0:85754053> OZOR: это к грегу, я чисто по техничке сервера
+[Tue Apr 28 19:10:36 2026] <STEAM_0:0:85754053> OZOR: норм
+[Tue Apr 28 19:10:52 2026] <STEAM_0:0:85754053> OZOR: если у тебя появились ерорки, это баг гмода, перезайти в гмод нада
+[Tue Apr 28 19:11:10 2026] <STEAM_0:0:85754053> OZOR: проверка целостности файлов
+[Tue Apr 28 19:11:15 2026] <STEAM_0:0:570454016> Beep spawned SENT "Entity [671][sw_mi35m]"
+[Tue Apr 28 19:11:30 2026] <STEAM_0:0:85754053> OZOR: ебучая музыка, я чуть не оглох
+[Tue Apr 28 19:11:36 2026] <STEAM_0:1:862887967> Дегустатор пива: АГОНЬ
+[Tue Apr 28 19:11:39 2026] <STEAM_0:1:862887967> Дегустатор пива: АГОНЬ
+[Tue Apr 28 19:11:57 2026] <STEAM_0:0:85754053> OZOR: ну физически да
+[Tue Apr 28 19:11:58 2026] <STEAM_0:1:455594560> gREG4IK: /rp Группа НАТО ВЫДВИНУЛАСЬ НА ПОЛЕ БОЯ
+[Tue Apr 28 19:12:06 2026] <STEAM_0:1:455594560> gREG4IK: /nato БОЙТЕСЬ РУССКИЕ ВАМ ПИЗДЕЦ
+[Tue Apr 28 19:12:07 2026] Player "Discar" <STEAM_0:0:650470378> is attempting to connect.
+[Tue Apr 28 19:12:12 2026] <STEAM_0:0:85754053> OZOR: натовцы шо та там выебываются
+[Tue Apr 28 19:12:13 2026] <STEAM_0:1:862887967> Дегустатор пива: /nato не туда
+[Tue Apr 28 19:12:27 2026] <STEAM_0:1:862887967> Дегустатор пива: БЛЯТЬ ВЕРТ СБИВАЙ
+[Tue Apr 28 19:12:27 2026] <STEAM_0:1:455594560> gREG4IK: /com БОЙТЕСЬ РУССКИЕ ВАМ ПИЗДЕЦ
+[Tue Apr 28 19:12:34 2026] <STEAM_0:0:85754053> OZOR: рядовой мехвод я
+[Tue Apr 28 19:12:34 2026] <STEAM_0:0:85754053> OZOR: ы
+[Tue Apr 28 19:12:40 2026] <STEAM_0:1:862887967> Дегустатор пива: я знаю)
+[Tue Apr 28 19:12:41 2026] <STEAM_0:0:85754053> OZOR: может взять че потяжелее
+[Tue Apr 28 19:12:44 2026] <STEAM_0:1:455594560> gREG4IK: /com БОЙТЕСЬ РУССКИЕ ВАМ ПИЗДЕЦ
+[Tue Apr 28 19:12:55 2026] <STEAM_0:0:85754053> OZOR: ну все это вызов го в парк
+[Tue Apr 28 19:12:59 2026] <STEAM_0:0:85754053> OZOR: я рядовой
+[Tue Apr 28 19:13:04 2026] <STEAM_0:0:85754053> OZOR: у сука
+[Tue Apr 28 19:13:06 2026] <STEAM_0:0:85754053> OZOR: так точно
+[Tue Apr 28 19:13:09 2026] <STEAM_0:1:455594560> gREG4IK: /event Птичка "НАТО" кружит над поселениям будте аккуратны
+[Tue Apr 28 19:13:24 2026] <STEAM_0:0:85754053> OZOR: Товарщик капитан выдвигаемся в парк для получения борони
+[Tue Apr 28 19:13:28 2026] <STEAM_0:0:85754053> OZOR: а зачем сейсчас
+[Tue Apr 28 19:13:33 2026] <STEAM_0:0:85754053> OZOR: а зачем сейсчас
+[Tue Apr 28 19:13:39 2026] Player "Discar" <STEAM_0:0:650470378> has spawned in the server
+[Tue Apr 28 19:13:41 2026] <STEAM_0:0:85754053> OZOR: ну щас постреляемся
+[Tue Apr 28 19:13:58 2026] Player "Pioner" <STEAM_0:1:923042528> is attempting to connect.
+[Tue Apr 28 19:14:07 2026] <STEAM_0:0:85754053> OZOR: у тебя же нет да спецухи
+[Tue Apr 28 19:14:15 2026] <STEAM_0:1:862887967> Дегустатор пива spawned prop "Entity [673][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1.mdl)"
+[Tue Apr 28 19:14:23 2026] <STEAM_0:1:862887967> Дегустатор пива spawned prop "Entity [950][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1.mdl)"
+[Tue Apr 28 19:14:23 2026] <STEAM_0:1:862887967> Дегустатор пива spawned prop "Entity [951][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1.mdl)"
+[Tue Apr 28 19:14:31 2026] <STEAM_0:1:862887967> Дегустатор пива spawned prop "Entity [944][alydus_destructiblefortification] (models/iraq/ir_hesco_basket_01.mdl)"
+[Tue Apr 28 19:14:32 2026] <STEAM_0:1:862887967> Дегустатор пива spawned prop "Entity [949][alydus_destructiblefortification] (models/iraq/ir_hesco_basket_01.mdl)"
+[Tue Apr 28 19:14:34 2026] <STEAM_0:1:862887967> Дегустатор пива spawned prop "Entity [950][alydus_destructiblefortification] (models/iraq/ir_hesco_basket_01.mdl)"
+[Tue Apr 28 19:14:35 2026] <STEAM_0:1:862887967> Дегустатор пива spawned prop "Entity [817][alydus_destructiblefortification] (models/iraq/ir_hesco_basket_01.mdl)"
+[Tue Apr 28 19:14:47 2026] <STEAM_0:1:862887967> Дегустатор пива spawned prop "Entity [951][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1.mdl)"
+[Tue Apr 28 19:14:48 2026] <STEAM_0:1:862887967> Дегустатор пива spawned prop "Entity [952][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1.mdl)"
+[Tue Apr 28 19:14:55 2026] <STEAM_0:0:650470378> Discar: /ooc переведите обратно в гражданские я уже хочу быть мэром
+[Tue Apr 28 19:14:55 2026] <STEAM_0:1:862887967> Дегустатор пива spawned prop "Entity [673][alydus_destructiblefortification] (models/iraq/ir_hesco_basket_01b.mdl)"
+[Tue Apr 28 19:14:55 2026] <STEAM_0:0:85754053> OZOR: да похуй
+[Tue Apr 28 19:15:08 2026] <STEAM_0:1:862887967> Дегустатор пива: смотри
+[Tue Apr 28 19:15:09 2026] <STEAM_0:0:570454016> Beep spawned SENT "Entity [671][sw_mi35m]"
+[Tue Apr 28 19:15:09 2026] Player "Креветка" <STEAM_0:1:942364657> is attempting to connect.
+[Tue Apr 28 19:15:12 2026] <STEAM_0:0:85754053> OZOR: а куда ехать то
+[Tue Apr 28 19:15:30 2026] Player "Pro100_Filya" <STEAM_0:0:803102855> is attempting to connect.
+[Tue Apr 28 19:15:36 2026] <STEAM_0:0:650470378> Discar: /ooc переведите обратно в гражданские я уже хочу быть мэром
+[Tue Apr 28 19:15:37 2026] <STEAM_0:0:85754053> OZOR: а какие флаги захвачены?
+[Tue Apr 28 19:15:38 2026] Player "Pioner" <STEAM_0:1:923042528> has spawned in the server
+[Tue Apr 28 19:15:46 2026] <STEAM_0:1:862887967> Дегустатор пива: захват не идет
+[Tue Apr 28 19:16:00 2026] <STEAM_0:1:862887967> Дегустатор пива: выди с круга пожалуйста
+[Tue Apr 28 19:16:06 2026] <STEAM_0:0:85754053> OZOR: бля
+[Tue Apr 28 19:16:31 2026] Player "Креветка" <STEAM_0:1:942364657> has spawned in the server
+[Tue Apr 28 19:16:53 2026] worldspawn has killed Casebook.
+[Tue Apr 28 19:17:06 2026] <STEAM_0:1:443626364> Emperor of Mankind: Внимание на квадрат: H8
+[Tue Apr 28 19:17:06 2026] <STEAM_0:1:443626364> Emperor of Mankind: Внимание на квадрат: H8
+[Tue Apr 28 19:17:09 2026] <STEAM_0:0:650470378> Discar: /ooc Грэг если свободен переведи обратно в гражданские мэром
+[Tue Apr 28 19:17:14 2026] <STEAM_0:1:862887967> Дегустатор пива: Внимание на квадрат: H8
+[Tue Apr 28 19:17:14 2026] <STEAM_0:1:862887967> Дегустатор пива: Внимание на квадрат: H8
+[Tue Apr 28 19:17:16 2026] <STEAM_0:0:570454016> Beep: /nato Вражеский танк на Заводе уничтожен.
+[Tue Apr 28 19:17:23 2026] <STEAM_0:0:85754053> OZOR: похуй
+[Tue Apr 28 19:17:35 2026] <STEAM_0:0:85754053> OZOR: я оружие даже не взял
+[Tue Apr 28 19:17:38 2026] <STEAM_0:1:862887967> Дегустатор пива: да ну уйди с захвата пожалуйста захват не идет
+[Tue Apr 28 19:17:51 2026] <STEAM_0:1:862887967> Дегустатор пива: баг чтоли
+[Tue Apr 28 19:17:54 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc Кто Дискарова принял в ФСБ?
+[Tue Apr 28 19:17:59 2026] <STEAM_0:1:862887967> Дегустатор пива: // Я
+[Tue Apr 28 19:17:59 2026] Pioner has killed Casebook.
+[Tue Apr 28 19:18:05 2026] <STEAM_0:0:570454016> Beep: /ooc КМД ФСБ.
+[Tue Apr 28 19:18:10 2026] <STEAM_0:0:585468466> Casebook: /ooc Ложь
+[Tue Apr 28 19:18:24 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc Я снимаю
+[Tue Apr 28 19:18:28 2026] <STEAM_0:0:650470378> Discar: /ooc переведите обратно в гражданские я уже хочу быть мэром
+[Tue Apr 28 19:18:29 2026] <STEAM_0:0:585468466> Casebook: /ooc админ ему выдал
+[Tue Apr 28 19:18:34 2026] <STEAM_0:1:942364657> Креветка: /ooc ГДЕ МОЙ ПАНЗЕРФАУСТ?
+[Tue Apr 28 19:18:34 2026] Pioner has killed OZOR.
+[Tue Apr 28 19:18:34 2026] <STEAM_0:1:455594560> gREG4IK: /event NATO Приобладает на точках.
+[Tue Apr 28 19:18:43 2026] <STEAM_0:0:85754053> OZOR: // пидары
+[Tue Apr 28 19:18:48 2026] <STEAM_0:1:942364657> Креветка: /ooc ГДЕ МОЙ ПАНЗЕРФАУСТ?
+[Tue Apr 28 19:18:52 2026] <STEAM_0:0:570454016> Beep spawned SENT "Entity [672][sw_mi35m]"
+[Tue Apr 28 19:18:56 2026] Pioner has killed Casebook.
+[Tue Apr 28 19:19:02 2026] <STEAM_0:0:85754053> OZOR ran command "respawn Ковалев"
+[Tue Apr 28 19:19:10 2026] <STEAM_0:0:650470378> Discar: /ooc Какиой призывник в гражданские
+[Tue Apr 28 19:19:14 2026] <STEAM_0:0:85754053> OZOR: ханоев
+[Tue Apr 28 19:19:18 2026] <STEAM_0:0:85754053> OZOR: нас ебут а мы крепчаем
+[Tue Apr 28 19:19:22 2026] m67_srpnl has killed Дегустатор пива.
+[Tue Apr 28 19:19:22 2026] <STEAM_0:0:85754053> OZOR: а я че
+[Tue Apr 28 19:19:33 2026] <STEAM_0:0:85754053> OZOR: нас ебут а мы крепчаем
+[Tue Apr 28 19:19:42 2026] <STEAM_0:0:585468466> Casebook: /ooc Ковалев иди сюда
+[Tue Apr 28 19:19:48 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: :ok_hand:
+[Tue Apr 28 19:19:49 2026] <STEAM_0:0:85754053> OZOR: эти мудаки на вертолете сначала обстреляли
+[Tue Apr 28 19:19:52 2026] <STEAM_0:0:650470378> Discar: /ooc Одежду мэра и ник
+[Tue Apr 28 19:19:58 2026] <STEAM_0:0:85754053> OZOR: потом с горы тварь крыла
+[Tue Apr 28 19:20:01 2026] <STEAM_0:0:585468466> Casebook: /ooc Ковалев иди сюда
+[Tue Apr 28 19:20:05 2026] <STEAM_0:0:570454016> Beep ran command "model Мэр Дискаров models/player/breen.mdl"
+[Tue Apr 28 19:20:05 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: а шо так
+[Tue Apr 28 19:20:07 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: рейд был?
+[Tue Apr 28 19:20:08 2026] <STEAM_0:1:455594560> gREG4IK: /ooc бля тайпан ты взял дискарова в ФСБ или нет?
+[Tue Apr 28 19:20:09 2026] <STEAM_0:0:85754053> OZOR: ахуели они
+[Tue Apr 28 19:20:10 2026] <STEAM_0:0:585468466> Casebook: /ooc Ковалев иди сюда
+[Tue Apr 28 19:20:18 2026] <STEAM_0:0:85754053> OZOR ran command "goto Тайпан"
+[Tue Apr 28 19:20:21 2026] <STEAM_0:0:85754053> OZOR: а
+[Tue Apr 28 19:20:28 2026] <STEAM_0:0:85754053> OZOR: от всего
+[Tue Apr 28 19:20:37 2026] <STEAM_0:0:85754053> OZOR: сначала от взырыва
+[Tue Apr 28 19:20:40 2026] <STEAM_0:0:85754053> OZOR: я его возродил
+[Tue Apr 28 19:20:47 2026] <STEAM_0:0:85754053> OZOR: я могу просто
+[Tue Apr 28 19:20:48 2026] Player "Pro100_Filya" <STEAM_0:0:803102855> is attempting to connect.
+[Tue Apr 28 19:20:54 2026] Pioner has killed Casebook.
+[Tue Apr 28 19:20:54 2026] <STEAM_0:0:570454016> Beep spawned SENT "Entity [668][sw_mi35m]"
+[Tue Apr 28 19:20:55 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc чот меня Дискаров бесит, огонь по городу с Солнцепёка
+[Tue Apr 28 19:20:57 2026] <STEAM_0:0:85754053> OZOR: хы
+[Tue Apr 28 19:21:05 2026] <STEAM_0:0:85754053> OZOR: та я уберу может чтобы от взрыва не было
+[Tue Apr 28 19:21:05 2026] <STEAM_0:1:862887967> Дегустатор пива: // Грэг куда деньги можно тратить?
+[Tue Apr 28 19:21:08 2026] Player "vagris036" <STEAM_0:1:390409812> has spawned in the server
+[Tue Apr 28 19:21:10 2026] <STEAM_0:0:85754053> OZOR used tool "remover"
+[Tue Apr 28 19:21:10 2026] <STEAM_0:0:85754053> OZOR used tool "remover"
+[Tue Apr 28 19:21:10 2026] <STEAM_0:0:85754053> OZOR used tool "remover"
+[Tue Apr 28 19:21:10 2026] <STEAM_0:0:85754053> OZOR used tool "remover"
+[Tue Apr 28 19:21:10 2026] <STEAM_0:0:85754053> OZOR used tool "remover"
+[Tue Apr 28 19:21:11 2026] <STEAM_0:0:85754053> OZOR used tool "remover"
+[Tue Apr 28 19:21:13 2026] <STEAM_0:1:455594560> gREG4IK: /ooc пока некуда
+[Tue Apr 28 19:21:19 2026] Player "Emperor of Mankind" <STEAM_0:1:443626364> has left the server
+[Tue Apr 28 19:21:33 2026] <STEAM_0:0:85754053> OZOR ran command "goto Грэг"
+[Tue Apr 28 19:21:33 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc Хрэх, Грег, а мы можем верты брать?
+[Tue Apr 28 19:21:36 2026] <STEAM_0:1:862887967> Дегустатор пива: // дай возможность передавать и выкидывай деньги, для рп
+[Tue Apr 28 19:21:38 2026] Player "wolfhound" <STEAM_0:0:428608365> is attempting to connect.
+[Tue Apr 28 19:21:39 2026] <STEAM_0:0:85754053> OZOR: грех
+[Tue Apr 28 19:21:42 2026] <STEAM_0:0:85754053> OZOR: а вы не ахули
+[Tue Apr 28 19:21:44 2026] <STEAM_0:1:923042528> Pioner: /nato инфа про противника есть?
+[Tue Apr 28 19:21:47 2026] <STEAM_0:0:85754053> OZOR: с вертушек рф нас ебать
+[Tue Apr 28 19:21:47 2026] <STEAM_0:0:585468466> Casebook: /ooc Грэг иди сюда,надо проясниться
+[Tue Apr 28 19:21:57 2026] Player "wolfhound" <STEAM_0:0:428608365> is attempting to connect.
+[Tue Apr 28 19:22:12 2026] <STEAM_0:0:585468466> Casebook: /ooc Грэг иди сюда,надо проясниться
+[Tue Apr 28 19:22:15 2026] <STEAM_0:0:85754053> OZOR: кто
+[Tue Apr 28 19:22:25 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [910][sw_rocket_spikelr_v3]"
+[Tue Apr 28 19:22:36 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: стой
+[Tue Apr 28 19:22:39 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: отведи его в кпз
+[Tue Apr 28 19:22:41 2026] <STEAM_0:1:455594560> gREG4IK ran command "goto Тайпан"
+[Tue Apr 28 19:22:43 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: и допрос проведи
+[Tue Apr 28 19:23:25 2026] <STEAM_0:0:585468466> Casebook: /ooc Грэг иди сюда,надо проясниться
+[Tue Apr 28 19:23:26 2026] <STEAM_0:1:455594560> gREG4IK ran command "goto White"
+[Tue Apr 28 19:24:09 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [671][sw_rocket_spikelr_v3]"
+[Tue Apr 28 19:24:09 2026] worldspawn has killed OZOR.
+[Tue Apr 28 19:24:10 2026] <STEAM_0:0:585468466> Casebook: /rf А он мэр города,зачем его допрашивать?
+[Tue Apr 28 19:24:24 2026] <STEAM_0:1:862887967> Дегустатор пива spawned prop "Entity [828][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1.mdl)"
+[Tue Apr 28 19:24:24 2026] <STEAM_0:1:862887967> Дегустатор пива spawned prop "Entity [830][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1.mdl)"
+[Tue Apr 28 19:24:25 2026] <STEAM_0:0:585468466> Casebook: /ooc Грэг иди сюда,надо проясниться
+[Tue Apr 28 19:24:26 2026] <STEAM_0:1:923042528> Pioner: /nato что за техника в городе?
+[Tue Apr 28 19:24:26 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /rf по приколу
+[Tue Apr 28 19:24:39 2026] <STEAM_0:1:862887967> Дегустатор пива: /nato абрамс м1а1 свой
+[Tue Apr 28 19:24:41 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: по приколу
+[Tue Apr 28 19:24:45 2026] <STEAM_0:1:862887967> Дегустатор пива spawned prop "Entity [644][alydus_destructiblefortification] (models/props_street/police_barricade2.mdl)"
+[Tue Apr 28 19:24:47 2026] <STEAM_0:1:862887967> Дегустатор пива spawned prop "Entity [652][alydus_destructiblefortification] (models/props_street/police_barricade2.mdl)"
+[Tue Apr 28 19:24:48 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: все что знает
+[Tue Apr 28 19:24:53 2026] <STEAM_0:1:862887967> Дегустатор пива spawned prop "Entity [633][alydus_destructiblefortification] (models/props_street/police_barricade2.mdl)"
+[Tue Apr 28 19:24:53 2026] <STEAM_0:1:390409812> vagris036: ДА
+[Tue Apr 28 19:24:53 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: и зачем пилил бюджет
+[Tue Apr 28 19:24:54 2026] <STEAM_0:1:862887967> Дегустатор пива spawned prop "Entity [654][alydus_destructiblefortification] (models/props_street/police_barricade2.mdl)"
+[Tue Apr 28 19:24:56 2026] <STEAM_0:1:862887967> Дегустатор пива spawned prop "Entity [655][alydus_destructiblefortification] (models/props_street/police_barricade2.mdl)"
+[Tue Apr 28 19:25:03 2026] <STEAM_0:0:85754053> OZOR ran command "respawn Ковалев"
+[Tue Apr 28 19:25:04 2026] <STEAM_0:1:862887967> Дегустатор пива spawned prop "Entity [676][alydus_destructiblefortification] (models/props_street/police_barricade2.mdl)"
+[Tue Apr 28 19:25:07 2026] <STEAM_0:1:862887967> Дегустатор пива spawned prop "Entity [677][alydus_destructiblefortification] (models/props_street/police_barricade2.mdl)"
+[Tue Apr 28 19:25:09 2026] <STEAM_0:1:390409812> vagris036: НЕ
+[Tue Apr 28 19:25:17 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: Для тебя Ханоев Александрович
+[Tue Apr 28 19:25:21 2026] <STEAM_0:1:390409812> vagris036: ОН ЖЕ ЗАБЛОКАН
+[Tue Apr 28 19:25:22 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [676][sw_rocket_spikelr_v3]"
+[Tue Apr 28 19:25:22 2026] <STEAM_0:1:862887967> Дегустатор пива: // сука абрамс спиздели
+[Tue Apr 28 19:25:23 2026] OZOR has killed OZOR.
+[Tue Apr 28 19:25:24 2026] OZOR has killed OZOR.
+[Tue Apr 28 19:25:26 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: кто
+[Tue Apr 28 19:25:32 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: кто?
+[Tue Apr 28 19:25:32 2026] <STEAM_0:1:390409812> vagris036: ОКЕЙ
+[Tue Apr 28 19:25:41 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: какой Грег?
+[Tue Apr 28 19:25:43 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: ЗВание
+[Tue Apr 28 19:25:46 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: Должность
+[Tue Apr 28 19:26:02 2026] <STEAM_0:0:570454016> Beep: /looc Гений, милиардер, плэйбой, филантроп.
+[Tue Apr 28 19:26:03 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: не знаем таких
+[Tue Apr 28 19:26:05 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: отказано
+[Tue Apr 28 19:26:05 2026] <STEAM_0:0:85754053> OZOR ran command "respawn Ковалев"
+[Tue Apr 28 19:26:07 2026] <STEAM_0:0:85754053> OZOR: /sit
+[Tue Apr 28 19:26:07 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: отказано
+[Tue Apr 28 19:26:08 2026] <STEAM_0:1:862887967> Дегустатор пива spawned prop "Entity [669][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1.mdl)"
+[Tue Apr 28 19:26:08 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [670][sw_rocket_spikelr_v3]"
+[Tue Apr 28 19:26:09 2026] <STEAM_0:1:862887967> Дегустатор пива spawned prop "Entity [671][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1.mdl)"
+[Tue Apr 28 19:26:10 2026] <STEAM_0:1:862887967> Дегустатор пива spawned prop "Entity [675][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1.mdl)"
+[Tue Apr 28 19:26:10 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [668][sw_rocket_spikelr_v3]"
+[Tue Apr 28 19:26:11 2026] OZOR has killed OZOR.
+[Tue Apr 28 19:26:12 2026] OZOR has killed OZOR.
+[Tue Apr 28 19:26:12 2026] <STEAM_0:1:862887967> Дегустатор пива spawned prop "Entity [633][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1.mdl)"
+[Tue Apr 28 19:26:13 2026] <STEAM_0:1:862887967> Дегустатор пива spawned prop "Entity [644][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1.mdl)"
+[Tue Apr 28 19:26:14 2026] <STEAM_0:0:585468466> Casebook: /ooc Грэг иди сюда,надо проясниться
+[Tue Apr 28 19:26:18 2026] <STEAM_0:1:862887967> Дегустатор пива spawned prop "Entity [652][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1.mdl)"
+[Tue Apr 28 19:26:19 2026] <STEAM_0:1:862887967> Дегустатор пива spawned prop "Entity [654][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1.mdl)"
+[Tue Apr 28 19:26:21 2026] <STEAM_0:1:455594560> gREG4IK: /ooc жди
+[Tue Apr 28 19:26:22 2026] <STEAM_0:1:862887967> Дегустатор пива spawned prop "Entity [654][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1.mdl)"
+[Tue Apr 28 19:26:26 2026] <STEAM_0:1:862887967> Дегустатор пива spawned prop "Entity [668][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1.mdl)"
+[Tue Apr 28 19:26:27 2026] <STEAM_0:1:862887967> Дегустатор пива spawned prop "Entity [670][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1.mdl)"
+[Tue Apr 28 19:26:28 2026] <STEAM_0:1:862887967> Дегустатор пива spawned prop "Entity [677][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1.mdl)"
+[Tue Apr 28 19:26:30 2026] <STEAM_0:1:862887967> Дегустатор пива spawned prop "Entity [678][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1.mdl)"
+[Tue Apr 28 19:26:33 2026] <STEAM_0:1:862887967> Дегустатор пива spawned prop "Entity [677][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1.mdl)"
+[Tue Apr 28 19:26:33 2026] <STEAM_0:0:570454016> Beep ran command "goto Грэг"
+[Tue Apr 28 19:26:39 2026] <STEAM_0:1:862887967> Дегустатор пива spawned prop "Entity [679][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1.mdl)"
+[Tue Apr 28 19:26:41 2026] <STEAM_0:1:862887967> Дегустатор пива spawned prop "Entity [630][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1.mdl)"
+[Tue Apr 28 19:26:43 2026] <STEAM_0:1:862887967> Дегустатор пива spawned prop "Entity [679][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1.mdl)"
+[Tue Apr 28 19:26:48 2026] <STEAM_0:1:862887967> Дегустатор пива spawned prop "Entity [630][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1.mdl)"
+[Tue Apr 28 19:26:49 2026] <STEAM_0:1:862887967> Дегустатор пива spawned prop "Entity [680][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1.mdl)"
+[Tue Apr 28 19:26:59 2026] <STEAM_0:0:85754053> OZOR ran command "respawn Ковалев"
+[Tue Apr 28 19:27:01 2026] <STEAM_0:0:85754053> OZOR: /sit
+[Tue Apr 28 19:27:03 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [668][sw_rocket_spikelr_v3]"
+[Tue Apr 28 19:27:04 2026] OZOR has killed OZOR.
+[Tue Apr 28 19:27:05 2026] OZOR has killed OZOR.
+[Tue Apr 28 19:27:05 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc Дискаров, на пилота хочешь?
+[Tue Apr 28 19:27:06 2026] <STEAM_0:0:650470378> Discar: /ooc Рапорт в Москву
+[Tue Apr 28 19:27:30 2026] <STEAM_0:0:650470378> Discar: /ooc ФэСБэ хочу
+[Tue Apr 28 19:27:34 2026] <STEAM_0:0:650470378> Discar: /ooc ФэСБэ хочу
+[Tue Apr 28 19:27:45 2026] <STEAM_0:1:862887967> Дегустатор пива: это я
+[Tue Apr 28 19:27:56 2026] <STEAM_0:1:862887967> Дегустатор пива: смотри как могу
+[Tue Apr 28 19:28:01 2026] <STEAM_0:1:862887967> Дегустатор пива spawned prop "Entity [668][alydus_destructiblefortification] (models/iraq/ir_hesco_basket_01.mdl)"
+[Tue Apr 28 19:28:02 2026] <STEAM_0:1:862887967> Дегустатор пива spawned prop "Entity [670][alydus_destructiblefortification] (models/iraq/ir_hesco_basket_01.mdl)"
+[Tue Apr 28 19:28:03 2026] <STEAM_0:1:862887967> Дегустатор пива spawned prop "Entity [671][alydus_destructiblefortification] (models/iraq/ir_hesco_basket_01.mdl)"
+[Tue Apr 28 19:28:08 2026] <STEAM_0:1:862887967> Дегустатор пива spawned prop "Entity [630][alydus_destructiblefortification] (models/iraq/ir_hesco_basket_01.mdl)"
+[Tue Apr 28 19:28:11 2026] <STEAM_0:0:85754053> OZOR ran command "respawn Ковалев"
+[Tue Apr 28 19:28:13 2026] <STEAM_0:0:85754053> OZOR: /sit
+[Tue Apr 28 19:28:14 2026] <STEAM_0:1:862887967> Дегустатор пива spawned prop "Entity [654][alydus_destructiblefortification] (models/iraq/ir_hesco_basket_01.mdl)"
+[Tue Apr 28 19:28:19 2026] <STEAM_0:1:862887967> Дегустатор пива spawned prop "Entity [679][alydus_destructiblefortification] (models/iraq/ir_hesco_basket_01.mdl)"
+[Tue Apr 28 19:28:20 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [635][sw_quadbike]"
+[Tue Apr 28 19:28:23 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /rf в бой нахуй все
+[Tue Apr 28 19:28:27 2026] <STEAM_0:0:650470378> Discar: /ooc я в КПЗ НАТО
+[Tue Apr 28 19:28:28 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [635][lvs_wheeldrive_hummer_m134]"
+[Tue Apr 28 19:28:33 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [697][sw_rocket_spikelr_v3]"
+[Tue Apr 28 19:28:44 2026] <STEAM_0:1:862887967> Дегустатор пива spawned prop "Entity [635][alydus_destructiblefortification] (models/iraq/ir_hesco_basket_01.mdl)"
+[Tue Apr 28 19:28:46 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [644][lvs_wheeldrive_hummer_m2]"
+[Tue Apr 28 19:28:49 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [827][lvs_wheeldrive_hummer_m240]"
+[Tue Apr 28 19:28:50 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [644][lvs_wheeldrive_hummer_m134]"
+[Tue Apr 28 19:28:53 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [827][lvs_wheeldrive_hummer_tow]"
+[Tue Apr 28 19:28:59 2026] <STEAM_0:1:862887967> Дегустатор пива spawned prop "Entity [668][alydus_destructiblefortification] (models/iraq/ir_hesco_basket_01.mdl)"
+[Tue Apr 28 19:29:00 2026] <STEAM_0:0:650470378> Discar: /ooc Форму Мэра пожалуйста
+[Tue Apr 28 19:29:06 2026] <STEAM_0:0:570454016> Beep ran command "model Мэр Дискаров models/player/breen.mdl"
+[Tue Apr 28 19:29:07 2026] <STEAM_0:1:862887967> Дегустатор пива: не
+[Tue Apr 28 19:29:11 2026] <STEAM_0:0:85754053> OZOR ran command "respawn Ковалев"
+[Tue Apr 28 19:29:24 2026] <STEAM_0:0:650470378> Discar: /ooc Не вижу я этой формы
+[Tue Apr 28 19:29:26 2026] <STEAM_0:0:650470378> Discar: /ooc Не вижу я этой формы
+[Tue Apr 28 19:29:34 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [691][sw_mine_tm62_v3]"
+[Tue Apr 28 19:29:41 2026] <STEAM_0:0:570454016> Beep ran command "model Мэр Дискаров models/player/breen.mdl"
+[Tue Apr 28 19:29:43 2026] <STEAM_0:0:585468466> Casebook: /ooc Грэг иди сюда,надо проясниться
+[Tue Apr 28 19:29:45 2026] <STEAM_0:0:570454016> Beep ran command "a чзх"
+[Tue Apr 28 19:29:53 2026] <STEAM_0:1:455594560> gREG4IK ran command "goto Тайпан"
+[Tue Apr 28 19:29:56 2026] <STEAM_0:0:650470378> Discar: /ooc Не видно(
+[Tue Apr 28 19:29:59 2026] <STEAM_0:1:942364657> Креветка: ГРЭГ
+[Tue Apr 28 19:29:59 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [690][sw_mine_tm62_v3]"
+[Tue Apr 28 19:30:01 2026] <STEAM_0:1:455594560> gREG4IK ran command "send Мэр Дискаров"
+[Tue Apr 28 19:30:07 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [697][lvs_wheeldrive_hummer_m134]"
+[Tue Apr 28 19:30:13 2026] OZOR has killed OZOR.
+[Tue Apr 28 19:30:24 2026] Player "Pro100_Filya" <STEAM_0:0:803102855> has spawned in the server
+[Tue Apr 28 19:30:27 2026] <STEAM_0:0:570454016> Beep spawned SENT "Entity [920][sw_mine_ozm72_v3]"
+[Tue Apr 28 19:30:34 2026] <STEAM_0:1:942364657> Креветка: /ooc ГДЕ МОЙ ПАНЗЕРФАУСТ?
+[Tue Apr 28 19:30:35 2026] <STEAM_0:0:85754053> OZOR ran command "respawn Ковалев"
+[Tue Apr 28 19:30:41 2026] <STEAM_0:1:862887967> Дегустатор пива: // я сьел
+[Tue Apr 28 19:30:50 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [923][sw_mine_tm62_v3]"
+[Tue Apr 28 19:30:54 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [926][lvs_wheeldrive_hummer_m134]"
+[Tue Apr 28 19:30:54 2026] <STEAM_0:0:570454016> Beep ran command "model Мэр Дискаров models/player/breen.mdl"
+[Tue Apr 28 19:30:59 2026] OZOR has killed OZOR.
+[Tue Apr 28 19:31:01 2026] <STEAM_0:0:570454016> Beep ran command "a Бля да че за залупа"
+[Tue Apr 28 19:31:02 2026] <STEAM_0:1:862887967> Дегустатор пива: садись
+[Tue Apr 28 19:31:15 2026] <STEAM_0:1:942364657> Креветка: там мина
+[Tue Apr 28 19:31:19 2026] <STEAM_0:1:455594560> gREG4IK ran command "goto Carter"
+[Tue Apr 28 19:31:29 2026] <STEAM_0:0:803102855> Pro100_Filya: Здраствуйте
+[Tue Apr 28 19:31:30 2026] <STEAM_0:0:803102855> Pro100_Filya: Да
+[Tue Apr 28 19:31:40 2026] <STEAM_0:0:570454016> Beep ran command "model Мэр Дискаров models/player/breen.mdl"
+[Tue Apr 28 19:31:43 2026] <STEAM_0:0:85754053> OZOR ran command "respawn Ковалев"
+[Tue Apr 28 19:31:47 2026] <STEAM_0:0:570454016> Beep: Я не понимаю че за хуйня
+[Tue Apr 28 19:31:58 2026] <STEAM_0:1:862887967> Дегустатор пива: я короче тебя в плен в рф
+[Tue Apr 28 19:31:58 2026] <STEAM_0:0:85754053> OZOR: нато ахуели да
+[Tue Apr 28 19:32:06 2026] <STEAM_0:0:85754053> OZOR: на наши наллоги
+[Tue Apr 28 19:32:10 2026] <STEAM_0:1:862887967> Дегустатор пива: да)
+[Tue Apr 28 19:32:14 2026] <STEAM_0:0:570454016> Beep ran command "goto Carter"
+[Tue Apr 28 19:32:19 2026] <STEAM_0:1:862887967> Дегустатор пива: да шучу)
+[Tue Apr 28 19:32:29 2026] <STEAM_0:1:862887967> Дегустатор пива: ебать онлайн нато
+[Tue Apr 28 19:32:32 2026] <STEAM_0:0:85754053> OZOR: ебать гильзы
+[Tue Apr 28 19:32:49 2026] <STEAM_0:0:85754053> OZOR: имба
+[Tue Apr 28 19:32:50 2026] <STEAM_0:1:942364657> Креветка: /pass
+[Tue Apr 28 19:32:53 2026] <STEAM_0:0:85754053> OZOR: так ты дальше стреляй
+[Tue Apr 28 19:33:00 2026] <STEAM_0:0:85754053> OZOR: это 50 м
+[Tue Apr 28 19:33:03 2026] <STEAM_0:1:923042528> Pioner: /nato ВС РФ гулять
+[Tue Apr 28 19:33:04 2026] <STEAM_0:0:85754053> OZOR: надо дальше
+[Tue Apr 28 19:33:07 2026] <STEAM_0:0:85754053> OZOR: вон где склад
+[Tue Apr 28 19:33:10 2026] <STEAM_0:1:862887967> Дегустатор пива: // рф гулять пж
+[Tue Apr 28 19:33:11 2026] <STEAM_0:1:455594560> gREG4IK: /nato не туда пишет
+[Tue Apr 28 19:33:16 2026] <STEAM_0:1:390409812> vagris036: незнаю
+[Tue Apr 28 19:33:21 2026] <STEAM_0:1:942364657> Креветка: /ooc адм дайте снайпера
+[Tue Apr 28 19:33:22 2026] <STEAM_0:0:803102855> Pro100_Filya: да
+[Tue Apr 28 19:33:25 2026] <STEAM_0:1:390409812> vagris036: ок
+[Tue Apr 28 19:33:28 2026] <STEAM_0:1:923042528> Pioner: /OOC РФ гулять
+[Tue Apr 28 19:33:29 2026] <STEAM_0:0:803102855> Pro100_Filya: Да
+[Tue Apr 28 19:33:30 2026] <STEAM_0:0:85754053> OZOR: ну противник же не будет пперед тобой маччить
+[Tue Apr 28 19:33:36 2026] <STEAM_0:0:803102855> Pro100_Filya: да
+[Tue Apr 28 19:33:37 2026] <STEAM_0:1:390409812> vagris036: хорошо
+[Tue Apr 28 19:33:41 2026] <STEAM_0:1:923042528> Pioner: /ooc РФ гулять
+[Tue Apr 28 19:33:45 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc :shushing_face:
+[Tue Apr 28 19:33:45 2026] <STEAM_0:0:85754053> OZOR: ы
+[Tue Apr 28 19:33:52 2026] <STEAM_0:0:803102855> Pro100_Filya: уже там есть
+[Tue Apr 28 19:33:52 2026] <STEAM_0:0:570454016> Beep spawned SENT "Entity [929][sw_uh60]"
+[Tue Apr 28 19:33:53 2026] <STEAM_0:1:862887967> Дегустатор пива: анонимно пернул на базе рф
+[Tue Apr 28 19:33:56 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc В город идите
+[Tue Apr 28 19:33:59 2026] <STEAM_0:1:942364657> Креветка: /ooc адм дайте снайпера
+[Tue Apr 28 19:34:01 2026] <STEAM_0:0:803102855> Pro100_Filya: в дискорде нато есть
+[Tue Apr 28 19:34:06 2026] <STEAM_0:0:803102855> Pro100_Filya: щяс
+[Tue Apr 28 19:34:17 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /com Пяндосня, гоу ту таун. Хир я фак ёрс мазерс энд ю
+[Tue Apr 28 19:34:17 2026] <STEAM_0:0:85754053> OZOR: мэр
+[Tue Apr 28 19:34:22 2026] <STEAM_0:0:85754053> OZOR: иди нагни нато
+[Tue Apr 28 19:34:27 2026] <STEAM_0:0:85754053> OZOR: э
+[Tue Apr 28 19:34:29 2026] <STEAM_0:0:803102855> Pro100_Filya: rec I фамилия так?
+[Tue Apr 28 19:34:30 2026] <STEAM_0:1:455594560> gREG4IK: /ooc ханое я разрешил дискарова в фсб
+[Tue Apr 28 19:34:34 2026] <STEAM_0:0:85754053> OZOR: а если
+[Tue Apr 28 19:34:37 2026] <STEAM_0:0:85754053> OZOR: я буду твоим водителем
+[Tue Apr 28 19:34:39 2026] <STEAM_0:0:85754053> OZOR: меня ебнут?
+[Tue Apr 28 19:34:39 2026] <STEAM_0:1:390409812> vagris036: понел
+[Tue Apr 28 19:34:51 2026] <STEAM_0:1:862887967> Дегустатор пива: /nato FUCK YOU RUSSIAN BITCH
+[Tue Apr 28 19:35:01 2026] <STEAM_0:1:862887967> Дегустатор пива: это наш
+[Tue Apr 28 19:35:02 2026] <STEAM_0:1:942364657> Креветка: /ooc Дорогая администрация можно мне спецуху снайпера?
+[Tue Apr 28 19:35:03 2026] <STEAM_0:0:85754053> OZOR: гражданки не хватает
+[Tue Apr 28 19:35:05 2026] <STEAM_0:1:455594560> gREG4IK: /nato THOMPSON ТЫ ПИШЕШЬ В НАШ ЧАТ
+[Tue Apr 28 19:35:06 2026] <STEAM_0:0:85754053> OZOR: техники
+[Tue Apr 28 19:35:07 2026] <STEAM_0:1:862887967> Дегустатор пива: /nato бля нетуда
+[Tue Apr 28 19:35:10 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc Зачем мне ФСБ? Мне солдаты нужны
+[Tue Apr 28 19:35:14 2026] <STEAM_0:1:862887967> Дегустатор пива: /nato бля не туда
+[Tue Apr 28 19:35:16 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [694][lvs_wheeldrive_hummer]"
+[Tue Apr 28 19:35:17 2026] <STEAM_0:1:455594560> gREG4IK: /ooc нет
+[Tue Apr 28 19:35:24 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [692][sw_vdvbuggy]"
+[Tue Apr 28 19:35:29 2026] <STEAM_0:1:862887967> Дегустатор пива: /com FUCK YOU RUSSIAN BITCH
+[Tue Apr 28 19:35:30 2026] <STEAM_0:1:390409812> vagris036: понятно
+[Tue Apr 28 19:35:35 2026] <STEAM_0:0:803102855> Pro100_Filya: в дс нато отправил
+[Tue Apr 28 19:35:38 2026] <STEAM_0:0:85754053> OZOR: поехали
+[Tue Apr 28 19:35:44 2026] <STEAM_0:0:803102855> Pro100_Filya: в основной так-же?
+[Tue Apr 28 19:35:48 2026] <STEAM_0:0:85754053> OZOR: а как нато написать по рп
+[Tue Apr 28 19:35:52 2026] <STEAM_0:1:862887967> Дегустатор пива: /com  FUCK YOU RUSSIAN BITCH
+[Tue Apr 28 19:35:55 2026] <STEAM_0:0:85754053> OZOR: ?
+[Tue Apr 28 19:36:04 2026] <STEAM_0:1:942364657> Креветка: /ooc Дорогая администрация можно мне спецуху снайпера?
+[Tue Apr 28 19:36:06 2026] <STEAM_0:0:85754053> OZOR: Тайпан
+[Tue Apr 28 19:36:08 2026] <STEAM_0:1:923042528> Pioner: Внимание на квадрат: I9
+[Tue Apr 28 19:36:08 2026] <STEAM_0:1:923042528> Pioner: Внимание на квадрат: I9
+[Tue Apr 28 19:36:09 2026] <STEAM_0:0:85754053> OZOR: а как нато написать по рп
+[Tue Apr 28 19:36:13 2026] <STEAM_0:1:390409812> vagris036: ух
+[Tue Apr 28 19:36:14 2026] <STEAM_0:0:803102855> Pro100_Filya: хм
+[Tue Apr 28 19:36:16 2026] <STEAM_0:0:803102855> Pro100_Filya: щяс
+[Tue Apr 28 19:36:23 2026] <STEAM_0:0:85754053> OZOR: какая команда?
+[Tue Apr 28 19:36:31 2026] <STEAM_0:0:585468466> Casebook: com
+[Tue Apr 28 19:36:38 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc Вэр ю, американ? Ви ар вэйт юр биг фэт эсс
+[Tue Apr 28 19:36:42 2026] <STEAM_0:1:455594560> gREG4IK: https://discord.gg/8fb2mXhh7w
+[Tue Apr 28 19:36:42 2026] <STEAM_0:1:390409812> vagris036: все понел
+[Tue Apr 28 19:36:46 2026] <STEAM_0:0:85754053> OZOR: /com Мэр едет к НАТО с делегацией, не стрелять
+[Tue Apr 28 19:36:48 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /com Вэр ю, американ? Ви ар вэйт юр биг фэт эсс
+[Tue Apr 28 19:36:51 2026] <STEAM_0:1:942364657> Креветка: /ooc Дорогая администрация можно мне спецуху снайпера? АЛО
+[Tue Apr 28 19:36:57 2026] <STEAM_0:0:85754053> OZOR: я
+[Tue Apr 28 19:37:01 2026] <STEAM_0:1:455594560> gREG4IK: /ooc soup НЕТ НЕЛЬЗЯ У ТЕБЯ ДОНАТ СПЕАЦИЛАЗЦИЯ ДЕЛЬТА
+[Tue Apr 28 19:37:03 2026] <STEAM_0:1:862887967> Дегустатор пива: /com Клянись
+[Tue Apr 28 19:37:04 2026] <STEAM_0:0:85754053> OZOR: мэра везем
+[Tue Apr 28 19:37:09 2026] <STEAM_0:0:85754053> OZOR: мэр
+[Tue Apr 28 19:37:11 2026] <STEAM_0:0:803102855> Pro100_Filya: так
+[Tue Apr 28 19:37:14 2026] <STEAM_0:0:803102855> Pro100_Filya: вот теперь точно
+[Tue Apr 28 19:37:14 2026] <STEAM_0:1:390409812> vagris036: ага
+[Tue Apr 28 19:37:16 2026] <STEAM_0:0:803102855> Pro100_Filya: на сервере нато
+[Tue Apr 28 19:37:18 2026] <STEAM_0:0:803102855> Pro100_Filya: отправил
+[Tue Apr 28 19:37:22 2026] <STEAM_0:0:85754053> OZOR: он провереный
+[Tue Apr 28 19:37:28 2026] <STEAM_0:0:803102855> Pro100_Filya: хм
+[Tue Apr 28 19:37:31 2026] <STEAM_0:0:650470378> Discar: /pass
+[Tue Apr 28 19:37:34 2026] <STEAM_0:1:923042528> Pioner: Внимание на квадрат: K8
+[Tue Apr 28 19:37:34 2026] <STEAM_0:1:923042528> Pioner: Внимание на квадрат: K8
+[Tue Apr 28 19:37:40 2026] <STEAM_0:1:862887967> Дегустатор пива: ага
+[Tue Apr 28 19:37:45 2026] <STEAM_0:0:85754053> OZOR: ну а как иначе
+[Tue Apr 28 19:37:46 2026] <STEAM_0:0:803102855> Pro100_Filya: всё
+[Tue Apr 28 19:37:47 2026] <STEAM_0:1:862887967> Дегустатор пива: ОФ ЗАРЯДИТЬ
+[Tue Apr 28 19:37:47 2026] <STEAM_0:0:803102855> Pro100_Filya: точка
+[Tue Apr 28 19:37:59 2026] <STEAM_0:1:862887967> Дегустатор пива: ОФ ЗАРЯЖЕН
+[Tue Apr 28 19:38:01 2026] worldspawn has killed Beep.
+[Tue Apr 28 19:38:01 2026] worldspawn has killed vagris036.
+[Tue Apr 28 19:38:03 2026] <STEAM_0:0:803102855> Pro100_Filya: да
+[Tue Apr 28 19:38:07 2026] Player "vagris036" <STEAM_0:1:390409812> has left the server
+[Tue Apr 28 19:38:11 2026] <STEAM_0:0:85754053> OZOR: кто я?
+[Tue Apr 28 19:38:13 2026] <STEAM_0:0:570454016> Beep ran command "respawn Keating"
+[Tue Apr 28 19:38:23 2026] <STEAM_0:0:570454016> Beep: /ooc Хули мина ПТ сработала на людей
+[Tue Apr 28 19:38:58 2026] Дегустатор пива has killed Discar.
+[Tue Apr 28 19:38:58 2026] Дегустатор пива has killed OZOR.
+[Tue Apr 28 19:39:02 2026] <STEAM_0:1:862887967> Дегустатор пива: ДА
+[Tue Apr 28 19:39:08 2026] <STEAM_0:1:942364657> Креветка: давай высадку
+[Tue Apr 28 19:39:10 2026] <STEAM_0:0:85754053> OZOR: // ясно, с вами рп больше не играем
+[Tue Apr 28 19:39:13 2026] <STEAM_0:1:942364657> Креветка: давай высадку
+[Tue Apr 28 19:39:21 2026] Player "OZOR" <STEAM_0:0:85754053> has left the server
+[Tue Apr 28 19:39:21 2026] Player "vagris036" <STEAM_0:1:390409812> is attempting to connect.
+[Tue Apr 28 19:39:22 2026] <STEAM_0:1:862887967> Дегустатор пива: // ну вы бы обозначили машину
+[Tue Apr 28 19:39:54 2026] <STEAM_0:1:862887967> Дегустатор пива: // У вас пулемет на мирной машине
+[Tue Apr 28 19:40:05 2026] <STEAM_0:1:942364657> Креветка: /nato Потом новобранца мне дадите
+[Tue Apr 28 19:40:13 2026] Pioner has killed ★☾₳ⱤØ₦₦ł₭☽★.
+[Tue Apr 28 19:40:22 2026] <STEAM_0:1:862887967> Дегустатор пива: пакуем
+[Tue Apr 28 19:40:28 2026] <STEAM_0:1:862887967> Дегустатор пива: тцк бусик
+[Tue Apr 28 19:40:45 2026] Player "★☾₳ⱤØ₦₦ł₭☽★" <STEAM_0:0:456016030> has left the server
+[Tue Apr 28 19:41:35 2026] <STEAM_0:1:862887967> Дегустатор пива: // мэр ты где?
+[Tue Apr 28 19:41:54 2026] <STEAM_0:0:650470378> Discar: /ooc в городе с охраной
+[Tue Apr 28 19:42:46 2026] <STEAM_0:1:942364657> Креветка: це меня в гирид
+[Tue Apr 28 19:42:59 2026] <STEAM_0:1:942364657> Креветка: буду переговаривотся
+[Tue Apr 28 19:43:06 2026] <STEAM_0:0:803102855> Pro100_Filya: да
+[Tue Apr 28 19:43:35 2026] <STEAM_0:1:942364657> Креветка: /com Дорогие россияне я еду к вам на переговоры прозьба не стрелять
+[Tue Apr 28 19:43:36 2026] <STEAM_0:1:862887967> Дегустатор пива: щас едем в город не стрелять будем знакомиться с мэром
+[Tue Apr 28 19:44:04 2026] <STEAM_0:0:650470378> Discar: /ooc  Говорит Мэр, езжайте на пощицию П
+[Tue Apr 28 19:44:32 2026] <STEAM_0:0:650470378> Discar: /com  Говорит Мэр, езжайте на позицию П
+[Tue Apr 28 19:44:43 2026] <STEAM_0:0:570454016> Beep spawned SENT "Entity [616][sw_uh60]"
+[Tue Apr 28 19:44:43 2026] <STEAM_0:1:942364657> Креветка: стоп
+[Tue Apr 28 19:44:57 2026] <STEAM_0:1:942364657> Креветка: Здрасте
+[Tue Apr 28 19:45:05 2026] <STEAM_0:1:942364657> Креветка: а танк
+[Tue Apr 28 19:45:11 2026] <STEAM_0:1:942364657> Креветка: в танк ты
+[Tue Apr 28 19:45:12 2026] <STEAM_0:1:862887967> Дегустатор пива: мирный
+[Tue Apr 28 19:45:39 2026] <STEAM_0:1:862887967> Дегустатор пива spawned prop "Entity [819][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1.mdl)"
+[Tue Apr 28 19:45:51 2026] <STEAM_0:1:862887967> Дегустатор пива spawned prop "Entity [819][alydus_destructiblefortification] (models/props_c17/fence01a.mdl)"
+[Tue Apr 28 19:45:53 2026] <STEAM_0:1:942364657> Креветка: я вижу
+[Tue Apr 28 19:45:55 2026] <STEAM_0:1:862887967> Дегустатор пива spawned prop "Entity [821][alydus_destructiblefortification] (models/props_c17/fence01a.mdl)"
+[Tue Apr 28 19:45:56 2026] <STEAM_0:1:862887967> Дегустатор пива spawned prop "Entity [888][alydus_destructiblefortification] (models/props_c17/fence01a.mdl)"
+[Tue Apr 28 19:46:09 2026] <STEAM_0:1:862887967> Дегустатор пива: /looc бля абрамс удалили
+[Tue Apr 28 19:46:11 2026] <STEAM_0:1:862887967> Дегустатор пива spawned prop "Entity [615][alydus_destructiblefortification] (models/props_c17/fence01a.mdl)"
+[Tue Apr 28 19:46:21 2026] <STEAM_0:1:862887967> Дегустатор пива spawned prop "Entity [617][alydus_destructiblefortification] (models/props_fortifications/concrete_wall001_96_reference.mdl)"
+[Tue Apr 28 19:46:26 2026] <STEAM_0:1:862887967> Дегустатор пива spawned prop "Entity [615][alydus_destructiblefortification] (models/props_fortifications/concrete_wall001_96_reference.mdl)"
+[Tue Apr 28 19:46:27 2026] <STEAM_0:1:862887967> Дегустатор пива spawned prop "Entity [629][alydus_destructiblefortification] (models/props_fortifications/concrete_wall001_96_reference.mdl)"
+[Tue Apr 28 19:46:32 2026] <STEAM_0:1:862887967> Дегустатор пива spawned prop "Entity [631][alydus_destructiblefortification] (models/props_fortifications/concrete_wall001_96_reference.mdl)"
+[Tue Apr 28 19:46:35 2026] <STEAM_0:1:862887967> Дегустатор пива spawned prop "Entity [632][alydus_destructiblefortification] (models/props_fortifications/concrete_wall001_96_reference.mdl)"
+[Tue Apr 28 19:46:36 2026] <STEAM_0:1:862887967> Дегустатор пива spawned prop "Entity [640][alydus_destructiblefortification] (models/props_fortifications/concrete_wall001_96_reference.mdl)"
+[Tue Apr 28 19:46:40 2026] <STEAM_0:1:862887967> Дегустатор пива spawned prop "Entity [640][alydus_destructiblefortification] (models/props_fortifications/concrete_wall001_96_reference.mdl)"
+[Tue Apr 28 19:46:45 2026] <STEAM_0:1:942364657> Креветка: стойте
+[Tue Apr 28 19:46:48 2026] <STEAM_0:1:942364657> Креветка: стойте
+[Tue Apr 28 19:46:50 2026] <STEAM_0:1:862887967> Дегустатор пива spawned prop "Entity [641][alydus_destructiblefortification] (models/props_fortifications/sandbags_line2b.mdl)"
+[Tue Apr 28 19:46:52 2026] <STEAM_0:1:862887967> Дегустатор пива spawned prop "Entity [644][alydus_destructiblefortification] (models/props_fortifications/sandbags_line2b.mdl)"
+[Tue Apr 28 19:46:55 2026] <STEAM_0:1:862887967> Дегустатор пива spawned prop "Entity [644][alydus_destructiblefortification] (models/props_fortifications/sandbags_line2b.mdl)"
+[Tue Apr 28 19:46:58 2026] <STEAM_0:1:862887967> Дегустатор пива spawned prop "Entity [650][alydus_destructiblefortification] (models/props_fortifications/sandbags_line2b.mdl)"
+[Tue Apr 28 19:47:01 2026] <STEAM_0:1:862887967> Дегустатор пива spawned prop "Entity [644][alydus_destructiblefortification] (models/props_fortifications/sandbags_line2b.mdl)"
+[Tue Apr 28 19:47:03 2026] <STEAM_0:1:862887967> Дегустатор пива spawned prop "Entity [653][alydus_destructiblefortification] (models/props_fortifications/sandbags_line2b.mdl)"
+[Tue Apr 28 19:47:04 2026] <STEAM_0:1:862887967> Дегустатор пива spawned prop "Entity [644][alydus_destructiblefortification] (models/props_fortifications/sandbags_line2b.mdl)"
+[Tue Apr 28 19:47:05 2026] <STEAM_0:1:862887967> Дегустатор пива spawned prop "Entity [653][alydus_destructiblefortification] (models/props_fortifications/sandbags_line2b.mdl)"
+[Tue Apr 28 19:47:07 2026] <STEAM_0:1:862887967> Дегустатор пива spawned prop "Entity [656][alydus_destructiblefortification] (models/props_fortifications/sandbags_line2b.mdl)"
+[Tue Apr 28 19:47:10 2026] <STEAM_0:1:862887967> Дегустатор пива spawned prop "Entity [653][alydus_destructiblefortification] (models/props_fortifications/sandbags_line2b.mdl)"
+[Tue Apr 28 19:47:11 2026] <STEAM_0:1:862887967> Дегустатор пива spawned prop "Entity [637][alydus_destructiblefortification] (models/props_fortifications/sandbags_line2b.mdl)"
+[Tue Apr 28 19:47:16 2026] <STEAM_0:1:862887967> Дегустатор пива: о привет
+[Tue Apr 28 19:47:19 2026] <STEAM_0:1:862887967> Дегустатор пива: строители
+[Tue Apr 28 19:47:28 2026] <STEAM_0:1:862887967> Дегустатор пива spawned prop "Entity [637][alydus_destructiblefortification] (models/props_fortifications/sandbags_line2b.mdl)"
+[Tue Apr 28 19:47:37 2026] <STEAM_0:1:862887967> Дегустатор пива spawned prop "Entity [663][alydus_destructiblefortification] (models/props_fortifications/sandbags_line2b.mdl)"
+[Tue Apr 28 19:47:41 2026] <STEAM_0:1:942364657> Креветка: что я хотел сказать,короче дело так хотите в гости в нато?
+[Tue Apr 28 19:47:45 2026] <STEAM_0:1:862887967> Дегустатор пива: ну можно пройду?
+[Tue Apr 28 19:47:52 2026] <STEAM_0:1:862887967> Дегустатор пива spawned prop "Entity [615][alydus_destructiblefortification] (models/props_fortifications/sandbags_line2b.mdl)"
+[Tue Apr 28 19:47:53 2026] <STEAM_0:1:862887967> Дегустатор пива spawned prop "Entity [617][alydus_destructiblefortification] (models/props_fortifications/sandbags_line2b.mdl)"
+[Tue Apr 28 19:48:01 2026] <STEAM_0:1:862887967> Дегустатор пива spawned prop "Entity [615][alydus_destructiblefortification] (models/iraq/ir_hesco_basket_01.mdl)"
+[Tue Apr 28 19:48:04 2026] <STEAM_0:1:862887967> Дегустатор пива spawned prop "Entity [615][alydus_destructiblefortification] (models/static_afghan/prop_fortification_hesco_small.mdl)"
+[Tue Apr 28 19:48:06 2026] <STEAM_0:1:862887967> Дегустатор пива spawned prop "Entity [617][alydus_destructiblefortification] (models/static_afghan/prop_fortification_hesco_small.mdl)"
+[Tue Apr 28 19:48:07 2026] <STEAM_0:1:862887967> Дегустатор пива spawned prop "Entity [629][alydus_destructiblefortification] (models/static_afghan/prop_fortification_hesco_small.mdl)"
+[Tue Apr 28 19:48:12 2026] <STEAM_0:1:942364657> Креветка: нее кпз я против его
+[Tue Apr 28 19:48:16 2026] <STEAM_0:1:862887967> Дегустатор пива spawned prop "Entity [617][alydus_destructiblefortification] (models/static_afghan/prop_fortification_hesco_small.mdl)"
+[Tue Apr 28 19:48:17 2026] <STEAM_0:1:862887967> Дегустатор пива spawned prop "Entity [629][alydus_destructiblefortification] (models/static_afghan/prop_fortification_hesco_small.mdl)"
+[Tue Apr 28 19:48:18 2026] <STEAM_0:1:862887967> Дегустатор пива spawned prop "Entity [631][alydus_destructiblefortification] (models/static_afghan/prop_fortification_hesco_small.mdl)"
+[Tue Apr 28 19:48:20 2026] <STEAM_0:1:862887967> Дегустатор пива spawned prop "Entity [629][alydus_destructiblefortification] (models/static_afghan/prop_fortification_hesco_small.mdl)"
+[Tue Apr 28 19:48:27 2026] <STEAM_0:1:862887967> Дегустатор пива spawned prop "Entity [631][alydus_destructiblefortification] (models/static_afghan/prop_fortification_hesco_small.mdl)"
+[Tue Apr 28 19:48:30 2026] <STEAM_0:1:942364657> Креветка: так что пошли в верт
+[Tue Apr 28 19:48:32 2026] <STEAM_0:1:942364657> Креветка: так что пошли в верт
+[Tue Apr 28 19:49:06 2026] <STEAM_0:1:862887967> Дегустатор пива spawned prop "Entity [617][alydus_destructiblefortification] (models/iraq/ir_hesco_basket_01b.mdl)"
+[Tue Apr 28 19:49:43 2026] Player "wolfhound" <STEAM_0:0:428608365> has spawned in the server
+[Tue Apr 28 19:50:13 2026] <STEAM_0:1:942364657> Креветка: класс
+[Tue Apr 28 19:50:37 2026] <STEAM_0:1:942364657> Креветка: nfr
+[Tue Apr 28 19:50:42 2026] <STEAM_0:1:942364657> Креветка: ТАК
+[Tue Apr 28 19:50:56 2026] <STEAM_0:1:942364657> Креветка: господин мэр пройдем за мной
+[Tue Apr 28 19:50:59 2026] <STEAM_0:1:862887967> Дегустатор пива: нну ладно
+[Tue Apr 28 19:51:38 2026] <STEAM_0:1:942364657> Креветка: вот у нас LAF-805
+[Tue Apr 28 19:51:57 2026] <STEAM_0:1:942364657> Креветка: Это пехотный транспорт
+[Tue Apr 28 19:52:06 2026] <STEAM_0:1:942364657> Креветка: груз до 1 тонны
+[Tue Apr 28 19:52:34 2026] <STEAM_0:1:942364657> Креветка: оружие пушка пулемет
+[Tue Apr 28 19:52:39 2026] <STEAM_0:0:570454016> Beep ran command "npctarget Keating"
+[Tue Apr 28 19:52:40 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Tue Apr 28 19:52:40 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [615][npc_combine_s]"
+[Tue Apr 28 19:52:41 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Tue Apr 28 19:52:45 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Tue Apr 28 19:52:45 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [615][npc_combine_s]"
+[Tue Apr 28 19:52:51 2026] <STEAM_0:1:942364657> Креветка: Так точно!
+[Tue Apr 28 19:52:51 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Tue Apr 28 19:52:51 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [615][npc_combine_s]"
+[Tue Apr 28 19:52:56 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Tue Apr 28 19:52:56 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [615][npc_combine_s]"
+[Tue Apr 28 19:53:00 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Tue Apr 28 19:53:00 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [615][npc_combine_s]"
+[Tue Apr 28 19:53:00 2026] <STEAM_0:1:942364657> Креветка: опять за мной
+[Tue Apr 28 19:53:11 2026] <STEAM_0:1:942364657> Креветка: это хамви
+[Tue Apr 28 19:53:19 2026] <STEAM_0:1:942364657> Креветка: там разное оружие
+[Tue Apr 28 19:53:23 2026] <STEAM_0:0:570454016> Beep: /nato Разведка докладывает о приближении неизвестных к Базе.
+[Tue Apr 28 19:53:27 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Tue Apr 28 19:53:27 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [650][npc_combine_s]"
+[Tue Apr 28 19:53:27 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Tue Apr 28 19:53:27 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [644][npc_combine_s]"
+[Tue Apr 28 19:53:28 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Tue Apr 28 19:53:28 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [663][npc_combine_s]"
+[Tue Apr 28 19:53:28 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Tue Apr 28 19:53:28 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [676][npc_combine_s]"
+[Tue Apr 28 19:53:29 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Tue Apr 28 19:53:29 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [689][npc_combine_s]"
+[Tue Apr 28 19:53:31 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Tue Apr 28 19:53:31 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [616][npc_combine_s]"
+[Tue Apr 28 19:53:35 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Tue Apr 28 19:53:35 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [691][npc_combine_s]"
+[Tue Apr 28 19:53:35 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Tue Apr 28 19:53:35 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [690][npc_combine_s]"
+[Tue Apr 28 19:53:36 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Tue Apr 28 19:53:36 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [694][npc_combine_s]"
+[Tue Apr 28 19:53:39 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Tue Apr 28 19:53:39 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [818][npc_combine_s]"
+[Tue Apr 28 19:53:39 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Tue Apr 28 19:53:39 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [826][npc_combine_s]"
+[Tue Apr 28 19:53:44 2026] <STEAM_0:1:942364657> Креветка: щас по рации надо ответить
+[Tue Apr 28 19:53:46 2026] <STEAM_0:1:862887967> Дегустатор пива: гранаты на полигоне
+[Tue Apr 28 19:53:48 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Tue Apr 28 19:53:48 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [641][npc_combine_s]"
+[Tue Apr 28 19:53:49 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Tue Apr 28 19:53:49 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [832][npc_combine_s]"
+[Tue Apr 28 19:53:50 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Tue Apr 28 19:53:50 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [641][npc_combine_s]"
+[Tue Apr 28 19:53:52 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Tue Apr 28 19:53:52 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [835][npc_combine_s]"
+[Tue Apr 28 19:53:57 2026] <STEAM_0:1:942364657> Креветка: /me Сказал по рации
+[Tue Apr 28 19:54:08 2026] <STEAM_0:1:942364657> Креветка: /nato чо какие челы
+[Tue Apr 28 19:54:11 2026] <STEAM_0:1:942364657> Креветка: /nato чо какие челы
+[Tue Apr 28 19:54:14 2026] <STEAM_0:1:942364657> Креветка: так
+[Tue Apr 28 19:54:15 2026] npc_combine_s has killed Дегустатор пива.
+[Tue Apr 28 19:54:20 2026] <STEAM_0:1:942364657> Креветка: все в здание
+[Tue Apr 28 19:54:26 2026] <STEAM_0:0:570454016> Beep: /nato У въезда замечены враждбно настроенные войска.
+[Tue Apr 28 19:54:43 2026] <STEAM_0:1:862887967> Дегустатор пива: /nato Нападение на ВЧ!
+[Tue Apr 28 19:54:52 2026] <STEAM_0:1:942364657> Креветка: у нас нападение
+[Tue Apr 28 19:54:58 2026] <STEAM_0:0:570454016> Beep: /com База НАТО атакована неизвестными. Боевая тревога.
+[Tue Apr 28 19:55:05 2026] <STEAM_0:1:942364657> Креветка: вы нас подставили?
+[Tue Apr 28 19:55:06 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Tue Apr 28 19:55:06 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [663][npc_combine_s]"
+[Tue Apr 28 19:55:07 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Tue Apr 28 19:55:07 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [674][npc_combine_s]"
+[Tue Apr 28 19:55:07 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Tue Apr 28 19:55:07 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [689][npc_combine_s]"
+[Tue Apr 28 19:55:07 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Tue Apr 28 19:55:07 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [819][npc_combine_s]"
+[Tue Apr 28 19:55:10 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Tue Apr 28 19:55:10 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [641][npc_combine_s]"
+[Tue Apr 28 19:55:10 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Tue Apr 28 19:55:10 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [826][npc_combine_s]"
+[Tue Apr 28 19:55:11 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Tue Apr 28 19:55:11 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [830][npc_combine_s]"
+[Tue Apr 28 19:55:11 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Tue Apr 28 19:55:11 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [833][npc_combine_s]"
+[Tue Apr 28 19:55:12 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Tue Apr 28 19:55:12 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [690][npc_combine_s]"
+[Tue Apr 28 19:55:12 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Tue Apr 28 19:55:12 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [837][npc_combine_s]"
+[Tue Apr 28 19:55:25 2026] <STEAM_0:1:942364657> Креветка: значит это PMC
+[Tue Apr 28 19:55:39 2026] <STEAM_0:1:942364657> Креветка: тут все знакомы
+[Tue Apr 28 19:55:51 2026] <STEAM_0:1:942364657> Креветка: рпг есть?
+[Tue Apr 28 19:55:57 2026] <STEAM_0:0:570454016> Beep: /nato Деспособным солдатам приказано держать оборону у главного входа.
+[Tue Apr 28 19:55:58 2026] <STEAM_0:1:942364657> Креветка: ага
+[Tue Apr 28 19:56:01 2026] <STEAM_0:1:862887967> Дегустатор пива: не вижу
+[Tue Apr 28 19:56:05 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Tue Apr 28 19:56:05 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [616][npc_combine_s]"
+[Tue Apr 28 19:56:05 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Tue Apr 28 19:56:05 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [688][npc_combine_s]"
+[Tue Apr 28 19:56:08 2026] <STEAM_0:1:942364657> Креветка: так фсб за мной
+[Tue Apr 28 19:56:15 2026] <STEAM_0:1:862887967> Дегустатор пива: открой
+[Tue Apr 28 19:56:16 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Tue Apr 28 19:56:16 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [688][npc_combine_s]"
+[Tue Apr 28 19:56:40 2026] <STEAM_0:0:570454016> Beep: /nato РПГ!!!
+[Tue Apr 28 19:56:49 2026] <STEAM_0:1:862887967> Дегустатор пива: РПГ
+[Tue Apr 28 19:56:49 2026] <STEAM_0:1:942364657> Креветка: стоим
+[Tue Apr 28 19:56:56 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Tue Apr 28 19:56:56 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [616][npc_combine_s]"
+[Tue Apr 28 19:56:56 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Tue Apr 28 19:56:56 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [642][npc_combine_s]"
+[Tue Apr 28 19:56:57 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Tue Apr 28 19:56:57 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [663][npc_combine_s]"
+[Tue Apr 28 19:56:57 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Tue Apr 28 19:56:57 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [677][npc_combine_s]"
+[Tue Apr 28 19:56:58 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Tue Apr 28 19:56:58 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [687][npc_combine_s]"
+[Tue Apr 28 19:56:58 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Tue Apr 28 19:56:58 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [690][npc_combine_s]"
+[Tue Apr 28 19:56:58 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Tue Apr 28 19:56:58 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [693][npc_combine_s]"
+[Tue Apr 28 19:57:01 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Tue Apr 28 19:57:01 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [698][npc_combine_s]"
+[Tue Apr 28 19:57:01 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Tue Apr 28 19:57:01 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [821][npc_combine_s]"
+[Tue Apr 28 19:57:02 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Tue Apr 28 19:57:02 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [833][npc_combine_s]"
+[Tue Apr 28 19:57:03 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Tue Apr 28 19:57:03 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [828][npc_combine_s]"
+[Tue Apr 28 19:57:04 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Tue Apr 28 19:57:04 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [864][npc_combine_s]"
+[Tue Apr 28 19:57:04 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Tue Apr 28 19:57:04 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [826][npc_combine_s]"
+[Tue Apr 28 19:57:04 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Tue Apr 28 19:57:04 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [874][npc_combine_s]"
+[Tue Apr 28 19:57:15 2026] <STEAM_0:1:942364657> Креветка: за мной
+[Tue Apr 28 19:57:26 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Tue Apr 28 19:57:26 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [616][npc_combine_s]"
+[Tue Apr 28 19:57:26 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Tue Apr 28 19:57:26 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [644][npc_combine_s]"
+[Tue Apr 28 19:57:26 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Tue Apr 28 19:57:26 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [678][npc_combine_s]"
+[Tue Apr 28 19:57:27 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Tue Apr 28 19:57:27 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [830][npc_combine_s]"
+[Tue Apr 28 19:57:27 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Tue Apr 28 19:57:27 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [838][npc_combine_s]"
+[Tue Apr 28 19:57:27 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Tue Apr 28 19:57:27 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [875][npc_combine_s]"
+[Tue Apr 28 19:57:37 2026] <STEAM_0:1:862887967> Дегустатор пива: ворота ооткрой
+[Tue Apr 28 19:57:53 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Tue Apr 28 19:57:53 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [616][npc_combine_s]"
+[Tue Apr 28 19:57:53 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Tue Apr 28 19:57:53 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [642][npc_combine_s]"
+[Tue Apr 28 19:57:53 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Tue Apr 28 19:57:53 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [663][npc_combine_s]"
+[Tue Apr 28 19:57:53 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Tue Apr 28 19:57:53 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [677][npc_combine_s]"
+[Tue Apr 28 19:57:54 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Tue Apr 28 19:57:54 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [687][npc_combine_s]"
+[Tue Apr 28 19:57:54 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Tue Apr 28 19:57:54 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [690][npc_combine_s]"
+[Tue Apr 28 19:57:54 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Tue Apr 28 19:57:54 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [698][npc_combine_s]"
+[Tue Apr 28 19:57:54 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Tue Apr 28 19:57:54 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [820][npc_combine_s]"
+[Tue Apr 28 19:58:08 2026] <STEAM_0:1:862887967> Дегустатор пива: стой
+[Tue Apr 28 19:58:16 2026] <STEAM_0:1:942364657> Креветка: это рп
+[Tue Apr 28 19:58:26 2026] <STEAM_0:0:570454016> Beep: /ooc Тише будь.
+[Tue Apr 28 19:58:30 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Tue Apr 28 19:58:30 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [616][npc_combine_s]"
+[Tue Apr 28 19:58:30 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Tue Apr 28 19:58:30 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [656][npc_combine_s]"
+[Tue Apr 28 19:58:31 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Tue Apr 28 19:58:31 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [642][npc_combine_s]"
+[Tue Apr 28 19:58:31 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Tue Apr 28 19:58:31 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [677][npc_combine_s]"
+[Tue Apr 28 19:58:31 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Tue Apr 28 19:58:31 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [690][npc_combine_s]"
+[Tue Apr 28 19:58:32 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Tue Apr 28 19:58:32 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [693][npc_combine_s]"
+[Tue Apr 28 19:58:32 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Tue Apr 28 19:58:32 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [698][npc_combine_s]"
+[Tue Apr 28 19:58:32 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Tue Apr 28 19:58:32 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [830][npc_combine_s]"
+[Tue Apr 28 19:58:33 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Tue Apr 28 19:58:33 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [687][npc_combine_s]"
+[Tue Apr 28 19:58:42 2026] <STEAM_0:1:862887967> Дегустатор пива: НА БАЗУ
+[Tue Apr 28 19:58:52 2026] <STEAM_0:1:942364657> Креветка: это укр
+[Tue Apr 28 19:58:54 2026] <STEAM_0:1:942364657> Креветка: это укр
+[Tue Apr 28 19:58:56 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Tue Apr 28 19:58:56 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [656][npc_combine_s]"
+[Tue Apr 28 19:58:56 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Tue Apr 28 19:58:56 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [667][npc_combine_s]"
+[Tue Apr 28 19:58:56 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Tue Apr 28 19:58:56 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [677][npc_combine_s]"
+[Tue Apr 28 19:58:56 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Tue Apr 28 19:58:56 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [689][npc_combine_s]"
+[Tue Apr 28 19:58:57 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Tue Apr 28 19:58:57 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [826][npc_combine_s]"
+[Tue Apr 28 19:58:57 2026] <STEAM_0:1:942364657> Креветка: это укр
+[Tue Apr 28 19:59:05 2026] npc_combine_s has killed Креветка.
+[Tue Apr 28 19:59:09 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Tue Apr 28 19:59:09 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [669][npc_combine_s]"
+[Tue Apr 28 19:59:09 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Tue Apr 28 19:59:09 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [923][npc_combine_s]"
+[Tue Apr 28 19:59:10 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Tue Apr 28 19:59:10 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [927][npc_combine_s]"
+[Tue Apr 28 19:59:10 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Tue Apr 28 19:59:10 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [931][npc_combine_s]"
+[Tue Apr 28 19:59:10 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Tue Apr 28 19:59:10 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [934][npc_combine_s]"
+[Tue Apr 28 19:59:11 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Tue Apr 28 19:59:11 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [689][npc_combine_s]"
+[Tue Apr 28 19:59:12 2026] <STEAM_0:0:570454016> Beep used tool "creator"
+[Tue Apr 28 19:59:12 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [830][npc_combine_s]"
+[Tue Apr 28 19:59:15 2026] <STEAM_0:1:942364657> Креветка: ранен
+[Tue Apr 28 19:59:22 2026] <STEAM_0:1:942364657> Креветка: /com ранен
+[Tue Apr 28 19:59:46 2026] <STEAM_0:0:428608365> wolfhound: // егор
+[Tue Apr 28 20:00:30 2026] <STEAM_0:0:570454016> Beep: /nato Разведка докладывает: "Атакующая сторона отступает".
+[Tue Apr 28 20:00:45 2026] Player "Po_rA1" <STEAM_0:0:887714123> is attempting to connect.
+[Tue Apr 28 20:01:02 2026] <STEAM_0:1:942364657> Креветка: фух
+[Tue Apr 28 20:01:06 2026] <STEAM_0:1:942364657> Креветка: все
+[Tue Apr 28 20:01:10 2026] <STEAM_0:1:942364657> Креветка: за мной
+[Tue Apr 28 20:01:25 2026] <STEAM_0:1:862887967> Дегустатор пива: ага спасибо
+[Tue Apr 28 20:01:33 2026] <STEAM_0:0:428608365> wolfhound: где все
+[Tue Apr 28 20:01:36 2026] <STEAM_0:1:942364657> Креветка: /ooc Тайпан рч для рп скажи
+[Tue Apr 28 20:01:56 2026] <STEAM_0:0:650470378> Discar: /looc 2
+[Tue Apr 28 20:01:58 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [616][npc_vj_re5_em80b]"
+[Tue Apr 28 20:02:03 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [616][npc_vj_re5_em80b]"
+[Tue Apr 28 20:02:14 2026] <STEAM_0:0:585468466> Casebook: /ooc 2
+[Tue Apr 28 20:02:25 2026] <STEAM_0:0:570454016> Beep: /ooc Слегка НонРП босс файт ебануть вам?
+[Tue Apr 28 20:02:28 2026] <STEAM_0:1:942364657> Креветка: /me Связался по рч с Тайпаном
+[Tue Apr 28 20:02:38 2026] <STEAM_0:0:585468466> Casebook: /ooc ХЗ
+[Tue Apr 28 20:02:39 2026] <STEAM_0:1:862887967> Дегустатор пива: // бля давай
+[Tue Apr 28 20:02:48 2026] <STEAM_0:1:942364657> Креветка: /com Тайпан ты где?
+[Tue Apr 28 20:02:49 2026] <STEAM_0:1:923042528> Pioner: /ooc давай
+[Tue Apr 28 20:02:51 2026] <STEAM_0:1:942364657> Креветка: ааа
+[Tue Apr 28 20:02:58 2026] <STEAM_0:1:942364657> Креветка: живчик?
+[Tue Apr 28 20:03:00 2026] <STEAM_0:0:570454016> Beep: /ooc Ну тогда ждите у въезда
+[Tue Apr 28 20:03:12 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [616][npc_vj_re5_em80b]"
+[Tue Apr 28 20:03:30 2026] <STEAM_0:1:862887967> Дегустатор пива: покиньте вч
+[Tue Apr 28 20:03:45 2026] Player "Po_rA1" <STEAM_0:0:887714123> has spawned in the server
+[Tue Apr 28 20:03:49 2026] <STEAM_0:1:942364657> Креветка: Продолжаем экскурсию
+[Tue Apr 28 20:04:03 2026] <STEAM_0:1:942364657> Креветка: это наше пво
+[Tue Apr 28 20:04:12 2026] <STEAM_0:1:942364657> Креветка: Avenger
+[Tue Apr 28 20:04:26 2026] <STEAM_0:1:942364657> Креветка: у нас на складе все есть
+[Tue Apr 28 20:04:36 2026] <STEAM_0:0:570454016> Beep: /ooc пиздец
+[Tue Apr 28 20:04:39 2026] <STEAM_0:1:862887967> Дегустатор пива: все
+[Tue Apr 28 20:04:40 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [644][npc_vj_re5_em81_boss]"
+[Tue Apr 28 20:04:45 2026] <STEAM_0:1:942364657> Креветка: пошли
+[Tue Apr 28 20:04:48 2026] <STEAM_0:0:428608365> wolfhound: // Хуль так сервер лагает
+[Tue Apr 28 20:05:01 2026] <STEAM_0:1:862887967> Дегустатор пива: /nato Нападение на вч
+[Tue Apr 28 20:05:12 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [616][npc_vj_re5_em81_boss]"
+[Tue Apr 28 20:05:28 2026] Дегустатор пива has killed Креветка.
+[Tue Apr 28 20:05:29 2026] Креветка has killed Креветка.
+[Tue Apr 28 20:05:37 2026] Дегустатор пива has killed Casebook.
+[Tue Apr 28 20:05:51 2026] <STEAM_0:0:570454016> Beep spawned npc "NPC [611][npc_vj_re5_em81_boss]"
+[Tue Apr 28 20:06:24 2026] npc_vj_re5_em81_boss has killed Дегустатор пива.
+[Tue Apr 28 20:06:28 2026] Player "Discar" <STEAM_0:0:650470378> has left the server
+[Tue Apr 28 20:06:31 2026] npc_vj_re5_em81_boss has killed Креветка.
+[Tue Apr 28 20:06:38 2026] Player "Дегустатор пива" <STEAM_0:1:862887967> has left the server
+[Tue Apr 28 20:06:38 2026] npc_vj_re5_em81_boss has killed Casebook.
+[Tue Apr 28 20:06:42 2026] Player "Casebook" <STEAM_0:0:585468466> has left the server
+[Tue Apr 28 20:06:51 2026] <STEAM_0:0:887714123> Po_rA1: захватывать будешь?
+[Tue Apr 28 20:06:56 2026] npc_vj_re5_em81_boss has killed Pioner.
+[Tue Apr 28 20:07:23 2026] npc_vj_re5_em81_boss has killed Pro100_Filya.
+[Tue Apr 28 20:07:41 2026] Player "Креветка" <STEAM_0:1:942364657> has left the server
+[Tue Apr 28 20:07:54 2026] <STEAM_0:0:570454016> Beep ran command "respawn Carter"
+[Tue Apr 28 20:08:26 2026] Player "Pioner" <STEAM_0:1:923042528> has left the server
+[Tue Apr 28 20:08:51 2026] <STEAM_0:0:570454016> Beep ran command "goto Волкодав"
+[Tue Apr 28 20:09:02 2026] <STEAM_0:0:570454016> Beep: /ooc Волкодав, ты что тут забыл?э
+[Tue Apr 28 20:09:18 2026] <STEAM_0:0:428608365> wolfhound: // посмотреть что тут
+[Tue Apr 28 20:09:30 2026] <STEAM_0:0:570454016> Beep: /ooc Иди на Стал Плей, свитерков гоняй.
+[Tue Apr 28 20:09:33 2026] <STEAM_0:0:570454016> Beep: /ooc Иди на Стал Плей, свитерков гоняй.
+[Tue Apr 28 20:09:45 2026] <STEAM_0:0:428608365> wolfhound: // скучно
+[Tue Apr 28 20:09:52 2026] <STEAM_0:0:428608365> wolfhound: // скучно
+[Tue Apr 28 20:09:54 2026] <STEAM_0:0:570454016> Beep spawned SENT "Entity [609][sw_mi35m]"
+[Tue Apr 28 20:10:35 2026] worldspawn has killed Po_rA1.
+[Tue Apr 28 20:13:45 2026] Player "Beep" <STEAM_0:0:570454016> has left the server
+[Tue Apr 28 20:13:55 2026] <STEAM_0:0:428608365> wolfhound: /inv
+[Tue Apr 28 20:13:55 2026] <STEAM_0:0:428608365> wolfhound: /inv
+[Tue Apr 28 20:18:14 2026] Player "wolfhound" <STEAM_0:0:428608365> has left the server
+[Tue Apr 28 20:20:01 2026] Player "impotent" <STEAM_0:1:425612974> is attempting to connect.
+[Tue Apr 28 20:22:26 2026] Player "Po_rA1" <STEAM_0:0:887714123> has left the server
+[Tue Apr 28 20:23:18 2026] Player "Pro100_Filya" <STEAM_0:0:803102855> has left the server
+[Tue Apr 28 20:23:55 2026] Player "impotent" <STEAM_0:1:425612974> has spawned in the server
+[Tue Apr 28 20:31:20 2026] Player "impotent" <STEAM_0:1:425612974> has left the server
+[Tue Apr 28 20:31:37 2026] Player "Pro100_Filya" <STEAM_0:0:803102855> is attempting to connect.
+[Tue Apr 28 20:37:19 2026] Player "Discar" <STEAM_0:0:650470378> is attempting to connect.
+[Tue Apr 28 20:39:10 2026] Player "Discar" <STEAM_0:0:650470378> has spawned in the server
+[Tue Apr 28 20:39:16 2026] Player "Pro100_Filya" <STEAM_0:0:803102855> has spawned in the server
+[Tue Apr 28 20:43:58 2026] <STEAM_0:0:803102855> Pro100_Filya: /ooc Грэг, спишь?
+[Tue Apr 28 20:49:24 2026] Player "Discar" <STEAM_0:0:650470378> has left the server
+[Tue Apr 28 21:01:28 2026] Player "Pro100_Filya" <STEAM_0:0:803102855> has left the server
+[Tue Apr 28 21:04:18 2026] Player "merkylova96" <STEAM_0:0:959077031> is attempting to connect.
+[Tue Apr 28 21:16:00 2026] Player "gREG4IK" <STEAM_0:1:455594560> has left the server
+[Tue Apr 28 21:16:06 2026] Player "david280911" <STEAM_0:1:839860057> is attempting to connect.
+[Tue Apr 28 21:23:45 2026] Player "merkylova96" <STEAM_0:0:959077031> has spawned in the server
+[Tue Apr 28 21:26:18 2026] Player "merkylova96" <STEAM_0:0:959077031> has left the server
+[Tue Apr 28 21:54:05 2026] Player "SHMAA МАТЬ ЕГО" <STEAM_0:1:600388344> is attempting to connect.
+[Tue Apr 28 22:00:38 2026] Player "impotent" <STEAM_0:1:425612974> is attempting to connect.
+[Tue Apr 28 22:02:41 2026] Player "impotent" <STEAM_0:1:425612974> has spawned in the server
+[Tue Apr 28 22:21:19 2026] <STEAM_0:1:425612974> impotent spawned SENT "Entity [631][sw_matv]"
+[Tue Apr 28 22:22:23 2026] <STEAM_0:1:425612974> impotent spawned SENT "Entity [632][sw_quadbike]"
+[Tue Apr 28 22:25:13 2026] <STEAM_0:1:425612974> impotent spawned SENT "Entity [631][sw_bmp1]"
+[Tue Apr 28 22:29:02 2026] Player "Discar" <STEAM_0:0:650470378> is attempting to connect.
+[Tue Apr 28 22:30:20 2026] Player "Discar" <STEAM_0:0:650470378> has spawned in the server
+[Tue Apr 28 22:31:05 2026] <STEAM_0:0:650470378> Discar: /ooc Ну привет
+[Tue Apr 28 22:31:51 2026] <STEAM_0:1:425612974> impotent: /ooc ку
+[Tue Apr 28 22:32:03 2026] <STEAM_0:1:425612974> impotent spawned SENT "Entity [632][sw_m3a3]"
+[Tue Apr 28 22:32:06 2026] <STEAM_0:0:650470378> Discar: /ooc Я терь мэр города
+[Tue Apr 28 22:33:05 2026] <STEAM_0:1:425612974> impotent spawned SENT "Entity [632][sw_t90m_arena]"
+[Tue Apr 28 22:33:28 2026] Player "Discar" <STEAM_0:0:650470378> has left the server
+[Tue Apr 28 22:33:52 2026] impotent has killed impotent.
+[Tue Apr 28 22:33:59 2026] <STEAM_0:1:425612974> impotent ran command "respawn Montgomery"
+[Tue Apr 28 22:34:46 2026] Player "impotent" <STEAM_0:1:425612974> has left the server

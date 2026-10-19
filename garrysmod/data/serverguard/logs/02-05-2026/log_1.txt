@@ -1,0 +1,1631 @@
+[Thu Feb  5 13:07:31 2026] Player "ngt" <STEAM_0:0:492122650> is attempting to connect.
+[Thu Feb  5 13:12:18 2026] Player "ngt" <STEAM_0:0:492122650> has spawned in the server
+[Thu Feb  5 13:13:39 2026] Player "The_Stranger" <STEAM_0:1:527663460> is attempting to connect.
+[Thu Feb  5 13:14:31 2026] Player "The_Stranger" <STEAM_0:1:527663460> has spawned in the server
+[Thu Feb  5 13:14:54 2026] Player "ngt" <STEAM_0:0:492122650> has left the server
+[Thu Feb  5 13:37:50 2026] Player "★☾₳ⱤØ₦₦ł₭☽★" <STEAM_0:0:456016030> is attempting to connect.
+[Thu Feb  5 13:38:31 2026] Player "The_Stranger" <STEAM_0:1:527663460> has left the server
+[Thu Feb  5 13:40:37 2026] Player "★☾₳ⱤØ₦₦ł₭☽★" <STEAM_0:0:456016030> has spawned in the server
+[Thu Feb  5 13:45:18 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: пукупупу
+[Thu Feb  5 14:04:08 2026] Player "ЛОМИК" <STEAM_0:1:576585521> is attempting to connect.
+[Thu Feb  5 14:06:56 2026] Player "Рурок" <STEAM_0:0:569574962> is attempting to connect.
+[Thu Feb  5 14:07:16 2026] Player "ЛОМИК" <STEAM_0:1:576585521> has spawned in the server
+[Thu Feb  5 14:07:41 2026] Player "Рурок" <STEAM_0:0:569574962> has spawned in the server
+[Thu Feb  5 14:08:08 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /rf о
+[Thu Feb  5 14:08:31 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: п
+[Thu Feb  5 14:08:32 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: п
+[Thu Feb  5 14:08:51 2026] Player "Рурок" <STEAM_0:0:569574962> has left the server
+[Thu Feb  5 14:09:08 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: о
+[Thu Feb  5 14:09:16 2026] <STEAM_0:1:576585521> ЛОМИК: здравие желаю
+[Thu Feb  5 14:09:24 2026] Player "der Deutsche" <STEAM_0:1:411221606> is attempting to connect.
+[Thu Feb  5 14:09:34 2026] <STEAM_0:1:576585521> ЛОМИК: хорошо
+[Thu Feb  5 14:10:21 2026] Player "der Deutsche" <STEAM_0:1:411221606> has spawned in the server
+[Thu Feb  5 14:12:49 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc поменяй мне отделение на ВП
+[Thu Feb  5 14:12:52 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc пж
+[Thu Feb  5 14:13:10 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc не тот
+[Thu Feb  5 14:13:18 2026] <STEAM_0:1:576585521> ЛОМИК: как ГУВР лучше
+[Thu Feb  5 14:13:41 2026] Player "der Deutsche" <STEAM_0:1:411221606> has left the server
+[Thu Feb  5 14:13:46 2026] <STEAM_0:1:576585521> ЛОМИК: он вышел
+[Thu Feb  5 14:14:21 2026] <STEAM_0:1:576585521> ЛОМИК: почему они всегда в плен хотят взять
+[Thu Feb  5 14:14:29 2026] <STEAM_0:1:576585521> ЛОМИК: как будто от рядового хоть что-то узнают
+[Thu Feb  5 14:15:13 2026] <STEAM_0:1:576585521> ЛОМИК: так точно
+[Thu Feb  5 14:16:00 2026] <STEAM_0:1:576585521> ЛОМИК: я так понимаю за отчеты звание повышают?
+[Thu Feb  5 14:16:52 2026] <STEAM_0:1:576585521> ЛОМИК: да
+[Thu Feb  5 14:16:59 2026] <STEAM_0:1:576585521> ЛОМИК: да
+[Thu Feb  5 14:17:12 2026] <STEAM_0:1:576585521> ЛОМИК: да
+[Thu Feb  5 14:17:13 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: :eggplant:
+[Thu Feb  5 14:17:24 2026] <STEAM_0:1:576585521> ЛОМИК: :baby::eggplant::goat:
+[Thu Feb  5 14:18:04 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: Категория важное - чуть ниже система повышения
+[Thu Feb  5 14:18:38 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: Рядовой    0\nЕфрейтор    100\nМладший сержант    250\nСержант    450\nСтарший сержант    700\n Старшина    1000\n Прапорщик    1400\n Старший прапорщик    1800\n Младший лейтенант    2300\n Лейтенант    2900\n Старший лейтенант    3600\n Капитан    4400\n Майор    5400\n Подполковник    6600
+[Thu Feb  5 14:20:01 2026] <STEAM_0:1:576585521> ЛОМИК: так точно
+[Thu Feb  5 14:20:14 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: Штрафы \n\nНарушение субординации    −10\nСамовольный уход    −15\nИгнор приказов    −10
+[Thu Feb  5 14:21:17 2026] <STEAM_0:1:576585521> ЛОМИК: понял, спасибо
+[Thu Feb  5 14:22:50 2026] <STEAM_0:1:576585521> ЛОМИК: уничтожил 10 абрамсов, убил 20 солдат нато, захватил 14 точек, и зарейдил базу НАТО в соло
+[Thu Feb  5 14:24:07 2026] Player "viva5425" <STEAM_0:0:394108178> is attempting to connect.
+[Thu Feb  5 14:24:14 2026] ★☾₳ⱤØ₦₦ł₭☽★ has killed ★☾₳ⱤØ₦₦ł₭☽★.
+[Thu Feb  5 14:25:02 2026] <STEAM_0:1:576585521> ЛОМИК: давай
+[Thu Feb  5 14:25:31 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc где
+[Thu Feb  5 14:25:41 2026] <STEAM_0:1:576585521> ЛОМИК: да
+[Thu Feb  5 14:26:44 2026] <STEAM_0:1:576585521> ЛОМИК: да
+[Thu Feb  5 14:26:58 2026] <STEAM_0:1:576585521> ЛОМИК: интересно
+[Thu Feb  5 14:27:07 2026] <STEAM_0:1:576585521> ЛОМИК: а солдат НАТО можно в карцер посадить?
+[Thu Feb  5 14:28:01 2026] <STEAM_0:1:576585521> ЛОМИК: а если прикинуться девушкой, мне дадут звания?
+[Thu Feb  5 14:29:12 2026] <STEAM_0:1:576585521> ЛОМИК: я не знаю
+[Thu Feb  5 14:29:28 2026] <STEAM_0:1:576585521> ЛОМИК: зайдет за нато
+[Thu Feb  5 14:29:34 2026] <STEAM_0:1:576585521> ЛОМИК: будешь там кмб проводить
+[Thu Feb  5 14:30:27 2026] <STEAM_0:1:576585521> ЛОМИК: жалко нельзя два аккаунта ссосздать, чтобы 1 аккаунт за РФ другой за НАТО
+[Thu Feb  5 14:31:27 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: тут
+[Thu Feb  5 14:32:15 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /rf стреляй по готовности в ступню
+[Thu Feb  5 14:32:24 2026] <STEAM_0:1:576585521> ЛОМИК: /ooc а в голову можно?
+[Thu Feb  5 14:32:29 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc не
+[Thu Feb  5 14:32:34 2026] <STEAM_0:1:576585521> ЛОМИК: /ooc готов
+[Thu Feb  5 14:32:38 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc огонь
+[Thu Feb  5 14:33:04 2026] <STEAM_0:1:576585521> ЛОМИК: хитбоксы это вещь такая
+[Thu Feb  5 14:33:35 2026] <STEAM_0:1:576585521> ЛОМИК: я ее в ящиках пополняю
+[Thu Feb  5 14:33:57 2026] <STEAM_0:1:576585521> ЛОМИК: пожалуйста
+[Thu Feb  5 14:34:53 2026] <STEAM_0:1:576585521> ЛОМИК: можно
+[Thu Feb  5 14:36:20 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: ч
+[Thu Feb  5 14:36:22 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: и друн
+[Thu Feb  5 14:36:31 2026] <STEAM_0:1:576585521> ЛОМИК: молочное
+[Thu Feb  5 14:37:30 2026] <STEAM_0:1:576585521> ЛОМИК: нет
+[Thu Feb  5 14:38:07 2026] <STEAM_0:1:576585521> ЛОМИК: мне опыт дали
+[Thu Feb  5 14:41:21 2026] ★☾₳ⱤØ₦₦ł₭☽★ has killed ★☾₳ⱤØ₦₦ł₭☽★.
+[Thu Feb  5 14:42:30 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc ты на базе?
+[Thu Feb  5 14:42:38 2026] <STEAM_0:1:576585521> ЛОМИК: /rf да
+[Thu Feb  5 14:42:48 2026] <STEAM_0:1:576585521> ЛОМИК: /rf сзади
+[Thu Feb  5 14:44:04 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc ты где
+[Thu Feb  5 14:44:07 2026] ★☾₳ⱤØ₦₦ł₭☽★ has killed ★☾₳ⱤØ₦₦ł₭☽★.
+[Thu Feb  5 14:44:11 2026] <STEAM_0:1:576585521> ЛОМИК: /ooc я на карте
+[Thu Feb  5 14:44:11 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc КАК
+[Thu Feb  5 14:44:18 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc КАК Я САМ СЕБЯ ЗАХУЯРИЛ
+[Thu Feb  5 14:46:09 2026] <STEAM_0:1:576585521> ЛОМИК: дядя полицейский, отпустите пожалуйста
+[Thu Feb  5 14:46:14 2026] <STEAM_0:1:576585521> ЛОМИК: нет
+[Thu Feb  5 14:46:24 2026] <STEAM_0:1:576585521> ЛОМИК: мне уже показывали
+[Thu Feb  5 14:47:10 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: сюда
+[Thu Feb  5 14:48:46 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /rf ты где
+[Thu Feb  5 14:48:52 2026] <STEAM_0:1:576585521> ЛОМИК: /rf на базе нато
+[Thu Feb  5 14:48:58 2026] <STEAM_0:1:576585521> ЛОМИК: /rf я к ним дезертировал
+[Thu Feb  5 14:49:03 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /rf бегу туда жди
+[Thu Feb  5 14:50:10 2026] Player "★☾₳ⱤØ₦₦ł₭☽★" <STEAM_0:0:456016030> has left the server
+[Thu Feb  5 14:50:40 2026] Player "★☾₳ⱤØ₦₦ł₭☽★" <STEAM_0:0:456016030> is attempting to connect.
+[Thu Feb  5 14:51:14 2026] Player "★☾₳ⱤØ₦₦ł₭☽★" <STEAM_0:0:456016030> has spawned in the server
+[Thu Feb  5 14:52:22 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: скотинец
+[Thu Feb  5 14:52:51 2026] ★☾₳ⱤØ₦₦ł₭☽★ has killed ЛОМИК.
+[Thu Feb  5 14:52:51 2026] ★☾₳ⱤØ₦₦ł₭☽★ has killed ★☾₳ⱤØ₦₦ł₭☽★.
+[Thu Feb  5 14:53:06 2026] <STEAM_0:1:576585521> ЛОМИК: /rf у меня тоже наручники есть
+[Thu Feb  5 14:53:16 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: скотинец
+[Thu Feb  5 14:53:49 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /rf папочка начал охоту
+[Thu Feb  5 14:54:42 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /rf я афк
+[Thu Feb  5 14:54:45 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /rf сори
+[Thu Feb  5 14:55:35 2026] ★☾₳ⱤØ₦₦ł₭☽★ has killed ЛОМИК.
+[Thu Feb  5 14:56:02 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /rf беги-беги
+[Thu Feb  5 14:56:59 2026] ЛОМИК has killed ★☾₳ⱤØ₦₦ł₭☽★.
+[Thu Feb  5 14:59:19 2026] <STEAM_0:1:576585521> ЛОМИК: /rf ты меня никогда не найдешь
+[Thu Feb  5 15:07:09 2026] <STEAM_0:1:576585521> ЛОМИК: /rf ты меня никогда не найдешь
+[Thu Feb  5 15:11:17 2026] Player "The_Stranger" <STEAM_0:1:527663460> is attempting to connect.
+[Thu Feb  5 15:13:40 2026] Player "ТАГИЛЛА" <STEAM_0:1:782845482> is attempting to connect.
+[Thu Feb  5 15:14:50 2026] <STEAM_0:1:576585521> ЛОМИК: /com НАТО лохи
+[Thu Feb  5 15:15:55 2026] Player "ТАГИЛЛА" <STEAM_0:1:782845482> has spawned in the server
+[Thu Feb  5 15:16:23 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // СЭЛЭЭЭМ
+[Thu Feb  5 15:17:02 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /l чо за фихня
+[Thu Feb  5 15:17:48 2026] <STEAM_0:1:782845482> ТАГИЛЛА spawned SENT "Entity [584][bodygroup]"
+[Thu Feb  5 15:20:47 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // шо ты делаешь\nы
+[Thu Feb  5 15:21:44 2026] Player "ЛОМИК" <STEAM_0:1:576585521> has left the server
+[Thu Feb  5 15:24:41 2026] <STEAM_0:1:782845482> ТАГИЛЛА spawned npc "NPC [508][npc_combine_s]"
+[Thu Feb  5 15:24:48 2026] <STEAM_0:1:782845482> ТАГИЛЛА spawned npc "NPC [508][npc_combine_s]"
+[Thu Feb  5 15:24:55 2026] <STEAM_0:1:782845482> ТАГИЛЛА used tool "remover"
+[Thu Feb  5 15:24:56 2026] <STEAM_0:1:782845482> ТАГИЛЛА used tool "remover"
+[Thu Feb  5 15:24:56 2026] <STEAM_0:1:782845482> ТАГИЛЛА used tool "remover"
+[Thu Feb  5 15:24:56 2026] <STEAM_0:1:782845482> ТАГИЛЛА used tool "remover"
+[Thu Feb  5 15:24:56 2026] <STEAM_0:1:782845482> ТАГИЛЛА used tool "remover"
+[Thu Feb  5 15:24:57 2026] <STEAM_0:1:782845482> ТАГИЛЛА used tool "remover"
+[Thu Feb  5 15:24:57 2026] <STEAM_0:1:782845482> ТАГИЛЛА used tool "remover"
+[Thu Feb  5 15:25:06 2026] <STEAM_0:1:782845482> ТАГИЛЛА used tool "remover"
+[Thu Feb  5 15:25:07 2026] <STEAM_0:1:782845482> ТАГИЛЛА used tool "remover"
+[Thu Feb  5 15:25:08 2026] <STEAM_0:1:782845482> ТАГИЛЛА used tool "remover"
+[Thu Feb  5 15:25:08 2026] <STEAM_0:1:782845482> ТАГИЛЛА used tool "remover"
+[Thu Feb  5 15:25:12 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc выдай мне отделение ВП
+[Thu Feb  5 15:25:39 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: !бан CPL|Miller
+[Thu Feb  5 15:25:50 2026] <STEAM_0:1:782845482> ТАГИЛЛА spawned SENT "Entity [389][prop_vj_flag]"
+[Thu Feb  5 15:26:00 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // dslfk
+[Thu Feb  5 15:26:05 2026] <STEAM_0:1:782845482> ТАГИЛЛА spawned SENT "Entity [389][prop_vj_board]"
+[Thu Feb  5 15:27:25 2026] <STEAM_0:1:782845482> ТАГИЛЛА used tool "advdupe2"
+[Thu Feb  5 15:27:31 2026] <STEAM_0:1:782845482> ТАГИЛЛА used tool "advdupe2"
+[Thu Feb  5 15:27:31 2026] <STEAM_0:1:782845482> ТАГИЛЛА spawned prop "Entity [389][prop_physics] (models/sterling/flag.mdl)"
+[Thu Feb  5 15:27:42 2026] <STEAM_0:1:782845482> ТАГИЛЛА used tool "advdupe2"
+[Thu Feb  5 15:27:42 2026] <STEAM_0:1:782845482> ТАГИЛЛА spawned prop "Entity [389][prop_physics] (models/sterling/flag.mdl)"
+[Thu Feb  5 15:31:35 2026] Player "Zhenechka" <STEAM_0:0:114787793> is attempting to connect.
+[Thu Feb  5 15:31:45 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // хейтер мне скажет удали акаунтэн
+[Thu Feb  5 15:31:50 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // неть неть
+[Thu Feb  5 15:31:55 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // чоколадно  неть
+[Thu Feb  5 15:32:57 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // чоколадно  неть
+[Thu Feb  5 15:33:34 2026] <STEAM_0:1:782845482> ТАГИЛЛА spawned SENT "Entity [519][lvs_wheeldrive_hummer]"
+[Thu Feb  5 15:33:53 2026] Player "Zhenechka" <STEAM_0:0:114787793> has spawned in the server
+[Thu Feb  5 15:35:45 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc Милер, достань машину
+[Thu Feb  5 15:36:18 2026] <STEAM_0:1:782845482> ТАГИЛЛА spawned SENT "Entity [519][sw_gaz2330_pkm]"
+[Thu Feb  5 15:36:19 2026] <STEAM_0:1:782845482> ТАГИЛЛА used tool "remover"
+[Thu Feb  5 15:36:20 2026] <STEAM_0:1:782845482> ТАГИЛЛА used tool "remover"
+[Thu Feb  5 15:36:20 2026] <STEAM_0:1:782845482> ТАГИЛЛА used tool "remover"
+[Thu Feb  5 15:36:29 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // откат
+[Thu Feb  5 15:39:04 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /com fuck you rus girl
+[Thu Feb  5 15:39:11 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /com my car fuck you
+[Thu Feb  5 15:39:38 2026] Player "DikiyKOT" <STEAM_0:1:52871717> is attempting to connect.
+[Thu Feb  5 15:40:47 2026] worldspawn has killed ТАГИЛЛА.
+[Thu Feb  5 15:40:54 2026] <STEAM_0:1:782845482> ТАГИЛЛА ran command "respawn CPL|Miller"
+[Thu Feb  5 15:41:33 2026] <STEAM_0:1:782845482> ТАГИЛЛА spawned SENT "Entity [609][lvs_wheeldrive_hummer_tow]"
+[Thu Feb  5 15:41:41 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc ау, тачку верни
+[Thu Feb  5 15:41:53 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // я заспавнил себе тачку через проп
+[Thu Feb  5 15:41:56 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // именно
+[Thu Feb  5 15:42:00 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // а не через q
+[Thu Feb  5 15:42:03 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc так верни
+[Thu Feb  5 15:42:07 2026] Player "der Deutsche" <STEAM_0:1:411221606> is attempting to connect.
+[Thu Feb  5 15:42:09 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc нас не волнует
+[Thu Feb  5 15:42:13 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // всмысле чувак
+[Thu Feb  5 15:42:20 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc мы ее захватили
+[Thu Feb  5 15:42:25 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // of
+[Thu Feb  5 15:42:36 2026] <STEAM_0:1:782845482> ТАГИЛЛА spawned SENT "Entity [633][lvs_wheeldrive_hummer_mk19]"
+[Thu Feb  5 15:43:03 2026] Player "der Deutsche" <STEAM_0:1:411221606> has spawned in the server
+[Thu Feb  5 15:43:32 2026] ★☾₳ⱤØ₦₦ł₭☽★ has killed Zhenechka.
+[Thu Feb  5 15:44:15 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc ты как успел до базы добежать и зареспавнить?
+[Thu Feb  5 15:44:21 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // кого
+[Thu Feb  5 15:44:23 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc машину
+[Thu Feb  5 15:44:27 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // я не реал
+[Thu Feb  5 15:44:29 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // я не ресал
+[Thu Feb  5 15:44:37 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc а поч у нас тачка пропала?
+[Thu Feb  5 15:44:40 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // я сдох
+[Thu Feb  5 15:44:43 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // я упал
+[Thu Feb  5 15:45:11 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc так 30 сек должно пройти
+[Thu Feb  5 15:45:12 2026] ТАГИЛЛА has killed ★☾₳ⱤØ₦₦ł₭☽★.
+[Thu Feb  5 15:45:17 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc а ты через секунду зареспавнил
+[Thu Feb  5 15:46:04 2026] ТАГИЛЛА has killed ★☾₳ⱤØ₦₦ł₭☽★.
+[Thu Feb  5 15:46:05 2026] ★☾₳ⱤØ₦₦ł₭☽★ has killed ★☾₳ⱤØ₦₦ł₭☽★.
+[Thu Feb  5 15:46:09 2026] Zhenechka has killed ТАГИЛЛА.
+[Thu Feb  5 15:46:10 2026] ТАГИЛЛА has killed ТАГИЛЛА.
+[Thu Feb  5 15:46:13 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // фак
+[Thu Feb  5 15:46:18 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // какую секунд
+[Thu Feb  5 15:46:24 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc целую
+[Thu Feb  5 15:46:24 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // ханоев ты параноик
+[Thu Feb  5 15:46:32 2026] Zhenechka has killed ТАГИЛЛА.
+[Thu Feb  5 15:46:33 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc меня не волнуют твои рецензии
+[Thu Feb  5 15:46:43 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // нахуй ты меня убил?
+[Thu Feb  5 15:46:43 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc ты мне ответь
+[Thu Feb  5 15:46:50 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // я не через секунду
+[Thu Feb  5 15:46:55 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // я подождал 30 сек
+[Thu Feb  5 15:47:01 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc там явно не 30
+[Thu Feb  5 15:47:09 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // как хочешь думай
+[Thu Feb  5 15:47:38 2026] Player "der Deutsche" <STEAM_0:1:411221606> is attempting to connect.
+[Thu Feb  5 15:47:38 2026] Player "der Deutsche" <STEAM_0:1:411221606> has left the server
+[Thu Feb  5 15:47:47 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /rf Не, тут уже просто жб писать, ему не помочь
+[Thu Feb  5 15:47:49 2026] <STEAM_0:0:114787793> Zhenechka: // хаывзхф
+[Thu Feb  5 15:47:52 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // че
+[Thu Feb  5 15:48:03 2026] <STEAM_0:0:114787793> Zhenechka: // нахуй он ливнул
+[Thu Feb  5 15:48:07 2026] <STEAM_0:0:114787793> Zhenechka: // я застрял из за него
+[Thu Feb  5 15:48:09 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // он рекнулся
+[Thu Feb  5 15:48:17 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc Так Мислер еблан
+[Thu Feb  5 15:48:23 2026] Zhenechka has killed Zhenechka.
+[Thu Feb  5 15:48:34 2026] Player "der Deutsche" <STEAM_0:1:411221606> has spawned in the server
+[Thu Feb  5 15:48:45 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /rf ты где
+[Thu Feb  5 15:49:57 2026] <STEAM_0:1:782845482> ТАГИЛЛА spawned SENT "Entity [603][sw_matv_mk19]"
+[Thu Feb  5 15:52:43 2026] ТАГИЛЛА has killed ★☾₳ⱤØ₦₦ł₭☽★.
+[Thu Feb  5 15:53:01 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc але ебланище чо за хуйня, ты какую тачку взял
+[Thu Feb  5 15:53:10 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // опа 2 реп
+[Thu Feb  5 15:53:21 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc опа, снятие малого с админки
+[Thu Feb  5 15:53:27 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // вхвхвхв за что же
+[Thu Feb  5 15:53:33 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // это анзур заспавнил)
+[Thu Feb  5 15:53:43 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /rf не, ну ему не помочь
+[Thu Feb  5 15:54:21 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc ну, тебе уже не помочь)0)))
+[Thu Feb  5 15:54:28 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // ну поглядим поглядим
+[Thu Feb  5 15:54:31 2026] <STEAM_0:1:411221606> der Deutsche: // а=хахахахахахахах
+[Thu Feb  5 15:54:32 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // братух
+[Thu Feb  5 15:54:53 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // еще посидим еще посидим
+[Thu Feb  5 15:55:07 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc какой ты угарный
+[Thu Feb  5 15:55:15 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // давай братан
+[Thu Feb  5 15:55:30 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // связь держим?
+[Thu Feb  5 15:56:39 2026] Player "Полковник Форест" <STEAM_0:1:620808428> is attempting to connect.
+[Thu Feb  5 15:56:45 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // залили?
+[Thu Feb  5 15:58:13 2026] ТАГИЛЛА has killed Zhenechka.
+[Thu Feb  5 15:58:14 2026] Zhenechka has killed Zhenechka.
+[Thu Feb  5 15:58:17 2026] ТАГИЛЛА has killed ТАГИЛЛА.
+[Thu Feb  5 15:58:17 2026] ТАГИЛЛА has killed der Deutsche.
+[Thu Feb  5 15:58:17 2026] ТАГИЛЛА has killed ★☾₳ⱤØ₦₦ł₭☽★.
+[Thu Feb  5 15:59:25 2026] Player "Полковник Форест" <STEAM_0:1:620808428> has spawned in the server
+[Thu Feb  5 16:00:05 2026] <STEAM_0:1:782845482> ТАГИЛЛА un-froze (reloaded) using the physgun
+[Thu Feb  5 16:00:19 2026] <STEAM_0:1:782845482> ТАГИЛЛА used tool "remover"
+[Thu Feb  5 16:00:19 2026] <STEAM_0:1:782845482> ТАГИЛЛА used tool "remover"
+[Thu Feb  5 16:00:19 2026] <STEAM_0:1:782845482> ТАГИЛЛА used tool "remover"
+[Thu Feb  5 16:00:20 2026] <STEAM_0:1:782845482> ТАГИЛЛА used tool "remover"
+[Thu Feb  5 16:00:24 2026] <STEAM_0:1:782845482> ТАГИЛЛА spawned SENT "Entity [590][sw_matv_mk19]"
+[Thu Feb  5 16:00:32 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // форест тп
+[Thu Feb  5 16:00:56 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: тут
+[Thu Feb  5 16:01:26 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: я там спросил какая машина спавнится у мехводов нато
+[Thu Feb  5 16:01:52 2026] <STEAM_0:0:114787793> Zhenechka ran command "pm STEAM_0:1:620808428 выдай мне ивентолога"
+[Thu Feb  5 16:02:11 2026] <STEAM_0:0:114787793> Zhenechka ran command "pm STEAM_0:1:620808428 пожалуйста"
+[Thu Feb  5 16:03:34 2026] <STEAM_0:1:620808428> Полковник Форест: /logs
+[Thu Feb  5 16:03:35 2026] Player "yutchs" <STEAM_0:0:557557949> is attempting to connect.
+[Thu Feb  5 16:04:14 2026] <STEAM_0:0:114787793> Zhenechka: // можете тачку спустить
+[Thu Feb  5 16:04:27 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // откат
+[Thu Feb  5 16:04:36 2026] Player "новеньки" <STEAM_0:1:196569949> is attempting to connect.
+[Thu Feb  5 16:04:50 2026] <STEAM_0:0:114787793> Zhenechka: // может кто то тачку спустить
+[Thu Feb  5 16:04:55 2026] <STEAM_0:0:114787793> Zhenechka: // ?
+[Thu Feb  5 16:04:57 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // она физ ганом не береться
+[Thu Feb  5 16:05:13 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // она физ ганом не береться
+[Thu Feb  5 16:05:15 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // откат
+[Thu Feb  5 16:05:50 2026] <STEAM_0:1:620808428> Полковник Форест spawned prop "Entity [529][prop_physics] (models/Cranes/crane_frame.mdl)"
+[Thu Feb  5 16:06:01 2026] <STEAM_0:1:620808428> Полковник Форест spawned prop "Entity [529][prop_physics] (models/props_junk/TrashDumpster02b.mdl)"
+[Thu Feb  5 16:06:27 2026] Player "yutchs" <STEAM_0:0:557557949> is attempting to connect.
+[Thu Feb  5 16:06:51 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // форест помоги
+[Thu Feb  5 16:07:10 2026] <STEAM_0:1:620808428> Полковник Форест: // Чем?
+[Thu Feb  5 16:07:15 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // Ну тепнись
+[Thu Feb  5 16:07:19 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // тачка перевернулась
+[Thu Feb  5 16:07:19 2026] <STEAM_0:1:620808428> Полковник Форест: // Увидел
+[Thu Feb  5 16:07:30 2026] <STEAM_0:1:620808428> Полковник Форест: // РП путём
+[Thu Feb  5 16:07:37 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // КАКИМ РП ПУТЕМ
+[Thu Feb  5 16:07:46 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // ЧТО Я ДОЛЖЕН СДЕЛАТЬ
+[Thu Feb  5 16:07:59 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // ПУСТЬ ТАЧКИ С КРЫШИ РП ПУТЕМ СНИМАЮТ
+[Thu Feb  5 16:08:07 2026] <STEAM_0:1:620808428> Полковник Форест: // Хули капсишь, щас лапы вырву ничего не напишешь
+[Thu Feb  5 16:08:13 2026] <STEAM_0:1:620808428> Полковник Форест: // ТЫ кривой, сиди без тачки
+[Thu Feb  5 16:08:19 2026] Player "★☾₳ⱤØ₦₦ł₭☽★" <STEAM_0:0:456016030> has left the server
+[Thu Feb  5 16:08:24 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // это не я кривой
+[Thu Feb  5 16:08:35 2026] <STEAM_0:1:620808428> Полковник Форест: // Водитель*
+[Thu Feb  5 16:08:49 2026] <STEAM_0:1:411221606> der Deutsche: // а я то что это дерево
+[Thu Feb  5 16:09:04 2026] <STEAM_0:1:411221606> der Deutsche: // и вопще анзур не виноват\
+[Thu Feb  5 16:09:16 2026] Zhenechka has killed der Deutsche.
+[Thu Feb  5 16:09:17 2026] Zhenechka has killed ТАГИЛЛА.
+[Thu Feb  5 16:09:17 2026] der Deutsche has killed der Deutsche.
+[Thu Feb  5 16:09:44 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // кто за рулем был у вас?
+[Thu Feb  5 16:10:28 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // сними тачку
+[Thu Feb  5 16:10:46 2026] <STEAM_0:1:620808428> Полковник Форест spawned prop "Entity [616][prop_physics] (models/props_c17/FurnitureRadiator001a.mdl)"
+[Thu Feb  5 16:10:47 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // сними тачку
+[Thu Feb  5 16:10:59 2026] <STEAM_0:1:620808428> Полковник Форест spawned prop "Entity [616][prop_physics] (models/props_c17/FurnitureRadiator001a.mdl)"
+[Thu Feb  5 16:11:39 2026] <STEAM_0:1:782845482> ТАГИЛЛА: че
+[Thu Feb  5 16:11:40 2026] <STEAM_0:1:782845482> ТАГИЛЛА: какрй
+[Thu Feb  5 16:11:53 2026] <STEAM_0:1:782845482> ТАГИЛЛА: я себя нормальну веду
+[Thu Feb  5 16:11:59 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // ты как разговариваешь
+[Thu Feb  5 16:12:04 2026] <STEAM_0:1:782845482> ТАГИЛЛА: ТАК ТЫ ЕЕ СКИНУЛ
+[Thu Feb  5 16:12:07 2026] <STEAM_0:1:782845482> ТАГИЛЛА: КАК СВИНЬЯМ БЛЯДСКИМ
+[Thu Feb  5 16:12:09 2026] <STEAM_0:1:782845482> ТАГИЛЛА: ТЫ СИДИШЬ
+[Thu Feb  5 16:12:10 2026] <STEAM_0:1:782845482> ТАГИЛЛА: ПРОСТО
+[Thu Feb  5 16:12:12 2026] <STEAM_0:0:114787793> Zhenechka ran command "pm STEAM_0:1:620808428 может я покажу откат лучше ?"
+[Thu Feb  5 16:12:13 2026] <STEAM_0:1:782845482> ТАГИЛЛА: ХУЙНЮ НЕСЕШЬ
+[Thu Feb  5 16:12:16 2026] <STEAM_0:1:782845482> ТАГИЛЛА: НОРМАЛЬНО СНЯТЬ
+[Thu Feb  5 16:12:23 2026] <STEAM_0:1:782845482> ТАГИЛЛА: КАКОЙ ПЕТУШОК
+[Thu Feb  5 16:12:26 2026] <STEAM_0:1:782845482> ТАГИЛЛА: КАК ТЫ БАЗАРИШЬ
+[Thu Feb  5 16:12:30 2026] <STEAM_0:0:114787793> Zhenechka ran command "pm STEAM_0:1:620808428 смысл сейчас смотреть он в паиньку играет"
+[Thu Feb  5 16:12:33 2026] <STEAM_0:1:782845482> ТАГИЛЛА: ТЫ НЕ САМЫЙ ВАЖНЫЙ НА СЕРВЕРЕ
+[Thu Feb  5 16:12:51 2026] Player "ЛОМИК" <STEAM_0:1:576585521> is attempting to connect.
+[Thu Feb  5 16:14:22 2026] worldspawn has killed ТАГИЛЛА.
+[Thu Feb  5 16:14:28 2026] <STEAM_0:1:782845482> ТАГИЛЛА: //
+[Thu Feb  5 16:14:38 2026] Player "ЛОМИК" <STEAM_0:1:576585521> has spawned in the server
+[Thu Feb  5 16:15:06 2026] <STEAM_0:1:620808428> Полковник Форест ran command "rank CPL|Miser eventolog 1"
+[Thu Feb  5 16:15:58 2026] <STEAM_0:1:782845482> ТАГИЛЛА: ц
+[Thu Feb  5 16:16:01 2026] Player "Discar" <STEAM_0:0:650470378> is attempting to connect.
+[Thu Feb  5 16:16:08 2026] <STEAM_0:1:620808428> Полковник Форест ran command "rank CPL|Miller eventolog 1"
+[Thu Feb  5 16:16:46 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /nato он снял меня
+[Thu Feb  5 16:17:12 2026] Player "Discar" <STEAM_0:0:650470378> has spawned in the server
+[Thu Feb  5 16:18:06 2026] Player "новеньки" <STEAM_0:1:196569949> has spawned in the server
+[Thu Feb  5 16:18:13 2026] <STEAM_0:0:650470378> Discar: /ooc Хуй, член пизда залупа
+[Thu Feb  5 16:18:23 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // ееее
+[Thu Feb  5 16:18:32 2026] Zhenechka has killed Zhenechka.
+[Thu Feb  5 16:19:40 2026] <STEAM_0:0:650470378> Discar: /ooc  в какую мне специальность лучше перевестись?
+[Thu Feb  5 16:19:47 2026] <STEAM_0:1:196569949> новеньки: /invholster
+[Thu Feb  5 16:19:47 2026] <STEAM_0:1:196569949> новеньки: /invholster
+[Thu Feb  5 16:19:52 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // вп хз
+[Thu Feb  5 16:20:05 2026] <STEAM_0:1:576585521> ЛОМИК: у нас призывник
+[Thu Feb  5 16:20:10 2026] <STEAM_0:0:650470378> Discar: /ooc да я там нахуй сдался
+[Thu Feb  5 16:20:21 2026] <STEAM_0:0:114787793> Zhenechka: // в натуре
+[Thu Feb  5 16:20:25 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // да похуй пробуй брпт
+[Thu Feb  5 16:20:41 2026] <STEAM_0:0:650470378> Discar: /ooc в ССО лучше хуйней пострадать можно будет
+[Thu Feb  5 16:20:52 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // так он дон
+[Thu Feb  5 16:21:10 2026] <STEAM_0:0:650470378> Discar: /ooc это поправимо
+[Thu Feb  5 16:21:14 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // вххв
+[Thu Feb  5 16:21:35 2026] <STEAM_0:0:650470378> Discar: /ooc найти командира и уговорить заяски открыть
+[Thu Feb  5 16:21:46 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // нее
+[Thu Feb  5 16:21:55 2026] <STEAM_0:0:650470378> Discar: /ooc *Заявки*
+[Thu Feb  5 16:22:30 2026] <STEAM_0:0:650470378> Discar: /ooc Да похуй рискнуть можно
+[Thu Feb  5 16:22:37 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // ну так то да
+[Thu Feb  5 16:23:14 2026] <STEAM_0:0:114787793> Zhenechka ran command "pm STEAM_0:1:620808428 выдай стрелка призывнику пж"
+[Thu Feb  5 16:23:35 2026] <STEAM_0:1:196569949> новеньки: /invholster
+[Thu Feb  5 16:23:36 2026] <STEAM_0:1:196569949> новеньки: /invholster
+[Thu Feb  5 16:26:10 2026] Player "Discar" <STEAM_0:0:650470378> has left the server
+[Thu Feb  5 16:26:47 2026] <STEAM_0:1:196569949> новеньки: /me показал докумнеты [Саризам Петров][5420][Ефрейтор][ЦСН ФСБ][10.09.1998]
+[Thu Feb  5 16:26:51 2026] <STEAM_0:1:196569949> новеньки: /l бинд
+[Thu Feb  5 16:27:50 2026] <STEAM_0:0:114787793> Zhenechka: // можете тачку с пустить в низ
+[Thu Feb  5 16:28:14 2026] <STEAM_0:1:620808428> Полковник Форест spawned prop "Entity [670][prop_physics] (models/props_junk/TrashDumpster02b.mdl)"
+[Thu Feb  5 16:30:10 2026] <STEAM_0:1:411221606> der Deutsche: // я накурулися и прешол
+[Thu Feb  5 16:30:19 2026] <STEAM_0:1:576585521> ЛОМИК: пострелушки каждую минуту
+[Thu Feb  5 16:32:07 2026] Player "der Deutsche" <STEAM_0:1:411221606> has left the server
+[Thu Feb  5 16:33:03 2026] <STEAM_0:1:576585521> ЛОМИК: ура
+[Thu Feb  5 16:33:41 2026] <STEAM_0:1:576585521> ЛОМИК: админ абьюзил короче
+[Thu Feb  5 16:33:55 2026] <STEAM_0:1:576585521> ЛОМИК: бредли
+[Thu Feb  5 16:34:49 2026] <STEAM_0:1:196569949> новеньки: /drop
+[Thu Feb  5 16:34:49 2026] <STEAM_0:1:196569949> новеньки: /drop
+[Thu Feb  5 16:36:43 2026] <STEAM_0:1:576585521> ЛОМИК: как только его сняли, то сразу нападать перестал
+[Thu Feb  5 16:37:05 2026] <STEAM_0:1:576585521> ЛОМИК: да
+[Thu Feb  5 16:37:13 2026] <STEAM_0:1:576585521> ЛОМИК: за чт?
+[Thu Feb  5 16:37:20 2026] <STEAM_0:1:576585521> ЛОМИК: хахах
+[Thu Feb  5 16:37:26 2026] <STEAM_0:1:576585521> ЛОМИК: почему инвентолог вообще банить мог?
+[Thu Feb  5 16:37:55 2026] <STEAM_0:1:576585521> ЛОМИК: еще английский не знает
+[Thu Feb  5 16:37:57 2026] <STEAM_0:1:576585521> ЛОМИК: базовый
+[Thu Feb  5 16:38:35 2026] Player "а я стала ангелом" <STEAM_0:1:91850474> is attempting to connect.
+[Thu Feb  5 16:38:59 2026] <STEAM_0:1:576585521> ЛОМИК: бляя
+[Thu Feb  5 16:39:01 2026] <STEAM_0:1:576585521> ЛОМИК: я в стене
+[Thu Feb  5 16:39:26 2026] <STEAM_0:1:576585521> ЛОМИК: добей
+[Thu Feb  5 16:39:37 2026] <STEAM_0:1:576585521> ЛОМИК: спасибо
+[Thu Feb  5 16:39:58 2026] Player "ЛОМИК" <STEAM_0:1:576585521> has left the server
+[Thu Feb  5 16:40:00 2026] Player "ЛОМИК" <STEAM_0:1:576585521> is attempting to connect.
+[Thu Feb  5 16:40:36 2026] Player "ЛОМИК" <STEAM_0:1:576585521> has spawned in the server
+[Thu Feb  5 16:43:00 2026] <STEAM_0:1:576585521> ЛОМИК: давай
+[Thu Feb  5 16:43:01 2026] Player "Zhenechka" <STEAM_0:0:114787793> has left the server
+[Thu Feb  5 16:43:23 2026] <STEAM_0:1:576585521> ЛОМИК: в город точки захватывать
+[Thu Feb  5 16:43:31 2026] <STEAM_0:1:576585521> ЛОМИК: скорее пошли
+[Thu Feb  5 16:44:49 2026] <STEAM_0:1:576585521> ЛОМИК: он просто боится
+[Thu Feb  5 16:45:18 2026] <STEAM_0:1:576585521> ЛОМИК: он знает что мы сильнее
+[Thu Feb  5 16:45:25 2026] <STEAM_0:1:576585521> ЛОМИК: вот и сидит на базе
+[Thu Feb  5 16:45:30 2026] <STEAM_0:1:196569949> новеньки: хахаха
+[Thu Feb  5 16:47:27 2026] <STEAM_0:1:576585521> ЛОМИК: ну обещали переделать
+[Thu Feb  5 16:47:44 2026] <STEAM_0:1:576585521> ЛОМИК: НАТО спит просто
+[Thu Feb  5 16:47:47 2026] <STEAM_0:1:576585521> ЛОМИК: тихий час у них
+[Thu Feb  5 16:48:03 2026] <STEAM_0:1:576585521> ЛОМИК: центр города + нас мало
+[Thu Feb  5 16:48:26 2026] <STEAM_0:1:576585521> ЛОМИК: вертолеты есть
+[Thu Feb  5 16:48:28 2026] <STEAM_0:1:576585521> ЛОМИК: пилотов нет
+[Thu Feb  5 16:48:31 2026] <STEAM_0:1:196569949> новеньки: ахахаха
+[Thu Feb  5 16:49:08 2026] <STEAM_0:1:576585521> ЛОМИК: да хорошо
+[Thu Feb  5 16:49:45 2026] Player "BloodySmile" <STEAM_0:1:54838838> is attempting to connect.
+[Thu Feb  5 16:50:34 2026] <STEAM_0:1:576585521> ЛОМИК: сейчас, захватим
+[Thu Feb  5 16:50:36 2026] Player "BloodySmile" <STEAM_0:1:54838838> has spawned in the server
+[Thu Feb  5 16:52:00 2026] Player "Discar" <STEAM_0:0:650470378> is attempting to connect.
+[Thu Feb  5 16:52:48 2026] Player "Discar" <STEAM_0:0:650470378> has spawned in the server
+[Thu Feb  5 16:53:47 2026] Player "Up" <STEAM_0:1:773143239> is attempting to connect.
+[Thu Feb  5 16:53:58 2026] <STEAM_0:1:576585521> ЛОМИК: бб
+[Thu Feb  5 16:54:00 2026] Player "новеньки" <STEAM_0:1:196569949> has left the server
+[Thu Feb  5 16:54:06 2026] Player "новеньки" <STEAM_0:1:196569949> is attempting to connect.
+[Thu Feb  5 16:55:34 2026] Player "новеньки" <STEAM_0:1:196569949> has spawned in the server
+[Thu Feb  5 16:55:40 2026] Player "Up" <STEAM_0:1:773143239> has spawned in the server
+[Thu Feb  5 16:58:29 2026] <STEAM_0:0:650470378> Discar: /ooc можно механикам водителям вместо ПМ КС-23
+[Thu Feb  5 16:58:39 2026] Player "ТАГИЛЛА" <STEAM_0:1:782845482> has left the server
+[Thu Feb  5 17:04:50 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Thu Feb  5 17:04:50 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [625][prop_physics] (models/ninja/esp/fortification/hescobarrierpyramidbig.mdl)"
+[Thu Feb  5 17:04:52 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Thu Feb  5 17:04:52 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [626][prop_physics] (models/ninja/esp/fortification/hescobarrierpyramidbig.mdl)"
+[Thu Feb  5 17:04:53 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Thu Feb  5 17:04:53 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [627][prop_physics] (models/ninja/esp/fortification/hescobarrierpyramidbig.mdl)"
+[Thu Feb  5 17:04:55 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Thu Feb  5 17:04:55 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [628][prop_physics] (models/ninja/esp/fortification/hescobarrierpyramidbig.mdl)"
+[Thu Feb  5 17:04:56 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Thu Feb  5 17:04:56 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [629][prop_physics] (models/ninja/esp/fortification/hescobarrierpyramidbig.mdl)"
+[Thu Feb  5 17:04:57 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Thu Feb  5 17:04:57 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [630][prop_physics] (models/ninja/esp/fortification/hescobarrierpyramidbig.mdl)"
+[Thu Feb  5 17:04:59 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Thu Feb  5 17:04:59 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [629][prop_physics] (models/ninja/esp/fortification/hescobarrierpyramidbig.mdl)"
+[Thu Feb  5 17:05:00 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Thu Feb  5 17:05:00 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [630][prop_physics] (models/ninja/esp/fortification/hescobarrierpyramidbig.mdl)"
+[Thu Feb  5 17:05:04 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Thu Feb  5 17:05:04 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [629][prop_physics] (models/ninja/esp/fortification/hescobarrierpyramidbig.mdl)"
+[Thu Feb  5 17:05:06 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Thu Feb  5 17:05:06 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [629][prop_physics] (models/ninja/esp/fortification/hescobarrierpyramidbig.mdl)"
+[Thu Feb  5 17:05:07 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Thu Feb  5 17:05:07 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [631][prop_physics] (models/ninja/esp/fortification/hescobarrierpyramidbig.mdl)"
+[Thu Feb  5 17:05:10 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Thu Feb  5 17:05:10 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [629][prop_physics] (models/ninja/esp/fortification/hescobarrierpyramidbig.mdl)"
+[Thu Feb  5 17:05:16 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Thu Feb  5 17:05:16 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [631][prop_physics] (models/ninja/esp/fortification/hescobarrierpyramidbig.mdl)"
+[Thu Feb  5 17:05:17 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Thu Feb  5 17:05:17 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [632][prop_physics] (models/ninja/esp/fortification/hescobarrierpyramidbig.mdl)"
+[Thu Feb  5 17:05:24 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Thu Feb  5 17:05:24 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [631][prop_physics] (models/ninja/esp/fortification/hescobarrierpyramidbig.mdl)"
+[Thu Feb  5 17:05:27 2026] <STEAM_0:0:650470378> Discar: /ooc Тигр на крыше
+[Thu Feb  5 17:05:33 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Thu Feb  5 17:05:33 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [633][prop_physics] (models/ninja/esp/fortification/hescobarrierfort.mdl)"
+[Thu Feb  5 17:05:34 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Thu Feb  5 17:05:34 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [633][prop_physics] (models/ninja/esp/fortification/hescobarrierfort.mdl)"
+[Thu Feb  5 17:05:36 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Thu Feb  5 17:05:36 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [637][prop_physics] (models/ninja/esp/fortification/hescobarrierfort.mdl)"
+[Thu Feb  5 17:05:37 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Thu Feb  5 17:05:37 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [637][prop_physics] (models/ninja/esp/fortification/hescobarrierfort.mdl)"
+[Thu Feb  5 17:05:43 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Thu Feb  5 17:05:43 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [639][prop_physics] (models/ninja/esp/fortification/hescobarrierfort.mdl)"
+[Thu Feb  5 17:05:44 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Thu Feb  5 17:05:44 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [640][prop_physics] (models/ninja/esp/fortification/hescobarrierfort.mdl)"
+[Thu Feb  5 17:05:46 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Thu Feb  5 17:05:46 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [639][prop_physics] (models/ninja/esp/fortification/hescobarrierfort.mdl)"
+[Thu Feb  5 17:05:48 2026] <STEAM_0:1:620808428> Полковник Форест spawned prop "Entity [641][prop_physics] (models/props_junk/TrashDumpster02b.mdl)"
+[Thu Feb  5 17:06:18 2026] <STEAM_0:1:54838838> BloodySmile ran command "goto Дубровин"
+[Thu Feb  5 17:07:23 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [641][prop_physics] (models/total_conflict/prop/dot/dot_01.mdl)"
+[Thu Feb  5 17:07:25 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [641][prop_physics] (models/total_conflict/prop/antenns/sm_tr_antenna_01.mdl)"
+[Thu Feb  5 17:07:26 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [643][prop_physics] (models/total_conflict/prop/anti_tank/anti_tank.mdl)"
+[Thu Feb  5 17:07:29 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [641][prop_physics] (models/total_conflict/prop/des_veh/abrams/abrams_damaged.mdl)"
+[Thu Feb  5 17:07:35 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Thu Feb  5 17:07:35 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [641][prop_physics] (models/ninja/esp/fortification/hescobarrierquad.mdl)"
+[Thu Feb  5 17:07:39 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Thu Feb  5 17:07:39 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [642][prop_physics] (models/ninja/esp/fortification/hescobarrierquad.mdl)"
+[Thu Feb  5 17:07:40 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Thu Feb  5 17:07:40 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [641][prop_physics] (models/ninja/esp/fortification/hescobarrierquad.mdl)"
+[Thu Feb  5 17:07:42 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Thu Feb  5 17:07:42 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [642][prop_physics] (models/ninja/esp/fortification/hescobarrierquad.mdl)"
+[Thu Feb  5 17:07:44 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Thu Feb  5 17:07:44 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [643][prop_physics] (models/ninja/esp/fortification/hescobarrierquad.mdl)"
+[Thu Feb  5 17:08:17 2026] <STEAM_0:1:620808428> Полковник Форест spawned prop "Entity [644][prop_physics] (models/props_interiors/SinkKitchen01a.mdl)"
+[Thu Feb  5 17:08:27 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Thu Feb  5 17:08:27 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [645][prop_physics] (models/ninja/esp/fortification/hescobarrierquad.mdl)"
+[Thu Feb  5 17:08:42 2026] <STEAM_0:1:620808428> Полковник Форест spawned prop "Entity [644][prop_physics] (models/props_c17/oildrum001_explosive.mdl)"
+[Thu Feb  5 17:08:58 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Thu Feb  5 17:08:58 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [644][prop_physics] (models/ninja/esp/fortification/sandbagfort.mdl)"
+[Thu Feb  5 17:08:59 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Thu Feb  5 17:08:59 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [645][prop_physics] (models/ninja/esp/fortification/sandbagfort.mdl)"
+[Thu Feb  5 17:09:02 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Thu Feb  5 17:09:02 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [644][prop_physics] (models/ninja/esp/fortification/sandbagfort.mdl)"
+[Thu Feb  5 17:09:04 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Thu Feb  5 17:09:04 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [645][prop_physics] (models/ninja/esp/fortification/sandbagfort.mdl)"
+[Thu Feb  5 17:09:05 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Thu Feb  5 17:09:05 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [646][prop_physics] (models/ninja/esp/fortification/sandbagfort.mdl)"
+[Thu Feb  5 17:09:06 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Thu Feb  5 17:09:06 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [645][prop_physics] (models/ninja/esp/fortification/sandbagfort.mdl)"
+[Thu Feb  5 17:09:08 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Thu Feb  5 17:09:08 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [646][prop_physics] (models/ninja/esp/fortification/sandbagfort.mdl)"
+[Thu Feb  5 17:09:21 2026] <STEAM_0:1:773143239> Up: /me Достал удо сотрудника ВП из кармана
+[Thu Feb  5 17:09:26 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Thu Feb  5 17:09:26 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [645][prop_physics] (models/ninja/esp/fortification/hescobarrierpyramidbig.mdl)"
+[Thu Feb  5 17:09:28 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Thu Feb  5 17:09:28 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [647][prop_physics] (models/ninja/esp/fortification/hescobarrierpyramidbig.mdl)"
+[Thu Feb  5 17:09:30 2026] <STEAM_0:1:773143239> Up: /me Покажу на уровне глаз не передовая в руки
+[Thu Feb  5 17:09:30 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Thu Feb  5 17:09:30 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [648][prop_physics] (models/ninja/esp/fortification/hescobarrierpyramidbig.mdl)"
+[Thu Feb  5 17:09:33 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Thu Feb  5 17:09:33 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [649][prop_physics] (models/ninja/esp/fortification/hescobarrierpyramidbig.mdl)"
+[Thu Feb  5 17:09:35 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Thu Feb  5 17:09:35 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [648][prop_physics] (models/ninja/esp/fortification/hescobarrierpyramidbig.mdl)"
+[Thu Feb  5 17:09:36 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Thu Feb  5 17:09:36 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [649][prop_physics] (models/ninja/esp/fortification/hescobarrierpyramidbig.mdl)"
+[Thu Feb  5 17:10:03 2026] <STEAM_0:1:773143239> Up: /do В удо написано ФИО Кузнецов М.Л Ранг Рядовой Должность Стажер ВП
+[Thu Feb  5 17:10:03 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Thu Feb  5 17:10:03 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [648][prop_physics] (models/ninja/esp/fortification/sandbagcover.mdl)"
+[Thu Feb  5 17:10:05 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Thu Feb  5 17:10:05 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [650][prop_physics] (models/ninja/esp/fortification/sandbagcover.mdl)"
+[Thu Feb  5 17:10:06 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Thu Feb  5 17:10:06 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [651][prop_physics] (models/ninja/esp/fortification/sandbagcover.mdl)"
+[Thu Feb  5 17:10:15 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Thu Feb  5 17:10:15 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [650][prop_physics] (models/ninja/esp/fortification/sandbagwall.mdl)"
+[Thu Feb  5 17:10:17 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Thu Feb  5 17:10:17 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [651][prop_physics] (models/ninja/esp/fortification/sandbagwall.mdl)"
+[Thu Feb  5 17:10:18 2026] <STEAM_0:1:773143239> Up: /me Удо закрою, в карман положу
+[Thu Feb  5 17:10:18 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Thu Feb  5 17:10:18 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [650][prop_physics] (models/ninja/esp/fortification/sandbagwall.mdl)"
+[Thu Feb  5 17:10:20 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Thu Feb  5 17:10:20 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [652][prop_physics] (models/ninja/esp/fortification/sandbagwall.mdl)"
+[Thu Feb  5 17:10:26 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [650][prop_physics] (models/total_conflict/prop/des_veh/abrams/abrams_damaged.mdl)"
+[Thu Feb  5 17:10:28 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [650][prop_physics] (models/total_conflict/prop/des_veh/armata/t14_destroyed.mdl)"
+[Thu Feb  5 17:10:29 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [653][prop_physics] (models/total_conflict/prop/des_veh/btr82/btr82_damaged.mdl)"
+[Thu Feb  5 17:10:30 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [650][prop_physics] (models/total_conflict/prop/des_veh/hmmwv/hmmwv_damage.mdl)"
+[Thu Feb  5 17:10:32 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [653][prop_physics] (models/total_conflict/prop/des_veh/mtlb/mtlb_damaged.mdl)"
+[Thu Feb  5 17:10:33 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [650][prop_physics] (models/total_conflict/prop/des_veh/shilka/shilka_damaged.mdl)"
+[Thu Feb  5 17:10:34 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [653][prop_physics] (models/total_conflict/prop/des_veh/smerch/smerch_damaged.mdl)"
+[Thu Feb  5 17:10:36 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [650][prop_physics] (models/total_conflict/prop/des_veh/stryker/stryker_105mm_destroy.mdl)"
+[Thu Feb  5 17:10:38 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [653][prop_physics] (models/total_conflict/prop/des_veh/t72b/t72b_damaged.mdl)"
+[Thu Feb  5 17:10:45 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [650][prop_physics] (models/vehicles/humvee_destroyed.mdl)"
+[Thu Feb  5 17:10:48 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [650][prop_physics] (models/vehicles/humvee_destroyed.mdl)"
+[Thu Feb  5 17:10:50 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [650][prop_physics] (models/vehicles/humvee_destroyed.mdl)"
+[Thu Feb  5 17:12:15 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [654][lvs_wheeldrive_m3a3]"
+[Thu Feb  5 17:12:21 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [654][sw_bmp3]"
+[Thu Feb  5 17:12:24 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [733][sw_bmp2m]"
+[Thu Feb  5 17:12:27 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [654][lvs_wheeldrive_rp_t90m]"
+[Thu Feb  5 17:12:30 2026] <STEAM_0:1:620808428> Полковник Форест ran command "send Кузнецов"
+[Thu Feb  5 17:12:48 2026] <STEAM_0:1:620808428> Полковник Форест ran command "send Дискаров"
+[Thu Feb  5 17:12:59 2026] <STEAM_0:1:620808428> Полковник Форест ran command "send Дискаров"
+[Thu Feb  5 17:13:07 2026] <STEAM_0:1:620808428> Полковник Форест ran command "send Дискаров"
+[Thu Feb  5 17:13:28 2026] <STEAM_0:1:620808428> Полковник Форест used tool "remover"
+[Thu Feb  5 17:13:28 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:13:29 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:13:29 2026] <STEAM_0:1:620808428> Полковник Форест used tool "remover"
+[Thu Feb  5 17:13:30 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:13:31 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:13:32 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:13:32 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:13:34 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:13:35 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:13:36 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:13:38 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:13:38 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:13:39 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:13:40 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:13:41 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:13:41 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:13:42 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:13:43 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:13:44 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:13:46 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:13:50 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:13:51 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:13:52 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:13:55 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:13:56 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:13:58 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:13:59 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:14:00 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:14:02 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:14:03 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:14:07 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:14:08 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:14:08 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:14:10 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:14:12 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:14:13 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:14:13 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:14:26 2026] <STEAM_0:1:773143239> Up: /ooc Выдайте роль ВП
+[Thu Feb  5 17:14:41 2026] <STEAM_0:1:196569949> новеньки: /// Админ есть на сервере?
+[Thu Feb  5 17:15:01 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:15:12 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:15:12 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:15:12 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:15:15 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:15:15 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:15:31 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:15:32 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:15:32 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:15:33 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:15:34 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:15:39 2026] Player "Махорка" <STEAM_0:0:563533126> is attempting to connect.
+[Thu Feb  5 17:16:26 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [606][prop_physics] (models/total_conflict/prop/des_veh/armata/t14_destroyed.mdl)"
+[Thu Feb  5 17:16:29 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [606][prop_physics] (models/total_conflict/prop/des_veh/abrams/abrams_damaged.mdl)"
+[Thu Feb  5 17:16:30 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [607][prop_physics] (models/total_conflict/prop/des_veh/mtlb/mtlb_damaged.mdl)"
+[Thu Feb  5 17:16:32 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [606][prop_physics] (models/total_conflict/prop/des_veh/hmmwv/hmmwv_damage.mdl)"
+[Thu Feb  5 17:16:33 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [607][prop_physics] (models/total_conflict/prop/des_veh/smerch/smerch_damaged.mdl)"
+[Thu Feb  5 17:16:38 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [605][prop_physics] (models/total_conflict/prop/des_veh/shilka/shilka_damaged.mdl)"
+[Thu Feb  5 17:16:40 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [606][prop_physics] (models/total_conflict/prop/des_veh/smerch/smerch_damaged.mdl)"
+[Thu Feb  5 17:17:04 2026] <STEAM_0:1:196569949> новеньки: /invholster
+[Thu Feb  5 17:17:04 2026] <STEAM_0:1:196569949> новеньки: /invholster
+[Thu Feb  5 17:17:42 2026] Player "Махорка" <STEAM_0:0:563533126> has spawned in the server
+[Thu Feb  5 17:18:02 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [611][prop_physics] (models/total_conflict/prop/des_veh/stryker/stryker_damaged.mdl)"
+[Thu Feb  5 17:18:04 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [612][prop_physics] (models/total_conflict/prop/des_veh/t84/t84_destroy.mdl)"
+[Thu Feb  5 17:18:06 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [611][prop_physics] (models/total_conflict/prop/des_veh/tigrm/tigrm_damage.mdl)"
+[Thu Feb  5 17:18:08 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [611][prop_physics] (models/total_conflict/prop/dot/dot_01.mdl)"
+[Thu Feb  5 17:18:10 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [612][prop_physics] (models/total_conflict/prop/dot/dzot_05.mdl)"
+[Thu Feb  5 17:18:11 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [611][prop_physics] (models/total_conflict/prop/des_veh/tigrm/tigrm_damage.mdl)"
+[Thu Feb  5 17:18:24 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:18:26 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:18:27 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:18:46 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Thu Feb  5 17:18:46 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [606][prop_physics] (models/static_props/barrel_01_multiple.mdl)"
+[Thu Feb  5 17:18:47 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Thu Feb  5 17:18:47 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [611][prop_physics] (models/static_props/barrel_01_multiple.mdl)"
+[Thu Feb  5 17:18:48 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Thu Feb  5 17:18:48 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [613][prop_physics] (models/static_props/barrel_01_multiple.mdl)"
+[Thu Feb  5 17:18:49 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Thu Feb  5 17:18:49 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [611][prop_physics] (models/static_props/barrel_01_multiple.mdl)"
+[Thu Feb  5 17:18:51 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Thu Feb  5 17:18:51 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [613][prop_physics] (models/static_props/barrel_01_multiple.mdl)"
+[Thu Feb  5 17:18:53 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Thu Feb  5 17:18:53 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [606][prop_physics] (models/static_props/barrel_01_multiple.mdl)"
+[Thu Feb  5 17:18:55 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Thu Feb  5 17:18:55 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [606][prop_physics] (models/static_props/barrel_01_multiple.mdl)"
+[Thu Feb  5 17:19:03 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:19:03 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:19:21 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Thu Feb  5 17:19:21 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [613][prop_physics] (models/static_props/container_01_closed.mdl)"
+[Thu Feb  5 17:19:24 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Thu Feb  5 17:19:24 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [615][prop_physics] (models/static_props/container_01_closed.mdl)"
+[Thu Feb  5 17:19:26 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Thu Feb  5 17:19:26 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [613][prop_physics] (models/static_props/container_01_closed.mdl)"
+[Thu Feb  5 17:19:29 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Thu Feb  5 17:19:29 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [615][prop_physics] (models/static_props/container_01_closed.mdl)"
+[Thu Feb  5 17:19:30 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Thu Feb  5 17:19:30 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [613][prop_physics] (models/static_props/container_01_closed.mdl)"
+[Thu Feb  5 17:19:31 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Thu Feb  5 17:19:31 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [616][prop_physics] (models/static_props/container_01_closed.mdl)"
+[Thu Feb  5 17:19:33 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Thu Feb  5 17:19:33 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [613][prop_physics] (models/static_props/container_01_closed.mdl)"
+[Thu Feb  5 17:19:35 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Thu Feb  5 17:19:35 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [617][prop_physics] (models/static_props/container_01_closed.mdl)"
+[Thu Feb  5 17:19:37 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Thu Feb  5 17:19:37 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [618][prop_physics] (models/static_props/container_01_closed.mdl)"
+[Thu Feb  5 17:20:00 2026] <STEAM_0:1:620808428> Полковник Форест spawned SENT "Entity [613][sent_ball]"
+[Thu Feb  5 17:20:01 2026] <STEAM_0:1:620808428> Полковник Форест spawned SENT "Entity [619][sent_ball]"
+[Thu Feb  5 17:20:02 2026] <STEAM_0:1:620808428> Полковник Форест spawned SENT "Entity [613][sent_ball]"
+[Thu Feb  5 17:20:02 2026] <STEAM_0:1:620808428> Полковник Форест spawned SENT "Entity [620][sent_ball]"
+[Thu Feb  5 17:20:03 2026] <STEAM_0:1:620808428> Полковник Форест spawned SENT "Entity [619][sent_ball]"
+[Thu Feb  5 17:20:04 2026] <STEAM_0:1:620808428> Полковник Форест spawned SENT "Entity [613][sent_ball]"
+[Thu Feb  5 17:20:04 2026] <STEAM_0:1:620808428> Полковник Форест spawned SENT "Entity [619][sent_ball]"
+[Thu Feb  5 17:20:05 2026] <STEAM_0:1:620808428> Полковник Форест spawned SENT "Entity [613][sent_ball]"
+[Thu Feb  5 17:20:06 2026] <STEAM_0:1:620808428> Полковник Форест spawned SENT "Entity [619][sent_ball]"
+[Thu Feb  5 17:20:08 2026] <STEAM_0:1:620808428> Полковник Форест spawned SENT "Entity [613][sent_ball]"
+[Thu Feb  5 17:20:09 2026] <STEAM_0:1:620808428> Полковник Форест spawned SENT "Entity [619][sent_ball]"
+[Thu Feb  5 17:20:09 2026] <STEAM_0:1:620808428> Полковник Форест spawned SENT "Entity [613][sent_ball]"
+[Thu Feb  5 17:20:10 2026] <STEAM_0:1:620808428> Полковник Форест spawned SENT "Entity [619][sent_ball]"
+[Thu Feb  5 17:20:11 2026] <STEAM_0:1:620808428> Полковник Форест spawned SENT "Entity [613][sent_ball]"
+[Thu Feb  5 17:20:11 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [620][prop_physics] (models/props/hr_massive/survival_fuel_tank/survival_fuel_tank.mdl)"
+[Thu Feb  5 17:20:11 2026] <STEAM_0:1:620808428> Полковник Форест spawned SENT "Entity [619][sent_ball]"
+[Thu Feb  5 17:20:12 2026] <STEAM_0:1:620808428> Полковник Форест spawned SENT "Entity [613][sent_ball]"
+[Thu Feb  5 17:20:13 2026] <STEAM_0:1:620808428> Полковник Форест spawned SENT "Entity [619][sent_ball]"
+[Thu Feb  5 17:20:14 2026] <STEAM_0:1:620808428> Полковник Форест spawned SENT "Entity [613][sent_ball]"
+[Thu Feb  5 17:20:14 2026] <STEAM_0:1:620808428> Полковник Форест spawned SENT "Entity [619][sent_ball]"
+[Thu Feb  5 17:20:16 2026] <STEAM_0:1:620808428> Полковник Форест spawned SENT "Entity [613][sent_ball]"
+[Thu Feb  5 17:20:20 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [613][prop_physics] (models/props/dust_massive/rocks/cliff_wall004.mdl)"
+[Thu Feb  5 17:20:37 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [613][prop_physics] (models/vehicles/abrams_tub_burned.mdl)"
+[Thu Feb  5 17:20:40 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [619][prop_physics] (models/vehicles/abrams_tub_burned.mdl)"
+[Thu Feb  5 17:20:51 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [608][prop_physics] (models/vehicles/abrams_turret_burned.mdl)"
+[Thu Feb  5 17:21:10 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [620][prop_physics] (models/total_conflict/prop/des_veh/smerch/smerch_damaged.mdl)"
+[Thu Feb  5 17:21:11 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [622][prop_physics] (models/total_conflict/prop/des_veh/stryker/stryker_damaged.mdl)"
+[Thu Feb  5 17:21:13 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [620][prop_physics] (models/total_conflict/prop/des_veh/t72b/t72b_damaged.mdl)"
+[Thu Feb  5 17:21:22 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [622][prop_physics] (models/ninja/esp/fortification/sandbagwall.mdl)"
+[Thu Feb  5 17:21:23 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [622][prop_physics] (models/ninja/esp/fortification/sandbagfort.mdl)"
+[Thu Feb  5 17:21:25 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [623][prop_physics] (models/ninja/esp/fortification/sandbagcover.mdl)"
+[Thu Feb  5 17:21:27 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [622][prop_physics] (models/ninja/esp/fortification/sandbagcover.mdl)"
+[Thu Feb  5 17:21:30 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [622][prop_physics] (models/ninja/esp/fortification/sandbagwalllow.mdl)"
+[Thu Feb  5 17:21:39 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [622][prop_physics] (models/ninja/esp/fortification/sandbagwalllow.mdl)"
+[Thu Feb  5 17:21:41 2026] <STEAM_0:1:576585521> ЛОМИК: :scream:
+[Thu Feb  5 17:21:41 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [623][prop_physics] (models/ninja/esp/fortification/sandbagwalllow.mdl)"
+[Thu Feb  5 17:21:44 2026] <STEAM_0:1:576585521> ЛОМИК: :scream:
+[Thu Feb  5 17:21:51 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [622][prop_physics] (models/ninja/esp/fortification/hescobarrierpyramidbig.mdl)"
+[Thu Feb  5 17:22:00 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [623][prop_physics] (models/ninja/esp/fortification/hescobarrierpyramidbig.mdl)"
+[Thu Feb  5 17:22:06 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [624][prop_physics] (models/ninja/esp/fortification/hescobarrierpyramidbig.mdl)"
+[Thu Feb  5 17:22:10 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [625][prop_physics] (models/ninja/esp/fortification/hescobarrierfort.mdl)"
+[Thu Feb  5 17:22:21 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [626][prop_physics] (models/ninja/esp/fortification/hescobarrierpyramidbig.mdl)"
+[Thu Feb  5 17:22:28 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:22:28 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:22:29 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:22:30 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:22:31 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:22:32 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:22:33 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:22:34 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:22:36 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:22:37 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:22:39 2026] <STEAM_0:1:196569949> новеньки: // ебать, а в пендостан сегодня кто-нибудь зайдет?
+[Thu Feb  5 17:22:40 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:22:41 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:22:44 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:22:45 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:22:45 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:22:45 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:22:46 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:22:47 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:22:48 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:22:51 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:22:54 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:22:54 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:22:55 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:22:56 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:22:58 2026] <STEAM_0:1:773143239> Up: /ooc Блять Маретта, не повезло
+[Thu Feb  5 17:23:20 2026] <STEAM_0:0:650470378> Discar: /ooc у пендосов командования нету
+[Thu Feb  5 17:23:29 2026] <STEAM_0:1:196569949> новеньки: // ебать я готов
+[Thu Feb  5 17:23:33 2026] <STEAM_0:1:196569949> новеньки: // кем командовать то
+[Thu Feb  5 17:23:33 2026] <STEAM_0:0:650470378> Discar: /ooc лидера там ищют
+[Thu Feb  5 17:23:36 2026] <STEAM_0:1:196569949> новеньки: // диванами?
+[Thu Feb  5 17:23:42 2026] <STEAM_0:1:576585521> ЛОМИК: /ooc а вот не надо было с РФ уходить, товарищ Журавлев
+[Thu Feb  5 17:23:47 2026] <STEAM_0:1:196569949> новеньки: // ахаха
+[Thu Feb  5 17:24:05 2026] <STEAM_0:1:54838838> BloodySmile: https://discord.gg/2GW7PSvR
+[Thu Feb  5 17:26:12 2026] Player "Полковник Форест" <STEAM_0:1:620808428> has left the server
+[Thu Feb  5 17:26:15 2026] <STEAM_0:1:54838838> BloodySmile: igorkedrrrrr
+[Thu Feb  5 17:27:47 2026] <STEAM_0:1:576585521> ЛОМИК: так точно
+[Thu Feb  5 17:28:01 2026] <STEAM_0:1:576585521> ЛОМИК: все чисто, врагов не было обнаружено
+[Thu Feb  5 17:29:57 2026] <STEAM_0:1:54838838> BloodySmile: https://discord.gg/BpHmYeum
+[Thu Feb  5 17:30:30 2026] Player "der Deutsche" <STEAM_0:1:411221606> is attempting to connect.
+[Thu Feb  5 17:30:36 2026] Player "der Deutsche" <STEAM_0:1:411221606> is attempting to connect.
+[Thu Feb  5 17:31:47 2026] Player "der Deutsche" <STEAM_0:1:411221606> has spawned in the server
+[Thu Feb  5 17:33:50 2026] <STEAM_0:1:411221606> der Deutsche: // МАШИНУ ВЫТАЩИТЕ!!
+[Thu Feb  5 17:35:14 2026] <STEAM_0:1:411221606> der Deutsche: // МАШИНУ ВЫТАЩИТЕ!!
+[Thu Feb  5 17:36:03 2026] <STEAM_0:1:411221606> der Deutsche: // МАШИНУ ВЫТАЩИТЕ!!
+[Thu Feb  5 17:36:40 2026] <STEAM_0:1:411221606> der Deutsche: // МАШИНУ ВЫТАЩИТЕ!!
+[Thu Feb  5 17:37:09 2026] <STEAM_0:1:411221606> der Deutsche: // МАШИНУ ВЫТАЩИТЕ!!
+[Thu Feb  5 17:38:51 2026] <STEAM_0:1:411221606> der Deutsche: // МАШИНУ ВЫТАЩИТЕ!!
+[Thu Feb  5 17:38:51 2026] <STEAM_0:1:411221606> der Deutsche: // МАШИНУ ВЫТАЩИТЕ!!
+[Thu Feb  5 17:39:15 2026] <STEAM_0:1:54838838> BloodySmile: /ooc рп
+[Thu Feb  5 17:39:25 2026] <STEAM_0:1:411221606> der Deutsche: // каким рп? обьесни
+[Thu Feb  5 17:39:42 2026] <STEAM_0:1:411221606> der Deutsche: // ну что я должен сделать по вашему РП
+[Thu Feb  5 17:39:58 2026] <STEAM_0:1:54838838> BloodySmile: /ooc один нет
+[Thu Feb  5 17:40:07 2026] <STEAM_0:1:411221606> der Deutsche: // ЧТО ОДИН?
+[Thu Feb  5 17:40:13 2026] <STEAM_0:1:54838838> BloodySmile: /ooc ну вреале как ты бы вытащил тачку?
+[Thu Feb  5 17:40:33 2026] <STEAM_0:1:54838838> BloodySmile: /looc идите убейте пизьдюка
+[Thu Feb  5 17:40:34 2026] <STEAM_0:1:411221606> der Deutsche: // ну я бы по рации отправил или сказал
+[Thu Feb  5 17:40:40 2026] <STEAM_0:1:411221606> der Deutsche: // но тут все офф
+[Thu Feb  5 17:40:57 2026] <STEAM_0:1:54838838> BloodySmile: /ooc ну всё гг
+[Thu Feb  5 17:40:58 2026] <STEAM_0:1:411221606> der Deutsche: // НО СЕРВ МЕРТВ КОМУ МНЕ ГОВОРИТЬ
+[Thu Feb  5 17:41:10 2026] <STEAM_0:1:411221606> der Deutsche: // ЭТО ПИК ОНЛАЙНА
+[Thu Feb  5 17:41:17 2026] Player "★☾₳ⱤØ₦₦ł₭☽★" <STEAM_0:0:456016030> is attempting to connect.
+[Thu Feb  5 17:42:17 2026] <STEAM_0:0:650470378> Discar: /ooc ебать меня пингует
+[Thu Feb  5 17:42:20 2026] <STEAM_0:1:411221606> der Deutsche: // МАШИНУ С КРЫШИ ПЖ
+[Thu Feb  5 17:42:28 2026] <STEAM_0:1:54838838> BloodySmile ran command "goto CPL|Miser"
+[Thu Feb  5 17:42:44 2026] <STEAM_0:1:411221606> der Deutsche: // ПЗДЦ КОРНЕПЛОДИ ТУТ
+[Thu Feb  5 17:44:08 2026] <STEAM_0:1:576585521> ЛОМИК: так точно
+[Thu Feb  5 17:44:12 2026] Player "★☾₳ⱤØ₦₦ł₭☽★" <STEAM_0:0:456016030> has spawned in the server
+[Thu Feb  5 17:44:39 2026] <STEAM_0:0:563533126> Махорка: .ка Gjlcndjkjv
+[Thu Feb  5 17:44:42 2026] <STEAM_0:1:54838838> BloodySmile ran command "model unknown1 models/eft/bosses/black_division.mdl"
+[Thu Feb  5 17:44:56 2026] <STEAM_0:1:54838838> BloodySmile ran command "model unknown1 models/eft/bosses/black_division.mdl"
+[Thu Feb  5 17:45:07 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [519][bodygroup]"
+[Thu Feb  5 17:46:13 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [654][prop_physics] (models/ninja/esp/fortification/hescobarrierpyramidbig.mdl)"
+[Thu Feb  5 17:46:13 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: вольно
+[Thu Feb  5 17:46:17 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [652][prop_physics] (models/ninja/esp/fortification/hescobarrierpyramidbig.mdl)"
+[Thu Feb  5 17:46:20 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [653][prop_physics] (models/ninja/esp/fortification/hescobarrierpyramidbig.mdl)"
+[Thu Feb  5 17:46:23 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [656][prop_physics] (models/ninja/esp/fortification/hescobarrierpyramidbig.mdl)"
+[Thu Feb  5 17:46:31 2026] Махорка has killed Махорка.
+[Thu Feb  5 17:46:34 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [567][prop_physics] (models/ninja/esp/fortification/hescobarrierpyramid.mdl)"
+[Thu Feb  5 17:46:36 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [569][prop_physics] (models/ninja/esp/fortification/hescobarrierfort.mdl)"
+[Thu Feb  5 17:46:38 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [567][prop_physics] (models/ninja/esp/fortification/hescobarrierfort.mdl)"
+[Thu Feb  5 17:46:39 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: стой
+[Thu Feb  5 17:46:42 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: чо бля
+[Thu Feb  5 17:46:50 2026] <STEAM_0:0:563533126> Махорка: // я того рот кто эту вч проектировал
+[Thu Feb  5 17:46:50 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [569][prop_physics] (models/ninja/esp/fortification/hescobarrierfort.mdl)"
+[Thu Feb  5 17:46:52 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: ща говори
+[Thu Feb  5 17:46:52 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [570][prop_physics] (models/ninja/esp/fortification/hescobarrierfort.mdl)"
+[Thu Feb  5 17:46:59 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:47:00 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:47:01 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:47:02 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:47:02 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:47:05 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:47:06 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:47:08 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /looc а как документы показать?
+[Thu Feb  5 17:47:08 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:47:11 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /looc команда
+[Thu Feb  5 17:47:14 2026] <STEAM_0:1:773143239> Up: /looc /me
+[Thu Feb  5 17:47:28 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /me показал документы
+[Thu Feb  5 17:47:37 2026] <STEAM_0:1:773143239> Up: /do Какой документ?
+[Thu Feb  5 17:47:38 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [659][prop_physics] (models/ninja/esp/fortification/hescobarrierquad.mdl)"
+[Thu Feb  5 17:47:39 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [660][prop_physics] (models/ninja/esp/fortification/hescobarrierpyramidbig.mdl)"
+[Thu Feb  5 17:47:42 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [659][prop_physics] (models/ninja/esp/fortification/hescobarrierpyramidbig.mdl)"
+[Thu Feb  5 17:47:46 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /me Свой билет
+[Thu Feb  5 17:47:50 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [661][prop_physics] (models/ninja/esp/fortification/hescobarrierpyramidbig.mdl)"
+[Thu Feb  5 17:47:51 2026] <STEAM_0:1:773143239> Up: /do Что за билет
+[Thu Feb  5 17:47:54 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [662][prop_physics] (models/ninja/esp/fortification/hescobarrierpyramidbig.mdl)"
+[Thu Feb  5 17:48:02 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /me военный
+[Thu Feb  5 17:48:03 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [664][prop_physics] (models/ninja/esp/fortification/hescobarrierpyramidbig.mdl)"
+[Thu Feb  5 17:48:08 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [692][prop_physics] (models/ninja/esp/fortification/hescobarrierpyramidbig.mdl)"
+[Thu Feb  5 17:48:18 2026] <STEAM_0:1:773143239> Up: /do Что в военном билете написано?
+[Thu Feb  5 17:48:18 2026] Player "der Deutsche" <STEAM_0:1:411221606> has left the server
+[Thu Feb  5 17:48:31 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [630][prop_physics] (models/ninja/esp/fortification/hescobarrierpyramidbig.mdl)"
+[Thu Feb  5 17:48:38 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [632][prop_physics] (models/ninja/esp/fortification/hescobarrierpyramidbig.mdl)"
+[Thu Feb  5 17:48:38 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /looc жетонов отродясь у нас не было
+[Thu Feb  5 17:48:54 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /me Старший сержант Ханоев
+[Thu Feb  5 17:48:54 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [633][prop_physics] (models/ninja/esp/fortification/hescobarrierpyramid.mdl)"
+[Thu Feb  5 17:48:56 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [634][prop_physics] (models/ninja/esp/fortification/hescobarrierfort.mdl)"
+[Thu Feb  5 17:48:58 2026] <STEAM_0:1:773143239> Up: /looc Ну военник мы ща обсуждаем, а не жетон
+[Thu Feb  5 17:49:18 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:49:20 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:49:21 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:49:22 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /me Проверка ворот, а не покидание территории
+[Thu Feb  5 17:49:23 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:49:24 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: ой
+[Thu Feb  5 17:49:25 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:49:26 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:49:27 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: првоерка ворот
+[Thu Feb  5 17:49:27 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:49:28 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:49:29 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:49:33 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: а не покидание территории
+[Thu Feb  5 17:50:39 2026] <STEAM_0:1:576585521> ЛОМИК: я ожидаю приказа подполковника Лимонадова
+[Thu Feb  5 17:50:45 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: а кппшник лицо неприкосновенное
+[Thu Feb  5 17:50:48 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: запомните
+[Thu Feb  5 17:51:05 2026] Player "cihAL47" <STEAM_0:0:949453858> is attempting to connect.
+[Thu Feb  5 17:51:27 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /looc не, ну я всегда не любил кппшников
+[Thu Feb  5 17:53:07 2026] <STEAM_0:0:650470378> Discar: /ooc тигр на гараже
+[Thu Feb  5 17:54:04 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc ау, Рп путем доставайте
+[Thu Feb  5 17:54:43 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: ляпота
+[Thu Feb  5 17:54:54 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: а тут зазор
+[Thu Feb  5 17:55:04 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [704][prop_physics] (models/ninja/esp/fortification/hescobarrierpyramidbig.mdl)"
+[Thu Feb  5 17:55:05 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [704][prop_physics] (models/ninja/esp/fortification/hescobarrierpyramidbig.mdl)"
+[Thu Feb  5 17:55:07 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [704][prop_physics] (models/ninja/esp/fortification/hescobarrierpyramidbig.mdl)"
+[Thu Feb  5 17:55:09 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [705][prop_physics] (models/ninja/esp/fortification/hescobarrierpyramidbig.mdl)"
+[Thu Feb  5 17:55:10 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [706][prop_physics] (models/ninja/esp/fortification/hescobarrierpyramidbig.mdl)"
+[Thu Feb  5 17:55:12 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [705][prop_physics] (models/ninja/esp/fortification/hescobarrierpyramidbig.mdl)"
+[Thu Feb  5 17:55:26 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: чо делать?ъ
+[Thu Feb  5 17:55:31 2026] <STEAM_0:1:576585521> ЛОМИК: отдыхаем
+[Thu Feb  5 17:55:31 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [709][prop_physics] (models/ninja/esp/fortification/hescobarrierquad.mdl)"
+[Thu Feb  5 17:55:33 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [707][prop_physics] (models/ninja/esp/fortification/hescobarrierpyramidbig.mdl)"
+[Thu Feb  5 17:55:40 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [708][prop_physics] (models/ninja/esp/fortification/hescobarrierpyramidbig.mdl)"
+[Thu Feb  5 17:55:50 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: а он не знает своего посредственного руководителя
+[Thu Feb  5 17:55:55 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: не узнал меня в лицо
+[Thu Feb  5 17:56:01 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Thu Feb  5 17:56:01 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [706][prop_physics] (models/props/cs_militia/haybale_target.mdl)"
+[Thu Feb  5 17:56:02 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: а мы в одном отделении
+[Thu Feb  5 17:56:04 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Thu Feb  5 17:56:04 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [706][prop_physics] (models/props/cs_militia/haybale_target.mdl)"
+[Thu Feb  5 17:56:05 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Thu Feb  5 17:56:05 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [709][prop_physics] (models/props/cs_militia/haybale_target.mdl)"
+[Thu Feb  5 17:56:05 2026] <STEAM_0:1:576585521> ЛОМИК: кошмар
+[Thu Feb  5 17:56:06 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Thu Feb  5 17:56:06 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [710][prop_physics] (models/props/cs_militia/haybale_target.mdl)"
+[Thu Feb  5 17:56:07 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Thu Feb  5 17:56:07 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [711][prop_physics] (models/props/cs_militia/haybale_target.mdl)"
+[Thu Feb  5 17:56:10 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: пишу на него рапорт
+[Thu Feb  5 17:56:10 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Thu Feb  5 17:56:10 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [712][prop_physics] (models/props/cs_militia/haybale_target_02.mdl)"
+[Thu Feb  5 17:56:11 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Thu Feb  5 17:56:11 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [713][prop_physics] (models/props/cs_militia/haybale_target_02.mdl)"
+[Thu Feb  5 17:56:12 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Thu Feb  5 17:56:12 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [714][prop_physics] (models/props/cs_militia/haybale_target_02.mdl)"
+[Thu Feb  5 17:56:13 2026] <STEAM_0:1:576585521> ЛОМИК: да
+[Thu Feb  5 17:56:14 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Thu Feb  5 17:56:14 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [715][prop_physics] (models/props/cs_militia/haybale_target_02.mdl)"
+[Thu Feb  5 17:56:15 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Thu Feb  5 17:56:15 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [716][prop_physics] (models/props/cs_militia/haybale_target_02.mdl)"
+[Thu Feb  5 17:56:16 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Thu Feb  5 17:56:16 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [717][prop_physics] (models/props/cs_militia/haybale_target_02.mdl)"
+[Thu Feb  5 17:56:17 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: все, идем спать
+[Thu Feb  5 17:56:22 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Thu Feb  5 17:56:22 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [718][prop_physics] (models/props/cs_militia/haybale_target_02.mdl)"
+[Thu Feb  5 17:56:23 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Thu Feb  5 17:56:23 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [719][prop_physics] (models/props/cs_militia/haybale_target_02.mdl)"
+[Thu Feb  5 17:56:24 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Thu Feb  5 17:56:24 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [720][prop_physics] (models/props/cs_militia/haybale_target_02.mdl)"
+[Thu Feb  5 17:56:25 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Thu Feb  5 17:56:25 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [721][prop_physics] (models/props/cs_militia/haybale_target_02.mdl)"
+[Thu Feb  5 17:56:26 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Thu Feb  5 17:56:26 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [722][prop_physics] (models/props/cs_militia/haybale_target_02.mdl)"
+[Thu Feb  5 17:56:27 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Thu Feb  5 17:56:27 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [723][prop_physics] (models/props/cs_militia/haybale_target_02.mdl)"
+[Thu Feb  5 17:56:37 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:56:38 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:56:38 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:56:38 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:56:38 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:56:39 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:56:39 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:56:40 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:56:41 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:56:41 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:56:42 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:56:43 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:56:43 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:56:43 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:56:46 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:56:46 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:56:46 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:56:46 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:56:47 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:56:47 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:56:47 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:56:47 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:56:48 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /looc я афк
+[Thu Feb  5 17:56:48 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:56:48 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:56:48 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:56:48 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:56:51 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:56:51 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:56:52 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:56:52 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:56:52 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:56:52 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:56:52 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:56:53 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:56:53 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:56:53 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:56:53 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:56:53 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:56:54 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:56:54 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:56:54 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:56:54 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:56:54 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:56:54 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:56:55 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:56:55 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:56:55 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:56:55 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:56:55 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /looc на машинке погоняй
+[Thu Feb  5 17:56:55 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:56:56 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:56:57 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:56:58 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:56:58 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:57:00 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:57:01 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:57:01 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:57:02 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:57:03 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:57:04 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:57:04 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:57:04 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:57:04 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:57:05 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:57:05 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:57:05 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:57:05 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:57:06 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:57:06 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:57:07 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:57:10 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:57:12 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:57:12 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:57:13 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:57:14 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:57:15 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:57:16 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:57:17 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:57:19 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:57:19 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:57:19 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:57:20 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:57:22 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:57:22 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:57:23 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:57:24 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:57:25 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:57:25 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:57:26 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:57:27 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:57:27 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:57:28 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:57:28 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:57:28 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:57:30 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:57:30 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:57:30 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:57:31 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:57:32 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:57:32 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:57:34 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:57:34 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:57:35 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:57:35 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:57:35 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:57:36 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:57:36 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:57:38 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:57:38 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:57:39 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:57:39 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:57:40 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:57:41 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:57:41 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:57:42 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:57:43 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:57:43 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:57:43 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:57:44 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:57:44 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:57:44 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:57:45 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Feb  5 17:57:50 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:57:51 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:57:51 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:57:52 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:57:53 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:57:54 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:57:54 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:57:55 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:57:56 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:57:57 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:57:58 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:57:59 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:58:00 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:58:01 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:58:02 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:58:02 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:58:03 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:58:04 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:58:04 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:58:06 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:58:07 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:58:08 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:58:09 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:58:27 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [707][prop_physics] (models/ninja/esp/fortification/hescobarrierquad.mdl)"
+[Thu Feb  5 17:58:33 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [707][prop_physics] (models/ninja/esp/fortification/sandbagwall.mdl)"
+[Thu Feb  5 17:58:35 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [708][prop_physics] (models/ninja/esp/fortification/sandbagwall.mdl)"
+[Thu Feb  5 17:58:39 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [708][prop_physics] (models/ninja/esp/fortification/sandbagwall.mdl)"
+[Thu Feb  5 17:58:42 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [707][prop_physics] (models/ninja/esp/fortification/sandbagwall.mdl)"
+[Thu Feb  5 17:58:50 2026] <STEAM_0:1:576585521> ЛОМИК: так точно
+[Thu Feb  5 17:59:13 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:59:16 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:59:17 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 17:59:35 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc а есть админы на сервере? Поменяйте мне моё отделение на ВП
+[Thu Feb  5 17:59:46 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc я не ГУВР
+[Thu Feb  5 18:00:19 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc благодарю
+[Thu Feb  5 18:00:23 2026] <STEAM_0:0:563533126> Махорка: // да незачто
+[Thu Feb  5 18:01:03 2026] Player "★☾₳ⱤØ₦₦ł₭☽★" <STEAM_0:0:456016030> has left the server
+[Thu Feb  5 18:01:06 2026] <STEAM_0:0:563533126> Махорка: /com Водятел НАТО, куда ты скрылся?
+[Thu Feb  5 18:01:29 2026] <STEAM_0:0:563533126> Махорка: /rf Всему личному уставу прмибыть на кпп
+[Thu Feb  5 18:02:53 2026] <STEAM_0:1:196569949> новеньки: /name Maretta
+[Thu Feb  5 18:03:05 2026] <STEAM_0:1:576585521> ЛОМИК: вроде
+[Thu Feb  5 18:07:09 2026] <STEAM_0:1:196569949> новеньки: // а где у нато шкафчик с одеждой
+[Thu Feb  5 18:07:24 2026] <STEAM_0:1:54838838> BloodySmile ran command "goto Маретта"
+[Thu Feb  5 18:07:36 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [519][bodygroup]"
+[Thu Feb  5 18:07:40 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 18:08:15 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Feb  5 18:08:28 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [519][npc_combine_s]"
+[Thu Feb  5 18:08:34 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [519][npc_combine_s]"
+[Thu Feb  5 18:08:35 2026] <STEAM_0:0:650470378> Discar: Мы в Беларусий
+[Thu Feb  5 18:08:46 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [560][npc_combine_s]"
+[Thu Feb  5 18:08:54 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [563][npc_combine_s]"
+[Thu Feb  5 18:08:55 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [560][npc_combine_s]"
+[Thu Feb  5 18:09:12 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [519][npc_combine_s]"
+[Thu Feb  5 18:09:13 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [562][npc_combine_s]"
+[Thu Feb  5 18:09:16 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [519][npc_combine_s]"
+[Thu Feb  5 18:09:16 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [562][npc_combine_s]"
+[Thu Feb  5 18:09:17 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [569][npc_combine_s]"
+[Thu Feb  5 18:09:18 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [642][npc_combine_s]"
+[Thu Feb  5 18:09:30 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [650][npc_combine_s]"
+[Thu Feb  5 18:09:31 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [723][npc_combine_s]"
+[Thu Feb  5 18:09:31 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [730][npc_combine_s]"
+[Thu Feb  5 18:11:59 2026] Player "ghoprhd" <STEAM_0:0:453883455> is attempting to connect.
+[Thu Feb  5 18:12:24 2026] Player "kb.tank5000" <STEAM_0:0:452560990> is attempting to connect.
+[Thu Feb  5 18:15:12 2026] <STEAM_0:1:773143239> Up: /com [Громкоговоритель] Ты окружен выходи с поднятыми руками и будешь жить! You're surrounded. Come out with your hands up and you'll live
+[Thu Feb  5 18:15:16 2026] <STEAM_0:1:54838838> BloodySmile spawned SWEP "Weapon [510][tfa_ins2_wpn_at4]"
+[Thu Feb  5 18:15:17 2026] <STEAM_0:1:54838838> BloodySmile spawned SWEP "Weapon [519][tfa_ins2_wpn_at4]"
+[Thu Feb  5 18:15:37 2026] <STEAM_0:0:563533126> Махорка: /com Чертова крыса, прячься, прячься...
+[Thu Feb  5 18:16:12 2026] ЛОМИК has killed новеньки.
+[Thu Feb  5 18:16:19 2026] <STEAM_0:1:576585521> ЛОМИК: /rf убит
+[Thu Feb  5 18:16:30 2026] <STEAM_0:0:563533126> Махорка: /rf
+[Thu Feb  5 18:16:40 2026] <STEAM_0:0:563533126> Махорка: /rf Нато или опять тупой вчк?
+[Thu Feb  5 18:17:25 2026] <STEAM_0:1:773143239> Up: /com [Громкоговоритель] Ты окружен выходи с поднятыми руками и будешь жить! You're surrounded. Come out with your hands up and you'll live
+[Thu Feb  5 18:17:31 2026] Discar has killed новеньки.
+[Thu Feb  5 18:17:32 2026] новеньки has killed новеньки.
+[Thu Feb  5 18:18:35 2026] <STEAM_0:1:54838838> BloodySmile spawned SWEP "Weapon [562][tfa_fas2_ifak]"
+[Thu Feb  5 18:18:46 2026] <STEAM_0:1:196569949> новеньки: what?
+[Thu Feb  5 18:18:53 2026] <STEAM_0:1:196569949> новеньки: ?
+[Thu Feb  5 18:18:59 2026] <STEAM_0:1:54838838> BloodySmile spawned SWEP "Weapon [581][tfa_fas2_ifak]"
+[Thu Feb  5 18:19:01 2026] <STEAM_0:1:54838838> BloodySmile spawned SWEP "Weapon [581][tfa_fas2_ifak]"
+[Thu Feb  5 18:19:18 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [581][armor_take]"
+[Thu Feb  5 18:19:34 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [581][armor_take]"
+[Thu Feb  5 18:19:48 2026] <STEAM_0:1:196569949> новеньки: movie po polsku
+[Thu Feb  5 18:20:18 2026] <STEAM_0:1:773143239> Up: /me Обыщу бойца
+[Thu Feb  5 18:20:29 2026] <STEAM_0:1:773143239> Up: /do Документы найду какие нибудь?
+[Thu Feb  5 18:20:41 2026] <STEAM_0:1:196569949> новеньки: /do да
+[Thu Feb  5 18:20:43 2026] <STEAM_0:1:576585521> ЛОМИК: так точно
+[Thu Feb  5 18:20:48 2026] <STEAM_0:1:773143239> Up: /do Какие?
+[Thu Feb  5 18:21:02 2026] <STEAM_0:1:196569949> новеньки: /do Польский паспорт
+[Thu Feb  5 18:21:10 2026] <STEAM_0:1:54838838> BloodySmile: /log
+[Thu Feb  5 18:21:15 2026] <STEAM_0:1:54838838> BloodySmile: !log
+[Thu Feb  5 18:21:44 2026] <STEAM_0:1:773143239> Up: /me Паспорт достану, ознокомлюсь
+[Thu Feb  5 18:21:51 2026] <STEAM_0:1:773143239> Up: /do Что в паспорте написано?
+[Thu Feb  5 18:22:37 2026] <STEAM_0:1:196569949> новеньки: /do в паспорте написан город получения паспорта Краков, место регистрации, ФИО
+[Thu Feb  5 18:22:47 2026] <STEAM_0:1:773143239> Up: /do ФИО?
+[Thu Feb  5 18:23:22 2026] <STEAM_0:1:576585521> ЛОМИК: /rf стреляют по мне
+[Thu Feb  5 18:23:41 2026] <STEAM_0:1:196569949> новеньки: /do Maretta Franziszek Imie
+[Thu Feb  5 18:23:46 2026] <STEAM_0:1:576585521> ЛОМИК: от туда
+[Thu Feb  5 18:24:34 2026] <STEAM_0:1:576585521> ЛОМИК: азимут 26
+[Thu Feb  5 18:24:47 2026] <STEAM_0:1:576585521> ЛОМИК: дальше
+[Thu Feb  5 18:24:47 2026] <STEAM_0:1:773143239> Up: /me Заберу хим свет, магазины, оружие, турнике,рацию,подсумки снему
+[Thu Feb  5 18:25:00 2026] <STEAM_0:1:773143239> Up: /me Все сложу
+[Thu Feb  5 18:26:35 2026] <STEAM_0:1:773143239> Up: /me Рюкзак с бойца стяну
+[Thu Feb  5 18:27:12 2026] <STEAM_0:1:773143239> Up: /me Начал шманать рюкзак
+[Thu Feb  5 18:27:39 2026] <STEAM_0:1:773143239> Up: /do Нашел какую либо документацию
+[Thu Feb  5 18:27:48 2026] <STEAM_0:1:773143239> Up: /do Нашел какую либо документацию?
+[Thu Feb  5 18:28:11 2026] <STEAM_0:1:196569949> новеньки: nie mowie dobrze po ukrainsku
+[Thu Feb  5 18:28:20 2026] <STEAM_0:1:196569949> новеньки: recrut
+[Thu Feb  5 18:28:57 2026] BloodySmile has killed ЛОМИК.
+[Thu Feb  5 18:28:58 2026] ЛОМИК has killed ЛОМИК.
+[Thu Feb  5 18:29:04 2026] <STEAM_0:1:196569949> новеньки: ?
+[Thu Feb  5 18:29:08 2026] <STEAM_0:1:773143239> Up: /do Нашел какую либо документацию?
+[Thu Feb  5 18:29:12 2026] <STEAM_0:1:54838838> BloodySmile spawned SWEP "Weapon [398][handcuffed]"
+[Thu Feb  5 18:29:36 2026] <STEAM_0:1:196569949> новеньки: specjalnoc?
+[Thu Feb  5 18:29:55 2026] <STEAM_0:1:196569949> новеньки: strzelec
+[Thu Feb  5 18:30:01 2026] <STEAM_0:1:54838838> BloodySmile: /rp перерезал горло забрал жетон
+[Thu Feb  5 18:30:02 2026] Player "Жужелица" <STEAM_0:0:742563100> is attempting to connect.
+[Thu Feb  5 18:30:39 2026] <STEAM_0:0:563533126> Махорка: /com Рекрут Маретта находиться в плену ВС РФ, вас интересует данный боец?
+[Thu Feb  5 18:30:42 2026] <STEAM_0:1:773143239> Up: /do Нашел какую либо документацию в рюкзаке?
+[Thu Feb  5 18:31:06 2026] <STEAM_0:1:576585521> ЛОМИК: я после госпиталя
+[Thu Feb  5 18:31:10 2026] <STEAM_0:1:54838838> BloodySmile: // ...
+[Thu Feb  5 18:31:11 2026] <STEAM_0:1:196569949> новеньки: /do нет
+[Thu Feb  5 18:31:19 2026] <STEAM_0:1:576585521> ЛОМИК: у меня память отшибло
+[Thu Feb  5 18:31:22 2026] <STEAM_0:1:576585521> ЛОМИК: ничего не помню
+[Thu Feb  5 18:31:30 2026] <STEAM_0:1:773143239> Up: /do Может что-то важное?
+[Thu Feb  5 18:31:39 2026] <STEAM_0:0:563533126> Махорка: /com Рекрут Маретта находиться в плену ВС РФ, вас интересует данный боец? Даю 5 минут на ответ.
+[Thu Feb  5 18:31:54 2026] <STEAM_0:1:54838838> BloodySmile: / ...
+[Thu Feb  5 18:32:27 2026] <STEAM_0:1:773143239> Up: /do В рюкзаке было что то важное?
+[Thu Feb  5 18:32:30 2026] <STEAM_0:1:196569949> новеньки: glupi Rosjanie
+[Thu Feb  5 18:32:44 2026] <STEAM_0:1:773143239> Up: /do В рюкзаке было что то важное?
+[Thu Feb  5 18:33:00 2026] <STEAM_0:1:196569949> новеньки: /do ничего кроме боеприпасов к m4
+[Thu Feb  5 18:33:05 2026] <STEAM_0:0:563533126> Махорка: /com Рекрут Маретта находиться в плену ВС РФ, вас интересует данный боец? 2 минуты осталось.
+[Thu Feb  5 18:33:13 2026] <STEAM_0:1:773143239> Up: /me Кинул рюкзак в угол
+[Thu Feb  5 18:33:46 2026] <STEAM_0:1:773143239> Up: /me Кобуру снял с бойца, снял броник,шлем и маску
+[Thu Feb  5 18:33:55 2026] <STEAM_0:1:773143239> Up: /me Сложил в угол
+[Thu Feb  5 18:34:12 2026] <STEAM_0:1:54838838> BloodySmile: /advert ...
+[Thu Feb  5 18:34:21 2026] <STEAM_0:1:196569949> новеньки: Pusc mnie nie moge ci w zaden sposob pomoc
+[Thu Feb  5 18:34:43 2026] <STEAM_0:1:196569949> новеньки: ?
+[Thu Feb  5 18:35:07 2026] Player "Грымза" <STEAM_0:1:826463988> is attempting to connect.
+[Thu Feb  5 18:38:32 2026] <STEAM_0:0:563533126> Махорка: /com НАТО, время вышло.
+[Thu Feb  5 18:39:08 2026] <STEAM_0:1:196569949> новеньки: puscic
+[Thu Feb  5 18:39:43 2026] <STEAM_0:1:196569949> новеньки: do ciebe?
+[Thu Feb  5 18:40:19 2026] Player "BloodySmile" <STEAM_0:1:54838838> has left the server
+[Thu Feb  5 18:40:51 2026] Player "Грымза" <STEAM_0:1:826463988> has spawned in the server
+[Thu Feb  5 18:41:14 2026] Player "Жужелица" <STEAM_0:0:742563100> has spawned in the server
+[Thu Feb  5 18:41:35 2026] Player "Рурок" <STEAM_0:0:569574962> is attempting to connect.
+[Thu Feb  5 18:41:37 2026] Махорка has killed новеньки.
+[Thu Feb  5 18:42:22 2026] Player "Рурок" <STEAM_0:0:569574962> has spawned in the server
+[Thu Feb  5 18:44:31 2026] <STEAM_0:1:196569949> новеньки: /me показал докумнеты [Саризам Петров][5420][Ефрейтор][ЦСН ФСБ][10.09.1998]
+[Thu Feb  5 18:46:29 2026] worldspawn has killed Жужелица.
+[Thu Feb  5 18:46:36 2026] Player "Рурок" <STEAM_0:0:569574962> has left the server
+[Thu Feb  5 18:46:41 2026] <STEAM_0:0:563533126> Махорка: // Кедр ты тут?
+[Thu Feb  5 18:46:49 2026] Discar has killed Жужелица.
+[Thu Feb  5 18:46:52 2026] <STEAM_0:1:196569949> новеньки: // он вышел
+[Thu Feb  5 18:47:17 2026] Жужелица has killed Жужелица.
+[Thu Feb  5 18:48:36 2026] <STEAM_0:1:576585521> ЛОМИК: давайте его в плен нато
+[Thu Feb  5 18:49:07 2026] Player "Грымза" <STEAM_0:1:826463988> has left the server
+[Thu Feb  5 18:50:06 2026] <STEAM_0:0:563533126> Махорка: /com Нато на связи?
+[Thu Feb  5 18:51:42 2026] <STEAM_0:0:563533126> Махорка: /com Заберите жертву женской педофилии
+[Thu Feb  5 18:52:09 2026] <STEAM_0:0:650470378> Discar: /rf Можно его ликвидировать?
+[Thu Feb  5 18:52:15 2026] <STEAM_0:0:563533126> Махорка: /rf нет смысла
+[Thu Feb  5 18:52:36 2026] <STEAM_0:0:650470378> Discar: /rf Правокацирует
+[Thu Feb  5 18:52:52 2026] <STEAM_0:0:563533126> Махорка: не обращай внимание
+[Thu Feb  5 18:52:52 2026] <STEAM_0:0:650470378> Discar: /rf Правоцирует*
+[Thu Feb  5 18:53:36 2026] <STEAM_0:0:650470378> Discar: /rf Кто куда, а  я в казарму
+[Thu Feb  5 18:54:48 2026] новеньки has killed новеньки.
+[Thu Feb  5 18:55:47 2026] <STEAM_0:0:742563100> Жужелица: /ad2 Алеу
+[Thu Feb  5 18:55:58 2026] <STEAM_0:0:563533126> Махорка: // ДА марета подойти к нам
+[Thu Feb  5 18:56:05 2026] <STEAM_0:1:196569949> новеньки: // А куда
+[Thu Feb  5 18:56:07 2026] <STEAM_0:0:563533126> Махорка: // забери жертву женской педофилии
+[Thu Feb  5 18:56:12 2026] <STEAM_0:0:563533126> Махорка: // к кпп
+[Thu Feb  5 18:56:18 2026] <STEAM_0:0:650470378> Discar: /ooc К нашей базе не очкуй стрелять не будем
+[Thu Feb  5 19:00:33 2026] ЛОМИК has killed ЛОМИК.
+[Thu Feb  5 19:00:33 2026] ЛОМИК has killed ЛОМИК.
+[Thu Feb  5 19:00:40 2026] Discar has killed Махорка.
+[Thu Feb  5 19:00:41 2026] Махорка has killed Махорка.
+[Thu Feb  5 19:01:32 2026] Discar has killed ЛОМИК.
+[Thu Feb  5 19:01:32 2026] Player "der Deutsche" <STEAM_0:1:411221606> is attempting to connect.
+[Thu Feb  5 19:01:33 2026] Player "★☾₳ⱤØ₦₦ł₭☽★" <STEAM_0:0:456016030> is attempting to connect.
+[Thu Feb  5 19:02:00 2026] <STEAM_0:1:576585521> ЛОМИК: ппппп
+[Thu Feb  5 19:02:32 2026] Player "der Deutsche" <STEAM_0:1:411221606> has spawned in the server
+[Thu Feb  5 19:02:38 2026] Player "ЛОМИК" <STEAM_0:1:576585521> has left the server
+[Thu Feb  5 19:03:14 2026] Player "der Deutsche" <STEAM_0:1:411221606> has left the server
+[Thu Feb  5 19:03:20 2026] Player "★☾₳ⱤØ₦₦ł₭☽★" <STEAM_0:0:456016030> has spawned in the server
+[Thu Feb  5 19:03:24 2026] worldspawn has killed Жужелица.
+[Thu Feb  5 19:03:25 2026] Player "der Deutsche" <STEAM_0:1:411221606> is attempting to connect.
+[Thu Feb  5 19:03:26 2026] Player "Жужелица" <STEAM_0:0:742563100> has left the server
+[Thu Feb  5 19:03:44 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: п
+[Thu Feb  5 19:03:54 2026] Player "der Deutsche" <STEAM_0:1:411221606> has spawned in the server
+[Thu Feb  5 19:04:00 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc чо тут было? Что за чучело
+[Thu Feb  5 19:04:39 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: левое
+[Thu Feb  5 19:04:50 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: я левак
+[Thu Feb  5 19:08:45 2026] <STEAM_0:1:196569949> новеньки: ?
+[Thu Feb  5 19:09:09 2026] <STEAM_0:1:196569949> новеньки: едь на заправку
+[Thu Feb  5 19:09:46 2026] <STEAM_0:1:773143239> Up: /me Блокнотик достану с ручкой
+[Thu Feb  5 19:10:05 2026] <STEAM_0:1:773143239> Up: /me Дата,роспись, статью укажу штамп поставлю
+[Thu Feb  5 19:10:18 2026] <STEAM_0:1:773143239> Up: /me Копию сделаю
+[Thu Feb  5 19:10:32 2026] <STEAM_0:1:773143239> Up: /me Штамп поставлю, лист вырву
+[Thu Feb  5 19:10:43 2026] Player "Рурок" <STEAM_0:0:569574962> is attempting to connect.
+[Thu Feb  5 19:10:44 2026] <STEAM_0:1:773143239> Up: /me передал лист СТАРШЕМУ серажанту
+[Thu Feb  5 19:10:52 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /me взял лист
+[Thu Feb  5 19:11:30 2026] Player "Рурок" <STEAM_0:0:569574962> has spawned in the server
+[Thu Feb  5 19:11:54 2026] <STEAM_0:1:411221606> der Deutsche: /nato свои на западе
+[Thu Feb  5 19:13:09 2026] <STEAM_0:1:773143239> Up: /me блокнот достану,записи сделаю
+[Thu Feb  5 19:13:42 2026] <STEAM_0:1:773143239> Up: /me блокнот достану,записи сделаю
+[Thu Feb  5 19:15:05 2026] <STEAM_0:1:773143239> Up: /me записи сделаю
+[Thu Feb  5 19:15:18 2026] der Deutsche has killed Рурок.
+[Thu Feb  5 19:15:23 2026] <STEAM_0:1:773143239> Up: /me записи сделаю
+[Thu Feb  5 19:15:42 2026] <STEAM_0:1:411221606> der Deutsche: /l /nato
+[Thu Feb  5 19:16:06 2026] <STEAM_0:1:773143239> Up: /me записи сделаю
+[Thu Feb  5 19:16:37 2026] <STEAM_0:1:411221606> der Deutsche: /nato идут?
+[Thu Feb  5 19:16:44 2026] <STEAM_0:1:196569949> новеньки: /nato не, тестил
+[Thu Feb  5 19:17:05 2026] <STEAM_0:1:773143239> Up: /me записи сделаю
+[Thu Feb  5 19:20:28 2026] <STEAM_0:1:411221606> der Deutsche: // ПИК ОНЛАЙНА
+[Thu Feb  5 19:21:33 2026] Player "der Deutsche" <STEAM_0:1:411221606> has left the server
+[Thu Feb  5 19:22:35 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /looc бля
+[Thu Feb  5 19:24:01 2026] <STEAM_0:0:650470378> Discar: /rf А у нас сегодня построение будет?
+[Thu Feb  5 19:25:25 2026] <STEAM_0:1:773143239> Up: Знаю устав
+[Thu Feb  5 19:25:33 2026] <STEAM_0:1:773143239> Up: Вы плохо знаете
+[Thu Feb  5 19:25:33 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: Влез в разговор старших по званию
+[Thu Feb  5 19:25:37 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: Я знаю
+[Thu Feb  5 19:25:48 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /looc но в рамках того что его не выложили
+[Thu Feb  5 19:26:57 2026] <STEAM_0:1:773143239> Up: /me Достал блокнот
+[Thu Feb  5 19:27:17 2026] <STEAM_0:1:773143239> Up: /me Открыл на определенной странице, показал бойцу
+[Thu Feb  5 19:27:43 2026] <STEAM_0:1:773143239> Up: /me Уберу блокнот
+[Thu Feb  5 19:27:50 2026] <STEAM_0:1:773143239> Up: /me Убиру блокнот
+[Thu Feb  5 19:32:40 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /looc который не выложили
+[Thu Feb  5 19:32:52 2026] <STEAM_0:1:773143239> Up: /looc Я на реальный опираюсь
+[Thu Feb  5 19:33:33 2026] новеньки has killed новеньки.
+[Thu Feb  5 19:34:02 2026] <STEAM_0:1:773143239> Up: /me Дата,роспись, статью укажу штамп поставлю
+[Thu Feb  5 19:34:08 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /looc бля
+[Thu Feb  5 19:34:13 2026] <STEAM_0:1:773143239> Up: /looc Откат
+[Thu Feb  5 19:34:19 2026] <STEAM_0:1:773143239> Up: /me Блокнотик достану с ручкой
+[Thu Feb  5 19:34:21 2026] <STEAM_0:1:773143239> Up: /me Дата,роспись, статью укажу штамп поставлю
+[Thu Feb  5 19:34:32 2026] <STEAM_0:1:773143239> Up: /me Копию сделаю
+[Thu Feb  5 19:34:38 2026] <STEAM_0:1:773143239> Up: /me Штамп поставлю, лист вырву
+[Thu Feb  5 19:34:45 2026] <STEAM_0:1:773143239> Up: /me передал лист СТАРШЕМУ серажанту
+[Thu Feb  5 19:34:57 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /looc взял лист
+[Thu Feb  5 19:35:19 2026] <STEAM_0:1:773143239> Up: /looc БЛЯТЬ отыгрывать в looc /me это сильно
+[Thu Feb  5 19:35:39 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /me looc
+[Thu Feb  5 19:35:44 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /looc перепутал
+[Thu Feb  5 19:35:50 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /looc me
+[Thu Feb  5 19:35:57 2026] <STEAM_0:1:773143239> Up: /looc /me
+[Thu Feb  5 19:36:29 2026] Player "Zhenechka" <STEAM_0:0:114787793> is attempting to connect.
+[Thu Feb  5 19:37:49 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /rf захватываю Центр
+[Thu Feb  5 19:38:29 2026] <STEAM_0:0:563533126> Махорка: /rf Принято, встречаемся на западной части города.
+[Thu Feb  5 19:38:45 2026] Player "Zhenechka" <STEAM_0:0:114787793> has spawned in the server
+[Thu Feb  5 19:41:10 2026] <STEAM_0:0:563533126> Махорка: /rf Вы что до сих пор не захватили тот участок?
+[Thu Feb  5 19:41:54 2026] <STEAM_0:0:569574962> Рурок: /rf чисто
+[Thu Feb  5 19:44:11 2026] <STEAM_0:0:563533126> Махорка: /rf С точки никуда не уходите
+[Thu Feb  5 19:45:02 2026] <STEAM_0:0:563533126> Махорка: /rf С точки никуда не уходите
+[Thu Feb  5 19:45:10 2026] <STEAM_0:0:650470378> Discar: /me  drk.xxbk hflbjcnfywb.
+[Thu Feb  5 19:45:24 2026] <STEAM_0:0:650470378> Discar: /me  включил радиостанцию
+[Thu Feb  5 19:46:20 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /rf Заежайте за нами, товарищ Подполковник
+[Thu Feb  5 19:47:03 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /looc хахахаха
+[Thu Feb  5 19:47:11 2026] <STEAM_0:0:569574962> Рурок: /rf эхо?
+[Thu Feb  5 19:47:25 2026] <STEAM_0:1:773143239> Up: /looc Это опять отыгровка твоя в /me Ханоев?
+[Thu Feb  5 19:47:33 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /looc это нонрп чат
+[Thu Feb  5 19:47:40 2026] <STEAM_0:0:569574962> Рурок: /ooc дембеля в цинке
+[Thu Feb  5 19:47:47 2026] <STEAM_0:1:773143239> Up: /looc Так ты сам в looc /me отыгрывал
+[Thu Feb  5 19:47:54 2026] <STEAM_0:0:563533126> Махорка: /rf Все кроме дискарова выходят
+[Thu Feb  5 19:47:57 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /looc у Фахрудинова был похожий случай с отвёрткой Дубина
+[Thu Feb  5 19:48:46 2026] <STEAM_0:0:114787793> Zhenechka: /me достал гитару
+[Thu Feb  5 19:49:35 2026] <STEAM_0:0:569574962> Рурок: /ooc каму хуй в жопу засунули ?
+[Thu Feb  5 19:49:51 2026] <STEAM_0:0:569574962> Рурок: /ooc каму (Э
+[Thu Feb  5 19:50:37 2026] <STEAM_0:0:114787793> Zhenechka: Я могу агата кристи сыграть хз
+[Thu Feb  5 19:50:57 2026] <STEAM_0:0:569574962> Рурок: /ooc пизда
+[Thu Feb  5 19:51:03 2026] <STEAM_0:0:563533126> Махорка: дискаров давай другое
+[Thu Feb  5 19:51:32 2026] <STEAM_0:0:563533126> Махорка: 5 сек
+[Thu Feb  5 19:51:35 2026] Player "Грымза" <STEAM_0:1:826463988> is attempting to connect.
+[Thu Feb  5 19:52:21 2026] <STEAM_0:0:563533126> Махорка: выключай
+[Thu Feb  5 19:53:38 2026] <STEAM_0:0:563533126> Махорка: ну
+[Thu Feb  5 19:53:45 2026] <STEAM_0:0:569574962> Рурок: /ooc парни кто хочет попасть в файлы эпштейна и миротворец?
+[Thu Feb  5 19:53:57 2026] <STEAM_0:1:773143239> Up: /ooc О миротворцов у меня друг там
+[Thu Feb  5 19:54:07 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc я
+[Thu Feb  5 19:55:16 2026] <STEAM_0:0:563533126> Махорка: /rf Вы где бойцы
+[Thu Feb  5 19:55:20 2026] <STEAM_0:0:563533126> Махорка: /rf Всем к гаражу
+[Thu Feb  5 19:56:18 2026] <STEAM_0:0:563533126> Махорка: /rf у вас 10 секунд
+[Thu Feb  5 19:56:24 2026] <STEAM_0:1:196569949> новеньки: // умоляю занесите меня в миротворец
+[Thu Feb  5 19:56:32 2026] Player "Грымза" <STEAM_0:1:826463988> has spawned in the server
+[Thu Feb  5 19:56:35 2026] <STEAM_0:1:773143239> Up: /ooc Так ты за НАТО
+[Thu Feb  5 19:56:43 2026] <STEAM_0:1:196569949> новеньки: // роли не играет
+[Thu Feb  5 19:56:54 2026] <STEAM_0:1:773143239> Up: /ooc Услышал тебя
+[Thu Feb  5 19:58:29 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /looc ХХАХАХА
+[Thu Feb  5 19:58:53 2026] <STEAM_0:0:569574962> Рурок: /looc
+[Thu Feb  5 20:00:20 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /looc ебут во все щели нас
+[Thu Feb  5 20:02:51 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc оголяй письку. Нет! Оголяй! Даю 5 минут на выполнение приказа!
+[Thu Feb  5 20:03:03 2026] <STEAM_0:0:569574962> Рурок: /ooc так и было
+[Thu Feb  5 20:04:10 2026] <STEAM_0:0:114787793> Zhenechka: Разрешите уточнить
+[Thu Feb  5 20:04:24 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc Кто видел как Мальцев показывал письку -выйти из строя!
+[Thu Feb  5 20:04:36 2026] <STEAM_0:0:114787793> Zhenechka: Товарищ Мальцев сказал что едут не довльные
+[Thu Feb  5 20:04:42 2026] <STEAM_0:0:114787793> Zhenechka: На этом все
+[Thu Feb  5 20:04:43 2026] <STEAM_0:1:196569949> новеньки: // вроде геи в НАТО, а гомосятина у вас какая-то
+[Thu Feb  5 20:04:47 2026] <STEAM_0:0:114787793> Zhenechka: На этом все
+[Thu Feb  5 20:05:45 2026] <STEAM_0:0:569574962> Рурок: /ooc пора в нато
+[Thu Feb  5 20:06:06 2026] <STEAM_0:0:114787793> Zhenechka: /me достал гитарку
+[Thu Feb  5 20:06:38 2026] <STEAM_0:0:569574962> Рурок: /me упал на пол и начал кричать от боли
+[Thu Feb  5 20:07:11 2026] <STEAM_0:0:569574962> Рурок: /me встал с пола
+[Thu Feb  5 20:10:19 2026] <STEAM_0:0:569574962> Рурок: /ooc сидим сидим
+[Thu Feb  5 20:10:36 2026] <STEAM_0:0:650470378> Discar: /ooc а мы стоим
+[Thu Feb  5 20:10:51 2026] <STEAM_0:0:569574962> Рурок: /ooc а меня шокеров бьют )Э
+[Thu Feb  5 20:12:20 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /looc мне кажется уже 4 минуты прошло
+[Thu Feb  5 20:12:30 2026] <STEAM_0:0:569574962> Рурок: /ooc ханоев го в дс
+[Thu Feb  5 20:12:46 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /looc кидай ник
+[Thu Feb  5 20:12:50 2026] <STEAM_0:1:773143239> Up: /ooc Блять что у вас там происходит?
+[Thu Feb  5 20:13:15 2026] <STEAM_0:0:569574962> Рурок: /ooc этот хуй в афк стоит
+[Thu Feb  5 20:16:28 2026] <STEAM_0:0:114787793> Zhenechka: /looc слишком много слов
+[Thu Feb  5 20:16:44 2026] <STEAM_0:0:569574962> Рурок: /ooc хуй из рта достань
+[Thu Feb  5 20:16:46 2026] <STEAM_0:0:114787793> Zhenechka: /looc ты больше всех на говорил
+[Thu Feb  5 20:16:53 2026] <STEAM_0:1:196569949> новеньки: // хорошо
+[Thu Feb  5 20:16:57 2026] <STEAM_0:0:114787793> Zhenechka: // хазыха
+[Thu Feb  5 20:16:58 2026] <STEAM_0:1:773143239> Up: /ooc ахахахааха
+[Thu Feb  5 20:18:48 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /looc толстяк
+[Thu Feb  5 20:19:09 2026] <STEAM_0:0:569574962> Рурок: /ooc жирность
+[Thu Feb  5 20:19:23 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /looc а нахуй ты подполковника просил подвинуться
+[Thu Feb  5 20:19:34 2026] <STEAM_0:0:114787793> Zhenechka: То что стоит соблюдать субординацию а и наче придет зеленный троль и отымеет гнома
+[Thu Feb  5 20:19:51 2026] <STEAM_0:0:114787793> Zhenechka: Ну да
+[Thu Feb  5 20:20:01 2026] <STEAM_0:0:114787793> Zhenechka: Так точно товарищ Подполковник
+[Thu Feb  5 20:20:01 2026] <STEAM_0:0:569574962> Рурок: /ooc у него магнитное поле больше чем у земли
+[Thu Feb  5 20:20:09 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /looc ХАХАХАХАХХАХАХ
+[Thu Feb  5 20:22:46 2026] <STEAM_0:0:114787793> Zhenechka: /try убежал
+[Thu Feb  5 20:22:55 2026] <STEAM_0:0:114787793> Zhenechka: // откат
+[Thu Feb  5 20:25:21 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /looc я спросил: сосали?
+[Thu Feb  5 20:26:47 2026] <STEAM_0:0:563533126> Махорка: /rf Всем ВЕРНУТЬСЯ БЛЯДИ В РАСПОЛОЖЕНИЕ
+[Thu Feb  5 20:26:54 2026] <STEAM_0:0:563533126> Махорка: /rf Минута пошла
+[Thu Feb  5 20:26:57 2026] ★☾₳ⱤØ₦₦ł₭☽★ has killed новеньки.
+[Thu Feb  5 20:27:08 2026] <STEAM_0:0:563533126> Махорка: /rf Через минуту не будете в гараже всем пизда
+[Thu Feb  5 20:27:12 2026] <STEAM_0:1:773143239> Up: /com [Громкоговоритель] Ты окружен выходи с поднятыми руками и будешь жить! You're surrounded. Come out with your hands up and you'll live
+[Thu Feb  5 20:27:21 2026] <STEAM_0:0:650470378> Discar: /rf  Цель взята
+[Thu Feb  5 20:27:29 2026] новеньки has killed ★☾₳ⱤØ₦₦ł₭☽★.
+[Thu Feb  5 20:27:29 2026] ★☾₳ⱤØ₦₦ł₭☽★ has killed ★☾₳ⱤØ₦₦ł₭☽★.
+[Thu Feb  5 20:27:31 2026] <STEAM_0:0:563533126> Махорка: /rf у вас меньше минуты вернутся на базу.
+[Thu Feb  5 20:28:32 2026] <STEAM_0:0:563533126> Махорка: /rf 25 секунд
+[Thu Feb  5 20:28:41 2026] <STEAM_0:0:563533126> Махорка: /rf 20 секунд
+[Thu Feb  5 20:28:48 2026] <STEAM_0:0:563533126> Махорка: /rf 15 секунд
+[Thu Feb  5 20:28:55 2026] <STEAM_0:0:563533126> Махорка: /rf 10 секунд
+[Thu Feb  5 20:31:48 2026] Player "ghoprhd" <STEAM_0:0:453883455> is attempting to connect.
+[Thu Feb  5 20:31:51 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /looc я афк
+[Thu Feb  5 20:33:06 2026] worldspawn has killed Грымза.
+[Thu Feb  5 20:33:38 2026] Грымза has killed Грымза.
+[Thu Feb  5 20:36:50 2026] <STEAM_0:1:773143239> Up: /me Блокнотик достану с ручкой
+[Thu Feb  5 20:36:55 2026] <STEAM_0:1:773143239> Up: /me Дата,роспись, статью укажу штамп поставлю
+[Thu Feb  5 20:37:00 2026] <STEAM_0:1:773143239> Up: /me Штамп поставлю, лист вырву
+[Thu Feb  5 20:37:08 2026] <STEAM_0:1:773143239> Up: /me передал лист СТАРШЕМУ сержанту
+[Thu Feb  5 20:42:13 2026] Console ran command "rank STEAM_0:0:114787793 eventolog"
+[Thu Feb  5 20:42:36 2026] <STEAM_0:0:114787793> Zhenechka ran command "menu"
+[Thu Feb  5 20:42:59 2026] <STEAM_0:0:114787793> Zhenechka spawned prop "Entity [398][alydus_destructiblefortification] (models/props_fortifications/sandbags_line1_tall.mdl)"
+[Thu Feb  5 20:43:05 2026] <STEAM_0:0:114787793> Zhenechka spawned prop "Entity [398][alydus_destructiblefortification] (models/props_fortifications/sandbags_line1_tall.mdl)"
+[Thu Feb  5 20:44:35 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [398][sw_matv]"
+[Thu Feb  5 20:45:32 2026] <STEAM_0:0:114787793> Zhenechka spawned npc "NPC [398][npc_zombie]"
+[Thu Feb  5 20:47:02 2026] <STEAM_0:0:114787793> Zhenechka spawned npc "NPC [398][npc_antlion]"
+[Thu Feb  5 20:49:21 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [398][sent_soccerball]"
+[Thu Feb  5 20:49:44 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [398][sent_soccerball]"
+[Thu Feb  5 20:49:46 2026] Up has killed Up.
+[Thu Feb  5 20:49:46 2026] Up has killed ★☾₳ⱤØ₦₦ł₭☽★.
+[Thu Feb  5 20:51:48 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [646][sent_ball]"
+[Thu Feb  5 20:52:08 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [646][sent_ball]"
+[Thu Feb  5 20:52:18 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [646][sent_ball]"
+[Thu Feb  5 20:52:22 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [646][sent_ball]"
+[Thu Feb  5 20:52:58 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [646][sent_purchasable_ball]"
+[Thu Feb  5 20:53:01 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [646][sent_purchasable_ball]"
+[Thu Feb  5 20:53:53 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [646][combine_mine]"
+[Thu Feb  5 20:53:57 2026] Player "ghoprhd" <STEAM_0:0:453883455> is attempting to connect.
+[Thu Feb  5 20:54:26 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [646][combine_mine]"
+[Thu Feb  5 20:55:07 2026] Player "Грымза" <STEAM_0:1:826463988> has left the server
+[Thu Feb  5 20:55:29 2026] <STEAM_0:0:114787793> Zhenechka spawned npc "NPC [393][npc_crow]"
+[Thu Feb  5 20:55:42 2026] Player "Discar" <STEAM_0:0:650470378> is attempting to connect.
+[Thu Feb  5 20:55:43 2026] Player "Discar" <STEAM_0:0:650470378> has left the server
+[Thu Feb  5 20:56:19 2026] <STEAM_0:0:114787793> Zhenechka: /me нагнулся
+[Thu Feb  5 20:56:23 2026] Player "Discar" <STEAM_0:0:650470378> is attempting to connect.
+[Thu Feb  5 20:56:31 2026] <STEAM_0:1:196569949> новеньки: // та ебать
+[Thu Feb  5 20:56:39 2026] <STEAM_0:1:196569949> новеньки: // а из нато кто нить зайдет сегодня
+[Thu Feb  5 20:56:43 2026] <STEAM_0:0:114787793> Zhenechka: /do 2 бмп 3 голубя 4 ак47
+[Thu Feb  5 20:56:43 2026] <STEAM_0:1:196569949> новеньки: // или это не модно
+[Thu Feb  5 20:56:50 2026] <STEAM_0:0:569574962> Рурок: /ooc маретта ты в плену?
+[Thu Feb  5 20:56:53 2026] <STEAM_0:1:196569949> новеньки: // нет
+[Thu Feb  5 20:57:00 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc жаль
+[Thu Feb  5 20:57:17 2026] <STEAM_0:0:569574962> Рурок: /ooc ханоев мне изменятет
+[Thu Feb  5 20:57:26 2026] Player "Discar" <STEAM_0:0:650470378> has spawned in the server
+[Thu Feb  5 20:57:30 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [396][sw_matv]"
+[Thu Feb  5 20:57:38 2026] <STEAM_0:0:569574962> Рурок: /ooc изменятет (Э
+[Thu Feb  5 20:57:56 2026] <STEAM_0:0:569574962> Рурок: /ooc маретта есть дс ?
+[Thu Feb  5 20:58:20 2026] <STEAM_0:0:114787793> Zhenechka spawned npc "NPC [553][npc_seagull]"
+[Thu Feb  5 20:58:24 2026] <STEAM_0:1:196569949> новеньки: // да
+[Thu Feb  5 20:58:42 2026] <STEAM_0:1:196569949> новеньки: // ahahahahahahahahahahaha
+[Thu Feb  5 20:58:44 2026] <STEAM_0:1:196569949> новеньки: // вот он
+[Thu Feb  5 20:58:59 2026] <STEAM_0:0:569574962> Рурок: /ooc дай юз
+[Thu Feb  5 20:59:22 2026] <STEAM_0:1:196569949> новеньки: // это он и есть
+[Thu Feb  5 20:59:23 2026] <STEAM_0:1:196569949> новеньки: // ahahahahahahahahahahaha
+[Thu Feb  5 21:02:38 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [553][sent_soccerball]"
+[Thu Feb  5 21:03:50 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [553][sent_soccerball]"
+[Thu Feb  5 21:05:00 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /rf Мальцев, ты где
+[Thu Feb  5 21:05:02 2026] <STEAM_0:0:563533126> Махорка: /rf Мальцев ты где
+[Thu Feb  5 21:05:40 2026] <STEAM_0:1:196569949> новеньки: /ooc мальцев уехал
+[Thu Feb  5 21:05:50 2026] <STEAM_0:0:114787793> Zhenechka spawned npc "NPC [553][npc_pigeon]"
+[Thu Feb  5 21:05:51 2026] <STEAM_0:1:196569949> новеньки: // к тайлеру
+[Thu Feb  5 21:07:23 2026] <STEAM_0:0:114787793> Zhenechka spawned vehicle "Vehicle [553][prop_vehicle_prisoner_pod]"
+[Thu Feb  5 21:07:37 2026] <STEAM_0:0:650470378> Discar: /me протер глаза
+[Thu Feb  5 21:07:58 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [553][sent_ball]"
+[Thu Feb  5 21:08:11 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [553][sent_ball]"
+[Thu Feb  5 21:08:16 2026] <STEAM_0:0:114787793> Zhenechka spawned npc "NPC [553][npc_crow]"
+[Thu Feb  5 21:08:22 2026] <STEAM_0:0:114787793> Zhenechka spawned npc "NPC [553][npc_crow]"
+[Thu Feb  5 21:08:50 2026] <STEAM_0:0:114787793> Zhenechka: /looc защфыхваз
+[Thu Feb  5 21:08:54 2026] <STEAM_0:0:114787793> Zhenechka: /looc ащвызхфа
+[Thu Feb  5 21:08:59 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [398][sent_ball]"
+[Thu Feb  5 21:09:44 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [511][sw_rocket_9m119_v3]"
+[Thu Feb  5 21:09:58 2026] <STEAM_0:0:114787793> Zhenechka used tool "creator"
+[Thu Feb  5 21:09:58 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [511][sw_rocket_3m14k_v3]"
+[Thu Feb  5 21:10:01 2026] <STEAM_0:0:114787793> Zhenechka used tool "creator"
+[Thu Feb  5 21:10:01 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [398][sw_rocket_3m14k_v3]"
+[Thu Feb  5 21:10:25 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [553][sent_ball]"
+[Thu Feb  5 21:10:38 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [553][npc_grenade_frag]"
+[Thu Feb  5 21:11:03 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [553][sent_ball]"
+[Thu Feb  5 21:12:03 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [568][sw_rocket_s3k_v3]"
+[Thu Feb  5 21:12:12 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [568][sw_rocket_s3k_v3]"
+[Thu Feb  5 21:12:20 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [568][sw_rocket_s3k_v3]"
+[Thu Feb  5 21:12:31 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [568][sw_rocket_s3k_v3]"
+[Thu Feb  5 21:12:36 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [568][sw_rocket_s3k_v3]"
+[Thu Feb  5 21:12:36 2026] Player "Махорка" <STEAM_0:0:563533126> has left the server
+[Thu Feb  5 21:12:43 2026] <STEAM_0:0:569574962> Рурок: /ooc админы бомбят
+[Thu Feb  5 21:12:54 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [529][sw_rocket_s3k_v3]"
+[Thu Feb  5 21:13:00 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [511][sw_mine_tm62_v3]"
+[Thu Feb  5 21:13:12 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [529][sw_rocket_s3k_v3]"
+[Thu Feb  5 21:13:28 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /rf ОБЩИЙ СБОР ОКОЛО ГАРАЖА!
+[Thu Feb  5 21:13:32 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [532][sw_rocket_s3k_v3]"
+[Thu Feb  5 21:13:36 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /rf Едем бить натовцев
+[Thu Feb  5 21:13:42 2026] <STEAM_0:0:569574962> Рурок: /rf ок
+[Thu Feb  5 21:13:46 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [558][sw_rocket_s5kp_v3]"
+[Thu Feb  5 21:13:53 2026] Player "Up" <STEAM_0:1:773143239> has left the server
+[Thu Feb  5 21:14:01 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /rf але, все к гаражу
+[Thu Feb  5 21:14:04 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [389][sw_rocket_s3k_v3]"
+[Thu Feb  5 21:14:07 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [389][sw_rocket_s3k_v3]"
+[Thu Feb  5 21:14:13 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [389][sw_rocket_s3k_v3]"
+[Thu Feb  5 21:14:16 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [399][sw_rocket_s3k_v3]"
+[Thu Feb  5 21:14:19 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [389][sw_rocket_s3k_v3]"
+[Thu Feb  5 21:14:22 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [389][sw_rocket_s3k_v3]"
+[Thu Feb  5 21:14:34 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [389][sw_mine_ozm72_v3]"
+[Thu Feb  5 21:15:17 2026] <STEAM_0:0:569574962> Рурок: :cupid:
+[Thu Feb  5 21:17:33 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc  язастрял спасите
+[Thu Feb  5 21:17:50 2026] новеньки has killed Zhenechka.
+[Thu Feb  5 21:17:50 2026] Zhenechka has killed Zhenechka.
+[Thu Feb  5 21:17:50 2026] Discar has killed новеньки.
+[Thu Feb  5 21:18:40 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [554][sw_rocket_pg26_v3]"
+[Thu Feb  5 21:18:51 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [554][sw_rocket_pg26_v3]"
+[Thu Feb  5 21:19:05 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [554][sw_rocket_pg26_v3]"
+[Thu Feb  5 21:19:11 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [554][sw_rocket_pg26_v3]"
+[Thu Feb  5 21:19:33 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [554][sw_rocket_pg26_v3]"
+[Thu Feb  5 21:19:41 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [554][sw_rocket_pg26_v3]"
+[Thu Feb  5 21:19:44 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /rf але мальцев
+[Thu Feb  5 21:19:45 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [554][sw_rocket_pg26_v3]"
+[Thu Feb  5 21:19:57 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [554][sw_mine_tm62_v3]"
+[Thu Feb  5 21:20:10 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [682][sw_rocket_pg26_v3]"
+[Thu Feb  5 21:20:13 2026] Player "★☾₳ⱤØ₦₦ł₭☽★" <STEAM_0:0:456016030> has left the server
+[Thu Feb  5 21:20:41 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [508][sw_rocket_pg26_v3]"
+[Thu Feb  5 21:21:04 2026] новеньки has killed Discar.
+[Thu Feb  5 21:21:05 2026] Discar has killed Discar.
+[Thu Feb  5 21:21:21 2026] новеньки has killed Discar.
+[Thu Feb  5 21:21:30 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [393][sw_rocket_pg26_v3]"
+[Thu Feb  5 21:21:40 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [393][sw_rocket_pg26_v3]"
+[Thu Feb  5 21:21:52 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [393][sw_rocket_pg26_v3]"
+[Thu Feb  5 21:22:00 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [393][lvs_wheeldrive_hummer]"
+[Thu Feb  5 21:22:19 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [686][sw_rocket_pg26_v3]"
+[Thu Feb  5 21:22:41 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [686][sw_rocket_pg26_v3]"
+[Thu Feb  5 21:22:50 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [686][sw_rocket_pg26_v3]"
+[Thu Feb  5 21:23:06 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [686][sw_mine_tm62_v3]"
+[Thu Feb  5 21:23:09 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [692][sw_mine_tm62_v3]"
+[Thu Feb  5 21:23:15 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [686][sw_mine_tm62_v3]"
+[Thu Feb  5 21:23:17 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [692][sw_mine_tm62_v3]"
+[Thu Feb  5 21:23:23 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [686][sw_mine_tm62_v3]"
+[Thu Feb  5 21:23:29 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [686][sw_rocket_pg26_v3]"
+[Thu Feb  5 21:24:10 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [686][sw_rocket_grome1_v3]"
+[Thu Feb  5 21:24:17 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [686][sw_bomb_ao1_v3]"
+[Thu Feb  5 21:24:20 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [692][sw_rocket_9m17m_v3]"
+[Thu Feb  5 21:24:31 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [686][sw_rocket_3m14k_v3]"
+[Thu Feb  5 21:24:47 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [686][sw_rocket_9m119_v3]"
+[Thu Feb  5 21:24:55 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [686][sw_rocket_pg26_v3]"
+[Thu Feb  5 21:25:11 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [686][sw_mine_tm62_v3]"
+[Thu Feb  5 21:25:13 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [692][sw_mine_tm62_v3]"
+[Thu Feb  5 21:25:33 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [693][sw_rocket_pg26_v3]"
+[Thu Feb  5 21:25:39 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [693][sw_rocket_pg26_v3]"
+[Thu Feb  5 21:25:46 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [693][sw_rocket_pg26_v3]"
+[Thu Feb  5 21:25:49 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [694][sw_rocket_pg26_v3]"
+[Thu Feb  5 21:26:15 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [693][sw_rocket_s21_v3]"
+[Thu Feb  5 21:26:25 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [693][sw_rocket_tt250_v3]"
+[Thu Feb  5 21:26:36 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [693][sw_rocket_pg26_v3]"
+[Thu Feb  5 21:26:50 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [693][sw_bomb_ofab100_v3]"
+[Thu Feb  5 21:26:52 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [694][sw_bomb_ofab100_v3]"
+[Thu Feb  5 21:26:54 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [693][sw_mine_pfm1_v3]"
+[Thu Feb  5 21:26:57 2026] Zhenechka has killed Zhenechka.
+[Thu Feb  5 21:28:26 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [532][sw_gaz2330_9m133]"
+[Thu Feb  5 21:29:38 2026] новеньки has killed Zhenechka.
+[Thu Feb  5 21:29:38 2026] Zhenechka has killed Zhenechka.
+[Thu Feb  5 21:30:05 2026] новеньки has killed Discar.
+[Thu Feb  5 21:30:23 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [521][sw_airdrop_v3]"
+[Thu Feb  5 21:30:32 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [393][sw_rocket_s3k_v3]"
+[Thu Feb  5 21:30:34 2026] entityflame has killed Discar.
+[Thu Feb  5 21:30:35 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [393][sw_rocket_s3k_v3]"
+[Thu Feb  5 21:30:41 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [551][sw_rocket_s3k_v3]"
+[Thu Feb  5 21:30:47 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [551][sw_rocket_s3k_v3]"
+[Thu Feb  5 21:30:52 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [551][sw_rocket_pg26_v3]"
+[Thu Feb  5 21:31:04 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [551][sw_rocket_pg26_v3]"
+[Thu Feb  5 21:31:07 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [551][sw_rocket_pg26_v3]"
+[Thu Feb  5 21:31:19 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [551][sw_rocket_pg26_v3]"
+[Thu Feb  5 21:31:31 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [551][sw_bomb_fab100_v3]"
+[Thu Feb  5 21:31:34 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [551][sw_bomb_fab100_v3]"
+[Thu Feb  5 21:31:56 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [511][sw_rocket_tt250_v3]"
+[Thu Feb  5 21:32:01 2026] <STEAM_0:1:196569949> новеньки: напиши своим
+[Thu Feb  5 21:32:06 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [511][sw_rocket_kh23m_v3]"
+[Thu Feb  5 21:32:15 2026] <STEAM_0:0:650470378> Discar: /rf Я в заложниках
+[Thu Feb  5 21:32:23 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [511][sw_bomb_ao25m1_v3]"
+[Thu Feb  5 21:32:28 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [511][sw_rocket_9m119_v3]"
+[Thu Feb  5 21:32:39 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [511][sw_rocket_s3k_v3]"
+[Thu Feb  5 21:32:42 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [511][sw_rocket_s3k_v3]"
+[Thu Feb  5 21:32:44 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [511][sw_rocket_s3k_v3]"
+[Thu Feb  5 21:32:50 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [511][sw_rocket_pg26_v3]"
+[Thu Feb  5 21:32:51 2026] <STEAM_0:0:650470378> Discar: /rf Приступить к плану троянский конь
+[Thu Feb  5 21:33:04 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [511][sent_soccerball]"
+[Thu Feb  5 21:33:22 2026] <STEAM_0:0:650470378> Discar: Мячик
+[Thu Feb  5 21:33:52 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [551][sw_mine_ozm72_v3]"
+[Thu Feb  5 21:33:54 2026] новеньки has killed Discar.
+[Thu Feb  5 21:33:55 2026] Discar has killed Discar.
+[Thu Feb  5 21:33:57 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [393][sw_mine_pfm1_v3]"
+[Thu Feb  5 21:34:15 2026] <STEAM_0:0:650470378> Discar: Мячик
+[Thu Feb  5 21:34:50 2026] <STEAM_0:0:114787793> Zhenechka: /anouns где есть растяжки
+[Thu Feb  5 21:34:55 2026] <STEAM_0:0:114787793> Zhenechka: /откат
+[Thu Feb  5 21:34:58 2026] <STEAM_0:0:650470378> Discar: /rf Павлов где бабушкин мячик
+[Thu Feb  5 21:34:59 2026] <STEAM_0:0:114787793> Zhenechka: // откат
+[Thu Feb  5 21:35:42 2026] <STEAM_0:0:650470378> Discar: /rf Мне нужен твой бабушкин мячик
+[Thu Feb  5 21:36:32 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [519][sw_rocket_pg26_v3]"
+[Thu Feb  5 21:36:44 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [519][sw_rocket_pg26_v3]"
+[Thu Feb  5 21:36:55 2026] новеньки has killed Discar.
+[Thu Feb  5 21:36:56 2026] Discar has killed Discar.
+[Thu Feb  5 21:36:58 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [508][sw_rocket_pg26_v3]"
+[Thu Feb  5 21:37:04 2026] Player "T1mxx" <STEAM_0:0:919681245> is attempting to connect.
+[Thu Feb  5 21:37:10 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [508][sw_rocket_pg26_v3]"
+[Thu Feb  5 21:37:27 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [508][sw_rocket_pg26_v3]"
+[Thu Feb  5 21:37:39 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [508][ladder_small2]"
+[Thu Feb  5 21:37:45 2026] <STEAM_0:0:114787793> Zhenechka spawned npc "NPC [519][npc_citizen]"
+[Thu Feb  5 21:37:47 2026] <STEAM_0:0:114787793> Zhenechka spawned npc "NPC [552][npc_combine_s]"
+[Thu Feb  5 21:37:52 2026] <STEAM_0:0:114787793> Zhenechka spawned npc "NPC [532][npc_citizen]"
+[Thu Feb  5 21:37:55 2026] <STEAM_0:0:114787793> Zhenechka spawned npc "NPC [532][npc_combine_s]"
+[Thu Feb  5 21:37:57 2026] <STEAM_0:0:114787793> Zhenechka spawned npc "NPC [532][npc_combine_s]"
+[Thu Feb  5 21:38:05 2026] <STEAM_0:0:114787793> Zhenechka spawned npc "NPC [532][npc_combine_s]"
+[Thu Feb  5 21:38:08 2026] <STEAM_0:0:114787793> Zhenechka spawned npc "NPC [554][npc_combine_s]"
+[Thu Feb  5 21:38:21 2026] <STEAM_0:0:114787793> Zhenechka spawned npc "NPC [565][npc_combine_s]"
+[Thu Feb  5 21:38:21 2026] <STEAM_0:0:114787793> Zhenechka spawned npc "NPC [569][npc_combine_s]"
+[Thu Feb  5 21:38:57 2026] <STEAM_0:0:114787793> Zhenechka spawned npc "NPC [532][npc_combine_s]"
+[Thu Feb  5 21:39:00 2026] <STEAM_0:0:114787793> Zhenechka spawned npc "NPC [558][npc_combine_s]"
+[Thu Feb  5 21:39:03 2026] <STEAM_0:0:114787793> Zhenechka spawned npc "NPC [565][npc_combine_s]"
+[Thu Feb  5 21:39:05 2026] <STEAM_0:0:114787793> Zhenechka spawned npc "NPC [569][npc_combine_s]"
+[Thu Feb  5 21:39:23 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [574][sw_rocket_pg26_v3]"
+[Thu Feb  5 21:39:33 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [574][sw_rocket_pg26_v3]"
+[Thu Feb  5 21:39:49 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [574][sw_rocket_tt250_v3]"
+[Thu Feb  5 21:39:52 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [574][sw_bomb_fab100_v3]"
+[Thu Feb  5 21:40:17 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [574][sw_rocket_pg26_v3]"
+[Thu Feb  5 21:40:18 2026] Player "ghoprhd" <STEAM_0:0:453883455> is attempting to connect.
+[Thu Feb  5 21:40:52 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [574][lvs_trailer_flak]"
+[Thu Feb  5 21:41:16 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [511][lvs_trailer_flak]"
+[Thu Feb  5 21:42:16 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [511][sw_mine_tm62_v3]"
+[Thu Feb  5 21:42:29 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [574][lvs_trailer_flak]"
+[Thu Feb  5 21:42:55 2026] Player "ghoprhd" <STEAM_0:0:453883455> is attempting to connect.
+[Thu Feb  5 21:43:25 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [574][lvs_trailer_flak]"
+[Thu Feb  5 21:43:55 2026] worldspawn has killed Zhenechka.
+[Thu Feb  5 21:44:04 2026] <STEAM_0:0:114787793> Zhenechka: // вы где все
+[Thu Feb  5 21:44:21 2026] <STEAM_0:0:650470378> Discar: /ooc где то
+[Thu Feb  5 21:44:57 2026] <STEAM_0:0:114787793> Zhenechka spawned npc "NPC [574][npc_combine_s]"
+[Thu Feb  5 21:45:06 2026] <STEAM_0:0:114787793> Zhenechka spawned npc "NPC [609][npc_combine_s]"
+[Thu Feb  5 21:45:07 2026] <STEAM_0:0:114787793> Zhenechka spawned npc "NPC [581][npc_combine_s]"
+[Thu Feb  5 21:45:21 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [629][sw_rocket_pg26_v3]"
+[Thu Feb  5 21:45:22 2026] новеньки has killed Discar.
+[Thu Feb  5 21:45:23 2026] Discar has killed Discar.
+[Thu Feb  5 21:45:24 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [508][sw_rocket_pg26_v3]"
+[Thu Feb  5 21:45:35 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [522][sw_rocket_pg26_v3]"
+[Thu Feb  5 21:45:44 2026] Discar has killed Рурок.
+[Thu Feb  5 21:45:45 2026] Рурок has killed Рурок.
+[Thu Feb  5 21:46:03 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [522][sw_rocket_pg26_v3]"
+[Thu Feb  5 21:46:04 2026] новеньки has killed Discar.
+[Thu Feb  5 21:46:20 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [521][lvs_wheeldrive_rp_dabrams_m1a1]"
+[Thu Feb  5 21:46:25 2026] npc_combine_s has killed новеньки.
+[Thu Feb  5 21:46:34 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [529][sw_matv_m2]"
+[Thu Feb  5 21:46:36 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [680][sw_matv_mk19]"
+[Thu Feb  5 21:46:38 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [529][sw_matv]"
+[Thu Feb  5 21:46:42 2026] <STEAM_0:0:114787793> Zhenechka un-froze (reloaded) using the physgun
+[Thu Feb  5 21:46:49 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [509][lvs_wheeldrive_hummer_tow]"
+[Thu Feb  5 21:48:22 2026] <STEAM_0:0:114787793> Zhenechka spawned vehicle "Vehicle [629][prop_vehicle_jeep]"
+[Thu Feb  5 21:48:24 2026] <STEAM_0:0:114787793> Zhenechka spawned vehicle "Vehicle [641][prop_vehicle_jeep]"
+[Thu Feb  5 21:48:30 2026] prop_vehicle_jeep has killed Discar.
+[Thu Feb  5 21:48:44 2026] <STEAM_0:0:114787793> Zhenechka spawned vehicle "Vehicle [641][prop_vehicle_jeep]"
+[Thu Feb  5 21:48:46 2026] <STEAM_0:0:114787793> Zhenechka spawned vehicle "Vehicle [658][prop_vehicle_jeep]"
+[Thu Feb  5 21:50:20 2026] Zhenechka has killed Discar.
+[Thu Feb  5 21:50:54 2026] Discar has killed Discar.
+[Thu Feb  5 21:51:11 2026] <STEAM_0:0:650470378> Discar: /ooc да епанарот
+[Thu Feb  5 21:51:14 2026] Рурок has killed Zhenechka.
+[Thu Feb  5 21:51:15 2026] Zhenechka has killed Zhenechka.
+[Thu Feb  5 21:52:30 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [575][lvs_trailer_flak]"
+[Thu Feb  5 21:52:33 2026] <STEAM_0:0:569574962> Рурок: /ooc ах ты сын гея
+[Thu Feb  5 21:53:57 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [575][lvs_trailer_flak]"
+[Thu Feb  5 21:53:58 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [581][lvs_trailer_flak]"
+[Thu Feb  5 21:53:59 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [609][lvs_trailer_flak]"
+[Thu Feb  5 21:54:07 2026] Zhenechka has killed Рурок.
+[Thu Feb  5 21:54:13 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [389][lvs_trailer_flak]"
+[Thu Feb  5 21:54:35 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [519][sw_gaz2330_pkm]"
+[Thu Feb  5 21:54:37 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [681][sw_gaz2330_pkm]"
+[Thu Feb  5 21:54:44 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [519][sw_bmp2]"
+[Thu Feb  5 21:54:47 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [519][sw_bmp3m]"
+[Thu Feb  5 21:54:49 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [519][sw_bmp3m]"
+[Thu Feb  5 21:55:10 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [740][sw_bmp1p]"
+[Thu Feb  5 21:55:18 2026] sw_bmp1p has killed Рурок.
+[Thu Feb  5 21:55:25 2026] sw_bmp1p has killed новеньки.
+[Thu Feb  5 21:56:50 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [66][lvs_trailer_flak]"
+[Thu Feb  5 21:57:09 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [66][lvs_wheeldrive_hummer_m134]"
+[Thu Feb  5 21:57:43 2026] новеньки has killed Discar.
+[Thu Feb  5 21:57:44 2026] Discar has killed Discar.
+[Thu Feb  5 21:57:45 2026] <STEAM_0:0:114787793> Zhenechka: // Вы хотите 2 на 2 ???
+[Thu Feb  5 21:58:07 2026] <STEAM_0:0:569574962> Рурок: /OOC дай бмп 2 , я вас с дискаровым выстигну
+[Thu Feb  5 21:58:10 2026] новеньки has killed Zhenechka.
+[Thu Feb  5 21:58:16 2026] <STEAM_0:0:569574962> Рурок: /ooc дай бмп 2 , я вас с дискаровым выстигну
+[Thu Feb  5 21:58:30 2026] новеньки has killed Рурок.
+[Thu Feb  5 21:58:30 2026] Рурок has killed Рурок.
+[Thu Feb  5 21:58:44 2026] <STEAM_0:0:114787793> Zhenechka: // короче я вам поставлю транспорт а сам ливну если пропадет значит пропадет
+[Thu Feb  5 21:58:52 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [84][lvs_wheeldrive_hummer_m2]"
+[Thu Feb  5 21:58:54 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [110][lvs_wheeldrive_hummer_m134]"
+[Thu Feb  5 21:58:56 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [135][lvs_wheeldrive_hummer_m240]"
+[Thu Feb  5 21:58:58 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [159][lvs_wheeldrive_hummer_mk19]"
+[Thu Feb  5 21:59:06 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [74][sw_mine_tm62_v3]"
+[Thu Feb  5 21:59:07 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [185][sw_mine_tm62_v3]"
+[Thu Feb  5 21:59:08 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [186][sw_mine_tm62_v3]"
+[Thu Feb  5 21:59:08 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [187][sw_mine_tm62_v3]"
+[Thu Feb  5 21:59:10 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [188][sw_mine_tm62_v3]"
+[Thu Feb  5 21:59:12 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [189][sw_mine_tm62_v3]"
+[Thu Feb  5 21:59:14 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [191][sw_mine_tm62_v3]"
+[Thu Feb  5 21:59:15 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [192][sw_mine_tm62_v3]"
+[Thu Feb  5 21:59:17 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [193][sw_mine_tm62_v3]"
+[Thu Feb  5 21:59:18 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [194][sw_mine_tm62_v3]"
+[Thu Feb  5 21:59:34 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [196][sw_rocket_s3k_v3]"
+[Thu Feb  5 22:00:42 2026] Рурок has killed новеньки.
+[Thu Feb  5 22:00:45 2026] Zhenechka has killed Zhenechka.
+[Thu Feb  5 22:00:52 2026] Player "Zhenechka" <STEAM_0:0:114787793> has left the server
+[Thu Feb  5 22:01:45 2026] Discar has killed новеньки.
+[Thu Feb  5 22:01:51 2026] Player "новеньки" <STEAM_0:1:196569949> has left the server
+[Thu Feb  5 22:05:22 2026] Рурок has killed Discar.
+[Thu Feb  5 22:05:22 2026] Discar has killed Discar.
+[Thu Feb  5 22:06:22 2026] Discar has killed Рурок.
+[Thu Feb  5 22:06:22 2026] Рурок has killed Рурок.
+[Thu Feb  5 22:06:37 2026] Discar has killed Рурок.
+[Thu Feb  5 22:06:38 2026] Рурок has killed Рурок.
+[Thu Feb  5 22:07:18 2026] Рурок has killed Discar.
+[Thu Feb  5 22:07:19 2026] Discar has killed Discar.
+[Thu Feb  5 22:08:00 2026] Рурок has killed Discar.
+[Thu Feb  5 22:08:00 2026] Discar has killed Discar.
+[Thu Feb  5 22:08:25 2026] Discar has killed Рурок.
+[Thu Feb  5 22:08:25 2026] Рурок has killed Рурок.
+[Thu Feb  5 22:09:56 2026] Player "Рурок" <STEAM_0:0:569574962> has left the server
+[Thu Feb  5 22:10:14 2026] Player "Discar" <STEAM_0:0:650470378> has left the server
+[Thu Feb  5 22:26:34 2026] Player "RomaLepton" <STEAM_0:0:631054373> is attempting to connect.

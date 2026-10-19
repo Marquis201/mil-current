@@ -1,0 +1,1284 @@
+[Thu Feb 12 00:19:34 2026] Player "OZOR" <STEAM_0:0:85754053> has spawned in the server
+[Thu Feb 12 00:25:45 2026] Player "r2belsleat" <STEAM_0:0:796319570> is attempting to connect.
+[Thu Feb 12 00:29:47 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [708][sw_bmp1]"
+[Thu Feb 12 00:29:51 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [708][lvs_wheeldrive_m3a3]"
+[Thu Feb 12 00:30:32 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Feb 12 00:30:32 2026] <STEAM_0:0:85754053> OZOR spawned SWEP "Weapon [947][tfa_ins2_wpn_rpg7]"
+[Thu Feb 12 00:30:32 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Feb 12 00:30:32 2026] <STEAM_0:0:85754053> OZOR spawned SWEP "Weapon [948][tfa_ins2_wpn_rpg7]"
+[Thu Feb 12 00:30:32 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Feb 12 00:30:32 2026] <STEAM_0:0:85754053> OZOR spawned SWEP "Weapon [949][tfa_ins2_wpn_rpg7]"
+[Thu Feb 12 00:30:32 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Feb 12 00:30:32 2026] <STEAM_0:0:85754053> OZOR spawned SWEP "Weapon [950][tfa_ins2_wpn_rpg7]"
+[Thu Feb 12 00:30:33 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Feb 12 00:30:33 2026] <STEAM_0:0:85754053> OZOR spawned SWEP "Weapon [951][tfa_ins2_wpn_rpg7]"
+[Thu Feb 12 00:30:33 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Feb 12 00:30:33 2026] <STEAM_0:0:85754053> OZOR spawned SWEP "Weapon [952][tfa_ins2_wpn_rpg7]"
+[Thu Feb 12 00:30:33 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Feb 12 00:30:33 2026] <STEAM_0:0:85754053> OZOR spawned SWEP "Weapon [965][tfa_ins2_wpn_rpg7]"
+[Thu Feb 12 00:30:33 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Feb 12 00:30:33 2026] <STEAM_0:0:85754053> OZOR spawned SWEP "Weapon [947][tfa_ins2_wpn_rpg7]"
+[Thu Feb 12 00:31:25 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [709][sw_bmp1]"
+[Thu Feb 12 00:31:26 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [950][lvs_wheeldrive_m3a3]"
+[Thu Feb 12 00:31:31 2026] Player "Bot01" <BOT> has spawned in the server
+[Thu Feb 12 00:31:37 2026] npc_combine_s has killed Bot01.
+[Thu Feb 12 00:31:39 2026] <STEAM_0:0:85754053> OZOR ran command "send Bot01"
+[Thu Feb 12 00:32:17 2026] <STEAM_0:0:85754053> OZOR ran command "send Bot01"
+[Thu Feb 12 00:32:19 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [692][lvs_wheeldrive_m3a3]"
+[Thu Feb 12 00:32:37 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [692][sw_bmp3m]"
+[Thu Feb 12 00:32:51 2026] OZOR has killed Bot01.
+[Thu Feb 12 00:32:55 2026] <STEAM_0:0:85754053> OZOR ran command "send Bot01"
+[Thu Feb 12 00:33:03 2026] OZOR has killed Bot01.
+[Thu Feb 12 00:34:12 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [709][grenade_helicopter]"
+[Thu Feb 12 00:34:43 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [709][grenade_helicopter]"
+[Thu Feb 12 00:34:44 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [964][grenade_helicopter]"
+[Thu Feb 12 00:34:44 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [966][grenade_helicopter]"
+[Thu Feb 12 00:34:44 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [967][grenade_helicopter]"
+[Thu Feb 12 00:34:44 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [968][grenade_helicopter]"
+[Thu Feb 12 00:34:44 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [969][grenade_helicopter]"
+[Thu Feb 12 00:34:45 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [970][grenade_helicopter]"
+[Thu Feb 12 00:34:45 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [971][grenade_helicopter]"
+[Thu Feb 12 00:34:45 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [972][grenade_helicopter]"
+[Thu Feb 12 00:34:47 2026] worldspawn has killed OZOR.
+[Thu Feb 12 00:36:03 2026] Player "r2belsleat" <STEAM_0:0:796319570> has spawned in the server
+[Thu Feb 12 00:40:31 2026] <STEAM_0:0:85754053> OZOR ran command "menu"
+[Thu Feb 12 00:41:02 2026] Player "r2belsleat" <STEAM_0:0:796319570> has left the server
+[Thu Feb 12 00:41:11 2026] Player "OZOR" <STEAM_0:0:85754053> has left the server
+[Thu Feb 12 00:41:11 2026] Player "Bot01" <BOT> has left the server
+[Thu Feb 12 03:27:39 2026] Player "OZOR" <STEAM_0:0:85754053> has spawned in the server
+[Thu Feb 12 03:35:15 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 03:35:35 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [708][prop_physics] (models/props_borealis/borealis_door001a.mdl)"
+[Thu Feb 12 03:35:40 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 03:36:11 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 03:36:14 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [692][prop_physics] (models/props_borealis/borealis_door001a.mdl)"
+[Thu Feb 12 03:36:16 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [791][prop_physics] (models/props_c17/gravestone_statue001a.mdl)"
+[Thu Feb 12 03:38:43 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [708][prop_physics] (models/props_c17/gravestone_statue001a.mdl)"
+[Thu Feb 12 03:38:51 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 03:39:15 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 03:39:24 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 03:39:29 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [692][prop_physics] (models/props_c17/gravestone_statue001a.mdl)"
+[Thu Feb 12 03:39:30 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 03:39:34 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [791][prop_physics] (models/props_c17/gravestone_statue001a.mdl)"
+[Thu Feb 12 03:39:34 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [819][prop_physics] (models/props_c17/gravestone_statue001a.mdl)"
+[Thu Feb 12 03:39:34 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [692][prop_physics] (models/props_c17/gravestone_statue001a.mdl)"
+[Thu Feb 12 03:39:34 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [821][prop_physics] (models/props_c17/gravestone_statue001a.mdl)"
+[Thu Feb 12 03:39:37 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 03:45:50 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 03:45:53 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 03:48:10 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 03:48:31 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 03:49:39 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 03:50:51 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [708][prop_physics] (models/props_c17/gravestone_statue001a.mdl)"
+[Thu Feb 12 03:50:53 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [708][prop_physics] (models/props_c17/gravestone_statue001a.mdl)"
+[Thu Feb 12 03:50:57 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [708][prop_physics] (models/props_c17/gravestone_statue001a.mdl)"
+[Thu Feb 12 03:50:59 2026] <STEAM_0:0:85754053> OZOR used tool "lamp"
+[Thu Feb 12 03:51:05 2026] <STEAM_0:0:85754053> OZOR used tool "lamp"
+[Thu Feb 12 03:51:06 2026] <STEAM_0:0:85754053> OZOR used tool "lamp"
+[Thu Feb 12 03:51:12 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 03:51:12 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 03:51:12 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 03:51:13 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 03:51:21 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 03:51:21 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 03:51:21 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 03:51:22 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 03:51:22 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 03:51:22 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 03:52:12 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 03:52:21 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 03:52:25 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 03:54:00 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 03:54:05 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 03:54:15 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 03:54:19 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 03:54:49 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 03:55:00 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 03:55:04 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 03:55:18 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 03:55:28 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 03:57:20 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 03:57:54 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 03:58:24 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 04:01:17 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 04:02:48 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 04:03:12 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 04:03:21 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [692][prop_physics] (models/props_c17/lampShade001a.mdl)"
+[Thu Feb 12 04:03:21 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [708][prop_physics] (models/props_c17/Lockers001a.mdl)"
+[Thu Feb 12 04:03:22 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [791][prop_physics] (models/props_c17/Lockers001a.mdl)"
+[Thu Feb 12 04:03:24 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 04:04:10 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 04:04:16 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [692][prop_physics] (models/props_c17/gravestone_statue001a.mdl)"
+[Thu Feb 12 04:04:16 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [708][prop_physics] (models/props_c17/lampShade001a.mdl)"
+[Thu Feb 12 04:04:22 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 04:04:37 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 04:06:11 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 04:06:21 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 04:06:50 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 04:08:01 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 04:08:14 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 04:08:46 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 04:09:04 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 04:09:07 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 04:09:21 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 04:10:14 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 04:11:01 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 04:11:23 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 04:11:34 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 04:12:21 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 04:12:41 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 04:14:23 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 04:15:25 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 04:15:28 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 04:15:39 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 04:16:48 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 04:18:37 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 04:19:13 2026] Player "OZOR" <STEAM_0:0:85754053> has left the server
+[Thu Feb 12 04:19:41 2026] Player "Eren the best" <STEAM_0:1:868179914> is attempting to connect.
+[Thu Feb 12 04:24:16 2026] Player "OZOR" <STEAM_0:0:85754053> has spawned in the server
+[Thu Feb 12 04:27:41 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 04:27:47 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [709][prop_physics] (models/props_c17/fence03a.mdl)"
+[Thu Feb 12 04:27:47 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [724][prop_physics] (models/props_c17/fence03a.mdl)"
+[Thu Feb 12 04:27:48 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [725][prop_physics] (models/props_c17/fence03a.mdl)"
+[Thu Feb 12 04:27:48 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [728][prop_physics] (models/props_c17/fence03a.mdl)"
+[Thu Feb 12 04:27:48 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [730][prop_physics] (models/props_c17/fence03a.mdl)"
+[Thu Feb 12 04:27:48 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [839][prop_physics] (models/props_c17/fence03a.mdl)"
+[Thu Feb 12 04:27:48 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [861][prop_physics] (models/props_c17/fence03a.mdl)"
+[Thu Feb 12 04:28:07 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 04:28:17 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 04:28:23 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [692][prop_physics] (models/props_c17/FurnitureFridge001a.mdl)"
+[Thu Feb 12 04:28:24 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [739][prop_physics] (models/props_c17/FurnitureFridge001a.mdl)"
+[Thu Feb 12 04:28:24 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [791][prop_physics] (models/props_c17/FurnitureFridge001a.mdl)"
+[Thu Feb 12 04:28:25 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 04:38:45 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 04:40:23 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 04:40:53 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 04:43:55 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 04:44:00 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 04:46:13 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 04:46:22 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [725][prop_physics] (models/props_c17/fence01b.mdl)"
+[Thu Feb 12 04:46:23 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [728][prop_physics] (models/props_c17/fence02a.mdl)"
+[Thu Feb 12 04:46:23 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [730][prop_physics] (models/props_c17/fence02a.mdl)"
+[Thu Feb 12 04:46:23 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [839][prop_physics] (models/props_c17/fence02a.mdl)"
+[Thu Feb 12 04:46:23 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [861][prop_physics] (models/props_c17/fence02a.mdl)"
+[Thu Feb 12 04:46:23 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [862][prop_physics] (models/props_c17/fence02a.mdl)"
+[Thu Feb 12 04:46:24 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [865][prop_physics] (models/props_c17/fence02a.mdl)"
+[Thu Feb 12 04:46:26 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 04:47:17 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [725][prop_physics] (models/props_c17/fence02a.mdl)"
+[Thu Feb 12 04:47:17 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [728][prop_physics] (models/props_c17/fence02a.mdl)"
+[Thu Feb 12 04:47:19 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 04:47:54 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 04:53:16 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 04:53:49 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 04:53:58 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [725][prop_physics] (models/props_c17/GasPipes006a.mdl)"
+[Thu Feb 12 04:53:58 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [728][prop_physics] (models/props_c17/GasPipes006a.mdl)"
+[Thu Feb 12 04:53:59 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [730][prop_physics] (models/props_c17/GasPipes006a.mdl)"
+[Thu Feb 12 04:53:59 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [839][prop_physics] (models/props_c17/gate_door01a.mdl)"
+[Thu Feb 12 04:54:04 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 04:54:40 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 04:55:27 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 04:55:50 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 04:57:10 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 04:57:20 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [692][prop_physics] (models/props_c17/gate_door01a.mdl)"
+[Thu Feb 12 04:57:20 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [739][prop_physics] (models/props_c17/gate_door01a.mdl)"
+[Thu Feb 12 04:57:20 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [791][prop_physics] (models/props_c17/gate_door01a.mdl)"
+[Thu Feb 12 04:57:20 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [808][prop_physics] (models/props_c17/gate_door01a.mdl)"
+[Thu Feb 12 04:57:22 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 04:57:31 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 04:58:41 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [692][prop_physics] (models/props_c17/gate_door01a.mdl)"
+[Thu Feb 12 04:58:41 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [739][prop_physics] (models/props_c17/gate_door01a.mdl)"
+[Thu Feb 12 04:58:41 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [791][prop_physics] (models/props_c17/gate_door01a.mdl)"
+[Thu Feb 12 04:58:43 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 04:58:52 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 04:59:13 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 04:59:16 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [725][prop_physics] (models/props_c17/FurnitureWashingmachine001a.mdl)"
+[Thu Feb 12 04:59:16 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [728][prop_physics] (models/props_c17/FurnitureWashingmachine001a.mdl)"
+[Thu Feb 12 04:59:29 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 04:59:45 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [692][prop_physics] (models/props_junk/PlasticCrate01a.mdl)"
+[Thu Feb 12 05:02:02 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [899][prop_physics] (models/props_junk/PlasticCrate01a.mdl)"
+[Thu Feb 12 05:02:02 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [901][prop_physics] (models/props_junk/PlasticCrate01a.mdl)"
+[Thu Feb 12 05:02:04 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 05:02:05 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 05:02:05 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 05:02:05 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 05:02:05 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 05:02:06 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 05:02:06 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 05:02:11 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 05:02:29 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 05:02:30 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 05:02:30 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 05:02:30 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 05:02:30 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 05:03:27 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 05:03:27 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 05:03:28 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 05:03:28 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 05:03:28 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 05:03:41 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 05:03:42 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 05:03:42 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 05:06:51 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 05:06:52 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 05:06:52 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 05:06:52 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 05:06:53 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 05:06:53 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 05:06:53 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 05:06:53 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 05:06:59 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 05:07:01 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 05:07:20 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 05:07:20 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 05:07:21 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 05:07:25 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 05:07:25 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 05:07:26 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 05:07:26 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 05:07:26 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 05:07:26 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 05:07:26 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 05:07:26 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 05:07:26 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 05:07:27 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 05:07:27 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 05:07:27 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 05:07:27 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 05:07:31 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [692][prop_physics] (models/props_canal/bridge_pillar02.mdl)"
+[Thu Feb 12 05:07:31 2026] <STEAM_0:0:85754053> OZOR used tool "colour"
+[Thu Feb 12 05:07:32 2026] <STEAM_0:0:85754053> OZOR used tool "colour"
+[Thu Feb 12 05:07:32 2026] <STEAM_0:0:85754053> OZOR used tool "colour"
+[Thu Feb 12 05:07:34 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 05:07:35 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 05:07:35 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 05:07:36 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 05:08:14 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 05:08:15 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 05:08:15 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 05:08:15 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 05:08:16 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 05:08:32 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 05:09:40 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 05:09:41 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 05:09:41 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 05:10:52 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 05:10:53 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 05:10:53 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 05:10:53 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 05:10:53 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 05:10:53 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 05:10:53 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 05:10:53 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 05:10:54 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 05:10:54 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 05:10:54 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 05:12:57 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 05:12:57 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 05:12:58 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 05:12:58 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 05:12:58 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 05:13:05 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 05:13:05 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 05:13:05 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 05:13:05 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 05:13:05 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 05:13:05 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 05:13:05 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 05:13:06 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 05:13:06 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 05:13:06 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 05:13:06 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 05:13:10 2026] <STEAM_0:0:85754053> OZOR used tool "fading_door"
+[Thu Feb 12 05:13:10 2026] <STEAM_0:0:85754053> OZOR used tool "fading_door"
+[Thu Feb 12 05:13:10 2026] <STEAM_0:0:85754053> OZOR used tool "fading_door"
+[Thu Feb 12 05:13:11 2026] <STEAM_0:0:85754053> OZOR used tool "fading_door"
+[Thu Feb 12 05:13:11 2026] <STEAM_0:0:85754053> OZOR used tool "fading_door"
+[Thu Feb 12 05:13:12 2026] <STEAM_0:0:85754053> OZOR used tool "fading_door"
+[Thu Feb 12 05:13:12 2026] <STEAM_0:0:85754053> OZOR used tool "fading_door"
+[Thu Feb 12 05:13:13 2026] <STEAM_0:0:85754053> OZOR used tool "fading_door"
+[Thu Feb 12 05:13:32 2026] <STEAM_0:0:85754053> OZOR used tool "fading_door"
+[Thu Feb 12 05:13:33 2026] <STEAM_0:0:85754053> OZOR used tool "fading_door"
+[Thu Feb 12 05:13:33 2026] <STEAM_0:0:85754053> OZOR used tool "fading_door"
+[Thu Feb 12 05:13:33 2026] <STEAM_0:0:85754053> OZOR used tool "fading_door"
+[Thu Feb 12 05:13:34 2026] <STEAM_0:0:85754053> OZOR used tool "fading_door"
+[Thu Feb 12 05:13:34 2026] <STEAM_0:0:85754053> OZOR used tool "fading_door"
+[Thu Feb 12 05:13:34 2026] <STEAM_0:0:85754053> OZOR used tool "fading_door"
+[Thu Feb 12 05:13:34 2026] <STEAM_0:0:85754053> OZOR used tool "fading_door"
+[Thu Feb 12 05:17:47 2026] <STEAM_0:0:85754053> OZOR used tool "fading_door"
+[Thu Feb 12 05:17:47 2026] <STEAM_0:0:85754053> OZOR used tool "fading_door"
+[Thu Feb 12 05:17:48 2026] <STEAM_0:0:85754053> OZOR used tool "fading_door"
+[Thu Feb 12 05:17:48 2026] <STEAM_0:0:85754053> OZOR used tool "fading_door"
+[Thu Feb 12 05:17:52 2026] <STEAM_0:0:85754053> OZOR used tool "precision"
+[Thu Feb 12 05:17:52 2026] <STEAM_0:0:85754053> OZOR used tool "precision"
+[Thu Feb 12 05:17:52 2026] <STEAM_0:0:85754053> OZOR used tool "precision"
+[Thu Feb 12 05:17:52 2026] <STEAM_0:0:85754053> OZOR used tool "precision"
+[Thu Feb 12 05:17:52 2026] <STEAM_0:0:85754053> OZOR used tool "weld"
+[Thu Feb 12 05:18:00 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 05:21:52 2026] Player "OZOR" <STEAM_0:0:85754053> has spawned in the server
+[Thu Feb 12 05:23:51 2026] Player "OZOR" <STEAM_0:0:85754053> has spawned in the server
+[Thu Feb 12 05:27:59 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 05:28:11 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [698][prop_physics] (models/props_c17/fence04a.mdl)"
+[Thu Feb 12 05:28:11 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [700][prop_physics] (models/props_c17/fence04a.mdl)"
+[Thu Feb 12 05:28:11 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [701][prop_physics] (models/props_c17/fence04a.mdl)"
+[Thu Feb 12 05:28:11 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [702][prop_physics] (models/props_c17/fence04a.mdl)"
+[Thu Feb 12 05:28:12 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [703][prop_physics] (models/props_c17/fence04a.mdl)"
+[Thu Feb 12 05:28:12 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [704][prop_physics] (models/props_c17/fence04a.mdl)"
+[Thu Feb 12 05:28:14 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [700][prop_physics] (models/props_c17/fence04a.mdl)"
+[Thu Feb 12 05:28:14 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [701][prop_physics] (models/props_c17/fence04a.mdl)"
+[Thu Feb 12 05:28:20 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [698][prop_physics] (models/props_c17/fence04a.mdl)"
+[Thu Feb 12 05:28:53 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [698][prop_physics] (models/props_c17/FurnitureFridge001a.mdl)"
+[Thu Feb 12 05:28:58 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 05:28:59 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 05:28:59 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 05:29:01 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 05:31:24 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [698][prop_physics] (models/props_c17/lampShade001a.mdl)"
+[Thu Feb 12 05:31:41 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [700][prop_physics] (models/props_c17/lampShade001a.mdl)"
+[Thu Feb 12 05:31:41 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [701][prop_physics] (models/props_c17/lampShade001a.mdl)"
+[Thu Feb 12 05:31:41 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [702][prop_physics] (models/props_c17/lampShade001a.mdl)"
+[Thu Feb 12 05:31:46 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 05:31:46 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 05:31:46 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 05:31:46 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 05:31:46 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 05:31:47 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 05:31:47 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 05:31:47 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 05:31:47 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 05:31:47 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 05:31:47 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 05:31:47 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 05:31:47 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 05:31:47 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 05:31:47 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 05:31:48 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 05:31:48 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 05:31:48 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 05:34:01 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 05:34:01 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 05:34:02 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [691][prop_physics] (models/props_c17/FurnitureShelf001a.mdl)"
+[Thu Feb 12 05:34:03 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [700][prop_physics] (models/props_c17/FurnitureFridge001a.mdl)"
+[Thu Feb 12 05:34:05 2026] <STEAM_0:0:85754053> OZOR used tool "spawn_faction"
+[Thu Feb 12 05:34:06 2026] <STEAM_0:0:85754053> OZOR used tool "spawn_faction"
+[Thu Feb 12 05:34:07 2026] <STEAM_0:0:85754053> OZOR used tool "spawn_faction"
+[Thu Feb 12 05:34:07 2026] <STEAM_0:0:85754053> OZOR used tool "spawn_faction"
+[Thu Feb 12 05:34:08 2026] <STEAM_0:0:85754053> OZOR used tool "spawn_faction"
+[Thu Feb 12 05:34:08 2026] <STEAM_0:0:85754053> OZOR used tool "spawn_faction"
+[Thu Feb 12 05:34:08 2026] <STEAM_0:0:85754053> OZOR used tool "spawn_faction"
+[Thu Feb 12 05:34:08 2026] <STEAM_0:0:85754053> OZOR used tool "spawn_faction"
+[Thu Feb 12 05:34:08 2026] <STEAM_0:0:85754053> OZOR used tool "spawn_faction"
+[Thu Feb 12 05:34:09 2026] <STEAM_0:0:85754053> OZOR used tool "spawn_faction"
+[Thu Feb 12 05:34:09 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [691][prop_physics] (models/props_c17/lampShade001a.mdl)"
+[Thu Feb 12 05:34:10 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [700][prop_physics] (models/props_c17/lampShade001a.mdl)"
+[Thu Feb 12 05:34:10 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [701][prop_physics] (models/props_c17/lampShade001a.mdl)"
+[Thu Feb 12 05:34:13 2026] <STEAM_0:0:85754053> OZOR used tool "textscreen"
+[Thu Feb 12 05:34:14 2026] <STEAM_0:0:85754053> OZOR used tool "textscreen"
+[Thu Feb 12 05:34:14 2026] <STEAM_0:0:85754053> OZOR used tool "textscreen"
+[Thu Feb 12 05:34:14 2026] <STEAM_0:0:85754053> OZOR used tool "textscreen"
+[Thu Feb 12 05:34:14 2026] <STEAM_0:0:85754053> OZOR used tool "textscreen"
+[Thu Feb 12 05:34:14 2026] <STEAM_0:0:85754053> OZOR used tool "textscreen"
+[Thu Feb 12 05:34:15 2026] <STEAM_0:0:85754053> OZOR used tool "textscreen"
+[Thu Feb 12 05:34:15 2026] <STEAM_0:0:85754053> OZOR used tool "textscreen"
+[Thu Feb 12 05:34:15 2026] <STEAM_0:0:85754053> OZOR used tool "textscreen"
+[Thu Feb 12 05:34:15 2026] <STEAM_0:0:85754053> OZOR used tool "textscreen"
+[Thu Feb 12 05:34:15 2026] <STEAM_0:0:85754053> OZOR used tool "textscreen"
+[Thu Feb 12 05:34:15 2026] <STEAM_0:0:85754053> OZOR used tool "textscreen"
+[Thu Feb 12 05:34:15 2026] <STEAM_0:0:85754053> OZOR used tool "textscreen"
+[Thu Feb 12 05:34:15 2026] <STEAM_0:0:85754053> OZOR used tool "textscreen"
+[Thu Feb 12 05:34:15 2026] <STEAM_0:0:85754053> OZOR used tool "textscreen"
+[Thu Feb 12 05:34:20 2026] <STEAM_0:0:85754053> OZOR used tool "textscreen"
+[Thu Feb 12 05:34:21 2026] <STEAM_0:0:85754053> OZOR used tool "textscreen"
+[Thu Feb 12 05:34:30 2026] <STEAM_0:0:85754053> OZOR used tool "smartweld"
+[Thu Feb 12 05:34:30 2026] <STEAM_0:0:85754053> OZOR used tool "smartweld"
+[Thu Feb 12 05:34:30 2026] <STEAM_0:0:85754053> OZOR used tool "smartweld"
+[Thu Feb 12 05:34:31 2026] <STEAM_0:0:85754053> OZOR used tool "smartweld"
+[Thu Feb 12 05:34:31 2026] <STEAM_0:0:85754053> OZOR used tool "smartweld"
+[Thu Feb 12 05:34:31 2026] <STEAM_0:0:85754053> OZOR used tool "smartweld"
+[Thu Feb 12 05:34:31 2026] <STEAM_0:0:85754053> OZOR used tool "smartweld"
+[Thu Feb 12 05:34:31 2026] <STEAM_0:0:85754053> OZOR used tool "smartweld"
+[Thu Feb 12 05:34:31 2026] <STEAM_0:0:85754053> OZOR used tool "smartweld"
+[Thu Feb 12 05:34:31 2026] <STEAM_0:0:85754053> OZOR used tool "smartweld"
+[Thu Feb 12 05:34:31 2026] <STEAM_0:0:85754053> OZOR used tool "smartweld"
+[Thu Feb 12 05:34:31 2026] <STEAM_0:0:85754053> OZOR used tool "smartweld"
+[Thu Feb 12 05:34:37 2026] <STEAM_0:0:85754053> OZOR used tool "precision"
+[Thu Feb 12 05:34:38 2026] <STEAM_0:0:85754053> OZOR used tool "precision"
+[Thu Feb 12 05:34:38 2026] <STEAM_0:0:85754053> OZOR used tool "precision"
+[Thu Feb 12 05:34:38 2026] <STEAM_0:0:85754053> OZOR used tool "precision"
+[Thu Feb 12 05:34:38 2026] <STEAM_0:0:85754053> OZOR used tool "precision"
+[Thu Feb 12 05:34:43 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 05:35:43 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 05:36:50 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 05:37:13 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 05:39:38 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [700][prop_physics] (models/props_junk/wood_crate001a.mdl)"
+[Thu Feb 12 05:39:41 2026] <STEAM_0:0:85754053> OZOR used tool "precision"
+[Thu Feb 12 05:39:41 2026] <STEAM_0:0:85754053> OZOR used tool "weld"
+[Thu Feb 12 05:39:42 2026] <STEAM_0:0:85754053> OZOR used tool "precision"
+[Thu Feb 12 05:39:43 2026] <STEAM_0:0:85754053> OZOR used tool "precision"
+[Thu Feb 12 05:39:43 2026] <STEAM_0:0:85754053> OZOR used tool "weld"
+[Thu Feb 12 05:39:43 2026] <STEAM_0:0:85754053> OZOR used tool "precision"
+[Thu Feb 12 05:39:43 2026] <STEAM_0:0:85754053> OZOR used tool "weld"
+[Thu Feb 12 05:39:43 2026] <STEAM_0:0:85754053> OZOR used tool "precision"
+[Thu Feb 12 05:39:43 2026] <STEAM_0:0:85754053> OZOR used tool "weld"
+[Thu Feb 12 05:39:44 2026] <STEAM_0:0:85754053> OZOR used tool "precision"
+[Thu Feb 12 05:39:44 2026] <STEAM_0:0:85754053> OZOR used tool "weld"
+[Thu Feb 12 05:39:44 2026] <STEAM_0:0:85754053> OZOR used tool "precision"
+[Thu Feb 12 05:39:44 2026] <STEAM_0:0:85754053> OZOR used tool "weld"
+[Thu Feb 12 05:39:45 2026] <STEAM_0:0:85754053> OZOR used tool "precision"
+[Thu Feb 12 05:39:45 2026] <STEAM_0:0:85754053> OZOR used tool "weld"
+[Thu Feb 12 05:40:47 2026] <STEAM_0:0:85754053> OZOR used tool "precision"
+[Thu Feb 12 05:40:48 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [698][prop_physics] (models/props_interiors/Furniture_Lamp01a.mdl)"
+[Thu Feb 12 05:40:49 2026] <STEAM_0:0:85754053> OZOR used tool "precision"
+[Thu Feb 12 05:40:49 2026] <STEAM_0:0:85754053> OZOR used tool "precision"
+[Thu Feb 12 05:40:50 2026] <STEAM_0:0:85754053> OZOR used tool "precision"
+[Thu Feb 12 05:40:50 2026] <STEAM_0:0:85754053> OZOR used tool "precision"
+[Thu Feb 12 05:40:50 2026] <STEAM_0:0:85754053> OZOR used tool "precision"
+[Thu Feb 12 05:40:50 2026] <STEAM_0:0:85754053> OZOR used tool "precision"
+[Thu Feb 12 05:40:50 2026] <STEAM_0:0:85754053> OZOR used tool "precision"
+[Thu Feb 12 05:40:50 2026] <STEAM_0:0:85754053> OZOR used tool "precision"
+[Thu Feb 12 05:40:51 2026] <STEAM_0:0:85754053> OZOR used tool "precision"
+[Thu Feb 12 05:40:54 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 05:41:21 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [691][prop_physics] (models/props_interiors/Furniture_Desk01a.mdl)"
+[Thu Feb 12 05:41:22 2026] <STEAM_0:0:85754053> OZOR used tool "precision"
+[Thu Feb 12 05:41:22 2026] <STEAM_0:0:85754053> OZOR used tool "weld"
+[Thu Feb 12 05:41:23 2026] <STEAM_0:0:85754053> OZOR used tool "precision"
+[Thu Feb 12 05:41:23 2026] <STEAM_0:0:85754053> OZOR used tool "weld"
+[Thu Feb 12 05:41:23 2026] <STEAM_0:0:85754053> OZOR used tool "precision"
+[Thu Feb 12 05:41:23 2026] <STEAM_0:0:85754053> OZOR used tool "weld"
+[Thu Feb 12 05:41:23 2026] <STEAM_0:0:85754053> OZOR used tool "precision"
+[Thu Feb 12 05:41:23 2026] <STEAM_0:0:85754053> OZOR used tool "weld"
+[Thu Feb 12 05:41:23 2026] <STEAM_0:0:85754053> OZOR used tool "precision"
+[Thu Feb 12 05:41:23 2026] <STEAM_0:0:85754053> OZOR used tool "weld"
+[Thu Feb 12 05:41:23 2026] <STEAM_0:0:85754053> OZOR used tool "precision"
+[Thu Feb 12 05:41:23 2026] <STEAM_0:0:85754053> OZOR used tool "weld"
+[Thu Feb 12 05:41:24 2026] <STEAM_0:0:85754053> OZOR used tool "precision"
+[Thu Feb 12 05:41:24 2026] <STEAM_0:0:85754053> OZOR used tool "weld"
+[Thu Feb 12 05:41:24 2026] <STEAM_0:0:85754053> OZOR used tool "precision"
+[Thu Feb 12 05:41:24 2026] <STEAM_0:0:85754053> OZOR used tool "weld"
+[Thu Feb 12 05:41:24 2026] <STEAM_0:0:85754053> OZOR used tool "precision"
+[Thu Feb 12 05:41:24 2026] <STEAM_0:0:85754053> OZOR used tool "weld"
+[Thu Feb 12 05:42:46 2026] <STEAM_0:0:85754053> OZOR used tool "precision"
+[Thu Feb 12 05:42:46 2026] <STEAM_0:0:85754053> OZOR used tool "weld"
+[Thu Feb 12 05:42:47 2026] <STEAM_0:0:85754053> OZOR used tool "precision"
+[Thu Feb 12 05:42:47 2026] <STEAM_0:0:85754053> OZOR used tool "weld"
+[Thu Feb 12 05:42:47 2026] <STEAM_0:0:85754053> OZOR used tool "precision"
+[Thu Feb 12 05:42:47 2026] <STEAM_0:0:85754053> OZOR used tool "weld"
+[Thu Feb 12 05:42:47 2026] <STEAM_0:0:85754053> OZOR used tool "precision"
+[Thu Feb 12 05:42:47 2026] <STEAM_0:0:85754053> OZOR used tool "weld"
+[Thu Feb 12 05:42:47 2026] <STEAM_0:0:85754053> OZOR used tool "precision"
+[Thu Feb 12 05:42:47 2026] <STEAM_0:0:85754053> OZOR used tool "precision"
+[Thu Feb 12 05:42:48 2026] <STEAM_0:0:85754053> OZOR used tool "precision"
+[Thu Feb 12 05:42:48 2026] <STEAM_0:0:85754053> OZOR used tool "precision"
+[Thu Feb 12 05:42:48 2026] <STEAM_0:0:85754053> OZOR used tool "precision"
+[Thu Feb 12 05:44:14 2026] <STEAM_0:0:85754053> OZOR used tool "precision"
+[Thu Feb 12 05:44:15 2026] <STEAM_0:0:85754053> OZOR used tool "precision"
+[Thu Feb 12 05:44:15 2026] <STEAM_0:0:85754053> OZOR used tool "precision"
+[Thu Feb 12 05:44:17 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 05:44:23 2026] <STEAM_0:0:85754053> OZOR used tool "advdupe2"
+[Thu Feb 12 05:44:24 2026] <STEAM_0:0:85754053> OZOR used tool "advdupe2"
+[Thu Feb 12 05:44:27 2026] <STEAM_0:0:85754053> OZOR used tool "advdupe2"
+[Thu Feb 12 05:44:28 2026] <STEAM_0:0:85754053> OZOR used tool "advdupe2"
+[Thu Feb 12 05:44:28 2026] <STEAM_0:0:85754053> OZOR used tool "advdupe2"
+[Thu Feb 12 05:44:28 2026] <STEAM_0:0:85754053> OZOR used tool "advdupe2"
+[Thu Feb 12 05:44:28 2026] <STEAM_0:0:85754053> OZOR used tool "advdupe2"
+[Thu Feb 12 05:44:29 2026] <STEAM_0:0:85754053> OZOR used tool "advdupe2"
+[Thu Feb 12 05:44:31 2026] <STEAM_0:0:85754053> OZOR used tool "advdupe2"
+[Thu Feb 12 05:44:31 2026] <STEAM_0:0:85754053> OZOR used tool "advdupe2"
+[Thu Feb 12 05:44:32 2026] <STEAM_0:0:85754053> OZOR used tool "advdupe2"
+[Thu Feb 12 05:44:32 2026] <STEAM_0:0:85754053> OZOR used tool "advdupe2"
+[Thu Feb 12 05:44:32 2026] <STEAM_0:0:85754053> OZOR used tool "advdupe2"
+[Thu Feb 12 05:44:32 2026] <STEAM_0:0:85754053> OZOR used tool "advdupe2"
+[Thu Feb 12 05:44:34 2026] <STEAM_0:0:85754053> OZOR used tool "advdupe2"
+[Thu Feb 12 05:44:35 2026] <STEAM_0:0:85754053> OZOR used tool "advdupe2"
+[Thu Feb 12 05:44:39 2026] <STEAM_0:0:85754053> OZOR used tool "advdupe2"
+[Thu Feb 12 05:44:39 2026] <STEAM_0:0:85754053> OZOR used tool "advdupe2"
+[Thu Feb 12 05:44:39 2026] <STEAM_0:0:85754053> OZOR used tool "advdupe2"
+[Thu Feb 12 05:44:39 2026] <STEAM_0:0:85754053> OZOR used tool "advdupe2"
+[Thu Feb 12 05:44:39 2026] <STEAM_0:0:85754053> OZOR used tool "advdupe2"
+[Thu Feb 12 05:44:40 2026] <STEAM_0:0:85754053> OZOR used tool "advdupe2"
+[Thu Feb 12 05:44:40 2026] <STEAM_0:0:85754053> OZOR used tool "advdupe2"
+[Thu Feb 12 05:44:41 2026] <STEAM_0:0:85754053> OZOR used tool "advdupe2"
+[Thu Feb 12 05:44:41 2026] <STEAM_0:0:85754053> OZOR used tool "advdupe2"
+[Thu Feb 12 05:44:41 2026] <STEAM_0:0:85754053> OZOR used tool "advdupe2"
+[Thu Feb 12 05:44:42 2026] <STEAM_0:0:85754053> OZOR used tool "advdupe2"
+[Thu Feb 12 05:44:42 2026] <STEAM_0:0:85754053> OZOR used tool "advdupe2"
+[Thu Feb 12 05:44:42 2026] <STEAM_0:0:85754053> OZOR used tool "advdupe2"
+[Thu Feb 12 05:44:43 2026] <STEAM_0:0:85754053> OZOR used tool "advdupe2"
+[Thu Feb 12 05:44:43 2026] <STEAM_0:0:85754053> OZOR used tool "advdupe2"
+[Thu Feb 12 05:44:43 2026] <STEAM_0:0:85754053> OZOR used tool "advdupe2"
+[Thu Feb 12 05:44:43 2026] <STEAM_0:0:85754053> OZOR used tool "advdupe2"
+[Thu Feb 12 05:44:43 2026] <STEAM_0:0:85754053> OZOR used tool "advdupe2"
+[Thu Feb 12 05:44:43 2026] <STEAM_0:0:85754053> OZOR used tool "advdupe2"
+[Thu Feb 12 05:44:46 2026] <STEAM_0:0:85754053> OZOR used tool "textscreen"
+[Thu Feb 12 05:44:47 2026] <STEAM_0:0:85754053> OZOR used tool "textscreen"
+[Thu Feb 12 05:44:47 2026] <STEAM_0:0:85754053> OZOR used tool "textscreen"
+[Thu Feb 12 05:44:47 2026] <STEAM_0:0:85754053> OZOR used tool "textscreen"
+[Thu Feb 12 05:44:50 2026] <STEAM_0:0:85754053> OZOR used tool "light"
+[Thu Feb 12 05:44:51 2026] <STEAM_0:0:85754053> OZOR used tool "light"
+[Thu Feb 12 05:44:51 2026] <STEAM_0:0:85754053> OZOR used tool "light"
+[Thu Feb 12 05:44:51 2026] <STEAM_0:0:85754053> OZOR used tool "light"
+[Thu Feb 12 05:44:51 2026] <STEAM_0:0:85754053> OZOR used tool "light"
+[Thu Feb 12 05:44:51 2026] <STEAM_0:0:85754053> OZOR used tool "light"
+[Thu Feb 12 05:44:51 2026] <STEAM_0:0:85754053> OZOR used tool "light"
+[Thu Feb 12 05:44:52 2026] <STEAM_0:0:85754053> OZOR used tool "light"
+[Thu Feb 12 05:44:52 2026] <STEAM_0:0:85754053> OZOR used tool "light"
+[Thu Feb 12 05:44:52 2026] <STEAM_0:0:85754053> OZOR used tool "light"
+[Thu Feb 12 05:44:52 2026] <STEAM_0:0:85754053> OZOR used tool "light"
+[Thu Feb 12 05:44:52 2026] <STEAM_0:0:85754053> OZOR used tool "light"
+[Thu Feb 12 05:44:52 2026] <STEAM_0:0:85754053> OZOR used tool "light"
+[Thu Feb 12 05:44:53 2026] <STEAM_0:0:85754053> OZOR used tool "light"
+[Thu Feb 12 05:44:53 2026] <STEAM_0:0:85754053> OZOR used tool "light"
+[Thu Feb 12 05:44:53 2026] <STEAM_0:0:85754053> OZOR used tool "light"
+[Thu Feb 12 05:44:53 2026] <STEAM_0:0:85754053> OZOR used tool "light"
+[Thu Feb 12 05:44:53 2026] <STEAM_0:0:85754053> OZOR used tool "light"
+[Thu Feb 12 05:45:12 2026] <STEAM_0:0:85754053> OZOR used tool "light"
+[Thu Feb 12 05:45:12 2026] <STEAM_0:0:85754053> OZOR used tool "light"
+[Thu Feb 12 05:45:13 2026] <STEAM_0:0:85754053> OZOR used tool "light"
+[Thu Feb 12 05:45:16 2026] <STEAM_0:0:85754053> OZOR used tool "stacker_improved"
+[Thu Feb 12 05:45:16 2026] <STEAM_0:0:85754053> OZOR used tool "stacker_improved"
+[Thu Feb 12 05:45:16 2026] <STEAM_0:0:85754053> OZOR used tool "stacker_improved"
+[Thu Feb 12 05:45:17 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [700][prop_physics] (models/props_c17/Lockers001a.mdl)"
+[Thu Feb 12 05:45:17 2026] <STEAM_0:0:85754053> OZOR used tool "stacker_improved"
+[Thu Feb 12 05:45:17 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [701][prop_physics] (models/props_c17/lockers001a.mdl)"
+[Thu Feb 12 05:45:18 2026] <STEAM_0:0:85754053> OZOR used tool "stacker_improved"
+[Thu Feb 12 05:45:18 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [702][prop_physics] (models/props_c17/lockers001a.mdl)"
+[Thu Feb 12 05:45:18 2026] <STEAM_0:0:85754053> OZOR used tool "stacker_improved"
+[Thu Feb 12 05:45:19 2026] <STEAM_0:0:85754053> OZOR used tool "stacker_improved"
+[Thu Feb 12 05:45:19 2026] <STEAM_0:0:85754053> OZOR used tool "stacker_improved"
+[Thu Feb 12 05:45:19 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [703][prop_physics] (models/props_c17/lockers001a.mdl)"
+[Thu Feb 12 05:45:19 2026] <STEAM_0:0:85754053> OZOR used tool "stacker_improved"
+[Thu Feb 12 05:45:20 2026] <STEAM_0:0:85754053> OZOR used tool "stacker_improved"
+[Thu Feb 12 05:45:20 2026] <STEAM_0:0:85754053> OZOR used tool "stacker_improved"
+[Thu Feb 12 05:45:20 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [704][prop_physics] (models/props_c17/lockers001a.mdl)"
+[Thu Feb 12 05:45:20 2026] <STEAM_0:0:85754053> OZOR used tool "stacker_improved"
+[Thu Feb 12 05:45:25 2026] <STEAM_0:0:85754053> OZOR used tool "spawn_faction"
+[Thu Feb 12 05:45:26 2026] <STEAM_0:0:85754053> OZOR used tool "spawn_faction"
+[Thu Feb 12 05:45:26 2026] <STEAM_0:0:85754053> OZOR used tool "spawn_faction"
+[Thu Feb 12 05:45:30 2026] <STEAM_0:0:85754053> OZOR used tool "advdupe2"
+[Thu Feb 12 05:45:30 2026] <STEAM_0:0:85754053> OZOR used tool "advdupe2"
+[Thu Feb 12 05:45:30 2026] <STEAM_0:0:85754053> OZOR used tool "advdupe2"
+[Thu Feb 12 05:45:34 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [700][prop_physics] (models/props_c17/FurnitureShelf001a.mdl)"
+[Thu Feb 12 05:45:35 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 05:45:35 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 05:45:37 2026] <STEAM_0:0:85754053> OZOR used tool "colour"
+[Thu Feb 12 05:45:37 2026] <STEAM_0:0:85754053> OZOR used tool "colour"
+[Thu Feb 12 05:45:40 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 05:46:09 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 05:46:52 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 05:47:24 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 05:48:22 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 05:48:58 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 05:49:50 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [700][prop_physics] (models/props_c17/gravestone_statue001a.mdl)"
+[Thu Feb 12 05:49:53 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 05:50:39 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 05:50:56 2026] Player "Bot01" <BOT> has spawned in the server
+[Thu Feb 12 05:51:04 2026] <STEAM_0:0:85754053> OZOR ran command "send Bot01"
+[Thu Feb 12 05:51:07 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 05:51:15 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 05:52:50 2026] <STEAM_0:0:85754053> OZOR ran command "send Bot01"
+[Thu Feb 12 05:53:10 2026] OZOR has killed Bot01.
+[Thu Feb 12 05:53:31 2026] <STEAM_0:0:85754053> OZOR ran command "send Bot01"
+[Thu Feb 12 05:53:32 2026] OZOR has killed Bot01.
+[Thu Feb 12 05:53:35 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 05:54:47 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 05:54:52 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 05:55:44 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 05:57:52 2026] <STEAM_0:0:85754053> OZOR ran command "send Bot01"
+[Thu Feb 12 05:57:54 2026] OZOR has killed Bot01.
+[Thu Feb 12 05:58:00 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 05:59:33 2026] <STEAM_0:0:85754053> OZOR: sadf
+[Thu Feb 12 05:59:34 2026] <STEAM_0:0:85754053> OZOR: dsafad
+[Thu Feb 12 05:59:35 2026] <STEAM_0:0:85754053> OZOR: sadf
+[Thu Feb 12 05:59:38 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 06:00:05 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 06:00:25 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 06:00:45 2026] <STEAM_0:0:85754053> OZOR: /rf asdasd
+[Thu Feb 12 06:00:47 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 06:04:07 2026] <STEAM_0:0:85754053> OZOR ran command "send Bot01"
+[Thu Feb 12 06:04:11 2026] OZOR has killed Bot01.
+[Thu Feb 12 06:04:40 2026] <STEAM_0:0:85754053> OZOR ran command "send Bot01"
+[Thu Feb 12 06:04:42 2026] OZOR has killed Bot01.
+[Thu Feb 12 06:04:46 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 06:05:25 2026] worldspawn has killed OZOR.
+[Thu Feb 12 06:05:35 2026] <STEAM_0:0:85754053> OZOR ran command "respawn Ozor"
+[Thu Feb 12 06:05:38 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 06:10:25 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 06:11:23 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 06:11:30 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 06:25:35 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 06:31:07 2026] <STEAM_0:0:85754053> OZOR ran command "send Bot01"
+[Thu Feb 12 06:31:09 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 06:31:13 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 06:31:23 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 06:31:56 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 06:32:04 2026] <STEAM_0:0:85754053> OZOR ran command "send Bot01"
+[Thu Feb 12 06:32:08 2026] OZOR has killed Bot01.
+[Thu Feb 12 06:33:17 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 06:33:25 2026] <STEAM_0:0:85754053> OZOR ran command "send Bot01"
+[Thu Feb 12 06:33:27 2026] OZOR has killed Bot01.
+[Thu Feb 12 06:34:06 2026] <STEAM_0:0:85754053> OZOR ran command "send Bot01"
+[Thu Feb 12 06:34:25 2026] <STEAM_0:0:85754053> OZOR ran command "send Bot01"
+[Thu Feb 12 06:34:29 2026] <STEAM_0:0:85754053> OZOR ran command "send Bot01"
+[Thu Feb 12 06:34:58 2026] <STEAM_0:0:85754053> OZOR ran command "send Bot01"
+[Thu Feb 12 06:35:11 2026] <STEAM_0:0:85754053> OZOR ran command "send Bot01"
+[Thu Feb 12 06:35:13 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 06:36:13 2026] OZOR has killed Bot01.
+[Thu Feb 12 06:36:21 2026] <STEAM_0:0:85754053> OZOR ran command "respawn Ozor"
+[Thu Feb 12 06:36:25 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 06:37:00 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 06:37:07 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 06:38:45 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 06:38:49 2026] <STEAM_0:0:85754053> OZOR ran command "send Bot01"
+[Thu Feb 12 06:38:51 2026] <STEAM_0:0:85754053> OZOR ran command "send Bot01"
+[Thu Feb 12 06:38:52 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 06:39:17 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 06:39:21 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 06:39:41 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 06:39:59 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 06:40:27 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 06:40:46 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 06:41:15 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 06:44:13 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 06:44:53 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 06:45:35 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 06:46:06 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 06:46:27 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 06:47:55 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 06:48:06 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 06:49:05 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 06:49:49 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 06:49:51 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 06:50:02 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 06:50:20 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 06:50:34 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 06:52:28 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 06:53:07 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 06:53:47 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 06:54:06 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 06:54:38 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 06:54:56 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 06:55:27 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 06:55:45 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 06:56:45 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 06:56:54 2026] <STEAM_0:0:85754053> OZOR ran command "send Bot01"
+[Thu Feb 12 06:56:57 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 06:57:25 2026] OZOR has killed Bot01.
+[Thu Feb 12 06:57:34 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 06:58:01 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 06:58:10 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [703][prop_physics] (models/props_c17/FurnitureDrawer001a_Chunk05.mdl)"
+[Thu Feb 12 06:58:11 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [710][prop_physics] (models/props_c17/FurnitureDrawer001a_Chunk05.mdl)"
+[Thu Feb 12 06:58:11 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [711][prop_physics] (models/props_c17/FurnitureDrawer001a_Chunk05.mdl)"
+[Thu Feb 12 06:58:11 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [712][prop_physics] (models/props_c17/FurnitureDrawer001a_Chunk05.mdl)"
+[Thu Feb 12 06:58:11 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [719][prop_physics] (models/props_c17/FurnitureDrawer001a_Chunk05.mdl)"
+[Thu Feb 12 06:58:11 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [720][prop_physics] (models/props_c17/FurnitureDrawer001a_Chunk05.mdl)"
+[Thu Feb 12 06:58:11 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [721][prop_physics] (models/props_c17/FurnitureDrawer001a_Chunk05.mdl)"
+[Thu Feb 12 06:58:11 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [722][prop_physics] (models/props_c17/FurnitureDrawer001a_Chunk05.mdl)"
+[Thu Feb 12 06:58:11 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [723][prop_physics] (models/props_c17/FurnitureDrawer001a_Chunk05.mdl)"
+[Thu Feb 12 06:58:12 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [724][prop_physics] (models/props_c17/FurnitureDrawer001a_Chunk05.mdl)"
+[Thu Feb 12 06:58:12 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [725][prop_physics] (models/props_c17/FurnitureDrawer001a_Chunk05.mdl)"
+[Thu Feb 12 06:58:12 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [726][prop_physics] (models/props_c17/FurnitureDrawer001a_Chunk05.mdl)"
+[Thu Feb 12 06:58:12 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [727][prop_physics] (models/props_c17/FurnitureDrawer001a_Chunk05.mdl)"
+[Thu Feb 12 06:58:12 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [728][prop_physics] (models/props_c17/FurnitureDrawer001a_Chunk05.mdl)"
+[Thu Feb 12 06:58:12 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [737][prop_physics] (models/props_c17/FurnitureDrawer001a_Chunk05.mdl)"
+[Thu Feb 12 06:58:13 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [738][prop_physics] (models/props_c17/FurnitureDrawer001a_Chunk05.mdl)"
+[Thu Feb 12 06:58:13 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [739][prop_physics] (models/props_c17/FurnitureDrawer001a_Chunk05.mdl)"
+[Thu Feb 12 06:58:14 2026] <STEAM_0:0:85754053> OZOR used tool "colour"
+[Thu Feb 12 06:58:14 2026] <STEAM_0:0:85754053> OZOR used tool "colour"
+[Thu Feb 12 06:58:14 2026] <STEAM_0:0:85754053> OZOR used tool "colour"
+[Thu Feb 12 06:58:15 2026] <STEAM_0:0:85754053> OZOR used tool "colour"
+[Thu Feb 12 06:58:15 2026] <STEAM_0:0:85754053> OZOR used tool "colour"
+[Thu Feb 12 06:58:15 2026] <STEAM_0:0:85754053> OZOR used tool "colour"
+[Thu Feb 12 06:58:15 2026] <STEAM_0:0:85754053> OZOR used tool "colour"
+[Thu Feb 12 06:58:15 2026] <STEAM_0:0:85754053> OZOR used tool "colour"
+[Thu Feb 12 06:58:15 2026] <STEAM_0:0:85754053> OZOR used tool "colour"
+[Thu Feb 12 06:58:16 2026] <STEAM_0:0:85754053> OZOR used tool "colour"
+[Thu Feb 12 06:58:16 2026] <STEAM_0:0:85754053> OZOR used tool "colour"
+[Thu Feb 12 06:58:17 2026] <STEAM_0:0:85754053> OZOR used tool "remover"
+[Thu Feb 12 06:58:17 2026] <STEAM_0:0:85754053> OZOR used tool "remover"
+[Thu Feb 12 06:58:17 2026] <STEAM_0:0:85754053> OZOR used tool "remover"
+[Thu Feb 12 06:58:17 2026] <STEAM_0:0:85754053> OZOR used tool "remover"
+[Thu Feb 12 06:58:18 2026] <STEAM_0:0:85754053> OZOR used tool "remover"
+[Thu Feb 12 06:58:18 2026] <STEAM_0:0:85754053> OZOR used tool "remover"
+[Thu Feb 12 06:58:18 2026] <STEAM_0:0:85754053> OZOR used tool "remover"
+[Thu Feb 12 06:58:18 2026] <STEAM_0:0:85754053> OZOR used tool "remover"
+[Thu Feb 12 06:58:18 2026] <STEAM_0:0:85754053> OZOR used tool "remover"
+[Thu Feb 12 06:58:18 2026] <STEAM_0:0:85754053> OZOR used tool "remover"
+[Thu Feb 12 06:58:19 2026] <STEAM_0:0:85754053> OZOR used tool "remover"
+[Thu Feb 12 06:58:19 2026] <STEAM_0:0:85754053> OZOR used tool "remover"
+[Thu Feb 12 06:58:23 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 06:58:37 2026] <STEAM_0:0:85754053> OZOR: /rf adsasd
+[Thu Feb 12 06:58:38 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 06:59:22 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 06:59:31 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Feb 12 06:59:31 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [697][prop_physics] (models/props_c17/FurnitureDrawer002a.mdl)"
+[Thu Feb 12 06:59:32 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Feb 12 06:59:32 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [701][prop_physics] (models/props_c17/FurnitureDrawer002a.mdl)"
+[Thu Feb 12 06:59:32 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Feb 12 06:59:32 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [703][prop_physics] (models/props_c17/FurnitureDrawer002a.mdl)"
+[Thu Feb 12 06:59:32 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Feb 12 06:59:32 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [708][prop_physics] (models/props_c17/FurnitureDrawer002a.mdl)"
+[Thu Feb 12 06:59:32 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Feb 12 06:59:32 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [710][prop_physics] (models/props_c17/FurnitureDrawer002a.mdl)"
+[Thu Feb 12 06:59:33 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Feb 12 06:59:33 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [711][prop_physics] (models/props_c17/FurnitureDrawer002a.mdl)"
+[Thu Feb 12 06:59:33 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Feb 12 06:59:33 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [712][prop_physics] (models/props_c17/FurnitureDrawer002a.mdl)"
+[Thu Feb 12 06:59:33 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Feb 12 06:59:33 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [714][prop_physics] (models/props_c17/FurnitureDrawer002a.mdl)"
+[Thu Feb 12 06:59:33 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Feb 12 06:59:33 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [715][prop_physics] (models/props_c17/FurnitureDrawer002a.mdl)"
+[Thu Feb 12 06:59:33 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Feb 12 06:59:33 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [716][prop_physics] (models/props_c17/FurnitureDrawer002a.mdl)"
+[Thu Feb 12 06:59:33 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Feb 12 06:59:33 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [717][prop_physics] (models/props_c17/FurnitureDrawer002a.mdl)"
+[Thu Feb 12 06:59:34 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Feb 12 06:59:34 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [718][prop_physics] (models/props_c17/FurnitureDrawer002a.mdl)"
+[Thu Feb 12 06:59:34 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Feb 12 06:59:34 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [719][prop_physics] (models/props_c17/FurnitureDrawer002a.mdl)"
+[Thu Feb 12 06:59:34 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Feb 12 06:59:34 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [720][prop_physics] (models/props_c17/FurnitureDrawer002a.mdl)"
+[Thu Feb 12 06:59:34 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Feb 12 06:59:34 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [721][prop_physics] (models/props_c17/FurnitureDrawer002a.mdl)"
+[Thu Feb 12 06:59:34 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Feb 12 06:59:34 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [722][prop_physics] (models/props_c17/FurnitureDrawer002a.mdl)"
+[Thu Feb 12 06:59:34 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Feb 12 06:59:34 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [723][prop_physics] (models/props_c17/FurnitureDrawer002a.mdl)"
+[Thu Feb 12 06:59:35 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Feb 12 06:59:35 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [724][prop_physics] (models/props_c17/FurnitureDrawer002a.mdl)"
+[Thu Feb 12 06:59:35 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Feb 12 06:59:35 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [725][prop_physics] (models/props_c17/FurnitureDrawer002a.mdl)"
+[Thu Feb 12 06:59:35 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Feb 12 06:59:35 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [726][prop_physics] (models/props_c17/FurnitureDrawer002a.mdl)"
+[Thu Feb 12 06:59:35 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Feb 12 06:59:35 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [727][prop_physics] (models/props_c17/FurnitureDrawer002a.mdl)"
+[Thu Feb 12 06:59:35 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Feb 12 06:59:35 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [728][prop_physics] (models/props_c17/FurnitureDrawer002a.mdl)"
+[Thu Feb 12 06:59:36 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Feb 12 06:59:36 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [729][prop_physics] (models/props_c17/FurnitureDrawer002a.mdl)"
+[Thu Feb 12 06:59:36 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Feb 12 06:59:36 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [730][prop_physics] (models/props_c17/FurnitureDrawer002a.mdl)"
+[Thu Feb 12 06:59:36 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Feb 12 06:59:36 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [731][prop_physics] (models/props_c17/FurnitureDrawer002a.mdl)"
+[Thu Feb 12 06:59:36 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Feb 12 06:59:36 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [732][prop_physics] (models/props_c17/FurnitureDrawer002a.mdl)"
+[Thu Feb 12 06:59:36 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Feb 12 06:59:36 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [733][prop_physics] (models/props_c17/FurnitureDrawer002a.mdl)"
+[Thu Feb 12 06:59:36 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Feb 12 06:59:36 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [734][prop_physics] (models/props_c17/FurnitureDrawer002a.mdl)"
+[Thu Feb 12 06:59:37 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Feb 12 06:59:37 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [735][prop_physics] (models/props_c17/FurnitureDrawer002a.mdl)"
+[Thu Feb 12 06:59:37 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Feb 12 06:59:37 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [736][prop_physics] (models/props_c17/FurnitureDrawer002a.mdl)"
+[Thu Feb 12 06:59:37 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Feb 12 06:59:37 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [737][prop_physics] (models/props_c17/FurnitureDrawer002a.mdl)"
+[Thu Feb 12 06:59:37 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Feb 12 06:59:37 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [738][prop_physics] (models/props_c17/FurnitureDrawer002a.mdl)"
+[Thu Feb 12 06:59:37 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Feb 12 06:59:37 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [746][prop_physics] (models/props_c17/FurnitureDrawer002a.mdl)"
+[Thu Feb 12 06:59:38 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Feb 12 06:59:38 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [747][prop_physics] (models/props_c17/FurnitureDrawer002a.mdl)"
+[Thu Feb 12 06:59:38 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Feb 12 06:59:38 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [756][prop_physics] (models/props_c17/FurnitureDrawer002a.mdl)"
+[Thu Feb 12 06:59:38 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Feb 12 06:59:38 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [757][prop_physics] (models/props_c17/FurnitureDrawer002a.mdl)"
+[Thu Feb 12 06:59:38 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Feb 12 06:59:38 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [758][prop_physics] (models/props_c17/FurnitureDrawer002a.mdl)"
+[Thu Feb 12 06:59:38 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Feb 12 06:59:38 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [759][prop_physics] (models/props_c17/FurnitureDrawer002a.mdl)"
+[Thu Feb 12 06:59:38 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Feb 12 06:59:38 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [760][prop_physics] (models/props_c17/FurnitureDrawer002a.mdl)"
+[Thu Feb 12 06:59:39 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Feb 12 06:59:39 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [761][prop_physics] (models/props_c17/FurnitureDrawer002a.mdl)"
+[Thu Feb 12 06:59:39 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Feb 12 06:59:39 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [762][prop_physics] (models/props_c17/FurnitureDrawer002a.mdl)"
+[Thu Feb 12 06:59:39 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Feb 12 06:59:39 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [763][prop_physics] (models/props_c17/FurnitureDrawer002a.mdl)"
+[Thu Feb 12 06:59:39 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Feb 12 06:59:39 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [764][prop_physics] (models/props_c17/FurnitureDrawer002a.mdl)"
+[Thu Feb 12 06:59:39 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Feb 12 06:59:39 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [765][prop_physics] (models/props_c17/FurnitureDrawer002a.mdl)"
+[Thu Feb 12 06:59:39 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Feb 12 06:59:39 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [766][prop_physics] (models/props_c17/FurnitureDrawer002a.mdl)"
+[Thu Feb 12 06:59:40 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Feb 12 06:59:40 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [767][prop_physics] (models/props_c17/FurnitureDrawer002a.mdl)"
+[Thu Feb 12 06:59:40 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Feb 12 06:59:40 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [768][prop_physics] (models/props_c17/FurnitureDrawer002a.mdl)"
+[Thu Feb 12 06:59:40 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Feb 12 06:59:40 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [769][prop_physics] (models/props_c17/FurnitureDrawer002a.mdl)"
+[Thu Feb 12 06:59:40 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Feb 12 06:59:40 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [770][prop_physics] (models/props_c17/FurnitureDrawer002a.mdl)"
+[Thu Feb 12 06:59:40 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Feb 12 06:59:40 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [771][prop_physics] (models/props_c17/FurnitureDrawer002a.mdl)"
+[Thu Feb 12 06:59:41 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Feb 12 06:59:41 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [772][prop_physics] (models/props_c17/FurnitureDrawer002a.mdl)"
+[Thu Feb 12 06:59:41 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Feb 12 06:59:41 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [773][prop_physics] (models/props_c17/FurnitureDrawer002a.mdl)"
+[Thu Feb 12 06:59:41 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Feb 12 06:59:41 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [774][prop_physics] (models/props_c17/FurnitureDrawer002a.mdl)"
+[Thu Feb 12 06:59:41 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Feb 12 06:59:41 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [775][prop_physics] (models/props_c17/FurnitureDrawer002a.mdl)"
+[Thu Feb 12 06:59:42 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Feb 12 06:59:42 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [776][prop_physics] (models/props_c17/FurnitureDrawer002a.mdl)"
+[Thu Feb 12 06:59:42 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Feb 12 06:59:42 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [777][prop_physics] (models/props_c17/FurnitureDrawer002a.mdl)"
+[Thu Feb 12 06:59:42 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Feb 12 06:59:42 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [778][prop_physics] (models/props_c17/FurnitureDrawer002a.mdl)"
+[Thu Feb 12 06:59:42 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Feb 12 06:59:42 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [779][prop_physics] (models/props_c17/FurnitureDrawer002a.mdl)"
+[Thu Feb 12 06:59:42 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Feb 12 06:59:42 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [780][prop_physics] (models/props_c17/FurnitureDrawer002a.mdl)"
+[Thu Feb 12 06:59:42 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Feb 12 06:59:42 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [781][prop_physics] (models/props_c17/FurnitureDrawer002a.mdl)"
+[Thu Feb 12 06:59:43 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Feb 12 06:59:43 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [782][prop_physics] (models/props_c17/FurnitureDrawer002a.mdl)"
+[Thu Feb 12 06:59:43 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Feb 12 06:59:43 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [783][prop_physics] (models/props_c17/FurnitureDrawer002a.mdl)"
+[Thu Feb 12 06:59:43 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Feb 12 06:59:43 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [784][prop_physics] (models/props_c17/FurnitureDrawer002a.mdl)"
+[Thu Feb 12 06:59:43 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Feb 12 06:59:43 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [785][prop_physics] (models/props_c17/FurnitureDrawer002a.mdl)"
+[Thu Feb 12 06:59:43 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Feb 12 06:59:43 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [786][prop_physics] (models/props_c17/FurnitureDrawer002a.mdl)"
+[Thu Feb 12 06:59:44 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Feb 12 06:59:44 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [787][prop_physics] (models/props_c17/FurnitureDrawer002a.mdl)"
+[Thu Feb 12 06:59:44 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Feb 12 06:59:44 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [788][prop_physics] (models/props_c17/FurnitureDrawer002a.mdl)"
+[Thu Feb 12 06:59:44 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Feb 12 06:59:44 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [789][prop_physics] (models/props_c17/FurnitureDrawer002a.mdl)"
+[Thu Feb 12 06:59:44 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Feb 12 06:59:44 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [790][prop_physics] (models/props_c17/FurnitureDrawer002a.mdl)"
+[Thu Feb 12 06:59:44 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Feb 12 06:59:44 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [791][prop_physics] (models/props_c17/FurnitureDrawer002a.mdl)"
+[Thu Feb 12 06:59:45 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Feb 12 06:59:45 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [792][prop_physics] (models/props_c17/FurnitureDrawer002a.mdl)"
+[Thu Feb 12 06:59:45 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Feb 12 06:59:45 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [793][prop_physics] (models/props_c17/FurnitureDrawer002a.mdl)"
+[Thu Feb 12 06:59:45 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Feb 12 06:59:45 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [794][prop_physics] (models/props_c17/FurnitureDrawer002a.mdl)"
+[Thu Feb 12 06:59:45 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Feb 12 06:59:45 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [795][prop_physics] (models/props_c17/FurnitureDrawer002a.mdl)"
+[Thu Feb 12 06:59:45 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Feb 12 06:59:45 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [796][prop_physics] (models/props_c17/FurnitureDrawer002a.mdl)"
+[Thu Feb 12 06:59:45 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Feb 12 06:59:45 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [797][prop_physics] (models/props_c17/FurnitureDrawer002a.mdl)"
+[Thu Feb 12 06:59:46 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Feb 12 06:59:46 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [798][prop_physics] (models/props_c17/FurnitureDrawer002a.mdl)"
+[Thu Feb 12 06:59:46 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Feb 12 06:59:46 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [799][prop_physics] (models/props_c17/FurnitureDrawer002a.mdl)"
+[Thu Feb 12 06:59:46 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Feb 12 06:59:46 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [800][prop_physics] (models/props_c17/FurnitureDrawer002a.mdl)"
+[Thu Feb 12 06:59:46 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Feb 12 06:59:46 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [801][prop_physics] (models/props_c17/FurnitureDrawer002a.mdl)"
+[Thu Feb 12 06:59:46 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Feb 12 06:59:46 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [802][prop_physics] (models/props_c17/FurnitureDrawer002a.mdl)"
+[Thu Feb 12 06:59:47 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Feb 12 06:59:47 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [803][prop_physics] (models/props_c17/FurnitureDrawer002a.mdl)"
+[Thu Feb 12 06:59:47 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Feb 12 06:59:47 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [804][prop_physics] (models/props_c17/FurnitureDrawer002a.mdl)"
+[Thu Feb 12 06:59:47 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Feb 12 06:59:47 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [805][prop_physics] (models/props_c17/FurnitureDrawer002a.mdl)"
+[Thu Feb 12 06:59:47 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Feb 12 06:59:47 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [806][prop_physics] (models/props_c17/FurnitureDrawer002a.mdl)"
+[Thu Feb 12 06:59:47 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Feb 12 06:59:47 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [807][prop_physics] (models/props_c17/FurnitureDrawer002a.mdl)"
+[Thu Feb 12 06:59:48 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Feb 12 06:59:48 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [808][prop_physics] (models/props_c17/FurnitureDrawer002a.mdl)"
+[Thu Feb 12 06:59:48 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Feb 12 06:59:48 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [809][prop_physics] (models/props_c17/FurnitureDrawer002a.mdl)"
+[Thu Feb 12 06:59:48 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Feb 12 06:59:48 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [810][prop_physics] (models/props_c17/FurnitureDrawer002a.mdl)"
+[Thu Feb 12 06:59:56 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 07:03:56 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 07:04:00 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 07:05:48 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 07:06:06 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 07:06:48 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 07:08:48 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 07:13:35 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 07:14:12 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 07:14:55 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 07:15:49 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 07:17:00 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 07:17:04 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 07:19:18 2026] <STEAM_0:0:85754053> OZOR: /historylogs
+[Thu Feb 12 07:19:39 2026] <STEAM_0:0:85754053> OZOR: /historylogs
+[Thu Feb 12 07:19:45 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 07:20:27 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 07:21:55 2026] <STEAM_0:0:85754053> OZOR: /historylogs damage 2025-03-16
+[Thu Feb 12 07:22:03 2026] <STEAM_0:0:85754053> OZOR: /historylogs damage 2025-03-16
+[Thu Feb 12 07:24:17 2026] <STEAM_0:0:85754053> OZOR: /historylogs damage 2025-03-16
+[Thu Feb 12 07:25:18 2026] <STEAM_0:0:85754053> OZOR: /historylogs damage 2025-03-16
+[Thu Feb 12 07:27:16 2026] <STEAM_0:0:85754053> OZOR: /historylogs damage 2025-03-16
+[Thu Feb 12 07:28:39 2026] <STEAM_0:0:85754053> OZOR: /historylogs damage 2025-03-16
+[Thu Feb 12 07:28:55 2026] <STEAM_0:0:85754053> OZOR: /historylogs damage 2025-03-16
+[Thu Feb 12 07:29:49 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 07:30:46 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 07:32:04 2026] <STEAM_0:0:85754053> OZOR: playerlogs a
+[Thu Feb 12 07:32:06 2026] <STEAM_0:0:85754053> OZOR: /playerlogs as
+[Thu Feb 12 07:32:53 2026] <STEAM_0:0:85754053> OZOR: /playerlogs as
+[Thu Feb 12 07:33:06 2026] <STEAM_0:0:85754053> OZOR: /playerlogs STEAM_0:0:85754053
+[Thu Feb 12 07:37:24 2026] <STEAM_0:0:85754053> OZOR: /playerlogs STEAM_0:0:85754053
+[Thu Feb 12 07:38:21 2026] <STEAM_0:0:85754053> OZOR: /playerlogs STEAM_0:0:85754053
+[Thu Feb 12 07:39:20 2026] <STEAM_0:0:85754053> OZOR: /playerlogs STEAM_0:0:85754053
+[Thu Feb 12 07:40:03 2026] <STEAM_0:0:85754053> OZOR: /playerlogs STEAM_0:0:85754053
+[Thu Feb 12 07:40:23 2026] <STEAM_0:0:85754053> OZOR: /playerlogs STEAM_0:0:85754053
+[Thu Feb 12 07:41:17 2026] <STEAM_0:0:85754053> OZOR: /playerlogs STEAM_0:0:85754053
+[Thu Feb 12 07:43:11 2026] <STEAM_0:0:85754053> OZOR ran command "send Bot01"
+[Thu Feb 12 07:43:19 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [696][lvs_wheeldrive_m3a3]"
+[Thu Feb 12 07:45:01 2026] <STEAM_0:0:85754053> OZOR ran command "send Bot01"
+[Thu Feb 12 07:45:09 2026] <STEAM_0:0:85754053> OZOR ran command "send Bot01"
+[Thu Feb 12 07:45:12 2026] <STEAM_0:0:85754053> OZOR ran command "send Bot01"
+[Thu Feb 12 07:45:16 2026] <STEAM_0:0:85754053> OZOR ran command "send Bot01"
+[Thu Feb 12 07:46:20 2026] <STEAM_0:0:85754053> OZOR ran command "send Bot01"
+[Thu Feb 12 07:53:13 2026] OZOR has killed Bot01.
+[Thu Feb 12 07:53:17 2026] <STEAM_0:0:85754053> OZOR ran command "send Bot01"
+[Thu Feb 12 07:53:25 2026] OZOR has killed Bot01.
+[Thu Feb 12 07:58:52 2026] <STEAM_0:0:85754053> OZOR ran command "send Bot01"
+[Thu Feb 12 07:58:54 2026] <STEAM_0:0:85754053> OZOR ran command "send Bot01"
+[Thu Feb 12 07:59:00 2026] OZOR has killed Bot01.
+[Thu Feb 12 08:00:01 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [696][prop_physics] (models/props_borealis/door_wheel001a.mdl)"
+[Thu Feb 12 08:00:10 2026] <STEAM_0:0:85754053> OZOR ran command "send Bot01"
+[Thu Feb 12 08:00:54 2026] <STEAM_0:0:85754053> OZOR: /playerlogs STEAM_0:0:85754053
+[Thu Feb 12 08:01:11 2026] <STEAM_0:0:85754053> OZOR ran command "send Bot01"
+[Thu Feb 12 08:01:13 2026] <STEAM_0:0:85754053> OZOR: /playerlogs STEAM_0:0:85754053
+[Thu Feb 12 08:01:17 2026] <STEAM_0:0:85754053> OZOR: /playerlogs STEAM_0:0:85754053
+[Thu Feb 12 08:01:27 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 08:02:08 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 08:02:17 2026] <STEAM_0:0:85754053> OZOR: /playerlogs STEAM_0:0:85754053
+[Thu Feb 12 08:02:36 2026] <STEAM_0:0:85754053> OZOR: /playerlogs STEAM_0:0:85754053
+[Thu Feb 12 08:03:23 2026] <STEAM_0:0:85754053> OZOR: /playerlogs STEAM_0:0:85754053
+[Thu Feb 12 08:03:28 2026] <STEAM_0:0:85754053> OZOR: /playerlogs STEAM_0:0:85754053
+[Thu Feb 12 08:03:45 2026] <STEAM_0:0:85754053> OZOR: /playerlogs STEAM_0:0:85754053
+[Thu Feb 12 08:04:30 2026] <STEAM_0:0:85754053> OZOR: /playerlogs STEAM_0:0:85754053
+[Thu Feb 12 08:04:54 2026] <STEAM_0:0:85754053> OZOR: /playerlogs STEAM_0:0:85754053
+[Thu Feb 12 08:05:15 2026] <STEAM_0:0:85754053> OZOR: /playerlogs STEAM_0:0:85754053
+[Thu Feb 12 08:05:20 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [694][prop_physics] (models/props_c17/gate_door01a.mdl)"
+[Thu Feb 12 08:05:20 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [698][prop_physics] (models/props_c17/gate_door01a.mdl)"
+[Thu Feb 12 08:05:20 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [700][prop_physics] (models/props_c17/gate_door01a.mdl)"
+[Thu Feb 12 08:05:20 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [703][prop_physics] (models/props_c17/gate_door01a.mdl)"
+[Thu Feb 12 08:05:21 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [707][prop_physics] (models/props_c17/gate_door01a.mdl)"
+[Thu Feb 12 08:05:21 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [708][prop_physics] (models/props_c17/gate_door01a.mdl)"
+[Thu Feb 12 08:05:22 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Feb 12 08:05:22 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [709][prop_physics] (models/props_c17/gate_door02a.mdl)"
+[Thu Feb 12 08:05:23 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Feb 12 08:05:23 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [720][prop_physics] (models/props_c17/gate_door02a.mdl)"
+[Thu Feb 12 08:05:23 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Feb 12 08:05:23 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [721][prop_physics] (models/props_c17/gate_door02a.mdl)"
+[Thu Feb 12 08:05:23 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Feb 12 08:05:23 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [722][prop_physics] (models/props_c17/gate_door02a.mdl)"
+[Thu Feb 12 08:05:23 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Feb 12 08:05:23 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [723][prop_physics] (models/props_c17/gate_door02a.mdl)"
+[Thu Feb 12 08:05:23 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Feb 12 08:05:23 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [724][prop_physics] (models/props_c17/gate_door02a.mdl)"
+[Thu Feb 12 08:05:27 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 08:05:27 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 08:05:28 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 08:05:28 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 08:05:28 2026] <STEAM_0:0:85754053> OZOR used tool "material"
+[Thu Feb 12 08:05:29 2026] <STEAM_0:0:85754053> OZOR used tool "remover"
+[Thu Feb 12 08:05:29 2026] <STEAM_0:0:85754053> OZOR used tool "remover"
+[Thu Feb 12 08:05:29 2026] <STEAM_0:0:85754053> OZOR used tool "remover"
+[Thu Feb 12 08:05:30 2026] <STEAM_0:0:85754053> OZOR used tool "remover"
+[Thu Feb 12 08:05:30 2026] <STEAM_0:0:85754053> OZOR used tool "remover"
+[Thu Feb 12 08:05:30 2026] <STEAM_0:0:85754053> OZOR used tool "remover"
+[Thu Feb 12 08:05:30 2026] <STEAM_0:0:85754053> OZOR used tool "remover"
+[Thu Feb 12 08:05:30 2026] <STEAM_0:0:85754053> OZOR used tool "remover"
+[Thu Feb 12 08:05:30 2026] <STEAM_0:0:85754053> OZOR used tool "remover"
+[Thu Feb 12 08:05:31 2026] <STEAM_0:0:85754053> OZOR used tool "remover"
+[Thu Feb 12 08:05:31 2026] <STEAM_0:0:85754053> OZOR used tool "remover"
+[Thu Feb 12 08:05:31 2026] <STEAM_0:0:85754053> OZOR used tool "remover"
+[Thu Feb 12 08:05:31 2026] <STEAM_0:0:85754053> OZOR used tool "remover"
+[Thu Feb 12 08:05:31 2026] <STEAM_0:0:85754053> OZOR used tool "remover"
+[Thu Feb 12 08:05:32 2026] <STEAM_0:0:85754053> OZOR used tool "remover"
+[Thu Feb 12 08:05:32 2026] <STEAM_0:0:85754053> OZOR used tool "remover"
+[Thu Feb 12 08:05:32 2026] <STEAM_0:0:85754053> OZOR used tool "remover"
+[Thu Feb 12 08:05:32 2026] <STEAM_0:0:85754053> OZOR used tool "remover"
+[Thu Feb 12 08:05:32 2026] <STEAM_0:0:85754053> OZOR used tool "remover"
+[Thu Feb 12 08:05:32 2026] <STEAM_0:0:85754053> OZOR used tool "remover"
+[Thu Feb 12 08:05:33 2026] <STEAM_0:0:85754053> OZOR used tool "remover"
+[Thu Feb 12 08:05:33 2026] <STEAM_0:0:85754053> OZOR used tool "remover"
+[Thu Feb 12 08:05:33 2026] <STEAM_0:0:85754053> OZOR used tool "remover"
+[Thu Feb 12 08:05:33 2026] <STEAM_0:0:85754053> OZOR used tool "remover"
+[Thu Feb 12 08:05:33 2026] <STEAM_0:0:85754053> OZOR used tool "remover"
+[Thu Feb 12 08:05:33 2026] <STEAM_0:0:85754053> OZOR used tool "remover"
+[Thu Feb 12 08:05:34 2026] <STEAM_0:0:85754053> OZOR used tool "remover"
+[Thu Feb 12 08:05:34 2026] <STEAM_0:0:85754053> OZOR used tool "remover"
+[Thu Feb 12 08:05:34 2026] <STEAM_0:0:85754053> OZOR used tool "remover"
+[Thu Feb 12 08:05:34 2026] <STEAM_0:0:85754053> OZOR used tool "remover"
+[Thu Feb 12 08:05:35 2026] <STEAM_0:0:85754053> OZOR used tool "remover"
+[Thu Feb 12 08:05:35 2026] <STEAM_0:0:85754053> OZOR used tool "remover"
+[Thu Feb 12 08:05:35 2026] <STEAM_0:0:85754053> OZOR used tool "remover"
+[Thu Feb 12 08:05:35 2026] <STEAM_0:0:85754053> OZOR used tool "remover"
+[Thu Feb 12 08:05:35 2026] <STEAM_0:0:85754053> OZOR used tool "remover"
+[Thu Feb 12 08:05:36 2026] <STEAM_0:0:85754053> OZOR used tool "remover"
+[Thu Feb 12 08:05:36 2026] <STEAM_0:0:85754053> OZOR used tool "remover"
+[Thu Feb 12 08:05:36 2026] <STEAM_0:0:85754053> OZOR used tool "remover"
+[Thu Feb 12 08:05:36 2026] <STEAM_0:0:85754053> OZOR used tool "remover"
+[Thu Feb 12 08:05:36 2026] <STEAM_0:0:85754053> OZOR used tool "remover"
+[Thu Feb 12 08:05:37 2026] <STEAM_0:0:85754053> OZOR used tool "remover"
+[Thu Feb 12 08:05:37 2026] <STEAM_0:0:85754053> OZOR used tool "remover"
+[Thu Feb 12 08:05:37 2026] <STEAM_0:0:85754053> OZOR used tool "remover"
+[Thu Feb 12 08:05:37 2026] <STEAM_0:0:85754053> OZOR used tool "remover"
+[Thu Feb 12 08:05:39 2026] <STEAM_0:0:85754053> OZOR: /playerlogs STEAM_0:0:85754053
+[Thu Feb 12 08:05:52 2026] <STEAM_0:0:85754053> OZOR ran command "send Bot01"
+[Thu Feb 12 08:05:57 2026] <STEAM_0:0:85754053> OZOR ran command "hp Bot01 213"
+[Thu Feb 12 08:06:02 2026] <STEAM_0:0:85754053> OZOR: /playerlogs STEAM_0:0:85754053
+[Thu Feb 12 08:06:09 2026] OZOR has killed Bot01.
+[Thu Feb 12 08:06:14 2026] worldspawn has killed OZOR.
+[Thu Feb 12 08:06:21 2026] <STEAM_0:0:85754053> OZOR ran command "respawn Ozor"
+[Thu Feb 12 08:06:27 2026] <STEAM_0:0:85754053> OZOR: /playerlogs STEAM_0:0:85754053
+[Thu Feb 12 08:07:59 2026] <STEAM_0:0:85754053> OZOR: /playerlogs STEAM_0:0:85754053
+[Thu Feb 12 08:10:13 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 08:10:26 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 08:11:19 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 08:11:48 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 08:12:20 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 08:12:56 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 08:13:16 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 08:14:39 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 08:17:56 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 08:17:58 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 08:19:06 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 08:19:50 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 08:20:51 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 08:22:16 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 08:23:59 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 08:26:09 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 08:26:49 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 08:27:32 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 08:27:57 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 08:29:37 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 08:31:16 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 08:32:07 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 08:32:51 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 08:33:15 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 08:33:41 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 08:33:47 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 08:34:10 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 08:34:15 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 08:35:53 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 08:36:39 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 08:48:15 2026] <STEAM_0:0:85754053> OZOR: /logs
+[Thu Feb 12 09:12:56 2026] Player "OZOR" <STEAM_0:0:85754053> has left the server
+[Thu Feb 12 09:12:56 2026] Player "Bot01" <BOT> has left the server
+[Thu Feb 12 13:59:44 2026] Player "silard87" <STEAM_0:1:414630400> is attempting to connect.
+[Thu Feb 12 14:00:18 2026] Player "silard87" <STEAM_0:1:414630400> has spawned in the server
+[Thu Feb 12 14:21:35 2026] Player "silard87" <STEAM_0:1:414630400> has left the server
+[Thu Feb 12 15:21:11 2026] Player "новеньки" <STEAM_0:1:196569949> is attempting to connect.
+[Thu Feb 12 15:22:42 2026] Player "новеньки" <STEAM_0:1:196569949> has spawned in the server
+[Thu Feb 12 15:29:08 2026] <STEAM_0:1:196569949> новеньки: /name 2325423
+[Thu Feb 12 15:29:32 2026] <STEAM_0:1:196569949> новеньки: /invholster
+[Thu Feb 12 15:29:32 2026] <STEAM_0:1:196569949> новеньки: /invholster
+[Thu Feb 12 15:31:36 2026] <STEAM_0:1:196569949> новеньки: /advert 1
+[Thu Feb 12 15:31:39 2026] <STEAM_0:1:196569949> новеньки: /nato 1
+[Thu Feb 12 15:31:44 2026] <STEAM_0:1:196569949> новеньки: /rf 1
+[Thu Feb 12 15:32:01 2026] <STEAM_0:1:196569949> новеньки: /me отдал честь
+[Thu Feb 12 15:32:02 2026] <STEAM_0:1:196569949> новеньки: /buyammo smg1
+[Thu Feb 12 15:32:02 2026] <STEAM_0:1:196569949> новеньки: /buyammo smg1
+[Thu Feb 12 15:32:04 2026] <STEAM_0:1:196569949> новеньки: /me показал военный билет - 56-я оМПБр | Соколов М.А | РКТ | Стрелок |
+[Thu Feb 12 15:32:12 2026] <STEAM_0:1:196569949> новеньки: /me исполнил воинское приветствие
+[Thu Feb 12 15:32:14 2026] <STEAM_0:1:196569949> новеньки: /ad [RP] Поставил роспись за вооружения.
+[Thu Feb 12 15:32:14 2026] <STEAM_0:1:196569949> новеньки: /ad [RP] Поставил роспись за вооружения.
+[Thu Feb 12 15:32:22 2026] <STEAM_0:1:196569949> новеньки: /me показал докумнеты [Саризам Петров][5420][Ефрейтор][ЦСН ФСБ][10.09.1998]
+[Thu Feb 12 15:38:20 2026] <STEAM_0:1:196569949> новеньки: /me показал докумнеты [Саризам Петров][5420][Ефрейтор][ЦСН ФСБ][10.09.1998]
+[Thu Feb 12 15:57:38 2026] Player "Fox" <STEAM_0:0:811735659> is attempting to connect.
+[Thu Feb 12 15:58:45 2026] Player "Fox" <STEAM_0:0:811735659> has spawned in the server
+[Thu Feb 12 16:00:06 2026] Player "Fox" <STEAM_0:0:811735659> has left the server
+[Thu Feb 12 16:00:10 2026] Player "Fox" <STEAM_0:0:811735659> is attempting to connect.
+[Thu Feb 12 16:00:47 2026] Player "Fox" <STEAM_0:0:811735659> has spawned in the server
+[Thu Feb 12 16:05:17 2026] новеньки has killed Fox.
+[Thu Feb 12 16:09:57 2026] новеньки has killed Fox.
+[Thu Feb 12 16:10:18 2026] Player "Fox" <STEAM_0:0:811735659> has left the server
+[Thu Feb 12 16:15:53 2026] новеньки has killed новеньки.
+[Thu Feb 12 16:15:57 2026] Player "новеньки" <STEAM_0:1:196569949> has left the server
+[Thu Feb 12 16:16:39 2026] Player "silard87" <STEAM_0:1:414630400> is attempting to connect.
+[Thu Feb 12 17:00:56 2026] Player "Discar" <STEAM_0:0:650470378> is attempting to connect.
+[Thu Feb 12 17:01:44 2026] Player "Discar" <STEAM_0:0:650470378> has spawned in the server
+[Thu Feb 12 17:14:55 2026] Player "Discar" <STEAM_0:0:650470378> has left the server
+[Thu Feb 12 18:27:53 2026] Player "silard87" <STEAM_0:1:414630400> is attempting to connect.
+[Thu Feb 12 18:28:25 2026] Player "silard87" <STEAM_0:1:414630400> has spawned in the server
+[Thu Feb 12 18:29:06 2026] Player "silard87" <STEAM_0:1:414630400> has left the server
+[Thu Feb 12 19:18:42 2026] Player "Zhenechka" <STEAM_0:0:114787793> is attempting to connect.
+[Thu Feb 12 19:20:23 2026] Player "Zhenechka" <STEAM_0:0:114787793> has spawned in the server
+[Thu Feb 12 19:41:13 2026] Player "Zhenechka" <STEAM_0:0:114787793> has left the server
+[Thu Feb 12 20:01:28 2026] Player "gREG4IK" <STEAM_0:1:455594560> is attempting to connect.
+[Thu Feb 12 20:02:46 2026] Player "gREG4IK" <STEAM_0:1:455594560> has spawned in the server
+[Thu Feb 12 20:03:46 2026] <STEAM_0:1:455594560> gREG4IK: /logs
+[Thu Feb 12 20:04:31 2026] <STEAM_0:1:455594560> gREG4IK: Маретта(STEAM_0:1:196569949) использовал rf: rf | 1
+[Thu Feb 12 20:06:16 2026] Player "impotent" <STEAM_0:1:425612974> is attempting to connect.
+[Thu Feb 12 20:07:59 2026] Player "impotent" <STEAM_0:1:425612974> has spawned in the server
+[Thu Feb 12 20:09:39 2026] Player "༒︎シ︎ʰᵉⁿᵗᵃⁱシ" <STEAM_0:0:851601344> is attempting to connect.
+[Thu Feb 12 20:10:34 2026] <STEAM_0:1:425612974> impotent: /ooc егор
+[Thu Feb 12 20:12:02 2026] <STEAM_0:1:425612974> impotent: /ooc егор
+[Thu Feb 12 20:14:55 2026] <STEAM_0:1:425612974> impotent: э
+[Thu Feb 12 20:16:01 2026] <STEAM_0:1:455594560> gREG4IK: /ooc да
+[Thu Feb 12 20:18:53 2026] <STEAM_0:1:455594560> gREG4IK ran command "spectate RCT Montgomery"
+[Thu Feb 12 20:19:38 2026] <STEAM_0:1:455594560> gREG4IK ran command "goto RCT Montgomery"
+[Thu Feb 12 20:21:40 2026] Player "༒︎シ︎ʰᵉⁿᵗᵃⁱシ" <STEAM_0:0:851601344> has spawned in the server
+[Thu Feb 12 20:24:15 2026] Player "༒︎シ︎ʰᵉⁿᵗᵃⁱシ" <STEAM_0:0:851601344> has left the server
+[Thu Feb 12 20:26:00 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [738][tfa_ins2_norinco_qbz97]"
+[Thu Feb 12 20:26:00 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [748][tfa_ins2_norinco_qbz97]"
+[Thu Feb 12 20:26:01 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [749][tfa_ins2_norinco_qbz97]"
+[Thu Feb 12 20:26:01 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [750][tfa_ins2_norinco_qbz97]"
+[Thu Feb 12 20:26:03 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [738][tfa_ins2_norinco_qbz97]"
+[Thu Feb 12 20:26:04 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [749][tfa_ins2_norinco_qbz97]"
+[Thu Feb 12 20:26:16 2026] Player "༒︎シ︎ʰᵉⁿᵗᵃⁱシ" <STEAM_0:0:851601344> is attempting to connect.
+[Thu Feb 12 20:27:41 2026] impotent has killed gREG4IK.
+[Thu Feb 12 20:28:04 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [701][item_healthvial]"
+[Thu Feb 12 20:28:04 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [750][item_healthkit]"
+[Thu Feb 12 20:28:05 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [701][item_battery]"
+[Thu Feb 12 20:28:05 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [752][item_healthkit]"
+[Thu Feb 12 20:28:06 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [701][item_healthkit]"
+[Thu Feb 12 20:28:07 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [750][item_battery]"
+[Thu Feb 12 20:28:07 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [752][item_battery]"
+[Thu Feb 12 20:28:07 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [701][item_battery]"
+[Thu Feb 12 20:28:07 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [753][item_battery]"
+[Thu Feb 12 20:28:08 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [754][item_battery]"
+[Thu Feb 12 20:28:08 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [755][item_battery]"
+[Thu Feb 12 20:28:08 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [756][item_battery]"
+[Thu Feb 12 20:28:08 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [757][item_battery]"
+[Thu Feb 12 20:28:12 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [701][item_healthkit]"
+[Thu Feb 12 20:28:17 2026] gREG4IK has killed impotent.
+[Thu Feb 12 20:28:25 2026] gREG4IK has killed impotent.
+[Thu Feb 12 20:30:14 2026] impotent has killed gREG4IK.
+[Thu Feb 12 20:30:26 2026] impotent has killed gREG4IK.
+[Thu Feb 12 20:30:38 2026] <STEAM_0:1:425612974> impotent: ща я приду
+[Thu Feb 12 20:30:49 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [753][item_healthkit]"
+[Thu Feb 12 20:30:49 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [755][item_healthkit]"
+[Thu Feb 12 20:30:50 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [756][item_healthkit]"
+[Thu Feb 12 20:30:50 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [757][item_healthkit]"
+[Thu Feb 12 20:30:50 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [758][item_healthkit]"
+[Thu Feb 12 20:30:50 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [759][item_healthkit]"
+[Thu Feb 12 20:30:50 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [753][item_battery]"
+[Thu Feb 12 20:30:51 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [755][item_battery]"
+[Thu Feb 12 20:30:51 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [756][item_battery]"
+[Thu Feb 12 20:30:51 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [757][item_battery]"
+[Thu Feb 12 20:30:51 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [760][item_battery]"
+[Thu Feb 12 20:30:51 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [761][item_battery]"
+[Thu Feb 12 20:30:51 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [762][item_battery]"
+[Thu Feb 12 20:30:51 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [763][item_battery]"
+[Thu Feb 12 20:30:52 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [753][item_battery]"
+[Thu Feb 12 20:35:45 2026] Player "༒︎シ︎ʰᵉⁿᵗᵃⁱシ" <STEAM_0:0:851601344> is attempting to connect.
+[Thu Feb 12 20:37:08 2026] Player "༒︎シ︎ʰᵉⁿᵗᵃⁱシ" <STEAM_0:0:851601344> has spawned in the server
+[Thu Feb 12 20:37:52 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: окак
+[Thu Feb 12 20:37:54 2026] gREG4IK has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Thu Feb 12 20:38:05 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // гомери ты где
+[Thu Feb 12 20:38:25 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [753][tfa_ins2_ak12]"
+[Thu Feb 12 20:38:25 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [762][tfa_ins2_ak12]"
+[Thu Feb 12 20:38:26 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [764][tfa_ins2_ak12]"
+[Thu Feb 12 20:38:55 2026] <STEAM_0:1:425612974> impotent: /ooc да, я тут
+[Thu Feb 12 20:39:07 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // ты на базе?
+[Thu Feb 12 20:39:16 2026] <STEAM_0:1:425612974> impotent: /ooc ага
+[Thu Feb 12 20:39:22 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: сек выдам
+[Thu Feb 12 20:39:27 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: лейтенанта
+[Thu Feb 12 20:39:48 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: всё
+[Thu Feb 12 20:39:51 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: ник изменю
+[Thu Feb 12 20:40:10 2026] <STEAM_0:1:425612974> impotent: /ooc грег щас же пизды получишь
+[Thu Feb 12 20:40:21 2026] <STEAM_0:1:455594560> gREG4IK: /OOC АГА
+[Thu Feb 12 20:40:24 2026] <STEAM_0:1:455594560> gREG4IK: // AGA
+[Thu Feb 12 20:41:59 2026] Player "༒︎シ︎ʰᵉⁿᵗᵃⁱシ" <STEAM_0:0:851601344> has left the server
+[Thu Feb 12 20:43:33 2026] impotent has killed gREG4IK.
+[Thu Feb 12 20:43:52 2026] <STEAM_0:1:455594560> gREG4IK ran command "respawn ^"
+[Thu Feb 12 20:45:02 2026] <STEAM_0:1:425612974> impotent: /ooc грег, ты Evergarden обидел?
+[Thu Feb 12 20:45:29 2026] <STEAM_0:1:425612974> impotent: /ooc он ливнул с игры и в дс написал, что уходит псж навсегда
+[Thu Feb 12 20:46:59 2026] Player "Zhenechka" <STEAM_0:0:114787793> is attempting to connect.
+[Thu Feb 12 20:48:23 2026] Player "Zhenechka" <STEAM_0:0:114787793> has spawned in the server
+[Thu Feb 12 20:52:08 2026] <STEAM_0:1:425612974> impotent: !
+[Thu Feb 12 20:52:12 2026] <STEAM_0:1:425612974> impotent: !wl
+[Thu Feb 12 20:52:14 2026] <STEAM_0:1:425612974> impotent: !wk
+[Thu Feb 12 20:53:31 2026] <STEAM_0:1:425612974> impotent: /ooc Людей бы
+[Thu Feb 12 20:53:37 2026] <STEAM_0:1:455594560> gREG4IK: я сделал
+[Thu Feb 12 20:53:53 2026] <STEAM_0:1:455594560> gREG4IK: я сделал каждому подразделению Командира
+[Thu Feb 12 21:00:15 2026] <STEAM_0:1:455594560> gREG4IK ran command "menu"
+[Thu Feb 12 21:01:38 2026] Player "ТАГИЛЛА" <STEAM_0:1:782845482> is attempting to connect.
+[Thu Feb 12 21:05:08 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [696][sw_bomb_ao1_v3]"
+[Thu Feb 12 21:05:09 2026] Zhenechka has killed Zhenechka.
+[Thu Feb 12 21:05:26 2026] Player "ТАГИЛЛА" <STEAM_0:1:782845482> has spawned in the server
+[Thu Feb 12 21:06:56 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [695][npc_combine_s]"
+[Thu Feb 12 21:06:57 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [736][npc_combine_s]"
+[Thu Feb 12 21:06:59 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [734][npc_combine_s]"
+[Thu Feb 12 21:07:03 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [751][npc_combine_s]"
+[Thu Feb 12 21:07:04 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [755][npc_combine_s]"
+[Thu Feb 12 21:08:11 2026] impotent has killed Zhenechka.
+[Thu Feb 12 21:08:50 2026] impotent has killed Zhenechka.
+[Thu Feb 12 21:09:29 2026] Zhenechka has killed Zhenechka.
+[Thu Feb 12 21:11:26 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [729][sw_gaz2330]"
+[Thu Feb 12 21:11:50 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [862][lvs_wheeldrive_dabrams_m1a1]"
+[Thu Feb 12 21:12:00 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [1072][lvs_wheeldrive_nonrp_t90m]"
+[Thu Feb 12 21:12:07 2026] impotent has killed ТАГИЛЛА.
+[Thu Feb 12 21:12:21 2026] Player "Zhenechka" <STEAM_0:0:114787793> is attempting to connect.
+[Thu Feb 12 21:12:21 2026] Player "Zhenechka" <STEAM_0:0:114787793> has left the server
+[Thu Feb 12 21:12:24 2026] impotent has killed ТАГИЛЛА.
+[Thu Feb 12 21:13:15 2026] Player "Zhenechka" <STEAM_0:0:114787793> is attempting to connect.
+[Thu Feb 12 21:13:30 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Feb 12 21:13:30 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [691][sw_rocket_4k40_v3]"
+[Thu Feb 12 21:13:37 2026] ТАГИЛЛА has killed impotent.
+[Thu Feb 12 21:13:41 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Feb 12 21:13:41 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [691][sw_rocket_4k40_v3]"
+[Thu Feb 12 21:13:41 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Feb 12 21:13:41 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [701][sw_rocket_4k40_v3]"
+[Thu Feb 12 21:13:42 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Feb 12 21:13:42 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [721][sw_rocket_4k40_v3]"
+[Thu Feb 12 21:13:42 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Feb 12 21:13:42 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [722][sw_rocket_4k40_v3]"
+[Thu Feb 12 21:13:42 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Feb 12 21:13:42 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [724][sw_rocket_4k40_v3]"
+[Thu Feb 12 21:13:42 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Feb 12 21:13:42 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [725][sw_rocket_4k40_v3]"
+[Thu Feb 12 21:13:42 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Feb 12 21:13:42 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [726][sw_rocket_4k40_v3]"
+[Thu Feb 12 21:13:43 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Feb 12 21:13:43 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [727][sw_rocket_4k40_v3]"
+[Thu Feb 12 21:13:51 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Feb 12 21:13:51 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [701][sw_rocket_4k40_v3]"
+[Thu Feb 12 21:13:51 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Feb 12 21:13:51 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [721][sw_rocket_4k40_v3]"
+[Thu Feb 12 21:14:04 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Feb 12 21:14:04 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [691][sw_rocket_4k40_v3]"
+[Thu Feb 12 21:14:05 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Feb 12 21:14:05 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [701][sw_rocket_4k40_v3]"
+[Thu Feb 12 21:14:06 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Feb 12 21:14:06 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [721][sw_rocket_4k40_v3]"
+[Thu Feb 12 21:14:17 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Feb 12 21:14:17 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [701][sw_rocket_4k40_v3]"
+[Thu Feb 12 21:14:52 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [736][sw_rocket_9m14_v3]"
+[Thu Feb 12 21:15:01 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [736][sw_airdrop_v3]"
+[Thu Feb 12 21:15:18 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Thu Feb 12 21:15:18 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [701][sw_airdrop_v3]"
+[Thu Feb 12 21:15:27 2026] Player "ТАГИЛЛА" <STEAM_0:1:782845482> has left the server
+[Thu Feb 12 21:15:40 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [695][sent_vj_ply_healthkit]"
+[Thu Feb 12 21:15:52 2026] Player "ТАГИЛЛА" <STEAM_0:1:782845482> is attempting to connect.
+[Thu Feb 12 21:18:09 2026] <STEAM_0:1:455594560> gREG4IK spawned ragdoll "Entity [695][prop_ragdoll] (models/bloocobalt/science/jarmy_08.mdl)"
+[Thu Feb 12 21:18:15 2026] <STEAM_0:1:455594560> gREG4IK spawned ragdoll "Entity [696][prop_ragdoll] (models/bloocobalt/science/jarmy_09.mdl)"
+[Thu Feb 12 21:18:41 2026] Player "Zhenechka" <STEAM_0:0:114787793> is attempting to connect.
+[Thu Feb 12 21:19:27 2026] Player "Zhenechka" <STEAM_0:0:114787793> has spawned in the server
+[Thu Feb 12 21:20:23 2026] Player "ТАГИЛЛА" <STEAM_0:1:782845482> has spawned in the server
+[Thu Feb 12 21:21:20 2026] <STEAM_0:1:455594560> gREG4IK ran command "send Gen. Morgan"
+[Thu Feb 12 21:21:30 2026] <STEAM_0:1:455594560> gREG4IK: steamid_menu
+[Thu Feb 12 21:22:21 2026] <STEAM_0:0:114787793> Zhenechka used tool "camera"
+[Thu Feb 12 21:22:29 2026] <STEAM_0:1:455594560> gREG4IK used tool "camera"
+[Thu Feb 12 21:22:30 2026] <STEAM_0:1:455594560> gREG4IK used tool "camera"
+[Thu Feb 12 21:22:30 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // ЧТО С ПИНГОМ БЛЯТЬ
+[Thu Feb 12 21:22:54 2026] Player "ТАГИЛЛА" <STEAM_0:1:782845482> has left the server
+[Thu Feb 12 21:22:55 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [802][bodygroup]"
+[Thu Feb 12 21:22:57 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [699][bodygroup]"
+[Thu Feb 12 21:23:04 2026] <STEAM_0:1:455594560> gREG4IK used tool "permaprops"
+[Thu Feb 12 21:23:13 2026] <STEAM_0:1:455594560> gREG4IK spawned ragdoll "Entity [699][prop_ragdoll] (models/bloocobalt/science/jnavy_09.mdl)"
+[Thu Feb 12 21:23:15 2026] <STEAM_0:1:455594560> gREG4IK spawned ragdoll "Entity [739][prop_ragdoll] (models/bloocobalt/science/jusaf_06.mdl)"
+[Thu Feb 12 21:23:26 2026] <STEAM_0:1:455594560> gREG4IK spawned ragdoll "Entity [699][prop_ragdoll] (models/bloocobalt/science/jusmc_07.mdl)"
+[Thu Feb 12 21:24:25 2026] <STEAM_0:1:455594560> gREG4IK spawned ragdoll "Entity [699][prop_ragdoll] (models/player/ppap/podpolovnik.mdl)"
+[Thu Feb 12 21:25:19 2026] gREG4IK has killed Zhenechka.
+[Thu Feb 12 21:27:20 2026] Player "gREG4IK" <STEAM_0:1:455594560> is attempting to connect.
+[Thu Feb 12 21:27:56 2026] Player "gREG4IK" <STEAM_0:1:455594560> has spawned in the server
+[Thu Feb 12 21:28:19 2026] Player "impotent" <STEAM_0:1:425612974> is attempting to connect.
+[Thu Feb 12 21:28:53 2026] Player "impotent" <STEAM_0:1:425612974> has spawned in the server
+[Thu Feb 12 21:29:55 2026] Player "Zhenechka" <STEAM_0:0:114787793> is attempting to connect.
+[Thu Feb 12 21:30:39 2026] Player "Zhenechka" <STEAM_0:0:114787793> has spawned in the server
+[Thu Feb 12 21:36:37 2026] <STEAM_0:1:425612974> impotent: g
+[Thu Feb 12 21:38:21 2026] <STEAM_0:1:425612974> impotent: <snake:0.5> ППППП
+[Thu Feb 12 21:38:41 2026] <STEAM_0:1:425612974> impotent: <shake:0.5>
+[Thu Feb 12 21:38:51 2026] <STEAM_0:1:425612974> impotent: <shake:0.5> 555555
+[Thu Feb 12 21:40:41 2026] worldspawn has killed Zhenechka.
+[Thu Feb 12 21:40:47 2026] Player "Zhenechka" <STEAM_0:0:114787793> has left the server
+[Thu Feb 12 21:42:34 2026] Player "impotent" <STEAM_0:1:425612974> has left the server
+[Thu Feb 12 22:25:40 2026] Player "gREG4IK" <STEAM_0:1:455594560> has left the server
+[Thu Feb 12 22:32:36 2026] Player "ТАГИЛЛА" <STEAM_0:1:782845482> is attempting to connect.
+[Thu Feb 12 22:36:17 2026] Player "ТАГИЛЛА" <STEAM_0:1:782845482> has spawned in the server
+[Thu Feb 12 22:48:12 2026] Player "ТАГИЛЛА" <STEAM_0:1:782845482> has left the server

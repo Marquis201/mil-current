@@ -1,0 +1,7 @@
+[Tue May  5 00:53:29 2026] Player "мудрые цветочки" <STEAM_0:1:782802341> is attempting to connect.
+[Tue May  5 01:12:21 2026] Player "мудрые цветочки" <STEAM_0:1:782802341> is attempting to connect.
+[Tue May  5 11:52:14 2026] Player "Fridrix" <STEAM_0:0:395604177> is attempting to connect.
+[Tue May  5 14:36:58 2026] Player "SETH Alpha" <STEAM_0:1:614255378> is attempting to connect.
+[Tue May  5 15:20:02 2026] Player "Pioner" <STEAM_0:1:923042528> is attempting to connect.
+[Tue May  5 18:55:30 2026] Player "xanax8808" <STEAM_0:0:900985107> is attempting to connect.
+[Tue May  5 19:48:32 2026] Player "kepka" <STEAM_0:0:392754809> is attempting to connect.

@@ -1,0 +1,4 @@
+[Tue Mar 17 20:50:55 2026] Player "gREG4IK" <STEAM_0:1:455594560> is attempting to connect.
+[Tue Mar 17 20:52:20 2026] Player "gREG4IK" <STEAM_0:1:455594560> has spawned in the server
+[Tue Mar 17 20:52:23 2026] worldspawn has killed gREG4IK.
+[Tue Mar 17 21:20:10 2026] Player "gREG4IK" <STEAM_0:1:455594560> has left the server

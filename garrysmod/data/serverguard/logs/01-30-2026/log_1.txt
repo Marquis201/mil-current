@@ -1,0 +1,2265 @@
+[Fri Jan 30 10:12:12 2026] Player "punk" <STEAM_0:0:921324874> is attempting to connect.
+[Fri Jan 30 10:13:05 2026] Player "punk" <STEAM_0:0:921324874> has spawned in the server
+[Fri Jan 30 10:24:45 2026] Player "ГУСЬ" <STEAM_0:1:913710211> is attempting to connect.
+[Fri Jan 30 11:07:22 2026] Player "Bomba333" <STEAM_0:0:793988946> is attempting to connect.
+[Fri Jan 30 12:45:28 2026] Player "Cayro" <STEAM_0:0:580249897> is attempting to connect.
+[Fri Jan 30 12:56:14 2026] worldspawn has killed punk.
+[Fri Jan 30 12:56:17 2026] Player "punk" <STEAM_0:0:921324874> has left the server
+[Fri Jan 30 13:03:32 2026] Player "punk" <STEAM_0:0:921324874> is attempting to connect.
+[Fri Jan 30 13:05:20 2026] Player "punk" <STEAM_0:0:921324874> is attempting to connect.
+[Fri Jan 30 13:06:04 2026] Player "punk" <STEAM_0:0:921324874> has spawned in the server
+[Fri Jan 30 13:08:53 2026] Player "Cayro" <STEAM_0:0:580249897> has spawned in the server
+[Fri Jan 30 13:16:12 2026] <STEAM_0:0:580249897> Cayro: // че спишь
+[Fri Jan 30 13:16:16 2026] <STEAM_0:0:580249897> Cayro: // ,???
+[Fri Jan 30 13:18:11 2026] Player "Cayro" <STEAM_0:0:580249897> has left the server
+[Fri Jan 30 14:01:10 2026] Player "Teron" <STEAM_0:0:445823068> is attempting to connect.
+[Fri Jan 30 14:03:36 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [521][lvs_wheeldrive_hummer]"
+[Fri Jan 30 14:14:06 2026] Player "Discar" <STEAM_0:0:650470378> is attempting to connect.
+[Fri Jan 30 14:34:29 2026] Player "★☾₳ⱤØ₦₦ł₭☽★" <STEAM_0:0:456016030> is attempting to connect.
+[Fri Jan 30 14:34:58 2026] Player "Лесник" <STEAM_0:0:200862208> is attempting to connect.
+[Fri Jan 30 14:35:20 2026] Player "Discar" <STEAM_0:0:650470378> has spawned in the server
+[Fri Jan 30 14:35:38 2026] Player "Juk" <STEAM_0:0:586457449> is attempting to connect.
+[Fri Jan 30 14:36:33 2026] Player "★☾₳ⱤØ₦₦ł₭☽★" <STEAM_0:0:456016030> has spawned in the server
+[Fri Jan 30 14:37:13 2026] Player "Juk" <STEAM_0:0:586457449> has spawned in the server
+[Fri Jan 30 14:37:17 2026] Player "Лесник" <STEAM_0:0:200862208> has spawned in the server
+[Fri Jan 30 14:37:55 2026] <STEAM_0:0:200862208> Лесник: щас микро
+[Fri Jan 30 14:41:08 2026] Player "Cayro" <STEAM_0:0:580249897> is attempting to connect.
+[Fri Jan 30 14:44:45 2026] <STEAM_0:0:586457449> Juk: /ooc дядя панк вы тут?
+[Fri Jan 30 14:44:49 2026] <STEAM_0:0:200862208> Лесник: /OOC МУСОРСКОЙ БЕСПРЕДЕЛ!
+[Fri Jan 30 14:44:51 2026] <STEAM_0:0:921324874> punk: // да
+[Fri Jan 30 14:44:56 2026] <STEAM_0:0:586457449> Juk: /ooc пиздуй к нам
+[Fri Jan 30 14:45:04 2026] <STEAM_0:0:921324874> punk: // а че такое?
+[Fri Jan 30 14:45:18 2026] <STEAM_0:0:586457449> Juk: /ooc человеку рядика дать и специальность
+[Fri Jan 30 14:45:50 2026] Player "Cayro" <STEAM_0:0:580249897> is attempting to connect.
+[Fri Jan 30 14:45:53 2026] <STEAM_0:0:921324874> punk: // какая специальность?
+[Fri Jan 30 14:45:56 2026] Player "Лесник" <STEAM_0:0:200862208> has left the server
+[Fri Jan 30 14:45:56 2026] Player "Cayro" <STEAM_0:0:580249897> is attempting to connect.
+[Fri Jan 30 14:46:03 2026] <STEAM_0:0:586457449> Juk: /ooc стрелок
+[Fri Jan 30 14:46:31 2026] Player "Cayro" <STEAM_0:0:580249897> has spawned in the server
+[Fri Jan 30 14:48:41 2026] <STEAM_0:0:586457449> Juk: /ooc панк выдай мне ст сержанта
+[Fri Jan 30 14:48:50 2026] <STEAM_0:0:580249897> Cayro: Подожди я микро чиню
+[Fri Jan 30 14:50:08 2026] <STEAM_0:0:586457449> Juk: /ooc панков
+[Fri Jan 30 14:50:15 2026] <STEAM_0:0:921324874> punk: // а
+[Fri Jan 30 14:50:38 2026] <STEAM_0:0:586457449> Juk: /ooc пиздиться будешь?
+[Fri Jan 30 14:50:43 2026] <STEAM_0:0:921324874> punk: // можно
+[Fri Jan 30 14:50:47 2026] <STEAM_0:0:580249897> Cayro: Скажи че нибудь
+[Fri Jan 30 14:50:50 2026] Player "амахасла" <STEAM_0:1:570174214> is attempting to connect.
+[Fri Jan 30 14:50:54 2026] <STEAM_0:0:580249897> Cayro: А я не слышу
+[Fri Jan 30 14:50:57 2026] <STEAM_0:0:580249897> Cayro: залупа
+[Fri Jan 30 14:51:10 2026] <STEAM_0:0:586457449> Juk: перезайди в игру мож поможет
+[Fri Jan 30 14:51:19 2026] Player "Cayro" <STEAM_0:0:580249897> has left the server
+[Fri Jan 30 14:51:24 2026] <STEAM_0:0:586457449> Juk: /rf ОВОЩИ ВСЕ НА ПЛАЦ БЕГОМ МАРШ
+[Fri Jan 30 14:51:54 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [659][lvs_wheeldrive_rp_dabrams_m1a1]"
+[Fri Jan 30 14:51:56 2026] Player "Cayro" <STEAM_0:0:580249897> is attempting to connect.
+[Fri Jan 30 14:52:29 2026] Player "Cayro" <STEAM_0:0:580249897> has spawned in the server
+[Fri Jan 30 14:52:54 2026] Player "StoticS" <STEAM_0:1:607847294> is attempting to connect.
+[Fri Jan 30 14:54:15 2026] Player "StoticS" <STEAM_0:1:607847294> has spawned in the server
+[Fri Jan 30 14:54:33 2026] <STEAM_0:0:580249897> Cayro: Снайпер
+[Fri Jan 30 14:54:44 2026] <STEAM_0:0:586457449> Juk: /ooc панк дай морозову снайпера
+[Fri Jan 30 14:54:44 2026] <STEAM_0:0:580249897> Cayro: я хуй знает почему микро не работает
+[Fri Jan 30 14:54:47 2026] <STEAM_0:0:580249897> Cayro: залупа
+[Fri Jan 30 14:55:12 2026] <STEAM_0:1:607847294> StoticS: /nato [rp] расписался за снаряжение
+[Fri Jan 30 14:56:08 2026] <STEAM_0:1:607847294> StoticS: /nato [rp] расписался за выход в збд
+[Fri Jan 30 14:56:36 2026] <STEAM_0:0:580249897> Cayro: Как прицел поставить
+[Fri Jan 30 14:57:12 2026] Player "TheSolarLegend /S/" <STEAM_0:1:192323559> is attempting to connect.
+[Fri Jan 30 14:58:01 2026] <STEAM_0:0:586457449> Juk: /ooc панк. блять КАКОЕ ВП ЕМУ?! мотострелка дай
+[Fri Jan 30 14:58:13 2026] <STEAM_0:0:580249897> Cayro: // Блять потом
+[Fri Jan 30 14:58:19 2026] <STEAM_0:0:580249897> Cayro: // Я только оружие получил
+[Fri Jan 30 14:58:41 2026] <STEAM_0:0:580249897> Cayro: // Боже дауны
+[Fri Jan 30 14:58:46 2026] Juk has killed punk.
+[Fri Jan 30 14:59:00 2026] <STEAM_0:0:580249897> Cayro: Потому что админ еблан
+[Fri Jan 30 14:59:11 2026] <STEAM_0:1:607847294> StoticS: // вы там что сами с собй воюете?)
+[Fri Jan 30 14:59:31 2026] Player "Cayro" <STEAM_0:0:580249897> has left the server
+[Fri Jan 30 15:00:28 2026] Player "TheSolarLegend /S/" <STEAM_0:1:192323559> has spawned in the server
+[Fri Jan 30 15:00:56 2026] <STEAM_0:0:921324874> punk: бля мне ебано нахуй перекасило
+[Fri Jan 30 15:01:03 2026] <STEAM_0:0:921324874> punk: ебало
+[Fri Jan 30 15:01:29 2026] Juk has killed punk.
+[Fri Jan 30 15:01:30 2026] <STEAM_0:0:921324874> punk: я админ а не ивентолог
+[Fri Jan 30 15:01:34 2026] <STEAM_0:0:921324874> punk: // откат
+[Fri Jan 30 15:02:01 2026] <STEAM_0:0:586457449> Juk: /rf призывника на плац
+[Fri Jan 30 15:02:21 2026] Player "punk" <STEAM_0:0:921324874> has left the server
+[Fri Jan 30 15:02:22 2026] Player "punk" <STEAM_0:0:921324874> is attempting to connect.
+[Fri Jan 30 15:02:34 2026] StoticS has killed StoticS.
+[Fri Jan 30 15:02:35 2026] StoticS has killed StoticS.
+[Fri Jan 30 15:02:53 2026] Player "амахасла" <STEAM_0:1:570174214> has spawned in the server
+[Fri Jan 30 15:03:02 2026] Player "punk" <STEAM_0:0:921324874> has spawned in the server
+[Fri Jan 30 15:03:20 2026] Juk has killed StoticS.
+[Fri Jan 30 15:03:37 2026] <STEAM_0:1:570174214> амахасла: хз
+[Fri Jan 30 15:03:56 2026] <STEAM_0:1:570174214> амахасла: гранатомётчик
+[Fri Jan 30 15:04:20 2026] Juk has killed StoticS.
+[Fri Jan 30 15:04:21 2026] StoticS has killed StoticS.
+[Fri Jan 30 15:04:31 2026] Player "Фiжма" <STEAM_0:1:942364657> is attempting to connect.
+[Fri Jan 30 15:04:34 2026] <STEAM_0:0:586457449> Juk: /rp отрезал америкосу пару пальцев
+[Fri Jan 30 15:04:49 2026] <STEAM_0:0:586457449> Juk: /com выебал мясо для ебли!
+[Fri Jan 30 15:04:50 2026] <STEAM_0:1:192323559> TheSolarLegend /S/: // пиздец, ВП, а действет как ебучее ССО XD
+[Fri Jan 30 15:05:00 2026] <STEAM_0:0:586457449> Juk: /ooc ну а хули
+[Fri Jan 30 15:05:08 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc а ебать, тундра  ВП?
+[Fri Jan 30 15:05:10 2026] <STEAM_0:1:607847294> StoticS: /nato [rp] расписался за снаряжение
+[Fri Jan 30 15:05:12 2026] <STEAM_0:1:192323559> TheSolarLegend /S/: // пхахахахахахах
+[Fri Jan 30 15:05:14 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc я думал ты рофлил
+[Fri Jan 30 15:05:16 2026] <STEAM_0:0:586457449> Juk: /rf откройте кпп
+[Fri Jan 30 15:05:23 2026] Player "Фiжма" <STEAM_0:1:942364657> has spawned in the server
+[Fri Jan 30 15:06:59 2026] <STEAM_0:1:942364657> Фiжма: Здравия желаю
+[Fri Jan 30 15:07:32 2026] <STEAM_0:1:607847294> StoticS: /nato [rp] расписался за выход в збд
+[Fri Jan 30 15:07:46 2026] Фiжма has killed punk.
+[Fri Jan 30 15:07:54 2026] <STEAM_0:1:942364657> Фiжма: бля
+[Fri Jan 30 15:08:00 2026] <STEAM_0:1:942364657> Фiжма: сории
+[Fri Jan 30 15:08:41 2026] <STEAM_0:1:942364657> Фiжма: /c как в рацию трезвонить?
+[Fri Jan 30 15:08:52 2026] <STEAM_0:0:921324874> punk: // она пока сломана
+[Fri Jan 30 15:08:54 2026] <STEAM_0:1:607847294> StoticS: // ф2
+[Fri Jan 30 15:08:55 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [546][tfa_ammo_buckshot]"
+[Fri Jan 30 15:08:56 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [669][tfa_ammo_buckshot]"
+[Fri Jan 30 15:08:57 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [546][tfa_ammo_buckshot]"
+[Fri Jan 30 15:08:58 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [669][tfa_ammo_ar2]"
+[Fri Jan 30 15:09:00 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [546][tfa_ammo_ar2]"
+[Fri Jan 30 15:09:01 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [669][tfa_ammo_ar2]"
+[Fri Jan 30 15:09:06 2026] <STEAM_0:1:942364657> Фiжма: /c в чате
+[Fri Jan 30 15:09:10 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [546][tfa_ammo_sniper_rounds]"
+[Fri Jan 30 15:09:23 2026] <STEAM_0:0:921324874> punk: // /nato
+[Fri Jan 30 15:09:28 2026] <STEAM_0:1:570174214> амахасла: х
+[Fri Jan 30 15:09:35 2026] <STEAM_0:1:942364657> Фiжма: /c спс
+[Fri Jan 30 15:11:19 2026] <STEAM_0:1:942364657> Фiжма: /nato чо у пехоты оружие?
+[Fri Jan 30 15:13:54 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /looc п
+[Fri Jan 30 15:14:17 2026] Player "SanEscobar" <STEAM_0:0:21177033> is attempting to connect.
+[Fri Jan 30 15:14:19 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /looc помню видео про солдат РФ в Чечне. Они полковника кого-то ругали
+[Fri Jan 30 15:14:39 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /loc там пизда матов: "нахуй сука блять танк сука не дали"
+[Fri Jan 30 15:14:41 2026] <STEAM_0:0:921324874> punk: /com There russia?
+[Fri Jan 30 15:14:47 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /looc это в лок
+[Fri Jan 30 15:14:48 2026] <STEAM_0:0:586457449> Juk: /ooc панк выдай катукову рядового 3-й мотострелковой стрелком
+[Fri Jan 30 15:14:57 2026] <STEAM_0:0:586457449> Juk: /com пошел нахуй.пизди по русски хуйня
+[Fri Jan 30 15:15:17 2026] Player "воздухан" <STEAM_0:0:393096162> is attempting to connect.
+[Fri Jan 30 15:15:31 2026] Player "Dr.Nke" <STEAM_0:0:205305179> is attempting to connect.
+[Fri Jan 30 15:15:47 2026] <STEAM_0:1:192323559> TheSolarLegend /S/: // я ща похаваю и вернусь, 1 час +-. Добро?
+[Fri Jan 30 15:15:57 2026] Player "TheSolarLegend /S/" <STEAM_0:1:192323559> has left the server
+[Fri Jan 30 15:16:03 2026] Player "воздухан" <STEAM_0:0:393096162> is attempting to connect.
+[Fri Jan 30 15:16:07 2026] <STEAM_0:0:921324874> punk: // вас еще долго ждать?
+[Fri Jan 30 15:17:49 2026] <STEAM_0:0:586457449> Juk: /ooc застряли
+[Fri Jan 30 15:18:30 2026] Player "Dr.Nke" <STEAM_0:0:205305179> has spawned in the server
+[Fri Jan 30 15:19:04 2026] punk has killed Juk.
+[Fri Jan 30 15:19:04 2026] punk has killed ★☾₳ⱤØ₦₦ł₭☽★.
+[Fri Jan 30 15:19:13 2026] Фiжма has killed Discar.
+[Fri Jan 30 15:19:13 2026] Discar has killed Discar.
+[Fri Jan 30 15:19:27 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc нахуя на таран, сука щас бы на базе сидел
+[Fri Jan 30 15:20:05 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc ЕБАТЬ ПИНДОСОВ СУКА
+[Fri Jan 30 15:20:14 2026] punk has killed Juk.
+[Fri Jan 30 15:20:15 2026] Juk has killed Juk.
+[Fri Jan 30 15:20:19 2026] Player "Dr.Nke" <STEAM_0:0:205305179> has left the server
+[Fri Jan 30 15:21:15 2026] <STEAM_0:1:942364657> Фiжма: я
+[Fri Jan 30 15:21:54 2026] Player "Juk" <STEAM_0:0:586457449> has left the server
+[Fri Jan 30 15:21:55 2026] Player "Juk" <STEAM_0:0:586457449> is attempting to connect.
+[Fri Jan 30 15:22:30 2026] <STEAM_0:1:942364657> Фiжма: чо
+[Fri Jan 30 15:22:47 2026] <STEAM_0:1:942364657> Фiжма: там танк
+[Fri Jan 30 15:22:54 2026] Player "Juk" <STEAM_0:0:586457449> has spawned in the server
+[Fri Jan 30 15:24:38 2026] <STEAM_0:0:921324874> punk: // вас еще долго ждать?
+[Fri Jan 30 15:24:58 2026] <STEAM_0:0:586457449> Juk: /ooc застряли
+[Fri Jan 30 15:25:47 2026] punk has killed Discar.
+[Fri Jan 30 15:25:47 2026] Discar has killed Discar.
+[Fri Jan 30 15:26:30 2026] <STEAM_0:0:921324874> punk: /nato будем ждать их в городе
+[Fri Jan 30 15:27:31 2026] <STEAM_0:1:942364657> Фiжма: налев
+[Fri Jan 30 15:27:51 2026] StoticS has killed Juk.
+[Fri Jan 30 15:27:51 2026] StoticS has killed ★☾₳ⱤØ₦₦ł₭☽★.
+[Fri Jan 30 15:27:51 2026] Juk has killed Juk.
+[Fri Jan 30 15:28:21 2026] <STEAM_0:0:921324874> punk: // предлагаю без такнов и взрывки только оружия
+[Fri Jan 30 15:28:33 2026] <STEAM_0:0:586457449> Juk: /ooc я согласен
+[Fri Jan 30 15:28:42 2026] амахасла has killed Discar.
+[Fri Jan 30 15:28:43 2026] <STEAM_0:0:586457449> Juk: /rf КОД 3
+[Fri Jan 30 15:28:43 2026] Discar has killed Discar.
+[Fri Jan 30 15:29:16 2026] амахасла has killed амахасла.
+[Fri Jan 30 15:30:16 2026] Juk has killed StoticS.
+[Fri Jan 30 15:30:16 2026] <STEAM_0:0:921324874> punk: // мы согласны с только оружиями и без подстволов
+[Fri Jan 30 15:30:17 2026] StoticS has killed StoticS.
+[Fri Jan 30 15:30:44 2026] Juk has killed StoticS.
+[Fri Jan 30 15:30:44 2026] StoticS has killed StoticS.
+[Fri Jan 30 15:30:51 2026] Фiжма has killed Discar.
+[Fri Jan 30 15:30:51 2026] Discar has killed Discar.
+[Fri Jan 30 15:30:59 2026] Фiжма has killed Juk.
+[Fri Jan 30 15:31:00 2026] Juk has killed Juk.
+[Fri Jan 30 15:31:09 2026] Фiжма has killed ★☾₳ⱤØ₦₦ł₭☽★.
+[Fri Jan 30 15:31:09 2026] ★☾₳ⱤØ₦₦ł₭☽★ has killed ★☾₳ⱤØ₦₦ł₭☽★.
+[Fri Jan 30 15:31:20 2026] Фiжма has killed Discar.
+[Fri Jan 30 15:31:21 2026] Discar has killed Discar.
+[Fri Jan 30 15:31:33 2026] Player "minoga1982" <STEAM_0:0:852556530> is attempting to connect.
+[Fri Jan 30 15:31:38 2026] StoticS has killed StoticS.
+[Fri Jan 30 15:31:50 2026] <STEAM_0:1:942364657> Фiжма: иди
+[Fri Jan 30 15:31:54 2026] <STEAM_0:1:942364657> Фiжма: домой
+[Fri Jan 30 15:32:30 2026] <STEAM_0:1:607847294> StoticS: /nato [rp] расписался за снаряжение
+[Fri Jan 30 15:32:38 2026] Player "SanEscobar" <STEAM_0:0:21177033> has spawned in the server
+[Fri Jan 30 15:33:07 2026] <STEAM_0:1:607847294> StoticS: /nato [rp] расписался за выход в збд
+[Fri Jan 30 15:33:41 2026] Player "minoga1982" <STEAM_0:0:852556530> has spawned in the server
+[Fri Jan 30 15:34:03 2026] <STEAM_0:0:921324874> punk ran command "goto PFC B.V Bauer"
+[Fri Jan 30 15:34:18 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc а вы вакутагина украли?
+[Fri Jan 30 15:34:33 2026] <STEAM_0:1:607847294> StoticS: // нет вроде
+[Fri Jan 30 15:34:34 2026] <STEAM_0:1:942364657> Фiжма: /c нет
+[Fri Jan 30 15:34:41 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc а где он
+[Fri Jan 30 15:35:03 2026] <STEAM_0:1:607847294> StoticS: // на вч ищите
+[Fri Jan 30 15:35:18 2026] <STEAM_0:1:570174214> амахасла: /sit
+[Fri Jan 30 15:35:49 2026] <STEAM_0:1:942364657> Фiжма: /nato джонс дай пехотинса
+[Fri Jan 30 15:35:54 2026] <STEAM_0:1:570174214> амахасла: вольно
+[Fri Jan 30 15:36:16 2026] <STEAM_0:1:607847294> StoticS: // непонял
+[Fri Jan 30 15:36:23 2026] <STEAM_0:1:570174214> амахасла: /looc я хз
+[Fri Jan 30 15:36:35 2026] <STEAM_0:1:570174214> амахасла: /looc я вроде не хай ранг
+[Fri Jan 30 15:36:37 2026] <STEAM_0:0:852556530> minoga1982: /looc А че мне мехвода сняли?
+[Fri Jan 30 15:36:48 2026] <STEAM_0:1:570174214> амахасла: не знаю
+[Fri Jan 30 15:36:50 2026] <STEAM_0:1:570174214> амахасла: ты мех
+[Fri Jan 30 15:37:08 2026] <STEAM_0:1:942364657> Фiжма: поехали на абрамсе
+[Fri Jan 30 15:37:24 2026] <STEAM_0:1:942364657> Фiжма: он сломан
+[Fri Jan 30 15:37:45 2026] Player "SanEscobar" <STEAM_0:0:21177033> has left the server
+[Fri Jan 30 15:38:05 2026] Player "SanEscobar" <STEAM_0:0:21177033> is attempting to connect.
+[Fri Jan 30 15:38:22 2026] Player "SanEscobar" <STEAM_0:0:21177033> is attempting to connect.
+[Fri Jan 30 15:38:25 2026] <STEAM_0:1:942364657> Фiжма: наш
+[Fri Jan 30 15:38:42 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [622][lvs_wheeldrive_rp_dabrams_m1a1]"
+[Fri Jan 30 15:38:45 2026] Player "SanEscobar" <STEAM_0:0:21177033> has spawned in the server
+[Fri Jan 30 15:39:22 2026] Player "SanEscobar" <STEAM_0:0:21177033> has left the server
+[Fri Jan 30 15:39:25 2026] Player "SanEscobar" <STEAM_0:0:21177033> is attempting to connect.
+[Fri Jan 30 15:39:26 2026] <STEAM_0:1:942364657> Фiжма: на точки
+[Fri Jan 30 15:39:42 2026] Player "SanEscobar" <STEAM_0:0:21177033> is attempting to connect.
+[Fri Jan 30 15:39:44 2026] <STEAM_0:1:942364657> Фiжма: наш
+[Fri Jan 30 15:39:59 2026] <STEAM_0:1:942364657> Фiжма: не знаю
+[Fri Jan 30 15:40:05 2026] Player "SanEscobar" <STEAM_0:0:21177033> has spawned in the server
+[Fri Jan 30 15:40:12 2026] <STEAM_0:1:942364657> Фiжма: не
+[Fri Jan 30 15:40:50 2026] <STEAM_0:0:921324874> punk: /com There russia?
+[Fri Jan 30 15:41:20 2026] <STEAM_0:0:921324874> punk ran command "goto Robinson"
+[Fri Jan 30 15:41:59 2026] <STEAM_0:1:607847294> StoticS: // в городе завелся человек-паук)
+[Fri Jan 30 15:42:10 2026] <STEAM_0:1:942364657> Фiжма: мы не захватываем точку
+[Fri Jan 30 15:42:20 2026] Player "SanEscobar" <STEAM_0:0:21177033> has left the server
+[Fri Jan 30 15:42:26 2026] <STEAM_0:1:942364657> Фiжма: поехали в город
+[Fri Jan 30 15:42:57 2026] <STEAM_0:0:921324874> punk ran command "goto PFC B.V Bauer"
+[Fri Jan 30 15:42:59 2026] <STEAM_0:1:942364657> Фiжма: показать
+[Fri Jan 30 15:44:44 2026] <STEAM_0:0:921324874> punk: // вас еще долго ждать? рф
+[Fri Jan 30 15:45:25 2026] <STEAM_0:1:942364657> Фiжма: наш
+[Fri Jan 30 15:46:46 2026] Player "★☾₳ⱤØ₦₦ł₭☽★" <STEAM_0:0:456016030> has left the server
+[Fri Jan 30 15:47:40 2026] <STEAM_0:1:942364657> Фiжма: стоим ждем
+[Fri Jan 30 15:49:49 2026] <STEAM_0:0:852556530> minoga1982: /ooc РФ вы там скоро?
+[Fri Jan 30 15:50:00 2026] Player "дамокл.2" <STEAM_0:1:926834682> is attempting to connect.
+[Fri Jan 30 15:51:10 2026] StoticS has killed Discar.
+[Fri Jan 30 15:51:11 2026] Discar has killed Discar.
+[Fri Jan 30 15:51:13 2026] <STEAM_0:1:942364657> Фiжма: /nato Punkov мона потом стрелка?
+[Fri Jan 30 15:51:49 2026] Player "TheSolarLegend /S/" <STEAM_0:1:192323559> is attempting to connect.
+[Fri Jan 30 15:52:04 2026] <STEAM_0:0:852556530> minoga1982: /ooc Катуков
+[Fri Jan 30 15:53:02 2026] <STEAM_0:0:921324874> punk ran command "send Punkov"
+[Fri Jan 30 15:53:16 2026] <STEAM_0:0:852556530> minoga1982: /ooc А че нам делать то?
+[Fri Jan 30 15:53:34 2026] <STEAM_0:1:942364657> Фiжма: /nato и подразделение
+[Fri Jan 30 15:53:36 2026] <STEAM_0:0:921324874> punk ran command "ragdoll Jons"
+[Fri Jan 30 15:54:10 2026] <STEAM_0:1:942364657> Фiжма: на вч
+[Fri Jan 30 15:54:25 2026] <STEAM_0:1:942364657> Фiжма: не сюда
+[Fri Jan 30 15:54:31 2026] <STEAM_0:1:607847294> StoticS: // что за хрень
+[Fri Jan 30 15:54:32 2026] Player "TheSolarLegend /S/" <STEAM_0:1:192323559> has spawned in the server
+[Fri Jan 30 15:54:41 2026] амахасла has killed Discar.
+[Fri Jan 30 15:54:41 2026] Discar has killed Discar.
+[Fri Jan 30 15:54:45 2026] <STEAM_0:1:607847294> StoticS: // чего я слег
+[Fri Jan 30 15:54:49 2026] <STEAM_0:0:921324874> punk ran command "slap Punkov"
+[Fri Jan 30 15:55:40 2026] worldspawn has killed punk.
+[Fri Jan 30 15:55:40 2026] <STEAM_0:0:921324874> punk ran command "respawn Punkov"
+[Fri Jan 30 15:55:48 2026] Player "StoticS" <STEAM_0:1:607847294> has left the server
+[Fri Jan 30 15:55:48 2026] Player "StoticS" <STEAM_0:1:607847294> is attempting to connect.
+[Fri Jan 30 15:56:21 2026] <STEAM_0:0:921324874> punk used tool "creator"
+[Fri Jan 30 15:56:21 2026] <STEAM_0:0:921324874> punk spawned SWEP "Weapon [563][tfa_ins2_remington_m870]"
+[Fri Jan 30 15:56:25 2026] Player "StoticS" <STEAM_0:1:607847294> has spawned in the server
+[Fri Jan 30 15:56:41 2026] <STEAM_0:0:852556530> minoga1982: /ooc Здарова Катуков
+[Fri Jan 30 15:56:48 2026] <STEAM_0:1:192323559> TheSolarLegend /S/: // салют
+[Fri Jan 30 15:56:53 2026] <STEAM_0:0:852556530> minoga1982: /ooc Угадаешь кто я?
+[Fri Jan 30 15:57:00 2026] <STEAM_0:1:192323559> TheSolarLegend /S/: // дай подумаю
+[Fri Jan 30 15:57:07 2026] <STEAM_0:1:607847294> StoticS: /nato [rp] расписался за снаряжение
+[Fri Jan 30 15:57:13 2026] <STEAM_0:1:192323559> TheSolarLegend /S/: // Минога, ах ты падла
+[Fri Jan 30 15:57:21 2026] <STEAM_0:0:852556530> minoga1982: /ooc Не минога а монгол
+[Fri Jan 30 15:57:34 2026] <STEAM_0:1:192323559> TheSolarLegend /S/: // не суть, главное вспомнил
+[Fri Jan 30 15:57:35 2026] <STEAM_0:1:942364657> Фiжма: /nato как с гранатомета стрелять?
+[Fri Jan 30 15:58:01 2026] Player "дамокл.2" <STEAM_0:1:926834682> has spawned in the server
+[Fri Jan 30 15:58:02 2026] <STEAM_0:1:570174214> амахасла: /looc e lkm
+[Fri Jan 30 15:58:04 2026] <STEAM_0:1:570174214> амахасла: /looc e lkm
+[Fri Jan 30 15:58:05 2026] <STEAM_0:1:570174214> амахасла: /looc e lkm
+[Fri Jan 30 15:58:19 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [628][lfs_grdn_ec665uht]"
+[Fri Jan 30 15:58:21 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [628][lfs_grdn_ec665uht]"
+[Fri Jan 30 15:58:36 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [625][sw_bomb_odab500_v3]"
+[Fri Jan 30 15:58:39 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [625][sw_bomb_odab500_v3]"
+[Fri Jan 30 15:58:41 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [625][sw_bomb_brab250_v3]"
+[Fri Jan 30 15:58:43 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [625][sw_bomb_brab500m43_v3]"
+[Fri Jan 30 15:58:49 2026] Player "дамокл.2" <STEAM_0:1:926834682> has left the server
+[Fri Jan 30 15:58:57 2026] <STEAM_0:0:921324874> punk used tool "creator"
+[Fri Jan 30 15:58:57 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [624][sw_mine_tm62_v3]"
+[Fri Jan 30 15:58:59 2026] <STEAM_0:0:921324874> punk used tool "creator"
+[Fri Jan 30 15:58:59 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [625][sw_mine_tm62_v3]"
+[Fri Jan 30 15:59:03 2026] <STEAM_0:0:921324874> punk used tool "creator"
+[Fri Jan 30 15:59:03 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [626][sw_mine_tm62_v3]"
+[Fri Jan 30 15:59:06 2026] <STEAM_0:0:921324874> punk used tool "creator"
+[Fri Jan 30 15:59:06 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [627][sw_mine_tm62_v3]"
+[Fri Jan 30 15:59:08 2026] <STEAM_0:0:921324874> punk used tool "creator"
+[Fri Jan 30 15:59:08 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [628][sw_mine_tm62_v3]"
+[Fri Jan 30 15:59:12 2026] <STEAM_0:0:921324874> punk used tool "creator"
+[Fri Jan 30 15:59:12 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [629][sw_mine_tm62_v3]"
+[Fri Jan 30 15:59:14 2026] <STEAM_0:0:921324874> punk used tool "creator"
+[Fri Jan 30 15:59:14 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [630][sw_mine_tm62_v3]"
+[Fri Jan 30 15:59:16 2026] <STEAM_0:0:921324874> punk used tool "creator"
+[Fri Jan 30 15:59:16 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [631][sw_mine_tm62_v3]"
+[Fri Jan 30 15:59:19 2026] <STEAM_0:0:921324874> punk used tool "creator"
+[Fri Jan 30 15:59:19 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [633][sw_mine_tm62_v3]"
+[Fri Jan 30 15:59:23 2026] <STEAM_0:0:921324874> punk used tool "creator"
+[Fri Jan 30 15:59:23 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [632][sw_mine_tm62_v3]"
+[Fri Jan 30 15:59:28 2026] <STEAM_0:0:921324874> punk used tool "creator"
+[Fri Jan 30 15:59:28 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [634][sw_mine_tm62_v3]"
+[Fri Jan 30 15:59:38 2026] Player "★☾₳ⱤØ₦₦ł₭☽★" <STEAM_0:0:456016030> is attempting to connect.
+[Fri Jan 30 16:00:02 2026] <STEAM_0:0:921324874> punk used tool "creator"
+[Fri Jan 30 16:00:02 2026] <STEAM_0:0:921324874> punk used tool "creator"
+[Fri Jan 30 16:00:02 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [546][sw_mine_tm62_v3]"
+[Fri Jan 30 16:00:11 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [625][lvs_wheeldrive_hummer]"
+[Fri Jan 30 16:00:19 2026] punk has killed punk.
+[Fri Jan 30 16:00:26 2026] Player "★☾₳ⱤØ₦₦ł₭☽★" <STEAM_0:0:456016030> has spawned in the server
+[Fri Jan 30 16:00:55 2026] <STEAM_0:0:921324874> punk used tool "creator"
+[Fri Jan 30 16:00:55 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [571][sw_mine_tm62_v3]"
+[Fri Jan 30 16:01:08 2026] <STEAM_0:0:921324874> punk used tool "creator"
+[Fri Jan 30 16:01:08 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [571][sw_mine_tm62_v3]"
+[Fri Jan 30 16:01:14 2026] <STEAM_0:0:921324874> punk used tool "creator"
+[Fri Jan 30 16:01:14 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [577][sw_mine_tm62_v3]"
+[Fri Jan 30 16:01:17 2026] <STEAM_0:0:921324874> punk used tool "creator"
+[Fri Jan 30 16:01:17 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [622][sw_mine_tm62_v3]"
+[Fri Jan 30 16:01:19 2026] <STEAM_0:0:921324874> punk used tool "creator"
+[Fri Jan 30 16:01:19 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [625][sw_mine_tm62_v3]"
+[Fri Jan 30 16:01:22 2026] <STEAM_0:0:921324874> punk used tool "creator"
+[Fri Jan 30 16:01:22 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [626][sw_mine_tm62_v3]"
+[Fri Jan 30 16:01:40 2026] punk has killed амахасла.
+[Fri Jan 30 16:02:17 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [578][sw_bomb_kab50tv_v3]"
+[Fri Jan 30 16:02:46 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [629][sw_bomb_kab1500l_v3]"
+[Fri Jan 30 16:02:48 2026] minoga1982 has killed Фiжма.
+[Fri Jan 30 16:02:48 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [631][sw_rocket_s13_v3]"
+[Fri Jan 30 16:03:02 2026] <STEAM_0:1:942364657> Фiжма: бля
+[Fri Jan 30 16:03:04 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [510][sw_rocket_ros132_v3]"
+[Fri Jan 30 16:03:09 2026] <STEAM_0:1:942364657> Фiжма: ебляны
+[Fri Jan 30 16:03:15 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [510][sw_bomb_ofab250sh_v3]"
+[Fri Jan 30 16:03:19 2026] <STEAM_0:1:942364657> Фiжма: я не знал
+[Fri Jan 30 16:03:46 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [555][sw_bomb_brab500m43_v3]"
+[Fri Jan 30 16:03:50 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [555][sw_bomb_ofab250_umpk_v3]"
+[Fri Jan 30 16:03:53 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [555][sw_rocket_s25o_v3]"
+[Fri Jan 30 16:04:07 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [555][sw_rocket_ros132_v3]"
+[Fri Jan 30 16:04:08 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc ау, мы без техники договаривались
+[Fri Jan 30 16:04:24 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [555][sw_rocket_s25of_v3]"
+[Fri Jan 30 16:04:26 2026] <STEAM_0:1:942364657> Фiжма: /c нам поссать
+[Fri Jan 30 16:04:36 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [555][sw_bomb_ofab250sh_v3]"
+[Fri Jan 30 16:04:46 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc окей, уходим в афк, там тоже похуй
+[Fri Jan 30 16:04:54 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [555][sw_rocket_m31_v3]"
+[Fri Jan 30 16:04:56 2026] minoga1982 has killed ★☾₳ⱤØ₦₦ł₭☽★.
+[Fri Jan 30 16:04:59 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [524][sw_rocket_m31_v3]"
+[Fri Jan 30 16:05:03 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [524][sw_bomb_p50t_v3]"
+[Fri Jan 30 16:05:04 2026] <STEAM_0:1:570174214> амахасла: /ooc я один в городе
+[Fri Jan 30 16:05:07 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [524][sw_bomb_ofab250_umpk_v3]"
+[Fri Jan 30 16:05:12 2026] Discar has killed Фiжма.
+[Fri Jan 30 16:05:12 2026] Фiжма has killed Фiжма.
+[Fri Jan 30 16:05:14 2026] <STEAM_0:1:570174214> амахасла: /ooc они уехали
+[Fri Jan 30 16:05:27 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [510][sw_airdrop_large_v3]"
+[Fri Jan 30 16:05:38 2026] minoga1982 has killed Discar.
+[Fri Jan 30 16:05:40 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /rf подствольник через B берите
+[Fri Jan 30 16:06:01 2026] <STEAM_0:0:650470378> Discar: .рф спасибо уже догадался
+[Fri Jan 30 16:06:05 2026] <STEAM_0:0:921324874> punk: /rp В Городе упал аирдоп
+[Fri Jan 30 16:06:06 2026] TheSolarLegend /S/ has killed StoticS.
+[Fri Jan 30 16:06:07 2026] StoticS has killed StoticS.
+[Fri Jan 30 16:06:20 2026] <STEAM_0:0:921324874> punk used tool "weld"
+[Fri Jan 30 16:06:21 2026] worldspawn has killed амахасла.
+[Fri Jan 30 16:06:25 2026] <STEAM_0:0:650470378> Discar: /rf спасибо догадался уже
+[Fri Jan 30 16:06:31 2026] <STEAM_0:0:921324874> punk used tool "lamp"
+[Fri Jan 30 16:06:46 2026] <STEAM_0:1:192323559> TheSolarLegend /S/: Парни спасайте блять
+[Fri Jan 30 16:07:01 2026] <STEAM_0:1:607847294> StoticS: /nato  всем б.е. вернутся на вч для перегрупировки
+[Fri Jan 30 16:07:05 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [653][sw_rocket_rbs132_v3]"
+[Fri Jan 30 16:07:09 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [653][sw_rocket_s25l_v3]"
+[Fri Jan 30 16:07:15 2026] <STEAM_0:1:607847294> StoticS: /nato [rp] расписался за снаряжение
+[Fri Jan 30 16:07:24 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [655][sw_bomb_ofab250_umpk_v3]"
+[Fri Jan 30 16:07:38 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [655][sw_mine_pfm1_v3]"
+[Fri Jan 30 16:07:52 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [655][sw_bomb_ofab250_umpk_v3]"
+[Fri Jan 30 16:08:05 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [655][sw_rocket_m31_v3]"
+[Fri Jan 30 16:08:16 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [655][sw_bomb_p50t_v3]"
+[Fri Jan 30 16:08:19 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [655][sw_bomb_p50t_v3]"
+[Fri Jan 30 16:08:53 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [656][sw_bomb_ofab250_umpk_v3]"
+[Fri Jan 30 16:08:56 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [656][sw_bomb_odab500_v3]"
+[Fri Jan 30 16:09:00 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [655][sw_bomb_brab500m43_v3]"
+[Fri Jan 30 16:09:03 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [655][sw_bomb_brab500m43_v3]"
+[Fri Jan 30 16:09:06 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [655][sw_bomb_brab500m43_v3]"
+[Fri Jan 30 16:09:18 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [655][sw_bomb_brab500m43_v3]"
+[Fri Jan 30 16:09:42 2026] TheSolarLegend /S/ has killed амахасла.
+[Fri Jan 30 16:09:47 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [592][sw_rocket_ros132_v3]"
+[Fri Jan 30 16:10:00 2026] Player "амахасла" <STEAM_0:1:570174214> has left the server
+[Fri Jan 30 16:10:03 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [508][sw_rocket_ros132_v3]"
+[Fri Jan 30 16:10:04 2026] Player "★☾₳ⱤØ₦₦ł₭☽★" <STEAM_0:0:456016030> has left the server
+[Fri Jan 30 16:10:43 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [512][sw_rocket_m31_v3]"
+[Fri Jan 30 16:10:52 2026] Discar has killed StoticS.
+[Fri Jan 30 16:10:52 2026] Discar has killed minoga1982.
+[Fri Jan 30 16:11:06 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [508][sw_rocket_tt250_v3]"
+[Fri Jan 30 16:11:22 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [516][sw_rocket_kh22_v3]"
+[Fri Jan 30 16:11:39 2026] <STEAM_0:1:607847294> StoticS: /nato [rp] расписался за снаряжение
+[Fri Jan 30 16:12:02 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [561][sw_rocket_kh22_v3]"
+[Fri Jan 30 16:12:05 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [561][sw_rocket_kh22_v3]"
+[Fri Jan 30 16:12:38 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [513][sw_bomb_fab9000m54_v3]"
+[Fri Jan 30 16:13:10 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [561][sw_bomb_fab9000m54_v3]"
+[Fri Jan 30 16:13:32 2026] <STEAM_0:0:921324874> punk: /rp Город был уничожан из-за бомб
+[Fri Jan 30 16:13:51 2026] <STEAM_0:0:921324874> punk: // по рп города больге нет, сражайте за другие точки
+[Fri Jan 30 16:14:03 2026] <STEAM_0:1:192323559> TheSolarLegend /S/: // Сталинград передает привет
+[Fri Jan 30 16:14:10 2026] <STEAM_0:0:921324874> punk ran command "goto Катуков М.В."
+[Fri Jan 30 16:14:24 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [561][sw_rocket_kh22_v3]"
+[Fri Jan 30 16:14:33 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [561][sw_rocket_kh47m2_v3]"
+[Fri Jan 30 16:14:41 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [561][sw_rocket_kh47m2_v3]"
+[Fri Jan 30 16:14:56 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [561][sw_rocket_kh47m2_v3]"
+[Fri Jan 30 16:15:00 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [561][sw_rocket_kh47m2_v3]"
+[Fri Jan 30 16:15:08 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [561][sw_rocket_kh47m2_v3]"
+[Fri Jan 30 16:15:11 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [561][sw_rocket_kh47m2_v3]"
+[Fri Jan 30 16:15:14 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [561][sw_rocket_kh47m2_v3]"
+[Fri Jan 30 16:15:16 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [561][sw_rocket_kh47m2_v3]"
+[Fri Jan 30 16:15:18 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [561][sw_rocket_kh47m2_v3]"
+[Fri Jan 30 16:15:22 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [561][sw_rocket_kh47m2_v3]"
+[Fri Jan 30 16:15:43 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [513][sw_bomb_fab9000m54_v3]"
+[Fri Jan 30 16:16:30 2026] punk has killed punk.
+[Fri Jan 30 16:17:31 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [552][sw_rocket_kh22_v3]"
+[Fri Jan 30 16:22:33 2026] <STEAM_0:0:852556530> minoga1982: /me Показал В/У [55-6530][ Командир танкового взвода][ВУ-С]
+[Fri Jan 30 16:22:39 2026] <STEAM_0:0:852556530> minoga1982: /LOOC оТКАТ
+[Fri Jan 30 16:22:52 2026] <STEAM_0:0:650470378> Discar: отступаем
+[Fri Jan 30 16:24:25 2026] TheSolarLegend /S/ has killed minoga1982.
+[Fri Jan 30 16:24:25 2026] minoga1982 has killed minoga1982.
+[Fri Jan 30 16:24:28 2026] TheSolarLegend /S/ has killed StoticS.
+[Fri Jan 30 16:24:28 2026] Player "Фiжма" <STEAM_0:1:942364657> has left the server
+[Fri Jan 30 16:24:28 2026] StoticS has killed StoticS.
+[Fri Jan 30 16:25:15 2026] <STEAM_0:1:607847294> StoticS: /nato [rp] расписался за снаряжение
+[Fri Jan 30 16:26:18 2026] <STEAM_0:0:852556530> minoga1982: /ooc Как же мы эпично сдохли
+[Fri Jan 30 16:26:34 2026] <STEAM_0:0:852556530> minoga1982: /ooc Катуков, ты видел нашу смерть?
+[Fri Jan 30 16:26:36 2026] <STEAM_0:1:192323559> TheSolarLegend /S/: // а главное вас разъебал я XD
+[Fri Jan 30 16:26:48 2026] <STEAM_0:0:921324874> punk: // я афк
+[Fri Jan 30 16:27:09 2026] <STEAM_0:1:192323559> TheSolarLegend /S/: // афк 2 минуты
+[Fri Jan 30 16:28:23 2026] <STEAM_0:1:192323559> TheSolarLegend /S/: // я тут
+[Fri Jan 30 16:28:28 2026] <STEAM_0:0:852556530> minoga1982: /OOC
+[Fri Jan 30 16:28:33 2026] <STEAM_0:0:852556530> minoga1982: /ooc Здарова
+[Fri Jan 30 16:28:44 2026] <STEAM_0:1:192323559> TheSolarLegend /S/: // Еще раз здаров. Норм я вас раскатал
+[Fri Jan 30 16:28:57 2026] <STEAM_0:0:852556530> minoga1982: /ooc Мы огребли из за того что перевернулись
+[Fri Jan 30 16:29:06 2026] <STEAM_0:0:852556530> minoga1982: /ooc Кста, у вас кмд есть?
+[Fri Jan 30 16:29:13 2026] <STEAM_0:1:192323559> TheSolarLegend /S/: // хз
+[Fri Jan 30 16:29:22 2026] <STEAM_0:0:852556530> minoga1982: /ooc У нас есть но они не работают почти
+[Fri Jan 30 16:29:34 2026] <STEAM_0:0:852556530> minoga1982: /ooc У нас капитан
+[Fri Jan 30 16:29:40 2026] <STEAM_0:1:192323559> TheSolarLegend /S/: // у нас ССЖ
+[Fri Jan 30 16:29:43 2026] <STEAM_0:0:852556530> minoga1982: /ooc Единственный играет
+[Fri Jan 30 16:29:53 2026] <STEAM_0:0:650470378> Discar: /ooc Он АФУ
+[Fri Jan 30 16:29:59 2026] <STEAM_0:0:650470378> Discar: /ooc Он АФК
+[Fri Jan 30 16:30:08 2026] <STEAM_0:1:192323559> TheSolarLegend /S/: Ты если что то говришь то тебя не слышно
+[Fri Jan 30 16:30:26 2026] <STEAM_0:0:650470378> Discar: я перезайду
+[Fri Jan 30 16:30:33 2026] Player "Discar" <STEAM_0:0:650470378> has left the server
+[Fri Jan 30 16:30:45 2026] Player "Discar" <STEAM_0:0:650470378> is attempting to connect.
+[Fri Jan 30 16:31:22 2026] Player "Discar" <STEAM_0:0:650470378> has spawned in the server
+[Fri Jan 30 16:33:28 2026] <STEAM_0:0:852556530> minoga1982: /ooc Кто не афк из РФ отзовитесь
+[Fri Jan 30 16:33:32 2026] <STEAM_0:1:192323559> TheSolarLegend /S/: // +
+[Fri Jan 30 16:33:40 2026] <STEAM_0:0:650470378> Discar: /ooc +
+[Fri Jan 30 16:34:10 2026] <STEAM_0:0:650470378> Discar: /ooc Двое рядовых против натовцев с большим арсеналом
+[Fri Jan 30 16:34:25 2026] <STEAM_0:0:852556530> minoga1982: /ooc Но у вас зато станция пополнения
+[Fri Jan 30 16:34:33 2026] <STEAM_0:0:852556530> minoga1982: /ooc А у нас ее нету
+[Fri Jan 30 16:36:00 2026] <STEAM_0:0:852556530> minoga1982: /ooc А вы на вч сидите или что?
+[Fri Jan 30 16:36:08 2026] <STEAM_0:1:192323559> TheSolarLegend /S/: // сидим чаи гоняем
+[Fri Jan 30 16:36:11 2026] Player "Worshiper of God" <STEAM_0:0:74235942> is attempting to connect.
+[Fri Jan 30 16:36:18 2026] <STEAM_0:0:852556530> minoga1982: /ooc К вам можно?
+[Fri Jan 30 16:36:20 2026] <STEAM_0:0:650470378> Discar: /ooc а нам что еще делать
+[Fri Jan 30 16:37:10 2026] Player "Worshiper of God" <STEAM_0:0:74235942> has spawned in the server
+[Fri Jan 30 16:37:14 2026] <STEAM_0:0:852556530> minoga1982: /ooc Впустите нас пожалуйста
+[Fri Jan 30 16:37:26 2026] <STEAM_0:0:852556530> minoga1982: /ooc А не нам законы запрещают
+[Fri Jan 30 16:37:28 2026] <STEAM_0:0:650470378> Discar: /ooc Н не можем
+[Fri Jan 30 16:37:30 2026] <STEAM_0:1:192323559> TheSolarLegend /S/: // вы кто такие? Я вас не звал, идите нахуй
+[Fri Jan 30 16:41:53 2026] Player "minoga1982" <STEAM_0:0:852556530> has left the server
+[Fri Jan 30 16:43:12 2026] Worshiper of God has killed TheSolarLegend /S/.
+[Fri Jan 30 16:43:13 2026] TheSolarLegend /S/ has killed TheSolarLegend /S/.
+[Fri Jan 30 16:43:18 2026] <STEAM_0:1:192323559> TheSolarLegend /S/: // сука
+[Fri Jan 30 16:43:23 2026] <STEAM_0:0:74235942> Worshiper of God: // хахаха
+[Fri Jan 30 16:43:31 2026] <STEAM_0:0:74235942> Worshiper of God: // ну я раз 20 мог убить тебя
+[Fri Jan 30 16:43:47 2026] <STEAM_0:0:74235942> Worshiper of God: // просто я думал вы побежите ко мне и сразу не стал убивать
+[Fri Jan 30 16:45:55 2026] <STEAM_0:0:74235942> Worshiper of God: // а че вы с базы то не выходите точки не отжимаете?
+[Fri Jan 30 16:46:01 2026] <STEAM_0:1:192323559> TheSolarLegend /S/: // нахуй надо
+[Fri Jan 30 16:46:10 2026] <STEAM_0:0:74235942> Worshiper of God: // всмесле нахуй надо?
+[Fri Jan 30 16:46:24 2026] <STEAM_0:1:192323559> TheSolarLegend /S/: // нам пиздов вставят если мы с базы съебемся
+[Fri Jan 30 16:46:35 2026] <STEAM_0:0:74235942> Worshiper of God: // кто это сказал?
+[Fri Jan 30 16:46:40 2026] <STEAM_0:1:192323559> TheSolarLegend /S/: // Устав
+[Fri Jan 30 16:46:57 2026] <STEAM_0:0:74235942> Worshiper of God: // щя вам будет новый устав
+[Fri Jan 30 16:47:04 2026] Player "Worshiper of God" <STEAM_0:0:74235942> has left the server
+[Fri Jan 30 16:47:05 2026] Player "Worshiper of God" <STEAM_0:0:74235942> is attempting to connect.
+[Fri Jan 30 16:47:10 2026] <STEAM_0:1:192323559> TheSolarLegend /S/: // ага, мечтай мечтай
+[Fri Jan 30 16:47:36 2026] Player "Worshiper of God" <STEAM_0:0:74235942> has spawned in the server
+[Fri Jan 30 16:49:52 2026] <STEAM_0:0:74235942> Worshiper of God: /rf а ну нахуй быстро всем собраться рядом с ангаром!
+[Fri Jan 30 16:50:26 2026] <STEAM_0:1:192323559> TheSolarLegend /S/: /looc че у тебя с голосом?
+[Fri Jan 30 16:57:22 2026] Player "TheSolarLegend /S/" <STEAM_0:1:192323559> has left the server
+[Fri Jan 30 17:00:26 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [515][sw_rocket_s8ko_v3]"
+[Fri Jan 30 17:00:37 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [515][sw_rocket_s8ko_v3]"
+[Fri Jan 30 17:00:39 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [519][sw_rocket_s8ko_v3]"
+[Fri Jan 30 17:00:44 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [514][sw_rocket_s8ko_v3]"
+[Fri Jan 30 17:00:53 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [519][sw_rocket_s8ko_v3]"
+[Fri Jan 30 17:00:59 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [519][sw_rocket_s25l_v3]"
+[Fri Jan 30 17:01:03 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [514][sw_rocket_s8ko_v3]"
+[Fri Jan 30 17:01:15 2026] <STEAM_0:0:586457449> Juk: /com че суки пизда вам я проснулся
+[Fri Jan 30 17:01:55 2026] Player "StoticS" <STEAM_0:1:607847294> has left the server
+[Fri Jan 30 17:02:46 2026] Player "Discar" <STEAM_0:0:650470378> has left the server
+[Fri Jan 30 17:03:14 2026] <STEAM_0:0:586457449> Juk: /rf блять
+[Fri Jan 30 17:03:20 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [511][lvs_wheeldrive_hummer]"
+[Fri Jan 30 17:03:25 2026] <STEAM_0:0:586457449> Juk: /rf ты где?
+[Fri Jan 30 17:04:10 2026] <STEAM_0:0:74235942> Worshiper of God used tool "creator"
+[Fri Jan 30 17:04:10 2026] <STEAM_0:0:74235942> Worshiper of God spawned SWEP "Weapon [668][tfa_ins2_warface_cheytac_m200]"
+[Fri Jan 30 17:04:11 2026] <STEAM_0:0:74235942> Worshiper of God used tool "creator"
+[Fri Jan 30 17:04:11 2026] <STEAM_0:0:74235942> Worshiper of God spawned SWEP "Weapon [669][tfa_ins2_warface_cheytac_m200]"
+[Fri Jan 30 17:04:11 2026] <STEAM_0:0:74235942> Worshiper of God used tool "creator"
+[Fri Jan 30 17:04:11 2026] <STEAM_0:0:74235942> Worshiper of God spawned SWEP "Weapon [670][tfa_ins2_warface_cheytac_m200]"
+[Fri Jan 30 17:04:11 2026] <STEAM_0:0:74235942> Worshiper of God used tool "creator"
+[Fri Jan 30 17:04:11 2026] <STEAM_0:0:74235942> Worshiper of God spawned SWEP "Weapon [671][tfa_ins2_warface_cheytac_m200]"
+[Fri Jan 30 17:04:11 2026] <STEAM_0:0:74235942> Worshiper of God used tool "creator"
+[Fri Jan 30 17:04:11 2026] <STEAM_0:0:74235942> Worshiper of God spawned SWEP "Weapon [672][tfa_ins2_warface_cheytac_m200]"
+[Fri Jan 30 17:04:11 2026] <STEAM_0:0:74235942> Worshiper of God used tool "creator"
+[Fri Jan 30 17:04:11 2026] <STEAM_0:0:74235942> Worshiper of God spawned SWEP "Weapon [673][tfa_ins2_warface_cheytac_m200]"
+[Fri Jan 30 17:04:11 2026] <STEAM_0:0:74235942> Worshiper of God used tool "creator"
+[Fri Jan 30 17:04:11 2026] <STEAM_0:0:74235942> Worshiper of God spawned SWEP "Weapon [675][tfa_ins2_warface_cheytac_m200]"
+[Fri Jan 30 17:05:22 2026] Player "Discar" <STEAM_0:0:650470378> is attempting to connect.
+[Fri Jan 30 17:06:05 2026] Juk has killed punk.
+[Fri Jan 30 17:06:10 2026] Player "Discar" <STEAM_0:0:650470378> has spawned in the server
+[Fri Jan 30 17:06:50 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [528][sw_rocket_kh22_v3]"
+[Fri Jan 30 17:06:59 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [528][sw_rocket_kh22_v3]"
+[Fri Jan 30 17:07:22 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [528][sw_bomb_fab1500m54_v3]"
+[Fri Jan 30 17:07:28 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [528][sw_rocket_kh47m2_v3]"
+[Fri Jan 30 17:07:41 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [528][sw_rocket_kh31_v3]"
+[Fri Jan 30 17:07:44 2026] punk has killed Juk.
+[Fri Jan 30 17:08:16 2026] <STEAM_0:0:74235942> Worshiper of God spawned SENT "Entity [548][sw_gaz2330]"
+[Fri Jan 30 17:08:17 2026] <STEAM_0:0:921324874> punk used tool "lamp"
+[Fri Jan 30 17:08:27 2026] <STEAM_0:0:921324874> punk used tool "remover"
+[Fri Jan 30 17:08:30 2026] <STEAM_0:0:74235942> Worshiper of God used tool "creator"
+[Fri Jan 30 17:08:30 2026] <STEAM_0:0:74235942> Worshiper of God spawned SENT "Entity [548][sw_rocket_9m528_v3]"
+[Fri Jan 30 17:08:40 2026] <STEAM_0:0:74235942> Worshiper of God spawned SENT "Entity [548][sw_rocket_9m22_v3]"
+[Fri Jan 30 17:08:43 2026] <STEAM_0:0:74235942> Worshiper of God spawned SENT "Entity [548][sw_rocket_9m17m_v3]"
+[Fri Jan 30 17:08:50 2026] <STEAM_0:0:921324874> punk used tool "witchergate"
+[Fri Jan 30 17:08:51 2026] <STEAM_0:0:74235942> Worshiper of God used tool "creator"
+[Fri Jan 30 17:08:51 2026] <STEAM_0:0:74235942> Worshiper of God spawned SENT "Entity [548][sw_rocket_9m133_v3]"
+[Fri Jan 30 17:08:54 2026] <STEAM_0:0:921324874> punk used tool "witchergate"
+[Fri Jan 30 17:09:04 2026] <STEAM_0:0:921324874> punk used tool "witchergate"
+[Fri Jan 30 17:09:09 2026] <STEAM_0:0:921324874> punk used tool "witchergate"
+[Fri Jan 30 17:09:12 2026] <STEAM_0:0:74235942> Worshiper of God used tool "creator"
+[Fri Jan 30 17:09:12 2026] <STEAM_0:0:74235942> Worshiper of God spawned SENT "Entity [555][sw_bomb_ao1_v3]"
+[Fri Jan 30 17:09:28 2026] worldspawn has killed Juk.
+[Fri Jan 30 17:09:47 2026] <STEAM_0:0:74235942> Worshiper of God spawned SENT "Entity [554][sw_bomb_ao1_v3]"
+[Fri Jan 30 17:09:54 2026] Worshiper of God has killed Juk.
+[Fri Jan 30 17:10:07 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [552][sw_bomb_fab9000m54_v3]"
+[Fri Jan 30 17:10:09 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [552][sw_rocket_kh47m2_v3]"
+[Fri Jan 30 17:10:10 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [555][sw_rocket_kh47m2_v3]"
+[Fri Jan 30 17:10:10 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [556][sw_rocket_kh47m2_v3]"
+[Fri Jan 30 17:10:10 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [557][sw_rocket_kh47m2_v3]"
+[Fri Jan 30 17:10:12 2026] punk has killed Juk.
+[Fri Jan 30 17:10:13 2026] Juk has killed Juk.
+[Fri Jan 30 17:10:24 2026] <STEAM_0:0:921324874> punk ran command "respawn Вакутагин "Тундр"
+[Fri Jan 30 17:10:32 2026] <STEAM_0:0:921324874> punk ran command "send Вакутагин "Тундр"
+[Fri Jan 30 17:10:45 2026] <STEAM_0:0:921324874> punk used tool "creator"
+[Fri Jan 30 17:10:45 2026] <STEAM_0:0:921324874> punk spawned SWEP "Weapon [526][tfa_ins2_m500]"
+[Fri Jan 30 17:10:48 2026] Player "Anna26STAV" <STEAM_0:1:396130867> is attempting to connect.
+[Fri Jan 30 17:10:57 2026] <STEAM_0:0:74235942> Worshiper of God used tool "creator"
+[Fri Jan 30 17:10:57 2026] <STEAM_0:0:74235942> Worshiper of God spawned SENT "Entity [527][sw_bomb_fab9000m54_v3]"
+[Fri Jan 30 17:10:59 2026] <STEAM_0:0:74235942> Worshiper of God used tool "creator"
+[Fri Jan 30 17:10:59 2026] <STEAM_0:0:74235942> Worshiper of God spawned SENT "Entity [527][sw_bomb_fab9000m54_v3]"
+[Fri Jan 30 17:11:19 2026] Worshiper of God has killed Juk.
+[Fri Jan 30 17:11:31 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [525][sw_rocket_kh22_v3]"
+[Fri Jan 30 17:11:34 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [525][sw_rocket_kh22_v3]"
+[Fri Jan 30 17:11:42 2026] <STEAM_0:0:74235942> Worshiper of God used tool "creator"
+[Fri Jan 30 17:11:42 2026] <STEAM_0:0:74235942> Worshiper of God spawned SENT "Entity [544][sw_rocket_kh47m2_v3]"
+[Fri Jan 30 17:11:46 2026] Worshiper of God has killed Juk.
+[Fri Jan 30 17:11:47 2026] Juk has killed Juk.
+[Fri Jan 30 17:11:52 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [548][sw_rocket_kh22_v3]"
+[Fri Jan 30 17:11:58 2026] <STEAM_0:0:74235942> Worshiper of God used tool "creator"
+[Fri Jan 30 17:11:58 2026] <STEAM_0:0:74235942> Worshiper of God spawned SENT "Entity [525][sw_rocket_kh555_v3]"
+[Fri Jan 30 17:12:02 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [527][sw_rocket_kh22_v3]"
+[Fri Jan 30 17:12:02 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [548][sw_rocket_kh22_v3]"
+[Fri Jan 30 17:12:03 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [549][sw_rocket_kh22_v3]"
+[Fri Jan 30 17:12:03 2026] Worshiper of God has killed Juk.
+[Fri Jan 30 17:12:38 2026] <STEAM_0:0:921324874> punk used tool "witchergate"
+[Fri Jan 30 17:12:40 2026] <STEAM_0:0:921324874> punk used tool "witchergate"
+[Fri Jan 30 17:12:48 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [548][sw_bomb_fab1500m46_v3]"
+[Fri Jan 30 17:12:54 2026] <STEAM_0:0:74235942> Worshiper of God used tool "creator"
+[Fri Jan 30 17:12:54 2026] <STEAM_0:0:74235942> Worshiper of God spawned SENT "Entity [527][sw_rocket_kh555_v3]"
+[Fri Jan 30 17:12:56 2026] <STEAM_0:0:921324874> punk used tool "witchergate"
+[Fri Jan 30 17:12:57 2026] <STEAM_0:0:74235942> Worshiper of God used tool "creator"
+[Fri Jan 30 17:12:57 2026] <STEAM_0:0:74235942> Worshiper of God spawned SENT "Entity [527][sw_rocket_kh555_v3]"
+[Fri Jan 30 17:12:59 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [527][sw_bomb_fab250m54_v3]"
+[Fri Jan 30 17:12:59 2026] <STEAM_0:0:74235942> Worshiper of God used tool "creator"
+[Fri Jan 30 17:12:59 2026] <STEAM_0:0:74235942> Worshiper of God spawned SENT "Entity [548][sw_rocket_kh58_v3]"
+[Fri Jan 30 17:13:01 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [527][sw_rocket_kh22_v3]"
+[Fri Jan 30 17:13:03 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [527][sw_rocket_kh22_v3]"
+[Fri Jan 30 17:13:11 2026] <STEAM_0:0:74235942> Worshiper of God used tool "creator"
+[Fri Jan 30 17:13:11 2026] <STEAM_0:0:74235942> Worshiper of God spawned SENT "Entity [527][sw_bomb_fab9000m54_v3]"
+[Fri Jan 30 17:13:14 2026] <STEAM_0:0:921324874> punk used tool "witchergate"
+[Fri Jan 30 17:13:17 2026] <STEAM_0:0:921324874> punk used tool "witchergate"
+[Fri Jan 30 17:13:18 2026] <STEAM_0:0:74235942> Worshiper of God used tool "creator"
+[Fri Jan 30 17:13:18 2026] <STEAM_0:0:74235942> Worshiper of God spawned SENT "Entity [527][sw_bomb_fab9000m54_v3]"
+[Fri Jan 30 17:13:19 2026] <STEAM_0:0:921324874> punk used tool "witchergate"
+[Fri Jan 30 17:13:36 2026] <STEAM_0:0:74235942> Worshiper of God used tool "creator"
+[Fri Jan 30 17:13:36 2026] <STEAM_0:0:74235942> Worshiper of God spawned SENT "Entity [527][sw_bomb_fab9000m54_v3]"
+[Fri Jan 30 17:13:40 2026] <STEAM_0:0:921324874> punk used tool "witchergate"
+[Fri Jan 30 17:13:42 2026] Worshiper of God has killed punk.
+[Fri Jan 30 17:13:42 2026] Worshiper of God has killed Juk.
+[Fri Jan 30 17:14:07 2026] <STEAM_0:0:74235942> Worshiper of God ran command "respawn Вакутагин "Тундр"
+[Fri Jan 30 17:14:13 2026] <STEAM_0:0:921324874> punk used tool "witchergate"
+[Fri Jan 30 17:14:14 2026] <STEAM_0:0:921324874> punk used tool "witchergate"
+[Fri Jan 30 17:14:17 2026] <STEAM_0:0:921324874> punk used tool "witchergate"
+[Fri Jan 30 17:14:20 2026] <STEAM_0:0:921324874> punk used tool "witchergate"
+[Fri Jan 30 17:14:22 2026] <STEAM_0:0:921324874> punk used tool "witchergate"
+[Fri Jan 30 17:14:23 2026] <STEAM_0:0:921324874> punk used tool "witchergate"
+[Fri Jan 30 17:14:30 2026] <STEAM_0:0:74235942> Worshiper of God used tool "creator"
+[Fri Jan 30 17:14:30 2026] <STEAM_0:0:74235942> Worshiper of God spawned SENT "Entity [528][sw_mine_tm62_v3]"
+[Fri Jan 30 17:14:35 2026] <STEAM_0:0:921324874> punk used tool "witchergate"
+[Fri Jan 30 17:14:36 2026] <STEAM_0:0:921324874> punk used tool "witchergate"
+[Fri Jan 30 17:14:43 2026] worldspawn has killed punk.
+[Fri Jan 30 17:15:35 2026] <STEAM_0:0:74235942> Worshiper of God used tool "creator"
+[Fri Jan 30 17:15:35 2026] <STEAM_0:0:74235942> Worshiper of God spawned SENT "Entity [556][sw_mine_pfm1_v3]"
+[Fri Jan 30 17:15:41 2026] <STEAM_0:0:921324874> punk ran command "goto Жнецов"
+[Fri Jan 30 17:15:53 2026] <STEAM_0:0:74235942> Worshiper of God used tool "creator"
+[Fri Jan 30 17:15:53 2026] <STEAM_0:0:74235942> Worshiper of God spawned SENT "Entity [523][sw_mine_pfm1_v3]"
+[Fri Jan 30 17:15:56 2026] Worshiper of God has killed Juk.
+[Fri Jan 30 17:16:12 2026] Worshiper of God has killed Juk.
+[Fri Jan 30 17:16:12 2026] Worshiper of God has killed Discar.
+[Fri Jan 30 17:17:00 2026] Worshiper of God has killed Juk.
+[Fri Jan 30 17:17:01 2026] Juk has killed Juk.
+[Fri Jan 30 17:17:42 2026] <STEAM_0:0:74235942> Worshiper of God spawned SENT "Entity [525][sw_mine_pfm1_v3]"
+[Fri Jan 30 17:18:06 2026] <STEAM_0:0:74235942> Worshiper of God spawned SENT "Entity [525][sw_mine_pfm1_v3]"
+[Fri Jan 30 17:18:07 2026] Worshiper of God has killed Juk.
+[Fri Jan 30 17:18:07 2026] Worshiper of God has killed Worshiper of God.
+[Fri Jan 30 17:18:11 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [510][sw_bomb_fab100m43_v3]"
+[Fri Jan 30 17:18:24 2026] <STEAM_0:0:586457449> Juk: /ooc где? ну тут где т...
+[Fri Jan 30 17:18:39 2026] <STEAM_0:0:74235942> Worshiper of God ran command "respawn Вакутагин "Тундр"
+[Fri Jan 30 17:18:44 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [528][sw_matv]"
+[Fri Jan 30 17:18:59 2026] <STEAM_0:0:921324874> punk spawned vehicle "Vehicle [528][prop_vehicle_prisoner_pod]"
+[Fri Jan 30 17:19:08 2026] <STEAM_0:0:74235942> Worshiper of God spawned SENT "Entity [545][sw_rocket_m14of_v3]"
+[Fri Jan 30 17:19:11 2026] Worshiper of God has killed Juk.
+[Fri Jan 30 17:19:11 2026] Worshiper of God has killed Worshiper of God.
+[Fri Jan 30 17:19:11 2026] Worshiper of God has killed Discar.
+[Fri Jan 30 17:19:12 2026] Juk has killed Juk.
+[Fri Jan 30 17:19:38 2026] <STEAM_0:0:74235942> Worshiper of God spawned SENT "Entity [528][sw_rocket_9m17m_v3]"
+[Fri Jan 30 17:19:40 2026] Worshiper of God has killed Worshiper of God.
+[Fri Jan 30 17:19:41 2026] Worshiper of God has killed Discar.
+[Fri Jan 30 17:19:41 2026] Worshiper of God has killed Worshiper of God.
+[Fri Jan 30 17:20:19 2026] <STEAM_0:0:921324874> punk spawned vehicle "Vehicle [561][prop_vehicle_jeep_old]"
+[Fri Jan 30 17:20:21 2026] <STEAM_0:0:921324874> punk spawned vehicle "Vehicle [561][prop_vehicle_jeep]"
+[Fri Jan 30 17:20:22 2026] <STEAM_0:0:74235942> Worshiper of God spawned SENT "Entity [564][sw_rocket_9m127_v3]"
+[Fri Jan 30 17:21:17 2026] worldspawn has killed Juk.
+[Fri Jan 30 17:21:45 2026] <STEAM_0:0:74235942> Worshiper of God spawned SENT "Entity [612][sw_bomb_odab500_v3]"
+[Fri Jan 30 17:22:00 2026] <STEAM_0:0:74235942> Worshiper of God spawned SENT "Entity [612][sw_bomb_odab500_v3]"
+[Fri Jan 30 17:22:05 2026] <STEAM_0:0:74235942> Worshiper of God spawned SENT "Entity [612][sw_bomb_odab500_v3]"
+[Fri Jan 30 17:22:05 2026] Worshiper of God has killed Worshiper of God.
+[Fri Jan 30 17:22:05 2026] Worshiper of God has killed Discar.
+[Fri Jan 30 17:22:06 2026] Worshiper of God has killed Worshiper of God.
+[Fri Jan 30 17:22:22 2026] <STEAM_0:0:921324874> punk ran command "ragdoll Жнецов"
+[Fri Jan 30 17:22:26 2026] <STEAM_0:0:921324874> punk ran command "respawn Жнецов"
+[Fri Jan 30 17:22:35 2026] <STEAM_0:0:74235942> Worshiper of God ran command "goto Вакутагин "Тундр"
+[Fri Jan 30 17:22:43 2026] <STEAM_0:0:74235942> Worshiper of God spawned SENT "Entity [545][sw_bomb_kab50tv_v3]"
+[Fri Jan 30 17:22:47 2026] <STEAM_0:0:74235942> Worshiper of God spawned SENT "Entity [545][sw_rocket_rs82_v3]"
+[Fri Jan 30 17:22:48 2026] Worshiper of God has killed Juk.
+[Fri Jan 30 17:22:48 2026] Worshiper of God has killed Worshiper of God.
+[Fri Jan 30 17:22:49 2026] Juk has killed Juk.
+[Fri Jan 30 17:23:09 2026] <STEAM_0:0:74235942> Worshiper of God spawned SENT "Entity [557][sw_bomb_fab3000m46_v3]"
+[Fri Jan 30 17:23:12 2026] <STEAM_0:0:74235942> Worshiper of God spawned SENT "Entity [514][sw_bomb_fab250m46_v3]"
+[Fri Jan 30 17:23:14 2026] <STEAM_0:0:74235942> Worshiper of God spawned SENT "Entity [514][sw_bomb_fab1500m54_umpk_v3]"
+[Fri Jan 30 17:23:27 2026] Worshiper of God has killed Juk.
+[Fri Jan 30 17:23:27 2026] Worshiper of God has killed Worshiper of God.
+[Fri Jan 30 17:23:28 2026] Juk has killed Juk.
+[Fri Jan 30 17:23:55 2026] Player "Worshiper of God" <STEAM_0:0:74235942> has left the server
+[Fri Jan 30 17:24:00 2026] <STEAM_0:0:921324874> punk used tool "witchergate"
+[Fri Jan 30 17:24:08 2026] <STEAM_0:0:921324874> punk used tool "witchergate"
+[Fri Jan 30 17:24:11 2026] <STEAM_0:0:921324874> punk used tool "witchergate"
+[Fri Jan 30 17:24:34 2026] <STEAM_0:0:921324874> punk used tool "witchergate"
+[Fri Jan 30 17:24:39 2026] <STEAM_0:0:921324874> punk ran command "goto Дискаров"
+[Fri Jan 30 17:24:44 2026] <STEAM_0:0:921324874> punk used tool "witchergate"
+[Fri Jan 30 17:24:56 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [519][sw_rocket_kh59mk2_v3]"
+[Fri Jan 30 17:25:40 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [519][sw_rocket_kh59mk2_v3]"
+[Fri Jan 30 17:26:16 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [519][sw_rocket_kh59mk2_v3]"
+[Fri Jan 30 17:26:16 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [547][sw_rocket_kh59mk2_v3]"
+[Fri Jan 30 17:26:16 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [548][sw_rocket_kh59mk2_v3]"
+[Fri Jan 30 17:26:17 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [549][sw_rocket_kh59mk2_v3]"
+[Fri Jan 30 17:26:17 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [550][sw_rocket_kh59mk2_v3]"
+[Fri Jan 30 17:26:17 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [553][sw_rocket_kh59mk2_v3]"
+[Fri Jan 30 17:26:17 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [557][sw_rocket_kh59mk2_v3]"
+[Fri Jan 30 17:26:19 2026] punk has killed Juk.
+[Fri Jan 30 17:26:28 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [508][sw_rocket_kh22_v3]"
+[Fri Jan 30 17:26:37 2026] <STEAM_0:0:921324874> punk ran command "respawn Вакутагин "Тундр"
+[Fri Jan 30 17:26:54 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [516][sw_rocket_kh59mk2_v3]"
+[Fri Jan 30 17:26:58 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [516][sw_rocket_kh59mk2_v3]"
+[Fri Jan 30 17:27:01 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [516][sw_rocket_kh59mk2_v3]"
+[Fri Jan 30 17:27:24 2026] punk has killed Juk.
+[Fri Jan 30 17:27:24 2026] punk has killed Discar.
+[Fri Jan 30 17:27:25 2026] Juk has killed Juk.
+[Fri Jan 30 17:27:49 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [517][sw_rocket_kh59mk2_v3]"
+[Fri Jan 30 17:28:06 2026] punk has killed Discar.
+[Fri Jan 30 17:28:42 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [593][sw_rocket_s5m_v3]"
+[Fri Jan 30 17:29:03 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [593][sw_rocket_s5m_v3]"
+[Fri Jan 30 17:29:31 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [594][sw_rocket_tt250_v3]"
+[Fri Jan 30 17:29:42 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [594][sw_bomb_upab1500v_v3]"
+[Fri Jan 30 17:29:47 2026] <STEAM_0:0:586457449> Juk: /ooc ПАНК!
+[Fri Jan 30 17:30:36 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [508][sw_rocket_s8ko_v3]"
+[Fri Jan 30 17:31:38 2026] <STEAM_0:0:921324874> punk used tool "creator"
+[Fri Jan 30 17:31:38 2026] <STEAM_0:0:921324874> punk spawned SWEP "Weapon [514][tfa_ins2_pm]"
+[Fri Jan 30 17:31:55 2026] Juk has killed Discar.
+[Fri Jan 30 17:31:57 2026] punk has killed Juk.
+[Fri Jan 30 17:31:58 2026] Juk has killed Juk.
+[Fri Jan 30 17:32:25 2026] worldspawn has killed Juk.
+[Fri Jan 30 17:32:37 2026] Discar has killed Juk.
+[Fri Jan 30 17:32:40 2026] punk has killed Discar.
+[Fri Jan 30 17:32:41 2026] Discar has killed Discar.
+[Fri Jan 30 17:32:49 2026] Player "Discar" <STEAM_0:0:650470378> has left the server
+[Fri Jan 30 17:32:50 2026] <STEAM_0:0:921324874> punk ran command "respawn Вакутагин "Тундр"
+[Fri Jan 30 17:34:55 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [517][sw_rocket_kh22_v3]"
+[Fri Jan 30 17:35:01 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [517][sw_rocket_kh59mk2_v3]"
+[Fri Jan 30 17:35:01 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [519][sw_rocket_kh59mk2_v3]"
+[Fri Jan 30 17:35:02 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [524][sw_rocket_kh59mk2_v3]"
+[Fri Jan 30 17:35:21 2026] punk has killed punk.
+[Fri Jan 30 17:35:21 2026] punk has killed Juk.
+[Fri Jan 30 17:35:42 2026] <STEAM_0:0:921324874> punk: // бб
+[Fri Jan 30 17:35:43 2026] Player "punk" <STEAM_0:0:921324874> has left the server
+[Fri Jan 30 17:35:48 2026] <STEAM_0:0:586457449> Juk: /ooc бб
+[Fri Jan 30 17:36:12 2026] Player "Juk" <STEAM_0:0:586457449> has left the server
+[Fri Jan 30 18:36:24 2026] Player "<¬Sokol¬>" <STEAM_0:0:773834507> is attempting to connect.
+[Fri Jan 30 18:44:39 2026] Player "Discar" <STEAM_0:0:650470378> is attempting to connect.
+[Fri Jan 30 18:45:31 2026] Player "Discar" <STEAM_0:0:650470378> has spawned in the server
+[Fri Jan 30 18:49:12 2026] Player "Discar" <STEAM_0:0:650470378> has left the server
+[Fri Jan 30 18:54:02 2026] Player "<¬Sokol¬>" <STEAM_0:0:773834507> has spawned in the server
+[Fri Jan 30 18:55:38 2026] Player "<¬Sokol¬>" <STEAM_0:0:773834507> has left the server
+[Fri Jan 30 19:06:06 2026] Player "gREG4IK" <STEAM_0:1:455594560> is attempting to connect.
+[Fri Jan 30 19:06:10 2026] Player "gREG4IK" <STEAM_0:1:455594560> is attempting to connect.
+[Fri Jan 30 19:07:41 2026] Player "Discar" <STEAM_0:0:650470378> is attempting to connect.
+[Fri Jan 30 19:08:09 2026] Player "gREG4IK" <STEAM_0:1:455594560> has spawned in the server
+[Fri Jan 30 19:09:29 2026] Player "Discar" <STEAM_0:0:650470378> has spawned in the server
+[Fri Jan 30 19:09:31 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [522][npc_combine_s]"
+[Fri Jan 30 19:09:44 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [522][sent_soccerball]"
+[Fri Jan 30 19:09:49 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [522][item_healthvial]"
+[Fri Jan 30 19:09:49 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [523][item_healthvial]"
+[Fri Jan 30 19:09:50 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [524][item_healthvial]"
+[Fri Jan 30 19:09:50 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [525][item_healthvial]"
+[Fri Jan 30 19:09:50 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [526][item_healthvial]"
+[Fri Jan 30 19:09:50 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [527][item_healthvial]"
+[Fri Jan 30 19:09:50 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [528][item_healthvial]"
+[Fri Jan 30 19:10:16 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [525][tfa_ins2_wpn_at4]"
+[Fri Jan 30 19:10:17 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [526][tfa_ins2_wpn_at4]"
+[Fri Jan 30 19:10:17 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [527][tfa_ins2_wpn_at4]"
+[Fri Jan 30 19:11:52 2026] Player "Discar" <STEAM_0:0:650470378> has left the server
+[Fri Jan 30 19:13:22 2026] Player "Discar" <STEAM_0:0:650470378> is attempting to connect.
+[Fri Jan 30 19:14:18 2026] Player "Discar" <STEAM_0:0:650470378> has spawned in the server
+[Fri Jan 30 19:23:11 2026] Player "Juk" <STEAM_0:0:586457449> is attempting to connect.
+[Fri Jan 30 19:25:19 2026] Player "Juk" <STEAM_0:0:586457449> has spawned in the server
+[Fri Jan 30 19:27:49 2026] <STEAM_0:0:586457449> Juk: иди нахуй я ем
+[Fri Jan 30 19:32:52 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [520][sw_rocket_4k40_v3]"
+[Fri Jan 30 19:32:55 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [520][sw_rocket_4k40_v3]"
+[Fri Jan 30 19:33:04 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [520][sw_rocket_4k40_v3]"
+[Fri Jan 30 19:33:26 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [520][sw_rocket_4k40_v3]"
+[Fri Jan 30 19:33:41 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [520][sw_rocket_4k40_v3]"
+[Fri Jan 30 19:33:51 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:33:51 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [518][sw_bomb_ao1_v3]"
+[Fri Jan 30 19:33:52 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:33:52 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [520][sw_bomb_ao1_v3]"
+[Fri Jan 30 19:33:52 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:33:52 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [598][sw_bomb_ao1_v3]"
+[Fri Jan 30 19:33:52 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:33:52 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [600][sw_bomb_ao1_v3]"
+[Fri Jan 30 19:33:52 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:33:52 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [601][sw_bomb_ao1_v3]"
+[Fri Jan 30 19:34:04 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:34:04 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [518][sw_bomb_ao1_v3]"
+[Fri Jan 30 19:34:04 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:34:04 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [520][sw_bomb_ao1_v3]"
+[Fri Jan 30 19:34:05 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:34:05 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [598][sw_bomb_ao1_v3]"
+[Fri Jan 30 19:34:05 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:34:05 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [600][sw_bomb_ao1_v3]"
+[Fri Jan 30 19:34:05 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:34:05 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [601][sw_bomb_ao1_v3]"
+[Fri Jan 30 19:34:05 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:34:05 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [602][sw_bomb_ao1_v3]"
+[Fri Jan 30 19:34:05 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:34:05 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [603][sw_bomb_ao1_v3]"
+[Fri Jan 30 19:34:05 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:34:05 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [604][sw_bomb_ao1_v3]"
+[Fri Jan 30 19:34:05 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:34:05 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [605][sw_bomb_ao1_v3]"
+[Fri Jan 30 19:34:06 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:34:06 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [606][sw_bomb_ao1_v3]"
+[Fri Jan 30 19:34:06 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:34:06 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [607][sw_bomb_ao1_v3]"
+[Fri Jan 30 19:34:06 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:34:06 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [608][sw_bomb_ao1_v3]"
+[Fri Jan 30 19:34:06 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:34:06 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [609][sw_bomb_ao1_v3]"
+[Fri Jan 30 19:34:06 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:34:06 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [610][sw_bomb_ao1_v3]"
+[Fri Jan 30 19:34:06 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:34:06 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [611][sw_bomb_ao1_v3]"
+[Fri Jan 30 19:34:06 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:34:06 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [612][sw_bomb_ao1_v3]"
+[Fri Jan 30 19:34:07 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:34:07 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [613][sw_bomb_ao1_v3]"
+[Fri Jan 30 19:34:07 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:34:07 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [614][sw_bomb_ao1_v3]"
+[Fri Jan 30 19:34:07 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:34:07 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [615][sw_bomb_ao1_v3]"
+[Fri Jan 30 19:34:17 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:34:17 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [520][sw_bomb_ao1_v3]"
+[Fri Jan 30 19:34:18 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:34:18 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [598][sw_bomb_ao1_v3]"
+[Fri Jan 30 19:34:19 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:34:19 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [600][sw_bomb_ao1_v3]"
+[Fri Jan 30 19:34:20 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:34:20 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [601][sw_bomb_ao1_v3]"
+[Fri Jan 30 19:34:21 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:34:21 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [602][sw_bomb_ao1_v3]"
+[Fri Jan 30 19:34:21 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:34:21 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [603][sw_bomb_ao1_v3]"
+[Fri Jan 30 19:34:22 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:34:22 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [604][sw_bomb_ao1_v3]"
+[Fri Jan 30 19:34:22 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:34:22 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [605][sw_bomb_ao1_v3]"
+[Fri Jan 30 19:34:23 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:34:23 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [606][sw_bomb_ao1_v3]"
+[Fri Jan 30 19:34:23 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:34:23 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [520][sw_bomb_ao1_v3]"
+[Fri Jan 30 19:34:24 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:34:24 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [598][sw_bomb_ao1_v3]"
+[Fri Jan 30 19:34:35 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:34:35 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [520][sw_bomb_brab250_v3]"
+[Fri Jan 30 19:34:36 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:34:36 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [598][sw_bomb_brab250_v3]"
+[Fri Jan 30 19:34:36 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:34:36 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [600][sw_bomb_brab250_v3]"
+[Fri Jan 30 19:34:36 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:34:36 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [601][sw_bomb_brab250_v3]"
+[Fri Jan 30 19:34:38 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:34:38 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [602][sw_bomb_brab250_v3]"
+[Fri Jan 30 19:34:40 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:34:40 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [604][sw_bomb_brab250_v3]"
+[Fri Jan 30 19:34:40 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:34:40 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [605][sw_bomb_brab250_v3]"
+[Fri Jan 30 19:34:41 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:34:41 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [606][sw_bomb_brab250_v3]"
+[Fri Jan 30 19:34:46 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:34:46 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [520][sw_bomb_brab250_v3]"
+[Fri Jan 30 19:35:10 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:35:10 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [518][sw_rocket_4k40_v3]"
+[Fri Jan 30 19:35:10 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:35:10 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [520][sw_rocket_4k40_v3]"
+[Fri Jan 30 19:35:10 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:35:10 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [598][sw_rocket_4k40_v3]"
+[Fri Jan 30 19:35:10 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:35:10 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [600][sw_rocket_4k40_v3]"
+[Fri Jan 30 19:35:11 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:35:11 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [601][sw_rocket_4k40_v3]"
+[Fri Jan 30 19:35:11 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:35:11 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [602][sw_rocket_4k40_v3]"
+[Fri Jan 30 19:35:11 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:35:11 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [603][sw_rocket_4k40_v3]"
+[Fri Jan 30 19:35:11 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:35:12 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [604][sw_rocket_4k40_v3]"
+[Fri Jan 30 19:35:12 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:35:12 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [605][sw_rocket_4k40_v3]"
+[Fri Jan 30 19:35:26 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:35:26 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [518][sw_rocket_9m14_2_v3]"
+[Fri Jan 30 19:35:26 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:35:26 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [520][sw_rocket_9m14_2_v3]"
+[Fri Jan 30 19:35:26 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:35:26 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [598][sw_rocket_9m14_2_v3]"
+[Fri Jan 30 19:35:26 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:35:26 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [600][sw_rocket_9m14_2_v3]"
+[Fri Jan 30 19:35:40 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:35:40 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [518][sw_bomb_kab500kr_v3]"
+[Fri Jan 30 19:35:40 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:35:40 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [520][sw_bomb_kab500kr_v3]"
+[Fri Jan 30 19:35:41 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:35:41 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [598][sw_bomb_kab500kr_v3]"
+[Fri Jan 30 19:35:41 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:35:41 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [600][sw_bomb_kab500kr_v3]"
+[Fri Jan 30 19:35:50 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:35:50 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [518][sw_bomb_kab500kr_v3]"
+[Fri Jan 30 19:35:50 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:35:50 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [520][sw_bomb_kab500kr_v3]"
+[Fri Jan 30 19:35:50 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:35:50 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [598][sw_bomb_kab500kr_v3]"
+[Fri Jan 30 19:35:51 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:35:51 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [600][sw_bomb_kab500kr_v3]"
+[Fri Jan 30 19:36:23 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:36:23 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [518][sw_bomb_kab500kr_v3]"
+[Fri Jan 30 19:36:23 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:36:23 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [520][sw_bomb_kab500kr_v3]"
+[Fri Jan 30 19:36:24 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:36:24 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [598][sw_bomb_kab500kr_v3]"
+[Fri Jan 30 19:36:24 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:36:24 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [600][sw_bomb_kab500kr_v3]"
+[Fri Jan 30 19:36:24 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:36:24 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [601][sw_bomb_kab500kr_v3]"
+[Fri Jan 30 19:36:24 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:36:24 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [602][sw_bomb_kab500kr_v3]"
+[Fri Jan 30 19:36:24 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:36:24 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [603][sw_bomb_kab500kr_v3]"
+[Fri Jan 30 19:36:24 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:36:24 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [604][sw_bomb_kab500kr_v3]"
+[Fri Jan 30 19:36:24 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:36:24 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [605][sw_bomb_kab500kr_v3]"
+[Fri Jan 30 19:36:33 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [518][npc_combine_s]"
+[Fri Jan 30 19:36:34 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [601][npc_citizen]"
+[Fri Jan 30 19:36:35 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [608][npc_combine_s]"
+[Fri Jan 30 19:36:37 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [600][npc_combine_s]"
+[Fri Jan 30 19:36:49 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [598][npc_combine_s]"
+[Fri Jan 30 19:36:50 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [609][npc_combine_s]"
+[Fri Jan 30 19:36:51 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [518][npc_combine_s]"
+[Fri Jan 30 19:36:52 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [615][npc_combine_s]"
+[Fri Jan 30 19:36:53 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [618][npc_combine_s]"
+[Fri Jan 30 19:36:53 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [622][npc_combine_s]"
+[Fri Jan 30 19:37:01 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [601][npc_combine_s]"
+[Fri Jan 30 19:37:02 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [626][npc_combine_s]"
+[Fri Jan 30 19:37:03 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [629][npc_combine_s]"
+[Fri Jan 30 19:37:08 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:37:08 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [635][sw_bomb_kab500kr_v3]"
+[Fri Jan 30 19:37:08 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:37:08 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [636][sw_bomb_kab500kr_v3]"
+[Fri Jan 30 19:37:15 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:37:15 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [632][sw_bomb_brab1000_1938_v3]"
+[Fri Jan 30 19:37:16 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:37:16 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [633][sw_bomb_brab1000_1938_v3]"
+[Fri Jan 30 19:37:16 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:37:16 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [634][sw_bomb_brab1000_1938_v3]"
+[Fri Jan 30 19:37:16 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:37:16 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [635][sw_bomb_brab1000_1938_v3]"
+[Fri Jan 30 19:37:16 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:37:16 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [636][sw_bomb_brab1000_1938_v3]"
+[Fri Jan 30 19:37:17 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:37:17 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [637][sw_bomb_brab1000_1938_v3]"
+[Fri Jan 30 19:37:17 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:37:17 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [638][sw_bomb_brab1000_1938_v3]"
+[Fri Jan 30 19:37:17 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:37:17 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [639][sw_bomb_brab1000_1938_v3]"
+[Fri Jan 30 19:37:17 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:37:17 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [640][sw_bomb_brab1000_1938_v3]"
+[Fri Jan 30 19:37:17 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:37:17 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [641][sw_bomb_brab1000_1938_v3]"
+[Fri Jan 30 19:46:08 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:46:08 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [518][sw_bomb_brab500m43_v3]"
+[Fri Jan 30 19:46:09 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:46:09 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [598][sw_bomb_brab500m43_v3]"
+[Fri Jan 30 19:46:09 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:46:09 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [600][sw_bomb_brab500m43_v3]"
+[Fri Jan 30 19:46:09 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:46:09 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [601][sw_bomb_brab500m43_v3]"
+[Fri Jan 30 19:46:09 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:46:09 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [602][sw_bomb_brab500m43_v3]"
+[Fri Jan 30 19:46:10 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:46:10 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [605][sw_bomb_brab500m43_v3]"
+[Fri Jan 30 19:46:10 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:46:10 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [606][sw_bomb_brab500m43_v3]"
+[Fri Jan 30 19:46:25 2026] <STEAM_0:0:586457449> Juk: /rp обассал ПЛАЦ НАТО
+[Fri Jan 30 19:47:20 2026] <STEAM_0:0:586457449> Juk: /rp поднял за одну сторону ящик
+[Fri Jan 30 19:47:36 2026] <STEAM_0:0:650470378> Discar: /me взял ящик
+[Fri Jan 30 19:47:39 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [518][npc_combine_s]"
+[Fri Jan 30 19:47:43 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [605][npc_combine_s]"
+[Fri Jan 30 19:47:44 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [608][npc_combine_s]"
+[Fri Jan 30 19:47:47 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [611][npc_combine_s]"
+[Fri Jan 30 19:47:47 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [614][npc_combine_s]"
+[Fri Jan 30 19:47:48 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [617][npc_combine_s]"
+[Fri Jan 30 19:47:49 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [620][npc_combine_s]"
+[Fri Jan 30 19:47:49 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [623][npc_combine_s]"
+[Fri Jan 30 19:47:50 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [627][npc_combine_s]"
+[Fri Jan 30 19:47:51 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [630][npc_combine_s]"
+[Fri Jan 30 19:47:52 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [635][npc_combine_s]"
+[Fri Jan 30 19:47:52 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [639][npc_combine_s]"
+[Fri Jan 30 19:47:55 2026] <STEAM_0:0:586457449> Juk: /rp опустил ящик
+[Fri Jan 30 19:47:59 2026] <STEAM_0:0:650470378> Discar: /me кинул ящик
+[Fri Jan 30 19:48:06 2026] Discar has killed Discar.
+[Fri Jan 30 19:48:15 2026] npc_combine_s has killed Discar.
+[Fri Jan 30 19:48:16 2026] Discar has killed Discar.
+[Fri Jan 30 19:49:19 2026] <STEAM_0:0:650470378> Discar: /me взял ящик
+[Fri Jan 30 19:49:25 2026] <STEAM_0:0:650470378> Discar: /me кинул ящик
+[Fri Jan 30 19:49:33 2026] <STEAM_0:0:586457449> Juk: /rp подхватил ящик
+[Fri Jan 30 19:49:36 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [518][npc_combine_s]"
+[Fri Jan 30 19:49:37 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [598][npc_combine_s]"
+[Fri Jan 30 19:49:40 2026] <STEAM_0:0:650470378> Discar: /me взял ящик
+[Fri Jan 30 19:49:46 2026] <STEAM_0:0:586457449> Juk: /me бросил
+[Fri Jan 30 19:49:46 2026] <STEAM_0:0:650470378> Discar: /me кинул ящик
+[Fri Jan 30 19:50:14 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:50:14 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [518][sw_bomb_kab250lg_v3]"
+[Fri Jan 30 19:50:23 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:50:23 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [518][sw_bomb_kab250lg_v3]"
+[Fri Jan 30 19:50:25 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:50:25 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [525][sw_bomb_kab250lg_v3]"
+[Fri Jan 30 19:50:25 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:50:25 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [526][sw_bomb_kab250lg_v3]"
+[Fri Jan 30 19:50:26 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:50:26 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [527][sw_bomb_kab250lg_v3]"
+[Fri Jan 30 19:50:26 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:50:26 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [598][sw_bomb_kab250lg_v3]"
+[Fri Jan 30 19:50:27 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:50:27 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [600][sw_bomb_kab250lg_v3]"
+[Fri Jan 30 19:50:27 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:50:27 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [602][sw_bomb_kab250lg_v3]"
+[Fri Jan 30 19:50:27 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:50:27 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [608][sw_bomb_kab250lg_v3]"
+[Fri Jan 30 19:50:36 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:50:36 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [525][sw_bomb_kab250lg_v3]"
+[Fri Jan 30 19:50:39 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:50:39 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [526][sw_bomb_kab250lg_v3]"
+[Fri Jan 30 19:50:40 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:50:40 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [527][sw_bomb_kab250lg_v3]"
+[Fri Jan 30 19:50:41 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:50:41 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [598][sw_bomb_kab250lg_v3]"
+[Fri Jan 30 19:50:41 2026] <STEAM_0:0:650470378> Discar: /me взял ящик, и с усилями держит между ног
+[Fri Jan 30 19:50:41 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:50:41 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [600][sw_bomb_kab250lg_v3]"
+[Fri Jan 30 19:50:42 2026] <STEAM_0:0:586457449> Juk: /rp подхватил ящик
+[Fri Jan 30 19:50:43 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:50:43 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [602][sw_bomb_kab250lg_v3]"
+[Fri Jan 30 19:50:43 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:50:43 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [608][sw_bomb_kab250lg_v3]"
+[Fri Jan 30 19:50:43 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:50:43 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [609][sw_bomb_kab250lg_v3]"
+[Fri Jan 30 19:50:48 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:50:48 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [525][sw_bomb_kab250lg_v3]"
+[Fri Jan 30 19:50:50 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:50:50 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [526][sw_bomb_kab250lg_v3]"
+[Fri Jan 30 19:50:51 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:50:51 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [527][sw_bomb_kab250lg_v3]"
+[Fri Jan 30 19:50:53 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:50:53 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [598][sw_bomb_kab250lg_v3]"
+[Fri Jan 30 19:50:55 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:50:55 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [600][sw_bomb_kab250lg_v3]"
+[Fri Jan 30 19:51:00 2026] <STEAM_0:0:586457449> Juk: /rp засунули в тигр
+[Fri Jan 30 19:51:04 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:51:04 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [525][sw_bomb_kab250lg_v3]"
+[Fri Jan 30 19:51:05 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:51:05 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [526][sw_bomb_kab250lg_v3]"
+[Fri Jan 30 19:51:07 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:51:07 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [527][sw_bomb_kab250lg_v3]"
+[Fri Jan 30 19:51:13 2026] <STEAM_0:0:650470378> Discar: /me положил одну сторону ящика, затем
+[Fri Jan 30 19:51:21 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:51:21 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [525][sw_bomb_odab500_v3]"
+[Fri Jan 30 19:51:37 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:51:37 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [525][sw_bomb_ofab250sh_v3]"
+[Fri Jan 30 19:51:40 2026] Player "Zhenechka" <STEAM_0:0:114787793> is attempting to connect.
+[Fri Jan 30 19:51:48 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:51:48 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [525][sw_bomb_kab1500kr_v3]"
+[Fri Jan 30 19:52:03 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:52:03 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [525][sw_bomb_brab1000m43_v3]"
+[Fri Jan 30 19:52:06 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:52:06 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [526][sw_bomb_brab1000m43_v3]"
+[Fri Jan 30 19:52:26 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [526][sw_rocket_4k40_v3]"
+[Fri Jan 30 19:52:27 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [527][sw_rocket_4k40_v3]"
+[Fri Jan 30 19:52:31 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [527][sw_rocket_4k40_v3]"
+[Fri Jan 30 19:53:31 2026] Player "Zhenechka" <STEAM_0:0:114787793> has spawned in the server
+[Fri Jan 30 19:53:43 2026] <STEAM_0:0:586457449> Juk: /rp стазил ящик на землю
+[Fri Jan 30 19:53:49 2026] <STEAM_0:0:650470378> Discar: /me подтолкнул ящик к человеку на протиив
+[Fri Jan 30 19:54:02 2026] <STEAM_0:0:650470378> Discar: /me подтолкнул ящик к человеку на протиив
+[Fri Jan 30 19:54:02 2026] <STEAM_0:0:586457449> Juk: /rp взял одну сторону и несу
+[Fri Jan 30 19:54:20 2026] <STEAM_0:0:650470378> Discar: /me ящик за другую сторону
+[Fri Jan 30 19:54:35 2026] <STEAM_0:0:586457449> Juk: /rp поставил ящик
+[Fri Jan 30 19:55:04 2026] <STEAM_0:0:650470378> Discar: /me поставил ящик на пол, затем выровнил подтолкнув к стене
+[Fri Jan 30 19:55:43 2026] Player "impotent" <STEAM_0:1:425612974> is attempting to connect.
+[Fri Jan 30 19:57:51 2026] Player "impotent" <STEAM_0:1:425612974> has spawned in the server
+[Fri Jan 30 19:57:56 2026] Juk has killed Juk.
+[Fri Jan 30 19:59:37 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 19:59:37 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [621][sw_rocket_4k40_v3]"
+[Fri Jan 30 19:59:47 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [621][sw_rocket_9m113_v3]"
+[Fri Jan 30 19:59:53 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [621][sw_rocket_9m113_v3]"
+[Fri Jan 30 19:59:54 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [621][sw_rocket_4k40_v3]"
+[Fri Jan 30 20:00:15 2026] <STEAM_0:1:455594560> gREG4IK ran command "noclip Капитан Грэг"
+[Fri Jan 30 20:00:16 2026] <STEAM_0:1:425612974> impotent: /ooc э бля
+[Fri Jan 30 20:00:17 2026] <STEAM_0:1:455594560> gREG4IK ran command "noclip Капитан Грэг"
+[Fri Jan 30 20:00:24 2026] <STEAM_0:1:455594560> gREG4IK ran command "invisible Капитан Грэг"
+[Fri Jan 30 20:01:26 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [515][bodygroup]"
+[Fri Jan 30 20:01:54 2026] Player "Фiжма" <STEAM_0:1:942364657> is attempting to connect.
+[Fri Jan 30 20:01:54 2026] <STEAM_0:0:586457449> Juk: /com ждем америкосов на базе
+[Fri Jan 30 20:02:02 2026] Player "StoticS" <STEAM_0:1:607847294> is attempting to connect.
+[Fri Jan 30 20:02:10 2026] <STEAM_0:1:455594560> gREG4IK: /ooc как по не защищенной пиздеть?
+[Fri Jan 30 20:02:12 2026] <STEAM_0:0:586457449> Juk: /com на плацу нахуй
+[Fri Jan 30 20:02:16 2026] <STEAM_0:0:586457449> Juk: /ooc /com
+[Fri Jan 30 20:02:31 2026] <STEAM_0:1:455594560> gREG4IK: /com Вам будет плохо Русские сдайтесь.
+[Fri Jan 30 20:02:39 2026] <STEAM_0:0:586457449> Juk: /com а мы не воевать
+[Fri Jan 30 20:02:47 2026] <STEAM_0:0:586457449> Juk: /com на плац бегом сука
+[Fri Jan 30 20:02:49 2026] Player "Фiжма" <STEAM_0:1:942364657> has spawned in the server
+[Fri Jan 30 20:03:17 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [654][tfa_ins2_wpn_at4]"
+[Fri Jan 30 20:03:18 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [656][tfa_ins2_wpn_at4]"
+[Fri Jan 30 20:03:32 2026] Player "StoticS" <STEAM_0:1:607847294> has spawned in the server
+[Fri Jan 30 20:04:19 2026] <STEAM_0:1:607847294> StoticS: /nato [rp] расписался за снаряжение
+[Fri Jan 30 20:04:20 2026] impotent has killed Juk.
+[Fri Jan 30 20:04:29 2026] <STEAM_0:0:586457449> Juk: /ooc АПХАХХАХАХА
+[Fri Jan 30 20:04:59 2026] <STEAM_0:1:455594560> gREG4IK ran command "send Вакутагин "Тундр"
+[Fri Jan 30 20:05:25 2026] Фiжма has killed Juk.
+[Fri Jan 30 20:05:26 2026] Juk has killed Juk.
+[Fri Jan 30 20:05:47 2026] gREG4IK has killed Discar.
+[Fri Jan 30 20:06:35 2026] <STEAM_0:1:942364657> Фiжма: нету нечего
+[Fri Jan 30 20:06:36 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [552][handcuffed]"
+[Fri Jan 30 20:06:37 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [553][handcuffed]"
+[Fri Jan 30 20:06:46 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [553][handcuffed]"
+[Fri Jan 30 20:06:46 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [554][handcuffed]"
+[Fri Jan 30 20:06:47 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [553][handcuffed]"
+[Fri Jan 30 20:06:47 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [555][handcuffed]"
+[Fri Jan 30 20:06:47 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [556][handcuffed]"
+[Fri Jan 30 20:06:47 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [557][handcuffed]"
+[Fri Jan 30 20:06:48 2026] <STEAM_0:0:114787793> Zhenechka: // тут
+[Fri Jan 30 20:06:57 2026] <STEAM_0:0:586457449> Juk: /rf я в плену блять
+[Fri Jan 30 20:07:04 2026] <STEAM_0:0:114787793> Zhenechka: // а ок
+[Fri Jan 30 20:07:07 2026] <STEAM_0:0:114787793> Zhenechka: // бывает
+[Fri Jan 30 20:07:11 2026] <STEAM_0:0:114787793> Zhenechka: // сиди там
+[Fri Jan 30 20:07:21 2026] Player "****UNCLE-BENZ****" <STEAM_0:0:16554128> is attempting to connect.
+[Fri Jan 30 20:07:27 2026] <STEAM_0:1:942364657> Фiжма: стой
+[Fri Jan 30 20:07:40 2026] <STEAM_0:0:114787793> Zhenechka: // блять
+[Fri Jan 30 20:07:43 2026] <STEAM_0:0:114787793> Zhenechka: // транспорт
+[Fri Jan 30 20:07:48 2026] <STEAM_0:0:114787793> Zhenechka: // будут фиксить
+[Fri Jan 30 20:07:50 2026] <STEAM_0:0:114787793> Zhenechka: // или нет
+[Fri Jan 30 20:08:24 2026] Player "Друнность" <STEAM_0:0:454843957> is attempting to connect.
+[Fri Jan 30 20:08:31 2026] <STEAM_0:1:607847294> StoticS: /me изъял все орижие и снаряжение у человека напроти (в том числе и рацию)
+[Fri Jan 30 20:08:57 2026] <STEAM_0:1:942364657> Фiжма: я уже в рапорт написал про теб
+[Fri Jan 30 20:09:11 2026] <STEAM_0:1:942364657> Фiжма: соси хуец
+[Fri Jan 30 20:09:25 2026] <STEAM_0:0:586457449> Juk: /y РЯДИК НЕ СОГЛАШАЙСЯ
+[Fri Jan 30 20:10:05 2026] <STEAM_0:0:586457449> Juk: /y ПОДОЙДИ К РЕШЕТКЕ
+[Fri Jan 30 20:10:20 2026] Фiжма has killed Juk.
+[Fri Jan 30 20:10:21 2026] Juk has killed Juk.
+[Fri Jan 30 20:10:35 2026] <STEAM_0:1:942364657> Фiжма: сбежал тварь
+[Fri Jan 30 20:11:14 2026] <STEAM_0:1:942364657> Фiжма: /me изьял все оружие
+[Fri Jan 30 20:11:21 2026] <STEAM_0:1:607847294> StoticS: /me изъял все орижие и снаряжение у человека напроти (в том числе и рацию)
+[Fri Jan 30 20:11:30 2026] <STEAM_0:1:942364657> Фiжма: /me изьял все оружие
+[Fri Jan 30 20:11:35 2026] <STEAM_0:1:942364657> Фiжма: /me изьял все оружие
+[Fri Jan 30 20:11:46 2026] <STEAM_0:1:942364657> Фiжма: /me изьял все оружие
+[Fri Jan 30 20:11:57 2026] <STEAM_0:1:607847294> StoticS: /me приковал человека напротив к решотке с права
+[Fri Jan 30 20:11:59 2026] <STEAM_0:1:425612974> impotent: /nato у укрепрайона помощь нужна
+[Fri Jan 30 20:12:04 2026] <STEAM_0:1:942364657> Фiжма: у анс будеш
+[Fri Jan 30 20:12:20 2026] <STEAM_0:1:942364657> Фiжма: ну что ты
+[Fri Jan 30 20:12:35 2026] <STEAM_0:1:942364657> Фiжма: нахуй ты вообще приехал бля
+[Fri Jan 30 20:13:27 2026] <STEAM_0:1:942364657> Фiжма: окак
+[Fri Jan 30 20:13:32 2026] <STEAM_0:1:942364657> Фiжма: полиция
+[Fri Jan 30 20:13:45 2026] <STEAM_0:1:942364657> Фiжма: ну ну
+[Fri Jan 30 20:14:13 2026] <STEAM_0:1:942364657> Фiжма: ну ну
+[Fri Jan 30 20:14:22 2026] Фiжма has killed Discar.
+[Fri Jan 30 20:14:34 2026] <STEAM_0:1:942364657> Фiжма: он еблан
+[Fri Jan 30 20:14:50 2026] <STEAM_0:1:942364657> Фiжма: иди нах
+[Fri Jan 30 20:15:18 2026] Zhenechka has killed impotent.
+[Fri Jan 30 20:15:18 2026] impotent has killed impotent.
+[Fri Jan 30 20:15:45 2026] <STEAM_0:0:114787793> Zhenechka: Руки поднял
+[Fri Jan 30 20:15:52 2026] <STEAM_0:0:114787793> Zhenechka: что бы я их выдел
+[Fri Jan 30 20:15:57 2026] <STEAM_0:1:942364657> Фiжма: /nato Капитан Грэг как в рейнжеры поступить?
+[Fri Jan 30 20:15:58 2026] <STEAM_0:0:114787793> Zhenechka: и замной
+[Fri Jan 30 20:15:59 2026] <STEAM_0:1:425612974> impotent: /me Медленно поднял левую руку
+[Fri Jan 30 20:16:47 2026] Player "Discar" <STEAM_0:0:650470378> has left the server
+[Fri Jan 30 20:17:25 2026] <STEAM_0:1:607847294> StoticS: /me дал в потдых человеку на против
+[Fri Jan 30 20:17:44 2026] <STEAM_0:0:114787793> Zhenechka: лицом
+[Fri Jan 30 20:17:57 2026] Player "ТАГИЛЛА" <STEAM_0:1:782845482> is attempting to connect.
+[Fri Jan 30 20:17:58 2026] <STEAM_0:0:114787793> Zhenechka: /me забирает оружие
+[Fri Jan 30 20:18:03 2026] Player "Discar" <STEAM_0:0:650470378> is attempting to connect.
+[Fri Jan 30 20:18:05 2026] <STEAM_0:0:114787793> Zhenechka: /me кладет на пол
+[Fri Jan 30 20:18:16 2026] <STEAM_0:0:114787793> Zhenechka: /me залопал руки и ведет
+[Fri Jan 30 20:18:27 2026] <STEAM_0:0:114787793> Zhenechka: Пошли сука
+[Fri Jan 30 20:19:00 2026] Player "Друнность" <STEAM_0:0:454843957> has spawned in the server
+[Fri Jan 30 20:19:03 2026] Player "Фiжма" <STEAM_0:1:942364657> has left the server
+[Fri Jan 30 20:19:14 2026] Player "Discar" <STEAM_0:0:650470378> has spawned in the server
+[Fri Jan 30 20:19:20 2026] <STEAM_0:0:114787793> Zhenechka: Сиди тут
+[Fri Jan 30 20:19:22 2026] <STEAM_0:1:607847294> StoticS: /nato капитан грег ваше 10-20?
+[Fri Jan 30 20:19:26 2026] <STEAM_0:0:114787793> Zhenechka: И не рыпайся
+[Fri Jan 30 20:19:43 2026] Player "ТАГИЛЛА" <STEAM_0:1:782845482> has spawned in the server
+[Fri Jan 30 20:20:07 2026] <STEAM_0:0:114787793> Zhenechka: // есть кто на базе
+[Fri Jan 30 20:20:09 2026] <STEAM_0:0:586457449> Juk: /me сломал большой палец и тяну через боль руку
+[Fri Jan 30 20:20:28 2026] <STEAM_0:1:607847294> StoticS: /nato капитан грег ваше 10-20(местоположение)?
+[Fri Jan 30 20:22:27 2026] Player "****UNCLE-BENZ****" <STEAM_0:0:16554128> has spawned in the server
+[Fri Jan 30 20:23:37 2026] <STEAM_0:1:607847294> StoticS: /me отвязал человека напротив от клетки
+[Fri Jan 30 20:23:48 2026] <STEAM_0:0:16554128> ****UNCLE-BENZ****: Здравия
+[Fri Jan 30 20:24:09 2026] <STEAM_0:0:16554128> ****UNCLE-BENZ****: Хочу быть в вертолетном полку
+[Fri Jan 30 20:24:24 2026] <STEAM_0:0:16554128> ****UNCLE-BENZ****: Коми Никита Сергеевич
+[Fri Jan 30 20:24:53 2026] <STEAM_0:1:782845482> ТАГИЛЛА: АЙ
+[Fri Jan 30 20:24:56 2026] <STEAM_0:1:782845482> ТАГИЛЛА: он меня ударил
+[Fri Jan 30 20:24:58 2026] <STEAM_0:1:782845482> ТАГИЛЛА: и убежал
+[Fri Jan 30 20:25:08 2026] <STEAM_0:1:782845482> ТАГИЛЛА: неееете
+[Fri Jan 30 20:25:10 2026] <STEAM_0:1:425612974> impotent: /nato Я выбрался из плена
+[Fri Jan 30 20:25:12 2026] <STEAM_0:1:782845482> ТАГИЛЛА: я клянусь
+[Fri Jan 30 20:25:15 2026] <STEAM_0:1:782845482> ТАГИЛЛА: НЕТ ФУУУ
+[Fri Jan 30 20:25:17 2026] <STEAM_0:1:782845482> ТАГИЛЛА: АМЕРИКА
+[Fri Jan 30 20:25:19 2026] <STEAM_0:1:782845482> ТАГИЛЛА: ФУУУ
+[Fri Jan 30 20:25:20 2026] <STEAM_0:1:425612974> impotent: /nato Что-то их слишком дохера
+[Fri Jan 30 20:25:22 2026] <STEAM_0:1:782845482> ТАГИЛЛА: ФУУУУ АМЕРИИИКА
+[Fri Jan 30 20:25:22 2026] StoticS has killed Juk.
+[Fri Jan 30 20:25:23 2026] Juk has killed Juk.
+[Fri Jan 30 20:25:23 2026] <STEAM_0:1:782845482> ТАГИЛЛА: ФФУУУУУУУУУ
+[Fri Jan 30 20:25:28 2026] <STEAM_0:1:782845482> ТАГИЛЛА: америка говно
+[Fri Jan 30 20:25:29 2026] <STEAM_0:1:425612974> impotent: /nato на базе
+[Fri Jan 30 20:25:32 2026] <STEAM_0:1:782845482> ТАГИЛЛА: у меня руки а спиной
+[Fri Jan 30 20:25:34 2026] <STEAM_0:0:586457449> Juk: /ooc типо рпк?
+[Fri Jan 30 20:25:57 2026] <STEAM_0:1:607847294> StoticS: // нет, хрен с тобой
+[Fri Jan 30 20:25:59 2026] Discar has killed ТАГИЛЛА.
+[Fri Jan 30 20:26:07 2026] <STEAM_0:1:607847294> StoticS: // бегай дальше
+[Fri Jan 30 20:26:07 2026] <STEAM_0:0:16554128> ****UNCLE-BENZ****: Как же похуй
+[Fri Jan 30 20:26:31 2026] <STEAM_0:0:16554128> ****UNCLE-BENZ****: Выдайте мне вертолетный полк
+[Fri Jan 30 20:26:35 2026] <STEAM_0:1:425612974> impotent: /nato Хлопцы, откройте ворота
+[Fri Jan 30 20:26:44 2026] Player "ТАГИЛЛА" <STEAM_0:1:782845482> has left the server
+[Fri Jan 30 20:26:44 2026] <STEAM_0:1:425612974> impotent: /nato Отец домой вернулся
+[Fri Jan 30 20:26:46 2026] Player "ТАГИЛЛА" <STEAM_0:1:782845482> is attempting to connect.
+[Fri Jan 30 20:26:48 2026] <STEAM_0:0:586457449> Juk: /me отдал честь
+[Fri Jan 30 20:26:59 2026] <STEAM_0:0:16554128> ****UNCLE-BENZ****: е пДолбаебы
+[Fri Jan 30 20:27:01 2026] <STEAM_0:0:16554128> ****UNCLE-BENZ****: Долбаебы
+[Fri Jan 30 20:27:04 2026] <STEAM_0:0:16554128> ****UNCLE-BENZ****: У него имя
+[Fri Jan 30 20:27:05 2026] <STEAM_0:0:16554128> ****UNCLE-BENZ****: полковник
+[Fri Jan 30 20:27:11 2026] <STEAM_0:0:16554128> ****UNCLE-BENZ****: Это фейк нахуй
+[Fri Jan 30 20:27:17 2026] <STEAM_0:0:16554128> ****UNCLE-BENZ****: Это фейк полковник
+[Fri Jan 30 20:27:23 2026] <STEAM_0:0:16554128> ****UNCLE-BENZ****: Пусть удос-ние покажет
+[Fri Jan 30 20:27:33 2026] <STEAM_0:0:650470378> Discar: /me прикоснулся к шифронам падщего солдата
+[Fri Jan 30 20:27:34 2026] <STEAM_0:0:16554128> ****UNCLE-BENZ****: стойте\nв
+[Fri Jan 30 20:27:38 2026] <STEAM_0:0:16554128> ****UNCLE-BENZ****: стой
+[Fri Jan 30 20:27:39 2026] <STEAM_0:0:16554128> ****UNCLE-BENZ****: СТОЙ
+[Fri Jan 30 20:27:42 2026] <STEAM_0:0:16554128> ****UNCLE-BENZ****: ЭТО ФЕЙК ПОЛКОВНИК
+[Fri Jan 30 20:27:50 2026] <STEAM_0:0:16554128> ****UNCLE-BENZ****: Удос-ние спросите
+[Fri Jan 30 20:28:15 2026] <STEAM_0:0:16554128> ****UNCLE-BENZ****: Причина задержания
+[Fri Jan 30 20:28:16 2026] <STEAM_0:0:650470378> Discar: /me легкими движениями рук прикоснулся к погонам, затем резко и выдернул и убрал в сторонку
+[Fri Jan 30 20:28:31 2026] <STEAM_0:0:16554128> ****UNCLE-BENZ****: Да иди ты нахуй
+[Fri Jan 30 20:28:33 2026] Player "****UNCLE-BENZ****" <STEAM_0:0:16554128> has left the server
+[Fri Jan 30 20:28:37 2026] Juk has killed Juk.
+[Fri Jan 30 20:28:44 2026] <STEAM_0:0:454843957> Друнность: /me трахнул
+[Fri Jan 30 20:29:08 2026] <STEAM_0:0:650470378> Discar: /me  начал снимать снаряжение начиная с юронежилета и шлема
+[Fri Jan 30 20:29:15 2026] Player "ТАГИЛЛА" <STEAM_0:1:782845482> is attempting to connect.
+[Fri Jan 30 20:29:20 2026] <STEAM_0:0:650470378> Discar: /do  Процесс.....
+[Fri Jan 30 20:29:32 2026] <STEAM_0:0:650470378> Discar: /do  Бронежилет снят.
+[Fri Jan 30 20:29:57 2026] Player "ТАГИЛЛА" <STEAM_0:1:782845482> has spawned in the server
+[Fri Jan 30 20:29:57 2026] <STEAM_0:0:650470378> Discar: /me начал снимать униформу до трусов падщего бойца
+[Fri Jan 30 20:30:05 2026] <STEAM_0:0:650470378> Discar: /do  Процесс.....
+[Fri Jan 30 20:30:11 2026] <STEAM_0:0:650470378> Discar: /do  Процесс.....
+[Fri Jan 30 20:30:13 2026] <STEAM_0:0:650470378> Discar: /do  Процесс.....
+[Fri Jan 30 20:30:24 2026] Player "Грымза" <STEAM_0:1:826463988> is attempting to connect.
+[Fri Jan 30 20:30:38 2026] <STEAM_0:0:650470378> Discar: /do  Униформа была снята и убрана в сторонку.
+[Fri Jan 30 20:30:57 2026] impotent has killed Discar.
+[Fri Jan 30 20:31:42 2026] <STEAM_0:0:586457449> Juk: /ooc снимите нам бмп..
+[Fri Jan 30 20:31:45 2026] impotent has killed Zhenechka.
+[Fri Jan 30 20:31:48 2026] <STEAM_0:0:454843957> Друнность: /ooc выдайте профу пж
+[Fri Jan 30 20:32:04 2026] <STEAM_0:0:114787793> Zhenechka: // как тут рация ыоощще
+[Fri Jan 30 20:32:07 2026] <STEAM_0:0:114787793> Zhenechka: // работае
+[Fri Jan 30 20:32:17 2026] <STEAM_0:0:114787793> Zhenechka: // КУЗЯ ДАЙ ТРАНСПОРТ
+[Fri Jan 30 20:32:36 2026] <STEAM_0:0:650470378> Discar: /ooc не смог я разобратся с дезертиром, меня похитили
+[Fri Jan 30 20:33:57 2026] <STEAM_0:0:114787793> Zhenechka: // ебать пинг на сервере
+[Fri Jan 30 20:34:07 2026] Player "бамболби" <STEAM_0:0:562764068> is attempting to connect.
+[Fri Jan 30 20:34:19 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // хде нато
+[Fri Jan 30 20:34:29 2026] <STEAM_0:0:586457449> Juk: /ooc у меня в плену
+[Fri Jan 30 20:34:34 2026] Player "der Deutsche" <STEAM_0:1:411221606> is attempting to connect.
+[Fri Jan 30 20:34:42 2026] <STEAM_0:1:425612974> impotent: /nato Рекрут, иди ко входу
+[Fri Jan 30 20:34:47 2026] Player "StoticS" <STEAM_0:1:607847294> has left the server
+[Fri Jan 30 20:34:54 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // де он
+[Fri Jan 30 20:35:15 2026] Player "StoticS" <STEAM_0:1:607847294> is attempting to connect.
+[Fri Jan 30 20:35:41 2026] <STEAM_0:1:425612974> impotent: /me Забрал калашников у человека напротив, после повесил за спину
+[Fri Jan 30 20:35:55 2026] Player "StoticS" <STEAM_0:1:607847294> has spawned in the server
+[Fri Jan 30 20:36:35 2026] <STEAM_0:1:607847294> StoticS: /nato [rp] расписался за снаряжение
+[Fri Jan 30 20:36:57 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // грэгнг я тебя жду
+[Fri Jan 30 20:37:05 2026] <STEAM_0:1:607847294> StoticS: // грег у нас пополнение
+[Fri Jan 30 20:37:10 2026] <STEAM_0:0:454843957> Друнность: /ooc белка целуй меня
+[Fri Jan 30 20:37:36 2026] <STEAM_0:1:425612974> impotent: /com Эй, уроды. Вас Рядовой сейчас чистит американские унитазы. Если хотите его забрать, то притащите ТИГР на нашу базу. Ждем вас, хлопцы
+[Fri Jan 30 20:37:54 2026] <STEAM_0:0:586457449> Juk: /com пошел нахуй хуй ебанный пиздишь много
+[Fri Jan 30 20:38:10 2026] Zhenechka has killed Друнность.
+[Fri Jan 30 20:38:11 2026] <STEAM_0:0:586457449> Juk: /com лан щас
+[Fri Jan 30 20:38:22 2026] <STEAM_0:0:454843957> Друнность: /ooc ДА ЙЦПОЛЩШЛТЙЦЬП
+[Fri Jan 30 20:38:31 2026] <STEAM_0:1:782845482> ТАГИЛЛА: крутой пцан
+[Fri Jan 30 20:39:38 2026] <STEAM_0:1:425612974> impotent: /com Если тигра не будет, то придется вашего бойца пусть по кругу. Весь взвод поимеет
+[Fri Jan 30 20:39:51 2026] <STEAM_0:0:586457449> Juk: /com открывайте
+[Fri Jan 30 20:40:02 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // грег быстрее пж
+[Fri Jan 30 20:40:19 2026] <STEAM_0:0:586457449> Juk: /rf ХУЯРЬ С БМП\nцч
+[Fri Jan 30 20:40:38 2026] Player "Друнность" <STEAM_0:0:454843957> has left the server
+[Fri Jan 30 20:41:21 2026] <STEAM_0:0:586457449> Juk: /rf блять кароче хуярь их базу похуй мы сдохнем
+[Fri Jan 30 20:42:01 2026] StoticS has killed Juk.
+[Fri Jan 30 20:42:01 2026] Juk has killed Juk.
+[Fri Jan 30 20:42:10 2026] <STEAM_0:0:586457449> Juk: /rf ЗАЕДЬ
+[Fri Jan 30 20:42:57 2026] <STEAM_0:0:586457449> Juk: /rf нам нужен тигр
+[Fri Jan 30 20:43:03 2026] <STEAM_0:0:586457449> Juk: /rf или выебут меня и рядика
+[Fri Jan 30 20:44:04 2026] ТАГИЛЛА has killed Zhenechka.
+[Fri Jan 30 20:44:30 2026] impotent has killed Juk.
+[Fri Jan 30 20:45:10 2026] Player "Грымза" <STEAM_0:1:826463988> is attempting to connect.
+[Fri Jan 30 20:45:13 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // грег быстрее пж
+[Fri Jan 30 20:45:53 2026] <STEAM_0:1:425612974> impotent: /nato мне отойти нужно. Через 10 минут буду
+[Fri Jan 30 20:46:23 2026] Player "бамболби" <STEAM_0:0:562764068> has spawned in the server
+[Fri Jan 30 20:46:41 2026] <STEAM_0:1:607847294> StoticS: /me изъял оружи и снаряжение у человека на против
+[Fri Jan 30 20:47:33 2026] <STEAM_0:1:455594560> gREG4IK ran command "send Walker"
+[Fri Jan 30 20:47:33 2026] Player "der Deutsche" <STEAM_0:1:411221606> is attempting to connect.
+[Fri Jan 30 20:48:53 2026] <STEAM_0:1:607847294> StoticS: /nato [jons-Капитан Грэг] подойдите в кпз по возможности
+[Fri Jan 30 20:50:07 2026] <STEAM_0:1:455594560> gREG4IK ran command "goto Jons"
+[Fri Jan 30 20:50:12 2026] <STEAM_0:1:455594560> gREG4IK ran command "send Walker"
+[Fri Jan 30 20:50:23 2026] <STEAM_0:1:607847294> StoticS: /me saluted
+[Fri Jan 30 20:50:29 2026] <STEAM_0:0:114787793> Zhenechka: // да где стрельба
+[Fri Jan 30 20:51:13 2026] Player "Грымза" <STEAM_0:1:826463988> has spawned in the server
+[Fri Jan 30 20:51:38 2026] <STEAM_0:1:607847294> StoticS: /me засек 5 минут
+[Fri Jan 30 20:53:48 2026] Player "Грымза" <STEAM_0:1:826463988> has left the server
+[Fri Jan 30 20:53:53 2026] Player "Грымза" <STEAM_0:1:826463988> is attempting to connect.
+[Fri Jan 30 20:53:57 2026] Player "Грымза" <STEAM_0:1:826463988> is attempting to connect.
+[Fri Jan 30 20:54:12 2026] <STEAM_0:1:607847294> StoticS: /me от 5 минут осталось 3 минуты
+[Fri Jan 30 20:54:22 2026] worldspawn has killed gREG4IK.
+[Fri Jan 30 20:54:28 2026] <STEAM_0:1:455594560> gREG4IK ran command "respawn *"
+[Fri Jan 30 20:54:38 2026] <STEAM_0:1:455594560> gREG4IK: /event Вынужденая мера.
+[Fri Jan 30 20:54:44 2026] Player "бамболби" <STEAM_0:0:562764068> has left the server
+[Fri Jan 30 20:54:45 2026] <STEAM_0:1:455594560> gREG4IK ran command "send Walker"
+[Fri Jan 30 20:55:18 2026] <STEAM_0:0:586457449> Juk: /ooc а зачем нас тепнули то?
+[Fri Jan 30 20:55:42 2026] Player "delaman" <STEAM_0:1:587779479> is attempting to connect.
+[Fri Jan 30 20:56:13 2026] <STEAM_0:0:586457449> Juk: /ooc блят
+[Fri Jan 30 20:56:19 2026] Juk has killed Juk.
+[Fri Jan 30 20:56:31 2026] Discar has killed Discar.
+[Fri Jan 30 20:56:55 2026] <STEAM_0:1:425612974> impotent: /nato Я вернулась
+[Fri Jan 30 20:57:01 2026] Player "StoticS" <STEAM_0:1:607847294> has left the server
+[Fri Jan 30 20:57:25 2026] Player "АНАЛЬНЫЙ НАПАДУН" <STEAM_0:1:550324674> is attempting to connect.
+[Fri Jan 30 20:57:48 2026] Player "StoticS" <STEAM_0:1:607847294> is attempting to connect.
+[Fri Jan 30 20:58:26 2026] Player "StoticS" <STEAM_0:1:607847294> has spawned in the server
+[Fri Jan 30 20:58:50 2026] <STEAM_0:0:114787793> Zhenechka: // афк 2 минуты
+[Fri Jan 30 20:59:06 2026] <STEAM_0:1:607847294> StoticS: /nato [rp] расписался за снаряжение
+[Fri Jan 30 20:59:57 2026] impotent has killed Discar.
+[Fri Jan 30 20:59:57 2026] Juk has killed ТАГИЛЛА.
+[Fri Jan 30 21:00:02 2026] Juk has killed impotent.
+[Fri Jan 30 21:00:42 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [522][lvs_wheeldrive_hummer_m134]"
+[Fri Jan 30 21:00:46 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [554][lvs_wheeldrive_hummer_m240]"
+[Fri Jan 30 21:01:05 2026] <STEAM_0:1:455594560> gREG4IK: /event Внимания НАТО ВЫШЕЛ на патруль
+[Fri Jan 30 21:02:06 2026] <STEAM_0:1:425612974> impotent: /ooc бля, техника на крыше спавнится
+[Fri Jan 30 21:02:13 2026] <STEAM_0:1:455594560> gREG4IK: /ooc ща поправим
+[Fri Jan 30 21:02:23 2026] Player "Грымза" <STEAM_0:1:826463988> is attempting to connect.
+[Fri Jan 30 21:02:37 2026] <STEAM_0:0:114787793> Zhenechka: я че петух?
+[Fri Jan 30 21:02:39 2026] <STEAM_0:0:650470378> Discar: /me взял кувалду
+[Fri Jan 30 21:03:07 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // маслов с войс модом
+[Fri Jan 30 21:03:16 2026] Zhenechka has killed ТАГИЛЛА.
+[Fri Jan 30 21:03:19 2026] <STEAM_0:0:650470378> Discar: /me
+[Fri Jan 30 21:03:25 2026] <STEAM_0:1:425612974> impotent: /ooc да похуй
+[Fri Jan 30 21:03:38 2026] <STEAM_0:0:114787793> Zhenechka: // правельный школьничек
+[Fri Jan 30 21:04:05 2026] <STEAM_0:0:586457449> Juk: /me закрепил телефон на бронике с включенным видеозаписью
+[Fri Jan 30 21:04:31 2026] <STEAM_0:0:586457449> Juk: /rp кувалдой переломил ноги бойца Walker
+[Fri Jan 30 21:04:43 2026] <STEAM_0:0:586457449> Juk: /rp начал бить по рукам
+[Fri Jan 30 21:04:57 2026] <STEAM_0:0:114787793> Zhenechka: Бля какие документы кроме военика
+[Fri Jan 30 21:05:00 2026] <STEAM_0:0:586457449> Juk: /rp отложил кувалду взял нож и отрезаю один палец
+[Fri Jan 30 21:05:23 2026] <STEAM_0:0:114787793> Zhenechka: Бля да ебните его он не че не скажет талкого пошлите ебним америкосов
+[Fri Jan 30 21:05:35 2026] Player "Грымза" <STEAM_0:1:826463988> has spawned in the server
+[Fri Jan 30 21:05:38 2026] <STEAM_0:1:782845482> ТАГИЛЛА: нееет
+[Fri Jan 30 21:05:42 2026] <STEAM_0:1:782845482> ТАГИЛЛА: ничегот
+[Fri Jan 30 21:05:44 2026] <STEAM_0:0:586457449> Juk: /rp поднес к шее нож и перерезал горло
+[Fri Jan 30 21:05:55 2026] Zhenechka has killed ТАГИЛЛА.
+[Fri Jan 30 21:05:57 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /me захлебываеться кровь.
+[Fri Jan 30 21:06:08 2026] <STEAM_0:1:607847294> StoticS: // ска вакутагин не попадайся мне в плен
+[Fri Jan 30 21:06:11 2026] <STEAM_0:0:586457449> Juk: /rp остановил запись и анонимно выложил в незащищеную сеть
+[Fri Jan 30 21:06:33 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // я ничо вам не сказал изи бриджи
+[Fri Jan 30 21:06:50 2026] <STEAM_0:1:455594560> gREG4IK ran command "send Бакурин"
+[Fri Jan 30 21:07:23 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // снимите хемви с крыши
+[Fri Jan 30 21:08:42 2026] <STEAM_0:1:455594560> gREG4IK: https://discord.gg/VU65REqS9S
+[Fri Jan 30 21:08:43 2026] Juk has killed StoticS.
+[Fri Jan 30 21:08:43 2026] Juk has killed impotent.
+[Fri Jan 30 21:09:02 2026] Juk has killed StoticS.
+[Fri Jan 30 21:09:13 2026] <STEAM_0:0:586457449> Juk: /me надел на америкоса наручники
+[Fri Jan 30 21:09:20 2026] <STEAM_0:0:114787793> Zhenechka: /me держит на пушке
+[Fri Jan 30 21:09:20 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // ща анзур зайдет и вам хана
+[Fri Jan 30 21:09:28 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /pda а
+[Fri Jan 30 21:09:43 2026] <STEAM_0:0:586457449> Juk: /me усадил джона в бмп
+[Fri Jan 30 21:09:53 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /g жду руский на город
+[Fri Jan 30 21:09:54 2026] <STEAM_0:0:586457449> Juk: /me конфисковал оружие и средства связи
+[Fri Jan 30 21:10:02 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /global жду русский на городе
+[Fri Jan 30 21:10:19 2026] <STEAM_0:1:782845482> ТАГИЛЛА: на город жду
+[Fri Jan 30 21:10:25 2026] Discar has killed StoticS.
+[Fri Jan 30 21:10:30 2026] <STEAM_0:0:586457449> Juk: /rp перерезал джону горло
+[Fri Jan 30 21:10:49 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /rp продырявил флаг
+[Fri Jan 30 21:11:11 2026] <STEAM_0:1:425612974> impotent: /nato Грэг, нам тоже нужна какая нибудь бмпшка (())
+[Fri Jan 30 21:11:18 2026] <STEAM_0:1:455594560> gREG4IK: /nato ок
+[Fri Jan 30 21:11:18 2026] Player "StoticS" <STEAM_0:1:607847294> has left the server
+[Fri Jan 30 21:11:19 2026] <STEAM_0:1:425612974> impotent: /nato Бредли какой нибудь (())
+[Fri Jan 30 21:11:23 2026] Player "StoticS" <STEAM_0:1:607847294> is attempting to connect.
+[Fri Jan 30 21:11:32 2026] <STEAM_0:1:455594560> gREG4IK ran command "goto RCT Montgomery"
+[Fri Jan 30 21:11:50 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 21:11:50 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [520][sw_rocket_grome1_v3]"
+[Fri Jan 30 21:11:50 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 21:11:50 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [554][sw_rocket_grome1_v3]"
+[Fri Jan 30 21:11:51 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 21:11:51 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [623][sw_rocket_grome1_v3]"
+[Fri Jan 30 21:11:51 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 21:11:51 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [624][sw_rocket_grome1_v3]"
+[Fri Jan 30 21:12:02 2026] Player "StoticS" <STEAM_0:1:607847294> has spawned in the server
+[Fri Jan 30 21:12:07 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 21:12:07 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [640][sw_rocket_grome1_v3]"
+[Fri Jan 30 21:12:08 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 21:12:08 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [642][sw_rocket_grome1_v3]"
+[Fri Jan 30 21:12:08 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 21:12:08 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [643][sw_rocket_grome1_v3]"
+[Fri Jan 30 21:12:21 2026] <STEAM_0:1:455594560> gREG4IK ran command "send Маслов"
+[Fri Jan 30 21:12:27 2026] <STEAM_0:1:455594560> gREG4IK ran command "send Маслов"
+[Fri Jan 30 21:12:37 2026] <STEAM_0:1:455594560> gREG4IK ran command "send Маслов"
+[Fri Jan 30 21:12:37 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // бля как писать в зщ?
+[Fri Jan 30 21:12:52 2026] <STEAM_0:1:455594560> gREG4IK ran command "goto Бакурин"
+[Fri Jan 30 21:12:55 2026] <STEAM_0:0:586457449> Juk: /com остоновите арт обстрел ваш боец у нас
+[Fri Jan 30 21:13:07 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /ns нет
+[Fri Jan 30 21:13:10 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /n нет
+[Fri Jan 30 21:13:13 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /l нет
+[Fri Jan 30 21:13:16 2026] <STEAM_0:0:650470378> Discar: /me взял за шкирку, затев выволил из транспорта
+[Fri Jan 30 21:13:22 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /chat нет
+[Fri Jan 30 21:13:23 2026] <STEAM_0:0:114787793> Zhenechka: // але грег
+[Fri Jan 30 21:13:24 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /l откат
+[Fri Jan 30 21:13:27 2026] <STEAM_0:0:114787793> Zhenechka: // а обратно
+[Fri Jan 30 21:13:30 2026] <STEAM_0:0:114787793> Zhenechka: // я застрял
+[Fri Jan 30 21:13:34 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 21:13:34 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [623][sw_rocket_grome1_v3]"
+[Fri Jan 30 21:13:48 2026] <STEAM_0:1:455594560> gREG4IK ran command "goto Маслов"
+[Fri Jan 30 21:13:56 2026] Player "StoticS" <STEAM_0:1:607847294> has left the server
+[Fri Jan 30 21:13:56 2026] <STEAM_0:1:455594560> gREG4IK ran command "goto Бакурин"
+[Fri Jan 30 21:14:30 2026] <STEAM_0:0:650470378> Discar: /me начал обыск
+[Fri Jan 30 21:14:33 2026] <STEAM_0:0:586457449> Juk: /com капитан грэг ваш боец у нас
+[Fri Jan 30 21:14:35 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /rp написал надпись в городе "BACK TO HOME"
+[Fri Jan 30 21:14:35 2026] Player "StoticS" <STEAM_0:1:607847294> is attempting to connect.
+[Fri Jan 30 21:15:01 2026] <STEAM_0:0:650470378> Discar: /me забрал снаряжение  с чедовека на против
+[Fri Jan 30 21:15:11 2026] <STEAM_0:0:650470378> Discar: /me забрал снаряжение  с человека на против
+[Fri Jan 30 21:15:17 2026] <STEAM_0:0:586457449> Juk: /rp поднес рацию ко рту американца
+[Fri Jan 30 21:15:18 2026] <STEAM_0:1:455594560> gREG4IK: https://discord.gg/VU65REqS9S
+[Fri Jan 30 21:15:29 2026] Player "StoticS" <STEAM_0:1:607847294> has spawned in the server
+[Fri Jan 30 21:16:04 2026] <STEAM_0:0:586457449> Juk: /rp слова американца "сдайте город и автозаправку..."
+[Fri Jan 30 21:16:20 2026] <STEAM_0:1:607847294> StoticS: // не пытайтесь меня в плен брать, у меня пинг ебейший
+[Fri Jan 30 21:16:41 2026] <STEAM_0:1:607847294> StoticS: /nato [rp] расписался за снаряжение
+[Fri Jan 30 21:16:43 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // Парни как писать в незащищеную сеть и защищеную
+[Fri Jan 30 21:17:10 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // парни
+[Fri Jan 30 21:17:33 2026] <STEAM_0:1:455594560> gREG4IK: /ooc /com незащищенная, /nato - чат нато /rf - чат рф
+[Fri Jan 30 21:17:42 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // лучший
+[Fri Jan 30 21:17:42 2026] <STEAM_0:1:455594560> gREG4IK ran command "menu"
+[Fri Jan 30 21:17:51 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /com жду вас руские на городе
+[Fri Jan 30 21:18:01 2026] <STEAM_0:0:650470378> Discar: /me снял рюкзак со спины, затем положил на пол
+[Fri Jan 30 21:18:06 2026] <STEAM_0:0:586457449> Juk: /me достал консерву тушенки вскрыл ножом опустил маску америкоса и покормил его погладив по кепке убрав её себе в карман
+[Fri Jan 30 21:19:10 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /com жду вас руские на городе
+[Fri Jan 30 21:19:40 2026] <STEAM_0:0:650470378> Discar: /com Ну ждите.
+[Fri Jan 30 21:20:06 2026] worldspawn has killed ТАГИЛЛА.
+[Fri Jan 30 21:20:14 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // АХВЫХАЫФХАЫХАФ
+[Fri Jan 30 21:20:20 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // ебаный стыд
+[Fri Jan 30 21:20:27 2026] Player "Грымза" <STEAM_0:1:826463988> has left the server
+[Fri Jan 30 21:20:28 2026] StoticS has killed Juk.
+[Fri Jan 30 21:20:28 2026] StoticS has killed ТАГИЛЛА.
+[Fri Jan 30 21:20:36 2026] StoticS has killed Discar.
+[Fri Jan 30 21:20:41 2026] Player "Грымза" <STEAM_0:1:826463988> is attempting to connect.
+[Fri Jan 30 21:20:46 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // пульк
+[Fri Jan 30 21:20:55 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // я тоже так хочу
+[Fri Jan 30 21:20:56 2026] <STEAM_0:1:455594560> gREG4IK ran command "goto RCT Montgomery"
+[Fri Jan 30 21:21:03 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [518][lvs_wheeldrive_hummer_mk19]"
+[Fri Jan 30 21:21:09 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [523][lvs_wheeldrive_m3a3]"
+[Fri Jan 30 21:21:10 2026] Player "Грымза" <STEAM_0:1:826463988> is attempting to connect.
+[Fri Jan 30 21:21:58 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [767][sw_rocket_4k40_v3]"
+[Fri Jan 30 21:22:01 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [767][sw_rocket_4k40_v3]"
+[Fri Jan 30 21:22:03 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // грег прими тикет пж
+[Fri Jan 30 21:22:21 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [768][sw_rocket_4k40_v3]"
+[Fri Jan 30 21:22:25 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [768][sw_rocket_4k40_v3]"
+[Fri Jan 30 21:22:38 2026] Juk has killed Discar.
+[Fri Jan 30 21:22:51 2026] <STEAM_0:1:782845482> ТАГИЛЛА: как повышаться
+[Fri Jan 30 21:23:02 2026] <STEAM_0:1:782845482> ТАГИЛЛА: понял
+[Fri Jan 30 21:23:03 2026] <STEAM_0:1:782845482> ТАГИЛЛА: сними
+[Fri Jan 30 21:23:05 2026] <STEAM_0:1:782845482> ТАГИЛЛА: бредли
+[Fri Jan 30 21:23:05 2026] <STEAM_0:1:782845482> ТАГИЛЛА: пж
+[Fri Jan 30 21:23:13 2026] <STEAM_0:1:782845482> ТАГИЛЛА: фак
+[Fri Jan 30 21:23:21 2026] <STEAM_0:0:586457449> Juk: /ooc я застрял хелп
+[Fri Jan 30 21:23:27 2026] <STEAM_0:1:782845482> ТАГИЛЛА: я хотел квалификацую поменять
+[Fri Jan 30 21:23:27 2026] <STEAM_0:0:586457449> Juk: /ooc а всё
+[Fri Jan 30 21:23:28 2026] <STEAM_0:1:455594560> gREG4IK ran command "goto Вакутагин "Тундр"
+[Fri Jan 30 21:23:29 2026] <STEAM_0:1:607847294> StoticS: // мой пинг не такая уж и помеха что развалить вас 3-х
+[Fri Jan 30 21:23:41 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 21:23:41 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [526][sw_rocket_9m17m_v3]"
+[Fri Jan 30 21:23:42 2026] <STEAM_0:0:114787793> Zhenechka: // ты меня не убил
+[Fri Jan 30 21:23:42 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 21:23:42 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [623][sw_rocket_9m17m_v3]"
+[Fri Jan 30 21:23:43 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 21:23:43 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [768][sw_rocket_9m17m_v3]"
+[Fri Jan 30 21:23:44 2026] <STEAM_0:0:114787793> Zhenechka: // не разу
+[Fri Jan 30 21:23:48 2026] <STEAM_0:0:114787793> Zhenechka: // че ты несешь
+[Fri Jan 30 21:23:51 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 21:23:51 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [768][sw_rocket_9m17m_v3]"
+[Fri Jan 30 21:23:51 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 21:23:51 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [770][sw_rocket_9m17m_v3]"
+[Fri Jan 30 21:23:51 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 21:23:51 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [771][sw_rocket_9m17m_v3]"
+[Fri Jan 30 21:23:51 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 21:23:51 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [772][sw_rocket_9m17m_v3]"
+[Fri Jan 30 21:23:52 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 21:23:52 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [773][sw_rocket_9m17m_v3]"
+[Fri Jan 30 21:23:52 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 21:23:52 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [774][sw_rocket_9m17m_v3]"
+[Fri Jan 30 21:23:52 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 21:23:52 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [775][sw_rocket_9m17m_v3]"
+[Fri Jan 30 21:23:52 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 21:23:52 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [776][sw_rocket_9m17m_v3]"
+[Fri Jan 30 21:23:53 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 21:23:53 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [777][sw_rocket_9m17m_v3]"
+[Fri Jan 30 21:24:09 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 21:24:09 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [771][sw_rocket_m31_v3]"
+[Fri Jan 30 21:24:09 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 21:24:09 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [772][sw_rocket_m31_v3]"
+[Fri Jan 30 21:24:09 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 21:24:10 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [774][sw_rocket_m31_v3]"
+[Fri Jan 30 21:24:10 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 21:24:10 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [775][sw_rocket_m31_v3]"
+[Fri Jan 30 21:24:13 2026] <STEAM_0:1:782845482> ТАГИЛЛА: плохо слышу
+[Fri Jan 30 21:24:18 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 21:24:18 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [771][sw_rocket_m31_v3]"
+[Fri Jan 30 21:24:22 2026] <STEAM_0:1:782845482> ТАГИЛЛА: поехали
+[Fri Jan 30 21:24:26 2026] <STEAM_0:1:782845482> ТАГИЛЛА: на город
+[Fri Jan 30 21:24:27 2026] <STEAM_0:1:782845482> ТАГИЛЛА: да
+[Fri Jan 30 21:24:27 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 21:24:27 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [771][sw_rocket_m31_v3]"
+[Fri Jan 30 21:24:28 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 21:24:28 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [772][sw_rocket_m31_v3]"
+[Fri Jan 30 21:24:40 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 21:24:40 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [771][sw_rocket_m31_v3]"
+[Fri Jan 30 21:24:41 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 21:24:41 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [772][sw_rocket_m31_v3]"
+[Fri Jan 30 21:24:41 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 21:24:41 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [774][sw_rocket_m31_v3]"
+[Fri Jan 30 21:24:42 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 21:24:42 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [775][sw_rocket_m31_v3]"
+[Fri Jan 30 21:24:43 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 21:24:43 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [776][sw_rocket_m31_v3]"
+[Fri Jan 30 21:24:44 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 21:24:44 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [777][sw_rocket_m31_v3]"
+[Fri Jan 30 21:24:44 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 21:24:44 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [778][sw_rocket_m31_v3]"
+[Fri Jan 30 21:24:45 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 21:24:45 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [779][sw_rocket_m31_v3]"
+[Fri Jan 30 21:24:49 2026] gREG4IK has killed Zhenechka.
+[Fri Jan 30 21:24:51 2026] <STEAM_0:1:782845482> ТАГИЛЛА: поихал
+[Fri Jan 30 21:24:53 2026] <STEAM_0:0:114787793> Zhenechka: // ДАБЛЯТЬ
+[Fri Jan 30 21:24:54 2026] <STEAM_0:1:782845482> ТАГИЛЛА: е
+[Fri Jan 30 21:24:58 2026] <STEAM_0:1:782845482> ТАГИЛЛА: фак
+[Fri Jan 30 21:25:02 2026] <STEAM_0:0:114787793> Zhenechka: // ХВАТИТ БОМБЫ ЕБАШИТЬ
+[Fri Jan 30 21:25:03 2026] <STEAM_0:1:782845482> ТАГИЛЛА: гоу на бредли
+[Fri Jan 30 21:25:05 2026] <STEAM_0:0:114787793> Zhenechka: // ПО 300 РАЗ
+[Fri Jan 30 21:25:11 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 21:25:11 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [771][sw_rocket_pg9v_v3]"
+[Fri Jan 30 21:25:16 2026] Player "Грымза" <STEAM_0:1:826463988> is attempting to connect.
+[Fri Jan 30 21:25:17 2026] <STEAM_0:0:114787793> Zhenechka: // Я НЕ УСПЕВАЮ БЕГАТЬ
+[Fri Jan 30 21:25:19 2026] <STEAM_0:1:782845482> ТАГИЛЛА: сказали ты вроде можешь
+[Fri Jan 30 21:25:23 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 21:25:23 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [771][sw_rocket_s25ofm_v3]"
+[Fri Jan 30 21:25:47 2026] <STEAM_0:1:425612974> impotent: /nato Капитан, среди нас никто не умеет водить Бредли
+[Fri Jan 30 21:26:27 2026] <STEAM_0:1:455594560> gREG4IK: /nato ты умеешь
+[Fri Jan 30 21:26:32 2026] <STEAM_0:1:455594560> gREG4IK ran command "goto RCT Montgomery"
+[Fri Jan 30 21:27:25 2026] <STEAM_0:1:455594560> gREG4IK: /event Внимания большая активность в городе, с обеих сторон, внешние группировки атакуют
+[Fri Jan 30 21:27:42 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 21:27:42 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [770][sw_rocket_s25ofm_v3]"
+[Fri Jan 30 21:27:45 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 21:27:45 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [771][sw_rocket_s25ofm_v3]"
+[Fri Jan 30 21:27:46 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 21:27:46 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [774][sw_rocket_s25ofm_v3]"
+[Fri Jan 30 21:27:47 2026] <STEAM_0:0:586457449> Juk: /com слышьте америкосы
+[Fri Jan 30 21:27:54 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /com suck my dick
+[Fri Jan 30 21:27:55 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 21:27:55 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [770][sw_rocket_s25ofm_v3]"
+[Fri Jan 30 21:27:55 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 21:27:55 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [771][sw_rocket_s25ofm_v3]"
+[Fri Jan 30 21:27:56 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 21:27:56 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [774][sw_rocket_s25ofm_v3]"
+[Fri Jan 30 21:27:56 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 21:27:57 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [775][sw_rocket_s25ofm_v3]"
+[Fri Jan 30 21:28:01 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /com russian girl
+[Fri Jan 30 21:28:05 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 21:28:05 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [770][sw_rocket_s25ofm_v3]"
+[Fri Jan 30 21:28:05 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 21:28:05 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [771][sw_rocket_s25ofm_v3]"
+[Fri Jan 30 21:28:06 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 21:28:06 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [774][sw_rocket_s25ofm_v3]"
+[Fri Jan 30 21:28:06 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 21:28:06 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [775][sw_rocket_s25ofm_v3]"
+[Fri Jan 30 21:28:06 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 21:28:06 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [776][sw_rocket_s25ofm_v3]"
+[Fri Jan 30 21:28:06 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 21:28:07 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [777][sw_rocket_s25ofm_v3]"
+[Fri Jan 30 21:28:07 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 21:28:07 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [778][sw_rocket_s25ofm_v3]"
+[Fri Jan 30 21:28:07 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 21:28:07 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [780][sw_rocket_s25ofm_v3]"
+[Fri Jan 30 21:28:07 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 21:28:07 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [781][sw_rocket_s25ofm_v3]"
+[Fri Jan 30 21:28:11 2026] <STEAM_0:0:586457449> Juk: /com террористы ебанные в городе предлагаю перемирие
+[Fri Jan 30 21:28:12 2026] gREG4IK has killed Juk.
+[Fri Jan 30 21:28:12 2026] gREG4IK has killed Zhenechka.
+[Fri Jan 30 21:28:17 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /com suck
+[Fri Jan 30 21:28:17 2026] <STEAM_0:0:114787793> Zhenechka: // ебалан
+[Fri Jan 30 21:28:20 2026] <STEAM_0:0:586457449> Juk: /looc не ехал
+[Fri Jan 30 21:28:26 2026] Player "Грымза" <STEAM_0:1:826463988> has spawned in the server
+[Fri Jan 30 21:28:26 2026] <STEAM_0:0:114787793> Zhenechka: // НАХУЯ ТЫ ГОВОРИЛ ЕХАТЬ
+[Fri Jan 30 21:28:30 2026] <STEAM_0:1:425612974> impotent: /nato с террористами мирные договоры не заключает
+[Fri Jan 30 21:28:35 2026] <STEAM_0:0:114787793> Zhenechka: // когда ты блять не ехал
+[Fri Jan 30 21:28:37 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [574][npc_citizen]"
+[Fri Jan 30 21:28:39 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [675][npc_citizen]"
+[Fri Jan 30 21:28:40 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [574][npc_combine_s]"
+[Fri Jan 30 21:28:43 2026] <STEAM_0:0:114787793> Zhenechka: // ТЫ УГАРАЕШЬ
+[Fri Jan 30 21:28:43 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [676][npc_combine_s]"
+[Fri Jan 30 21:28:49 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /com с терраристами мирные договоры не заключаюь
+[Fri Jan 30 21:28:51 2026] <STEAM_0:1:425612974> impotent: /com с террористами мирные переговоры не ведем
+[Fri Jan 30 21:28:53 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [682][npc_combine_s]"
+[Fri Jan 30 21:28:54 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [686][npc_combine_s]"
+[Fri Jan 30 21:28:54 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [689][npc_combine_s]"
+[Fri Jan 30 21:28:57 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [678][npc_combine_s]"
+[Fri Jan 30 21:28:58 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [676][npc_combine_s]"
+[Fri Jan 30 21:28:59 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [695][npc_combine_s]"
+[Fri Jan 30 21:29:00 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [702][npc_combine_s]"
+[Fri Jan 30 21:29:00 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [573][npc_combine_s]"
+[Fri Jan 30 21:29:11 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 21:29:11 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [707][sw_rocket_s25ofm_v3]"
+[Fri Jan 30 21:29:12 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 21:29:12 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [708][sw_rocket_s25ofm_v3]"
+[Fri Jan 30 21:29:13 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 21:29:13 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [725][sw_rocket_s25ofm_v3]"
+[Fri Jan 30 21:29:13 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 21:29:13 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [726][sw_rocket_s25ofm_v3]"
+[Fri Jan 30 21:29:15 2026] <STEAM_0:1:455594560> gREG4IK: /event Внимания большая активность в городе, с обеих сторон, внешние группировки атакуют
+[Fri Jan 30 21:29:17 2026] gREG4IK has killed Juk.
+[Fri Jan 30 21:29:24 2026] <STEAM_0:0:586457449> Juk: /ooc грэг есть маленькая просьба тепни я предложу ее
+[Fri Jan 30 21:29:40 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // ГРЕГ КУДА
+[Fri Jan 30 21:29:40 2026] <STEAM_0:1:455594560> gREG4IK ran command "goto Вакутагин "Тундр"
+[Fri Jan 30 21:29:46 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // тТЕПАЙ ОБРАТНО В ГОРОД
+[Fri Jan 30 21:29:59 2026] <STEAM_0:1:455594560> gREG4IK ran command "goto Бакурин"
+[Fri Jan 30 21:30:06 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // грег я на бредли
+[Fri Jan 30 21:30:06 2026] Discar has killed Discar.
+[Fri Jan 30 21:30:06 2026] Discar has killed impotent.
+[Fri Jan 30 21:30:06 2026] Discar has killed StoticS.
+[Fri Jan 30 21:31:05 2026] <STEAM_0:1:607847294> StoticS: /nato [rp] расписался за снаряжение
+[Fri Jan 30 21:31:18 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [554][npc_combine_s]"
+[Fri Jan 30 21:31:21 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [558][npc_combine_s]"
+[Fri Jan 30 21:31:21 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [563][npc_combine_s]"
+[Fri Jan 30 21:31:24 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [569][npc_combine_s]"
+[Fri Jan 30 21:31:25 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [575][npc_combine_s]"
+[Fri Jan 30 21:31:26 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [579][npc_combine_s]"
+[Fri Jan 30 21:31:28 2026] Discar has killed ТАГИЛЛА.
+[Fri Jan 30 21:31:29 2026] ТАГИЛЛА has killed ТАГИЛЛА.
+[Fri Jan 30 21:31:34 2026] <STEAM_0:0:114787793> Zhenechka: // AFK 5min
+[Fri Jan 30 21:32:04 2026] <STEAM_0:1:455594560> gREG4IK ran command "goto RCT Montgomery"
+[Fri Jan 30 21:32:09 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [518][lvs_wheeldrive_m3a3]"
+[Fri Jan 30 21:32:18 2026] <STEAM_0:1:607847294> StoticS: чек пинг мой
+[Fri Jan 30 21:32:29 2026] <STEAM_0:1:607847294> StoticS: что думаешь об этом?
+[Fri Jan 30 21:32:31 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 21:32:31 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [557][sw_bomb_kab250lg_v3]"
+[Fri Jan 30 21:32:32 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 21:32:32 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [563][sw_bomb_kab250lg_v3]"
+[Fri Jan 30 21:32:32 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 21:32:32 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [564][sw_bomb_kab250lg_v3]"
+[Fri Jan 30 21:32:32 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 21:32:32 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [568][sw_bomb_kab250lg_v3]"
+[Fri Jan 30 21:32:32 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 21:32:32 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [575][sw_bomb_kab250lg_v3]"
+[Fri Jan 30 21:32:33 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 21:32:33 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [576][sw_bomb_kab250lg_v3]"
+[Fri Jan 30 21:32:38 2026] <STEAM_0:1:607847294> StoticS: что думаешь об этом?
+[Fri Jan 30 21:32:39 2026] <STEAM_0:1:607847294> StoticS: что думаешь об этом?
+[Fri Jan 30 21:32:45 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 21:32:45 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [563][sw_bomb_kab250lg_v3]"
+[Fri Jan 30 21:32:46 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 21:32:46 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [564][sw_bomb_kab250lg_v3]"
+[Fri Jan 30 21:32:46 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 21:32:46 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [568][sw_bomb_kab250lg_v3]"
+[Fri Jan 30 21:32:46 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 21:32:46 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [575][sw_bomb_kab250lg_v3]"
+[Fri Jan 30 21:32:47 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 21:32:47 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [739][sw_bomb_kab250lg_v3]"
+[Fri Jan 30 21:33:08 2026] ТАГИЛЛА has killed ТАГИЛЛА.
+[Fri Jan 30 21:33:23 2026] <STEAM_0:1:455594560> gREG4IK ran command "goto Вакутагин "Тундр"
+[Fri Jan 30 21:33:41 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [762][npc_combine_s]"
+[Fri Jan 30 21:33:41 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [766][npc_combine_s]"
+[Fri Jan 30 21:33:42 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [770][npc_combine_s]"
+[Fri Jan 30 21:33:56 2026] Player "Фанат КиШ" <STEAM_0:1:582570422> is attempting to connect.
+[Fri Jan 30 21:34:05 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 21:34:05 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [576][sw_bomb_kab250lg_v3]"
+[Fri Jan 30 21:34:06 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 21:34:06 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [692][sw_bomb_kab250lg_v3]"
+[Fri Jan 30 21:34:19 2026] <STEAM_0:1:455594560> gREG4IK ran command "goto Бакурин"
+[Fri Jan 30 21:34:28 2026] <STEAM_0:1:455594560> gREG4IK ran command "send Бакурин"
+[Fri Jan 30 21:34:58 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /nt фух
+[Fri Jan 30 21:35:12 2026] <STEAM_0:0:586457449> Juk: /com волкер! ты дошел до своих?!
+[Fri Jan 30 21:35:25 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /noc yes
+[Fri Jan 30 21:35:28 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /noc yes
+[Fri Jan 30 21:35:30 2026] <STEAM_0:0:586457449> Juk: /rp жгутом претянул ногу
+[Fri Jan 30 21:35:40 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /com no
+[Fri Jan 30 21:36:23 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /com дошле
+[Fri Jan 30 21:36:34 2026] <STEAM_0:0:586457449> Juk: /com МЕНЯ ТВОИ ЩАС ЕБНУТ
+[Fri Jan 30 21:36:41 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /nato не убивайте его
+[Fri Jan 30 21:36:51 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 21:36:51 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [766][sw_bomb_kab250lg_v3]"
+[Fri Jan 30 21:36:54 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 21:36:54 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [767][sw_bomb_kab250lg_v3]"
+[Fri Jan 30 21:37:25 2026] <STEAM_0:1:455594560> gREG4IK ran command "invisible ^"
+[Fri Jan 30 21:37:54 2026] <STEAM_0:0:586457449> Juk: /com CУКИ НЕ ШМАЛЯЙТЕ Я ВАШЕГО СПАСАЛ
+[Fri Jan 30 21:38:21 2026] <STEAM_0:0:586457449> Juk: /rf СУКА КПП ОТКРЫТО?
+[Fri Jan 30 21:38:38 2026] <STEAM_0:0:586457449> Juk: /rf ОТКРОЙТЕ КПП
+[Fri Jan 30 21:38:49 2026] <STEAM_0:1:455594560> gREG4IK ran command "invisible ^"
+[Fri Jan 30 21:38:59 2026] worldspawn has killed Juk.
+[Fri Jan 30 21:39:36 2026] <STEAM_0:1:455594560> gREG4IK ran command "send Вакутагин "Тундр"
+[Fri Jan 30 21:41:42 2026] <STEAM_0:1:455594560> gREG4IK: /event ВНИМАНИЯ НАТО полностью взяла все точки. Активность Других формирований увеличена.
+[Fri Jan 30 21:42:02 2026] <STEAM_0:1:455594560> gREG4IK: /event ВНИМАНИЯ НАТО полностью взяла все точки. Активность Других формирований увеличена.
+[Fri Jan 30 21:42:13 2026] <STEAM_0:1:455594560> gREG4IK: /event ВНИМАНИЯ НАТО полностью взяла все точки. Активность Других формирований увеличена.
+[Fri Jan 30 21:42:30 2026] Player "BloodySmile" <STEAM_0:1:54838838> is attempting to connect.
+[Fri Jan 30 21:42:33 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [559][npc_combine_s]"
+[Fri Jan 30 21:42:43 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [576][npc_combine_s]"
+[Fri Jan 30 21:42:44 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [692][npc_combine_s]"
+[Fri Jan 30 21:42:45 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [560][npc_combine_s]"
+[Fri Jan 30 21:42:45 2026] ТАГИЛЛА has killed StoticS.
+[Fri Jan 30 21:42:48 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [523][npc_combine_s]"
+[Fri Jan 30 21:42:48 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [559][npc_combine_s]"
+[Fri Jan 30 21:42:49 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [776][npc_combine_s]"
+[Fri Jan 30 21:42:54 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [775][npc_citizen]"
+[Fri Jan 30 21:42:57 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [781][npc_combine_s]"
+[Fri Jan 30 21:43:28 2026] <STEAM_0:1:607847294> StoticS: /nato [rp] расписался за снаряжение
+[Fri Jan 30 21:43:33 2026] impotent has killed Грымза.
+[Fri Jan 30 21:43:37 2026] impotent has killed Zhenechka.
+[Fri Jan 30 21:43:42 2026] Player "BloodySmile" <STEAM_0:1:54838838> has spawned in the server
+[Fri Jan 30 21:44:31 2026] impotent has killed Juk.
+[Fri Jan 30 21:44:31 2026] Juk has killed Juk.
+[Fri Jan 30 21:44:32 2026] impotent has killed Discar.
+[Fri Jan 30 21:44:42 2026] <STEAM_0:1:425612974> impotent: /nato Убил всех
+[Fri Jan 30 21:44:50 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 21:44:50 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [558][sw_rocket_m13uk_v3]"
+[Fri Jan 30 21:44:50 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 21:44:50 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [560][sw_rocket_m13uk_v3]"
+[Fri Jan 30 21:44:50 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 21:44:50 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [564][sw_rocket_m13uk_v3]"
+[Fri Jan 30 21:44:51 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 21:44:51 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [519][sw_rocket_m13uk_v3]"
+[Fri Jan 30 21:44:51 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 21:44:51 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [522][sw_rocket_m13uk_v3]"
+[Fri Jan 30 21:44:51 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 21:44:51 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [525][sw_rocket_m13uk_v3]"
+[Fri Jan 30 21:44:52 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 21:44:52 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [643][sw_rocket_m13uk_v3]"
+[Fri Jan 30 21:45:12 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 21:45:12 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [564][sw_rocket_m13uk_v3]"
+[Fri Jan 30 21:45:12 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 21:45:12 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [643][sw_rocket_m13uk_v3]"
+[Fri Jan 30 21:45:12 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 21:45:13 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [644][sw_rocket_m13uk_v3]"
+[Fri Jan 30 21:45:13 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 21:45:13 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [645][sw_rocket_m13uk_v3]"
+[Fri Jan 30 21:45:13 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 21:45:13 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [646][sw_rocket_m13uk_v3]"
+[Fri Jan 30 21:45:13 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 21:45:13 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [648][sw_rocket_m13uk_v3]"
+[Fri Jan 30 21:45:13 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 21:45:13 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [658][sw_rocket_m13uk_v3]"
+[Fri Jan 30 21:45:14 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 21:45:14 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [666][sw_rocket_m13uk_v3]"
+[Fri Jan 30 21:45:14 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 21:45:14 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [667][sw_rocket_m13uk_v3]"
+[Fri Jan 30 21:45:55 2026] <STEAM_0:0:114787793> Zhenechka: // Грег подними
+[Fri Jan 30 21:46:21 2026] Discar has killed Discar.
+[Fri Jan 30 21:46:41 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /noc где вы русские
+[Fri Jan 30 21:46:49 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /nom гре вы русские
+[Fri Jan 30 21:46:51 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /nom гре вы русские
+[Fri Jan 30 21:46:53 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /nom гре вы русские
+[Fri Jan 30 21:46:59 2026] impotent has killed Zhenechka.
+[Fri Jan 30 21:46:59 2026] impotent has killed Juk.
+[Fri Jan 30 21:47:08 2026] <STEAM_0:0:114787793> Zhenechka: // чего ты ждал
+[Fri Jan 30 21:47:12 2026] <STEAM_0:0:114787793> Zhenechka: // ???
+[Fri Jan 30 21:47:14 2026] <STEAM_0:0:586457449> Juk: /ooc я хуярил
+[Fri Jan 30 21:47:26 2026] impotent has killed Грымза.
+[Fri Jan 30 21:47:46 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /com где в ы руские
+[Fri Jan 30 21:47:52 2026] <STEAM_0:0:586457449> Juk: /ooc грег тепнсиь
+[Fri Jan 30 21:48:47 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /com руские девочки испугались?
+[Fri Jan 30 21:49:34 2026] <STEAM_0:1:54838838> BloodySmile: !invizible
+[Fri Jan 30 21:49:39 2026] <STEAM_0:1:54838838> BloodySmile ran command "invisible Григорьев"
+[Fri Jan 30 21:49:48 2026] <STEAM_0:1:425612974> impotent: /me Забрал калашников у человека напротив
+[Fri Jan 30 21:49:56 2026] <STEAM_0:1:54838838> BloodySmile used tool "remover"
+[Fri Jan 30 21:49:56 2026] <STEAM_0:1:54838838> BloodySmile used tool "remover"
+[Fri Jan 30 21:49:56 2026] <STEAM_0:1:54838838> BloodySmile used tool "remover"
+[Fri Jan 30 21:49:57 2026] <STEAM_0:1:54838838> BloodySmile used tool "remover"
+[Fri Jan 30 21:49:57 2026] <STEAM_0:1:54838838> BloodySmile used tool "remover"
+[Fri Jan 30 21:49:58 2026] <STEAM_0:1:54838838> BloodySmile used tool "remover"
+[Fri Jan 30 21:50:10 2026] gREG4IK has killed Juk.
+[Fri Jan 30 21:50:11 2026] Zhenechka has killed Zhenechka.
+[Fri Jan 30 21:50:26 2026] ТАГИЛЛА has killed Грымза.
+[Fri Jan 30 21:50:26 2026] Грымза has killed Грымза.
+[Fri Jan 30 21:50:49 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [826][npc_vj_test_aerial]"
+[Fri Jan 30 21:50:52 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [654][npc_vj_test_player]"
+[Fri Jan 30 21:50:53 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [826][npc_vj_test_interactive]"
+[Fri Jan 30 21:50:56 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [552][npc_vj_test_player]"
+[Fri Jan 30 21:50:59 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [523][npc_citizen]"
+[Fri Jan 30 21:51:02 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [560][npc_combine_s]"
+[Fri Jan 30 21:51:08 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [523][npc_combine_s]"
+[Fri Jan 30 21:51:10 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [523][npc_citizen]"
+[Fri Jan 30 21:51:12 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [827][npc_combine_s]"
+[Fri Jan 30 21:51:12 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [552][npc_combine_s]"
+[Fri Jan 30 21:51:13 2026] Player "StoticS" <STEAM_0:1:607847294> has left the server
+[Fri Jan 30 21:51:14 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [830][npc_citizen]"
+[Fri Jan 30 21:51:16 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [520][npc_combine_s]"
+[Fri Jan 30 21:51:18 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [520][npc_combine_s]"
+[Fri Jan 30 21:51:39 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [560][sw_rocket_4k40_v3]"
+[Fri Jan 30 21:51:42 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [520][sw_rocket_4k40_v3]"
+[Fri Jan 30 21:51:48 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [523][npc_combine_s]"
+[Fri Jan 30 21:51:55 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [520][npc_combine_s]"
+[Fri Jan 30 21:52:07 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [563][npc_combine_s]"
+[Fri Jan 30 21:52:10 2026] <STEAM_0:0:114787793> Zhenechka: // UHTU
+[Fri Jan 30 21:52:18 2026] <STEAM_0:0:114787793> Zhenechka: // ГРЕГ
+[Fri Jan 30 21:52:20 2026] <STEAM_0:1:455594560> gREG4IK: t
+[Fri Jan 30 21:52:25 2026] <STEAM_0:1:455594560> gREG4IK ran command "goto Маслов"
+[Fri Jan 30 21:52:25 2026] <STEAM_0:0:114787793> Zhenechka: // Я ЗАСТРЯЛ
+[Fri Jan 30 21:52:31 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [570][npc_combine_s]"
+[Fri Jan 30 21:52:33 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [577][npc_combine_s]"
+[Fri Jan 30 21:52:34 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [580][npc_combine_s]"
+[Fri Jan 30 21:52:40 2026] Player "StoticS" <STEAM_0:1:607847294> is attempting to connect.
+[Fri Jan 30 21:52:44 2026] <STEAM_0:0:586457449> Juk: /com где вы курочки
+[Fri Jan 30 21:52:46 2026] npc_combine_s has killed ТАГИЛЛА.
+[Fri Jan 30 21:52:46 2026] ТАГИЛЛА has killed ТАГИЛЛА.
+[Fri Jan 30 21:52:52 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [554][npc_combine_s]"
+[Fri Jan 30 21:52:53 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [554][npc_combine_s]"
+[Fri Jan 30 21:52:59 2026] npc_combine_s has killed ТАГИЛЛА.
+[Fri Jan 30 21:53:00 2026] ТАГИЛЛА has killed ТАГИЛЛА.
+[Fri Jan 30 21:53:12 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [560][npc_combine_s]"
+[Fri Jan 30 21:53:13 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [520][npc_combine_s]"
+[Fri Jan 30 21:53:13 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [574][npc_combine_s]"
+[Fri Jan 30 21:53:25 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [520][npc_combine_s]"
+[Fri Jan 30 21:53:28 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [568][npc_combine_s]"
+[Fri Jan 30 21:53:30 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [580][npc_combine_s]"
+[Fri Jan 30 21:53:35 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [586][npc_combine_s]"
+[Fri Jan 30 21:53:36 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [682][npc_combine_s]"
+[Fri Jan 30 21:53:41 2026] Player "StoticS" <STEAM_0:1:607847294> has spawned in the server
+[Fri Jan 30 21:53:45 2026] Player "Фiжма" <STEAM_0:1:942364657> is attempting to connect.
+[Fri Jan 30 21:53:47 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Fri Jan 30 21:53:47 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [581][sw_bomb_ao1_v3]"
+[Fri Jan 30 21:53:47 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Fri Jan 30 21:53:47 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [624][sw_bomb_ao1_v3]"
+[Fri Jan 30 21:53:47 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Fri Jan 30 21:53:47 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [711][sw_bomb_ao1_v3]"
+[Fri Jan 30 21:53:47 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Fri Jan 30 21:53:47 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [712][sw_bomb_ao1_v3]"
+[Fri Jan 30 21:53:49 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [714][sw_rocket_4k40_v3]"
+[Fri Jan 30 21:53:58 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [552][sw_rocket_4k40_v3]"
+[Fri Jan 30 21:54:01 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Fri Jan 30 21:54:01 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [712][sw_bomb_ao1_v3]"
+[Fri Jan 30 21:54:02 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Fri Jan 30 21:54:02 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [713][sw_bomb_ao1_v3]"
+[Fri Jan 30 21:54:02 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Fri Jan 30 21:54:02 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [714][sw_bomb_ao1_v3]"
+[Fri Jan 30 21:54:03 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Fri Jan 30 21:54:03 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [715][sw_bomb_ao1_v3]"
+[Fri Jan 30 21:54:15 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Fri Jan 30 21:54:15 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [569][sw_bomb_ao1_v3]"
+[Fri Jan 30 21:54:15 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Fri Jan 30 21:54:15 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [713][sw_bomb_ao1_v3]"
+[Fri Jan 30 21:54:15 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Fri Jan 30 21:54:15 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [715][sw_bomb_ao1_v3]"
+[Fri Jan 30 21:54:15 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Fri Jan 30 21:54:15 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [717][sw_bomb_ao1_v3]"
+[Fri Jan 30 21:54:16 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Fri Jan 30 21:54:16 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [718][sw_bomb_ao1_v3]"
+[Fri Jan 30 21:54:16 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Fri Jan 30 21:54:16 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [719][sw_bomb_ao1_v3]"
+[Fri Jan 30 21:54:16 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Fri Jan 30 21:54:16 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [720][sw_bomb_ao1_v3]"
+[Fri Jan 30 21:54:16 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Fri Jan 30 21:54:16 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [721][sw_bomb_ao1_v3]"
+[Fri Jan 30 21:54:16 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Fri Jan 30 21:54:16 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [552][sw_bomb_ao1_v3]"
+[Fri Jan 30 21:54:16 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Fri Jan 30 21:54:16 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [624][sw_bomb_ao1_v3]"
+[Fri Jan 30 21:54:17 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Fri Jan 30 21:54:17 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [711][sw_bomb_ao1_v3]"
+[Fri Jan 30 21:54:19 2026] <STEAM_0:1:455594560> gREG4IK: /event ВНИМАНИЯ НАТО полностью взяла все точки. Активность Других формирований увеличена.
+[Fri Jan 30 21:54:34 2026] ТАГИЛЛА has killed ТАГИЛЛА.
+[Fri Jan 30 21:54:37 2026] Player "ТАГИЛЛА" <STEAM_0:1:782845482> has left the server
+[Fri Jan 30 21:54:38 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [548][sw_airdrop_large_v3]"
+[Fri Jan 30 21:54:41 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [552][sw_airdrop_large_v3]"
+[Fri Jan 30 21:54:47 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [641][sw_airdrop_large_v3]"
+[Fri Jan 30 21:54:50 2026] Player "Фiжма" <STEAM_0:1:942364657> has spawned in the server
+[Fri Jan 30 21:55:41 2026] <STEAM_0:1:607847294> StoticS: /nato [rp] расписался за снаряжение
+[Fri Jan 30 21:56:35 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 21:56:35 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [587][sw_rocket_9m14_v3]"
+[Fri Jan 30 21:56:50 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 21:56:50 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [852][sw_bomb_ofab250_umpk_v3]"
+[Fri Jan 30 21:57:06 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 21:57:06 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [857][sw_bomb_p50t_v3]"
+[Fri Jan 30 21:57:24 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [571][sw_bomb_fab5000_v3]"
+[Fri Jan 30 21:57:27 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [571][sw_bomb_fab5000_v3]"
+[Fri Jan 30 21:57:29 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [577][sw_bomb_fab5000_v3]"
+[Fri Jan 30 21:57:48 2026] <STEAM_0:0:586457449> Juk: /com американские девочки спрятались и ушли из города как пришли внешние группировки ПОЗОР!
+[Fri Jan 30 21:57:57 2026] <STEAM_0:1:455594560> gREG4IK: /event ВНИМАНИЯ НАТО полностью взяла все точки. Активность Других формирований увеличена.
+[Fri Jan 30 21:58:09 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [563][npc_combine_s]"
+[Fri Jan 30 21:58:10 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [577][npc_combine_s]"
+[Fri Jan 30 21:58:14 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [518][npc_combine_s]"
+[Fri Jan 30 21:58:16 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [526][npc_combine_s]"
+[Fri Jan 30 21:58:19 2026] <STEAM_0:1:455594560> gREG4IK ran command "goto RCT Montgomery"
+[Fri Jan 30 21:58:29 2026] <STEAM_0:1:54838838> BloodySmile: /ooc доступен рейд на рф.
+[Fri Jan 30 21:58:34 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [565][npc_combine_s]"
+[Fri Jan 30 21:58:35 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [523][npc_combine_s]"
+[Fri Jan 30 21:58:36 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [572][npc_combine_s]"
+[Fri Jan 30 21:58:38 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [518][npc_combine_s]"
+[Fri Jan 30 21:58:39 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [526][npc_combine_s]"
+[Fri Jan 30 21:58:40 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [579][npc_combine_s]"
+[Fri Jan 30 21:58:44 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [606][npc_combine_s]"
+[Fri Jan 30 21:58:46 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [601][npc_combine_s]"
+[Fri Jan 30 21:58:47 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [606][npc_combine_s]"
+[Fri Jan 30 21:58:51 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [518][npc_combine_s]"
+[Fri Jan 30 21:58:53 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [615][npc_combine_s]"
+[Fri Jan 30 21:58:58 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [521][npc_combine_s]"
+[Fri Jan 30 21:59:00 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [605][npc_combine_s]"
+[Fri Jan 30 21:59:13 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 21:59:13 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [606][sw_rocket_kh22_v3]"
+[Fri Jan 30 21:59:16 2026] Player "Фанат КиШ" <STEAM_0:1:582570422> has spawned in the server
+[Fri Jan 30 21:59:21 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 21:59:21 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [526][sw_rocket_kh22_v3]"
+[Fri Jan 30 21:59:23 2026] <STEAM_0:1:54838838> BloodySmile: /ooc недоступен рейд на рф.
+[Fri Jan 30 21:59:29 2026] <STEAM_0:1:942364657> Фiжма: НЕ ДУЕТ
+[Fri Jan 30 21:59:49 2026] <STEAM_0:1:54838838> BloodySmile: /ooc БЛЯ Грег юзай маленькие бомбы
+[Fri Jan 30 21:59:50 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 21:59:50 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [518][sw_rocket_kh22_v3]"
+[Fri Jan 30 21:59:56 2026] <STEAM_0:1:54838838> BloodySmile: /ooc sw_bomb_ao1_v3
+[Fri Jan 30 21:59:58 2026] <STEAM_0:1:942364657> Фiжма: наш бля
+[Fri Jan 30 22:00:03 2026] <STEAM_0:1:942364657> Фiжма: ебланы
+[Fri Jan 30 22:00:12 2026] <STEAM_0:1:455594560> gREG4IK ran command "a в админ чат пиши) /a Текст"
+[Fri Jan 30 22:00:18 2026] <STEAM_0:1:942364657> Фiжма: НАШИ
+[Fri Jan 30 22:00:20 2026] <STEAM_0:1:942364657> Фiжма: НАШИ
+[Fri Jan 30 22:00:25 2026] <STEAM_0:1:54838838> BloodySmile ran command "a хуй"
+[Fri Jan 30 22:00:25 2026] <STEAM_0:1:455594560> gREG4IK ran command "send Taylor"
+[Fri Jan 30 22:00:26 2026] <STEAM_0:1:942364657> Фiжма: ЭТО НАШИ
+[Fri Jan 30 22:00:30 2026] <STEAM_0:0:586457449> Juk: /rf пацаны эт вы в городе?!
+[Fri Jan 30 22:00:46 2026] <STEAM_0:1:942364657> Фiжма: ну вам пизда сто проц
+[Fri Jan 30 22:00:48 2026] <STEAM_0:0:586457449> Juk: /rf на танке были
+[Fri Jan 30 22:03:15 2026] <STEAM_0:0:586457449> Juk: /com доблестный солдат ВС РФ зачистил мелкие группы боевиков в городе!
+[Fri Jan 30 22:03:30 2026] <STEAM_0:0:586457449> Juk: /com пока америкосы шкерятся на базе!
+[Fri Jan 30 22:04:24 2026] <STEAM_0:1:582570422> Фанат КиШ: Kira
+[Fri Jan 30 22:06:39 2026] Фiжма has killed Juk.
+[Fri Jan 30 22:07:10 2026] StoticS has killed impotent.
+[Fri Jan 30 22:07:11 2026] worldspawn has killed Грымза.
+[Fri Jan 30 22:07:12 2026] Грымза has killed Грымза.
+[Fri Jan 30 22:07:24 2026] Discar has killed Фiжма.
+[Fri Jan 30 22:07:24 2026] <STEAM_0:1:455594560> gREG4IK ran command "respawn Kira"
+[Fri Jan 30 22:07:24 2026] Фiжма has killed Фiжма.
+[Fri Jan 30 22:07:27 2026] <STEAM_0:1:455594560> gREG4IK ran command "goto Kira"
+[Fri Jan 30 22:07:38 2026] <STEAM_0:0:114787793> Zhenechka: // Давайте норм 5 на 5
+[Fri Jan 30 22:07:39 2026] impotent has killed Грымза.
+[Fri Jan 30 22:07:40 2026] Грымза has killed Грымза.
+[Fri Jan 30 22:07:45 2026] impotent has killed Discar.
+[Fri Jan 30 22:07:56 2026] <STEAM_0:1:942364657> Фiжма: спс
+[Fri Jan 30 22:08:23 2026] <STEAM_0:1:942364657> Фiжма: ад
+[Fri Jan 30 22:08:36 2026] <STEAM_0:1:942364657> Фiжма: я решил что бы добавить верты
+[Fri Jan 30 22:08:45 2026] <STEAM_0:1:942364657> Фiжма: как думаешь?
+[Fri Jan 30 22:08:46 2026] <STEAM_0:0:114787793> Zhenechka: // AFK 10 MIN
+[Fri Jan 30 22:08:48 2026] <STEAM_0:1:942364657> Фiжма: аа
+[Fri Jan 30 22:09:38 2026] tfa_ins2_ent_rpg7rocket has killed impotent.
+[Fri Jan 30 22:09:39 2026] impotent has killed impotent.
+[Fri Jan 30 22:09:58 2026] StoticS has killed Juk.
+[Fri Jan 30 22:12:46 2026] <STEAM_0:1:607847294> StoticS: /nato требуется мехвод в западный город для отбуксировки танка
+[Fri Jan 30 22:12:46 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [635][sw_bomb_fab9000m54_v3]"
+[Fri Jan 30 22:12:48 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [635][sw_bomb_fab9000m54_v3]"
+[Fri Jan 30 22:12:53 2026] Player "Zhenechka" <STEAM_0:0:114787793> has left the server
+[Fri Jan 30 22:12:59 2026] <STEAM_0:1:607847294> StoticS: // откат
+[Fri Jan 30 22:13:12 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [519][sw_rocket_kh35_v3]"
+[Fri Jan 30 22:13:14 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [519][sw_rocket_kh35_v3]"
+[Fri Jan 30 22:13:14 2026] <STEAM_0:1:942364657> Фiжма: да
+[Fri Jan 30 22:13:19 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 22:13:19 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [519][sw_rocket_kh31_v3]"
+[Fri Jan 30 22:13:26 2026] <STEAM_0:1:942364657> Фiжма: а где танк
+[Fri Jan 30 22:13:27 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 22:13:27 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [519][sw_rocket_kh31_v3]"
+[Fri Jan 30 22:13:41 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 22:13:41 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [519][sw_rocket_kh47m2_v3]"
+[Fri Jan 30 22:14:10 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 22:14:10 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [527][sw_rocket_kh47m2_v3]"
+[Fri Jan 30 22:14:30 2026] Juk has killed StoticS.
+[Fri Jan 30 22:14:43 2026] <STEAM_0:0:586457449> Juk: /rp добил джона
+[Fri Jan 30 22:14:44 2026] <STEAM_0:1:54838838> BloodySmile ran command "a грег вот нахуй юзать эти бомбы которые ебут на всю карту?"
+[Fri Jan 30 22:15:00 2026] <STEAM_0:1:455594560> gREG4IK ran command "a эффекты крутые, темболие никого не убиваю далеко от игроков"
+[Fri Jan 30 22:15:12 2026] <STEAM_0:1:607847294> StoticS: /nato [rp] расписался за снаряжение
+[Fri Jan 30 22:15:29 2026] <STEAM_0:1:54838838> BloodySmile ran command "a хуйня"
+[Fri Jan 30 22:15:51 2026] <STEAM_0:1:455594560> gREG4IK ran command "a постараюсь не делать так больше, возьму бомбы поменьше"
+[Fri Jan 30 22:15:58 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 22:15:58 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [553][sw_rocket_m31_v3]"
+[Fri Jan 30 22:16:01 2026] Грымза has killed impotent.
+[Fri Jan 30 22:16:02 2026] <STEAM_0:1:54838838> BloodySmile: a
+[Fri Jan 30 22:16:02 2026] impotent has killed impotent.
+[Fri Jan 30 22:16:04 2026] <STEAM_0:1:54838838> BloodySmile: a
+[Fri Jan 30 22:16:09 2026] <STEAM_0:1:54838838> BloodySmile: a
+[Fri Jan 30 22:16:14 2026] Фанат КиШ has killed Discar.
+[Fri Jan 30 22:16:14 2026] Discar has killed Discar.
+[Fri Jan 30 22:16:26 2026] <STEAM_0:1:54838838> BloodySmile: ф.....................
+[Fri Jan 30 22:16:37 2026] Фанат КиШ has killed Грымза.
+[Fri Jan 30 22:16:37 2026] Грымза has killed Грымза.
+[Fri Jan 30 22:16:38 2026] <STEAM_0:1:54838838> BloodySmile: ф
+[Fri Jan 30 22:16:48 2026] <STEAM_0:1:54838838> BloodySmile ran command "a sw_bomb_ao1_v3"
+[Fri Jan 30 22:16:51 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 22:16:51 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [518][sw_rocket_m31_v3]"
+[Fri Jan 30 22:16:52 2026] <STEAM_0:1:942364657> Фiжма: там танкист уя привык ан другиз серверах на 3
+[Fri Jan 30 22:16:57 2026] <STEAM_0:1:455594560> gREG4IK ran command "a sw_rocket_m31_v3"
+[Fri Jan 30 22:16:58 2026] <STEAM_0:1:54838838> BloodySmile ran command "a вот эти"
+[Fri Jan 30 22:16:59 2026] <STEAM_0:1:942364657> Фiжма: откат
+[Fri Jan 30 22:17:01 2026] <STEAM_0:1:54838838> BloodySmile ran command "a sw_bomb_ao1_v3"
+[Fri Jan 30 22:17:37 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 22:17:37 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [520][sw_rocket_s5m_v3]"
+[Fri Jan 30 22:17:40 2026] <STEAM_0:1:54838838> BloodySmile used tool "remover"
+[Fri Jan 30 22:17:40 2026] <STEAM_0:1:54838838> BloodySmile used tool "remover"
+[Fri Jan 30 22:17:41 2026] <STEAM_0:1:54838838> BloodySmile used tool "remover"
+[Fri Jan 30 22:17:41 2026] <STEAM_0:1:54838838> BloodySmile used tool "remover"
+[Fri Jan 30 22:17:41 2026] <STEAM_0:1:54838838> BloodySmile used tool "remover"
+[Fri Jan 30 22:17:46 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 22:17:46 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [544][sw_rocket_s5m_v3]"
+[Fri Jan 30 22:17:47 2026] Фанат КиШ has killed Discar.
+[Fri Jan 30 22:17:47 2026] Discar has killed Discar.
+[Fri Jan 30 22:17:49 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Fri Jan 30 22:17:49 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [518][sw_bomb_ao1_v3]"
+[Fri Jan 30 22:17:49 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Fri Jan 30 22:17:49 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [552][sw_bomb_ao1_v3]"
+[Fri Jan 30 22:17:49 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Fri Jan 30 22:17:49 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [577][sw_bomb_ao1_v3]"
+[Fri Jan 30 22:17:50 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Fri Jan 30 22:17:50 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [628][sw_bomb_ao1_v3]"
+[Fri Jan 30 22:17:51 2026] impotent has killed Грымза.
+[Fri Jan 30 22:17:52 2026] Грымза has killed Грымза.
+[Fri Jan 30 22:18:25 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [569][npc_combine_s]"
+[Fri Jan 30 22:18:33 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [569][npc_combine_s]"
+[Fri Jan 30 22:18:39 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [569][sw_rocket_kh47m2_v3]"
+[Fri Jan 30 22:18:51 2026] <STEAM_0:1:455594560> gREG4IK ran command "a я не могу найти эту бомбу"
+[Fri Jan 30 22:18:52 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Fri Jan 30 22:18:52 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [569][npc_combine_s]"
+[Fri Jan 30 22:18:52 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Fri Jan 30 22:18:52 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [628][npc_combine_s]"
+[Fri Jan 30 22:18:52 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Fri Jan 30 22:18:52 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [634][npc_combine_s]"
+[Fri Jan 30 22:18:58 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Fri Jan 30 22:18:58 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [637][npc_combine_s]"
+[Fri Jan 30 22:18:59 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Fri Jan 30 22:18:59 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [641][npc_combine_s]"
+[Fri Jan 30 22:19:01 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Fri Jan 30 22:19:01 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [648][npc_combine_s]"
+[Fri Jan 30 22:19:04 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Fri Jan 30 22:19:04 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [652][npc_combine_s]"
+[Fri Jan 30 22:19:05 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Fri Jan 30 22:19:05 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [645][npc_combine_s]"
+[Fri Jan 30 22:19:37 2026] <STEAM_0:1:942364657> Фiжма: аамоодец
+[Fri Jan 30 22:19:38 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Fri Jan 30 22:19:38 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [657][npc_citizen]"
+[Fri Jan 30 22:19:42 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [657][npc_combine_s]"
+[Fri Jan 30 22:19:46 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Fri Jan 30 22:19:46 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [657][npc_citizen]"
+[Fri Jan 30 22:19:49 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Fri Jan 30 22:19:49 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [657][npc_combine_s]"
+[Fri Jan 30 22:19:52 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Fri Jan 30 22:19:52 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [657][npc_citizen]"
+[Fri Jan 30 22:19:55 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Fri Jan 30 22:19:55 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [657][npc_combine_s]"
+[Fri Jan 30 22:19:57 2026] <STEAM_0:1:607847294> StoticS: /me изъял у человека на против все оружие и снаряжение
+[Fri Jan 30 22:19:57 2026] <STEAM_0:1:942364657> Фiжма: я на тебя доклад напишу на повышение
+[Fri Jan 30 22:19:59 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [657][npc_combine_s]"
+[Fri Jan 30 22:20:08 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Fri Jan 30 22:20:08 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [657][npc_combine_s]"
+[Fri Jan 30 22:20:08 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Fri Jan 30 22:20:08 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [662][npc_combine_s]"
+[Fri Jan 30 22:20:09 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Fri Jan 30 22:20:09 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [665][npc_combine_s]"
+[Fri Jan 30 22:20:11 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Fri Jan 30 22:20:11 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [662][npc_combine_s]"
+[Fri Jan 30 22:20:11 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Fri Jan 30 22:20:11 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [672][npc_combine_s]"
+[Fri Jan 30 22:20:12 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Fri Jan 30 22:20:12 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [659][npc_combine_s]"
+[Fri Jan 30 22:20:15 2026] <STEAM_0:1:942364657> Фiжма: поехаил?
+[Fri Jan 30 22:20:36 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Fri Jan 30 22:20:36 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [677][npc_combine_s]"
+[Fri Jan 30 22:20:38 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Fri Jan 30 22:20:38 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [680][npc_combine_s]"
+[Fri Jan 30 22:20:40 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Fri Jan 30 22:20:40 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [683][npc_combine_s]"
+[Fri Jan 30 22:20:41 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Fri Jan 30 22:20:41 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [694][npc_combine_s]"
+[Fri Jan 30 22:20:52 2026] <STEAM_0:1:942364657> Фiжма: ехала
+[Fri Jan 30 22:21:13 2026] <STEAM_0:1:425612974> impotent: /nato Капитан, нашими силыми был захвачен военный рф
+[Fri Jan 30 22:21:42 2026] <STEAM_0:1:455594560> gREG4IK: /nato Молодцы, но он не имеет никакой ценности убейте его или выгоняйте с базы
+[Fri Jan 30 22:22:01 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 22:22:01 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [641][sw_rocket_s5m_v3]"
+[Fri Jan 30 22:22:08 2026] <STEAM_0:1:425612974> impotent: /me Обыскал человека напротив
+[Fri Jan 30 22:22:17 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 22:22:17 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [641][sw_rocket_m31_v3]"
+[Fri Jan 30 22:22:20 2026] <STEAM_0:1:425612974> impotent: /do были ли какие либо документы у человека
+[Fri Jan 30 22:22:22 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Fri Jan 30 22:22:22 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [643][npc_combine_s]"
+[Fri Jan 30 22:22:22 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Fri Jan 30 22:22:22 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [659][npc_combine_s]"
+[Fri Jan 30 22:22:26 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Fri Jan 30 22:22:26 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [641][npc_combine_s]"
+[Fri Jan 30 22:22:43 2026] <STEAM_0:1:455594560> gREG4IK ran command "invisible ^"
+[Fri Jan 30 22:22:44 2026] <STEAM_0:1:425612974> impotent: /me Проверил все карманы и подсумки, осмотрел внутренние карманы, а также рюкзак
+[Fri Jan 30 22:23:11 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 22:23:11 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [646][sw_rocket_m31_v3]"
+[Fri Jan 30 22:23:12 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 22:23:12 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [647][sw_rocket_m31_v3]"
+[Fri Jan 30 22:23:12 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 22:23:12 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [655][sw_rocket_m31_v3]"
+[Fri Jan 30 22:23:12 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 22:23:12 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [659][sw_rocket_m31_v3]"
+[Fri Jan 30 22:23:15 2026] <STEAM_0:1:826463988> Грымза: /OOC команда какая
+[Fri Jan 30 22:23:24 2026] <STEAM_0:1:425612974> impotent: ./do
+[Fri Jan 30 22:23:38 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 22:23:38 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [641][sw_rocket_m31_v3]"
+[Fri Jan 30 22:23:46 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 22:23:46 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [525][sw_rocket_m31_v3]"
+[Fri Jan 30 22:23:50 2026] <STEAM_0:1:425612974> impotent: Kira, ты когда нибудь убивал живых людей?
+[Fri Jan 30 22:23:59 2026] <STEAM_0:1:425612974> impotent: /nato Kira, ты когда нибудь убивал живых людей?
+[Fri Jan 30 22:24:09 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [525][armor_take]"
+[Fri Jan 30 22:24:12 2026] Juk has killed StoticS.
+[Fri Jan 30 22:24:12 2026] StoticS has killed StoticS.
+[Fri Jan 30 22:24:24 2026] impotent has killed Грымза.
+[Fri Jan 30 22:24:24 2026] Грымза has killed Грымза.
+[Fri Jan 30 22:24:32 2026] <STEAM_0:1:54838838> BloodySmile ran command "invisible Григорьев"
+[Fri Jan 30 22:24:40 2026] impotent has killed Discar.
+[Fri Jan 30 22:24:41 2026] Juk has killed impotent.
+[Fri Jan 30 22:24:41 2026] impotent has killed impotent.
+[Fri Jan 30 22:24:46 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [528][bodygroup]"
+[Fri Jan 30 22:24:54 2026] <STEAM_0:1:607847294> StoticS: /nato [rp] расписался за снаряжение
+[Fri Jan 30 22:24:57 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 22:24:57 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [518][sw_rocket_m31_v3]"
+[Fri Jan 30 22:24:59 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 22:25:00 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [618][sw_rocket_m31_v3]"
+[Fri Jan 30 22:25:11 2026] <STEAM_0:0:586457449> Juk: /rf мы диверсию устроили
+[Fri Jan 30 22:25:12 2026] Фiжма has killed Discar.
+[Fri Jan 30 22:25:12 2026] Discar has killed Discar.
+[Fri Jan 30 22:25:18 2026] StoticS has killed Juk.
+[Fri Jan 30 22:25:40 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 22:25:40 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [586][sw_rocket_m31_v3]"
+[Fri Jan 30 22:25:41 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 22:25:41 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [518][sw_rocket_m31_v3]"
+[Fri Jan 30 22:25:42 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 22:25:42 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [569][sw_rocket_m31_v3]"
+[Fri Jan 30 22:25:43 2026] Фiжма has killed Discar.
+[Fri Jan 30 22:25:43 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Fri Jan 30 22:25:43 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [622][sw_rocket_m31_v3]"
+[Fri Jan 30 22:25:51 2026] Фiжма has killed Discar.
+[Fri Jan 30 22:25:56 2026] <STEAM_0:1:54838838> BloodySmile ran command "a зайди в войс)"
+[Fri Jan 30 22:26:25 2026] <STEAM_0:1:942364657> Фiжма: он еблан
+[Fri Jan 30 22:27:40 2026] <STEAM_0:1:942364657> Фiжма: /nato чо за рмс?
+[Fri Jan 30 22:28:04 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [724][bodygroup]"
+[Fri Jan 30 22:28:11 2026] <STEAM_0:0:586457449> Juk: /rp взял со склада хуйню которая передает координаты
+[Fri Jan 30 22:28:12 2026] <STEAM_0:1:942364657> Фiжма: едем
+[Fri Jan 30 22:28:16 2026] <STEAM_0:1:455594560> gREG4IK: /event Внимания Неизвестная группа вторглась в конфликт
+[Fri Jan 30 22:28:40 2026] <STEAM_0:1:54838838> BloodySmile spawned SWEP "Weapon [728][tfa_ins2_wpn_at4]"
+[Fri Jan 30 22:28:40 2026] <STEAM_0:1:54838838> BloodySmile spawned SWEP "Weapon [729][tfa_ins2_wpn_at4]"
+[Fri Jan 30 22:28:40 2026] <STEAM_0:1:54838838> BloodySmile spawned SWEP "Weapon [730][tfa_ins2_wpn_at4]"
+[Fri Jan 30 22:28:41 2026] <STEAM_0:1:54838838> BloodySmile spawned SWEP "Weapon [731][tfa_ins2_wpn_at4]"
+[Fri Jan 30 22:29:11 2026] <STEAM_0:1:54838838> BloodySmile spawned SWEP "Weapon [724][tfa_ins2_wpn_at4]"
+[Fri Jan 30 22:29:11 2026] <STEAM_0:1:54838838> BloodySmile spawned SWEP "Weapon [725][tfa_ins2_wpn_at4]"
+[Fri Jan 30 22:29:12 2026] <STEAM_0:1:54838838> BloodySmile spawned SWEP "Weapon [728][tfa_ins2_wpn_at4]"
+[Fri Jan 30 22:29:32 2026] BloodySmile has killed Фiжма.
+[Fri Jan 30 22:29:33 2026] Фанат КиШ has killed gREG4IK.
+[Fri Jan 30 22:29:34 2026] gREG4IK has killed gREG4IK.
+[Fri Jan 30 22:29:51 2026] gREG4IK has killed Грымза.
+[Fri Jan 30 22:30:18 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [572][tfa_ins2_fas2_g36c]"
+[Fri Jan 30 22:30:19 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [620][tfa_ins2_fas2_g36c]"
+[Fri Jan 30 22:30:21 2026] BloodySmile has killed impotent.
+[Fri Jan 30 22:30:22 2026] impotent has killed impotent.
+[Fri Jan 30 22:30:23 2026] StoticS has killed BloodySmile.
+[Fri Jan 30 22:30:30 2026] <STEAM_0:0:586457449> Juk: /ooc грег подними меня физ пушкой какая то хуйня происходит
+[Fri Jan 30 22:30:34 2026] <STEAM_0:1:455594560> gREG4IK ran command "send unknown"
+[Fri Jan 30 22:30:38 2026] <STEAM_0:1:455594560> gREG4IK ran command "send unknown"
+[Fri Jan 30 22:30:39 2026] <STEAM_0:1:425612974> impotent: /ooc Сколько вы себе хп и брони епта выдали?
+[Fri Jan 30 22:30:43 2026] <STEAM_0:1:455594560> gREG4IK ran command "send unknown"
+[Fri Jan 30 22:30:47 2026] <STEAM_0:1:455594560> gREG4IK ran command "send unknown"
+[Fri Jan 30 22:30:56 2026] BloodySmile has killed StoticS.
+[Fri Jan 30 22:30:56 2026] Фанат КиШ has killed BloodySmile.
+[Fri Jan 30 22:30:56 2026] StoticS has killed Фанат КиШ.
+[Fri Jan 30 22:30:56 2026] StoticS has killed impotent.
+[Fri Jan 30 22:30:57 2026] impotent has killed impotent.
+[Fri Jan 30 22:31:05 2026] <STEAM_0:0:586457449> Juk: /ooc ебать я норм ехать не могу
+[Fri Jan 30 22:31:09 2026] Discar has killed gREG4IK.
+[Fri Jan 30 22:31:10 2026] gREG4IK has killed gREG4IK.
+[Fri Jan 30 22:31:21 2026] <STEAM_0:1:607847294> StoticS: // ахахахах
+[Fri Jan 30 22:31:26 2026] <STEAM_0:1:455594560> gREG4IK ran command "respawn ^"
+[Fri Jan 30 22:31:33 2026] <STEAM_0:0:586457449> Juk: /ooc хелпаните
+[Fri Jan 30 22:31:44 2026] <STEAM_0:0:586457449> Juk: /ooc гусля под картой
+[Fri Jan 30 22:31:45 2026] <STEAM_0:1:607847294> StoticS: /nato [rp] расписался за снаряжение
+[Fri Jan 30 22:31:51 2026] gREG4IK has killed BloodySmile.
+[Fri Jan 30 22:31:59 2026] <STEAM_0:0:586457449> Juk: /ooc а все
+[Fri Jan 30 22:32:00 2026] <STEAM_0:1:455594560> gREG4IK: /event Внимания Неизвестная группа вторглась в конфликт
+[Fri Jan 30 22:32:04 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [570][tfa_inss2_hk_mp5a5]"
+[Fri Jan 30 22:32:04 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [620][tfa_inss2_hk_mp5a5]"
+[Fri Jan 30 22:32:41 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [558][armor_take]"
+[Fri Jan 30 22:32:54 2026] <STEAM_0:1:607847294> StoticS: // неизвестные вас в плен брать можно?
+[Fri Jan 30 22:33:00 2026] <STEAM_0:1:455594560> gREG4IK ran command "a Неав"
+[Fri Jan 30 22:33:06 2026] <STEAM_0:1:455594560> gREG4IK: /com НЕ
+[Fri Jan 30 22:33:08 2026] <STEAM_0:1:942364657> Фiжма: Kira Ты хорошый парень
+[Fri Jan 30 22:33:10 2026] <STEAM_0:1:54838838> BloodySmile spawned SWEP "Weapon [523][tfa_ins2_wpn_at4]"
+[Fri Jan 30 22:33:11 2026] <STEAM_0:1:54838838> BloodySmile spawned SWEP "Weapon [526][tfa_ins2_wpn_at4]"
+[Fri Jan 30 22:33:30 2026] <STEAM_0:1:607847294> StoticS: // жаль
+[Fri Jan 30 22:33:36 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [556][tfa_ins2_wpn_rpg7]"
+[Fri Jan 30 22:33:37 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [573][tfa_ins2_wpn_rpg7]"
+[Fri Jan 30 22:33:43 2026] Juk has killed gREG4IK.
+[Fri Jan 30 22:33:46 2026] BloodySmile has killed Discar.
+[Fri Jan 30 22:33:47 2026] Discar has killed Discar.
+[Fri Jan 30 22:33:52 2026] <STEAM_0:1:54838838> BloodySmile spawned SWEP "Weapon [544][tfa_m4tech]"
+[Fri Jan 30 22:33:52 2026] <STEAM_0:1:54838838> BloodySmile spawned SWEP "Weapon [546][tfa_m4tech]"
+[Fri Jan 30 22:33:53 2026] <STEAM_0:1:54838838> BloodySmile spawned SWEP "Weapon [556][tfa_m4tech]"
+[Fri Jan 30 22:33:53 2026] <STEAM_0:1:54838838> BloodySmile spawned SWEP "Weapon [557][tfa_m4tech]"
+[Fri Jan 30 22:33:53 2026] <STEAM_0:1:54838838> BloodySmile spawned SWEP "Weapon [560][tfa_m4tech]"
+[Fri Jan 30 22:33:53 2026] <STEAM_0:1:54838838> BloodySmile spawned SWEP "Weapon [544][tfa_m4tech]"
+[Fri Jan 30 22:33:53 2026] <STEAM_0:1:54838838> BloodySmile spawned SWEP "Weapon [561][tfa_m4tech]"
+[Fri Jan 30 22:34:20 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [564][tfa_inss2_hk_mp5a5]"
+[Fri Jan 30 22:35:13 2026] BloodySmile has killed StoticS.
+[Fri Jan 30 22:35:13 2026] BloodySmile has killed Фанат КиШ.
+[Fri Jan 30 22:35:21 2026] Фiжма has killed Грымза.
+[Fri Jan 30 22:35:22 2026] Грымза has killed Грымза.
+[Fri Jan 30 22:35:42 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [526][armor_take]"
+[Fri Jan 30 22:35:58 2026] impotent has killed Juk.
+[Fri Jan 30 22:35:58 2026] <STEAM_0:1:607847294> StoticS: /nato [rp] расписался за снаряжение
+[Fri Jan 30 22:36:05 2026] Discar has killed Фiжма.
+[Fri Jan 30 22:36:07 2026] Player "Juk" <STEAM_0:0:586457449> has left the server
+[Fri Jan 30 22:36:16 2026] impotent has killed Discar.
+[Fri Jan 30 22:36:17 2026] Discar has killed Discar.
+[Fri Jan 30 22:36:30 2026] <STEAM_0:1:455594560> gREG4IK: /LOGS
+[Fri Jan 30 22:36:31 2026] <STEAM_0:1:455594560> gREG4IK: /logs
+[Fri Jan 30 22:37:05 2026] Фiжма has killed Фiжма.
+[Fri Jan 30 22:37:51 2026] Фiжма has killed Фiжма.
+[Fri Jan 30 22:37:51 2026] Фiжма has killed impotent.
+[Fri Jan 30 22:38:21 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [527][armor_take]"
+[Fri Jan 30 22:38:23 2026] <STEAM_0:1:455594560> gREG4IK: /ooc militaryplay
+[Fri Jan 30 22:38:30 2026] <STEAM_0:1:455594560> gREG4IK: /astal f
+[Fri Jan 30 22:38:41 2026] <STEAM_0:1:942364657> Фiжма: /c вы кто таокие нахуй?
+[Fri Jan 30 22:39:08 2026] Фанат КиШ has killed Грымза.
+[Fri Jan 30 22:39:13 2026] StoticS has killed StoticS.
+[Fri Jan 30 22:39:13 2026] StoticS has killed Discar.
+[Fri Jan 30 22:39:40 2026] <STEAM_0:1:942364657> Фiжма: /c вы должны жизни спасать а не наоборот
+[Fri Jan 30 22:40:00 2026] <STEAM_0:1:942364657> Фiжма: /c вы PMC БЛЯ
+[Fri Jan 30 22:40:01 2026] BloodySmile has killed Фанат КиШ.
+[Fri Jan 30 22:40:02 2026] Фанат КиШ has killed Фанат КиШ.
+[Fri Jan 30 22:40:07 2026] <STEAM_0:1:607847294> StoticS: /nato [rp] расписался за снаряжение
+[Fri Jan 30 22:41:10 2026] impotent has killed Грымза.
+[Fri Jan 30 22:41:11 2026] Discar has killed impotent.
+[Fri Jan 30 22:41:26 2026] gREG4IK has killed Discar.
+[Fri Jan 30 22:41:38 2026] <STEAM_0:1:607847294> StoticS: // астралы вы чего такие жирные?
+[Fri Jan 30 22:42:23 2026] <STEAM_0:1:455594560> gREG4IK: /event Внимания Неизвестная группа, захватывает ВОСТОЧНЫЙ ГОРОД
+[Fri Jan 30 22:43:15 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [556][sw_mine_tm62_v3]"
+[Fri Jan 30 22:43:16 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [563][sw_mine_tm62_v3]"
+[Fri Jan 30 22:43:18 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [564][sw_mine_tm62_v3]"
+[Fri Jan 30 22:43:20 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [567][sw_mine_tm62_v3]"
+[Fri Jan 30 22:43:21 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [569][sw_mine_tm62_v3]"
+[Fri Jan 30 22:43:22 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [571][sw_mine_tm62_v3]"
+[Fri Jan 30 22:43:23 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [572][sw_mine_tm62_v3]"
+[Fri Jan 30 22:43:24 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [573][sw_mine_tm62_v3]"
+[Fri Jan 30 22:43:25 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [576][sw_mine_tm62_v3]"
+[Fri Jan 30 22:43:46 2026] BloodySmile has killed StoticS.
+[Fri Jan 30 22:43:46 2026] BloodySmile has killed Фанат КиШ.
+[Fri Jan 30 22:43:57 2026] <STEAM_0:1:607847294> StoticS: // это что за
+[Fri Jan 30 22:44:14 2026] Player "Фiжма" <STEAM_0:1:942364657> has left the server
+[Fri Jan 30 22:44:20 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [544][sw_mine_tm62_v3]"
+[Fri Jan 30 22:44:22 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [548][sw_mine_tm62_v3]"
+[Fri Jan 30 22:44:24 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [558][sw_mine_tm62_v3]"
+[Fri Jan 30 22:44:31 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [566][sw_mine_pfm1_v3]"
+[Fri Jan 30 22:44:33 2026] <STEAM_0:1:607847294> StoticS: /nato [rp] расписался за снаряжение
+[Fri Jan 30 22:44:55 2026] BloodySmile has killed impotent.
+[Fri Jan 30 22:44:56 2026] impotent has killed impotent.
+[Fri Jan 30 22:45:05 2026] BloodySmile has killed Discar.
+[Fri Jan 30 22:45:06 2026] Discar has killed Discar.
+[Fri Jan 30 22:45:16 2026] Player "gREG4IK" <STEAM_0:1:455594560> has left the server
+[Fri Jan 30 22:45:54 2026] Player "ppps1212gs" <STEAM_0:0:935500893> is attempting to connect.
+[Fri Jan 30 22:46:26 2026] BloodySmile has killed Фанат КиШ.
+[Fri Jan 30 22:46:44 2026] Player "Грымза" <STEAM_0:1:826463988> has left the server
+[Fri Jan 30 22:47:11 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [519][armor_take]"
+[Fri Jan 30 22:47:56 2026] BloodySmile has killed impotent.
+[Fri Jan 30 22:47:56 2026] impotent has killed impotent.
+[Fri Jan 30 22:48:31 2026] StoticS has killed BloodySmile.
+[Fri Jan 30 22:49:13 2026] Player "impotent" <STEAM_0:1:425612974> has left the server
+[Fri Jan 30 22:49:25 2026] StoticS has killed Discar.
+[Fri Jan 30 22:49:26 2026] Discar has killed Discar.
+[Fri Jan 30 22:49:30 2026] Player "Discar" <STEAM_0:0:650470378> has left the server
+[Fri Jan 30 22:50:49 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [515][armor_take]"
+[Fri Jan 30 22:50:58 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [515][sw_mine_pfm1_v3]"
+[Fri Jan 30 22:51:02 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [516][sw_mine_pfm1_v3]"
+[Fri Jan 30 22:51:07 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [518][sw_mine_pfm1_v3]"
+[Fri Jan 30 22:51:45 2026] BloodySmile has killed Фанат КиШ.
+[Fri Jan 30 22:51:46 2026] Фанат КиШ has killed Фанат КиШ.
+[Fri Jan 30 22:51:53 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [509][bodygroup]"
+[Fri Jan 30 22:52:24 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [509][armor_take]"
+[Fri Jan 30 22:52:32 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [509][armor_take]"
+[Fri Jan 30 22:54:30 2026] <STEAM_0:1:54838838> BloodySmile spawned SWEP "Weapon [526][tfa_ins2_wpn_at4]"
+[Fri Jan 30 22:54:39 2026] <STEAM_0:1:54838838> BloodySmile spawned SWEP "Weapon [526][tfa_ins2_wpn_at4]"
+[Fri Jan 30 22:54:40 2026] <STEAM_0:1:54838838> BloodySmile spawned SWEP "Weapon [527][tfa_ins2_wpn_at4]"
+[Fri Jan 30 22:54:40 2026] <STEAM_0:1:54838838> BloodySmile spawned SWEP "Weapon [528][tfa_ins2_wpn_at4]"
+[Fri Jan 30 22:54:58 2026] <STEAM_0:1:54838838> BloodySmile spawned SWEP "Weapon [527][tfa_ins2_wpn_at4]"
+[Fri Jan 30 22:54:59 2026] <STEAM_0:1:54838838> BloodySmile spawned SWEP "Weapon [528][tfa_ins2_wpn_at4]"
+[Fri Jan 30 22:55:15 2026] <STEAM_0:1:54838838> BloodySmile spawned SWEP "Weapon [526][tfa_ins2_wpn_at4]"
+[Fri Jan 30 22:55:59 2026] Фанат КиШ has killed BloodySmile.
+[Fri Jan 30 22:56:28 2026] BloodySmile has killed StoticS.
+[Fri Jan 30 22:56:44 2026] BloodySmile has killed StoticS.
+[Fri Jan 30 22:56:55 2026] BloodySmile has killed Фанат КиШ.
+[Fri Jan 30 22:59:03 2026] Player "ppps1212gs" <STEAM_0:0:935500893> has spawned in the server
+[Fri Jan 30 23:00:40 2026] Player "ppps1212gs" <STEAM_0:0:935500893> has left the server
+[Fri Jan 30 23:03:13 2026] Player "StoticS" <STEAM_0:1:607847294> has left the server
+[Fri Jan 30 23:03:17 2026] Player "StoticS" <STEAM_0:1:607847294> is attempting to connect.
+[Fri Jan 30 23:03:49 2026] Player "BloodySmile" <STEAM_0:1:54838838> has left the server
+[Fri Jan 30 23:04:15 2026] Player "StoticS" <STEAM_0:1:607847294> has spawned in the server
+[Fri Jan 30 23:04:18 2026] Player "Фанат КиШ" <STEAM_0:1:582570422> has left the server
+[Fri Jan 30 23:05:03 2026] <STEAM_0:1:607847294> StoticS: // эхх
+[Fri Jan 30 23:05:39 2026] <STEAM_0:1:607847294> StoticS: // а я хотел ещё повоевать
+[Fri Jan 30 23:05:58 2026] <STEAM_0:1:607847294> StoticS: // ладно
+[Fri Jan 30 23:06:08 2026] Player "StoticS" <STEAM_0:1:607847294> has left the server
+[Fri Jan 30 23:07:51 2026] Player "Биг бой слайм" <STEAM_0:0:712199263> is attempting to connect.
+[Fri Jan 30 23:19:39 2026] Player "sevcenkoz462" <STEAM_0:0:944025763> is attempting to connect.
+[Fri Jan 30 23:32:01 2026] Player "sevcenkoz462" <STEAM_0:0:944025763> has spawned in the server
+[Fri Jan 30 23:36:39 2026] <STEAM_0:0:944025763> sevcenkoz462: /me исполнил партийное приветствие
+[Fri Jan 30 23:38:59 2026] Player "Биг бой слайм" <STEAM_0:0:712199263> has spawned in the server
+[Fri Jan 30 23:40:26 2026] Player "sevcenkoz462" <STEAM_0:0:944025763> has left the server
+[Fri Jan 30 23:48:06 2026] Player "Биг бой слайм" <STEAM_0:0:712199263> has left the server

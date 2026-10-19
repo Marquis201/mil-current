@@ -1,0 +1,556 @@
+[Tue Dec 30 00:00:08 2025] <STEAM_0:0:219840273> deceased: u nas mnogo nefti
+[Tue Dec 30 00:00:58 2025] Player "Soldier Boy" <STEAM_0:1:620808428> is attempting to connect.
+[Tue Dec 30 00:01:50 2025] Player "Soldier Boy" <STEAM_0:1:620808428> has spawned in the server
+[Tue Dec 30 00:01:52 2025] Player "Worshiper of God" <STEAM_0:0:74235942> is attempting to connect.
+[Tue Dec 30 00:02:21 2025] Player "Worshiper of God" <STEAM_0:0:74235942> has spawned in the server
+[Tue Dec 30 00:03:27 2025] Player "Soldier Boy" <STEAM_0:1:620808428> has left the server
+[Tue Dec 30 00:03:29 2025] Player "Worshiper of God" <STEAM_0:0:74235942> has left the server
+[Tue Dec 30 00:56:00 2025] Player "dmt( sawyer" <STEAM_0:0:937824224> is attempting to connect.
+[Tue Dec 30 01:10:38 2025] Player "dmt( sawyer" <STEAM_0:0:937824224> has spawned in the server
+[Tue Dec 30 01:14:20 2025] Player "dmt( sawyer" <STEAM_0:0:937824224> has left the server
+[Tue Dec 30 02:15:06 2025] Player "༒︎シ︎ʰᵉⁿᵗᵃⁱシ" <STEAM_0:0:851601344> is attempting to connect.
+[Tue Dec 30 02:16:17 2025] Player "༒︎シ︎ʰᵉⁿᵗᵃⁱシ" <STEAM_0:0:851601344> has spawned in the server
+[Tue Dec 30 02:17:59 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "ammo CPT A.E. Evergarden"
+[Tue Dec 30 02:21:12 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "witchergate"
+[Tue Dec 30 02:21:13 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "witchergate"
+[Tue Dec 30 02:21:13 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "witchergate"
+[Tue Dec 30 02:21:13 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "witchergate"
+[Tue Dec 30 02:21:14 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "witchergate"
+[Tue Dec 30 02:21:15 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "witchergate"
+[Tue Dec 30 02:21:15 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "witchergate"
+[Tue Dec 30 02:21:19 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "ladder"
+[Tue Dec 30 02:21:19 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "ladder"
+[Tue Dec 30 02:21:20 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "ladder"
+[Tue Dec 30 02:21:22 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "witchergate"
+[Tue Dec 30 02:21:25 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "witchergate"
+[Tue Dec 30 02:21:27 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "witchergate"
+[Tue Dec 30 02:26:51 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "witchergate"
+[Tue Dec 30 02:26:52 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "witchergate"
+[Tue Dec 30 02:27:08 2025] Player "༒︎シ︎ʰᵉⁿᵗᵃⁱシ" <STEAM_0:0:851601344> has left the server
+[Tue Dec 30 11:50:25 2025] Player "ФаНАТ СОВЫ" <STEAM_0:1:455594560> is attempting to connect.
+[Tue Dec 30 12:08:24 2025] Player "ФаНАТ СОВЫ" <STEAM_0:1:455594560> is attempting to connect.
+[Tue Dec 30 12:16:12 2025] Player "ФаНАТ СОВЫ" <STEAM_0:1:455594560> has spawned in the server
+[Tue Dec 30 12:28:53 2025] Player "SKINBOX" <STEAM_0:0:938084819> is attempting to connect.
+[Tue Dec 30 12:42:49 2025] Player "Лысый аптекарь" <STEAM_0:1:601998882> is attempting to connect.
+[Tue Dec 30 12:43:18 2025] Player "Лысый аптекарь" <STEAM_0:1:601998882> has spawned in the server
+[Tue Dec 30 12:50:22 2025] gREG4IK has killed gREG4IK.
+[Tue Dec 30 12:50:48 2025] <STEAM_0:1:455594560> gREG4IK ran command "noclip Greg"
+[Tue Dec 30 12:50:58 2025] <STEAM_0:1:455594560> gREG4IK ran command "noclip Greg"
+[Tue Dec 30 12:52:12 2025] <STEAM_0:1:455594560> gREG4IK ran command "noclip Greg"
+[Tue Dec 30 12:52:14 2025] <STEAM_0:1:455594560> gREG4IK ran command "noclip Greg"
+[Tue Dec 30 12:54:53 2025] Лысый аптекарь has killed gREG4IK.
+[Tue Dec 30 12:54:54 2025] gREG4IK has killed gREG4IK.
+[Tue Dec 30 12:55:02 2025] <STEAM_0:1:455594560> gREG4IK ran command "noclip Greg"
+[Tue Dec 30 12:55:10 2025] <STEAM_0:1:455594560> gREG4IK ran command "noclip Greg"
+[Tue Dec 30 12:56:06 2025] <STEAM_0:1:455594560> gREG4IK ran command "noclip Greg"
+[Tue Dec 30 12:56:14 2025] <STEAM_0:1:455594560> gREG4IK ran command "noclip Greg"
+[Tue Dec 30 12:56:49 2025] gREG4IK has killed Лысый аптекарь.
+[Tue Dec 30 12:57:49 2025] <STEAM_0:1:455594560> gREG4IK: АХХ ты тварь! ты думаешь даешь мир?
+[Tue Dec 30 12:58:00 2025] <STEAM_0:1:601998882> Лысый аптекарь: Да, для своей страны
+[Tue Dec 30 12:58:05 2025] gREG4IK has killed Лысый аптекарь.
+[Tue Dec 30 13:00:07 2025] Лысый аптекарь has killed gREG4IK.
+[Tue Dec 30 13:02:29 2025] Player "Лысый аптекарь" <STEAM_0:1:601998882> has left the server
+[Tue Dec 30 13:07:35 2025] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [495][lvs_wheeldrive_dabrams_m1a1]"
+[Tue Dec 30 13:07:41 2025] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [607][lvs_wheeldrive_nonrp_t90m]"
+[Tue Dec 30 13:18:57 2025] Player "gREG4IK" <STEAM_0:1:455594560> has left the server
+[Tue Dec 30 13:45:38 2025] Player "gREG4IK" <STEAM_0:1:455594560> is attempting to connect.
+[Tue Dec 30 13:46:48 2025] Player "saxaroza" <STEAM_0:1:773566500> is attempting to connect.
+[Tue Dec 30 13:47:26 2025] Player "gREG4IK" <STEAM_0:1:455594560> has spawned in the server
+[Tue Dec 30 13:48:02 2025] Player "saxaroza" <STEAM_0:1:773566500> has spawned in the server
+[Tue Dec 30 13:49:39 2025] <STEAM_0:1:455594560> gREG4IK: мой камрад как дела
+[Tue Dec 30 13:49:54 2025] <STEAM_0:1:773566500> saxaroza: хорошо
+[Tue Dec 30 13:50:04 2025] <STEAM_0:1:455594560> gREG4IK: Готов ебашить
+[Tue Dec 30 13:50:14 2025] <STEAM_0:1:455594560> gREG4IK: /rp Выебал рф В ЖОПУ
+[Tue Dec 30 13:50:43 2025] <STEAM_0:1:773566500> saxaroza: вчера я три раза за несколько минут поменял три проффесии
+[Tue Dec 30 13:50:49 2025] <STEAM_0:1:455594560> gREG4IK: зовите своих братьев
+[Tue Dec 30 13:50:53 2025] <STEAM_0:1:455594560> gREG4IK: будем ебашить
+[Tue Dec 30 13:50:55 2025] <STEAM_0:1:773566500> saxaroza: каких
+[Tue Dec 30 13:51:08 2025] <STEAM_0:1:455594560> gREG4IK: ну наших сослуживцев
+[Tue Dec 30 13:51:12 2025] <STEAM_0:1:773566500> saxaroza: у меня ток командир  друг
+[Tue Dec 30 13:51:21 2025] <STEAM_0:1:455594560> gREG4IK: кто?
+[Tue Dec 30 13:51:24 2025] <STEAM_0:1:455594560> gREG4IK: смэшер?
+[Tue Dec 30 13:51:30 2025] <STEAM_0:1:773566500> saxaroza: ангел
+[Tue Dec 30 13:51:33 2025] <STEAM_0:1:455594560> gREG4IK: ааааа
+[Tue Dec 30 13:51:43 2025] <STEAM_0:1:455594560> gREG4IK: твой индификатор?
+[Tue Dec 30 13:51:43 2025] <STEAM_0:1:773566500> saxaroza: мы вчера с ним 2 в 7 вынесли
+[Tue Dec 30 13:52:06 2025] <STEAM_0:1:773566500> saxaroza: индификатор тип позывной?
+[Tue Dec 30 13:52:20 2025] <STEAM_0:1:455594560> gREG4IK: индификатор
+[Tue Dec 30 13:52:30 2025] <STEAM_0:1:773566500> saxaroza: что за индификатор
+[Tue Dec 30 13:52:42 2025] Player "S0u1" <STEAM_0:1:618974024> is attempting to connect.
+[Tue Dec 30 13:53:08 2025] <STEAM_0:1:455594560> gREG4IK: ну нажимаешь таб
+[Tue Dec 30 13:53:14 2025] <STEAM_0:1:455594560> gREG4IK: там твои цифры возле ника
+[Tue Dec 30 13:53:21 2025] <STEAM_0:1:773566500> saxaroza: 1333
+[Tue Dec 30 13:53:42 2025] <STEAM_0:1:455594560> gREG4IK: е
+[Tue Dec 30 13:53:47 2025] <STEAM_0:1:455594560> gREG4IK: Хорошо боец
+[Tue Dec 30 13:53:56 2025] <STEAM_0:1:455594560> gREG4IK: пойдем вынесем кого нибудь
+[Tue Dec 30 13:54:04 2025] <STEAM_0:1:773566500> saxaroza: так то я снайпер
+[Tue Dec 30 13:54:08 2025] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [506][lvs_wheeldrive_hummer_mk19]"
+[Tue Dec 30 13:54:17 2025] <STEAM_0:1:455594560> gREG4IK: ща погоди
+[Tue Dec 30 13:54:46 2025] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [530][lvs_wheeldrive_hummer_m134]"
+[Tue Dec 30 13:55:02 2025] <STEAM_0:1:773566500> saxaroza: кого ебашить
+[Tue Dec 30 13:55:06 2025] <STEAM_0:1:773566500> saxaroza: нет никого
+[Tue Dec 30 13:55:09 2025] <STEAM_0:1:455594560> gREG4IK: есть
+[Tue Dec 30 13:55:12 2025] <STEAM_0:1:455594560> gREG4IK: ещас
+[Tue Dec 30 13:55:44 2025] <STEAM_0:1:455594560> gREG4IK: ждиц
+[Tue Dec 30 13:56:16 2025] Player "Centaurus" <STEAM_0:1:176906490> is attempting to connect.
+[Tue Dec 30 14:00:06 2025] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [506][lvs_wheeldrive_hummer]"
+[Tue Dec 30 14:00:07 2025] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [528][sw_gaz2330]"
+[Tue Dec 30 14:00:15 2025] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [506][lvs_wheeldrive_hummer]"
+[Tue Dec 30 14:00:24 2025] <STEAM_0:1:455594560> gREG4IK ran command "noclip Greg"
+[Tue Dec 30 14:00:28 2025] <STEAM_0:1:455594560> gREG4IK ran command "noclip Greg"
+[Tue Dec 30 14:01:36 2025] <STEAM_0:1:455594560> gREG4IK: ща точку захватим
+[Tue Dec 30 14:01:54 2025] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [528][npc_citizen]"
+[Tue Dec 30 14:02:04 2025] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [528][npc_citizen]"
+[Tue Dec 30 14:02:08 2025] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [528][npc_combine_s]"
+[Tue Dec 30 14:02:20 2025] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [528][npc_helicopter]"
+[Tue Dec 30 14:02:49 2025] <STEAM_0:1:455594560> gREG4IK: Бля четко\
+[Tue Dec 30 14:03:05 2025] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [528][npc_hunter]"
+[Tue Dec 30 14:03:07 2025] <STEAM_0:1:773566500> saxaroza: из хл 2
+[Tue Dec 30 14:03:12 2025] <STEAM_0:1:455594560> gREG4IK: неее не
+[Tue Dec 30 14:03:16 2025] <STEAM_0:1:773566500> saxaroza: охотник
+[Tue Dec 30 14:03:18 2025] <STEAM_0:1:455594560> gREG4IK: не из хл а из рф
+[Tue Dec 30 14:03:39 2025] <STEAM_0:1:773566500> saxaroza: высек
+[Tue Dec 30 14:03:42 2025] <STEAM_0:1:455594560> gREG4IK: четко
+[Tue Dec 30 14:04:04 2025] <STEAM_0:1:773566500> saxaroza: давай страйдера
+[Tue Dec 30 14:05:30 2025] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [528][npc_strider]"
+[Tue Dec 30 14:05:39 2025] <STEAM_0:1:455594560> gREG4IK: он С РФФ
+[Tue Dec 30 14:06:00 2025] Player "RUVS7N" <STEAM_0:1:801142110> is attempting to connect.
+[Tue Dec 30 14:06:26 2025] npc_strider has killed gREG4IK.
+[Tue Dec 30 14:07:09 2025] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [493][lvs_wheeldrive_m3a3]"
+[Tue Dec 30 14:07:25 2025] <STEAM_0:1:455594560> gREG4IK: /event Тяжелая техника выехала
+[Tue Dec 30 14:07:54 2025] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [638][npc_helicopter]"
+[Tue Dec 30 14:08:04 2025] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [638][npc_helicopter]"
+[Tue Dec 30 14:08:46 2025] <STEAM_0:1:773566500> saxaroza: патронов нет
+[Tue Dec 30 14:11:01 2025] <STEAM_0:1:773566500> saxaroza: /me [7460] [Сахарных К.С.] {СЖТ} [12 Гв.МСП|МВ] [-] (-)
+[Tue Dec 30 14:16:38 2025] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [638][npc_combine_s]"
+[Tue Dec 30 14:16:39 2025] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [639][npc_combine_s]"
+[Tue Dec 30 14:16:40 2025] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [640][npc_combine_s]"
+[Tue Dec 30 14:17:05 2025] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [493][npc_antlionguard]"
+[Tue Dec 30 14:17:27 2025] <STEAM_0:1:773566500> saxaroza: муравьиный лев
+[Tue Dec 30 14:17:28 2025] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [500][npc_headcrab_fast]"
+[Tue Dec 30 14:17:31 2025] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [574][npc_headcrab_fast]"
+[Tue Dec 30 14:17:43 2025] <STEAM_0:1:773566500> saxaroza: я пуст
+[Tue Dec 30 14:18:15 2025] <STEAM_0:1:773566500> saxaroza: лан я попозже приду
+[Tue Dec 30 14:18:19 2025] <STEAM_0:1:455594560> gREG4IK: давай
+[Tue Dec 30 14:18:24 2025] Player "saxaroza" <STEAM_0:1:773566500> has left the server
+[Tue Dec 30 14:19:11 2025] <STEAM_0:1:455594560> gREG4IK ran command "noclip Greg"
+[Tue Dec 30 14:19:52 2025] <STEAM_0:1:455594560> gREG4IK ran command "noclip Greg"
+[Tue Dec 30 14:20:51 2025] Player "Soldier Boy" <STEAM_0:1:620808428> is attempting to connect.
+[Tue Dec 30 14:20:59 2025] <STEAM_0:1:455594560> gREG4IK ran command "noclip Greg"
+[Tue Dec 30 14:21:53 2025] Player "Soldier Boy" <STEAM_0:1:620808428> has spawned in the server
+[Tue Dec 30 14:22:58 2025] Player "RUVS7N" <STEAM_0:1:801142110> has spawned in the server
+[Tue Dec 30 14:24:55 2025] <STEAM_0:1:620808428> Soldier Boy ran command "goto Ruvs7n"
+[Tue Dec 30 14:25:07 2025] Player "RUVS7N" <STEAM_0:1:801142110> has left the server
+[Tue Dec 30 14:25:13 2025] <STEAM_0:1:620808428> Soldier Boy ran command "invisible Дубровин"
+[Tue Dec 30 14:26:05 2025] Soldier Boy has killed gREG4IK.
+[Tue Dec 30 14:27:27 2025] Player "Worshiper of God" <STEAM_0:0:74235942> is attempting to connect.
+[Tue Dec 30 14:28:02 2025] Player "Worshiper of God" <STEAM_0:0:74235942> has spawned in the server
+[Tue Dec 30 14:28:41 2025] <STEAM_0:0:74235942> Worshiper of God: // qq
+[Tue Dec 30 14:28:56 2025] <STEAM_0:1:620808428> Soldier Boy ran command "invisible Дубровин"
+[Tue Dec 30 14:28:57 2025] Player "S0u1" <STEAM_0:1:618974024> is attempting to connect.
+[Tue Dec 30 14:29:57 2025] Player "Smasher" <STEAM_0:1:220381002> is attempting to connect.
+[Tue Dec 30 14:29:58 2025] Player "punk" <STEAM_0:0:921324874> is attempting to connect.
+[Tue Dec 30 14:30:21 2025] <STEAM_0:0:74235942> Worshiper of God: /hu
+[Tue Dec 30 14:30:24 2025] <STEAM_0:0:74235942> Worshiper of God: /hi
+[Tue Dec 30 14:30:30 2025] <STEAM_0:0:74235942> Worshiper of God: /sit
+[Tue Dec 30 14:30:32 2025] Player "punk" <STEAM_0:0:921324874> has spawned in the server
+[Tue Dec 30 14:31:27 2025] Player "Smasher" <STEAM_0:1:220381002> has spawned in the server
+[Tue Dec 30 14:32:08 2025] <STEAM_0:1:220381002> Smasher ran command "noclip COL A.T. Smasher"
+[Tue Dec 30 14:32:10 2025] <STEAM_0:1:220381002> Smasher ran command "invisible COL A.T. Smasher"
+[Tue Dec 30 14:33:25 2025] <STEAM_0:1:455594560> gREG4IK: /event ЖАЛКИЕ РФ НИКОГДА НАС НЕ ПОБЕДЯТ
+[Tue Dec 30 14:33:33 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [593][lfs_grdn_ah1z]"
+[Tue Dec 30 14:33:41 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [593][lfs_grdn_ec665uht]"
+[Tue Dec 30 14:33:45 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [595][lfs_uh60]"
+[Tue Dec 30 14:33:47 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [593][lfs_grdn_uh1c_xm30]"
+[Tue Dec 30 14:33:48 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [595][lfs_grdn_sa316b]"
+[Tue Dec 30 14:33:49 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [593][lfs_grdn_mi28nm]"
+[Tue Dec 30 14:33:51 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [595][lfs_grdn_mi24d]"
+[Tue Dec 30 14:33:52 2025] <STEAM_0:1:455594560> gREG4IK: /event ЖАЛКИЕ РФ НИКОГДА НАС НЕ ПОБЕДЯТ
+[Tue Dec 30 14:33:52 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [593][lfs_grdn_md500tow]"
+[Tue Dec 30 14:33:54 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [595][lfs_grdn_ka50]"
+[Tue Dec 30 14:33:55 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [593][lfs_grdn_hkp9a]"
+[Tue Dec 30 14:33:56 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [595][lfs_grdn_bo105pah1]"
+[Tue Dec 30 14:33:57 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [593][lfs_grdn_ah64d]"
+[Tue Dec 30 14:33:58 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [595][lfs_grdn_ah1z]"
+[Tue Dec 30 14:33:59 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [593][lfs_grdn_ah1g]"
+[Tue Dec 30 14:33:59 2025] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [596][sw_gaz2330]"
+[Tue Dec 30 14:34:00 2025] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [638][lvs_wheeldrive_hummer]"
+[Tue Dec 30 14:34:15 2025] <STEAM_0:0:74235942> Worshiper of God: // вранье
+[Tue Dec 30 14:34:36 2025] <STEAM_0:0:74235942> Worshiper of God: bind F3 "act dance"
+[Tue Dec 30 14:35:11 2025] <STEAM_0:1:455594560> gREG4IK: /event захватываем укрепрайон НАТО
+[Tue Dec 30 14:35:20 2025] <STEAM_0:1:620808428> Soldier Boy: /me изъял оружие
+[Tue Dec 30 14:35:21 2025] <STEAM_0:1:620808428> Soldier Boy: /me изъял средства связи
+[Tue Dec 30 14:35:21 2025] <STEAM_0:1:620808428> Soldier Boy: /me скрутил
+[Tue Dec 30 14:35:22 2025] <STEAM_0:1:620808428> Soldier Boy: /l Откат
+[Tue Dec 30 14:35:23 2025] <STEAM_0:1:620808428> Soldier Boy: /ooc ⓀⓇⒶⓈⒾⒷⓄ ( ͡° ͜ʖ ͡°)
+[Tue Dec 30 14:35:25 2025] <STEAM_0:1:620808428> Soldier Boy: /ooc ⓀⓇⒶⓈⒾⒷⓄ ( ͡° ͜ʖ ͡°)
+[Tue Dec 30 14:35:25 2025] <STEAM_0:1:620808428> Soldier Boy: /ooc ⓀⓇⒶⓈⒾⒷⓄ ( ͡° ͜ʖ ͡°)
+[Tue Dec 30 14:35:26 2025] <STEAM_0:1:620808428> Soldier Boy: /ooc ⓀⓇⒶⓈⒾⒷⓄ ( ͡° ͜ʖ ͡°)
+[Tue Dec 30 14:35:31 2025] <STEAM_0:1:620808428> Soldier Boy: /ooc ⓀⓇⒶⓈⒾⒷⓄ ( ͡° ͜ʖ ͡°)
+[Tue Dec 30 14:35:45 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [623][sw_rocket_9m113_v3]"
+[Tue Dec 30 14:36:11 2025] Player "S0u1" <STEAM_0:1:618974024> has spawned in the server
+[Tue Dec 30 14:36:32 2025] Player "S0u1" <STEAM_0:1:618974024> has left the server
+[Tue Dec 30 14:36:33 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [628][sw_rocket_9m133_v3]"
+[Tue Dec 30 14:36:37 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [623][sw_rocket_m13uk_v3]"
+[Tue Dec 30 14:36:54 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [623][sw_rocket_s13_v3]"
+[Tue Dec 30 14:36:58 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [625][sw_rocket_s13_v3]"
+[Tue Dec 30 14:37:01 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [626][sw_rocket_s13_v3]"
+[Tue Dec 30 14:37:07 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [627][sw_rocket_s13_v3]"
+[Tue Dec 30 14:37:28 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [623][sw_bmp2]"
+[Tue Dec 30 14:37:57 2025] <STEAM_0:1:620808428> Soldier Boy: /me Исполнил воинское приветствие;act salute 
+[Tue Dec 30 14:38:16 2025] Player "!-Полигон+i" <STEAM_0:0:32033945> is attempting to connect.
+[Tue Dec 30 14:38:18 2025] <STEAM_0:1:620808428> Soldier Boy: /me Исполнил воинское приветствие;act salute 
+[Tue Dec 30 14:38:30 2025] <STEAM_0:1:455594560> gREG4IK: держись
+[Tue Dec 30 14:38:46 2025] Player "!-Полигон+i" <STEAM_0:0:32033945> has spawned in the server
+[Tue Dec 30 14:38:49 2025] <STEAM_0:1:455594560> gREG4IK: держись!!!
+[Tue Dec 30 14:39:03 2025] Player "!-Полигон+i" <STEAM_0:0:32033945> has left the server
+[Tue Dec 30 14:39:12 2025] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [602][tfa_ins2_wpn_at4]"
+[Tue Dec 30 14:39:12 2025] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [604][tfa_ins2_wpn_at4]"
+[Tue Dec 30 14:39:12 2025] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [592][tfa_ins2_wpn_at4]"
+[Tue Dec 30 14:39:14 2025] Smasher has killed gREG4IK.
+[Tue Dec 30 14:39:50 2025] Smasher has killed punk.
+[Tue Dec 30 14:39:58 2025] <STEAM_0:1:455594560> gREG4IK ran command "noclip Greg"
+[Tue Dec 30 14:40:15 2025] <STEAM_0:1:455594560> gREG4IK ran command "noclip Greg"
+[Tue Dec 30 14:40:29 2025] Player "punk" <STEAM_0:0:921324874> has left the server
+[Tue Dec 30 14:40:43 2025] <STEAM_0:1:455594560> gREG4IK ran command "noclip Greg"
+[Tue Dec 30 14:40:50 2025] <STEAM_0:1:455594560> gREG4IK ran command "noclip Greg"
+[Tue Dec 30 14:42:03 2025] <STEAM_0:1:455594560> gREG4IK: /event ОРУЖИЕ С ХЛ2 И ЭНТИТИ НЕ БРАТЬ И НЕ СПАВИНТЬ!!!
+[Tue Dec 30 14:42:03 2025] <STEAM_0:1:455594560> gREG4IK: /event ОРУЖИЕ С ХЛ2 И ЭНТИТИ НЕ БРАТЬ И НЕ СПАВИНТЬ!!!
+[Tue Dec 30 14:42:39 2025] <STEAM_0:0:74235942> Worshiper of God: // и че это грег?
+[Tue Dec 30 14:42:48 2025] <STEAM_0:1:620808428> Soldier Boy ran command "a Cмэшер, хватит спаунить ганы из хл2"
+[Tue Dec 30 14:42:56 2025] <STEAM_0:1:220381002> Smasher ran command "a это не я"
+[Tue Dec 30 14:43:02 2025] <STEAM_0:1:455594560> gREG4IK ran command "a f"
+[Tue Dec 30 14:43:34 2025] Player "punk" <STEAM_0:0:921324874> is attempting to connect.
+[Tue Dec 30 14:43:58 2025] Player "punk" <STEAM_0:0:921324874> has spawned in the server
+[Tue Dec 30 14:44:17 2025] <STEAM_0:1:455594560> gREG4IK: /event УКРЕПРАЙОН НАТО скоро будет захвачен
+[Tue Dec 30 14:45:14 2025] Smasher has killed gREG4IK.
+[Tue Dec 30 14:45:32 2025] Player "gREG4IK" <STEAM_0:1:455594560> has left the server
+[Tue Dec 30 14:45:54 2025] <STEAM_0:1:620808428> Soldier Boy ran command "ammo Дубровин"
+[Tue Dec 30 14:47:48 2025] Player "S0u1" <STEAM_0:1:618974024> is attempting to connect.
+[Tue Dec 30 14:47:56 2025] <STEAM_0:1:220381002> Smasher ran command "noclip COL A.T. Smasher"
+[Tue Dec 30 14:48:01 2025] <STEAM_0:1:220381002> Smasher ran command "noclip COL A.T. Smasher"
+[Tue Dec 30 14:48:14 2025] Player "S0u1" <STEAM_0:1:618974024> has spawned in the server
+[Tue Dec 30 14:49:02 2025] <STEAM_0:1:220381002> Smasher ran command "noclip COL A.T. Smasher"
+[Tue Dec 30 14:49:03 2025] punk has killed Smasher.
+[Tue Dec 30 14:49:04 2025] Smasher has killed Smasher.
+[Tue Dec 30 14:49:15 2025] <STEAM_0:1:220381002> Smasher ran command "respawn smasher"
+[Tue Dec 30 14:49:18 2025] <STEAM_0:1:220381002> Smasher ran command "invisible COL A.T. Smasher"
+[Tue Dec 30 14:49:21 2025] <STEAM_0:1:220381002> Smasher ran command "noclip COL A.T. Smasher"
+[Tue Dec 30 14:49:33 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [594][sw_gaz2330]"
+[Tue Dec 30 14:49:42 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [594][sw_matv]"
+[Tue Dec 30 14:50:10 2025] Player "S0u1" <STEAM_0:1:618974024> has left the server
+[Tue Dec 30 14:50:14 2025] Player "S0u1" <STEAM_0:1:618974024> is attempting to connect.
+[Tue Dec 30 14:50:35 2025] Player "S0u1" <STEAM_0:1:618974024> has spawned in the server
+[Tue Dec 30 14:51:17 2025] <STEAM_0:1:620808428> Soldier Boy: Напиши хранител.
+[Tue Dec 30 14:51:20 2025] <STEAM_0:1:620808428> Soldier Boy: ю
+[Tue Dec 30 14:51:43 2025] Smasher has killed punk.
+[Tue Dec 30 14:51:51 2025] <STEAM_0:1:220381002> Smasher ran command "bring punk"
+[Tue Dec 30 14:52:54 2025] Smasher has killed punk.
+[Tue Dec 30 14:53:04 2025] <STEAM_0:1:620808428> Soldier Boy: /rf На базу
+[Tue Dec 30 14:53:57 2025] punk has killed punk.
+[Tue Dec 30 14:53:58 2025] <STEAM_0:1:220381002> Smasher: !setmodel ^
+[Tue Dec 30 14:55:20 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [603][lvs_wheeldrive_hummer_tow]"
+[Tue Dec 30 14:55:29 2025] <STEAM_0:1:220381002> Smasher ran command "noclip COL A.T. Smasher"
+[Tue Dec 30 14:55:30 2025] <STEAM_0:1:220381002> Smasher ran command "invisible COL A.T. Smasher"
+[Tue Dec 30 14:55:47 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [628][lvs_wheeldrive_hummer_tow]"
+[Tue Dec 30 14:55:57 2025] <STEAM_0:1:618974024> S0u1: /looc у меня скрипт
+[Tue Dec 30 14:56:28 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [605][npc_zombie]"
+[Tue Dec 30 14:56:29 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [607][npc_zombie]"
+[Tue Dec 30 14:56:29 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [608][npc_zombie]"
+[Tue Dec 30 14:56:29 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [606][npc_zombie]"
+[Tue Dec 30 14:56:29 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [609][npc_zombie]"
+[Tue Dec 30 14:56:30 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [610][npc_zombie]"
+[Tue Dec 30 14:56:30 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [611][npc_zombie]"
+[Tue Dec 30 14:56:30 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [612][npc_zombie]"
+[Tue Dec 30 14:56:30 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [613][npc_zombie]"
+[Tue Dec 30 14:56:31 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [614][npc_zombie]"
+[Tue Dec 30 14:56:31 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [615][npc_zombie]"
+[Tue Dec 30 14:56:31 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [616][npc_zombie]"
+[Tue Dec 30 14:56:33 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [617][npc_zombie]"
+[Tue Dec 30 14:56:34 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [618][npc_zombie]"
+[Tue Dec 30 14:56:35 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [619][npc_zombie]"
+[Tue Dec 30 14:56:35 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [620][npc_zombie]"
+[Tue Dec 30 14:56:35 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [621][npc_zombie]"
+[Tue Dec 30 14:56:35 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [622][npc_zombie]"
+[Tue Dec 30 14:56:35 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [623][npc_zombie]"
+[Tue Dec 30 14:56:35 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [624][npc_zombie]"
+[Tue Dec 30 14:56:35 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [625][npc_zombie]"
+[Tue Dec 30 14:56:36 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [626][npc_zombie]"
+[Tue Dec 30 14:56:36 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [627][npc_zombie]"
+[Tue Dec 30 14:56:36 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [684][npc_zombie]"
+[Tue Dec 30 14:57:07 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [607][wesupplycrate]"
+[Tue Dec 30 14:57:13 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [609][armor_take]"
+[Tue Dec 30 14:57:22 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [611][npc_fastzombie]"
+[Tue Dec 30 14:57:23 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [619][npc_fastzombie]"
+[Tue Dec 30 14:57:23 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [621][npc_fastzombie]"
+[Tue Dec 30 14:57:23 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [622][npc_fastzombie]"
+[Tue Dec 30 14:57:23 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [624][npc_fastzombie]"
+[Tue Dec 30 14:57:23 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [625][npc_fastzombie]"
+[Tue Dec 30 14:57:23 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [626][npc_fastzombie]"
+[Tue Dec 30 14:57:23 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [618][npc_fastzombie]"
+[Tue Dec 30 14:57:24 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [629][npc_fastzombie]"
+[Tue Dec 30 14:57:24 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [686][npc_fastzombie]"
+[Tue Dec 30 14:57:24 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [687][npc_fastzombie]"
+[Tue Dec 30 14:57:24 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [608][npc_fastzombie]"
+[Tue Dec 30 14:57:24 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [610][npc_fastzombie]"
+[Tue Dec 30 14:57:24 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [688][npc_fastzombie]"
+[Tue Dec 30 14:57:25 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [689][npc_fastzombie]"
+[Tue Dec 30 14:57:25 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [690][npc_fastzombie]"
+[Tue Dec 30 14:57:25 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [691][npc_fastzombie]"
+[Tue Dec 30 14:57:26 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [692][npc_fastzombie]"
+[Tue Dec 30 14:57:26 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [693][npc_fastzombie]"
+[Tue Dec 30 14:57:26 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [694][npc_fastzombie]"
+[Tue Dec 30 14:57:27 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [695][npc_fastzombie]"
+[Tue Dec 30 14:57:27 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [696][npc_fastzombie]"
+[Tue Dec 30 14:57:27 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [697][npc_fastzombie]"
+[Tue Dec 30 14:57:27 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [698][npc_fastzombie]"
+[Tue Dec 30 14:57:27 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [699][npc_fastzombie]"
+[Tue Dec 30 14:57:27 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [700][npc_fastzombie]"
+[Tue Dec 30 14:57:28 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [701][npc_fastzombie]"
+[Tue Dec 30 14:57:28 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [702][npc_fastzombie]"
+[Tue Dec 30 14:57:28 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [703][npc_fastzombie]"
+[Tue Dec 30 14:57:28 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [704][npc_fastzombie]"
+[Tue Dec 30 14:57:28 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [705][npc_fastzombie]"
+[Tue Dec 30 14:58:45 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [619][npc_zombine]"
+[Tue Dec 30 14:58:45 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [622][npc_zombine]"
+[Tue Dec 30 14:58:45 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [685][npc_zombine]"
+[Tue Dec 30 14:58:46 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [694][npc_zombine]"
+[Tue Dec 30 14:58:46 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [696][npc_zombine]"
+[Tue Dec 30 14:58:46 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [698][npc_zombine]"
+[Tue Dec 30 14:59:04 2025] <STEAM_0:1:618974024> S0u1: // почему у меня скриптовые ошибки [lvs]_nazemka
+[Tue Dec 30 14:59:31 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [613][npc_combine_s]"
+[Tue Dec 30 14:59:43 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [613][npc_combine_s]"
+[Tue Dec 30 14:59:45 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [626][npc_combine_s]"
+[Tue Dec 30 14:59:45 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [690][npc_combine_s]"
+[Tue Dec 30 14:59:46 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [694][npc_combine_s]"
+[Tue Dec 30 14:59:47 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [697][npc_combine_s]"
+[Tue Dec 30 14:59:47 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [701][npc_combine_s]"
+[Tue Dec 30 14:59:48 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [710][npc_combine_s]"
+[Tue Dec 30 14:59:49 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [712][npc_combine_s]"
+[Tue Dec 30 14:59:50 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [714][npc_combine_s]"
+[Tue Dec 30 15:00:13 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [606][npc_combine_s]"
+[Tue Dec 30 15:00:15 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [701][npc_combine_s]"
+[Tue Dec 30 15:00:16 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [708][npc_combine_s]"
+[Tue Dec 30 15:00:17 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [720][npc_combine_s]"
+[Tue Dec 30 15:00:17 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [723][npc_combine_s]"
+[Tue Dec 30 15:01:09 2025] <STEAM_0:1:620808428> Soldier Boy ran command "kick COL A.T. Smasher Spammer"
+[Tue Dec 30 15:01:09 2025] Player "Smasher" <STEAM_0:1:220381002> has left the server
+[Tue Dec 30 15:01:13 2025] Player "Smasher" <STEAM_0:1:220381002> is attempting to connect.
+[Tue Dec 30 15:01:26 2025] <STEAM_0:1:618974024> S0u1: // о, скриптовые ошибки перестали
+[Tue Dec 30 15:01:34 2025] <STEAM_0:0:74235942> Worshiper of God: // +
+[Tue Dec 30 15:01:37 2025] Player "Smasher" <STEAM_0:1:220381002> has spawned in the server
+[Tue Dec 30 15:01:40 2025] Player "punk" <STEAM_0:0:921324874> has left the server
+[Tue Dec 30 15:01:42 2025] Player "punk" <STEAM_0:0:921324874> is attempting to connect.
+[Tue Dec 30 15:01:54 2025] <STEAM_0:1:618974024> S0u1: /looc мы одни остались
+[Tue Dec 30 15:01:57 2025] <STEAM_0:1:220381002> Smasher ran command "noclip COL A.T. Smasher"
+[Tue Dec 30 15:02:00 2025] <STEAM_0:1:220381002> Smasher ran command "invisible COL A.T. Smasher"
+[Tue Dec 30 15:02:05 2025] Player "punk" <STEAM_0:0:921324874> has spawned in the server
+[Tue Dec 30 15:02:13 2025] <STEAM_0:1:220381002> Smasher ran command "a кто киткнул"
+[Tue Dec 30 15:02:18 2025] <STEAM_0:1:620808428> Soldier Boy ran command "a Зачем ты спамишь хл паком?"
+[Tue Dec 30 15:02:26 2025] <STEAM_0:1:220381002> Smasher ran command "a это тренеровка для моего бойца"
+[Tue Dec 30 15:02:31 2025] <STEAM_0:1:220381002> Smasher ran command "a все равно ваши афк стоят"
+[Tue Dec 30 15:02:43 2025] <STEAM_0:1:620808428> Soldier Boy ran command "a Стоим бойца нового обучаем"
+[Tue Dec 30 15:02:49 2025] <STEAM_0:1:620808428> Soldier Boy ran command "a ты бы этого мог обучить"
+[Tue Dec 30 15:03:01 2025] <STEAM_0:1:620808428> Soldier Boy ran command "a а не спаунить запрещённые пропы"
+[Tue Dec 30 15:03:03 2025] <STEAM_0:1:220381002> Smasher ran command "a стойте обучайте я тут причем"
+[Tue Dec 30 15:03:17 2025] <STEAM_0:1:620808428> Soldier Boy ran command "a Это мобы вызывают скрипт ошибки"
+[Tue Dec 30 15:03:22 2025] <STEAM_0:1:220381002> Smasher ran command "a нет"
+[Tue Dec 30 15:03:25 2025] <STEAM_0:1:620808428> Soldier Boy ran command "a Да"
+[Tue Dec 30 15:03:26 2025] <STEAM_0:1:220381002> Smasher ran command "a это хамви вызывает"
+[Tue Dec 30 15:03:33 2025] <STEAM_0:1:220381002> Smasher ran command "a лвс наземка это не хл2"
+[Tue Dec 30 15:03:36 2025] <STEAM_0:1:220381002> Smasher ran command "a бро"
+[Tue Dec 30 15:03:44 2025] <STEAM_0:1:620808428> Soldier Boy ran command "a Окей"
+[Tue Dec 30 15:03:53 2025] <STEAM_0:1:620808428> Soldier Boy ran command "a тебе сказали не спамить мобами"
+[Tue Dec 30 15:03:57 2025] <STEAM_0:1:620808428> Soldier Boy ran command "a окей?"
+[Tue Dec 30 15:04:30 2025] <STEAM_0:1:220381002> Smasher ran command "a так а че делать врагов нет"
+[Tue Dec 30 15:04:43 2025] <STEAM_0:1:620808428> Soldier Boy ran command "a Точки захватывать"
+[Tue Dec 30 15:04:52 2025] <STEAM_0:1:220381002> Smasher ran command "a пусть лучше он зомби убивает чем стоит афк на точке"
+[Tue Dec 30 15:05:01 2025] <STEAM_0:1:220381002> Smasher ran command "a ахуеть развлечение на точке стоять не двигаясь"
+[Tue Dec 30 15:05:08 2025] <STEAM_0:1:620808428> Soldier Boy ran command "a блять"
+[Tue Dec 30 15:05:12 2025] <STEAM_0:1:620808428> Soldier Boy: /
+[Tue Dec 30 15:05:44 2025] <STEAM_0:1:620808428> Soldier Boy ran command "a Мы бойцы обучаем"
+[Tue Dec 30 15:05:47 2025] <STEAM_0:0:74235942> Worshiper of God: /rf Дубровин тут же нужно кадета одеть.
+[Tue Dec 30 15:05:52 2025] <STEAM_0:1:220381002> Smasher ran command "a обучайте"
+[Tue Dec 30 15:05:52 2025] <STEAM_0:1:620808428> Soldier Boy ran command "a потом идём на точки"
+[Tue Dec 30 15:05:56 2025] <STEAM_0:1:220381002> Smasher ran command "a я своих обучаю"
+[Tue Dec 30 15:06:05 2025] <STEAM_0:1:620808428> Soldier Boy ran command "a Мобами из хл2?"
+[Tue Dec 30 15:06:12 2025] <STEAM_0:1:220381002> Smasher ran command "a да"
+[Tue Dec 30 15:06:15 2025] <STEAM_0:1:220381002> Smasher ran command "a мишени"
+[Tue Dec 30 15:07:57 2025] <STEAM_0:1:220381002> Smasher ran command "a найс вы обучаете у вас челик просто туда сюда бегает"
+[Tue Dec 30 15:08:06 2025] <STEAM_0:1:620808428> Soldier Boy ran command "a Да"
+[Tue Dec 30 15:08:20 2025] <STEAM_0:1:620808428> Soldier Boy: /rf Вы где?
+[Tue Dec 30 15:08:24 2025] <STEAM_0:1:220381002> Smasher spawned npc "NPC [588][npc_antlion]"
+[Tue Dec 30 15:10:39 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [590][sw_rocket_3m55_v3]"
+[Tue Dec 30 15:10:45 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [590][sw_rocket_rs82_v3]"
+[Tue Dec 30 15:11:05 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [590][sw_rocket_s1of_v3]"
+[Tue Dec 30 15:11:05 2025] <STEAM_0:1:620808428> Soldier Boy: /rf Вы воюйте
+[Tue Dec 30 15:11:12 2025] <STEAM_0:1:620808428> Soldier Boy: /rf Я спать
+[Tue Dec 30 15:11:19 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [590][sw_mine_tm62_v3]"
+[Tue Dec 30 15:11:21 2025] <STEAM_0:0:74235942> Worshiper of God: /rf давай
+[Tue Dec 30 15:11:24 2025] <STEAM_0:1:620808428> Soldier Boy: /fr Надо резко уснуть
+[Tue Dec 30 15:11:27 2025] Player "m0NESY  cs2-error.ru" <STEAM_0:0:950598750> is attempting to connect.
+[Tue Dec 30 15:11:30 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [591][sw_mine_tm62_v3]"
+[Tue Dec 30 15:11:31 2025] <STEAM_0:1:620808428> Soldier Boy: /rf Надо резко уснуть
+[Tue Dec 30 15:11:41 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [592][sw_mine_tm62_v3]"
+[Tue Dec 30 15:11:47 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [593][sw_mine_tm62_v3]"
+[Tue Dec 30 15:12:07 2025] <STEAM_0:0:74235942> Worshiper of God: // смешер можешь вайт лист выдавать?
+[Tue Dec 30 15:12:18 2025] <STEAM_0:1:220381002> Smasher: // да
+[Tue Dec 30 15:12:45 2025] <STEAM_0:0:74235942> Worshiper of God: // выдай моему рядовому вайт лист на специальность
+[Tue Dec 30 15:13:05 2025] <STEAM_0:1:220381002> Smasher: // какую
+[Tue Dec 30 15:13:12 2025] <STEAM_0:0:74235942> Worshiper of God: // снайпер
+[Tue Dec 30 15:13:26 2025] <STEAM_0:1:220381002> Smasher: // добро
+[Tue Dec 30 15:14:45 2025] <STEAM_0:1:220381002> Smasher: /nato They are going to capture command post in the city
+[Tue Dec 30 15:15:08 2025] S0u1 has killed S0u1.
+[Tue Dec 30 15:15:08 2025] <STEAM_0:1:220381002> Smasher ran command "slay Нитров"
+[Tue Dec 30 15:15:16 2025] <STEAM_0:1:618974024> S0u1: /looc че произошло
+[Tue Dec 30 15:15:17 2025] <STEAM_0:1:220381002> Smasher ran command "bring Нитров"
+[Tue Dec 30 15:15:43 2025] <STEAM_0:1:618974024> S0u1: /looc у меня возрождение
+[Tue Dec 30 15:15:46 2025] <STEAM_0:1:618974024> S0u1: /l на весь экран типо
+[Tue Dec 30 15:16:21 2025] Worshiper of God has killed S0u1.
+[Tue Dec 30 15:16:22 2025] S0u1 has killed S0u1.
+[Tue Dec 30 15:17:22 2025] Worshiper of God has killed S0u1.
+[Tue Dec 30 15:17:46 2025] <STEAM_0:1:618974024> S0u1: // не возраждайте по братски
+[Tue Dec 30 15:17:59 2025] <STEAM_0:1:220381002> Smasher: // не возражаем
+[Tue Dec 30 15:18:24 2025] Player "S0u1" <STEAM_0:1:618974024> has left the server
+[Tue Dec 30 15:18:27 2025] Player "S0u1" <STEAM_0:1:618974024> is attempting to connect.
+[Tue Dec 30 15:18:49 2025] Player "S0u1" <STEAM_0:1:618974024> has spawned in the server
+[Tue Dec 30 15:20:44 2025] Player "Echo_Snooper14" <STEAM_0:1:773683730> is attempting to connect.
+[Tue Dec 30 15:21:02 2025] Player "Echo_Snooper14" <STEAM_0:1:773683730> is attempting to connect.
+[Tue Dec 30 15:21:21 2025] S0u1 has killed punk.
+[Tue Dec 30 15:21:22 2025] punk has killed punk.
+[Tue Dec 30 15:21:25 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [514][sw_mine_ozm72_v3]"
+[Tue Dec 30 15:21:32 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [514][sw_mine_ozm72_v3]"
+[Tue Dec 30 15:21:35 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [556][sw_mine_ozm72_v3]"
+[Tue Dec 30 15:21:39 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [555][sw_mine_ozm72_v3]"
+[Tue Dec 30 15:22:11 2025] Smasher has killed Worshiper of God.
+[Tue Dec 30 15:22:12 2025] Worshiper of God has killed Worshiper of God.
+[Tue Dec 30 15:22:29 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [556][sw_mine_ozm72_v3]"
+[Tue Dec 30 15:22:32 2025] Smasher has killed S0u1.
+[Tue Dec 30 15:22:40 2025] <STEAM_0:0:74235942> Worshiper of God: // а от куда?
+[Tue Dec 30 15:23:24 2025] Player "S0u1" <STEAM_0:1:618974024> has left the server
+[Tue Dec 30 15:23:25 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [557][sw_mine_ozm72_v3]"
+[Tue Dec 30 15:23:26 2025] Player "S0u1" <STEAM_0:1:618974024> is attempting to connect.
+[Tue Dec 30 15:23:36 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [565][sw_mine_ozm72_v3]"
+[Tue Dec 30 15:23:41 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [566][sw_mine_ozm72_v3]"
+[Tue Dec 30 15:23:47 2025] Player "S0u1" <STEAM_0:1:618974024> has spawned in the server
+[Tue Dec 30 15:23:51 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [596][sw_mine_pfm1_v3]"
+[Tue Dec 30 15:24:22 2025] <STEAM_0:1:220381002> Smasher: // мины
+[Tue Dec 30 15:24:29 2025] Player "Аллашка ебанашка" <STEAM_0:1:520072139> is attempting to connect.
+[Tue Dec 30 15:24:36 2025] <STEAM_0:1:620808428> Soldier Boy: /ooc ⓀⓇⒶⓈⒾⒷⓄ ( ͡° ͜ʖ ͡°)
+[Tue Dec 30 15:25:01 2025] punk has killed Worshiper of God.
+[Tue Dec 30 15:25:43 2025] <STEAM_0:1:220381002> Smasher: /advert
+[Tue Dec 30 15:25:51 2025] <STEAM_0:1:220381002> Smasher: /rp a
+[Tue Dec 30 15:25:54 2025] Player "Аллашка ебанашка" <STEAM_0:1:520072139> has spawned in the server
+[Tue Dec 30 15:26:06 2025] <STEAM_0:1:220381002> Smasher: /rp В городе заминированы проходы будьте акуратнее
+[Tue Dec 30 15:26:39 2025] worldspawn has killed Аллашка ебанашка.
+[Tue Dec 30 15:26:45 2025] <STEAM_0:1:520072139> Аллашка ебанашка ran command "menu"
+[Tue Dec 30 15:28:18 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [571][sw_mine_ozm72_v3]"
+[Tue Dec 30 15:28:45 2025] Smasher has killed punk.
+[Tue Dec 30 15:28:46 2025] punk has killed punk.
+[Tue Dec 30 15:29:02 2025] <STEAM_0:1:620808428> Soldier Boy: /l Дискордд
+[Tue Dec 30 15:29:09 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [555][sw_mine_ozm72_v3]"
+[Tue Dec 30 15:29:26 2025] <STEAM_0:1:618974024> S0u1: /looc мне через жнеца дал смашэр
+[Tue Dec 30 15:29:30 2025] <STEAM_0:1:618974024> S0u1: /l снайпера
+[Tue Dec 30 15:29:46 2025] Player "S0u1" <STEAM_0:1:618974024> has left the server
+[Tue Dec 30 15:30:28 2025] Player "S0u1" <STEAM_0:1:618974024> is attempting to connect.
+[Tue Dec 30 15:30:52 2025] Player "S0u1" <STEAM_0:1:618974024> has spawned in the server
+[Tue Dec 30 15:31:29 2025] Player "S0u1" <STEAM_0:1:618974024> has left the server
+[Tue Dec 30 15:32:56 2025] Player "Mr.Monolith" <STEAM_0:1:47931114> is attempting to connect.
+[Tue Dec 30 15:33:40 2025] Player "Mr.Monolith" <STEAM_0:1:47931114> has spawned in the server
+[Tue Dec 30 15:33:48 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [690][sw_rocket_m14of_v3]"
+[Tue Dec 30 15:34:08 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [690][sw_mine_ozm72_v3]"
+[Tue Dec 30 15:34:18 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [557][sw_mine_ozm72_v3]"
+[Tue Dec 30 15:36:10 2025] <STEAM_0:1:520072139> Аллашка ебанашка ran command "menu"
+[Tue Dec 30 15:36:24 2025] <STEAM_0:1:520072139> Аллашка ебанашка: /logs
+[Tue Dec 30 15:36:24 2025] <STEAM_0:1:520072139> Аллашка ебанашка: /logs
+[Tue Dec 30 15:39:18 2025] <STEAM_0:1:620808428> Soldier Boy: /rf Я спать
+[Tue Dec 30 15:39:36 2025] <STEAM_0:1:620808428> Soldier Boy spawned SENT "Entity [570][sw_bmp3m]"
+[Tue Dec 30 15:39:57 2025] <STEAM_0:1:620808428> Soldier Boy: Это хамса вернул
+[Tue Dec 30 15:40:48 2025] Player "Smasher" <STEAM_0:1:220381002> has left the server
+[Tue Dec 30 15:40:51 2025] Player "Smasher" <STEAM_0:1:220381002> is attempting to connect.
+[Tue Dec 30 15:41:15 2025] Player "Smasher" <STEAM_0:1:220381002> has spawned in the server
+[Tue Dec 30 15:42:01 2025] Player "Аллашка ебанашка" <STEAM_0:1:520072139> has left the server
+[Tue Dec 30 15:44:20 2025] Player "S0u1" <STEAM_0:1:618974024> is attempting to connect.
+[Tue Dec 30 15:44:43 2025] Player "S0u1" <STEAM_0:1:618974024> has spawned in the server
+[Tue Dec 30 15:47:26 2025] Worshiper of God has killed Mr.Monolith.
+[Tue Dec 30 15:47:39 2025] worldspawn has killed Worshiper of God.
+[Tue Dec 30 15:49:10 2025] Player "Worshiper of God" <STEAM_0:0:74235942> has left the server
+[Tue Dec 30 15:49:35 2025] Player "Mr.Monolith" <STEAM_0:1:47931114> has left the server
+[Tue Dec 30 15:53:34 2025] Player "Centaurus" <STEAM_0:1:176906490> is attempting to connect.
+[Tue Dec 30 15:54:06 2025] <STEAM_0:1:618974024> S0u1: Т.капитан, вы где?
+[Tue Dec 30 15:56:28 2025] Player "S0u1" <STEAM_0:1:618974024> has left the server
+[Tue Dec 30 15:58:21 2025] Player "Centaurus" <STEAM_0:1:176906490> has spawned in the server
+[Tue Dec 30 16:00:36 2025] Player "༒︎シ︎ʰᵉⁿᵗᵃⁱシ" <STEAM_0:0:851601344> is attempting to connect.
+[Tue Dec 30 16:02:04 2025] Player "༒︎シ︎ʰᵉⁿᵗᵃⁱシ" <STEAM_0:0:851601344> has spawned in the server
+[Tue Dec 30 16:03:37 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "ammo CPT A.E. Evergarden"
+[Tue Dec 30 16:04:29 2025] <STEAM_0:1:220381002> Smasher: !noclp
+[Tue Dec 30 16:04:31 2025] <STEAM_0:1:220381002> Smasher ran command "noclip COL A.T. Smasher"
+[Tue Dec 30 16:04:37 2025] <STEAM_0:1:220381002> Smasher ran command "invisible COL A.T. Smasher"
+[Tue Dec 30 16:04:43 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "a ку смешер"
+[Tue Dec 30 16:05:02 2025] <STEAM_0:1:220381002> Smasher ran command "a ку"
+[Tue Dec 30 16:07:41 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [704][sw_bomb_kab1500l_v3]"
+[Tue Dec 30 16:07:46 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [704][sw_rocket_ros132_v3]"
+[Tue Dec 30 16:07:58 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [704][sw_bomb_upab500b_v3]"
+[Tue Dec 30 16:07:59 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [704][sw_rocket_s25ofm_v3]"
+[Tue Dec 30 16:08:29 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [704][sw_rocket_grome1_v3]"
+[Tue Dec 30 16:08:44 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [555][sw_rocket_kh23m_v3]"
+[Tue Dec 30 16:08:48 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [555][sw_rocket_kh38mt_v3]"
+[Tue Dec 30 16:08:53 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [555][sw_rocket_kh39_v3]"
+[Tue Dec 30 16:09:00 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [596][sw_rocket_kh55_v3]"
+[Tue Dec 30 16:09:15 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [555][sw_rocket_kh58_v3]"
+[Tue Dec 30 16:09:17 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [596][sw_rocket_kh58_v3]"
+[Tue Dec 30 16:09:20 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [555][sw_rocket_kh58_v3]"
+[Tue Dec 30 16:09:31 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [555][sw_rocket_kh38mt_v3]"
+[Tue Dec 30 16:09:33 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [596][sw_rocket_kh38mt_v3]"
+[Tue Dec 30 16:09:49 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [555][sw_rocket_kh29l_v3]"
+[Tue Dec 30 16:09:53 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [715][sw_rocket_kh38mt_v3]"
+[Tue Dec 30 16:09:56 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [555][sw_rocket_kh59_v3]"
+[Tue Dec 30 16:10:05 2025] Player "༒︎シ︎ʰᵉⁿᵗᵃⁱシ" <STEAM_0:0:851601344> has left the server
+[Tue Dec 30 16:10:38 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [560][sw_rocket_kh29l_v3]"
+[Tue Dec 30 16:10:41 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [560][sw_rocket_kh55_v3]"
+[Tue Dec 30 16:10:43 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [560][sw_rocket_kh23m_v3]"
+[Tue Dec 30 16:10:49 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [560][sw_rocket_kh23m_v3]"
+[Tue Dec 30 16:10:52 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [560][sw_rocket_kh23m_v3]"
+[Tue Dec 30 16:10:52 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [561][sw_rocket_kh23m_v3]"
+[Tue Dec 30 16:10:52 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [562][sw_rocket_kh23m_v3]"
+[Tue Dec 30 16:10:53 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [563][sw_rocket_kh23m_v3]"
+[Tue Dec 30 16:10:53 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [564][sw_rocket_kh23m_v3]"
+[Tue Dec 30 16:10:58 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [560][sw_rocket_kh23m_v3]"
+[Tue Dec 30 16:10:58 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [561][sw_rocket_kh23m_v3]"
+[Tue Dec 30 16:10:58 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [562][sw_rocket_kh23m_v3]"
+[Tue Dec 30 16:10:58 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [563][sw_rocket_kh23m_v3]"
+[Tue Dec 30 16:10:58 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [564][sw_rocket_kh23m_v3]"
+[Tue Dec 30 16:11:07 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [560][sw_bomb_fab100m43_v3]"
+[Tue Dec 30 16:11:07 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [561][sw_bomb_fab100m43_v3]"
+[Tue Dec 30 16:11:07 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [562][sw_bomb_fab100m43_v3]"
+[Tue Dec 30 16:11:08 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [563][sw_bomb_fab100m43_v3]"
+[Tue Dec 30 16:11:31 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [560][sw_rocket_s25ofm_v3]"
+[Tue Dec 30 16:11:33 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [560][sw_rocket_s25ofm_v3]"
+[Tue Dec 30 16:11:44 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [560][sw_rocket_s25ofm_v3]"
+[Tue Dec 30 16:11:49 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [560][sw_rocket_s25o_v3]"
+[Tue Dec 30 16:11:53 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [560][sw_bomb_ofab250_umpk_v3]"
+[Tue Dec 30 16:12:04 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [560][sw_bomb_fab250m54_umpk_v3]"
+[Tue Dec 30 16:12:18 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [560][sw_bomb_upab500b_v3]"
+[Tue Dec 30 16:12:19 2025] Smasher has killed punk.
+[Tue Dec 30 16:12:53 2025] <STEAM_0:1:220381002> Smasher spawned vehicle "Vehicle [496][prop_vehicle_jeep_old]"
+[Tue Dec 30 16:13:19 2025] Centaurus has killed Smasher.
+[Tue Dec 30 16:13:48 2025] Centaurus has killed Smasher.
+[Tue Dec 30 16:14:26 2025] Player "Smasher" <STEAM_0:1:220381002> has left the server
+[Tue Dec 30 16:22:48 2025] Player "Centaurus" <STEAM_0:1:176906490> has left the server
+[Tue Dec 30 16:31:08 2025] Player "punk" <STEAM_0:0:921324874> has left the server
+[Tue Dec 30 16:38:19 2025] Player "S0u1" <STEAM_0:1:618974024> is attempting to connect.
+[Tue Dec 30 16:38:54 2025] Player "S0u1" <STEAM_0:1:618974024> has spawned in the server
+[Tue Dec 30 16:39:47 2025] <STEAM_0:1:618974024> S0u1: // форест
+[Tue Dec 30 16:39:51 2025] <STEAM_0:1:618974024> S0u1: // ты тут?
+[Tue Dec 30 16:41:00 2025] Player "S0u1" <STEAM_0:1:618974024> has left the server
+[Tue Dec 30 16:57:54 2025] Player "Soldier Boy" <STEAM_0:1:620808428> has left the server
+[Tue Dec 30 17:40:51 2025] Player "lokibanana" <STEAM_0:1:72822363> is attempting to connect.
+[Tue Dec 30 17:46:54 2025] Player "lokibanana" <STEAM_0:1:72822363> has spawned in the server
+[Tue Dec 30 17:48:48 2025] Player "lokibanana" <STEAM_0:1:72822363> has left the server
+[Tue Dec 30 17:52:16 2025] Player "Лысый аптекарь" <STEAM_0:1:601998882> is attempting to connect.
+[Tue Dec 30 18:04:24 2025] Player "TANZI" <STEAM_0:0:561366370> is attempting to connect.
+[Tue Dec 30 19:37:20 2025] Player "Лысый аптекарь" <STEAM_0:1:601998882> is attempting to connect.
+[Tue Dec 30 19:37:32 2025] Player "Лысый аптекарь" <STEAM_0:1:601998882> is attempting to connect.
+[Tue Dec 30 19:38:03 2025] Player "Лысый аптекарь" <STEAM_0:1:601998882> has spawned in the server
+[Tue Dec 30 20:08:48 2025] Player "Лысый аптекарь" <STEAM_0:1:601998882> has left the server
+[Tue Dec 30 20:08:52 2025] Player "12Danya2011" <STEAM_0:0:404901307> is attempting to connect.

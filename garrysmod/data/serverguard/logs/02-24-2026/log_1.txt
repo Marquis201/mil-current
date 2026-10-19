@@ -1,0 +1,711 @@
+[Tue Feb 24 01:52:43 2026] Player "Noirvall" <STEAM_0:0:631880575> is attempting to connect.
+[Tue Feb 24 02:02:07 2026] Player "Noirvall" <STEAM_0:0:631880575> has spawned in the server
+[Tue Feb 24 02:14:32 2026] <STEAM_0:0:631880575> Noirvall: /me выключил ПНВ
+[Tue Feb 24 02:14:33 2026] <STEAM_0:0:631880575> Noirvall: /me включил ПНВ2
+[Tue Feb 24 02:14:34 2026] <STEAM_0:0:631880575> Noirvall: /me выключил ПНВ
+[Tue Feb 24 02:19:53 2026] <STEAM_0:0:631880575> Noirvall: /me начал качать данные 
+[Tue Feb 24 02:19:56 2026] <STEAM_0:0:631880575> Noirvall: /me включил ПНВ2
+[Tue Feb 24 02:19:57 2026] <STEAM_0:0:631880575> Noirvall: /me выключил ПНВ
+[Tue Feb 24 02:21:58 2026] <STEAM_0:0:631880575> Noirvall: /me достал датапад 
+[Tue Feb 24 02:22:04 2026] <STEAM_0:0:631880575> Noirvall: /me Вколол 1 Инекцию Амнезиака Класса Альфа
+[Tue Feb 24 02:22:06 2026] <STEAM_0:0:631880575> Noirvall: /me выключил ПНВ
+[Tue Feb 24 02:22:07 2026] <STEAM_0:0:631880575> Noirvall: /me включил ПНВ2
+[Tue Feb 24 02:22:08 2026] <STEAM_0:0:631880575> Noirvall: /me выключил ПНВ
+[Tue Feb 24 02:29:19 2026] <STEAM_0:0:631880575> Noirvall: /me включил ПНВ2
+[Tue Feb 24 02:29:20 2026] <STEAM_0:0:631880575> Noirvall: /me выключил ПНВ
+[Tue Feb 24 02:52:22 2026] Player "Noirvall" <STEAM_0:0:631880575> has left the server
+[Tue Feb 24 16:59:16 2026] Player "BloodySmile" <STEAM_0:1:54838838> is attempting to connect.
+[Tue Feb 24 17:00:43 2026] Player "BloodySmile" <STEAM_0:1:54838838> has spawned in the server
+[Tue Feb 24 17:01:33 2026] <STEAM_0:1:54838838> BloodySmile ran command "menu"
+[Tue Feb 24 17:04:03 2026] Player "Жопа Ебанутая" <STEAM_0:0:588299743> is attempting to connect.
+[Tue Feb 24 17:08:14 2026] Player "BloodySmile" <STEAM_0:1:54838838> has left the server
+[Tue Feb 24 17:14:54 2026] Player "Жопа Ебанутая" <STEAM_0:0:588299743> has spawned in the server
+[Tue Feb 24 17:23:53 2026] Player "Жопа Ебанутая" <STEAM_0:0:588299743> has left the server
+[Tue Feb 24 18:23:15 2026] Player "★☾₳ⱤØ₦₦ł₭☽★" <STEAM_0:0:456016030> is attempting to connect.
+[Tue Feb 24 18:25:21 2026] Player "★☾₳ⱤØ₦₦ł₭☽★" <STEAM_0:0:456016030> has spawned in the server
+[Tue Feb 24 20:34:48 2026] Player "gREG4IK" <STEAM_0:1:455594560> is attempting to connect.
+[Tue Feb 24 20:36:18 2026] Player "gREG4IK" <STEAM_0:1:455594560> has spawned in the server
+[Tue Feb 24 20:37:18 2026] <STEAM_0:1:455594560> gREG4IK ran command "goto Ханоев"
+[Tue Feb 24 20:42:55 2026] <STEAM_0:1:455594560> gREG4IK ran command "send Ханоев"
+[Tue Feb 24 20:50:48 2026] gREG4IK has killed ★☾₳ⱤØ₦₦ł₭☽★.
+[Tue Feb 24 21:11:09 2026] Player "punk" <STEAM_0:0:921324874> is attempting to connect.
+[Tue Feb 24 21:11:17 2026] <STEAM_0:1:455594560> gREG4IK ran command "stripweapons Грэг"
+[Tue Feb 24 21:12:31 2026] gREG4IK has killed gREG4IK.
+[Tue Feb 24 21:12:36 2026] <STEAM_0:1:455594560> gREG4IK ran command "respawn ^"
+[Tue Feb 24 21:12:58 2026] gREG4IK has killed ★☾₳ⱤØ₦₦ł₭☽★.
+[Tue Feb 24 21:13:06 2026] Player "punk" <STEAM_0:0:921324874> has spawned in the server
+[Tue Feb 24 21:14:59 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [699][sw_rocket_4k40_v3]"
+[Tue Feb 24 21:15:02 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [725][sw_rocket_4k40_v3]"
+[Tue Feb 24 21:15:05 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [727][sw_rocket_4k40_v3]"
+[Tue Feb 24 21:15:11 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [728][sw_rocket_4k40_v3]"
+[Tue Feb 24 21:15:18 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [699][sw_rocket_4k40_v3]"
+[Tue Feb 24 21:15:33 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:15:33 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [698][sw_rocket_m31_v3]"
+[Tue Feb 24 21:15:33 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:15:33 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [726][sw_rocket_m31_v3]"
+[Tue Feb 24 21:15:34 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:15:34 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [729][sw_rocket_m31_v3]"
+[Tue Feb 24 21:15:34 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:15:34 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [730][sw_rocket_m31_v3]"
+[Tue Feb 24 21:15:34 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:15:34 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [731][sw_rocket_m31_v3]"
+[Tue Feb 24 21:15:34 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:15:34 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [732][sw_rocket_m31_v3]"
+[Tue Feb 24 21:15:34 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:15:34 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [733][sw_rocket_m31_v3]"
+[Tue Feb 24 21:15:34 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:15:34 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [734][sw_rocket_m31_v3]"
+[Tue Feb 24 21:15:34 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:15:34 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [735][sw_rocket_m31_v3]"
+[Tue Feb 24 21:15:35 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:15:35 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [736][sw_rocket_m31_v3]"
+[Tue Feb 24 21:15:35 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:15:35 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [737][sw_rocket_m31_v3]"
+[Tue Feb 24 21:15:35 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:15:35 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [738][sw_rocket_m31_v3]"
+[Tue Feb 24 21:15:50 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:15:50 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [726][sw_rocket_m31_v3]"
+[Tue Feb 24 21:15:50 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:15:50 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [729][sw_rocket_m31_v3]"
+[Tue Feb 24 21:15:50 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:15:50 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [730][sw_rocket_m31_v3]"
+[Tue Feb 24 21:15:50 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:15:50 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [731][sw_rocket_m31_v3]"
+[Tue Feb 24 21:15:51 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:15:51 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [732][sw_rocket_m31_v3]"
+[Tue Feb 24 21:15:51 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:15:51 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [733][sw_rocket_m31_v3]"
+[Tue Feb 24 21:15:51 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:15:51 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [734][sw_rocket_m31_v3]"
+[Tue Feb 24 21:15:51 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:15:51 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [735][sw_rocket_m31_v3]"
+[Tue Feb 24 21:15:51 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:15:51 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [736][sw_rocket_m31_v3]"
+[Tue Feb 24 21:15:52 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:15:52 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [737][sw_rocket_m31_v3]"
+[Tue Feb 24 21:15:52 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:15:52 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [738][sw_rocket_m31_v3]"
+[Tue Feb 24 21:15:52 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:15:52 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [739][sw_rocket_m31_v3]"
+[Tue Feb 24 21:15:52 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:15:52 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [741][sw_rocket_m31_v3]"
+[Tue Feb 24 21:15:54 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: пум пурум
+[Tue Feb 24 21:16:05 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:16:05 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [752][sw_rocket_m31_v3]"
+[Tue Feb 24 21:16:06 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:16:06 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [753][sw_rocket_m31_v3]"
+[Tue Feb 24 21:16:06 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:16:06 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [754][sw_rocket_m31_v3]"
+[Tue Feb 24 21:16:06 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:16:06 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [755][sw_rocket_m31_v3]"
+[Tue Feb 24 21:16:06 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:16:06 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [756][sw_rocket_m31_v3]"
+[Tue Feb 24 21:16:07 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:16:07 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [757][sw_rocket_m31_v3]"
+[Tue Feb 24 21:16:07 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:16:07 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [758][sw_rocket_m31_v3]"
+[Tue Feb 24 21:16:07 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:16:07 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [759][sw_rocket_m31_v3]"
+[Tue Feb 24 21:16:07 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:16:07 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [760][sw_rocket_m31_v3]"
+[Tue Feb 24 21:16:07 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:16:07 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [761][sw_rocket_m31_v3]"
+[Tue Feb 24 21:16:07 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:16:07 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [762][sw_rocket_m31_v3]"
+[Tue Feb 24 21:16:07 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:16:07 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [763][sw_rocket_m31_v3]"
+[Tue Feb 24 21:16:08 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:16:08 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [764][sw_rocket_m31_v3]"
+[Tue Feb 24 21:16:08 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:16:08 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [765][sw_rocket_m31_v3]"
+[Tue Feb 24 21:16:08 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:16:08 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [766][sw_rocket_m31_v3]"
+[Tue Feb 24 21:16:08 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:16:08 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [767][sw_rocket_m31_v3]"
+[Tue Feb 24 21:16:08 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:16:08 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [768][sw_rocket_m31_v3]"
+[Tue Feb 24 21:16:15 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:16:15 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [726][sw_rocket_m31_v3]"
+[Tue Feb 24 21:16:15 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:16:15 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [752][sw_rocket_m31_v3]"
+[Tue Feb 24 21:16:15 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:16:15 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [754][sw_rocket_m31_v3]"
+[Tue Feb 24 21:16:15 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:16:15 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [755][sw_rocket_m31_v3]"
+[Tue Feb 24 21:16:16 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:16:16 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [756][sw_rocket_m31_v3]"
+[Tue Feb 24 21:16:16 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:16:16 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [757][sw_rocket_m31_v3]"
+[Tue Feb 24 21:16:16 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:16:16 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [759][sw_rocket_m31_v3]"
+[Tue Feb 24 21:16:16 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:16:16 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [760][sw_rocket_m31_v3]"
+[Tue Feb 24 21:16:16 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc <KZ
+[Tue Feb 24 21:16:16 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:16:16 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [761][sw_rocket_m31_v3]"
+[Tue Feb 24 21:16:16 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:16:16 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [762][sw_rocket_m31_v3]"
+[Tue Feb 24 21:16:17 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:16:17 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [764][sw_rocket_m31_v3]"
+[Tue Feb 24 21:16:17 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:16:17 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [765][sw_rocket_m31_v3]"
+[Tue Feb 24 21:16:17 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:16:17 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [766][sw_rocket_m31_v3]"
+[Tue Feb 24 21:16:17 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:16:17 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [767][sw_rocket_m31_v3]"
+[Tue Feb 24 21:16:20 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc БЛЯ
+[Tue Feb 24 21:16:26 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:16:26 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [267][sw_rocket_m31_v3]"
+[Tue Feb 24 21:16:27 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:16:27 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [357][sw_rocket_m31_v3]"
+[Tue Feb 24 21:16:27 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:16:27 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [358][sw_rocket_m31_v3]"
+[Tue Feb 24 21:16:27 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:16:27 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [359][sw_rocket_m31_v3]"
+[Tue Feb 24 21:16:27 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:16:27 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [726][sw_rocket_m31_v3]"
+[Tue Feb 24 21:16:27 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:16:27 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [752][sw_rocket_m31_v3]"
+[Tue Feb 24 21:16:27 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:16:27 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [754][sw_rocket_m31_v3]"
+[Tue Feb 24 21:16:27 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:16:27 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [755][sw_rocket_m31_v3]"
+[Tue Feb 24 21:16:28 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:16:28 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [756][sw_rocket_m31_v3]"
+[Tue Feb 24 21:16:28 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:16:28 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [757][sw_rocket_m31_v3]"
+[Tue Feb 24 21:16:28 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:16:28 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [759][sw_rocket_m31_v3]"
+[Tue Feb 24 21:16:28 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:16:28 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [760][sw_rocket_m31_v3]"
+[Tue Feb 24 21:16:28 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:16:28 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [753][sw_rocket_m31_v3]"
+[Tue Feb 24 21:16:28 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:16:28 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [761][sw_rocket_m31_v3]"
+[Tue Feb 24 21:16:29 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:16:29 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [805][sw_rocket_m31_v3]"
+[Tue Feb 24 21:16:29 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:16:29 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [806][sw_rocket_m31_v3]"
+[Tue Feb 24 21:16:36 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:16:36 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [357][sw_rocket_m31_v3]"
+[Tue Feb 24 21:16:36 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:16:36 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [358][sw_rocket_m31_v3]"
+[Tue Feb 24 21:16:37 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:16:37 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [359][sw_rocket_m31_v3]"
+[Tue Feb 24 21:16:37 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:16:37 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [726][sw_rocket_m31_v3]"
+[Tue Feb 24 21:16:37 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:16:37 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [752][sw_rocket_m31_v3]"
+[Tue Feb 24 21:16:37 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:16:37 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [753][sw_rocket_m31_v3]"
+[Tue Feb 24 21:16:37 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:16:37 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [754][sw_rocket_m31_v3]"
+[Tue Feb 24 21:16:37 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:16:37 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [755][sw_rocket_m31_v3]"
+[Tue Feb 24 21:16:38 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:16:38 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [756][sw_rocket_m31_v3]"
+[Tue Feb 24 21:16:38 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:16:38 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [757][sw_rocket_m31_v3]"
+[Tue Feb 24 21:16:38 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:16:38 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [759][sw_rocket_m31_v3]"
+[Tue Feb 24 21:16:38 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:16:38 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [760][sw_rocket_m31_v3]"
+[Tue Feb 24 21:16:38 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:16:38 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [761][sw_rocket_m31_v3]"
+[Tue Feb 24 21:16:38 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:16:38 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [762][sw_rocket_m31_v3]"
+[Tue Feb 24 21:16:39 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:16:39 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [764][sw_rocket_m31_v3]"
+[Tue Feb 24 21:16:39 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:16:39 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [765][sw_rocket_m31_v3]"
+[Tue Feb 24 21:16:39 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:16:39 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [766][sw_rocket_m31_v3]"
+[Tue Feb 24 21:16:39 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:16:39 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [767][sw_rocket_m31_v3]"
+[Tue Feb 24 21:16:50 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:16:50 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [359][sw_rocket_m31_v3]"
+[Tue Feb 24 21:16:50 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:16:50 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [726][sw_rocket_m31_v3]"
+[Tue Feb 24 21:16:50 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:16:50 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [752][sw_rocket_m31_v3]"
+[Tue Feb 24 21:16:50 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:16:50 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [753][sw_rocket_m31_v3]"
+[Tue Feb 24 21:16:50 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:16:50 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [754][sw_rocket_m31_v3]"
+[Tue Feb 24 21:16:50 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:16:50 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [755][sw_rocket_m31_v3]"
+[Tue Feb 24 21:16:50 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:16:50 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [756][sw_rocket_m31_v3]"
+[Tue Feb 24 21:16:51 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:16:51 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [757][sw_rocket_m31_v3]"
+[Tue Feb 24 21:16:51 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:16:51 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [802][sw_rocket_m31_v3]"
+[Tue Feb 24 21:16:51 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:16:51 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [803][sw_rocket_m31_v3]"
+[Tue Feb 24 21:16:51 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:16:51 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [804][sw_rocket_m31_v3]"
+[Tue Feb 24 21:16:51 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:16:51 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [805][sw_rocket_m31_v3]"
+[Tue Feb 24 21:16:51 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:16:51 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [806][sw_rocket_m31_v3]"
+[Tue Feb 24 21:16:52 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:16:52 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [807][sw_rocket_m31_v3]"
+[Tue Feb 24 21:16:52 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:16:52 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [808][sw_rocket_m31_v3]"
+[Tue Feb 24 21:17:05 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:17:05 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [359][sw_rocket_m31_v3]"
+[Tue Feb 24 21:17:06 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:17:06 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [726][sw_rocket_m31_v3]"
+[Tue Feb 24 21:17:07 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:17:07 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [752][sw_rocket_m31_v3]"
+[Tue Feb 24 21:17:07 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:17:07 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [753][sw_rocket_m31_v3]"
+[Tue Feb 24 21:17:07 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:17:07 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [754][sw_rocket_m31_v3]"
+[Tue Feb 24 21:17:08 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:17:08 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [755][sw_rocket_m31_v3]"
+[Tue Feb 24 21:17:08 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:17:08 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [756][sw_rocket_m31_v3]"
+[Tue Feb 24 21:17:08 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:17:08 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [757][sw_rocket_m31_v3]"
+[Tue Feb 24 21:17:08 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:17:08 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [802][sw_rocket_m31_v3]"
+[Tue Feb 24 21:17:08 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:17:08 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [803][sw_rocket_m31_v3]"
+[Tue Feb 24 21:17:08 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:17:08 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [804][sw_rocket_m31_v3]"
+[Tue Feb 24 21:17:09 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:17:09 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [805][sw_rocket_m31_v3]"
+[Tue Feb 24 21:17:09 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:17:09 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [806][sw_rocket_m31_v3]"
+[Tue Feb 24 21:17:16 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:17:16 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [359][sw_rocket_m31_v3]"
+[Tue Feb 24 21:17:17 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:17:17 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [360][sw_rocket_m31_v3]"
+[Tue Feb 24 21:17:17 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:17:17 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [361][sw_rocket_m31_v3]"
+[Tue Feb 24 21:17:17 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:17:17 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [365][sw_rocket_m31_v3]"
+[Tue Feb 24 21:17:18 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:17:18 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [366][sw_rocket_m31_v3]"
+[Tue Feb 24 21:17:18 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:17:18 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [726][sw_rocket_m31_v3]"
+[Tue Feb 24 21:17:25 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:17:25 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [359][sw_rocket_m31_v3]"
+[Tue Feb 24 21:17:25 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:17:25 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [360][sw_rocket_m31_v3]"
+[Tue Feb 24 21:17:26 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:17:26 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [361][sw_rocket_m31_v3]"
+[Tue Feb 24 21:17:26 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:17:26 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [365][sw_rocket_m31_v3]"
+[Tue Feb 24 21:17:26 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:17:26 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [726][sw_rocket_m31_v3]"
+[Tue Feb 24 21:17:26 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:17:26 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [752][sw_rocket_m31_v3]"
+[Tue Feb 24 21:17:26 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:17:26 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [754][sw_rocket_m31_v3]"
+[Tue Feb 24 21:17:48 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:17:48 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [824][sw_rocket_4k40_v3]"
+[Tue Feb 24 21:17:49 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:17:49 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [1016][sw_rocket_4k40_v3]"
+[Tue Feb 24 21:17:58 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [359][npc_combine_s]"
+[Tue Feb 24 21:17:59 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [726][npc_combine_s]"
+[Tue Feb 24 21:18:01 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [802][npc_combine_s]"
+[Tue Feb 24 21:18:01 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [811][npc_combine_s]"
+[Tue Feb 24 21:18:02 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [814][npc_combine_s]"
+[Tue Feb 24 21:18:03 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [818][npc_combine_s]"
+[Tue Feb 24 21:18:04 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [825][npc_combine_s]"
+[Tue Feb 24 21:18:05 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [835][npc_combine_s]"
+[Tue Feb 24 21:18:06 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [1010][npc_combine_s]"
+[Tue Feb 24 21:18:07 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [756][npc_combine_s]"
+[Tue Feb 24 21:18:09 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [1016][npc_combine_s]"
+[Tue Feb 24 21:18:10 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [1019][npc_combine_s]"
+[Tue Feb 24 21:18:10 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [1023][npc_combine_s]"
+[Tue Feb 24 21:18:11 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [1027][npc_combine_s]"
+[Tue Feb 24 21:18:13 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [1031][npc_combine_s]"
+[Tue Feb 24 21:18:14 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [824][npc_combine_s]"
+[Tue Feb 24 21:18:15 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [1035][npc_combine_s]"
+[Tue Feb 24 21:18:15 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [1038][npc_combine_s]"
+[Tue Feb 24 21:18:20 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [813][npc_citizen]"
+[Tue Feb 24 21:18:23 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [812][npc_citizen]"
+[Tue Feb 24 21:18:41 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:18:41 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [815][sw_rocket_4k40_v3]"
+[Tue Feb 24 21:18:46 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:18:46 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [1029][sw_rocket_9m17m_v3]"
+[Tue Feb 24 21:18:49 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:18:49 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [1031][sw_rocket_9m17m_v3]"
+[Tue Feb 24 21:18:50 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:18:50 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [811][sw_rocket_9m17m_v3]"
+[Tue Feb 24 21:19:03 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:19:03 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [729][sw_rocket_9m17m_v3]"
+[Tue Feb 24 21:19:05 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:19:05 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [733][sw_rocket_9m17m_v3]"
+[Tue Feb 24 21:19:07 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:19:07 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [734][sw_rocket_9m17m_v3]"
+[Tue Feb 24 21:19:26 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:19:26 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [732][sw_rocket_9m22_v3]"
+[Tue Feb 24 21:19:37 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:19:37 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [698][sw_rocket_9m22_v3]"
+[Tue Feb 24 21:19:37 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:19:37 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [729][sw_rocket_9m22_v3]"
+[Tue Feb 24 21:19:37 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:19:37 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [732][sw_rocket_9m22_v3]"
+[Tue Feb 24 21:19:38 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:19:38 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [735][sw_rocket_9m22_v3]"
+[Tue Feb 24 21:19:38 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:19:38 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [736][sw_rocket_9m22_v3]"
+[Tue Feb 24 21:19:38 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:19:38 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [737][sw_rocket_9m22_v3]"
+[Tue Feb 24 21:19:38 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:19:38 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [739][sw_rocket_9m22_v3]"
+[Tue Feb 24 21:19:38 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:19:38 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [740][sw_rocket_9m22_v3]"
+[Tue Feb 24 21:19:38 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:19:38 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [741][sw_rocket_9m22_v3]"
+[Tue Feb 24 21:19:39 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:19:39 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [742][sw_rocket_9m22_v3]"
+[Tue Feb 24 21:19:39 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:19:39 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [743][sw_rocket_9m22_v3]"
+[Tue Feb 24 21:19:39 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:19:39 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [746][sw_rocket_9m22_v3]"
+[Tue Feb 24 21:19:39 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:19:39 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [747][sw_rocket_9m22_v3]"
+[Tue Feb 24 21:19:39 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:19:39 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [748][sw_rocket_9m22_v3]"
+[Tue Feb 24 21:19:39 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:19:39 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [749][sw_rocket_9m22_v3]"
+[Tue Feb 24 21:19:39 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:19:39 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [750][sw_rocket_9m22_v3]"
+[Tue Feb 24 21:19:40 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:19:40 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [751][sw_rocket_9m22_v3]"
+[Tue Feb 24 21:19:40 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:19:40 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [802][sw_rocket_9m22_v3]"
+[Tue Feb 24 21:19:40 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:19:40 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [809][sw_rocket_9m22_v3]"
+[Tue Feb 24 21:19:40 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:19:40 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [810][sw_rocket_9m22_v3]"
+[Tue Feb 24 21:19:57 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc у всех пролагнуло?
+[Tue Feb 24 21:20:02 2026] <STEAM_0:0:921324874> punk: // да
+[Tue Feb 24 21:20:07 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:20:07 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [365][sw_bomb_brab220_v3]"
+[Tue Feb 24 21:20:08 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:20:08 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [698][sw_bomb_brab220_v3]"
+[Tue Feb 24 21:20:09 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:20:09 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [729][sw_bomb_brab220_v3]"
+[Tue Feb 24 21:20:24 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:20:24 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [698][sw_bomb_ofab250_umpk_v3]"
+[Tue Feb 24 21:20:36 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:20:36 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [360][sw_rocket_ros132_v3]"
+[Tue Feb 24 21:20:48 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:20:48 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [361][sw_rocket_s25ofm_v3]"
+[Tue Feb 24 21:21:01 2026] punk has killed ★☾₳ⱤØ₦₦ł₭☽★.
+[Tue Feb 24 21:21:06 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:21:06 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [361][sw_bomb_fab3000m54_umpk_v3]"
+[Tue Feb 24 21:21:08 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc скотинец
+[Tue Feb 24 21:21:16 2026] <STEAM_0:0:921324874> punk: // хех
+[Tue Feb 24 21:21:20 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:21:20 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [703][sw_bomb_upab500b_v3]"
+[Tue Feb 24 21:21:30 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:21:30 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [698][sw_bomb_upab500b_v3]"
+[Tue Feb 24 21:21:31 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:21:31 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [703][sw_bomb_upab500b_v3]"
+[Tue Feb 24 21:21:47 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Feb 24 21:21:47 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [365][sw_rocket_kh31_v3]"
+[Tue Feb 24 21:22:09 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [698][sw_rocket_kh22_v3]"
+[Tue Feb 24 21:22:23 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [737][sw_rocket_kh29l_v3]"
+[Tue Feb 24 21:22:35 2026] <STEAM_0:1:455594560> gREG4IK un-froze (reloaded) using the physgun
+[Tue Feb 24 21:22:52 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [703][sw_rocket_kh29l_v3]"
+[Tue Feb 24 21:22:59 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [698][sw_rocket_kh29l_v3]"
+[Tue Feb 24 21:23:03 2026] <STEAM_0:1:455594560> gREG4IK un-froze (reloaded) using the physgun
+[Tue Feb 24 21:23:15 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [698][sw_rocket_kh29l_v3]"
+[Tue Feb 24 21:23:20 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [698][sw_rocket_kh29l_v3]"
+[Tue Feb 24 21:23:36 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [698][sw_rocket_kh29l_v3]"
+[Tue Feb 24 21:23:51 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [698][sw_rocket_kh29l_v3]"
+[Tue Feb 24 21:24:03 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [698][sw_rocket_kh29l_v3]"
+[Tue Feb 24 21:24:06 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [698][sw_rocket_kh29l_v3]"
+[Tue Feb 24 21:24:22 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [698][sw_rocket_kh29l_v3]"
+[Tue Feb 24 21:24:55 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [698][sw_rocket_kh22_v3]"
+[Tue Feb 24 21:25:13 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [698][npc_combine_s]"
+[Tue Feb 24 21:25:14 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [782][npc_combine_s]"
+[Tue Feb 24 21:25:22 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [785][npc_combine_s]"
+[Tue Feb 24 21:25:22 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [788][npc_combine_s]"
+[Tue Feb 24 21:25:23 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [791][npc_combine_s]"
+[Tue Feb 24 21:25:24 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [795][npc_combine_s]"
+[Tue Feb 24 21:25:31 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [810][npc_combine_s]"
+[Tue Feb 24 21:25:31 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [798][npc_combine_s]"
+[Tue Feb 24 21:25:32 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [801][npc_combine_s]"
+[Tue Feb 24 21:25:33 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [814][npc_combine_s]"
+[Tue Feb 24 21:25:35 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [817][npc_combine_s]"
+[Tue Feb 24 21:25:36 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [826][npc_combine_s]"
+[Tue Feb 24 21:25:37 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [847][npc_combine_s]"
+[Tue Feb 24 21:25:39 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [848][npc_combine_s]"
+[Tue Feb 24 21:25:40 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [1012][npc_combine_s]"
+[Tue Feb 24 21:25:41 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [1015][npc_combine_s]"
+[Tue Feb 24 21:25:41 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [1018][npc_combine_s]"
+[Tue Feb 24 21:25:43 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [1021][npc_combine_s]"
+[Tue Feb 24 21:25:43 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [1024][npc_combine_s]"
+[Tue Feb 24 21:25:44 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [1027][npc_combine_s]"
+[Tue Feb 24 21:25:45 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [816][npc_combine_s]"
+[Tue Feb 24 21:25:45 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [1032][npc_combine_s]"
+[Tue Feb 24 21:25:45 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc Грег, у меня баг в машине
+[Tue Feb 24 21:25:45 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [1036][npc_combine_s]"
+[Tue Feb 24 21:25:46 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [1039][npc_combine_s]"
+[Tue Feb 24 21:25:46 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [1042][npc_combine_s]"
+[Tue Feb 24 21:25:55 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc я от 1 лица не могу стрелять с пулемета
+[Tue Feb 24 21:25:58 2026] <STEAM_0:1:455594560> gREG4IK ran command "goto Ханоев"
+[Tue Feb 24 21:27:04 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [814][npc_combine_s]"
+[Tue Feb 24 21:27:07 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [819][npc_combine_s]"
+[Tue Feb 24 21:28:52 2026] ★☾₳ⱤØ₦₦ł₭☽★ has killed punk.
+[Tue Feb 24 21:31:32 2026] Player "OZOR" <STEAM_0:0:85754053> has spawned in the server
+[Tue Feb 24 21:34:48 2026] Player "punk" <STEAM_0:0:921324874> has left the server
+[Tue Feb 24 21:36:50 2026] <STEAM_0:0:85754053> OZOR: // видос
+[Tue Feb 24 21:40:37 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc какой
+[Tue Feb 24 21:40:56 2026] <STEAM_0:1:455594560> gREG4IK: видос?
+[Tue Feb 24 21:41:23 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc у меня мишени не сносятся
+[Tue Feb 24 21:43:12 2026] <STEAM_0:1:455594560> gREG4IK: не работает
+[Tue Feb 24 21:43:22 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: хрэх или грег?
+[Tue Feb 24 21:43:28 2026] <STEAM_0:1:455594560> gREG4IK: грэн
+[Tue Feb 24 21:43:32 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: хрен?
+[Tue Feb 24 21:43:34 2026] <STEAM_0:0:85754053> OZOR: /character
+[Tue Feb 24 21:43:59 2026] <STEAM_0:0:85754053> OZOR: ты шо больной
+[Tue Feb 24 21:44:13 2026] <STEAM_0:1:455594560> gREG4IK: ?
+[Tue Feb 24 21:44:19 2026] <STEAM_0:0:85754053> OZOR: работае твсе
+[Tue Feb 24 21:44:23 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: нет
+[Tue Feb 24 21:44:29 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: а
+[Tue Feb 24 21:44:42 2026] <STEAM_0:1:455594560> gREG4IK: оружие винтовочное не дает попадание
+[Tue Feb 24 21:44:43 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: опять неэ
+[Tue Feb 24 21:44:46 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: а
+[Tue Feb 24 21:44:50 2026] <STEAM_0:0:85754053> OZOR: вы шо больные
+[Tue Feb 24 21:45:04 2026] <STEAM_0:0:85754053> OZOR: память подводит
+[Tue Feb 24 21:45:58 2026] Player "BIGSH1356" <STEAM_0:0:963074969> is attempting to connect.
+[Tue Feb 24 21:46:07 2026] <STEAM_0:0:85754053> OZOR: я даже в девлоге писал, что оружие не регает кроме пистолета, что выдается
+[Tue Feb 24 21:46:34 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: а нах это тода
+[Tue Feb 24 21:46:39 2026] <STEAM_0:0:85754053> OZOR: всм блять
+[Tue Feb 24 21:46:45 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: зачем тир
+[Tue Feb 24 21:46:48 2026] <STEAM_0:0:85754053> OZOR: вы шо больные
+[Tue Feb 24 21:46:50 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: если не опускается от винтовок
+[Tue Feb 24 21:47:16 2026] <STEAM_0:0:85754053> OZOR: БЛЯТЬ А В ЧЕМ ЛОГИКА СОРЕВНОВАНИЯ ЕСЛИ ТЫ БУДЕШЬ С ВИНТОВКОЙ А Я С РПГ
+[Tue Feb 24 21:47:25 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: так 1 оружие типа
+[Tue Feb 24 21:47:30 2026] <STEAM_0:1:455594560> gREG4IK: ну челы даже не играют в тир
+[Tue Feb 24 21:47:30 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: за этим будут КМД следить
+[Tue Feb 24 21:47:34 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: я играю
+[Tue Feb 24 21:47:35 2026] <STEAM_0:1:455594560> gREG4IK: а просто ебашуться
+[Tue Feb 24 21:47:37 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: по приколу
+[Tue Feb 24 21:47:42 2026] <STEAM_0:0:85754053> OZOR: тот самый кмд которого нет
+[Tue Feb 24 21:47:52 2026] <STEAM_0:1:455594560> gREG4IK: ханоев ты вдв?
+[Tue Feb 24 21:47:53 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: так бля
+[Tue Feb 24 21:47:58 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: кто КМД мотострелков
+[Tue Feb 24 21:48:03 2026] <STEAM_0:1:455594560> gREG4IK: никто
+[Tue Feb 24 21:48:10 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: я в ВДВ подавал
+[Tue Feb 24 21:48:25 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: мб с другим челиком пойду
+[Tue Feb 24 21:50:22 2026] <STEAM_0:1:455594560> gREG4IK: ты будешь кмд стрелков?
+[Tue Feb 24 21:50:25 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: не
+[Tue Feb 24 21:50:25 2026] <STEAM_0:1:455594560> gREG4IK: или вдв?
+[Tue Feb 24 21:50:26 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: вдв
+[Tue Feb 24 21:50:29 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: жду одобрение
+[Tue Feb 24 21:50:37 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: мне лимонадов поставил ожидание
+[Tue Feb 24 21:50:53 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: кста, оружка не простреливается
+[Tue Feb 24 21:50:56 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: уже минус
+[Tue Feb 24 21:51:02 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: наоборот
+[Tue Feb 24 21:51:04 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: простреливается
+[Tue Feb 24 21:51:13 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: типа никаких дебафов на неё
+[Tue Feb 24 21:51:14 2026] <STEAM_0:0:85754053> OZOR: че он несет
+[Tue Feb 24 21:51:19 2026] <STEAM_0:1:455594560> gREG4IK: я хз
+[Tue Feb 24 21:51:19 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: стой
+[Tue Feb 24 21:51:31 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: когда по автомату стреляешь
+[Tue Feb 24 21:51:36 2026] <STEAM_0:0:85754053> OZOR: хахаха
+[Tue Feb 24 21:51:42 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: баг
+[Tue Feb 24 21:51:49 2026] <STEAM_0:0:85754053> OZOR: ты че наркоман?
+[Tue Feb 24 21:52:01 2026] <STEAM_0:0:85754053> OZOR: изучи что такое world model
+[Tue Feb 24 21:52:02 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: нет, Лимандов наркоман
+[Tue Feb 24 21:52:07 2026] <STEAM_0:1:455594560> gREG4IK: ты ханоев видимо не понимаешь что такое гаррис мод
+[Tue Feb 24 21:52:11 2026] <STEAM_0:1:455594560> gREG4IK: и как он работает
+[Tue Feb 24 21:52:13 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: ДА
+[Tue Feb 24 21:52:16 2026] <STEAM_0:1:455594560> gREG4IK: это не dayz
+[Tue Feb 24 21:52:19 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: так бля
+[Tue Feb 24 21:52:20 2026] <STEAM_0:1:455594560> gREG4IK: не arma
+[Tue Feb 24 21:52:22 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: а
+[Tue Feb 24 21:52:24 2026] <STEAM_0:0:85754053> OZOR: такого даже в колде нету
+[Tue Feb 24 21:52:26 2026] <STEAM_0:1:455594560> gREG4IK: это песочница
+[Tue Feb 24 21:52:33 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: отговорки
+[Tue Feb 24 21:52:58 2026] <STEAM_0:1:455594560> gREG4IK: я просто вахуе что ты мне скинул
+[Tue Feb 24 21:53:00 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: кста, а где наркоты больше? В Иране или Колумбии?
+[Tue Feb 24 21:53:02 2026] <STEAM_0:1:455594560> gREG4IK: я скинул куратору крч
+[Tue Feb 24 21:53:06 2026] <STEAM_0:1:455594560> gREG4IK: он тоже охуел
+[Tue Feb 24 21:53:10 2026] <STEAM_0:0:85754053> OZOR: карту?
+[Tue Feb 24 21:53:12 2026] <STEAM_0:1:455594560> gREG4IK: нет
+[Tue Feb 24 21:53:14 2026] <STEAM_0:1:455594560> gREG4IK: ТЗ
+[Tue Feb 24 21:53:15 2026] <STEAM_0:1:455594560> gREG4IK: твое
+[Tue Feb 24 21:53:18 2026] <STEAM_0:0:85754053> OZOR: а че там не понятно
+[Tue Feb 24 21:53:22 2026] <STEAM_0:1:455594560> gREG4IK: все понятно
+[Tue Feb 24 21:53:30 2026] <STEAM_0:0:85754053> OZOR: я расписал чтоб понятно было, а по объему это хуйня
+[Tue Feb 24 21:53:52 2026] <STEAM_0:0:85754053> OZOR: я за 2 дня переделал полностью город, я снес то что было до этого
+[Tue Feb 24 21:54:09 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: кста, спс за тазер
+[Tue Feb 24 21:54:10 2026] OZOR has killed ★☾₳ⱤØ₦₦ł₭☽★.
+[Tue Feb 24 21:54:12 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: суки
+[Tue Feb 24 21:54:14 2026] gREG4IK has killed OZOR.
+[Tue Feb 24 21:54:16 2026] <STEAM_0:0:85754053> OZOR: алкаш
+[Tue Feb 24 21:54:18 2026] <STEAM_0:1:455594560> gREG4IK: домой
+[Tue Feb 24 21:54:27 2026] <STEAM_0:0:85754053> OZOR: надо оружие настроить все
+[Tue Feb 24 21:54:30 2026] <STEAM_0:1:455594560> gREG4IK ran command "send Ковалев"
+[Tue Feb 24 21:54:31 2026] <STEAM_0:0:85754053> OZOR: это пизда
+[Tue Feb 24 21:54:35 2026] gREG4IK has killed OZOR.
+[Tue Feb 24 21:54:42 2026] <STEAM_0:0:85754053> OZOR: попробуй из автомата постреляй по мишеням в прицеле блять
+[Tue Feb 24 21:54:46 2026] <STEAM_0:0:85754053> OZOR: ты хуй попадешь с 50 метров
+[Tue Feb 24 21:55:02 2026] <STEAM_0:0:85754053> OZOR ran command "respawn Ковалев"
+[Tue Feb 24 21:55:09 2026] <STEAM_0:0:85754053> OZOR: норм?
+[Tue Feb 24 21:55:13 2026] <STEAM_0:1:455594560> gREG4IK: да
+[Tue Feb 24 21:55:14 2026] <STEAM_0:1:455594560> gREG4IK: ну так
+[Tue Feb 24 21:55:16 2026] <STEAM_0:0:85754053> OZOR: это глушитель плюс блять
+[Tue Feb 24 21:55:28 2026] ★☾₳ⱤØ₦₦ł₭☽★ has killed OZOR.
+[Tue Feb 24 21:55:28 2026] ★☾₳ⱤØ₦₦ł₭☽★ has killed gREG4IK.
+[Tue Feb 24 21:55:28 2026] gREG4IK has killed gREG4IK.
+[Tue Feb 24 21:55:36 2026] ★☾₳ⱤØ₦₦ł₭☽★ has killed ★☾₳ⱤØ₦₦ł₭☽★.
+[Tue Feb 24 21:55:36 2026] <STEAM_0:0:85754053> OZOR ran command "slay Ханоев"
+[Tue Feb 24 21:55:39 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: сука
+[Tue Feb 24 21:55:39 2026] <STEAM_0:0:85754053> OZOR ran command "respawn Ковалев"
+[Tue Feb 24 21:55:45 2026] <STEAM_0:1:455594560> gREG4IK: /ooc я мертв
+[Tue Feb 24 21:55:48 2026] <STEAM_0:0:85754053> OZOR used tool "remover"
+[Tue Feb 24 21:55:48 2026] <STEAM_0:0:85754053> OZOR used tool "remover"
+[Tue Feb 24 21:55:53 2026] <STEAM_0:0:85754053> OZOR: `
+[Tue Feb 24 21:55:57 2026] <STEAM_0:0:85754053> OZOR ran command "send Грэг"
+[Tue Feb 24 21:56:12 2026] <STEAM_0:0:85754053> OZOR: со 103 постреляй
+[Tue Feb 24 21:56:28 2026] <STEAM_0:0:85754053> OZOR: хахаа
+[Tue Feb 24 21:56:32 2026] <STEAM_0:0:85754053> OZOR: с третьей только
+[Tue Feb 24 21:56:38 2026] <STEAM_0:1:455594560> gREG4IK: ща
+[Tue Feb 24 21:56:57 2026] <STEAM_0:1:455594560> gREG4IK: не надо принаровиться
+[Tue Feb 24 21:57:02 2026] <STEAM_0:1:455594560> gREG4IK: не, надо принаровиться
+[Tue Feb 24 21:57:14 2026] <STEAM_0:0:85754053> OZOR: та ну там же видно что оно рандомно летит
+[Tue Feb 24 21:58:41 2026] <STEAM_0:1:455594560> gREG4IK: ты бы лучше сделал выбор оружия с которого они стреляют
+[Tue Feb 24 21:58:46 2026] <STEAM_0:1:455594560> gREG4IK: пистолет значит пистолет
+[Tue Feb 24 21:58:53 2026] <STEAM_0:1:455594560> gREG4IK: винтовка значит винтовка
+[Tue Feb 24 21:59:13 2026] <STEAM_0:0:85754053> OZOR: ты такой умный, сделай
+[Tue Feb 24 21:59:22 2026] <STEAM_0:1:455594560> gREG4IK: ну есть кодер
+[Tue Feb 24 21:59:48 2026] <STEAM_0:0:85754053> OZOR: хахаха
+[Tue Feb 24 21:59:53 2026] <STEAM_0:0:85754053> OZOR: легчайшая
+[Tue Feb 24 22:00:09 2026] <STEAM_0:0:85754053> OZOR: ну за 6.21 это реально, но жеска
+[Tue Feb 24 22:00:23 2026] <STEAM_0:0:85754053> OZOR: грег
+[Tue Feb 24 22:01:09 2026] Player "★☾₳ⱤØ₦₦ł₭☽★" <STEAM_0:0:456016030> has left the server
+[Tue Feb 24 22:02:05 2026] <STEAM_0:1:455594560> gREG4IK: смотри ярик
+[Tue Feb 24 22:02:05 2026] <STEAM_0:0:85754053> OZOR: шо там хаха
+[Tue Feb 24 22:02:11 2026] <STEAM_0:0:85754053> OZOR: твой рекорд побили
+[Tue Feb 24 22:02:12 2026] <STEAM_0:1:455594560> gREG4IK: ближайшие время меня возможно не будет
+[Tue Feb 24 22:02:15 2026] <STEAM_0:1:455594560> gREG4IK: я хз насколько
+[Tue Feb 24 22:02:17 2026] <STEAM_0:1:455594560> gREG4IK: на дня 2
+[Tue Feb 24 22:02:20 2026] <STEAM_0:0:85754053> OZOR: и шо
+[Tue Feb 24 22:02:26 2026] <STEAM_0:0:85754053> OZOR: работать кто будет
+[Tue Feb 24 22:02:29 2026] <STEAM_0:1:455594560> gREG4IK: крч постарайтесь не умереть.
+[Tue Feb 24 22:02:37 2026] <STEAM_0:1:455594560> gREG4IK: работать должен куратор и кедр
+[Tue Feb 24 22:02:41 2026] <STEAM_0:1:455594560> gREG4IK: ну и ты на подсосе
+[Tue Feb 24 22:02:47 2026] <STEAM_0:0:85754053> OZOR: они только в свои доты играют
+[Tue Feb 24 22:02:58 2026] <STEAM_0:0:85754053> OZOR: от них толку 0
+[Tue Feb 24 22:03:07 2026] <STEAM_0:1:455594560> gREG4IK: а от меня бля есть?
+[Tue Feb 24 22:03:09 2026] <STEAM_0:0:85754053> OZOR: я не увидел ни одной минуты от них работы
+[Tue Feb 24 22:03:14 2026] <STEAM_0:0:85754053> OZOR: ну ты хотя бы на сервере
+[Tue Feb 24 22:03:18 2026] <STEAM_0:0:85754053> OZOR: актив
+[Tue Feb 24 22:03:19 2026] <STEAM_0:1:455594560> gREG4IK: ну я онлайню
+[Tue Feb 24 22:03:29 2026] <STEAM_0:0:85754053> OZOR: ты чуть больше чем 0
+[Tue Feb 24 22:03:57 2026] <STEAM_0:1:455594560> gREG4IK: я вот посмотрел
+[Tue Feb 24 22:04:06 2026] <STEAM_0:1:455594560> gREG4IK: обновы наших соперников
+[Tue Feb 24 22:04:11 2026] <STEAM_0:1:455594560> gREG4IK: бля какую хуйню они делают
+[Tue Feb 24 22:04:19 2026] <STEAM_0:1:455594560> gREG4IK: система ВЗЛОМА МАШИНЫ
+[Tue Feb 24 22:04:24 2026] <STEAM_0:1:455594560> gREG4IK: нахуя?
+[Tue Feb 24 22:04:26 2026] <STEAM_0:1:455594560> gREG4IK: зачем?
+[Tue Feb 24 22:04:47 2026] <STEAM_0:0:85754053> OZOR: я уже тебе сделал лучший БАЗОВЫЙ милиатри, но чтобы он стал лучшим из ЛУЧШИХ милитари, надо помощ мне
+[Tue Feb 24 22:05:02 2026] <STEAM_0:1:455594560> gREG4IK: я хочу реально
+[Tue Feb 24 22:05:07 2026] <STEAM_0:1:455594560> gREG4IK: но не могу чисто из за армии
+[Tue Feb 24 22:05:13 2026] <STEAM_0:0:85754053> OZOR: и без этих вот:пусть кедр, пусть куратор, мне поебать кто это будет
+[Tue Feb 24 22:05:17 2026] <STEAM_0:0:85754053> OZOR: мне нужны помощники
+[Tue Feb 24 22:05:17 2026] <STEAM_0:1:455594560> gREG4IK: а еще хотел накатить сюда  simple weather
+[Tue Feb 24 22:05:23 2026] <STEAM_0:0:85754053> OZOR: хуета
+[Tue Feb 24 22:05:26 2026] <STEAM_0:0:85754053> OZOR: - фпс
+[Tue Feb 24 22:05:31 2026] <STEAM_0:0:85754053> OZOR: пизда она ссадит блять
+[Tue Feb 24 22:05:35 2026] <STEAM_0:0:85754053> OZOR: нахуй не нужна
+[Tue Feb 24 22:05:36 2026] <STEAM_0:1:455594560> gREG4IK: альтернатива?
+[Tue Feb 24 22:05:39 2026] <STEAM_0:0:85754053> OZOR: нема
+[Tue Feb 24 22:05:44 2026] <STEAM_0:0:85754053> OZOR: частицы в гмоде говно
+[Tue Feb 24 22:06:12 2026] <STEAM_0:1:455594560> gREG4IK: я реально помогу
+[Tue Feb 24 22:06:14 2026] <STEAM_0:1:455594560> gREG4IK: чем смогу
+[Tue Feb 24 22:06:18 2026] <STEAM_0:0:85754053> OZOR: какда у тебя деньги будут?
+[Tue Feb 24 22:06:21 2026] <STEAM_0:1:455594560> gREG4IK: у меня
+[Tue Feb 24 22:06:24 2026] <STEAM_0:1:455594560> gREG4IK: а че тебе надо?
+[Tue Feb 24 22:06:27 2026] <STEAM_0:1:455594560> gREG4IK: деняг?
+[Tue Feb 24 22:06:33 2026] <STEAM_0:1:455594560> gREG4IK: я же заплатил
+[Tue Feb 24 22:06:36 2026] <STEAM_0:0:85754053> OZOR: ну нада остаток тот
+[Tue Feb 24 22:06:39 2026] <STEAM_0:0:85754053> OZOR: ты же 2 скинул
+[Tue Feb 24 22:06:40 2026] <STEAM_0:1:455594560> gREG4IK: я все скинул
+[Tue Feb 24 22:06:43 2026] <STEAM_0:1:455594560> gREG4IK: ВСЕ СКИНУЛ
+[Tue Feb 24 22:06:44 2026] <STEAM_0:1:455594560> gREG4IK: 4К
+[Tue Feb 24 22:06:45 2026] <STEAM_0:0:85754053> OZOR: и 3 осталось
+[Tue Feb 24 22:06:59 2026] <STEAM_0:1:455594560> gREG4IK: почему?
+[Tue Feb 24 22:07:03 2026] <STEAM_0:0:85754053> OZOR: ну кедр скинул 10
+[Tue Feb 24 22:07:08 2026] <STEAM_0:1:455594560> gREG4IK: 20к мы платим?
+[Tue Feb 24 22:07:12 2026] <STEAM_0:0:85754053> OZOR: нет
+[Tue Feb 24 22:07:15 2026] <STEAM_0:1:455594560> gREG4IK: а скок
+[Tue Feb 24 22:07:20 2026] <STEAM_0:0:85754053> OZOR: 15, кедр скинул 10
+[Tue Feb 24 22:07:26 2026] <STEAM_0:0:85754053> OZOR: ты сказал щас 2 и потом 3
+[Tue Feb 24 22:07:31 2026] <STEAM_0:1:455594560> gREG4IK: я скинул 4к
+[Tue Feb 24 22:07:32 2026] <STEAM_0:0:85754053> OZOR: я могу щас переводы открыть посмотреть
+[Tue Feb 24 22:07:38 2026] <STEAM_0:1:455594560> gREG4IK: нет нет
+[Tue Feb 24 22:07:42 2026] <STEAM_0:1:455594560> gREG4IK: я скинул 4к
+[Tue Feb 24 22:07:50 2026] <STEAM_0:1:455594560> gREG4IK: в совокупе 4к
+[Tue Feb 24 22:08:13 2026] <STEAM_0:0:85754053> OZOR: ты кидал со своей же карты?
+[Tue Feb 24 22:08:18 2026] <STEAM_0:0:85754053> OZOR: больше никакой
+[Tue Feb 24 22:08:27 2026] <STEAM_0:1:455594560> gREG4IK: да
+[Tue Feb 24 22:08:32 2026] <STEAM_0:0:85754053> OZOR: чекай тг
+[Tue Feb 24 22:08:33 2026] <STEAM_0:1:455594560> gREG4IK: ща скажу тебе когда скинул
+[Tue Feb 24 22:09:07 2026] <STEAM_0:1:455594560> gREG4IK: а у тебя какой банк?
+[Tue Feb 24 22:09:09 2026] <STEAM_0:1:455594560> gREG4IK: тиньков?
+[Tue Feb 24 22:09:12 2026] <STEAM_0:0:85754053> OZOR: сбер
+[Tue Feb 24 22:09:46 2026] <STEAM_0:0:85754053> OZOR: если бы ты кинул на тинькоф то тоже пришли бы, но я не пользуюсь ей как основной
+[Tue Feb 24 22:10:18 2026] <STEAM_0:1:455594560> gREG4IK: ща
+[Tue Feb 24 22:12:36 2026] <STEAM_0:1:455594560> gREG4IK: всен
+[Tue Feb 24 22:12:40 2026] <STEAM_0:1:455594560> gREG4IK: больше нет деняг у меня
+[Tue Feb 24 22:12:53 2026] <STEAM_0:0:85754053> OZOR: обонкротили
+[Tue Feb 24 22:12:56 2026] <STEAM_0:1:455594560> gREG4IK: да...уж
+[Tue Feb 24 22:13:00 2026] <STEAM_0:0:85754053> OZOR: кста срв тоже дудосят
+[Tue Feb 24 22:13:05 2026] <STEAM_0:1:455594560> gREG4IK: кто?
+[Tue Feb 24 22:13:06 2026] <STEAM_0:0:85754053> OZOR: мурда же перенес сервер на срв
+[Tue Feb 24 22:13:10 2026] <STEAM_0:0:85754053> OZOR: было норм сначала
+[Tue Feb 24 22:13:11 2026] <STEAM_0:0:85754053> OZOR: щас пизда
+[Tue Feb 24 22:13:14 2026] <STEAM_0:0:85754053> OZOR: всем пизда
+[Tue Feb 24 22:13:23 2026] <STEAM_0:0:85754053> OZOR: он хочет взять специальный хост на арене
+[Tue Feb 24 22:13:29 2026] <STEAM_0:0:85754053> OZOR: знаешь сколько он стоит?
+[Tue Feb 24 22:13:31 2026] <STEAM_0:0:85754053> OZOR: 15к в мес
+[Tue Feb 24 22:13:36 2026] <STEAM_0:0:85754053> OZOR: но зато без ддуса
+[Tue Feb 24 22:13:41 2026] <STEAM_0:0:85754053> OZOR: весела
+[Tue Feb 24 22:13:44 2026] <STEAM_0:1:455594560> gREG4IK: а может ддос не сервера а самого мураены
+[Tue Feb 24 22:13:59 2026] <STEAM_0:0:85754053> OZOR: ну конечно саму
+[Tue Feb 24 22:14:05 2026] <STEAM_0:0:85754053> OZOR: хост дудосят
+[Tue Feb 24 22:14:09 2026] <STEAM_0:1:455594560> gREG4IK: вообще ты скоро будешь от мурды только бля 2к получаться
+[Tue Feb 24 22:14:23 2026] <STEAM_0:0:85754053> OZOR: ну если сервер будет умирать то да
+[Tue Feb 24 22:14:26 2026] <STEAM_0:0:85754053> OZOR: тяжко
+[Tue Feb 24 22:14:28 2026] <STEAM_0:0:85754053> OZOR: но в то же время
+[Tue Feb 24 22:14:34 2026] <STEAM_0:0:85754053> OZOR: щас умрут часть серверов
+[Tue Feb 24 22:14:36 2026] <STEAM_0:0:85754053> OZOR: а если это пережить
+[Tue Feb 24 22:14:39 2026] <STEAM_0:0:85754053> OZOR: то это профит
+[Tue Feb 24 22:14:40 2026] <STEAM_0:1:455594560> gREG4IK: надо переходить
+[Tue Feb 24 22:14:48 2026] <STEAM_0:0:85754053> OZOR: ну смысла на срв нету щас
+[Tue Feb 24 22:14:52 2026] <STEAM_0:0:85754053> OZOR: как выяснилось
+[Tue Feb 24 22:14:57 2026] <STEAM_0:0:85754053> OZOR: арена хотя бы что-то имеет из защиты
+[Tue Feb 24 22:15:03 2026] <STEAM_0:0:85754053> OZOR: там 0 защиты
+[Tue Feb 24 22:15:20 2026] <STEAM_0:1:455594560> gREG4IK: щас узнаю за хостинг
+[Tue Feb 24 22:17:58 2026] <STEAM_0:1:455594560> gREG4IK: я ушел
+[Tue Feb 24 22:18:00 2026] <STEAM_0:1:455594560> gREG4IK: мне отпишут
+[Tue Feb 24 22:18:03 2026] <STEAM_0:1:455594560> gREG4IK: я тебя оплатил
+[Tue Feb 24 22:18:06 2026] <STEAM_0:1:455594560> gREG4IK: деняг нету
+[Tue Feb 24 22:18:11 2026] <STEAM_0:0:85754053> OZOR: увидел
+[Tue Feb 24 22:18:15 2026] <STEAM_0:0:85754053> OZOR: прорвемся
+[Tue Feb 24 22:18:20 2026] <STEAM_0:0:85754053> OZOR: СВОих не бросим
+[Tue Feb 24 22:18:34 2026] <STEAM_0:0:85754053> OZOR: за СВОих горой
+[Tue Feb 24 22:19:46 2026] Player "gREG4IK" <STEAM_0:1:455594560> has left the server
+[Tue Feb 24 22:25:39 2026] Player "★☾₳ⱤØ₦₦ł₭☽★" <STEAM_0:0:456016030> is attempting to connect.
+[Tue Feb 24 22:26:31 2026] <STEAM_0:0:85754053> OZOR: /character
+[Tue Feb 24 22:27:13 2026] <STEAM_0:0:85754053> OZOR: /character
+[Tue Feb 24 22:27:17 2026] <STEAM_0:0:85754053> OZOR: /character
+[Tue Feb 24 22:27:49 2026] Player "★☾₳ⱤØ₦₦ł₭☽★" <STEAM_0:0:456016030> has spawned in the server
+[Tue Feb 24 22:28:05 2026] <STEAM_0:0:85754053> OZOR: /character
+[Tue Feb 24 22:28:28 2026] <STEAM_0:0:85754053> OZOR: /character
+[Tue Feb 24 22:28:31 2026] Player "★☾₳ⱤØ₦₦ł₭☽★" <STEAM_0:0:456016030> has left the server
+[Tue Feb 24 22:32:58 2026] Player "E1yon" <STEAM_0:1:389868584> is attempting to connect.
+[Tue Feb 24 22:34:26 2026] Player "OZOR" <STEAM_0:0:85754053> has left the server

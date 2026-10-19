@@ -1,0 +1,898 @@
+[Tue Apr 14 00:21:30 2026] Player "impotent" <STEAM_0:1:425612974> has left the server
+[Tue Apr 14 01:55:42 2026] Player "COFFE" <STEAM_0:0:546465078> is attempting to connect.
+[Tue Apr 14 10:46:20 2026] Player "Save the World" <STEAM_0:1:411221606> is attempting to connect.
+[Tue Apr 14 13:21:25 2026] Player "АРБУЗИК" <STEAM_0:0:959824042> is attempting to connect.
+[Tue Apr 14 13:23:41 2026] Player "АРБУЗИК" <STEAM_0:0:959824042> has spawned in the server
+[Tue Apr 14 13:27:22 2026] <STEAM_0:0:959824042> АРБУЗИК: н
+[Tue Apr 14 13:32:58 2026] Player "АРБУЗИК" <STEAM_0:0:959824042> has left the server
+[Tue Apr 14 13:34:50 2026] Player "kamekadz.banzai" <STEAM_0:0:390862311> is attempting to connect.
+[Tue Apr 14 13:38:12 2026] Player "kamekadz.banzai" <STEAM_0:0:390862311> has spawned in the server
+[Tue Apr 14 13:43:05 2026] Player "kamekadz.banzai" <STEAM_0:0:390862311> has left the server
+[Tue Apr 14 14:55:04 2026] Player "Po_rA1" <STEAM_0:0:887714123> is attempting to connect.
+[Tue Apr 14 14:56:18 2026] Player "Po_rA1" <STEAM_0:0:887714123> has spawned in the server
+[Tue Apr 14 14:58:55 2026] Player "★☾₳ⱤØ₦₦ł₭☽★" <STEAM_0:0:456016030> is attempting to connect.
+[Tue Apr 14 15:01:01 2026] Player "★☾₳ⱤØ₦₦ł₭☽★" <STEAM_0:0:456016030> has spawned in the server
+[Tue Apr 14 15:04:06 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: в клетку
+[Tue Apr 14 15:04:12 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: быстро
+[Tue Apr 14 15:04:18 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: зашел
+[Tue Apr 14 15:04:38 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: ну бюять уйди
+[Tue Apr 14 15:05:55 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: Ты тут?
+[Tue Apr 14 15:06:44 2026] <STEAM_0:0:887714123> Po_rA1: /ooc да
+[Tue Apr 14 15:07:00 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: ау
+[Tue Apr 14 15:07:06 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: палки гну
+[Tue Apr 14 15:07:20 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: ты что делал пока меня не было?
+[Tue Apr 14 15:07:28 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: а точки почему не захватывал?
+[Tue Apr 14 15:07:52 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: жди. Сейчас станешь рядовым и будеть отправлен в Питер на суд
+[Tue Apr 14 15:19:44 2026] <STEAM_0:0:887714123> Po_rA1: Внимание на квадрат: F8
+[Tue Apr 14 15:19:45 2026] <STEAM_0:0:887714123> Po_rA1: Внимание на квадрат: F8
+[Tue Apr 14 15:21:58 2026] Player "termisters play" <STEAM_0:1:44333849> is attempting to connect.
+[Tue Apr 14 15:22:39 2026] Player "termisters play" <STEAM_0:1:44333849> has spawned in the server
+[Tue Apr 14 15:29:41 2026] termisters play has killed Po_rA1.
+[Tue Apr 14 15:30:03 2026] termisters play has killed Po_rA1.
+[Tue Apr 14 15:30:12 2026] termisters play has killed Po_rA1.
+[Tue Apr 14 15:31:07 2026] ★☾₳ⱤØ₦₦ł₭☽★ has killed termisters play.
+[Tue Apr 14 15:31:08 2026] termisters play has killed termisters play.
+[Tue Apr 14 15:31:34 2026] rgd5_srpnl has killed Po_rA1.
+[Tue Apr 14 15:32:24 2026] ★☾₳ⱤØ₦₦ł₭☽★ has killed termisters play.
+[Tue Apr 14 15:39:54 2026] <STEAM_0:0:887714123> Po_rA1: Внимание на квадрат: F6
+[Tue Apr 14 15:39:55 2026] <STEAM_0:0:887714123> Po_rA1: Внимание на квадрат: F6
+[Tue Apr 14 15:40:54 2026] <STEAM_0:0:887714123> Po_rA1: Внимание на квадрат: E6
+[Tue Apr 14 15:40:54 2026] <STEAM_0:0:887714123> Po_rA1: Внимание на квадрат: E6
+[Tue Apr 14 15:42:46 2026] Player "АРБУЗИК" <STEAM_0:0:959824042> is attempting to connect.
+[Tue Apr 14 15:43:33 2026] ★☾₳ⱤØ₦₦ł₭☽★ has killed termisters play.
+[Tue Apr 14 15:44:57 2026] Player "АРБУЗИК" <STEAM_0:0:959824042> has spawned in the server
+[Tue Apr 14 15:45:23 2026] <STEAM_0:1:44333849> termisters play: ОН СКАЗАЛ ЕСЛИ ТЫ НЕ СПУШИШСЯ ОН УБЕТ МЕНЯ
+[Tue Apr 14 15:45:37 2026] <STEAM_0:1:44333849> termisters play: ОН СКАЗАЛ ЕСЛИ ТЫ НЕ СПУШИШСЯ ОН УБЕТ МЕНЯ
+[Tue Apr 14 15:45:57 2026] <STEAM_0:0:959824042> АРБУЗИК: здраве
+[Tue Apr 14 15:48:10 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /rp Объявил Колесникова в международный розыск
+[Tue Apr 14 15:48:22 2026] <STEAM_0:0:887714123> Po_rA1: /rf Бля ну спасибо
+[Tue Apr 14 15:48:55 2026] <STEAM_0:0:959824042> АРБУЗИК: здравежилаюц
+[Tue Apr 14 15:49:26 2026] <STEAM_0:0:959824042> АРБУЗИК: хахахахаххахахаххаха\
+[Tue Apr 14 15:49:44 2026] Player "kamekadz.banzai" <STEAM_0:0:390862311> is attempting to connect.
+[Tue Apr 14 15:49:50 2026] <STEAM_0:0:959824042> АРБУЗИК: что
+[Tue Apr 14 15:50:01 2026] <STEAM_0:0:959824042> АРБУЗИК: ура поехали
+[Tue Apr 14 15:50:57 2026] <STEAM_0:0:959824042> АРБУЗИК: ура  убивать
+[Tue Apr 14 15:51:03 2026] <STEAM_0:0:959824042> АРБУЗИК: урааааааааааааааааааааааа
+[Tue Apr 14 15:51:17 2026] <STEAM_0:0:959824042> АРБУЗИК: убивать убивать убивать
+[Tue Apr 14 15:51:30 2026] <STEAM_0:0:959824042> АРБУЗИК: жду не дождлусь
+[Tue Apr 14 15:51:38 2026] Player "kamekadz.banzai" <STEAM_0:0:390862311> has spawned in the server
+[Tue Apr 14 15:51:40 2026] <STEAM_0:0:959824042> АРБУЗИК: не я с вами хочу
+[Tue Apr 14 15:52:10 2026] <STEAM_0:0:959824042> АРБУЗИК: д
+[Tue Apr 14 15:52:24 2026] <STEAM_0:0:959824042> АРБУЗИК: там армене зажигали
+[Tue Apr 14 15:52:38 2026] <STEAM_0:0:959824042> АРБУЗИК: не Я
+[Tue Apr 14 15:52:43 2026] <STEAM_0:0:959824042> АРБУЗИК: не я
+[Tue Apr 14 15:53:11 2026] <STEAM_0:0:959824042> АРБУЗИК: я хонаев
+[Tue Apr 14 15:53:30 2026] <STEAM_0:0:959824042> АРБУЗИК: ой хонаев хватит стрелять
+[Tue Apr 14 15:53:37 2026] <STEAM_0:0:959824042> АРБУЗИК: хахахахахахаа
+[Tue Apr 14 15:53:45 2026] <STEAM_0:0:959824042> АРБУЗИК: пешочком
+[Tue Apr 14 15:54:57 2026] <STEAM_0:1:44333849> termisters play: РАЦИЮ ВКЛ НА 67
+[Tue Apr 14 15:55:30 2026] <STEAM_0:0:959824042> АРБУЗИК: эмммммм
+[Tue Apr 14 15:55:34 2026] <STEAM_0:0:959824042> АРБУЗИК: тигр
+[Tue Apr 14 15:56:09 2026] <STEAM_0:0:959824042> АРБУЗИК: я
+[Tue Apr 14 15:57:31 2026] <STEAM_0:0:959824042> АРБУЗИК: у нас псоквский
+[Tue Apr 14 15:58:20 2026] ★☾₳ⱤØ₦₦ł₭☽★ has killed termisters play.
+[Tue Apr 14 15:58:44 2026] <STEAM_0:0:959824042> АРБУЗИК: гон мертв
+[Tue Apr 14 15:59:03 2026] <STEAM_0:0:959824042> АРБУЗИК: здравежилаю
+[Tue Apr 14 15:59:03 2026] ★☾₳ⱤØ₦₦ł₭☽★ has killed АРБУЗИК.
+[Tue Apr 14 15:59:05 2026] ★☾₳ⱤØ₦₦ł₭☽★ has killed kamekadz.banzai.
+[Tue Apr 14 15:59:06 2026] Player "★☾₳ⱤØ₦₦ł₭☽★" <STEAM_0:0:456016030> has left the server
+[Tue Apr 14 15:59:09 2026] <STEAM_0:0:959824042> АРБУЗИК: эм
+[Tue Apr 14 15:59:26 2026] <STEAM_0:0:959824042> АРБУЗИК: за что
+[Tue Apr 14 16:00:22 2026] <STEAM_0:0:959824042> АРБУЗИК: не знаю
+[Tue Apr 14 16:01:26 2026] <STEAM_0:0:959824042> АРБУЗИК: беда
+[Tue Apr 14 16:02:08 2026] <STEAM_0:0:959824042> АРБУЗИК: идите
+[Tue Apr 14 16:02:33 2026] <STEAM_0:0:959824042> АРБУЗИК: это видно
+[Tue Apr 14 16:02:43 2026] <STEAM_0:0:959824042> АРБУЗИК: такой красивый
+[Tue Apr 14 16:04:51 2026] <STEAM_0:0:959824042> АРБУЗИК: колесников
+[Tue Apr 14 16:04:59 2026] <STEAM_0:0:959824042> АРБУЗИК: он в розыске
+[Tue Apr 14 16:05:07 2026] <STEAM_0:0:959824042> АРБУЗИК: колесников
+[Tue Apr 14 16:05:12 2026] <STEAM_0:0:959824042> АРБУЗИК: да
+[Tue Apr 14 16:05:17 2026] <STEAM_0:0:959824042> АРБУЗИК: мы не знаем
+[Tue Apr 14 16:05:22 2026] <STEAM_0:0:959824042> АРБУЗИК: да
+[Tue Apr 14 16:05:27 2026] <STEAM_0:0:959824042> АРБУЗИК: не знаем
+[Tue Apr 14 16:05:43 2026] Player "2ez4u" <STEAM_0:1:49897385> is attempting to connect.
+[Tue Apr 14 16:06:05 2026] Player "Discar" <STEAM_0:0:650470378> is attempting to connect.
+[Tue Apr 14 16:06:52 2026] Po_rA1 has killed АРБУЗИК.
+[Tue Apr 14 16:07:49 2026] kamekadz.banzai has killed Po_rA1.
+[Tue Apr 14 16:09:02 2026] <STEAM_0:0:959824042> АРБУЗИК: не чего
+[Tue Apr 14 16:09:10 2026] <STEAM_0:0:959824042> АРБУЗИК: по колесникому
+[Tue Apr 14 16:10:05 2026] Player "Discar" <STEAM_0:0:650470378> has spawned in the server
+[Tue Apr 14 16:10:20 2026] <STEAM_0:0:390862311> kamekadz.banzai: /rf Розыск с Ефрейтора Колесникова снят, на тех кто приминял силу в сторону Колесникова будет возбуждены акты
+[Tue Apr 14 16:11:02 2026] Player "Discar" <STEAM_0:0:650470378> has left the server
+[Tue Apr 14 16:11:08 2026] Player "Po_rA1" <STEAM_0:0:887714123> has left the server
+[Tue Apr 14 16:11:16 2026] Player "Discar" <STEAM_0:0:650470378> is attempting to connect.
+[Tue Apr 14 16:12:03 2026] Player "Discar" <STEAM_0:0:650470378> has spawned in the server
+[Tue Apr 14 16:12:08 2026] <STEAM_0:0:959824042> АРБУЗИК: за что
+[Tue Apr 14 16:12:47 2026] <STEAM_0:0:959824042> АРБУЗИК: бляяяяяяяяяяяяя
+[Tue Apr 14 16:12:56 2026] <STEAM_0:0:390862311> kamekadz.banzai: /rf Колесников пройти в КПЗ
+[Tue Apr 14 16:13:34 2026] Player "Casebook" <STEAM_0:0:585468466> is attempting to connect.
+[Tue Apr 14 16:13:37 2026] <STEAM_0:0:959824042> АРБУЗИК: здравежилаю
+[Tue Apr 14 16:14:05 2026] <STEAM_0:0:959824042> АРБУЗИК: дааа
+[Tue Apr 14 16:14:29 2026] <STEAM_0:0:959824042> АРБУЗИК: вдв не говно
+[Tue Apr 14 16:14:34 2026] <STEAM_0:0:959824042> АРБУЗИК: давай
+[Tue Apr 14 16:14:42 2026] <STEAM_0:0:959824042> АРБУЗИК: я знаю
+[Tue Apr 14 16:14:53 2026] <STEAM_0:0:959824042> АРБУЗИК: он я не могу
+[Tue Apr 14 16:14:58 2026] <STEAM_0:0:959824042> АРБУЗИК: просто
+[Tue Apr 14 16:15:11 2026] <STEAM_0:0:959824042> АРБУЗИК: норм
+[Tue Apr 14 16:15:14 2026] <STEAM_0:0:959824042> АРБУЗИК: все
+[Tue Apr 14 16:15:27 2026] Player "Casebook" <STEAM_0:0:585468466> has spawned in the server
+[Tue Apr 14 16:15:31 2026] <STEAM_0:0:959824042> АРБУЗИК: ну я не знаю
+[Tue Apr 14 16:15:37 2026] <STEAM_0:0:959824042> АРБУЗИК: не кто не знает
+[Tue Apr 14 16:15:51 2026] <STEAM_0:0:959824042> АРБУЗИК: понял
+[Tue Apr 14 16:16:28 2026] Player "kamekadz.banzai" <STEAM_0:0:390862311> has left the server
+[Tue Apr 14 16:17:15 2026] <STEAM_0:0:959824042> АРБУЗИК: а у хонаева повышение
+[Tue Apr 14 16:17:21 2026] <STEAM_0:0:959824042> АРБУЗИК: что ли
+[Tue Apr 14 16:18:22 2026] <STEAM_0:0:959824042> АРБУЗИК: здравежилаюцв
+[Tue Apr 14 16:19:03 2026] <STEAM_0:0:959824042> АРБУЗИК: да
+[Tue Apr 14 16:19:06 2026] <STEAM_0:0:959824042> АРБУЗИК: да
+[Tue Apr 14 16:19:21 2026] <STEAM_0:0:959824042> АРБУЗИК: несколько минут назат
+[Tue Apr 14 16:19:32 2026] <STEAM_0:0:959824042> АРБУЗИК: нет
+[Tue Apr 14 16:20:03 2026] Player "kamekadz.banzai" <STEAM_0:0:390862311> is attempting to connect.
+[Tue Apr 14 16:20:18 2026] <STEAM_0:0:959824042> АРБУЗИК: я так и сказал
+[Tue Apr 14 16:20:45 2026] <STEAM_0:0:959824042> АРБУЗИК: да
+[Tue Apr 14 16:20:58 2026] <STEAM_0:0:959824042> АРБУЗИК: правда
+[Tue Apr 14 16:21:39 2026] Player "kamekadz.banzai" <STEAM_0:0:390862311> has spawned in the server
+[Tue Apr 14 16:21:56 2026] <STEAM_0:0:959824042> АРБУЗИК: а кто такой филя
+[Tue Apr 14 16:24:40 2026] <STEAM_0:0:959824042> АРБУЗИК: ой
+[Tue Apr 14 16:25:47 2026] <STEAM_0:0:959824042> АРБУЗИК: вы что
+[Tue Apr 14 16:26:05 2026] Player "termisters play" <STEAM_0:1:44333849> has left the server
+[Tue Apr 14 16:26:43 2026] <STEAM_0:0:959824042> АРБУЗИК: аййй сукаааа
+[Tue Apr 14 16:26:49 2026] <STEAM_0:0:959824042> АРБУЗИК: блять
+[Tue Apr 14 16:26:56 2026] <STEAM_0:0:959824042> АРБУЗИК: я порезался
+[Tue Apr 14 16:27:21 2026] Player "MilkyWayAdw" <STEAM_0:0:406263363> is attempting to connect.
+[Tue Apr 14 16:28:35 2026] Player "Jumboxd.?" <STEAM_0:0:426659550> is attempting to connect.
+[Tue Apr 14 16:30:27 2026] <STEAM_0:0:959824042> АРБУЗИК: вы чтот то хотели
+[Tue Apr 14 16:33:45 2026] <STEAM_0:0:390862311> kamekadz.banzai: /pass
+[Tue Apr 14 16:35:28 2026] Player "Casebook" <STEAM_0:0:585468466> has left the server
+[Tue Apr 14 16:36:09 2026] <STEAM_0:0:959824042> АРБУЗИК: блин
+[Tue Apr 14 16:36:23 2026] <STEAM_0:0:959824042> АРБУЗИК: извиние
+[Tue Apr 14 16:36:48 2026] <STEAM_0:0:959824042> АРБУЗИК: ой извините
+[Tue Apr 14 16:37:13 2026] <STEAM_0:0:959824042> АРБУЗИК: я был никитин
+[Tue Apr 14 16:37:31 2026] <STEAM_0:0:959824042> АРБУЗИК: хахахахахахах
+[Tue Apr 14 16:37:45 2026] <STEAM_0:0:959824042> АРБУЗИК: он вышел
+[Tue Apr 14 16:38:13 2026] <STEAM_0:0:959824042> АРБУЗИК: да
+[Tue Apr 14 16:38:16 2026] <STEAM_0:0:959824042> АРБУЗИК: я нет
+[Tue Apr 14 16:38:26 2026] <STEAM_0:0:959824042> АРБУЗИК: я нет
+[Tue Apr 14 16:38:38 2026] <STEAM_0:0:959824042> АРБУЗИК: меня не називали
+[Tue Apr 14 16:39:35 2026] <STEAM_0:0:959824042> АРБУЗИК: хааааааааахахххххаххахахахахахах
+[Tue Apr 14 16:39:55 2026] <STEAM_0:0:959824042> АРБУЗИК: да
+[Tue Apr 14 16:40:38 2026] <STEAM_0:0:959824042> АРБУЗИК: ладно
+[Tue Apr 14 16:41:05 2026] <STEAM_0:0:959824042> АРБУЗИК: меня он никогда не называл
+[Tue Apr 14 16:41:18 2026] <STEAM_0:0:959824042> АРБУЗИК: типо жирным
+[Tue Apr 14 16:41:31 2026] <STEAM_0:0:959824042> АРБУЗИК: да не я не вам
+[Tue Apr 14 16:41:40 2026] <STEAM_0:0:959824042> АРБУЗИК: не вам
+[Tue Apr 14 16:41:49 2026] <STEAM_0:0:959824042> АРБУЗИК: я просто сказал
+[Tue Apr 14 16:41:53 2026] Player "Centaurus" <STEAM_0:1:176906490> is attempting to connect.
+[Tue Apr 14 16:42:03 2026] <STEAM_0:0:959824042> АРБУЗИК: что он меня так не называл
+[Tue Apr 14 16:42:19 2026] <STEAM_0:0:959824042> АРБУЗИК: ага
+[Tue Apr 14 16:42:30 2026] <STEAM_0:0:959824042> АРБУЗИК: хааххахахаахахахахахахахахахахахахахахахахахахазх
+[Tue Apr 14 16:43:14 2026] <STEAM_0:0:959824042> АРБУЗИК: 100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+[Tue Apr 14 16:43:19 2026] <STEAM_0:0:959824042> АРБУЗИК: раз
+[Tue Apr 14 16:43:31 2026] <STEAM_0:0:959824042> АРБУЗИК: я да
+[Tue Apr 14 16:45:04 2026] <STEAM_0:0:959824042> АРБУЗИК: а у кого есть steam
+[Tue Apr 14 16:45:19 2026] <STEAM_0:0:959824042> АРБУЗИК: z gjyzk
+[Tue Apr 14 16:45:31 2026] <STEAM_0:0:959824042> АРБУЗИК: ахахахахаха
+[Tue Apr 14 16:45:35 2026] <STEAM_0:0:959824042> АРБУЗИК: я понял
+[Tue Apr 14 16:45:50 2026] <STEAM_0:0:959824042> АРБУЗИК: вы тоже говорите что это не игра
+[Tue Apr 14 16:48:12 2026] <STEAM_0:0:959824042> АРБУЗИК: не надо
+[Tue Apr 14 16:48:41 2026] Player "Discar" <STEAM_0:0:650470378> has left the server
+[Tue Apr 14 16:48:55 2026] <STEAM_0:0:959824042> АРБУЗИК: ну
+[Tue Apr 14 16:49:10 2026] <STEAM_0:0:959824042> АРБУЗИК: го по
+[Tue Apr 14 16:50:41 2026] kamekadz.banzai has killed АРБУЗИК.
+[Tue Apr 14 16:52:50 2026] <STEAM_0:0:959824042> АРБУЗИК: ок
+[Tue Apr 14 16:53:37 2026] <STEAM_0:0:959824042> АРБУЗИК: стой
+[Tue Apr 14 16:54:05 2026] <STEAM_0:0:959824042> АРБУЗИК: дай номер от стима что бы подружится тоесть id
+[Tue Apr 14 16:55:12 2026] <STEAM_0:0:390862311> kamekadz.banzai: 76561198741990350
+[Tue Apr 14 16:55:18 2026] <STEAM_0:0:959824042> АРБУЗИК: cgfcb,j
+[Tue Apr 14 16:55:35 2026] <STEAM_0:0:959824042> АРБУЗИК: спасибо
+[Tue Apr 14 16:55:48 2026] <STEAM_0:0:959824042> АРБУЗИК: у меня не переключается
+[Tue Apr 14 16:56:04 2026] rgd5_srpnl has killed АРБУЗИК.
+[Tue Apr 14 16:56:46 2026] Player "kamekadz.banzai" <STEAM_0:0:390862311> has left the server
+[Tue Apr 14 16:57:17 2026] <STEAM_0:0:959824042> АРБУЗИК: я отправил
+[Tue Apr 14 17:09:31 2026] Player "1T2X" <STEAM_0:1:404504120> is attempting to connect.
+[Tue Apr 14 17:09:58 2026] Player "FistBl00d" <STEAM_0:1:378751732> is attempting to connect.
+[Tue Apr 14 17:12:02 2026] Player "FistBl00d" <STEAM_0:1:378751732> is attempting to connect.
+[Tue Apr 14 17:22:42 2026] Player "Вьетнамец" <STEAM_0:1:411221606> is attempting to connect.
+[Tue Apr 14 17:23:38 2026] Player "Вьетнамец" <STEAM_0:1:411221606> has spawned in the server
+[Tue Apr 14 17:35:53 2026] <STEAM_0:1:411221606> Вьетнамец: /rp сделал обрезание ВДВ-ку
+[Tue Apr 14 17:42:09 2026] worldspawn has killed АРБУЗИК.
+[Tue Apr 14 17:49:49 2026] Player "Вьетнамец" <STEAM_0:1:411221606> has left the server
+[Tue Apr 14 17:50:31 2026] Player "АРБУЗИК" <STEAM_0:0:959824042> has left the server
+[Tue Apr 14 18:27:30 2026] Player "TIGHTEN" <STEAM_0:0:774332881> is attempting to connect.
+[Tue Apr 14 18:37:56 2026] Player "TIGHTEN" <STEAM_0:0:774332881> is attempting to connect.
+[Tue Apr 14 18:45:51 2026] Player "АРБУЗИК" <STEAM_0:0:959824042> is attempting to connect.
+[Tue Apr 14 18:47:28 2026] Player "АРБУЗИК" <STEAM_0:0:959824042> has spawned in the server
+[Tue Apr 14 18:49:06 2026] Player "АРБУЗИК" <STEAM_0:0:959824042> has left the server
+[Tue Apr 14 19:21:01 2026] Player "Светлана 20м от ваc" <STEAM_0:1:929706556> is attempting to connect.
+[Tue Apr 14 19:54:42 2026] Player "ilolosha" <STEAM_0:1:84783181> is attempting to connect.
+[Tue Apr 14 19:58:35 2026] Player "АРБУЗИК" <STEAM_0:0:959824042> is attempting to connect.
+[Tue Apr 14 20:00:26 2026] Player "АРБУЗИК" <STEAM_0:0:959824042> has spawned in the server
+[Tue Apr 14 20:03:29 2026] Player "ilolosha" <STEAM_0:1:84783181> has spawned in the server
+[Tue Apr 14 20:04:50 2026] Player "АРБУЗИК" <STEAM_0:0:959824042> has left the server
+[Tue Apr 14 20:29:40 2026] Player "vedealex" <STEAM_0:1:31513733> is attempting to connect.
+[Tue Apr 14 20:30:33 2026] Player "vedealex" <STEAM_0:1:31513733> has spawned in the server
+[Tue Apr 14 20:32:55 2026] <STEAM_0:1:84783181> ilolosha: Внимание на квадрат: C6
+[Tue Apr 14 20:32:55 2026] <STEAM_0:1:84783181> ilolosha: Внимание на квадрат: C6
+[Tue Apr 14 20:36:22 2026] Player "vedealex" <STEAM_0:1:31513733> has left the server
+[Tue Apr 14 20:37:03 2026] <STEAM_0:1:84783181> ilolosha: Внимание на квадрат: E3
+[Tue Apr 14 20:37:03 2026] <STEAM_0:1:84783181> ilolosha: Внимание на квадрат: E3
+[Tue Apr 14 20:39:45 2026] Player "ilolosha" <STEAM_0:1:84783181> has left the server
+[Tue Apr 14 20:53:49 2026] Player "ALLAH PROTECT" <STEAM_0:0:938039565> is attempting to connect.
+[Tue Apr 14 20:56:16 2026] Player "𝗺𝟏𝗿𝗮𝗰𝗹𝗲" <STEAM_0:0:869238922> is attempting to connect.
+[Tue Apr 14 21:01:55 2026] Player "𝗺𝟏𝗿𝗮𝗰𝗹𝗲" <STEAM_0:0:869238922> has spawned in the server
+[Tue Apr 14 21:09:15 2026] Player "Pioner" <STEAM_0:1:923042528> is attempting to connect.
+[Tue Apr 14 21:13:04 2026] Player "kamekadz.banzai" <STEAM_0:0:390862311> is attempting to connect.
+[Tue Apr 14 21:14:56 2026] Player "Pioner" <STEAM_0:1:923042528> has spawned in the server
+[Tue Apr 14 21:17:04 2026] Player "kamekadz.banzai" <STEAM_0:0:390862311> has spawned in the server
+[Tue Apr 14 21:18:13 2026] Player "Fimm-ᵛˢᵃᵈⁿᶦᵏ" <STEAM_0:0:627461691> is attempting to connect.
+[Tue Apr 14 21:19:47 2026] Player "Pioner" <STEAM_0:1:923042528> has left the server
+[Tue Apr 14 21:27:24 2026] Player "Fimm-ᵛˢᵃᵈⁿᶦᵏ" <STEAM_0:0:627461691> has spawned in the server
+[Tue Apr 14 21:28:35 2026] <STEAM_0:0:390862311> kamekadz.banzai: /ooc переведи мне 10 баксов,перевели мне 10 баксов, переведи мне 10 баксов
+[Tue Apr 14 21:29:22 2026] Player "Fimm-ᵛˢᵃᵈⁿᶦᵏ" <STEAM_0:0:627461691> has left the server
+[Tue Apr 14 21:44:18 2026] Player "Pioner" <STEAM_0:1:923042528> is attempting to connect.
+[Tue Apr 14 21:45:54 2026] Player "Pioner" <STEAM_0:1:923042528> has spawned in the server
+[Tue Apr 14 21:47:17 2026] <STEAM_0:0:390862311> kamekadz.banzai: /ooc переведи мне 10 баксов
+[Tue Apr 14 21:51:10 2026] Player "Pioner" <STEAM_0:1:923042528> has left the server
+[Tue Apr 14 21:59:32 2026] Player "BloodySmile" <STEAM_0:1:54838838> is attempting to connect.
+[Tue Apr 14 21:59:45 2026] Player "Discar" <STEAM_0:0:650470378> is attempting to connect.
+[Tue Apr 14 22:00:23 2026] Player "BloodySmile" <STEAM_0:1:54838838> has spawned in the server
+[Tue Apr 14 22:00:29 2026] Player "АРБУЗИК" <STEAM_0:0:959824042> is attempting to connect.
+[Tue Apr 14 22:00:38 2026] Player "Discar" <STEAM_0:0:650470378> has spawned in the server
+[Tue Apr 14 22:01:34 2026] <STEAM_0:0:650470378> Discar: Хуясе
+[Tue Apr 14 22:01:45 2026] <STEAM_0:0:650470378> Discar: Кхм
+[Tue Apr 14 22:01:51 2026] Player "АРБУЗИК" <STEAM_0:0:959824042> has spawned in the server
+[Tue Apr 14 22:02:26 2026] <STEAM_0:1:54838838> BloodySmile: Никакие версии или модификации этого контента не могут быть загружены в мастерскую, за исключением случаев, когда используется идентификатор учетной записи 76561198849152333
+[Tue Apr 14 22:02:33 2026] <STEAM_0:0:959824042> АРБУЗИК: здравежилаю
+[Tue Apr 14 22:02:37 2026] <STEAM_0:0:959824042> АРБУЗИК: пско
+[Tue Apr 14 22:02:44 2026] <STEAM_0:0:959824042> АРБУЗИК: псковский
+[Tue Apr 14 22:04:11 2026] <STEAM_0:0:959824042> АРБУЗИК: псковский
+[Tue Apr 14 22:04:17 2026] <STEAM_0:0:959824042> АРБУЗИК: я щас
+[Tue Apr 14 22:06:34 2026] <STEAM_0:0:959824042> АРБУЗИК: знакомо
+[Tue Apr 14 22:06:41 2026] <STEAM_0:0:959824042> АРБУЗИК: очень
+[Tue Apr 14 22:06:50 2026] <STEAM_0:0:959824042> АРБУЗИК: pay day 2
+[Tue Apr 14 22:08:06 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [728][npc_citizen]"
+[Tue Apr 14 22:08:11 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [728][npc_combine_s]"
+[Tue Apr 14 22:08:15 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [728][npc_combine_s]"
+[Tue Apr 14 22:08:30 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [738][npc_combine_s]"
+[Tue Apr 14 22:08:32 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [728][npc_combine_s]"
+[Tue Apr 14 22:08:34 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [738][npc_combine_s]"
+[Tue Apr 14 22:08:37 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [740][npc_combine_s]"
+[Tue Apr 14 22:08:39 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [741][npc_combine_s]"
+[Tue Apr 14 22:08:41 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [728][npc_combine_s]"
+[Tue Apr 14 22:08:42 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [743][npc_combine_s]"
+[Tue Apr 14 22:08:47 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 22:08:47 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [745][npc_combine_s]"
+[Tue Apr 14 22:08:47 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 22:08:47 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [748][npc_combine_s]"
+[Tue Apr 14 22:08:47 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 22:08:48 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [751][npc_combine_s]"
+[Tue Apr 14 22:08:48 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 22:08:48 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [753][npc_combine_s]"
+[Tue Apr 14 22:08:48 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 22:08:48 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [756][npc_combine_s]"
+[Tue Apr 14 22:08:51 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 22:08:51 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [758][npc_combine_s]"
+[Tue Apr 14 22:08:52 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 22:08:52 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [760][npc_combine_s]"
+[Tue Apr 14 22:08:52 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 22:08:52 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [762][npc_combine_s]"
+[Tue Apr 14 22:08:52 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 22:08:52 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [765][npc_combine_s]"
+[Tue Apr 14 22:08:54 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 22:08:54 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [738][npc_combine_s]"
+[Tue Apr 14 22:08:55 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 22:08:55 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [767][npc_combine_s]"
+[Tue Apr 14 22:08:55 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 22:08:55 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [770][npc_combine_s]"
+[Tue Apr 14 22:08:57 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 22:08:57 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [773][npc_combine_s]"
+[Tue Apr 14 22:08:57 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 22:08:57 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [776][npc_combine_s]"
+[Tue Apr 14 22:08:58 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 22:08:58 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [742][npc_combine_s]"
+[Tue Apr 14 22:08:58 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 22:08:58 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [780][npc_combine_s]"
+[Tue Apr 14 22:08:58 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 22:08:58 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [782][npc_combine_s]"
+[Tue Apr 14 22:09:00 2026] npc_combine_s has killed Discar.
+[Tue Apr 14 22:09:02 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 22:09:02 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [720][npc_combine_s]"
+[Tue Apr 14 22:09:03 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 22:09:03 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [728][npc_combine_s]"
+[Tue Apr 14 22:09:03 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 22:09:03 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [743][npc_combine_s]"
+[Tue Apr 14 22:09:03 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 22:09:03 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [784][npc_combine_s]"
+[Tue Apr 14 22:09:04 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 22:09:04 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [787][npc_combine_s]"
+[Tue Apr 14 22:09:17 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [790][armor_take]"
+[Tue Apr 14 22:09:29 2026] <STEAM_0:1:54838838> BloodySmile ran command "npctarget Андрев"
+[Tue Apr 14 22:09:36 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 22:09:36 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [727][npc_combine_s]"
+[Tue Apr 14 22:09:37 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 22:09:37 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [759][npc_combine_s]"
+[Tue Apr 14 22:09:38 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 22:09:38 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [739][npc_combine_s]"
+[Tue Apr 14 22:09:38 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 22:09:38 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [761][npc_combine_s]"
+[Tue Apr 14 22:09:42 2026] npc_combine_s has killed kamekadz.banzai.
+[Tue Apr 14 22:09:52 2026] npc_combine_s has killed Discar.
+[Tue Apr 14 22:09:59 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 22:09:59 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [658][npc_combine_s]"
+[Tue Apr 14 22:10:04 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 22:10:04 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [661][npc_combine_s]"
+[Tue Apr 14 22:10:08 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 22:10:08 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [668][npc_combine_s]"
+[Tue Apr 14 22:10:13 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 22:10:13 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [662][npc_combine_s]"
+[Tue Apr 14 22:10:17 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 22:10:17 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [667][npc_combine_s]"
+[Tue Apr 14 22:10:24 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [668][armor_take]"
+[Tue Apr 14 22:10:34 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 22:10:35 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [602][npc_combine_s]"
+[Tue Apr 14 22:11:09 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 22:11:09 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [658][npc_combine_s]"
+[Tue Apr 14 22:11:16 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 22:11:16 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [658][npc_combine_s]"
+[Tue Apr 14 22:11:16 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 22:11:16 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [738][npc_combine_s]"
+[Tue Apr 14 22:11:17 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 22:11:17 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [742][npc_combine_s]"
+[Tue Apr 14 22:11:17 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 22:11:17 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [748][npc_combine_s]"
+[Tue Apr 14 22:11:17 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 22:11:17 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [751][npc_combine_s]"
+[Tue Apr 14 22:11:18 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 22:11:18 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [754][npc_combine_s]"
+[Tue Apr 14 22:11:25 2026] <STEAM_0:0:959824042> АРБУЗИК: лохи
+[Tue Apr 14 22:11:41 2026] Player "bober" <STEAM_0:1:940520455> is attempting to connect.
+[Tue Apr 14 22:11:56 2026] <STEAM_0:0:959824042> АРБУЗИК: рэйд
+[Tue Apr 14 22:12:00 2026] <STEAM_0:0:959824042> АРБУЗИК: клас
+[Tue Apr 14 22:12:03 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [727][npc_combine_s]"
+[Tue Apr 14 22:12:03 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [739][npc_combine_s]"
+[Tue Apr 14 22:12:04 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [744][npc_combine_s]"
+[Tue Apr 14 22:12:06 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [759][npc_combine_s]"
+[Tue Apr 14 22:12:13 2026] <STEAM_0:0:959824042> АРБУЗИК: трупы
+[Tue Apr 14 22:12:33 2026] BloodySmile has killed kamekadz.banzai.
+[Tue Apr 14 22:12:33 2026] BloodySmile has killed Discar.
+[Tue Apr 14 22:12:33 2026] BloodySmile has killed АРБУЗИК.
+[Tue Apr 14 22:12:42 2026] <STEAM_0:1:54838838> BloodySmile ran command "respawn Зимов"
+[Tue Apr 14 22:12:53 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [663][npc_combine_s]"
+[Tue Apr 14 22:13:01 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [663][npc_combine_s]"
+[Tue Apr 14 22:13:06 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [605][npc_combine_s]"
+[Tue Apr 14 22:13:19 2026] Player "ghoprhd" <STEAM_0:0:453883455> is attempting to connect.
+[Tue Apr 14 22:13:31 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [667][npc_combine_s]"
+[Tue Apr 14 22:13:33 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [692][npc_combine_s]"
+[Tue Apr 14 22:13:34 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [694][npc_combine_s]"
+[Tue Apr 14 22:13:35 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [696][npc_combine_s]"
+[Tue Apr 14 22:13:47 2026] npc_combine_s has killed АРБУЗИК.
+[Tue Apr 14 22:14:28 2026] <STEAM_0:0:959824042> АРБУЗИК: шухер менты
+[Tue Apr 14 22:14:45 2026] <STEAM_0:0:959824042> АРБУЗИК: хахахахахаххахаахаххахахаз
+[Tue Apr 14 22:15:01 2026] <STEAM_0:0:959824042> АРБУЗИК: это то же мое любимое
+[Tue Apr 14 22:15:04 2026] <STEAM_0:0:959824042> АРБУЗИК: хахахаха
+[Tue Apr 14 22:15:10 2026] <STEAM_0:0:959824042> АРБУЗИК: а как это зделать
+[Tue Apr 14 22:15:14 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [652][lvs_wheeldrive_nonrp_t90m]"
+[Tue Apr 14 22:15:17 2026] <STEAM_0:0:390862311> kamekadz.banzai: act robot
+[Tue Apr 14 22:15:21 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [652][lvs_wheeldrive_rp_t90m]"
+[Tue Apr 14 22:15:28 2026] <STEAM_0:0:390862311> kamekadz.banzai: в консоль
+[Tue Apr 14 22:15:42 2026] <STEAM_0:0:959824042> АРБУЗИК: /ast robot
+[Tue Apr 14 22:15:47 2026] <STEAM_0:0:390862311> kamekadz.banzai: в консоль
+[Tue Apr 14 22:15:47 2026] <STEAM_0:0:959824042> АРБУЗИК: и как
+[Tue Apr 14 22:15:55 2026] <STEAM_0:0:390862311> kamekadz.banzai: через Ё
+[Tue Apr 14 22:16:12 2026] <STEAM_0:0:959824042> АРБУЗИК: у меня йо нет
+[Tue Apr 14 22:16:20 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [652][sw_bomb_ofab250_umpk_v3]"
+[Tue Apr 14 22:16:42 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [652][sw_bomb_fab500m62_v3]"
+[Tue Apr 14 22:16:45 2026] Player "ghoprhd" <STEAM_0:0:453883455> has spawned in the server
+[Tue Apr 14 22:16:50 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [652][sw_bomb_fab500m62_v3]"
+[Tue Apr 14 22:17:04 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [668][sw_rocket_s1of_v3]"
+[Tue Apr 14 22:17:31 2026] <STEAM_0:0:959824042> АРБУЗИК: RFQAD
+[Tue Apr 14 22:17:51 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [668][sw_rocket_kh22_v3]"
+[Tue Apr 14 22:17:53 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [691][sw_rocket_kh22_v3]"
+[Tue Apr 14 22:18:27 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 22:18:27 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [652][sw_mine_pfm1_v3]"
+[Tue Apr 14 22:18:27 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 22:18:27 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [663][sw_mine_pfm1_v3]"
+[Tue Apr 14 22:18:27 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 22:18:27 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [668][sw_mine_pfm1_v3]"
+[Tue Apr 14 22:18:27 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 22:18:27 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [690][sw_mine_pfm1_v3]"
+[Tue Apr 14 22:18:27 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 22:18:27 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [694][sw_mine_pfm1_v3]"
+[Tue Apr 14 22:18:28 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 22:18:28 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [695][sw_mine_pfm1_v3]"
+[Tue Apr 14 22:18:28 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 22:18:28 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [696][sw_mine_pfm1_v3]"
+[Tue Apr 14 22:18:28 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 22:18:28 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [697][sw_mine_pfm1_v3]"
+[Tue Apr 14 22:18:30 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 22:18:30 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [698][sw_mine_pfm1_v3]"
+[Tue Apr 14 22:18:31 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 22:18:31 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [699][sw_mine_pfm1_v3]"
+[Tue Apr 14 22:18:31 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 22:18:31 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [700][sw_mine_pfm1_v3]"
+[Tue Apr 14 22:18:31 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 22:18:31 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [701][sw_mine_pfm1_v3]"
+[Tue Apr 14 22:18:31 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 22:18:31 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [702][sw_mine_pfm1_v3]"
+[Tue Apr 14 22:18:31 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 22:18:31 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [703][sw_mine_pfm1_v3]"
+[Tue Apr 14 22:18:32 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 22:18:32 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [704][sw_mine_pfm1_v3]"
+[Tue Apr 14 22:18:32 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 22:18:32 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [705][sw_mine_pfm1_v3]"
+[Tue Apr 14 22:18:32 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 22:18:32 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [706][sw_mine_pfm1_v3]"
+[Tue Apr 14 22:18:32 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 22:18:32 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [707][sw_mine_pfm1_v3]"
+[Tue Apr 14 22:18:32 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 22:18:32 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [718][sw_mine_pfm1_v3]"
+[Tue Apr 14 22:18:33 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 22:18:33 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [721][sw_mine_pfm1_v3]"
+[Tue Apr 14 22:18:33 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 22:18:33 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [727][sw_mine_pfm1_v3]"
+[Tue Apr 14 22:18:33 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 22:18:33 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [728][sw_mine_pfm1_v3]"
+[Tue Apr 14 22:18:33 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 22:18:33 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [729][sw_mine_pfm1_v3]"
+[Tue Apr 14 22:18:34 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 22:18:34 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [730][sw_mine_pfm1_v3]"
+[Tue Apr 14 22:18:34 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 22:18:34 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [731][sw_mine_pfm1_v3]"
+[Tue Apr 14 22:18:34 2026] BloodySmile has killed Discar.
+[Tue Apr 14 22:18:34 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 22:18:34 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [733][sw_mine_pfm1_v3]"
+[Tue Apr 14 22:18:34 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 22:18:34 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [734][sw_mine_pfm1_v3]"
+[Tue Apr 14 22:18:35 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 22:18:35 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [735][sw_mine_pfm1_v3]"
+[Tue Apr 14 22:18:35 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 22:18:35 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [736][sw_mine_pfm1_v3]"
+[Tue Apr 14 22:18:35 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 22:18:35 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [665][sw_mine_pfm1_v3]"
+[Tue Apr 14 22:18:36 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 22:18:36 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [669][sw_mine_pfm1_v3]"
+[Tue Apr 14 22:18:36 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 22:18:36 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [674][sw_mine_pfm1_v3]"
+[Tue Apr 14 22:18:36 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 22:18:36 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [675][sw_mine_pfm1_v3]"
+[Tue Apr 14 22:18:39 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 22:18:39 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [677][sw_mine_pfm1_v3]"
+[Tue Apr 14 22:18:44 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 22:18:44 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [678][sw_mine_pfm1_v3]"
+[Tue Apr 14 22:18:45 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 22:18:45 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [679][sw_mine_pfm1_v3]"
+[Tue Apr 14 22:18:45 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 22:18:45 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [680][sw_mine_pfm1_v3]"
+[Tue Apr 14 22:18:45 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 22:18:45 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [696][sw_mine_pfm1_v3]"
+[Tue Apr 14 22:18:45 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 22:18:45 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [738][sw_mine_pfm1_v3]"
+[Tue Apr 14 22:18:46 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 22:18:46 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [677][sw_mine_pfm1_v3]"
+[Tue Apr 14 22:18:46 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 22:18:46 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [739][sw_mine_pfm1_v3]"
+[Tue Apr 14 22:18:47 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 22:18:47 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [740][sw_mine_pfm1_v3]"
+[Tue Apr 14 22:18:48 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 22:18:48 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [741][sw_mine_pfm1_v3]"
+[Tue Apr 14 22:18:59 2026] <STEAM_0:0:650470378> Discar: /ooc ахаххахахахах
+[Tue Apr 14 22:19:17 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [732][sw_rocket_s1of_v3]"
+[Tue Apr 14 22:19:26 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [732][sw_rocket_s1of_v3]"
+[Tue Apr 14 22:19:29 2026] Player "ghoprhd" <STEAM_0:0:453883455> has left the server
+[Tue Apr 14 22:19:31 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [658][sw_rocket_s1of_v3]"
+[Tue Apr 14 22:19:49 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [658][lvs_wheeldrive_rp_dabrams_m1a1]"
+[Tue Apr 14 22:19:55 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [664][lvs_wheeldrive_dabrams_m1a1]"
+[Tue Apr 14 22:20:18 2026] <STEAM_0:0:650470378> Discar: /ooc попал под ракету, но с музыкой
+[Tue Apr 14 22:20:32 2026] <STEAM_0:0:390862311> kamekadz.banzai: /ooc фаб*
+[Tue Apr 14 22:20:33 2026] <STEAM_0:0:959824042> АРБУЗИК: ага
+[Tue Apr 14 22:21:28 2026] BloodySmile has killed Discar.
+[Tue Apr 14 22:21:29 2026] <STEAM_0:0:390862311> kamekadz.banzai: /rf НУЖНА ТЕХНИКА ВРАЖЕСКИЙ БЕБРАМС!
+[Tue Apr 14 22:22:18 2026] <STEAM_0:1:54838838> BloodySmile ran command "hide Андрев"
+[Tue Apr 14 22:23:28 2026] <STEAM_0:0:959824042> АРБУЗИК: а что
+[Tue Apr 14 22:23:37 2026] <STEAM_0:0:959824042> АРБУЗИК: а что такое
+[Tue Apr 14 22:23:43 2026] <STEAM_0:0:959824042> АРБУЗИК: он
+[Tue Apr 14 22:23:45 2026] <STEAM_0:0:959824042> АРБУЗИК: что
+[Tue Apr 14 22:24:01 2026] <STEAM_0:0:650470378> Discar: Главное это перед полкоывником не делать
+[Tue Apr 14 22:24:04 2026] <STEAM_0:0:959824042> АРБУЗИК: хахахахахахахаахахах
+[Tue Apr 14 22:24:12 2026] <STEAM_0:0:959824042> АРБУЗИК: да
+[Tue Apr 14 22:25:06 2026] <STEAM_0:0:959824042> АРБУЗИК: все харе
+[Tue Apr 14 22:25:16 2026] <STEAM_0:0:959824042> АРБУЗИК: ок
+[Tue Apr 14 22:25:29 2026] <STEAM_0:0:390862311> kamekadz.banzai: /ooc как 3 личико открыть
+[Tue Apr 14 22:25:46 2026] <STEAM_0:0:959824042> АРБУЗИК: не знаю
+[Tue Apr 14 22:26:03 2026] <STEAM_0:1:54838838> BloodySmile ran command "unhide Андрев"
+[Tue Apr 14 22:26:19 2026] <STEAM_0:0:959824042> АРБУЗИК: да
+[Tue Apr 14 22:27:11 2026] <STEAM_0:0:959824042> АРБУЗИК: кайф
+[Tue Apr 14 22:27:52 2026] <STEAM_0:0:650470378> Discar: ПХ или ДЗ
+[Tue Apr 14 22:28:02 2026] <STEAM_0:0:390862311> kamekadz.banzai: ПХ
+[Tue Apr 14 22:28:16 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [652][prop_physics] (models/props_borealis/borealis_door001a.mdl)"
+[Tue Apr 14 22:28:17 2026] <STEAM_0:0:390862311> kamekadz.banzai: а так АД
+[Tue Apr 14 22:28:18 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [663][prop_physics] (models/props_borealis/borealis_door001a.mdl)"
+[Tue Apr 14 22:28:30 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [664][npc_zombine]"
+[Tue Apr 14 22:28:51 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [665][npc_fastzombie]"
+[Tue Apr 14 22:28:55 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [669][npc_fastzombie]"
+[Tue Apr 14 22:28:59 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [667][npc_fastzombie]"
+[Tue Apr 14 22:29:01 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [676][npc_fastzombie]"
+[Tue Apr 14 22:29:08 2026] kamekadz.banzai has killed АРБУЗИК.
+[Tue Apr 14 22:29:09 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [602][npc_zombine]"
+[Tue Apr 14 22:29:24 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [662][npc_poisonzombie]"
+[Tue Apr 14 22:29:40 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [605][npc_poisonzombie]"
+[Tue Apr 14 22:29:51 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [668][npc_zombine]"
+[Tue Apr 14 22:29:52 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [664][npc_zombine]"
+[Tue Apr 14 22:29:53 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [676][npc_zombine]"
+[Tue Apr 14 22:30:16 2026] npc_zombine has killed АРБУЗИК.
+[Tue Apr 14 22:30:19 2026] <STEAM_0:0:959824042> АРБУЗИК: аааааааааааа
+[Tue Apr 14 22:30:50 2026] <STEAM_0:1:54838838> BloodySmile ran command "respawn Зимов"
+[Tue Apr 14 22:30:52 2026] <STEAM_0:0:959824042> АРБУЗИК: аллооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооо:anger:
+[Tue Apr 14 22:31:43 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [686][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1.mdl)"
+[Tue Apr 14 22:31:46 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [686][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1_tall.mdl)"
+[Tue Apr 14 22:31:46 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [687][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1_tall.mdl)"
+[Tue Apr 14 22:31:46 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [688][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1_tall.mdl)"
+[Tue Apr 14 22:31:46 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [689][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1_tall.mdl)"
+[Tue Apr 14 22:31:46 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [690][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1_tall.mdl)"
+[Tue Apr 14 22:31:47 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [691][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1_tall.mdl)"
+[Tue Apr 14 22:31:47 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [692][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1_tall.mdl)"
+[Tue Apr 14 22:31:47 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [693][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1_tall.mdl)"
+[Tue Apr 14 22:31:54 2026] <STEAM_0:0:959824042> АРБУЗИК: а можешь оружие спавнить
+[Tue Apr 14 22:32:45 2026] <STEAM_0:0:650470378> Discar: Дэшка или нортфил?
+[Tue Apr 14 22:33:09 2026] <STEAM_0:0:959824042> АРБУЗИК: я щас
+[Tue Apr 14 22:33:14 2026] <STEAM_0:0:650470378> Discar: Внимание внимание
+[Tue Apr 14 22:33:25 2026] <STEAM_0:0:650470378> Discar: Протокол граната в лифт
+[Tue Apr 14 22:34:11 2026] kamekadz.banzai has killed Discar.
+[Tue Apr 14 22:34:45 2026] <STEAM_0:0:650470378> Discar: Топ 10 scp моментов
+[Tue Apr 14 22:35:09 2026] <STEAM_0:0:650470378> Discar: Теперь я чую поветрие
+[Tue Apr 14 22:35:29 2026] <STEAM_0:0:650470378> Discar: Все заражены
+[Tue Apr 14 22:35:52 2026] <STEAM_0:0:650470378> Discar: Нету
+[Tue Apr 14 22:35:53 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [680][npc_combine_s]"
+[Tue Apr 14 22:35:57 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [680][npc_combine_s]"
+[Tue Apr 14 22:36:00 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [687][npc_combine_s]"
+[Tue Apr 14 22:36:03 2026] <STEAM_0:0:650470378> Discar: Не вжу я
+[Tue Apr 14 22:36:04 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [680][npc_combine_s]"
+[Tue Apr 14 22:36:14 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [688][npc_combine_s]"
+[Tue Apr 14 22:36:17 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [680][npc_citizen]"
+[Tue Apr 14 22:36:18 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [686][npc_combine_s]"
+[Tue Apr 14 22:36:22 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [680][npc_combine_s]"
+[Tue Apr 14 22:36:26 2026] npc_combine_s has killed АРБУЗИК.
+[Tue Apr 14 22:37:33 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [602][npc_combine_s]"
+[Tue Apr 14 22:37:41 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [679][npc_combine_s]"
+[Tue Apr 14 22:37:43 2026] Discar has killed kamekadz.banzai.
+[Tue Apr 14 22:37:58 2026] npc_combine_s has killed kamekadz.banzai.
+[Tue Apr 14 22:38:12 2026] npc_combine_s has killed Discar.
+[Tue Apr 14 22:38:20 2026] <STEAM_0:1:54838838> BloodySmile ran command "respawn Дискаров"
+[Tue Apr 14 22:38:25 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [602][npc_combine_s]"
+[Tue Apr 14 22:38:25 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [658][npc_combine_s]"
+[Tue Apr 14 22:38:26 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [660][npc_combine_s]"
+[Tue Apr 14 22:38:27 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [664][npc_combine_s]"
+[Tue Apr 14 22:39:21 2026] Discar has killed kamekadz.banzai.
+[Tue Apr 14 22:39:26 2026] <STEAM_0:1:54838838> BloodySmile ran command "respawn Псковский "
+[Tue Apr 14 22:39:49 2026] kamekadz.banzai has killed Discar.
+[Tue Apr 14 22:39:52 2026] <STEAM_0:1:54838838> BloodySmile spawned SWEP "Weapon [651][weapon_vj_blaster]"
+[Tue Apr 14 22:39:53 2026] <STEAM_0:1:54838838> BloodySmile spawned SWEP "Weapon [652][weapon_vj_blaster]"
+[Tue Apr 14 22:40:13 2026] <STEAM_0:1:54838838> BloodySmile ran command "respawn Дискаров"
+[Tue Apr 14 22:40:38 2026] <STEAM_0:1:54838838> BloodySmile spawned SWEP "Weapon [674][weapon_vj_mp40]"
+[Tue Apr 14 22:40:43 2026] <STEAM_0:1:54838838> BloodySmile spawned SWEP "Weapon [602][weapon_vj_mp40]"
+[Tue Apr 14 22:40:57 2026] <STEAM_0:1:54838838> BloodySmile spawned SWEP "Weapon [677][weapon_vj_357]"
+[Tue Apr 14 22:40:59 2026] <STEAM_0:1:54838838> BloodySmile spawned SWEP "Weapon [602][weapon_vj_357]"
+[Tue Apr 14 22:41:16 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [602][sent_vj_campfire]"
+[Tue Apr 14 22:41:24 2026] <STEAM_0:1:54838838> BloodySmile used tool "vj_tool_bullseye"
+[Tue Apr 14 22:41:25 2026] <STEAM_0:1:54838838> BloodySmile used tool "vj_tool_bullseye"
+[Tue Apr 14 22:41:38 2026] <STEAM_0:1:54838838> BloodySmile used tool "vj_tool_scanner"
+[Tue Apr 14 22:41:39 2026] <STEAM_0:1:54838838> BloodySmile used tool "vj_tool_scanner"
+[Tue Apr 14 22:42:06 2026] rgd5_srpnl has killed kamekadz.banzai.
+[Tue Apr 14 22:43:35 2026] <STEAM_0:1:54838838> BloodySmile used tool "vj_tool_spawner"
+[Tue Apr 14 22:43:41 2026] <STEAM_0:1:54838838> BloodySmile used tool "vj_tool_spawner"
+[Tue Apr 14 22:43:48 2026] kamekadz.banzai has killed Discar.
+[Tue Apr 14 22:43:54 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [652][sent_vj_ply_spawn]"
+[Tue Apr 14 22:43:54 2026] <STEAM_0:1:54838838> BloodySmile used tool "vj_tool_spawner"
+[Tue Apr 14 22:43:55 2026] <STEAM_0:1:54838838> BloodySmile used tool "vj_tool_spawner"
+[Tue Apr 14 22:43:58 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [652][prop_physics] (models/props_c17/furnitureStove001a.mdl)"
+[Tue Apr 14 22:44:00 2026] <STEAM_0:1:54838838> BloodySmile used tool "vj_tool_spawner"
+[Tue Apr 14 22:44:13 2026] <STEAM_0:1:54838838> BloodySmile used tool "vj_tool_spawner"
+[Tue Apr 14 22:44:13 2026] <STEAM_0:1:54838838> BloodySmile used tool "vj_tool_spawner"
+[Tue Apr 14 22:44:14 2026] <STEAM_0:1:54838838> BloodySmile used tool "vj_tool_spawner"
+[Tue Apr 14 22:44:14 2026] <STEAM_0:1:54838838> BloodySmile used tool "vj_tool_spawner"
+[Tue Apr 14 22:44:15 2026] <STEAM_0:1:54838838> BloodySmile used tool "vj_tool_spawner"
+[Tue Apr 14 22:44:15 2026] <STEAM_0:1:54838838> BloodySmile used tool "vj_tool_spawner"
+[Tue Apr 14 22:44:15 2026] <STEAM_0:1:54838838> BloodySmile used tool "vj_tool_spawner"
+[Tue Apr 14 22:44:16 2026] <STEAM_0:1:54838838> BloodySmile used tool "vj_tool_spawner"
+[Tue Apr 14 22:44:16 2026] <STEAM_0:1:54838838> BloodySmile used tool "vj_tool_spawner"
+[Tue Apr 14 22:44:16 2026] <STEAM_0:1:54838838> BloodySmile used tool "vj_tool_spawner"
+[Tue Apr 14 22:44:16 2026] <STEAM_0:1:54838838> BloodySmile used tool "vj_tool_spawner"
+[Tue Apr 14 22:44:16 2026] <STEAM_0:1:54838838> BloodySmile used tool "vj_tool_spawner"
+[Tue Apr 14 22:44:16 2026] <STEAM_0:1:54838838> BloodySmile used tool "vj_tool_spawner"
+[Tue Apr 14 22:44:27 2026] <STEAM_0:0:959824042> АРБУЗИК: я афк
+[Tue Apr 14 22:45:01 2026] <STEAM_0:1:54838838> BloodySmile used tool "vj_tool_spawner"
+[Tue Apr 14 22:45:07 2026] <STEAM_0:1:54838838> BloodySmile used tool "vj_tool_spawner"
+[Tue Apr 14 22:45:26 2026] kamekadz.banzai has killed Discar.
+[Tue Apr 14 22:45:31 2026] <STEAM_0:1:54838838> BloodySmile used tool "vj_tool_spawner"
+[Tue Apr 14 22:45:31 2026] <STEAM_0:1:54838838> BloodySmile used tool "vj_tool_spawner"
+[Tue Apr 14 22:45:40 2026] <STEAM_0:1:54838838> BloodySmile used tool "vj_tool_spawner"
+[Tue Apr 14 22:45:41 2026] <STEAM_0:1:54838838> BloodySmile used tool "vj_tool_spawner"
+[Tue Apr 14 22:45:48 2026] <STEAM_0:1:54838838> BloodySmile used tool "vj_tool_spawner"
+[Tue Apr 14 22:45:49 2026] <STEAM_0:1:54838838> BloodySmile used tool "vj_tool_spawner"
+[Tue Apr 14 22:45:49 2026] <STEAM_0:1:54838838> BloodySmile used tool "vj_tool_spawner"
+[Tue Apr 14 22:45:56 2026] <STEAM_0:1:54838838> BloodySmile used tool "vj_tool_spawner"
+[Tue Apr 14 22:45:57 2026] <STEAM_0:1:54838838> BloodySmile used tool "vj_tool_spawner"
+[Tue Apr 14 22:45:58 2026] <STEAM_0:1:54838838> BloodySmile used tool "vj_tool_spawner"
+[Tue Apr 14 22:45:58 2026] <STEAM_0:1:54838838> BloodySmile used tool "vj_tool_spawner"
+[Tue Apr 14 22:45:58 2026] <STEAM_0:1:54838838> BloodySmile used tool "vj_tool_spawner"
+[Tue Apr 14 22:46:05 2026] <STEAM_0:1:54838838> BloodySmile used tool "vj_tool_spawner"
+[Tue Apr 14 22:46:05 2026] <STEAM_0:1:54838838> BloodySmile used tool "vj_tool_spawner"
+[Tue Apr 14 22:46:05 2026] <STEAM_0:1:54838838> BloodySmile used tool "vj_tool_spawner"
+[Tue Apr 14 22:46:58 2026] <STEAM_0:1:54838838> BloodySmile used tool "vj_tool_spawner"
+[Tue Apr 14 22:47:01 2026] <STEAM_0:1:54838838> BloodySmile used tool "vj_tool_spawner"
+[Tue Apr 14 22:47:01 2026] <STEAM_0:1:54838838> BloodySmile used tool "vj_tool_spawner"
+[Tue Apr 14 22:47:07 2026] <STEAM_0:1:54838838> BloodySmile used tool "vj_tool_spawner"
+[Tue Apr 14 22:47:07 2026] <STEAM_0:1:54838838> BloodySmile used tool "vj_tool_spawner"
+[Tue Apr 14 22:47:19 2026] Discar has killed kamekadz.banzai.
+[Tue Apr 14 22:48:02 2026] kamekadz.banzai has killed kamekadz.banzai.
+[Tue Apr 14 22:48:18 2026] <STEAM_0:0:390862311> kamekadz.banzai: /me крехтит
+[Tue Apr 14 22:48:58 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: Это звучит знаешь как
+[Tue Apr 14 22:49:11 2026] <STEAM_0:1:54838838> BloodySmile used tool "vj_tool_spawner"
+[Tue Apr 14 22:49:12 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: "Макаров, знает Юрия!}
+[Tue Apr 14 22:49:13 2026] <STEAM_0:1:54838838> BloodySmile used tool "vj_tool_spawner"
+[Tue Apr 14 22:49:40 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: Шепард Предатель, повторяю Шепард предатель
+[Tue Apr 14 22:49:57 2026] <STEAM_0:1:54838838> BloodySmile used tool "vj_tool_spawner"
+[Tue Apr 14 22:49:57 2026] <STEAM_0:1:54838838> BloodySmile used tool "vj_tool_spawner"
+[Tue Apr 14 22:50:14 2026] <STEAM_0:0:650470378> Discar: /ooc хихихихих
+[Tue Apr 14 22:50:23 2026] <STEAM_0:1:54838838> BloodySmile used tool "vj_tool_spawner"
+[Tue Apr 14 22:50:23 2026] <STEAM_0:1:54838838> BloodySmile used tool "vj_tool_spawner"
+[Tue Apr 14 22:50:33 2026] <STEAM_0:1:54838838> BloodySmile used tool "vj_tool_spawner"
+[Tue Apr 14 22:50:34 2026] <STEAM_0:1:54838838> BloodySmile used tool "vj_tool_spawner"
+[Tue Apr 14 22:50:34 2026] <STEAM_0:1:54838838> BloodySmile used tool "vj_tool_spawner"
+[Tue Apr 14 22:50:38 2026] <STEAM_0:1:54838838> BloodySmile used tool "vj_tool_spawner"
+[Tue Apr 14 22:50:38 2026] <STEAM_0:1:54838838> BloodySmile used tool "vj_tool_spawner"
+[Tue Apr 14 22:50:40 2026] <STEAM_0:1:54838838> BloodySmile used tool "vj_tool_spawner"
+[Tue Apr 14 22:50:40 2026] <STEAM_0:1:54838838> BloodySmile used tool "vj_tool_spawner"
+[Tue Apr 14 22:50:47 2026] <STEAM_0:1:54838838> BloodySmile used tool "vj_tool_spawner"
+[Tue Apr 14 22:50:48 2026] <STEAM_0:1:54838838> BloodySmile used tool "vj_tool_spawner"
+[Tue Apr 14 22:50:48 2026] <STEAM_0:1:54838838> BloodySmile used tool "vj_tool_spawner"
+[Tue Apr 14 22:50:49 2026] <STEAM_0:1:54838838> BloodySmile used tool "vj_tool_spawner"
+[Tue Apr 14 22:50:49 2026] <STEAM_0:1:54838838> BloodySmile used tool "vj_tool_spawner"
+[Tue Apr 14 22:50:50 2026] <STEAM_0:1:54838838> BloodySmile used tool "vj_tool_spawner"
+[Tue Apr 14 22:51:02 2026] <STEAM_0:1:54838838> BloodySmile used tool "vj_tool_bullseye"
+[Tue Apr 14 22:51:03 2026] <STEAM_0:1:54838838> BloodySmile used tool "vj_tool_bullseye"
+[Tue Apr 14 22:51:04 2026] <STEAM_0:1:54838838> BloodySmile used tool "vj_tool_bullseye"
+[Tue Apr 14 22:51:06 2026] <STEAM_0:1:54838838> BloodySmile used tool "vj_tool_bullseye"
+[Tue Apr 14 22:52:46 2026] <STEAM_0:0:959824042> АРБУЗИК: ааааааааааа
+[Tue Apr 14 22:52:50 2026] <STEAM_0:0:959824042> АРБУЗИК: этио что
+[Tue Apr 14 22:52:51 2026] <STEAM_0:1:54838838> BloodySmile spawned SWEP "Weapon [751][weapon_vj_controller]"
+[Tue Apr 14 22:52:58 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [689][npc_monk]"
+[Tue Apr 14 22:53:15 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [652][npc_citizen]"
+[Tue Apr 14 22:53:17 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: Так он по мне стрелять стал
+[Tue Apr 14 22:53:23 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [668][npc_citizen]"
+[Tue Apr 14 22:53:26 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [668][npc_citizen]"
+[Tue Apr 14 22:53:44 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [652][npc_combine_s]"
+[Tue Apr 14 22:53:46 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [689][npc_combine_s]"
+[Tue Apr 14 22:53:47 2026] <STEAM_0:0:959824042> АРБУЗИК: эмммммммммммммм
+[Tue Apr 14 22:53:47 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [652][npc_combine_s]"
+[Tue Apr 14 22:53:49 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [652][npc_combine_s]"
+[Tue Apr 14 22:53:54 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [651][npc_combine_s]"
+[Tue Apr 14 22:53:56 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [651][npc_combine_s]"
+[Tue Apr 14 22:54:04 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [652][npc_combine_s]"
+[Tue Apr 14 22:54:05 2026] <STEAM_0:0:959824042> АРБУЗИК: ой
+[Tue Apr 14 22:54:06 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [651][npc_combine_s]"
+[Tue Apr 14 22:54:07 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [652][npc_combine_s]"
+[Tue Apr 14 22:54:12 2026] npc_combine_s has killed kamekadz.banzai.
+[Tue Apr 14 22:54:23 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [652][lvs_wheeldrive_dabrams_m1a1]"
+[Tue Apr 14 22:54:52 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [689][lvs_wheeldrive_dabrams_m1a1]"
+[Tue Apr 14 22:55:19 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: Погодь
+[Tue Apr 14 22:55:24 2026] <STEAM_0:0:959824042> АРБУЗИК: сыт просто
+[Tue Apr 14 22:55:26 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: Это машина?
+[Tue Apr 14 22:55:32 2026] <STEAM_0:0:959824042> АРБУЗИК: да
+[Tue Apr 14 22:55:37 2026] <STEAM_0:0:959824042> АРБУЗИК: показалось
+[Tue Apr 14 22:55:42 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: У меня еррорка
+[Tue Apr 14 22:55:55 2026] <STEAM_0:0:959824042> АРБУЗИК: а ты в доту2 играешь
+[Tue Apr 14 22:55:57 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: У меня еррорка
+[Tue Apr 14 22:56:05 2026] <STEAM_0:0:959824042> АРБУЗИК: врешь
+[Tue Apr 14 22:56:06 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [651][lvs_wheeldrive_rp_dabrams_m1a1]"
+[Tue Apr 14 22:56:08 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: Ща перезайду
+[Tue Apr 14 22:56:11 2026] <STEAM_0:0:959824042> АРБУЗИК: неьъ
+[Tue Apr 14 22:56:12 2026] Player "𝗺𝟏𝗿𝗮𝗰𝗹𝗲" <STEAM_0:0:869238922> has left the server
+[Tue Apr 14 22:56:21 2026] Player "𝗺𝟏𝗿𝗮𝗰𝗹𝗲" <STEAM_0:0:869238922> is attempting to connect.
+[Tue Apr 14 22:56:38 2026] <STEAM_0:1:54838838> BloodySmile ran command "bring Дискаров"
+[Tue Apr 14 22:56:47 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [606][lvs_wheeldrive_dabrams_m1a1]"
+[Tue Apr 14 22:57:02 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [604][lvs_wheeldrive_dabrams_m1a1]"
+[Tue Apr 14 22:57:25 2026] Discar has killed АРБУЗИК.
+[Tue Apr 14 22:57:57 2026] BloodySmile has killed kamekadz.banzai.
+[Tue Apr 14 22:58:29 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [677][lvs_wheeldrive_dabrams_m1a1]"
+[Tue Apr 14 22:59:20 2026] Player "𝗺𝟏𝗿𝗮𝗰𝗹𝗲" <STEAM_0:0:869238922> has spawned in the server
+[Tue Apr 14 23:00:05 2026] BloodySmile has killed Discar.
+[Tue Apr 14 23:00:11 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [642][lvs_wheeldrive_dabrams_m1a1]"
+[Tue Apr 14 23:00:49 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [604][lvs_wheeldrive_dabrams_m1a1]"
+[Tue Apr 14 23:00:49 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [770][lvs_wheeldrive_dabrams_m1a1]"
+[Tue Apr 14 23:00:52 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [776][lvs_wheeldrive_dabrams_m1a1]"
+[Tue Apr 14 23:00:52 2026] <STEAM_0:0:959824042> АРБУЗИК: да
+[Tue Apr 14 23:00:53 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [922][lvs_wheeldrive_dabrams_m1a1]"
+[Tue Apr 14 23:02:19 2026] BloodySmile has killed kamekadz.banzai.
+[Tue Apr 14 23:02:23 2026] <STEAM_0:0:959824042> АРБУЗИК: хаахахахахаха
+[Tue Apr 14 23:02:31 2026] BloodySmile has killed Discar.
+[Tue Apr 14 23:02:31 2026] <STEAM_0:0:390862311> kamekadz.banzai: /ooc башню в верх
+[Tue Apr 14 23:03:33 2026] BloodySmile has killed АРБУЗИК.
+[Tue Apr 14 23:03:45 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [604][lvs_wheeldrive_dabrams_m1a1]"
+[Tue Apr 14 23:04:12 2026] kamekadz.banzai has killed АРБУЗИК.
+[Tue Apr 14 23:04:23 2026] BloodySmile has killed Discar.
+[Tue Apr 14 23:04:24 2026] BloodySmile has killed kamekadz.banzai.
+[Tue Apr 14 23:05:02 2026] <STEAM_0:1:54838838> BloodySmile ran command "respawn Зимов"
+[Tue Apr 14 23:05:19 2026] <STEAM_0:0:959824042> АРБУЗИК: давайте
+[Tue Apr 14 23:05:42 2026] <STEAM_0:0:959824042> АРБУЗИК: кто
+[Tue Apr 14 23:05:52 2026] <STEAM_0:0:959824042> АРБУЗИК: х
+[Tue Apr 14 23:06:00 2026] <STEAM_0:0:959824042> АРБУЗИК: я тоже
+[Tue Apr 14 23:06:10 2026] <STEAM_0:0:959824042> АРБУЗИК: ну да он есть такое
+[Tue Apr 14 23:06:17 2026] <STEAM_0:0:959824042> АРБУЗИК: да
+[Tue Apr 14 23:06:22 2026] <STEAM_0:0:959824042> АРБУЗИК: я такой
+[Tue Apr 14 23:06:35 2026] <STEAM_0:1:54838838> BloodySmile used tool "spawn_faction"
+[Tue Apr 14 23:06:37 2026] <STEAM_0:0:959824042> АРБУЗИК: спасибо
+[Tue Apr 14 23:06:38 2026] <STEAM_0:1:54838838> BloodySmile used tool "spawn_faction"
+[Tue Apr 14 23:06:43 2026] <STEAM_0:1:54838838> BloodySmile ran command "respawn Андрев"
+[Tue Apr 14 23:06:49 2026] <STEAM_0:1:54838838> BloodySmile ran command "respawn Дискаров"
+[Tue Apr 14 23:07:01 2026] <STEAM_0:0:959824042> АРБУЗИК: ахахахаахха
+[Tue Apr 14 23:07:06 2026] <STEAM_0:0:959824042> АРБУЗИК: я могу
+[Tue Apr 14 23:07:06 2026] <STEAM_0:1:54838838> BloodySmile used tool "spawn_faction"
+[Tue Apr 14 23:07:10 2026] <STEAM_0:1:54838838> BloodySmile ran command "respawn Зимов"
+[Tue Apr 14 23:07:14 2026] <STEAM_0:0:959824042> АРБУЗИК: оооооооооооо
+[Tue Apr 14 23:07:16 2026] <STEAM_0:0:959824042> АРБУЗИК: кайф
+[Tue Apr 14 23:07:23 2026] <STEAM_0:1:54838838> BloodySmile used tool "spawn_faction"
+[Tue Apr 14 23:07:28 2026] <STEAM_0:1:54838838> BloodySmile ran command "respawn Дискаров"
+[Tue Apr 14 23:07:36 2026] <STEAM_0:0:959824042> АРБУЗИК: а ты можешь мне оружие выдать
+[Tue Apr 14 23:07:47 2026] <STEAM_0:1:54838838> BloodySmile used tool "spawn_faction"
+[Tue Apr 14 23:07:53 2026] <STEAM_0:1:54838838> BloodySmile ran command "respawn Псковский "
+[Tue Apr 14 23:08:05 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 23:08:05 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [609][lvs_wheeldrive_dabrams_m1a1]"
+[Tue Apr 14 23:08:08 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 23:08:08 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [609][lvs_wheeldrive_dabrams_m1a1]"
+[Tue Apr 14 23:08:09 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 23:08:10 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [757][lvs_wheeldrive_dabrams_m1a1]"
+[Tue Apr 14 23:08:12 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 23:08:12 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [832][lvs_wheeldrive_dabrams_m1a1]"
+[Tue Apr 14 23:08:47 2026] kamekadz.banzai has killed АРБУЗИК.
+[Tue Apr 14 23:08:56 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [643][prop_physics] (models/props_wasteland/cargo_container01c.mdl)"
+[Tue Apr 14 23:08:58 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [643][prop_physics] (models/props_wasteland/cargo_container01c.mdl)"
+[Tue Apr 14 23:09:00 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [643][prop_physics] (models/props_wasteland/cargo_container01.mdl)"
+[Tue Apr 14 23:09:02 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [644][prop_physics] (models/props_wasteland/cargo_container01.mdl)"
+[Tue Apr 14 23:09:02 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [907][prop_physics] (models/props_wasteland/cargo_container01.mdl)"
+[Tue Apr 14 23:09:03 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [915][prop_physics] (models/props_wasteland/cargo_container01.mdl)"
+[Tue Apr 14 23:09:05 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [758][prop_physics] (models/props_wasteland/cargo_container01.mdl)"
+[Tue Apr 14 23:09:07 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [759][prop_physics] (models/props_wasteland/cargo_container01.mdl)"
+[Tue Apr 14 23:09:15 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [760][prop_physics] (models/props_wasteland/cargo_container01.mdl)"
+[Tue Apr 14 23:09:17 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [761][prop_physics] (models/props_wasteland/cargo_container01.mdl)"
+[Tue Apr 14 23:09:19 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 23:09:19 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [649][prop_physics] (models/props_wasteland/cargo_container01.mdl)"
+[Tue Apr 14 23:09:21 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 23:09:21 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [761][prop_physics] (models/props_wasteland/cargo_container01.mdl)"
+[Tue Apr 14 23:09:21 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 23:09:21 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [766][prop_physics] (models/props_wasteland/cargo_container01.mdl)"
+[Tue Apr 14 23:09:22 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 23:09:22 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [768][prop_physics] (models/props_wasteland/cargo_container01.mdl)"
+[Tue Apr 14 23:09:23 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 23:09:23 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [770][prop_physics] (models/props_wasteland/cargo_container01.mdl)"
+[Tue Apr 14 23:09:23 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 23:09:23 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [772][prop_physics] (models/props_wasteland/cargo_container01.mdl)"
+[Tue Apr 14 23:09:24 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 23:09:24 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [773][prop_physics] (models/props_wasteland/cargo_container01.mdl)"
+[Tue Apr 14 23:09:25 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 23:09:25 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [774][prop_physics] (models/props_wasteland/cargo_container01.mdl)"
+[Tue Apr 14 23:09:26 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 23:09:26 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [775][prop_physics] (models/props_wasteland/cargo_container01.mdl)"
+[Tue Apr 14 23:09:27 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 23:09:27 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [776][prop_physics] (models/props_wasteland/cargo_container01.mdl)"
+[Tue Apr 14 23:09:29 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 23:09:29 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [777][prop_physics] (models/props_wasteland/cargo_container01.mdl)"
+[Tue Apr 14 23:09:30 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 23:09:30 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [778][prop_physics] (models/props_wasteland/cargo_container01.mdl)"
+[Tue Apr 14 23:09:33 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 23:09:33 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [779][prop_physics] (models/props_wasteland/cargo_container01.mdl)"
+[Tue Apr 14 23:09:33 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 23:09:33 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [780][prop_physics] (models/props_wasteland/cargo_container01.mdl)"
+[Tue Apr 14 23:09:42 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 23:09:42 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [757][prop_physics] (models/props_wasteland/cargo_container01.mdl)"
+[Tue Apr 14 23:09:42 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 23:09:42 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [781][prop_physics] (models/props_wasteland/cargo_container01.mdl)"
+[Tue Apr 14 23:09:43 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 23:09:43 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [782][prop_physics] (models/props_wasteland/cargo_container01.mdl)"
+[Tue Apr 14 23:09:44 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 23:09:44 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [783][prop_physics] (models/props_wasteland/cargo_container01.mdl)"
+[Tue Apr 14 23:09:45 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 23:09:45 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [784][prop_physics] (models/props_wasteland/cargo_container01.mdl)"
+[Tue Apr 14 23:09:46 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 23:09:46 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [785][prop_physics] (models/props_wasteland/cargo_container01.mdl)"
+[Tue Apr 14 23:09:47 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 23:09:47 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [786][prop_physics] (models/props_wasteland/cargo_container01.mdl)"
+[Tue Apr 14 23:09:47 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 23:09:47 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [795][prop_physics] (models/props_wasteland/cargo_container01.mdl)"
+[Tue Apr 14 23:09:49 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 23:09:49 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [796][prop_physics] (models/props_wasteland/cargo_container01.mdl)"
+[Tue Apr 14 23:09:50 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 23:09:50 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [788][prop_physics] (models/props_wasteland/cargo_container01.mdl)"
+[Tue Apr 14 23:09:51 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 23:09:51 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [790][prop_physics] (models/props_wasteland/cargo_container01.mdl)"
+[Tue Apr 14 23:09:55 2026] Discar has killed АРБУЗИК.
+[Tue Apr 14 23:10:05 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 23:10:05 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [762][prop_physics] (models/props_wasteland/cargo_container01.mdl)"
+[Tue Apr 14 23:10:06 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 23:10:06 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [763][prop_physics] (models/props_wasteland/cargo_container01.mdl)"
+[Tue Apr 14 23:10:07 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 23:10:07 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [767][prop_physics] (models/props_wasteland/cargo_container01.mdl)"
+[Tue Apr 14 23:10:08 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 23:10:08 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [801][prop_physics] (models/props_wasteland/cargo_container01.mdl)"
+[Tue Apr 14 23:10:09 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 23:10:09 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [802][prop_physics] (models/props_wasteland/cargo_container01.mdl)"
+[Tue Apr 14 23:10:10 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 23:10:10 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [803][prop_physics] (models/props_wasteland/cargo_container01.mdl)"
+[Tue Apr 14 23:10:11 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 23:10:11 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [798][prop_physics] (models/props_wasteland/cargo_container01.mdl)"
+[Tue Apr 14 23:10:12 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 23:10:12 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [794][prop_physics] (models/props_wasteland/cargo_container01.mdl)"
+[Tue Apr 14 23:10:13 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 23:10:13 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [800][prop_physics] (models/props_wasteland/cargo_container01.mdl)"
+[Tue Apr 14 23:10:15 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 23:10:15 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [804][prop_physics] (models/props_wasteland/cargo_container01.mdl)"
+[Tue Apr 14 23:10:16 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 23:10:16 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [805][prop_physics] (models/props_wasteland/cargo_container01.mdl)"
+[Tue Apr 14 23:10:17 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 23:10:17 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [806][prop_physics] (models/props_wasteland/cargo_container01.mdl)"
+[Tue Apr 14 23:10:18 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 23:10:18 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [807][prop_physics] (models/props_wasteland/cargo_container01.mdl)"
+[Tue Apr 14 23:10:19 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 23:10:19 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [808][prop_physics] (models/props_wasteland/cargo_container01.mdl)"
+[Tue Apr 14 23:10:22 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 23:10:22 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [787][prop_physics] (models/props_wasteland/cargo_container01.mdl)"
+[Tue Apr 14 23:10:23 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 23:10:23 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [791][prop_physics] (models/props_wasteland/cargo_container01.mdl)"
+[Tue Apr 14 23:10:24 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 23:10:24 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [809][prop_physics] (models/props_wasteland/cargo_container01.mdl)"
+[Tue Apr 14 23:10:26 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 23:10:26 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [789][prop_physics] (models/props_wasteland/cargo_container01.mdl)"
+[Tue Apr 14 23:10:27 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 23:10:27 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [764][prop_physics] (models/props_wasteland/cargo_container01.mdl)"
+[Tue Apr 14 23:10:38 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [814][lvs_wheeldrive_dabrams_m1a1]"
+[Tue Apr 14 23:11:06 2026] kamekadz.banzai has killed Discar.
+[Tue Apr 14 23:11:13 2026] АРБУЗИК has killed kamekadz.banzai.
+[Tue Apr 14 23:12:08 2026] kamekadz.banzai has killed Discar.
+[Tue Apr 14 23:12:42 2026] kamekadz.banzai has killed АРБУЗИК.
+[Tue Apr 14 23:12:43 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [651][lvs_wheeldrive_dabrams_m1a1]"
+[Tue Apr 14 23:12:51 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [769][lvs_wheeldrive_dabrams_m1a1]"
+[Tue Apr 14 23:12:54 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 23:12:54 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [898][lvs_wheeldrive_dabrams_m1a1]"
+[Tue Apr 14 23:12:54 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 23:12:55 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [1032][lvs_wheeldrive_dabrams_m1a1]"
+[Tue Apr 14 23:12:55 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 23:12:55 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [1107][lvs_wheeldrive_dabrams_m1a1]"
+[Tue Apr 14 23:12:57 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 23:12:57 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [1182][lvs_wheeldrive_dabrams_m1a1]"
+[Tue Apr 14 23:12:59 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 23:12:59 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [1107][lvs_wheeldrive_dabrams_m1a1]"
+[Tue Apr 14 23:13:00 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 23:13:00 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [1257][lvs_wheeldrive_dabrams_m1a1]"
+[Tue Apr 14 23:13:03 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 23:13:03 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [1332][lvs_wheeldrive_dabrams_m1a1]"
+[Tue Apr 14 23:13:04 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 23:13:04 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [1407][lvs_wheeldrive_dabrams_m1a1]"
+[Tue Apr 14 23:13:05 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 23:13:05 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [1482][lvs_wheeldrive_dabrams_m1a1]"
+[Tue Apr 14 23:13:05 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Tue Apr 14 23:13:05 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [1557][lvs_wheeldrive_dabrams_m1a1]"
+[Tue Apr 14 23:13:14 2026] <STEAM_0:1:54838838> BloodySmile ran command "respawn Зимов"
+[Tue Apr 14 23:13:24 2026] kamekadz.banzai has killed АРБУЗИК.
+[Tue Apr 14 23:13:31 2026] <STEAM_0:1:54838838> BloodySmile ran command "respawn Зимов"
+[Tue Apr 14 23:13:37 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [607][lvs_wheeldrive_dabrams_m1a1]"
+[Tue Apr 14 23:14:54 2026] Discar has killed АРБУЗИК.
+[Tue Apr 14 23:16:25 2026] kamekadz.banzai has killed АРБУЗИК.
+[Tue Apr 14 23:16:27 2026] Discar has killed kamekadz.banzai.
+[Tue Apr 14 23:18:33 2026] АРБУЗИК has killed Discar.
+[Tue Apr 14 23:19:13 2026] kamekadz.banzai has killed АРБУЗИК.
+[Tue Apr 14 23:20:22 2026] Discar has killed АРБУЗИК.
+[Tue Apr 14 23:20:59 2026] Discar has killed kamekadz.banzai.
+[Tue Apr 14 23:21:31 2026] Player "илья ласттаб кинг" <STEAM_0:0:383076794> is attempting to connect.
+[Tue Apr 14 23:22:00 2026] Discar has killed kamekadz.banzai.
+[Tue Apr 14 23:23:01 2026] <STEAM_0:0:390862311> kamekadz.banzai: /ooc дай РПГ
+[Tue Apr 14 23:24:04 2026] АРБУЗИК has killed Discar.
+[Tue Apr 14 23:24:04 2026] АРБУЗИК has killed kamekadz.banzai.
+[Tue Apr 14 23:24:56 2026] Player "АРБУЗИК" <STEAM_0:0:959824042> has left the server
+[Tue Apr 14 23:25:28 2026] Player "Discar" <STEAM_0:0:650470378> has left the server
+[Tue Apr 14 23:25:46 2026] Player "kamekadz.banzai" <STEAM_0:0:390862311> has left the server
+[Tue Apr 14 23:33:47 2026] Player "илья ласттаб кинг" <STEAM_0:0:383076794> has spawned in the server
+[Tue Apr 14 23:35:30 2026] Player "𝗺𝟏𝗿𝗮𝗰𝗹𝗲" <STEAM_0:0:869238922> has left the server
+[Tue Apr 14 23:56:47 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [643][sw_bmp3m]"
+[Tue Apr 14 23:56:51 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [734][sw_bmp2m]"
+[Tue Apr 14 23:57:41 2026] Player "илья ласттаб кинг" <STEAM_0:0:383076794> has left the server
+[Tue Apr 14 23:58:06 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"

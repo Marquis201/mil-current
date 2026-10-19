@@ -1,0 +1,67 @@
+[Sun Feb 22 00:07:03 2026] Player "pandadode" <STEAM_0:1:557410251> is attempting to connect.
+[Sun Feb 22 00:38:25 2026] Player "Kaderhan" <STEAM_0:0:629533281> is attempting to connect.
+[Sun Feb 22 01:10:04 2026] Player "Kaderhan" <STEAM_0:0:629533281> has spawned in the server
+[Sun Feb 22 01:12:51 2026] Player "Kaderhan" <STEAM_0:0:629533281> has left the server
+[Sun Feb 22 12:27:35 2026] Player "LOX" <STEAM_0:0:924701522> is attempting to connect.
+[Sun Feb 22 16:30:12 2026] Player "sin710348" <STEAM_0:0:914311843> is attempting to connect.
+[Sun Feb 22 17:24:03 2026] Player "d33m0n ツ" <STEAM_0:1:3217956> is attempting to connect.
+[Sun Feb 22 17:24:10 2026] Player "d33m0n ツ" <STEAM_0:1:3217956> is attempting to connect.
+[Sun Feb 22 17:24:20 2026] Player "d33m0n ツ" <STEAM_0:1:3217956> is attempting to connect.
+[Sun Feb 22 18:04:11 2026] Player "ЧАПМАН РЕД" <STEAM_0:1:420256192> is attempting to connect.
+[Sun Feb 22 18:10:44 2026] Player "ЧАПМАН РЕД" <STEAM_0:1:420256192> is attempting to connect.
+[Sun Feb 22 18:11:43 2026] Player "ЧАПМАН РЕД" <STEAM_0:1:420256192> has spawned in the server
+[Sun Feb 22 18:16:37 2026] Player "$henpol$" <STEAM_0:1:526878136> is attempting to connect.
+[Sun Feb 22 18:18:07 2026] Player "$henpol$" <STEAM_0:1:526878136> has spawned in the server
+[Sun Feb 22 18:18:59 2026] <STEAM_0:1:526878136> $henpol$: /me показал документы [Мухаммед Балуев] [19.01.1946] [Герат]
+[Sun Feb 22 18:19:45 2026] <STEAM_0:1:420256192> ЧАПМАН РЕД: У тебя тоже пирамида багнулась?
+[Sun Feb 22 18:19:56 2026] <STEAM_0:1:420256192> ЧАПМАН РЕД: Оружие можешь получить?
+[Sun Feb 22 18:19:57 2026] <STEAM_0:1:526878136> $henpol$: незнаю
+[Sun Feb 22 18:20:19 2026] <STEAM_0:1:420256192> ЧАПМАН РЕД: капец
+[Sun Feb 22 18:33:40 2026] Player "Креветка" <STEAM_0:1:942364657> is attempting to connect.
+[Sun Feb 22 18:34:23 2026] Player "Креветка" <STEAM_0:1:942364657> has spawned in the server
+[Sun Feb 22 18:34:40 2026] Player "BloodySmile" <STEAM_0:1:54838838> is attempting to connect.
+[Sun Feb 22 18:35:02 2026] Player "Креветка" <STEAM_0:1:942364657> has left the server
+[Sun Feb 22 18:35:27 2026] Player "BloodySmile" <STEAM_0:1:54838838> has spawned in the server
+[Sun Feb 22 18:40:48 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [707][lvs_concussionmissile]"
+[Sun Feb 22 18:40:56 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [707][lvs_item_ammo]"
+[Sun Feb 22 18:41:03 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [707][lvs_wheeldrive_hummer_m134]"
+[Sun Feb 22 18:41:10 2026] <STEAM_0:1:54838838> BloodySmile used tool "colour"
+[Sun Feb 22 18:41:10 2026] <STEAM_0:1:54838838> BloodySmile used tool "colour"
+[Sun Feb 22 18:41:11 2026] <STEAM_0:1:54838838> BloodySmile used tool "colour"
+[Sun Feb 22 18:41:11 2026] <STEAM_0:1:54838838> BloodySmile used tool "colour"
+[Sun Feb 22 18:41:33 2026] <STEAM_0:1:54838838> BloodySmile used tool "smartweld"
+[Sun Feb 22 18:41:34 2026] <STEAM_0:1:54838838> BloodySmile used tool "smartweld"
+[Sun Feb 22 18:41:34 2026] <STEAM_0:1:54838838> BloodySmile used tool "smartweld"
+[Sun Feb 22 18:41:34 2026] <STEAM_0:1:54838838> BloodySmile used tool "smartweld"
+[Sun Feb 22 18:41:34 2026] <STEAM_0:1:54838838> BloodySmile used tool "smartweld"
+[Sun Feb 22 18:41:35 2026] <STEAM_0:1:54838838> BloodySmile used tool "smartweld"
+[Sun Feb 22 18:41:44 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [707][lvs_wheeldrive_hummer_tow]"
+[Sun Feb 22 18:43:29 2026] Player "ЧАПМАН РЕД" <STEAM_0:1:420256192> has left the server
+[Sun Feb 22 18:43:46 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [692][lvs_wheeldrive_hummer_m240]"
+[Sun Feb 22 18:44:10 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [690][lvs_wheeldrive_hummer_m134]"
+[Sun Feb 22 18:45:20 2026] <STEAM_0:1:54838838> BloodySmile: /concwest
+[Sun Feb 22 18:48:54 2026] Player "$henpol$" <STEAM_0:1:526878136> has left the server
+[Sun Feb 22 18:49:44 2026] <STEAM_0:1:54838838> BloodySmile: /concwest
+[Sun Feb 22 18:52:57 2026] Player "ЧАПМАН РЕД" <STEAM_0:1:420256192> is attempting to connect.
+[Sun Feb 22 18:53:04 2026] Player "ЧАПМАН РЕД" <STEAM_0:1:420256192> is attempting to connect.
+[Sun Feb 22 18:53:40 2026] Player "ЧАПМАН РЕД" <STEAM_0:1:420256192> has spawned in the server
+[Sun Feb 22 19:32:35 2026] BloodySmile has killed ЧАПМАН РЕД.
+[Sun Feb 22 19:32:56 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [896][npc_combine_s]"
+[Sun Feb 22 19:33:00 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [902][npc_combine_s]"
+[Sun Feb 22 19:33:01 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [896][npc_combine_s]"
+[Sun Feb 22 19:33:02 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [906][npc_combine_s]"
+[Sun Feb 22 19:33:02 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [909][npc_combine_s]"
+[Sun Feb 22 19:33:30 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [899][npc_combine_s]"
+[Sun Feb 22 19:33:31 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [904][npc_combine_s]"
+[Sun Feb 22 19:33:31 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [907][npc_combine_s]"
+[Sun Feb 22 19:33:32 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [911][npc_combine_s]"
+[Sun Feb 22 19:34:18 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [899][prop_physics] (models/props_junk/metalgascan.mdl)"
+[Sun Feb 22 19:34:45 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [899][prop_physics] (models/props_junk/metal_paintcan001a.mdl)"
+[Sun Feb 22 19:34:52 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [902][npc_combine_s]"
+[Sun Feb 22 19:34:52 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [905][npc_combine_s]"
+[Sun Feb 22 19:35:25 2026] npc_combine_s has killed BloodySmile.
+[Sun Feb 22 19:35:53 2026] Player "BloodySmile" <STEAM_0:1:54838838> has left the server
+[Sun Feb 22 19:45:19 2026] Player "Rusich" <STEAM_0:1:743118126> is attempting to connect.
+[Sun Feb 22 20:45:49 2026] Player "ЧАПМАН РЕД" <STEAM_0:1:420256192> has left the server
+[Sun Feb 22 22:29:53 2026] Player "OZOR" <STEAM_0:0:85754053> has spawned in the server
+[Sun Feb 22 22:32:49 2026] Player "OZOR" <STEAM_0:0:85754053> has left the server

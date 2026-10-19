@@ -1,0 +1,36 @@
+[Sun Mar  8 06:10:11 2026] Player "OZOR" <STEAM_0:0:85754053> has spawned in the server
+[Sun Mar  8 06:20:43 2026] Player "OZOR" <STEAM_0:0:85754053> has left the server
+[Sun Mar  8 17:02:55 2026] Player "LixCarm" <STEAM_0:0:203538584> is attempting to connect.
+[Sun Mar  8 17:16:33 2026] Player "LixCarm" <STEAM_0:0:203538584> has spawned in the server
+[Sun Mar  8 17:23:05 2026] Player "LixCarm" <STEAM_0:0:203538584> has left the server
+[Sun Mar  8 18:33:11 2026] Player "Andrey228 19" <STEAM_0:0:738033309> is attempting to connect.
+[Sun Mar  8 18:38:17 2026] Player "Andrey228 19" <STEAM_0:0:738033309> is attempting to connect.
+[Sun Mar  8 19:27:15 2026] Player "t.shkapov" <STEAM_0:0:395433244> is attempting to connect.
+[Sun Mar  8 19:34:52 2026] Player "TiPi-TiP-AmBa" <STEAM_0:0:187824774> is attempting to connect.
+[Sun Mar  8 19:43:52 2026] Player "t.shkapov" <STEAM_0:0:395433244> has spawned in the server
+[Sun Mar  8 19:45:05 2026] Player "gREG4IK" <STEAM_0:1:455594560> is attempting to connect.
+[Sun Mar  8 19:45:14 2026] Player "TiPi-TiP-AmBa" <STEAM_0:0:187824774> has spawned in the server
+[Sun Mar  8 19:45:57 2026] Player "TiPi-TiP-AmBa" <STEAM_0:0:187824774> has left the server
+[Sun Mar  8 19:46:37 2026] Player "gREG4IK" <STEAM_0:1:455594560> has spawned in the server
+[Sun Mar  8 19:52:23 2026] Player "t.shkapov" <STEAM_0:0:395433244> has left the server
+[Sun Mar  8 20:20:01 2026] Player "Sasha" <STEAM_0:0:920587948> is attempting to connect.
+[Sun Mar  8 20:38:11 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [699][npc_vj_test_player]"
+[Sun Mar  8 20:38:24 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [700][npc_monk]"
+[Sun Mar  8 20:38:29 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [700][npc_combine_s]"
+[Sun Mar  8 20:38:32 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [700][npc_combine_s]"
+[Sun Mar  8 20:38:40 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [699][npc_vj_test_player]"
+[Sun Mar  8 20:38:43 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [700][npc_vj_test_player]"
+[Sun Mar  8 20:38:45 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [699][npc_vj_test_player]"
+[Sun Mar  8 20:38:47 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [700][npc_vj_test_player]"
+[Sun Mar  8 20:38:53 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [699][npc_combine_s]"
+[Sun Mar  8 21:18:30 2026] Player "gREG4IK" <STEAM_0:1:455594560> is attempting to connect.
+[Sun Mar  8 21:19:03 2026] Player "gREG4IK" <STEAM_0:1:455594560> has spawned in the server
+[Sun Mar  8 21:25:17 2026] <STEAM_0:1:455594560> gREG4IK spawned prop "Entity [691][prop_physics] (models/Cranes/crane_frame.mdl)"
+[Sun Mar  8 21:25:42 2026] worldspawn has killed gREG4IK.
+[Sun Mar  8 21:33:52 2026] Player "sergey-kh" <STEAM_0:1:552180991> is attempting to connect.
+[Sun Mar  8 21:40:10 2026] Player "sergey-kh" <STEAM_0:1:552180991> has spawned in the server
+[Sun Mar  8 21:46:01 2026] Player "s0trudn1k" <STEAM_0:1:947146119> is attempting to connect.
+[Sun Mar  8 21:46:30 2026] Player "sergey-kh" <STEAM_0:1:552180991> has left the server
+[Sun Mar  8 21:54:47 2026] Player "xpochmopa" <STEAM_0:0:150517576> is attempting to connect.
+[Sun Mar  8 22:20:40 2026] Player "sigma14885269" <STEAM_0:1:922009774> is attempting to connect.
+[Sun Mar  8 22:57:18 2026] Player "gREG4IK" <STEAM_0:1:455594560> has left the server

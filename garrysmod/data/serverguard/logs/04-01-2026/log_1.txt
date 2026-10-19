@@ -1,0 +1,106 @@
+[Wed Apr  1 01:00:04 2026] Player "Emperor of Mankind" <STEAM_0:1:443626364> is attempting to connect.
+[Wed Apr  1 01:01:16 2026] Player "Emperor of Mankind" <STEAM_0:1:443626364> has spawned in the server
+[Wed Apr  1 01:02:22 2026] <STEAM_0:1:443626364> Emperor of Mankind spawned SENT "Entity [631][sw_matv]"
+[Wed Apr  1 01:02:32 2026] <STEAM_0:1:443626364> Emperor of Mankind spawned SENT "Entity [631][lvs_wheeldrive_hummer]"
+[Wed Apr  1 01:02:36 2026] <STEAM_0:1:443626364> Emperor of Mankind spawned SENT "Entity [631][lvs_wheeldrive_hummer_m240]"
+[Wed Apr  1 01:03:16 2026] Player "Emperor of Mankind" <STEAM_0:1:443626364> has left the server
+[Wed Apr  1 01:19:01 2026] Player "Полковник Форест" <STEAM_0:1:620808428> is attempting to connect.
+[Wed Apr  1 06:52:51 2026] Player "𝔹 𝔸 ℕ 𝔸 ℕ" <STEAM_0:0:941748431> is attempting to connect.
+[Wed Apr  1 06:55:05 2026] Player "𝔹 𝔸 ℕ 𝔸 ℕ" <STEAM_0:0:941748431> has spawned in the server
+[Wed Apr  1 06:55:31 2026] Player "𝔹 𝔸 ℕ 𝔸 ℕ" <STEAM_0:0:941748431> has left the server
+[Wed Apr  1 13:09:09 2026] Player "AVDeMAX" <STEAM_0:1:517010523> is attempting to connect.
+[Wed Apr  1 13:14:27 2026] Player "AVDeMAX" <STEAM_0:1:517010523> has spawned in the server
+[Wed Apr  1 13:16:14 2026] Player "AVDeMAX" <STEAM_0:1:517010523> has left the server
+[Wed Apr  1 14:32:11 2026] Player "Болотный Навальн" <STEAM_0:0:586457449> is attempting to connect.
+[Wed Apr  1 14:40:26 2026] Player "Болотный Навальн" <STEAM_0:0:586457449> has spawned in the server
+[Wed Apr  1 14:50:03 2026] Player "OtakyKent" <STEAM_0:0:519738051> is attempting to connect.
+[Wed Apr  1 14:56:36 2026] Player "★☾₳ⱤØ₦₦ł₭☽★" <STEAM_0:0:456016030> is attempting to connect.
+[Wed Apr  1 14:57:48 2026] Player "OtakyKent" <STEAM_0:0:519738051> is attempting to connect.
+[Wed Apr  1 14:57:54 2026] Player "dearmo0909" <STEAM_0:0:414090451> is attempting to connect.
+[Wed Apr  1 14:59:15 2026] Player "★☾₳ⱤØ₦₦ł₭☽★" <STEAM_0:0:456016030> has spawned in the server
+[Wed Apr  1 15:00:49 2026] Player "Mr.Ruskov" <STEAM_0:0:641109614> is attempting to connect.
+[Wed Apr  1 15:03:02 2026] Player "OtakyKent" <STEAM_0:0:519738051> is attempting to connect.
+[Wed Apr  1 15:03:20 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /com ща вас выебу натовцы
+[Wed Apr  1 15:03:38 2026] <STEAM_0:0:586457449> Болотный Навальн: /com пошел нахуй
+[Wed Apr  1 15:04:25 2026] ★☾₳ⱤØ₦₦ł₭☽★ has killed Болотный Навальн.
+[Wed Apr  1 15:04:29 2026] <STEAM_0:0:586457449> Болотный Навальн: // сука
+[Wed Apr  1 15:04:44 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc pf,fufkcz
+[Wed Apr  1 15:04:47 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc pf,fufkcz
+[Wed Apr  1 15:04:48 2026] <STEAM_0:0:586457449> Болотный Навальн: // пизда тебе
+[Wed Apr  1 15:05:35 2026] Болотный Навальн has killed ★☾₳ⱤØ₦₦ł₭☽★.
+[Wed Apr  1 15:06:20 2026] <STEAM_0:0:586457449> Болотный Навальн: /me посадил в тачку
+[Wed Apr  1 15:09:02 2026] Болотный Навальн has killed ★☾₳ⱤØ₦₦ł₭☽★.
+[Wed Apr  1 15:10:00 2026] Player "★☾₳ⱤØ₦₦ł₭☽★" <STEAM_0:0:456016030> has left the server
+[Wed Apr  1 15:10:05 2026] Player "★☾₳ⱤØ₦₦ł₭☽★" <STEAM_0:0:456016030> is attempting to connect.
+[Wed Apr  1 15:10:37 2026] Player "★☾₳ⱤØ₦₦ł₭☽★" <STEAM_0:0:456016030> has spawned in the server
+[Wed Apr  1 15:10:43 2026] Player "Mr.Ruskov" <STEAM_0:0:641109614> has spawned in the server
+[Wed Apr  1 15:12:19 2026] <STEAM_0:0:586457449> Болотный Навальн: /y САНЯ ВПУСТИ ТУТ ХОЛОДНО
+[Wed Apr  1 15:14:22 2026] ★☾₳ⱤØ₦₦ł₭☽★ has killed Болотный Навальн.
+[Wed Apr  1 15:14:34 2026] <STEAM_0:0:586457449> Болотный Навальн: // лан я в равен пошел
+[Wed Apr  1 15:14:41 2026] <STEAM_0:0:586457449> Болотный Навальн: петух
+[Wed Apr  1 15:14:45 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: сосо ез
+[Wed Apr  1 15:14:53 2026] <STEAM_0:0:586457449> Болотный Навальн: // зря.
+[Wed Apr  1 15:15:04 2026] Player "Болотный Навальн" <STEAM_0:0:586457449> has left the server
+[Wed Apr  1 15:17:40 2026] Player "OtakyKent" <STEAM_0:0:519738051> is attempting to connect.
+[Wed Apr  1 15:24:41 2026] Player "AVDeMAX" <STEAM_0:1:517010523> is attempting to connect.
+[Wed Apr  1 15:25:35 2026] Player "OtakyKent" <STEAM_0:0:519738051> is attempting to connect.
+[Wed Apr  1 15:34:38 2026] Player "OtakyKent" <STEAM_0:0:519738051> is attempting to connect.
+[Wed Apr  1 15:36:15 2026] Player "★☾₳ⱤØ₦₦ł₭☽★" <STEAM_0:0:456016030> has left the server
+[Wed Apr  1 15:38:03 2026] Player "Mr.Ruskov" <STEAM_0:0:641109614> has left the server
+[Wed Apr  1 15:40:44 2026] Player "OtakyKent" <STEAM_0:0:519738051> is attempting to connect.
+[Wed Apr  1 15:41:24 2026] Player "KoT-Okorok" <STEAM_0:0:896953676> is attempting to connect.
+[Wed Apr  1 15:46:08 2026] Player "OtakyKent" <STEAM_0:0:519738051> is attempting to connect.
+[Wed Apr  1 15:47:09 2026] Player "Smok3" <STEAM_0:1:21089507> is attempting to connect.
+[Wed Apr  1 15:48:08 2026] Player "Smok3" <STEAM_0:1:21089507> is attempting to connect.
+[Wed Apr  1 16:12:02 2026] Player "OtakyKent" <STEAM_0:0:519738051> is attempting to connect.
+[Wed Apr  1 16:34:29 2026] Player "OtakyKent" <STEAM_0:0:519738051> is attempting to connect.
+[Wed Apr  1 18:10:52 2026] Player "Mr.Ruskov" <STEAM_0:0:641109614> is attempting to connect.
+[Wed Apr  1 18:11:06 2026] Player "Болотный Навальн" <STEAM_0:0:586457449> is attempting to connect.
+[Wed Apr  1 18:11:20 2026] Player "david280911" <STEAM_0:1:839860057> is attempting to connect.
+[Wed Apr  1 18:12:08 2026] Player "david280911" <STEAM_0:1:839860057> has spawned in the server
+[Wed Apr  1 18:12:56 2026] Player "★☾₳ⱤØ₦₦ł₭☽★" <STEAM_0:0:456016030> is attempting to connect.
+[Wed Apr  1 18:13:01 2026] Player "Болотный Навальн" <STEAM_0:0:586457449> has spawned in the server
+[Wed Apr  1 18:13:44 2026] Player "Mr.Ruskov" <STEAM_0:0:641109614> is attempting to connect.
+[Wed Apr  1 18:13:56 2026] <STEAM_0:0:586457449> Болотный Навальн: /com писда вам русски
+[Wed Apr  1 18:14:17 2026] Player "Mr.Ruskov" <STEAM_0:0:641109614> has spawned in the server
+[Wed Apr  1 18:14:21 2026] <STEAM_0:1:839860057> david280911: /com пизда тебе бмп 3 едет за твоей душой
+[Wed Apr  1 18:15:16 2026] Player "★☾₳ⱤØ₦₦ł₭☽★" <STEAM_0:0:456016030> has spawned in the server
+[Wed Apr  1 18:16:26 2026] <STEAM_0:0:586457449> Болотный Навальн: /com где ты петушОК
+[Wed Apr  1 18:16:36 2026] <STEAM_0:1:839860057> david280911: // о здарова ханоев
+[Wed Apr  1 18:16:44 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc ага
+[Wed Apr  1 18:17:01 2026] <STEAM_0:1:839860057> david280911: // я хз че бабай ответит
+[Wed Apr  1 18:18:40 2026] <STEAM_0:1:839860057> david280911: щас пкт ответит
+[Wed Apr  1 18:19:45 2026] <STEAM_0:1:839860057> david280911: я тут
+[Wed Apr  1 18:20:16 2026] <STEAM_0:1:839860057> david280911: /me сделал завесу
+[Wed Apr  1 18:21:47 2026] <STEAM_0:1:839860057> david280911: /me из бмп вылез пулеметчик
+[Wed Apr  1 18:22:05 2026] <STEAM_0:0:586457449> Болотный Навальн: /me скосил с m4
+[Wed Apr  1 18:22:36 2026] <STEAM_0:1:839860057> david280911: /me из бмп высынулась рука и отрезала трос
+[Wed Apr  1 18:23:28 2026] <STEAM_0:1:839860057> david280911: // мне кажется бабаю похуй на меня
+[Wed Apr  1 18:23:58 2026] Болотный Навальн has killed ★☾₳ⱤØ₦₦ł₭☽★.
+[Wed Apr  1 18:24:07 2026] Player "Mr.Ruskov" <STEAM_0:0:641109614> has left the server
+[Wed Apr  1 18:25:05 2026] Болотный Навальн has killed ★☾₳ⱤØ₦₦ł₭☽★.
+[Wed Apr  1 18:25:45 2026] Player "★☾₳ⱤØ₦₦ł₭☽★" <STEAM_0:0:456016030> has left the server
+[Wed Apr  1 18:25:47 2026] Player "★☾₳ⱤØ₦₦ł₭☽★" <STEAM_0:0:456016030> is attempting to connect.
+[Wed Apr  1 18:26:40 2026] <STEAM_0:1:839860057> david280911: // Тебе че то бабай ответил?
+[Wed Apr  1 18:27:13 2026] <STEAM_0:0:586457449> Болотный Навальн: // нет
+[Wed Apr  1 18:27:29 2026] <STEAM_0:1:839860057> david280911: // А в группе че то прислали?
+[Wed Apr  1 18:28:01 2026] Player "★☾₳ⱤØ₦₦ł₭☽★" <STEAM_0:0:456016030> is attempting to connect.
+[Wed Apr  1 18:28:07 2026] Player "david280911" <STEAM_0:1:839860057> has left the server
+[Wed Apr  1 18:33:31 2026] Player "★☾₳ⱤØ₦₦ł₭☽★" <STEAM_0:0:456016030> is attempting to connect.
+[Wed Apr  1 19:17:27 2026] worldspawn has killed Болотный Навальн.
+[Wed Apr  1 19:17:46 2026] Player "ghoprhd" <STEAM_0:0:453883455> is attempting to connect.
+[Wed Apr  1 19:19:18 2026] worldspawn has killed Болотный Навальн.
+[Wed Apr  1 19:27:31 2026] Player "ghoprhd" <STEAM_0:0:453883455> is attempting to connect.
+[Wed Apr  1 19:32:36 2026] worldspawn has killed Болотный Навальн.
+[Wed Apr  1 19:33:24 2026] Player "Болотный Навальн" <STEAM_0:0:586457449> has left the server
+[Wed Apr  1 19:37:15 2026] Player "ghoprhd" <STEAM_0:0:453883455> has spawned in the server
+[Wed Apr  1 19:38:56 2026] Player "Болотный Навальн" <STEAM_0:0:586457449> is attempting to connect.
+[Wed Apr  1 19:44:27 2026] Player "ghoprhd" <STEAM_0:0:453883455> has left the server
+[Wed Apr  1 19:46:05 2026] Player "Болотный Навальн" <STEAM_0:0:586457449> has spawned in the server
+[Wed Apr  1 19:48:20 2026] Player "Болотный Навальн" <STEAM_0:0:586457449> has left the server
+[Wed Apr  1 19:59:33 2026] Player "Mr.Ruskov" <STEAM_0:0:641109614> is attempting to connect.
+[Wed Apr  1 20:00:06 2026] Player "Mr.Ruskov" <STEAM_0:0:641109614> has spawned in the server
+[Wed Apr  1 20:00:47 2026] Player "Mr.Ruskov" <STEAM_0:0:641109614> has left the server
+[Wed Apr  1 23:14:25 2026] Player "impotent" <STEAM_0:1:425612974> is attempting to connect.
+[Wed Apr  1 23:17:37 2026] Player "impotent" <STEAM_0:1:425612974> has spawned in the server
+[Wed Apr  1 23:24:28 2026] Player "impotent" <STEAM_0:1:425612974> has left the server

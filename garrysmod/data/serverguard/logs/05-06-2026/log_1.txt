@@ -1,0 +1,14 @@
+[Wed May  6 04:21:43 2026] Player "Metropolice URF.IM" <STEAM_0:0:881907491> is attempting to connect.
+[Wed May  6 05:38:19 2026] Player "david280911" <STEAM_0:1:839860057> is attempting to connect.
+[Wed May  6 06:05:31 2026] Player "david280911" <STEAM_0:1:839860057> is attempting to connect.
+[Wed May  6 06:18:19 2026] Player "david280911" <STEAM_0:1:839860057> has spawned in the server
+[Wed May  6 06:18:30 2026] Player "darwishfaris00" <STEAM_0:1:694200403> is attempting to connect.
+[Wed May  6 06:23:08 2026] Player "david280911" <STEAM_0:1:839860057> has left the server
+[Wed May  6 13:14:28 2026] Player "Metropolice URF.IM" <STEAM_0:0:881907491> is attempting to connect.
+[Wed May  6 13:21:59 2026] Player "Metropolice URF.IM" <STEAM_0:0:881907491> has spawned in the server
+[Wed May  6 13:27:42 2026] Player "Metropolice URF.IM" <STEAM_0:0:881907491> has left the server
+[Wed May  6 16:24:11 2026] Player "fee450" <STEAM_0:0:412360180> is attempting to connect.
+[Wed May  6 18:25:12 2026] Player "killerglon" <STEAM_0:0:386496359> is attempting to connect.
+[Wed May  6 21:31:49 2026] Player "Tesack#OldRust" <STEAM_0:0:390862311> is attempting to connect.
+[Wed May  6 21:52:52 2026] Player "Tesack#OldRust" <STEAM_0:0:390862311> has spawned in the server
+[Wed May  6 22:00:28 2026] Player "Tesack#OldRust" <STEAM_0:0:390862311> has left the server

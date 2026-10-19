@@ -1,0 +1,331 @@
+[Tue Jan 20 00:14:57 2026] Player "[FV]VoinGord" <STEAM_0:0:786368124> is attempting to connect.
+[Tue Jan 20 00:15:15 2026] Player "[FV]VoinGord" <STEAM_0:0:786368124> is attempting to connect.
+[Tue Jan 20 04:06:40 2026] Player "OZOR" <STEAM_0:0:85754053> is attempting to connect.
+[Tue Jan 20 04:07:21 2026] Player "OZOR" <STEAM_0:0:85754053> is attempting to connect.
+[Tue Jan 20 04:19:52 2026] Player "OZOR" <STEAM_0:0:85754053> is attempting to connect.
+[Tue Jan 20 04:21:07 2026] Player "OZOR" <STEAM_0:0:85754053> has spawned in the server
+[Tue Jan 20 04:21:39 2026] Player "OZOR" <STEAM_0:0:85754053> has left the server
+[Tue Jan 20 04:24:56 2026] Player "OZOR" <STEAM_0:0:85754053> is attempting to connect.
+[Tue Jan 20 04:25:56 2026] Player "OZOR" <STEAM_0:0:85754053> has spawned in the server
+[Tue Jan 20 04:26:42 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [397][lvs_wheeldrive_hummer]"
+[Tue Jan 20 04:27:51 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [397][sw_gaz2330]"
+[Tue Jan 20 04:28:28 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [397][sw_bmp3m]"
+[Tue Jan 20 04:30:03 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [397][sw_bmp1]"
+[Tue Jan 20 04:30:34 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [397][sw_bmp1]"
+[Tue Jan 20 04:31:19 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [397][sw_bmp1]"
+[Tue Jan 20 04:31:52 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [397][sw_bmp1]"
+[Tue Jan 20 04:33:30 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [397][sw_bmp1]"
+[Tue Jan 20 04:39:30 2026] worldspawn has killed OZOR.
+[Tue Jan 20 04:39:38 2026] <STEAM_0:0:85754053> OZOR ran command "respawn Ozor"
+[Tue Jan 20 04:40:00 2026] <STEAM_0:0:85754053> OZOR spawned SENT "NPC [398][vehicles_sales]"
+[Tue Jan 20 04:48:01 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [502][lvs_wheeldrive_hummer]"
+[Tue Jan 20 04:48:02 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [530][lvs_wheeldrive_hummer_m134]"
+[Tue Jan 20 04:48:04 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [502][lvs_wheeldrive_hummer_m2]"
+[Tue Jan 20 04:48:05 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [530][lvs_wheeldrive_hummer_m240]"
+[Tue Jan 20 04:48:07 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [502][lvs_wheeldrive_hummer_mk19]"
+[Tue Jan 20 04:48:09 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [530][lvs_wheeldrive_hummer_tow]"
+[Tue Jan 20 04:51:15 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [502][lvs_wheeldrive_hummer_tow]"
+[Tue Jan 20 04:52:16 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [502][sw_bmp1]"
+[Tue Jan 20 04:52:19 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [502][lvs_wheeldrive_hummer]"
+[Tue Jan 20 04:52:20 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [530][lvs_wheeldrive_hummer_m134]"
+[Tue Jan 20 04:55:51 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [502][armor_take]"
+[Tue Jan 20 04:55:52 2026] <STEAM_0:0:85754053> OZOR spawned SENT "NPC [503][vehicles_sales]"
+[Tue Jan 20 04:55:53 2026] <STEAM_0:0:85754053> OZOR spawned SENT "NPC [504][vehicles_sales]"
+[Tue Jan 20 04:56:01 2026] <STEAM_0:0:85754053> OZOR ran command "respawn Ozor"
+[Tue Jan 20 05:45:50 2026] Player "OZOR" <STEAM_0:0:85754053> has left the server
+[Tue Jan 20 13:26:29 2026] Player "Fernández" <STEAM_0:0:79873507> is attempting to connect.
+[Tue Jan 20 13:27:28 2026] Player "Fernández" <STEAM_0:0:79873507> has spawned in the server
+[Tue Jan 20 13:30:03 2026] Player "Fernández" <STEAM_0:0:79873507> is attempting to connect.
+[Tue Jan 20 13:30:24 2026] Player "Fernández" <STEAM_0:0:79873507> has spawned in the server
+[Tue Jan 20 13:31:08 2026] <STEAM_0:0:79873507> Fernández: dwada
+[Tue Jan 20 13:39:19 2026] Player "Fernández" <STEAM_0:0:79873507> is attempting to connect.
+[Tue Jan 20 13:39:38 2026] Player "Fernández" <STEAM_0:0:79873507> has spawned in the server
+[Tue Jan 20 13:41:41 2026] <STEAM_0:0:79873507> Fernández spawned SENT "NPC [397][vehicles_sales]"
+[Tue Jan 20 13:42:45 2026] <STEAM_0:0:79873507> Fernández spawned prop "Entity [399][prop_physics] (models/props/plakat/plakatsvd.mdl)"
+[Tue Jan 20 13:42:56 2026] <STEAM_0:0:79873507> Fernández used tool "permaprops"
+[Tue Jan 20 13:42:58 2026] <STEAM_0:0:79873507> Fernández used tool "permaprops"
+[Tue Jan 20 13:42:58 2026] <STEAM_0:0:79873507> Fernández used tool "permaprops"
+[Tue Jan 20 13:42:59 2026] <STEAM_0:0:79873507> Fernández used tool "permaprops"
+[Tue Jan 20 13:43:36 2026] <STEAM_0:0:79873507> Fernández spawned prop "Entity [397][prop_physics] (models/diggercars/m3a3/turret.mdl)"
+[Tue Jan 20 13:43:38 2026] <STEAM_0:0:79873507> Fernández spawned prop "Entity [397][prop_physics] (models/sw/shared/airdrop_large.mdl)"
+[Tue Jan 20 13:43:52 2026] <STEAM_0:0:79873507> Fernández spawned SENT "Entity [397][bodygroup]"
+[Tue Jan 20 13:44:01 2026] <STEAM_0:0:79873507> Fernández used tool "permaprops"
+[Tue Jan 20 13:44:10 2026] <STEAM_0:0:79873507> Fernández spawned SENT "Entity [502][armor_take]"
+[Tue Jan 20 13:44:20 2026] <STEAM_0:0:79873507> Fernández used tool "permaprops"
+[Tue Jan 20 13:44:26 2026] <STEAM_0:0:79873507> Fernández spawned SENT "Entity [503][wesupplycrate]"
+[Tue Jan 20 13:44:31 2026] <STEAM_0:0:79873507> Fernández spawned SENT "Entity [504][wesupplycrate]"
+[Tue Jan 20 13:44:39 2026] <STEAM_0:0:79873507> Fernández used tool "permaprops"
+[Tue Jan 20 13:44:39 2026] <STEAM_0:0:79873507> Fernández used tool "permaprops"
+[Tue Jan 20 13:45:45 2026] <STEAM_0:0:79873507> Fernández spawned SENT "NPC [504][vehicles_sales]"
+[Tue Jan 20 13:45:55 2026] <STEAM_0:0:79873507> Fernández used tool "permaprops"
+[Tue Jan 20 13:46:03 2026] <STEAM_0:0:79873507> Fernández spawned SENT "Entity [504][armor_take]"
+[Tue Jan 20 13:46:09 2026] <STEAM_0:0:79873507> Fernández used tool "permaprops"
+[Tue Jan 20 13:46:23 2026] <STEAM_0:0:79873507> Fernández spawned SENT "Entity [507][wesupplycrate]"
+[Tue Jan 20 13:46:27 2026] <STEAM_0:0:79873507> Fernández spawned SENT "Entity [508][wesupplycrate]"
+[Tue Jan 20 13:46:32 2026] <STEAM_0:0:79873507> Fernández used tool "permaprops"
+[Tue Jan 20 13:46:33 2026] <STEAM_0:0:79873507> Fernández used tool "permaprops"
+[Tue Jan 20 13:52:11 2026] Player "Fernández" <STEAM_0:0:79873507> is attempting to connect.
+[Tue Jan 20 13:52:33 2026] Player "Fernández" <STEAM_0:0:79873507> has spawned in the server
+[Tue Jan 20 13:52:46 2026] <STEAM_0:0:79873507> Fernández: !dwadwa
+[Tue Jan 20 13:52:50 2026] <STEAM_0:0:79873507> Fernández ran command "menu"
+[Tue Jan 20 13:53:40 2026] <STEAM_0:0:79873507> Fernández spawned prop "Entity [502][prop_physics] (models/props_docks/dock03_pole01a.mdl)"
+[Tue Jan 20 14:01:11 2026] <STEAM_0:0:79873507> Fernández spawned SENT "Entity [502][sw_gaz2330]"
+[Tue Jan 20 14:01:33 2026] <STEAM_0:0:79873507> Fernández spawned SENT "Entity [508][sw_gaz2330]"
+[Tue Jan 20 14:01:49 2026] <STEAM_0:0:79873507> Fernández spawned SENT "Entity [502][sw_gaz2330]"
+[Tue Jan 20 14:01:52 2026] <STEAM_0:0:79873507> Fernández spawned SENT "Entity [550][sw_gaz2330]"
+[Tue Jan 20 14:01:55 2026] <STEAM_0:0:79873507> Fernández spawned SENT "Entity [502][sw_gaz2330]"
+[Tue Jan 20 14:02:00 2026] <STEAM_0:0:79873507> Fernández used tool "sw_loadout_editor_v3"
+[Tue Jan 20 14:02:00 2026] <STEAM_0:0:79873507> Fernández used tool "sw_loadout_editor_v3"
+[Tue Jan 20 14:02:44 2026] <STEAM_0:0:79873507> Fernández spawned SENT "Entity [502][sw_gaz2330]"
+[Tue Jan 20 14:03:08 2026] <STEAM_0:0:79873507> Fernández spawned SENT "Entity [502][sw_gaz2330]"
+[Tue Jan 20 14:04:07 2026] <STEAM_0:0:79873507> Fernández spawned SENT "Entity [502][sw_gaz2330]"
+[Tue Jan 20 14:05:20 2026] <STEAM_0:0:79873507> Fernández spawned SENT "Entity [502][sw_gaz2330]"
+[Tue Jan 20 14:05:25 2026] <STEAM_0:0:79873507> Fernández used tool "sw_loadout_editor_v3"
+[Tue Jan 20 14:05:26 2026] <STEAM_0:0:79873507> Fernández spawned SENT "Entity [502][sw_gaz2330]"
+[Tue Jan 20 14:05:48 2026] <STEAM_0:0:79873507> Fernández spawned SENT "Entity [502][sw_gaz2330]"
+[Tue Jan 20 14:05:50 2026] <STEAM_0:0:79873507> Fernández used tool "sw_loadout_editor_v3"
+[Tue Jan 20 14:06:02 2026] <STEAM_0:0:79873507> Fernández spawned SENT "Entity [502][lvs_vehicle_repair]"
+[Tue Jan 20 14:07:45 2026] <STEAM_0:0:79873507> Fernández spawned SENT "Entity [502][sw_gaz2330]"
+[Tue Jan 20 14:07:57 2026] <STEAM_0:0:79873507> Fernández used tool "sw_aamloadout_editor_v3"
+[Tue Jan 20 14:08:00 2026] <STEAM_0:0:79873507> Fernández used tool "sw_aamloadout_editor_v3"
+[Tue Jan 20 14:08:01 2026] <STEAM_0:0:79873507> Fernández used tool "sw_aamloadout_editor_v3"
+[Tue Jan 20 14:08:03 2026] <STEAM_0:0:79873507> Fernández used tool "sw_loadout_editor_v3"
+[Tue Jan 20 14:08:05 2026] <STEAM_0:0:79873507> Fernández used tool "sw_loadout_editor_v3"
+[Tue Jan 20 14:08:07 2026] <STEAM_0:0:79873507> Fernández used tool "sw_loadout_editor_v3"
+[Tue Jan 20 14:08:09 2026] <STEAM_0:0:79873507> Fernández used tool "sw_loadout_editor_v3"
+[Tue Jan 20 14:08:11 2026] <STEAM_0:0:79873507> Fernández used tool "sw_loadout_editor_v3"
+[Tue Jan 20 14:09:36 2026] <STEAM_0:0:79873507> Fernández ran command "menu"
+[Tue Jan 20 14:10:13 2026] Console ran command "rank STEAM_0:1:520072139 curator"
+[Tue Jan 20 14:16:36 2026] <STEAM_0:0:79873507> Fernández ran command "menu"
+[Tue Jan 20 14:20:58 2026] Player "Fernández" <STEAM_0:0:79873507> is attempting to connect.
+[Tue Jan 20 14:21:19 2026] Player "Fernández" <STEAM_0:0:79873507> has spawned in the server
+[Tue Jan 20 14:23:06 2026] Player "Fernández" <STEAM_0:0:79873507> is attempting to connect.
+[Tue Jan 20 14:23:17 2026] Console ran command "rank STEAM_0:1:520072139 curator"
+[Tue Jan 20 14:23:27 2026] Player "Fernández" <STEAM_0:0:79873507> has spawned in the server
+[Tue Jan 20 14:23:39 2026] <STEAM_0:0:79873507> Fernández ran command "menu"
+[Tue Jan 20 14:23:46 2026] <STEAM_0:0:79873507> Fernández ran command "rank Alvarez curator 0"
+[Tue Jan 20 14:24:02 2026] <STEAM_0:0:79873507> Fernández ran command "menu"
+[Tue Jan 20 14:31:19 2026] Player "Fernández" <STEAM_0:0:79873507> is attempting to connect.
+[Tue Jan 20 14:31:40 2026] Player "Fernández" <STEAM_0:0:79873507> has spawned in the server
+[Tue Jan 20 14:31:53 2026] <STEAM_0:0:79873507> Fernández ran command "menu"
+[Tue Jan 20 14:32:25 2026] Console ran command "rank STEAM_0:0:79873507 curator"
+[Tue Jan 20 14:32:59 2026] <STEAM_0:0:79873507> Fernández ran command "menu"
+[Tue Jan 20 14:33:37 2026] <STEAM_0:0:79873507> Fernández ran command "menu"
+[Tue Jan 20 14:38:13 2026] Player "Fernández" <STEAM_0:0:79873507> has left the server
+[Tue Jan 20 14:38:48 2026] Player "Fernández" <STEAM_0:0:79873507> is attempting to connect.
+[Tue Jan 20 14:39:09 2026] Player "Fernández" <STEAM_0:0:79873507> has spawned in the server
+[Tue Jan 20 14:39:31 2026] <STEAM_0:0:79873507> Fernández ran command "menu"
+[Tue Jan 20 14:44:30 2026] Player "Fernández" <STEAM_0:0:79873507> is attempting to connect.
+[Tue Jan 20 14:44:52 2026] Player "Fernández" <STEAM_0:0:79873507> has spawned in the server
+[Tue Jan 20 14:45:06 2026] <STEAM_0:0:79873507> Fernández ran command "menu"
+[Tue Jan 20 14:45:20 2026] <STEAM_0:0:79873507> Fernández ran command "plugintoggle reservedslots"
+[Tue Jan 20 14:45:33 2026] <STEAM_0:0:79873507> Fernández ran command "plugintoggle familysharing"
+[Tue Jan 20 14:45:40 2026] <STEAM_0:0:79873507> Fernández ran command "menu"
+[Tue Jan 20 14:45:41 2026] <STEAM_0:0:79873507> Fernández ran command "plugintoggle familysharing"
+[Tue Jan 20 14:47:15 2026] Player "Fernández" <STEAM_0:0:79873507> is attempting to connect.
+[Tue Jan 20 14:47:36 2026] Player "Fernández" <STEAM_0:0:79873507> has spawned in the server
+[Tue Jan 20 14:47:49 2026] <STEAM_0:0:79873507> Fernández ran command "menu"
+[Tue Jan 20 14:48:36 2026] <STEAM_0:0:79873507> Fernández ran command "menu"
+[Tue Jan 20 14:54:10 2026] Player "Fernández" <STEAM_0:0:79873507> is attempting to connect.
+[Tue Jan 20 14:54:32 2026] Player "Fernández" <STEAM_0:0:79873507> has spawned in the server
+[Tue Jan 20 14:54:45 2026] <STEAM_0:0:79873507> Fernández ran command "menu"
+[Tue Jan 20 14:54:58 2026] <STEAM_0:0:79873507> Fernández ran command "menu"
+[Tue Jan 20 15:01:09 2026] Player "Оккупант ИК-6" <STEAM_0:0:428812117> is attempting to connect.
+[Tue Jan 20 15:24:16 2026] Console ran command "rank STEAM_0:0:219840273 helper"
+[Tue Jan 20 17:06:41 2026] Player "BloodySmile" <STEAM_0:1:54838838> is attempting to connect.
+[Tue Jan 20 17:07:26 2026] Player "BloodySmile" <STEAM_0:1:54838838> has spawned in the server
+[Tue Jan 20 17:07:49 2026] <STEAM_0:1:54838838> BloodySmile ran command "menu"
+[Tue Jan 20 17:10:28 2026] <STEAM_0:1:54838838> BloodySmile: /char
+[Tue Jan 20 17:10:48 2026] <STEAM_0:1:54838838> BloodySmile: /char
+[Tue Jan 20 17:11:06 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "NPC [507][vehicles_sales]"
+[Tue Jan 20 17:11:59 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [509][edit_sun]"
+[Tue Jan 20 17:12:38 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [509][sw_gaz2330]"
+[Tue Jan 20 17:12:53 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [509][sw_bmp2m]"
+[Tue Jan 20 17:13:18 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [578][lvs_item_compressor]"
+[Tue Jan 20 17:13:21 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [579][lvs_item_compressor]"
+[Tue Jan 20 17:13:24 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [579][lvs_item_gear]"
+[Tue Jan 20 17:13:25 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [580][lvs_item_gear]"
+[Tue Jan 20 17:13:27 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [579][lvs_item_gear]"
+[Tue Jan 20 17:13:29 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [579][lvs_item_exhaust]"
+[Tue Jan 20 17:13:31 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [580][lvs_item_exhaust]"
+[Tue Jan 20 17:13:33 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [579][lvs_item_exhaust]"
+[Tue Jan 20 17:13:36 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [579][lvs_item_turbo]"
+[Tue Jan 20 17:13:38 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [580][lvs_item_turbo]"
+[Tue Jan 20 17:14:52 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [509][sw_gaz2330]"
+[Tue Jan 20 17:14:56 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [551][lvs_item_gauge]"
+[Tue Jan 20 17:15:04 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [551][lvs_item_compressor]"
+[Tue Jan 20 17:15:10 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [552][lvs_item_gear]"
+[Tue Jan 20 17:15:12 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [552][lvs_item_turbo]"
+[Tue Jan 20 17:15:14 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [553][lvs_item_exhaust]"
+[Tue Jan 20 17:15:57 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [509][sw_gaz2330]"
+[Tue Jan 20 17:31:37 2026] Player "BloodySmile" <STEAM_0:1:54838838> has left the server
+[Tue Jan 20 18:39:47 2026] Player "BloodySmile" <STEAM_0:1:54838838> is attempting to connect.
+[Tue Jan 20 18:40:12 2026] Player "BloodySmile" <STEAM_0:1:54838838> has spawned in the server
+[Tue Jan 20 18:40:38 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [502][lvs_wheeldrive_hummer]"
+[Tue Jan 20 18:40:42 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Tue Jan 20 18:40:43 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Tue Jan 20 18:40:45 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_aamloadout_editor_v3"
+[Tue Jan 20 18:40:47 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [502][sw_gaz2330]"
+[Tue Jan 20 18:40:50 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Tue Jan 20 18:45:00 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [502][prop_physics] (models/ninja/esp/fortification/hescobarrierfort.mdl)"
+[Tue Jan 20 18:45:17 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [502][prop_physics] (models/ninja/esp/fortification/hescobarrierpyramidbig.mdl)"
+[Tue Jan 20 18:45:24 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [502][prop_physics] (models/total_conflict/prop/fence/sm_fence_barbwire_corner.mdl)"
+[Tue Jan 20 18:45:25 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [510][prop_physics] (models/total_conflict/prop/des_veh/abrams/abrams_damaged.mdl)"
+[Tue Jan 20 18:45:27 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [502][prop_physics] (models/total_conflict/prop/des_veh/btr82/btr82_damaged.mdl)"
+[Tue Jan 20 18:45:30 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [510][prop_physics] (models/total_conflict/prop/des_veh/mtlb/mtlb_damaged.mdl)"
+[Tue Jan 20 18:45:31 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [502][prop_physics] (models/total_conflict/prop/des_veh/stryker/stryker_damaged.mdl)"
+[Tue Jan 20 18:45:33 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [502][prop_physics] (models/total_conflict/prop/antenns/sm_tr_antenna_01.mdl)"
+[Tue Jan 20 18:45:34 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [510][prop_physics] (models/total_conflict/prop/anti_tank/anti_tank.mdl)"
+[Tue Jan 20 18:45:36 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [502][prop_physics] (models/total_conflict/prop/anti_tank/anti_tank.mdl)"
+[Tue Jan 20 18:45:42 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Tue Jan 20 18:45:44 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Tue Jan 20 18:45:45 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [502][prop_physics] (models/total_conflict/prop/antenns/sm_tr_antenna_01.mdl)"
+[Tue Jan 20 18:45:47 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [502][prop_physics] (models/ninja/esp/fortification/sandbagfort.mdl)"
+[Tue Jan 20 18:45:52 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [502][prop_physics] (models/total_conflict/prop/dot/dzot_05.mdl)"
+[Tue Jan 20 18:45:57 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Tue Jan 20 18:45:58 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Tue Jan 20 18:45:59 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [502][prop_physics] (models/total_conflict/prop/dot/dzot_05.mdl)"
+[Tue Jan 20 18:46:00 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [508][prop_physics] (models/total_conflict/prop/dot/dot_02.mdl)"
+[Tue Jan 20 18:46:01 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Tue Jan 20 18:46:06 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Tue Jan 20 18:47:21 2026] <STEAM_0:1:54838838> BloodySmile ran command "menu"
+[Tue Jan 20 18:57:12 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [502][bodygroup]"
+[Tue Jan 20 19:05:25 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [511][sw_bmp2m]"
+[Tue Jan 20 19:05:33 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [581][lvs_item_compressor]"
+[Tue Jan 20 19:05:36 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [582][lvs_item_gear]"
+[Tue Jan 20 19:05:39 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [582][lvs_item_turbo]"
+[Tue Jan 20 19:05:41 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [583][lvs_item_exhaust]"
+[Tue Jan 20 19:07:11 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [502][lvs_wheeldrive_nonrp_t90m]"
+[Tue Jan 20 19:07:15 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [588][lvs_wheeldrive_rp_t90m]"
+[Tue Jan 20 19:08:10 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [588][lvs_wheeldrive_rp_dabrams_m1a1]"
+[Tue Jan 20 19:08:25 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [588][lvs_wheeldrive_rp_t90m]"
+[Tue Jan 20 19:08:28 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [668][lvs_item_compressor]"
+[Tue Jan 20 19:08:47 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [669][lvs_item_gear]"
+[Tue Jan 20 19:08:50 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [669][lvs_item_exhaust]"
+[Tue Jan 20 19:08:52 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [669][lvs_item_turbo]"
+[Tue Jan 20 19:10:46 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [670][lvs_item_gauge]"
+[Tue Jan 20 19:11:05 2026] <STEAM_0:1:54838838> BloodySmile: /activate
+[Tue Jan 20 19:11:36 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [502][sw_gaz2330]"
+[Tue Jan 20 19:12:07 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [553][lvs_item_gauge]"
+[Tue Jan 20 19:12:26 2026] <STEAM_0:1:54838838> BloodySmile: /drop 
+[Tue Jan 20 19:12:26 2026] <STEAM_0:1:54838838> BloodySmile: /drop
+[Tue Jan 20 19:12:29 2026] <STEAM_0:1:54838838> BloodySmile: /me показал военный билет: [543288][Соколов К.И.]|[ГСРЖТ][ILDU]|[-][-]
+[Tue Jan 20 19:13:10 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [553][lvs_item_compressor]"
+[Tue Jan 20 19:13:12 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [554][lvs_item_transmission_automatic]"
+[Tue Jan 20 19:13:18 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [555][lvs_item_transmission_manual]"
+[Tue Jan 20 19:13:21 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [554][lvs_item_exhaust]"
+[Tue Jan 20 19:13:23 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [555][lvs_item_turbo]"
+[Tue Jan 20 19:13:25 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [554][lvs_item_compressor]"
+[Tue Jan 20 19:13:32 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [554][lvs_item_gear]"
+[Tue Jan 20 19:14:11 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [554][lvs_item_refuel]"
+[Tue Jan 20 19:14:25 2026] <STEAM_0:1:54838838> BloodySmile ran command "respawn Григорьев"
+[Tue Jan 20 19:14:31 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [511][lvs_item_refuel]"
+[Tue Jan 20 19:14:43 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [512][lvs_vehicle_repair]"
+[Tue Jan 20 19:15:03 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Tue Jan 20 19:15:04 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Tue Jan 20 19:15:08 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [511][lvs_item_spikestrip]"
+[Tue Jan 20 19:15:16 2026] Player "༒︎シ︎ʰᵉⁿᵗᵃⁱシ" <STEAM_0:0:851601344> is attempting to connect.
+[Tue Jan 20 19:15:16 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [511][lvs_vehicle_spammer]"
+[Tue Jan 20 19:15:21 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [512][lvs_vehicle_spammer]"
+[Tue Jan 20 19:15:50 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [511][sw_bmp2m]"
+[Tue Jan 20 19:16:00 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_aamloadout_editor_v3"
+[Tue Jan 20 19:16:00 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_aamloadout_editor_v3"
+[Tue Jan 20 19:16:02 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [581][lvs_wheeldrive_m3a3]"
+[Tue Jan 20 19:16:05 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_aamloadout_editor_v3"
+[Tue Jan 20 19:16:25 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [581][sw_bmp2m]"
+[Tue Jan 20 19:16:46 2026] <STEAM_0:1:54838838> BloodySmile: /char
+[Tue Jan 20 19:16:53 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [502][lvs_wheeldrive_m3a3]"
+[Tue Jan 20 19:16:56 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [713][lvs_wheeldrive_m3a3]"
+[Tue Jan 20 19:17:10 2026] <STEAM_0:1:54838838> BloodySmile used tool "remover"
+[Tue Jan 20 19:17:11 2026] <STEAM_0:1:54838838> BloodySmile used tool "remover"
+[Tue Jan 20 19:17:30 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [502][npc_combine_s]"
+[Tue Jan 20 19:17:31 2026] Player "༒︎シ︎ʰᵉⁿᵗᵃⁱシ" <STEAM_0:0:851601344> has spawned in the server
+[Tue Jan 20 19:18:15 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [516][npc_strider]"
+[Tue Jan 20 19:18:29 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [545][sw_bmp1p]"
+[Tue Jan 20 19:18:32 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [690][sw_bmp3]"
+[Tue Jan 20 19:18:42 2026] lvs_wheeldrive_m3a3 has killed BloodySmile.
+[Tue Jan 20 19:19:21 2026] <STEAM_0:1:54838838> BloodySmile: /char
+[Tue Jan 20 19:19:32 2026] <STEAM_0:1:54838838> BloodySmile used tool "remover"
+[Tue Jan 20 19:19:32 2026] <STEAM_0:1:54838838> BloodySmile used tool "remover"
+[Tue Jan 20 19:19:33 2026] <STEAM_0:1:54838838> BloodySmile used tool "remover"
+[Tue Jan 20 19:19:33 2026] <STEAM_0:1:54838838> BloodySmile used tool "remover"
+[Tue Jan 20 19:19:33 2026] <STEAM_0:1:54838838> BloodySmile used tool "remover"
+[Tue Jan 20 19:19:42 2026] <STEAM_0:1:54838838> BloodySmile used tool "remover"
+[Tue Jan 20 19:19:42 2026] <STEAM_0:1:54838838> BloodySmile used tool "remover"
+[Tue Jan 20 19:19:42 2026] <STEAM_0:1:54838838> BloodySmile used tool "remover"
+[Tue Jan 20 19:19:43 2026] <STEAM_0:1:54838838> BloodySmile used tool "remover"
+[Tue Jan 20 19:19:43 2026] <STEAM_0:1:54838838> BloodySmile used tool "remover"
+[Tue Jan 20 19:19:43 2026] <STEAM_0:1:54838838> BloodySmile used tool "remover"
+[Tue Jan 20 19:19:43 2026] <STEAM_0:1:54838838> BloodySmile used tool "remover"
+[Tue Jan 20 19:19:43 2026] <STEAM_0:1:54838838> BloodySmile used tool "remover"
+[Tue Jan 20 19:19:44 2026] <STEAM_0:1:54838838> BloodySmile used tool "remover"
+[Tue Jan 20 19:20:01 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "goto Григорьев"
+[Tue Jan 20 19:20:05 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [66][sw_bmp3]"
+[Tue Jan 20 19:20:20 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [66][sw_bmp2m]"
+[Tue Jan 20 19:20:49 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [66][sw_gaz2330]"
+[Tue Jan 20 19:20:57 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [66][lvs_wheeldrive_hummer]"
+[Tue Jan 20 19:21:19 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [539][lvs_missile]"
+[Tue Jan 20 19:21:22 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [540][lvs_item_turbo]"
+[Tue Jan 20 19:21:26 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [541][lvs_item_exhaust]"
+[Tue Jan 20 19:21:29 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [541][lvs_item_transmission_manual]"
+[Tue Jan 20 19:21:30 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [541][lvs_item_transmission_automatic]"
+[Tue Jan 20 19:21:35 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [541][lvs_item_gear]"
+[Tue Jan 20 19:21:38 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [541][lvs_item_compressor]"
+[Tue Jan 20 19:21:40 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [542][lvs_item_spikestrip]"
+[Tue Jan 20 19:21:44 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [542][lvs_item_gauge]"
+[Tue Jan 20 19:21:48 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [542][lvs_item_jerrycan]"
+[Tue Jan 20 19:25:29 2026] Player "༒︎シ︎ʰᵉⁿᵗᵃⁱシ" <STEAM_0:0:851601344> has left the server
+[Tue Jan 20 19:35:37 2026] Player "BloodySmile" <STEAM_0:1:54838838> has left the server
+[Tue Jan 20 19:58:34 2026] Player "Gmod enjoyer" <STEAM_0:1:397070430> is attempting to connect.
+[Tue Jan 20 20:28:31 2026] Player "punk" <STEAM_0:0:921324874> is attempting to connect.
+[Tue Jan 20 20:28:38 2026] Player "punk" <STEAM_0:0:921324874> is attempting to connect.
+[Tue Jan 20 20:29:36 2026] Player "punk" <STEAM_0:0:921324874> has spawned in the server
+[Tue Jan 20 20:29:49 2026] Player "punk" <STEAM_0:0:921324874> has left the server
+[Tue Jan 20 20:29:53 2026] Player "punk" <STEAM_0:0:921324874> is attempting to connect.
+[Tue Jan 20 20:30:32 2026] Player "punk" <STEAM_0:0:921324874> has spawned in the server
+[Tue Jan 20 20:32:02 2026] <STEAM_0:0:921324874> punk: /sit
+[Tue Jan 20 20:34:28 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [519][wesupplycrate]"
+[Tue Jan 20 20:34:31 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [519][witcher_gateway]"
+[Tue Jan 20 20:34:39 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [520][witcher_gateway]"
+[Tue Jan 20 20:34:49 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [519][armor_take]"
+[Tue Jan 20 20:34:51 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [519][bodygroup]"
+[Tue Jan 20 20:35:25 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [519][witcher_gateway]"
+[Tue Jan 20 20:35:25 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [520][witcher_gateway]"
+[Tue Jan 20 20:35:26 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [539][witcher_gateway]"
+[Tue Jan 20 20:35:26 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [541][witcher_gateway]"
+[Tue Jan 20 20:35:29 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [519][wesupplycrate]"
+[Tue Jan 20 20:35:29 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [520][wesupplycrate]"
+[Tue Jan 20 20:35:29 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [539][wesupplycrate]"
+[Tue Jan 20 20:35:29 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [541][wesupplycrate]"
+[Tue Jan 20 20:35:29 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [542][wesupplycrate]"
+[Tue Jan 20 20:35:29 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [543][wesupplycrate]"
+[Tue Jan 20 20:35:30 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [544][wesupplycrate]"
+[Tue Jan 20 20:35:30 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [545][wesupplycrate]"
+[Tue Jan 20 20:35:50 2026] <STEAM_0:0:921324874> punk spawned npc "NPC [519][npc_stalker]"
+[Tue Jan 20 20:35:53 2026] <STEAM_0:0:921324874> punk spawned npc "NPC [519][npc_combine_s]"
+[Tue Jan 20 20:36:03 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [519][lvs_wheeldrive_m3a3]"
+[Tue Jan 20 20:36:04 2026] lvs_wheeldrive_m3a3 has killed punk.
+[Tue Jan 20 20:37:36 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [512][lvs_wheeldrive_m3a3]"
+[Tue Jan 20 20:37:54 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [512][lfs_uh60]"
+[Tue Jan 20 20:38:02 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [512][lfs_grdn_ka50]"
+[Tue Jan 20 20:38:07 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [512][lvs_wheeldrive_dabrams_m1a1]"
+[Tue Jan 20 20:38:50 2026] <STEAM_0:0:921324874> punk: /sit
+[Tue Jan 20 20:47:24 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [561][wesupplycrate]"
+[Tue Jan 20 20:47:24 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [562][wesupplycrate]"
+[Tue Jan 20 20:47:24 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [563][wesupplycrate]"
+[Tue Jan 20 20:47:24 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [564][wesupplycrate]"
+[Tue Jan 20 20:47:24 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [565][wesupplycrate]"
+[Tue Jan 20 20:47:24 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [566][wesupplycrate]"
+[Tue Jan 20 20:47:24 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [567][wesupplycrate]"
+[Tue Jan 20 20:49:13 2026] Player "punk" <STEAM_0:0:921324874> has left the server
+[Tue Jan 20 22:34:28 2026] Player "МЕЛЛСТРОЙ" <STEAM_0:0:792051630> is attempting to connect.
+[Tue Jan 20 22:36:11 2026] Player "Казахстан" <STEAM_0:0:653892166> is attempting to connect.
+[Tue Jan 20 22:59:37 2026] Player "Казахстан" <STEAM_0:0:653892166> has spawned in the server
+[Tue Jan 20 23:01:14 2026] Player "Казахстан" <STEAM_0:0:653892166> has left the server
+[Tue Jan 20 23:14:42 2026] Player "Smasher" <STEAM_0:1:220381002> is attempting to connect.
+[Tue Jan 20 23:16:45 2026] Player "Smasher" <STEAM_0:1:220381002> has spawned in the server
+[Tue Jan 20 23:19:51 2026] Player "Smasher" <STEAM_0:1:220381002> has left the server
+[Tue Jan 20 23:34:08 2026] Player "pamptymptelka" <STEAM_0:1:546382652> is attempting to connect.
+[Tue Jan 20 23:47:30 2026] Player "pamptymptelka" <STEAM_0:1:546382652> has spawned in the server
+[Tue Jan 20 23:55:14 2026] <STEAM_0:1:546382652> pamptymptelka: 66
+[Tue Jan 20 23:55:41 2026] Player "pamptymptelka" <STEAM_0:1:546382652> has left the server

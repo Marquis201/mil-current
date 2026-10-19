@@ -1,0 +1,776 @@
+[Thu Mar 19 18:46:21 2026] Player "gREG4IK" <STEAM_0:1:455594560> is attempting to connect.
+[Thu Mar 19 18:47:32 2026] Player "gREG4IK" <STEAM_0:1:455594560> has spawned in the server
+[Thu Mar 19 18:47:34 2026] worldspawn has killed gREG4IK.
+[Thu Mar 19 18:54:00 2026] Player "gREG4IK" <STEAM_0:1:455594560> has left the server
+[Thu Mar 19 18:58:10 2026] Player "gREG4IK" <STEAM_0:1:455594560> is attempting to connect.
+[Thu Mar 19 18:58:49 2026] Player "gREG4IK" <STEAM_0:1:455594560> has spawned in the server
+[Thu Mar 19 18:58:52 2026] worldspawn has killed gREG4IK.
+[Thu Mar 19 18:59:36 2026] <STEAM_0:1:455594560> gREG4IK ran command "model ^ models/notart/jtf ii.mdl"
+[Thu Mar 19 19:04:53 2026] <STEAM_0:1:455594560> gREG4IK: models/knyaje pack/fsb_rosn/fsb_rosn_zakaz.mdl
+[Thu Mar 19 19:08:10 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [602][lfs_grdn_ec665uht]"
+[Thu Mar 19 19:08:30 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [602][sw_matv_mk19]"
+[Thu Mar 19 19:08:42 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [602][lvs_wheeldrive_hummer]"
+[Thu Mar 19 19:08:53 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [658][sw_matv_mk19]"
+[Thu Mar 19 19:08:56 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [658][lvs_wheeldrive_m3a3]"
+[Thu Mar 19 19:09:01 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [658][lvs_wheeldrive_dabrams_m1a1]"
+[Thu Mar 19 19:09:13 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [733][npc_combine_s]"
+[Thu Mar 19 19:09:19 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [733][npc_combine_s]"
+[Thu Mar 19 19:09:38 2026] <STEAM_0:1:455594560> gREG4IK: /dropweapon
+[Thu Mar 19 19:09:40 2026] <STEAM_0:1:455594560> gREG4IK: /drop
+[Thu Mar 19 19:20:41 2026] Player "gREG4IK" <STEAM_0:1:455594560> is attempting to connect.
+[Thu Mar 19 19:21:20 2026] Player "gREG4IK" <STEAM_0:1:455594560> has spawned in the server
+[Thu Mar 19 19:21:23 2026] worldspawn has killed gREG4IK.
+[Thu Mar 19 19:34:45 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [609][sw_hemtt_cargo]"
+[Thu Mar 19 19:34:52 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [609][sw_hemtt_cargo]"
+[Thu Mar 19 19:34:53 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [679][sw_hemtt_fuel]"
+[Thu Mar 19 19:34:57 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [609][sw_hemtt_fuel]"
+[Thu Mar 19 19:34:58 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [677][sw_hemtt_troop]"
+[Thu Mar 19 19:34:59 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [725][lvs_wheeldrive_kamazfuel]"
+[Thu Mar 19 19:35:00 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [750][lvs_wheeldrive_kamazrepair]"
+[Thu Mar 19 19:35:00 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [775][lvs_wheeldrive_kamaztroop]"
+[Thu Mar 19 19:35:02 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [813][lvs_wheeldrive_kamaztroop]"
+[Thu Mar 19 19:39:41 2026] <STEAM_0:1:455594560> gREG4IK used tool "camera"
+[Thu Mar 19 19:40:30 2026] <STEAM_0:1:455594560> gREG4IK used tool "camera"
+[Thu Mar 19 19:41:05 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [621][bodygroup]"
+[Thu Mar 19 20:02:03 2026] <STEAM_0:1:455594560> gREG4IK: lfs_grdn_mi24d
+[Thu Mar 19 20:10:36 2026] Player "gREG4IK" <STEAM_0:1:455594560> is attempting to connect.
+[Thu Mar 19 20:11:14 2026] Player "gREG4IK" <STEAM_0:1:455594560> has spawned in the server
+[Thu Mar 19 20:12:31 2026] Player "gREG4IK" <STEAM_0:1:455594560> is attempting to connect.
+[Thu Mar 19 20:13:10 2026] Player "gREG4IK" <STEAM_0:1:455594560> has spawned in the server
+[Thu Mar 19 20:14:02 2026] <STEAM_0:1:455594560> gREG4IK ran command "menu"
+[Thu Mar 19 20:14:09 2026] <STEAM_0:1:455594560> gREG4IK ran command "unban STEAM_0:0:453883455"
+[Thu Mar 19 20:16:59 2026] Player "gREG4IK" <STEAM_0:1:455594560> is attempting to connect.
+[Thu Mar 19 20:17:37 2026] Player "gREG4IK" <STEAM_0:1:455594560> has spawned in the server
+[Thu Mar 19 20:18:31 2026] Player "THE-_-Reper" <STEAM_0:1:526999954> is attempting to connect.
+[Thu Mar 19 20:21:04 2026] Player "Андрей Убивалов" <STEAM_0:1:927190123> is attempting to connect.
+[Thu Mar 19 20:22:46 2026] Player "Андрей Убивалов" <STEAM_0:1:927190123> has spawned in the server
+[Thu Mar 19 20:23:38 2026] Player "Wisti" <STEAM_0:0:139010478> is attempting to connect.
+[Thu Mar 19 20:24:07 2026] <STEAM_0:1:927190123> Андрей Убивалов ran command "return @"
+[Thu Mar 19 20:24:08 2026] <STEAM_0:1:927190123> Андрей Убивалов ran command "return @"
+[Thu Mar 19 20:24:58 2026] <STEAM_0:1:927190123> Андрей Убивалов ran command "menu"
+[Thu Mar 19 20:26:46 2026] <STEAM_0:1:927190123> Андрей Убивалов ran command "noclip Романов"
+[Thu Mar 19 20:26:59 2026] <STEAM_0:1:927190123> Андрей Убивалов ran command "noclip Романов"
+[Thu Mar 19 20:27:04 2026] Player "punk" <STEAM_0:0:921324874> is attempting to connect.
+[Thu Mar 19 20:29:46 2026] Player "STF | Xlebovsky" <STEAM_0:0:600387558> is attempting to connect.
+[Thu Mar 19 20:31:54 2026] Player "Wisti" <STEAM_0:0:139010478> has spawned in the server
+[Thu Mar 19 20:32:05 2026] Player "punk" <STEAM_0:0:921324874> has spawned in the server
+[Thu Mar 19 20:33:44 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [661][ladder_small2]"
+[Thu Mar 19 20:33:50 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [661][bodyman_closet]"
+[Thu Mar 19 20:34:01 2026] <STEAM_0:0:921324874> punk ran command "goto Романов"
+[Thu Mar 19 20:34:23 2026] <STEAM_0:0:921324874> punk: // пойдет кто в город?
+[Thu Mar 19 20:35:05 2026] Player "THE-_-Reper" <STEAM_0:1:526999954> has spawned in the server
+[Thu Mar 19 20:35:12 2026] Player "punk" <STEAM_0:0:921324874> has left the server
+[Thu Mar 19 20:37:35 2026] <STEAM_0:1:927190123> Андрей Убивалов spawned SENT "Entity [647][lfs_grdn_mi28nm]"
+[Thu Mar 19 20:37:37 2026] <STEAM_0:1:927190123> Андрей Убивалов spawned SENT "Entity [655][lfs_grdn_ah1z]"
+[Thu Mar 19 20:37:38 2026] <STEAM_0:1:927190123> Андрей Убивалов spawned SENT "Entity [647][lfs_grdn_ah1g]"
+[Thu Mar 19 20:41:25 2026] <STEAM_0:1:927190123> Андрей Убивалов: // ни
+[Thu Mar 19 20:43:54 2026] <STEAM_0:0:139010478> Wisti: /me Показал удостоверение Ф:Вольф| ВЗ:ППК| ЛН:10478| Д:100847| ДВ:12.12.16| СД:12.12.17
+[Thu Mar 19 20:44:09 2026] <STEAM_0:0:139010478> Wisti: /ooc Как двери открывать?
+[Thu Mar 19 20:46:04 2026] <STEAM_0:0:139010478> Wisti: /me Показал удостоверение Ф:Вольф| ВЗ:ППК| ЛН:10478| Д:100847| ДВ:12.12.16| СД:12.12.17
+[Thu Mar 19 20:47:17 2026] Player "балбес" <STEAM_0:0:837559898> is attempting to connect.
+[Thu Mar 19 20:48:48 2026] <STEAM_0:1:526999954> THE-_-Reper: /ooc а продвижение в получении формы будет ?
+[Thu Mar 19 20:48:57 2026] <STEAM_0:1:927190123> Андрей Убивалов: да
+[Thu Mar 19 20:49:00 2026] <STEAM_0:1:927190123> Андрей Убивалов: // да
+[Thu Mar 19 20:52:46 2026] <STEAM_0:0:139010478> Wisti: :cat:
+[Thu Mar 19 20:56:05 2026] <STEAM_0:1:455594560> gREG4IK ran command "goto Ramirez"
+[Thu Mar 19 20:59:33 2026] <STEAM_0:0:139010478> Wisti: Меня не слышно?
+[Thu Mar 19 21:00:03 2026] Player "балбес" <STEAM_0:0:837559898> has spawned in the server
+[Thu Mar 19 21:00:09 2026] <STEAM_0:0:139010478> Wisti: У меня нет этого задания
+[Thu Mar 19 21:01:10 2026] Player "Андрей Убивалов" <STEAM_0:1:927190123> has left the server
+[Thu Mar 19 21:02:31 2026] <STEAM_0:1:455594560> gREG4IK ran command "goto Мельник"
+[Thu Mar 19 21:02:32 2026] Player "Worshiper of God" <STEAM_0:0:74235942> is attempting to connect.
+[Thu Mar 19 21:03:42 2026] <STEAM_0:1:455594560> gREG4IK ran command "goto Baker"
+[Thu Mar 19 21:03:42 2026] <STEAM_0:0:837559898> балбес: прошел
+[Thu Mar 19 21:05:30 2026] Player "балбес" <STEAM_0:0:837559898> has left the server
+[Thu Mar 19 21:05:35 2026] Player "балбес" <STEAM_0:0:837559898> is attempting to connect.
+[Thu Mar 19 21:06:07 2026] Player "балбес" <STEAM_0:0:837559898> has spawned in the server
+[Thu Mar 19 21:06:41 2026] <STEAM_0:1:455594560> gREG4IK ran command "send Baker"
+[Thu Mar 19 21:06:51 2026] <STEAM_0:0:139010478> Wisti: Задания до сих пор не выдаются
+[Thu Mar 19 21:07:22 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [645][bodygroup]"
+[Thu Mar 19 21:07:33 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [645][bodygroup]"
+[Thu Mar 19 21:07:45 2026] <STEAM_0:1:455594560> gREG4IK used tool "permaprops"
+[Thu Mar 19 21:07:58 2026] <STEAM_0:1:455594560> gREG4IK ran command "goto Мельник"
+[Thu Mar 19 21:08:05 2026] <STEAM_0:0:837559898> балбес: да
+[Thu Mar 19 21:08:19 2026] <STEAM_0:0:837559898> балбес: я прошел обучене
+[Thu Mar 19 21:08:20 2026] <STEAM_0:1:455594560> gREG4IK ran command "send Мельник"
+[Thu Mar 19 21:09:30 2026] <STEAM_0:0:837559898> балбес: я только что гаррис мод купил
+[Thu Mar 19 21:09:39 2026] <STEAM_0:1:455594560> gREG4IK: ааа
+[Thu Mar 19 21:09:50 2026] <STEAM_0:1:455594560> gREG4IK: ты недавно тут да?
+[Thu Mar 19 21:09:57 2026] <STEAM_0:0:837559898> балбес: да
+[Thu Mar 19 21:10:03 2026] <STEAM_0:1:455594560> gREG4IK: ну это крч сервер по рп?
+[Thu Mar 19 21:10:11 2026] <STEAM_0:1:455594560> gREG4IK: с серверами рп сталкивался?
+[Thu Mar 19 21:10:19 2026] <STEAM_0:0:837559898> балбес: так то да
+[Thu Mar 19 21:10:29 2026] <STEAM_0:1:455594560> gREG4IK: хм а где?
+[Thu Mar 19 21:10:37 2026] <STEAM_0:0:837559898> балбес: гтп 5
+[Thu Mar 19 21:10:45 2026] <STEAM_0:1:455594560> gREG4IK: что рп?
+[Thu Mar 19 21:10:54 2026] <STEAM_0:1:455594560> gREG4IK: а гта5
+[Thu Mar 19 21:11:00 2026] <STEAM_0:1:455594560> gREG4IK: ну тут примерно тоже самое
+[Thu Mar 19 21:11:05 2026] <STEAM_0:1:455594560> gREG4IK: только ты боец рф
+[Thu Mar 19 21:11:08 2026] <STEAM_0:1:455594560> gREG4IK: крч я тебе все выдам
+[Thu Mar 19 21:11:12 2026] <STEAM_0:1:455594560> gREG4IK: играй почаще ок?
+[Thu Mar 19 21:11:17 2026] <STEAM_0:0:837559898> балбес: хорошо
+[Thu Mar 19 21:11:17 2026] <STEAM_0:1:455594560> gREG4IK: я потом тебе бонусы накину!
+[Thu Mar 19 21:11:23 2026] <STEAM_0:0:837559898> балбес: я кента позову
+[Thu Mar 19 21:11:38 2026] <STEAM_0:1:455594560> gREG4IK ran command "send Мельник"
+[Thu Mar 19 21:11:42 2026] <STEAM_0:0:139010478> Wisti: /me Показал удостоверение Ф:Вольф| ВЗ:ППК| ЛН:10478| Д:100847| ДВ:12.12.16| СД:12.12.17
+[Thu Mar 19 21:12:02 2026] <STEAM_0:0:837559898> балбес: пока нет
+[Thu Mar 19 21:12:41 2026] Player "Worshiper of God" <STEAM_0:0:74235942> has spawned in the server
+[Thu Mar 19 21:13:17 2026] <STEAM_0:0:74235942> Worshiper of God: /me оставил роспись за вооружение
+[Thu Mar 19 21:13:39 2026] <STEAM_0:0:74235942> Worshiper of God: /me оставил роспись за вооружение
+[Thu Mar 19 21:14:20 2026] <STEAM_0:1:455594560> gREG4IK: /ivent ВНИМАНИЯ ТОЧКИ ЗАХВАТЫВАЕМ.
+[Thu Mar 19 21:14:30 2026] <STEAM_0:1:455594560> gREG4IK: /event ВНИМАНИЯ ТОЧКИ ЗАХВАТЫВАЕМ.
+[Thu Mar 19 21:14:32 2026] <STEAM_0:1:455594560> gREG4IK: /event ВНИМАНИЯ ТОЧКИ ЗАХВАТЫВАЕМ.
+[Thu Mar 19 21:15:30 2026] <STEAM_0:1:526999954> THE-_-Reper: /ooc мне кажется захват слишком долгий , либо у меня в жопе шило
+[Thu Mar 19 21:15:44 2026] <STEAM_0:0:837559898> балбес: как захватывать
+[Thu Mar 19 21:20:10 2026] Worshiper of God has killed Wisti.
+[Thu Mar 19 21:20:55 2026] <STEAM_0:0:139010478> Wisti: /ooc Ты как живёшь то xD
+[Thu Mar 19 21:20:56 2026] балбес has killed Worshiper of God.
+[Thu Mar 19 21:21:15 2026] <STEAM_0:0:837559898> балбес: ой
+[Thu Mar 19 21:21:15 2026] <STEAM_0:0:74235942> Worshiper of God: // а ты сдох?
+[Thu Mar 19 21:21:19 2026] <STEAM_0:0:139010478> Wisti: /ooc Да
+[Thu Mar 19 21:22:14 2026] <STEAM_0:0:74235942> Worshiper of God: // я хилился просто
+[Thu Mar 19 21:23:07 2026] <STEAM_0:0:74235942> Worshiper of God: // а как захватывать то?
+[Thu Mar 19 21:23:17 2026] <STEAM_0:0:139010478> Wisti: /ooc На флаг вставай и захватывай
+[Thu Mar 19 21:23:25 2026] <STEAM_0:0:74235942> Worshiper of God: // а если не робит?
+[Thu Mar 19 21:23:31 2026] <STEAM_0:0:139010478> Wisti: /ooc Должен
+[Thu Mar 19 21:24:32 2026] Player "ТАГИЛЛА" <STEAM_0:1:782845482> is attempting to connect.
+[Thu Mar 19 21:25:25 2026] <STEAM_0:0:74235942> Worshiper of God: // нихуя
+[Thu Mar 19 21:28:00 2026] <STEAM_0:0:139010478> Wisti: /ooc Ты прям на флаг встаешь?
+[Thu Mar 19 21:29:03 2026] <STEAM_0:0:74235942> Worshiper of God: // рейд базы твоей делаем
+[Thu Mar 19 21:29:22 2026] <STEAM_0:0:139010478> Wisti: /ooc Так там всё закрыто
+[Thu Mar 19 21:29:33 2026] <STEAM_0:0:74235942> Worshiper of God: // мы открыли
+[Thu Mar 19 21:30:45 2026] <STEAM_0:1:526999954> THE-_-Reper: /looc были бы анимации
+[Thu Mar 19 21:31:34 2026] Wisti has killed балбес.
+[Thu Mar 19 21:31:43 2026] Worshiper of God has killed Wisti.
+[Thu Mar 19 21:31:53 2026] <STEAM_0:0:139010478> Wisti: /ooc А епта
+[Thu Mar 19 21:31:55 2026] THE-_-Reper has killed Worshiper of God.
+[Thu Mar 19 21:31:55 2026] THE-_-Reper has killed балбес.
+[Thu Mar 19 21:32:00 2026] <STEAM_0:0:139010478> Wisti: /ooc Это наш был xD
+[Thu Mar 19 21:32:06 2026] <STEAM_0:0:74235942> Worshiper of God: // так было не честно
+[Thu Mar 19 21:32:23 2026] <STEAM_0:0:74235942> Worshiper of God: // ты должен был в страхе писять в штаны
+[Thu Mar 19 21:32:47 2026] <STEAM_0:1:526999954> THE-_-Reper: /ooc ну мы не  ИЛ блять
+[Thu Mar 19 21:33:08 2026] <STEAM_0:0:74235942> Worshiper of God: // мы щяс опять приедем
+[Thu Mar 19 21:35:32 2026] THE-_-Reper has killed балбес.
+[Thu Mar 19 21:35:32 2026] THE-_-Reper has killed Worshiper of God.
+[Thu Mar 19 21:35:36 2026] <STEAM_0:0:74235942> Worshiper of God: // хахахах
+[Thu Mar 19 21:35:53 2026] <STEAM_0:0:74235942> Worshiper of God: // мы с одной стороны вылезли хахах
+[Thu Mar 19 21:36:15 2026] Player "Worshiper of God" <STEAM_0:0:74235942> has left the server
+[Thu Mar 19 21:36:16 2026] Player "балбес" <STEAM_0:0:837559898> has left the server
+[Thu Mar 19 21:36:24 2026] <STEAM_0:0:139010478> Wisti: /ooc Почему нельзя вражескую технику угонять? (
+[Thu Mar 19 21:37:01 2026] Player "OZOR" <STEAM_0:0:85754053> has spawned in the server
+[Thu Mar 19 21:38:41 2026] Player "OZOR" <STEAM_0:0:85754053> has left the server
+[Thu Mar 19 21:38:43 2026] <STEAM_0:1:526999954> THE-_-Reper: /ooc Грэг , на связи ?
+[Thu Mar 19 21:39:20 2026] Player "Wisti" <STEAM_0:0:139010478> has left the server
+[Thu Mar 19 21:39:29 2026] Player "OZOR" <STEAM_0:0:85754053> has spawned in the server
+[Thu Mar 19 21:39:52 2026] Player "ТАГИЛЛА" <STEAM_0:1:782845482> has spawned in the server
+[Thu Mar 19 21:40:42 2026] <STEAM_0:0:85754053> OZOR ran command "goto Грэг"
+[Thu Mar 19 21:41:06 2026] <STEAM_0:0:85754053> OZOR ran command "send Грэг"
+[Thu Mar 19 21:42:34 2026] <STEAM_0:0:85754053> OZOR: /character
+[Thu Mar 19 21:44:14 2026] <STEAM_0:0:85754053> OZOR: а он тебя целует, говорит что любит и ночами обнимает
+[Thu Mar 19 21:44:56 2026] <STEAM_0:0:85754053> OZOR: слышал про крупнокалиберный переполох?
+[Thu Mar 19 21:45:00 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [655][sw_bmp3m]"
+[Thu Mar 19 21:45:20 2026] <STEAM_0:0:85754053> OZOR: панимаю колизия
+[Thu Mar 19 21:45:36 2026] <STEAM_0:1:782845482> ТАГИЛЛА: ! о великий батюшка грег соизвольте выдать своему рабу форму боярскую загроничную ивентологовскую
+[Thu Mar 19 21:45:43 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /ppc о великий батюшка грег соизвольте выдать своему рабу форму боярскую загроничную ивентологовскую
+[Thu Mar 19 21:45:44 2026] <STEAM_0:0:85754053> OZOR: он загорелся
+[Thu Mar 19 21:45:50 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [643][sw_gaz2330]"
+[Thu Mar 19 21:45:52 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /ooc о великий батюшка грег соизвольте выдать своему рабу форму боярскую загроничную ивентологовскую
+[Thu Mar 19 21:46:06 2026] <STEAM_0:0:85754053> OZOR: ну это уже бан
+[Thu Mar 19 21:46:34 2026] <STEAM_0:0:85754053> OZOR: ахаха
+[Thu Mar 19 21:46:45 2026] <STEAM_0:0:85754053> OZOR: дно кто-то бронировал
+[Thu Mar 19 21:46:54 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [643][sw_bmp2m]"
+[Thu Mar 19 21:47:01 2026] <STEAM_0:0:85754053> OZOR: своими телами
+[Thu Mar 19 21:47:07 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [643][sw_bmp1p]"
+[Thu Mar 19 21:47:10 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [727][sw_bmp1]"
+[Thu Mar 19 21:47:16 2026] <STEAM_0:0:85754053> OZOR: видишь задние двери
+[Thu Mar 19 21:47:19 2026] Player "miron.nurmiyev" <STEAM_0:0:938628482> is attempting to connect.
+[Thu Mar 19 21:47:29 2026] <STEAM_0:0:85754053> OZOR: прикол в том, что там храниться бензин, только вот нахуй
+[Thu Mar 19 21:47:44 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /ooc григ
+[Thu Mar 19 21:47:45 2026] <STEAM_0:0:85754053> OZOR: слабенький
+[Thu Mar 19 21:47:51 2026] <STEAM_0:0:85754053> OZOR ran command "send Соколов"
+[Thu Mar 19 21:47:56 2026] <STEAM_0:0:85754053> OZOR: шо тебе дать
+[Thu Mar 19 21:47:56 2026] <STEAM_0:1:782845482> ТАГИЛЛА: ААА
+[Thu Mar 19 21:48:00 2026] <STEAM_0:1:782845482> ТАГИЛЛА: ивентолога
+[Thu Mar 19 21:48:03 2026] <STEAM_0:0:85754053> OZOR: хлопец
+[Thu Mar 19 21:48:08 2026] <STEAM_0:0:85754053> OZOR: ранг?
+[Thu Mar 19 21:48:11 2026] <STEAM_0:1:782845482> ТАГИЛЛА: сука ебаные ерорки
+[Thu Mar 19 21:48:15 2026] <STEAM_0:1:782845482> ТАГИЛЛА: евентолога дать
+[Thu Mar 19 21:48:22 2026] <STEAM_0:0:85754053> OZOR: ранг?
+[Thu Mar 19 21:48:24 2026] <STEAM_0:1:782845482> ТАГИЛЛА: ща в дс скрины кину
+[Thu Mar 19 21:48:24 2026] <STEAM_0:1:782845482> ТАГИЛЛА: да
+[Thu Mar 19 21:48:26 2026] <STEAM_0:1:782845482> ТАГИЛЛА: ран
+[Thu Mar 19 21:48:31 2026] <STEAM_0:0:85754053> OZOR ran command "menu"
+[Thu Mar 19 21:48:33 2026] <STEAM_0:1:782845482> ТАГИЛЛА: привелегию
+[Thu Mar 19 21:49:21 2026] <STEAM_0:0:85754053> OZOR ran command "menu"
+[Thu Mar 19 21:49:23 2026] <STEAM_0:1:782845482> ТАГИЛЛА: я ненавижу ерорки
+[Thu Mar 19 21:49:24 2026] <STEAM_0:0:85754053> OZOR ran command "rank Соколов iventolog 0"
+[Thu Mar 19 21:49:27 2026] <STEAM_0:1:782845482> ТАГИЛЛА: я не понимаю кто тут
+[Thu Mar 19 21:49:32 2026] <STEAM_0:0:85754053> OZOR ran command "rank Соколов eventolog 0"
+[Thu Mar 19 21:49:36 2026] <STEAM_0:1:782845482> ТАГИЛЛА: ура
+[Thu Mar 19 21:49:39 2026] <STEAM_0:1:782845482> ТАГИЛЛА: все ща
+[Thu Mar 19 21:49:42 2026] <STEAM_0:1:782845482> ТАГИЛЛА: я перезаход
+[Thu Mar 19 21:49:43 2026] Player "ТАГИЛЛА" <STEAM_0:1:782845482> has left the server
+[Thu Mar 19 21:49:47 2026] <STEAM_0:0:85754053> OZOR: кста
+[Thu Mar 19 21:49:55 2026] <STEAM_0:0:85754053> OZOR: а ты раньше играл тут?
+[Thu Mar 19 21:49:57 2026] Player "ТАГИЛЛА" <STEAM_0:1:782845482> is attempting to connect.
+[Thu Mar 19 21:50:06 2026] <STEAM_0:0:85754053> OZOR: помнишь старую базу?
+[Thu Mar 19 21:50:13 2026] <STEAM_0:0:85754053> OZOR: помнишь что тут не было дверей
+[Thu Mar 19 21:50:26 2026] <STEAM_0:0:85754053> OZOR: вот вопрос, как нахуй зайтии назад если ты перепрыгнул случайно
+[Thu Mar 19 21:50:28 2026] Player "gREG4IK" <STEAM_0:1:455594560> has left the server
+[Thu Mar 19 21:50:50 2026] <STEAM_0:0:85754053> OZOR: ну а раньше были только главныее ворота
+[Thu Mar 19 21:50:59 2026] <STEAM_0:0:85754053> OZOR: двери не было
+[Thu Mar 19 21:51:20 2026] <STEAM_0:0:85754053> OZOR: ля грег гандон посидел афк и сибался спать
+[Thu Mar 19 21:51:21 2026] <STEAM_0:0:85754053> OZOR: вояка
+[Thu Mar 19 21:51:23 2026] <STEAM_0:0:85754053> OZOR: нарядный
+[Thu Mar 19 21:51:37 2026] <STEAM_0:0:85754053> OZOR: работать нада а не спать
+[Thu Mar 19 21:52:09 2026] <STEAM_0:0:85754053> OZOR: надо добавить контракт на говновоз, чтобы тупа катались по карте
+[Thu Mar 19 21:52:22 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [628][lvs_wheeldrive_kamazfuel]"
+[Thu Mar 19 21:52:40 2026] <STEAM_0:0:85754053> OZOR: брать всм в парке?
+[Thu Mar 19 21:52:49 2026] <STEAM_0:0:85754053> OZOR: ну тока механик
+[Thu Mar 19 21:53:01 2026] <STEAM_0:0:85754053> OZOR: ну управлять ты можешь вроде
+[Thu Mar 19 21:53:08 2026] <STEAM_0:0:85754053> OZOR: зайди
+[Thu Mar 19 21:53:22 2026] <STEAM_0:0:85754053> OZOR: ну управлять хоть можете
+[Thu Mar 19 21:53:48 2026] Player "ТАГИЛЛА" <STEAM_0:1:782845482> has spawned in the server
+[Thu Mar 19 21:54:13 2026] <STEAM_0:1:782845482> ТАГИЛЛА: ! сука опять ерорм
+[Thu Mar 19 21:54:31 2026] <STEAM_0:0:85754053> OZOR: 20 лет как под наркозом я работал говновозом
+[Thu Mar 19 21:54:43 2026] Player "ТАГИЛЛА" <STEAM_0:1:782845482> has left the server
+[Thu Mar 19 21:55:00 2026] <STEAM_0:0:85754053> OZOR: хуле нам штурмам
+[Thu Mar 19 21:55:09 2026] <STEAM_0:0:85754053> OZOR: блять я невидимый ыыы
+[Thu Mar 19 21:55:12 2026] <STEAM_0:0:85754053> OZOR: в ноклипе зашел
+[Thu Mar 19 21:55:31 2026] <STEAM_0:0:85754053> OZOR: ты вернуть решил имущство
+[Thu Mar 19 21:55:38 2026] <STEAM_0:0:85754053> OZOR: нам чужого говна не нада
+[Thu Mar 19 21:55:44 2026] Player "miron.nurmiyev" <STEAM_0:0:938628482> is attempting to connect.
+[Thu Mar 19 21:55:45 2026] <STEAM_0:0:85754053> OZOR: сек останови
+[Thu Mar 19 21:55:50 2026] <STEAM_0:0:85754053> OZOR: все
+[Thu Mar 19 21:55:55 2026] <STEAM_0:0:85754053> OZOR: а то кринж я не видимый
+[Thu Mar 19 21:55:59 2026] Player "ansarhasanov56" <STEAM_0:0:776736301> is attempting to connect.
+[Thu Mar 19 21:56:16 2026] <STEAM_0:0:85754053> OZOR: надо ивент объявить: говни на говновозах
+[Thu Mar 19 21:56:18 2026] <STEAM_0:0:85754053> OZOR: за приз
+[Thu Mar 19 21:56:24 2026] <STEAM_0:0:85754053> OZOR: гонки*
+[Thu Mar 19 21:56:47 2026] <STEAM_0:0:85754053> OZOR: играл в mudranner или snowrunner?
+[Thu Mar 19 21:57:04 2026] <STEAM_0:0:85754053> OZOR: вот там говновозы так говновозы
+[Thu Mar 19 21:57:15 2026] <STEAM_0:0:85754053> OZOR: че спросить хотел
+[Thu Mar 19 21:57:51 2026] <STEAM_0:0:85754053> OZOR: от третьего лица техника будто в 15 фпс едет
+[Thu Mar 19 21:57:55 2026] <STEAM_0:0:85754053> OZOR: от первого лица норм
+[Thu Mar 19 21:58:21 2026] <STEAM_0:0:85754053> OZOR: я рот конечно ебал этих окопы копать
+[Thu Mar 19 21:58:58 2026] <STEAM_0:0:85754053> OZOR ran command "menu"
+[Thu Mar 19 21:59:57 2026] <STEAM_0:0:85754053> OZOR: владимирский централ
+[Thu Mar 19 22:00:13 2026] <STEAM_0:0:85754053> OZOR: этапом из твери зла немерена
+[Thu Mar 19 22:00:16 2026] Player "ТАГИЛЛА" <STEAM_0:1:782845482> is attempting to connect.
+[Thu Mar 19 22:00:25 2026] <STEAM_0:0:85754053> OZOR: блять эта тагила когда -нибудь зайдет
+[Thu Mar 19 22:00:28 2026] <STEAM_0:0:85754053> OZOR: кто?
+[Thu Mar 19 22:00:37 2026] <STEAM_0:0:85754053> OZOR: вертолеты
+[Thu Mar 19 22:00:43 2026] <STEAM_0:0:85754053> OZOR: ну на сервере нет пока что
+[Thu Mar 19 22:00:53 2026] <STEAM_0:0:85754053> OZOR: ну будут как развитие получит сервер онлайна
+[Thu Mar 19 22:01:03 2026] <STEAM_0:0:85754053> OZOR: какая техника?
+[Thu Mar 19 22:01:08 2026] Player "ТАГИЛЛА" <STEAM_0:1:782845482> has spawned in the server
+[Thu Mar 19 22:01:11 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [641][lvs_wheeldrive_hummer_m2]"
+[Thu Mar 19 22:01:18 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [676][lvs_wheeldrive_hummer_m240]"
+[Thu Mar 19 22:01:20 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [641][lvs_wheeldrive_hummer_mk19]"
+[Thu Mar 19 22:01:22 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [700][lvs_wheeldrive_hummer_tow]"
+[Thu Mar 19 22:01:27 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [724][lvs_wheeldrive_hummer_m134]"
+[Thu Mar 19 22:01:34 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [641][sw_matv]"
+[Thu Mar 19 22:01:36 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [686][sw_matv_m2]"
+[Thu Mar 19 22:01:38 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [720][sw_matv_mk19]"
+[Thu Mar 19 22:01:44 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [641][lvs_wheeldrive_m3a3]"
+[Thu Mar 19 22:01:56 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [641][lvs_wheeldrive_rp_dabrams_m1a1]"
+[Thu Mar 19 22:02:03 2026] <STEAM_0:0:85754053> OZOR: ну и все по сша вроде
+[Thu Mar 19 22:02:21 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [641][sw_hemtt_fuel]"
+[Thu Mar 19 22:02:33 2026] <STEAM_0:0:85754053> OZOR: большой говновоз
+[Thu Mar 19 22:02:44 2026] <STEAM_0:0:85754053> OZOR: ну он пизже сделан
+[Thu Mar 19 22:02:46 2026] <STEAM_0:0:85754053> OZOR: и залон есть
+[Thu Mar 19 22:02:51 2026] <STEAM_0:0:85754053> OZOR: а тот бобик из армы 2
+[Thu Mar 19 22:02:55 2026] <STEAM_0:0:85754053> OZOR: бедалага
+[Thu Mar 19 22:03:11 2026] <STEAM_0:0:85754053> OZOR: ебать тут сделаны следы от ног
+[Thu Mar 19 22:03:23 2026] <STEAM_0:0:85754053> OZOR: тварь какая -то задирала ноги на приборку
+[Thu Mar 19 22:03:38 2026] <STEAM_0:0:85754053> OZOR: дерево
+[Thu Mar 19 22:04:33 2026] <STEAM_0:0:85754053> OZOR: знать бы
+[Thu Mar 19 22:04:33 2026] <STEAM_0:1:782845482> ТАГИЛЛА: оришнику
+[Thu Mar 19 22:04:43 2026] <STEAM_0:1:782845482> ТАГИЛЛА: дайте к вам
+[Thu Mar 19 22:04:47 2026] <STEAM_0:0:85754053> OZOR: я ваще только по техичке, за лс не отвечаю
+[Thu Mar 19 22:04:51 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [630][sw_hemtt_troop]"
+[Thu Mar 19 22:05:06 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [630][sw_hemtt_cargo]"
+[Thu Mar 19 22:05:08 2026] <STEAM_0:0:85754053> OZOR: суки
+[Thu Mar 19 22:05:11 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [630][lvs_wheeldrive_hummer_m2]"
+[Thu Mar 19 22:05:14 2026] <STEAM_0:1:782845482> ТАГИЛЛА: фсб топ кста
+[Thu Mar 19 22:05:21 2026] <STEAM_0:1:782845482> ТАГИЛЛА: фсб топ кста
+[Thu Mar 19 22:05:24 2026] <STEAM_0:1:782845482> ТАГИЛЛА: я ток что потестил
+[Thu Mar 19 22:05:26 2026] <STEAM_0:1:782845482> ТАГИЛЛА: это пизда
+[Thu Mar 19 22:05:33 2026] <STEAM_0:1:782845482> ТАГИЛЛА: крюк
+[Thu Mar 19 22:05:34 2026] <STEAM_0:1:782845482> ТАГИЛЛА: ак 12
+[Thu Mar 19 22:05:38 2026] <STEAM_0:1:782845482> ТАГИЛЛА: боб строитель
+[Thu Mar 19 22:05:40 2026] <STEAM_0:1:782845482> ТАГИЛЛА: 200 брони
+[Thu Mar 19 22:05:48 2026] <STEAM_0:0:85754053> OZOR: форсаж
+[Thu Mar 19 22:05:57 2026] <STEAM_0:1:782845482> ТАГИЛЛА: освобожднны
+[Thu Mar 19 22:06:13 2026] <STEAM_0:1:782845482> ТАГИЛЛА: нармалды снова ивентолог
+[Thu Mar 19 22:06:15 2026] <STEAM_0:1:782845482> ТАГИЛЛА: снова завозы
+[Thu Mar 19 22:06:16 2026] <STEAM_0:0:85754053> OZOR: ярик блять
+[Thu Mar 19 22:06:20 2026] <STEAM_0:0:85754053> OZOR: бочик потик
+[Thu Mar 19 22:06:27 2026] <STEAM_0:1:782845482> ТАГИЛЛА spawned prop "Entity [678][prop_physics] (models/Combine_Helicopter/helicopter_bomb01.mdl)"
+[Thu Mar 19 22:06:33 2026] Player "ansarhasanov56" <STEAM_0:0:776736301> has spawned in the server
+[Thu Mar 19 22:06:47 2026] <STEAM_0:1:782845482> ТАГИЛЛА: я думаю лд надо снть
+[Thu Mar 19 22:06:54 2026] <STEAM_0:0:85754053> OZOR: кто ета
+[Thu Mar 19 22:06:54 2026] <STEAM_0:1:782845482> ТАГИЛЛА: не кто из них не онлайнит
+[Thu Mar 19 22:07:09 2026] <STEAM_0:1:782845482> ТАГИЛЛА: лидеры
+[Thu Mar 19 22:07:15 2026] <STEAM_0:1:782845482> ТАГИЛЛА: всех
+[Thu Mar 19 22:07:17 2026] <STEAM_0:0:85754053> OZOR: людей
+[Thu Mar 19 22:07:31 2026] <STEAM_0:0:85754053> OZOR: а личного состава нема
+[Thu Mar 19 22:07:37 2026] <STEAM_0:1:782845482> ТАГИЛЛА: я бы взял
+[Thu Mar 19 22:07:38 2026] <STEAM_0:1:782845482> ТАГИЛЛА: нго
+[Thu Mar 19 22:07:41 2026] <STEAM_0:1:782845482> ТАГИЛЛА: на лд нато
+[Thu Mar 19 22:07:55 2026] <STEAM_0:0:85754053> OZOR: я
+[Thu Mar 19 22:07:56 2026] <STEAM_0:0:85754053> OZOR: хаха
+[Thu Mar 19 22:07:59 2026] <STEAM_0:1:782845482> ТАГИЛЛА: пагади
+[Thu Mar 19 22:08:01 2026] <STEAM_0:1:782845482> ТАГИЛЛА: сьлй
+[Thu Mar 19 22:08:03 2026] <STEAM_0:0:85754053> OZOR: надо там знак стоп сделать
+[Thu Mar 19 22:08:03 2026] <STEAM_0:1:782845482> ТАГИЛЛА: стой
+[Thu Mar 19 22:08:10 2026] <STEAM_0:1:782845482> ТАГИЛЛА: че за звук
+[Thu Mar 19 22:08:14 2026] <STEAM_0:0:85754053> OZOR: там был кста проезд по реке
+[Thu Mar 19 22:08:15 2026] <STEAM_0:1:782845482> ТАГИЛЛА spawned prop "Entity [678][prop_physics] (models/props_c17/gravestone001a.mdl)"
+[Thu Mar 19 22:08:18 2026] <STEAM_0:0:85754053> OZOR: я так понял это не выкупается
+[Thu Mar 19 22:08:25 2026] <STEAM_0:0:85754053> OZOR: бля
+[Thu Mar 19 22:08:34 2026] <STEAM_0:0:85754053> OZOR: по рп
+[Thu Mar 19 22:08:41 2026] <STEAM_0:1:782845482> ТАГИЛЛА: рп отрыв бк
+[Thu Mar 19 22:08:58 2026] <STEAM_0:1:782845482> ТАГИЛЛА: пошлите тулиться
+[Thu Mar 19 22:09:10 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /me показал удостоверение военнослужащего МСОП. Eфрейтор Паринов. 
+[Thu Mar 19 22:09:13 2026] <STEAM_0:1:526999954> THE-_-Reper: /y Сдавайся пидр ! Другого варианта нет , если хочешь жить сложи оружие
+[Thu Mar 19 22:09:15 2026] <STEAM_0:1:782845482> ТАГИЛЛА: о там призывник
+[Thu Mar 19 22:09:21 2026] <STEAM_0:0:85754053> OZOR: я так и задумал
+[Thu Mar 19 22:09:28 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [630][lvs_wheeldrive_m3a3]"
+[Thu Mar 19 22:09:38 2026] <STEAM_0:0:85754053> OZOR: сука
+[Thu Mar 19 22:09:40 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [630][sw_bmp1p]"
+[Thu Mar 19 22:09:42 2026] <STEAM_0:0:85754053> OZOR: аэту
+[Thu Mar 19 22:09:44 2026] <STEAM_0:1:782845482> ТАГИЛЛА: привет)
+[Thu Mar 19 22:10:06 2026] <STEAM_0:0:85754053> OZOR: го в город
+[Thu Mar 19 22:10:12 2026] <STEAM_0:0:85754053> OZOR: чечня
+[Thu Mar 19 22:10:49 2026] <STEAM_0:0:85754053> OZOR: стой
+[Thu Mar 19 22:10:53 2026] <STEAM_0:0:85754053> OZOR: назад четка
+[Thu Mar 19 22:10:56 2026] <STEAM_0:0:85754053> OZOR: до угла
+[Thu Mar 19 22:11:07 2026] <STEAM_0:0:776736301> ansarhasanov56: привет, как с инструктором поговорить
+[Thu Mar 19 22:11:26 2026] <STEAM_0:1:782845482> ТАГИЛЛА: видемо не как
+[Thu Mar 19 22:11:27 2026] <STEAM_0:1:782845482> ТАГИЛЛА: щас
+[Thu Mar 19 22:11:30 2026] <STEAM_0:1:782845482> ТАГИЛЛА: секунду
+[Thu Mar 19 22:11:44 2026] <STEAM_0:0:85754053> OZOR: тупик
+[Thu Mar 19 22:11:44 2026] <STEAM_0:0:85754053> OZOR: ы
+[Thu Mar 19 22:11:53 2026] <STEAM_0:0:85754053> OZOR: надо бы подумать над разрушаемостью
+[Thu Mar 19 22:12:03 2026] <STEAM_0:0:85754053> OZOR: ваще я продумывал город так чтобы тут техника не каталась
+[Thu Mar 19 22:12:09 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /occ как в рп чат писать
+[Thu Mar 19 22:12:10 2026] <STEAM_0:0:85754053> OZOR: а разрушаемасть будет примитивная
+[Thu Mar 19 22:12:15 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /ooc как в рп чат писать
+[Thu Mar 19 22:12:25 2026] <STEAM_0:1:526999954> THE-_-Reper: /ad [RP] ?
+[Thu Mar 19 22:12:25 2026] <STEAM_0:0:85754053> OZOR: просто треляешь и объект меняется на модель разрушеную и без колизии
+[Thu Mar 19 22:12:36 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /fm слышь пендос я щас приеду резать тебя буду
+[Thu Mar 19 22:12:41 2026] <STEAM_0:0:85754053> OZOR: // /rf
+[Thu Mar 19 22:12:49 2026] <STEAM_0:0:85754053> OZOR: // /nato
+[Thu Mar 19 22:12:54 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /rf слышь пендос я щас приеду резать тебя дубу
+[Thu Mar 19 22:13:12 2026] <STEAM_0:0:85754053> OZOR: // а ну это защищеная сеть имелась ввиду
+[Thu Mar 19 22:13:25 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /ooc не в защищ
+[Thu Mar 19 22:13:28 2026] <STEAM_0:0:85754053> OZOR: /rf просто в ООС наверное можно
+[Thu Mar 19 22:13:34 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /ooc -
+[Thu Mar 19 22:14:19 2026] <STEAM_0:0:85754053> OZOR: сука закрыли
+[Thu Mar 19 22:14:31 2026] <STEAM_0:0:85754053> OZOR: щас базу тебе разибу
+[Thu Mar 19 22:14:52 2026] <STEAM_0:1:782845482> ТАГИЛЛА spawned SENT "Entity [683][sw_gaz2330_kord_auto]"
+[Thu Mar 19 22:15:10 2026] <STEAM_0:0:85754053> OZOR: плывем
+[Thu Mar 19 22:15:18 2026] <STEAM_0:0:85754053> OZOR: мы плаваем технически
+[Thu Mar 19 22:15:46 2026] Player "gerch1kk" <STEAM_0:1:897894856> is attempting to connect.
+[Thu Mar 19 22:15:51 2026] <STEAM_0:0:85754053> OZOR: опа грег
+[Thu Mar 19 22:15:56 2026] <STEAM_0:0:85754053> OZOR: я его называю ГРЕХ
+[Thu Mar 19 22:16:05 2026] <STEAM_0:1:782845482> ТАГИЛЛА ran command "goto Ковалев"
+[Thu Mar 19 22:16:06 2026] <STEAM_0:0:85754053> OZOR: глуши иваныч
+[Thu Mar 19 22:16:17 2026] <STEAM_0:0:85754053> OZOR: приехали так сказать
+[Thu Mar 19 22:16:26 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [643][sw_bmp2]"
+[Thu Mar 19 22:16:33 2026] <STEAM_0:1:782845482> ТАГИЛЛА: ааа дезертир
+[Thu Mar 19 22:16:39 2026] ТАГИЛЛА has killed OZOR.
+[Thu Mar 19 22:16:39 2026] ТАГИЛЛА has killed ТАГИЛЛА.
+[Thu Mar 19 22:16:39 2026] ТАГИЛЛА has killed THE-_-Reper.
+[Thu Mar 19 22:16:47 2026] <STEAM_0:1:782845482> ТАГИЛЛА: !  а как я сдох
+[Thu Mar 19 22:16:52 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /ooc как я сдох
+[Thu Mar 19 22:16:56 2026] <STEAM_0:1:526999954> THE-_-Reper: /ooc а какого извините хуя это было ?
+[Thu Mar 19 22:16:58 2026] <STEAM_0:1:782845482> ТАГИЛЛА ran command "respawn Соколов"
+[Thu Mar 19 22:17:03 2026] <STEAM_0:1:526999954> THE-_-Reper: /ooc беху с гп ?
+[Thu Mar 19 22:17:13 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /ooc это проверка
+[Thu Mar 19 22:17:17 2026] <STEAM_0:0:85754053> OZOR: /character
+[Thu Mar 19 22:17:22 2026] <STEAM_0:0:85754053> OZOR: ета да
+[Thu Mar 19 22:17:55 2026] <STEAM_0:1:782845482> ТАГИЛЛА: ЭЭ
+[Thu Mar 19 22:17:55 2026] <STEAM_0:0:85754053> OZOR: может хасанова сюда
+[Thu Mar 19 22:18:00 2026] <STEAM_0:0:85754053> OZOR ran command "send Хасанов"
+[Thu Mar 19 22:18:03 2026] <STEAM_0:1:782845482> ТАГИЛЛА: ну он тупа хасанит
+[Thu Mar 19 22:18:04 2026] <STEAM_0:0:85754053> OZOR: опа
+[Thu Mar 19 22:18:06 2026] <STEAM_0:0:85754053> OZOR: здрасьте
+[Thu Mar 19 22:18:13 2026] <STEAM_0:0:85754053> OZOR: намана
+[Thu Mar 19 22:18:20 2026] <STEAM_0:1:782845482> ТАГИЛЛА: я хочу в фэсэбэ
+[Thu Mar 19 22:18:22 2026] <STEAM_0:0:85754053> OZOR: у нас прекращение огня
+[Thu Mar 19 22:18:26 2026] <STEAM_0:1:782845482> ТАГИЛЛА: и в вихр
+[Thu Mar 19 22:18:27 2026] <STEAM_0:0:85754053> OZOR: а я тут причем
+[Thu Mar 19 22:18:36 2026] <STEAM_0:1:782845482> ТАГИЛЛА: биссми
+[Thu Mar 19 22:18:37 2026] <STEAM_0:1:782845482> ТАГИЛЛА: лях
+[Thu Mar 19 22:18:39 2026] <STEAM_0:0:85754053> OZOR: я ваще лох на кодере
+[Thu Mar 19 22:18:45 2026] <STEAM_0:1:782845482> ТАГИЛЛА: испугались
+[Thu Mar 19 22:18:46 2026] <STEAM_0:1:782845482> ТАГИЛЛА: я вижу
+[Thu Mar 19 22:19:08 2026] <STEAM_0:1:782845482> ТАГИЛЛА: дай погляжу скок урона
+[Thu Mar 19 22:19:14 2026] <STEAM_0:0:85754053> OZOR: эээ бля
+[Thu Mar 19 22:19:17 2026] <STEAM_0:1:782845482> ТАГИЛЛА: больн?
+[Thu Mar 19 22:19:21 2026] <STEAM_0:0:85754053> OZOR: больна
+[Thu Mar 19 22:19:26 2026] <STEAM_0:1:782845482> ТАГИЛЛА: большие города
+[Thu Mar 19 22:19:37 2026] <STEAM_0:0:85754053> OZOR: дверь запили
+[Thu Mar 19 22:19:39 2026] <STEAM_0:1:782845482> ТАГИЛЛА: а так
+[Thu Mar 19 22:19:40 2026] <STEAM_0:0:85754053> OZOR: суки
+[Thu Mar 19 22:19:48 2026] <STEAM_0:0:85754053> OZOR: де тапки проебал
+[Thu Mar 19 22:19:48 2026] <STEAM_0:1:782845482> ТАГИЛЛА: это что за полупокер
+[Thu Mar 19 22:19:56 2026] <STEAM_0:0:85754053> OZOR: да сука
+[Thu Mar 19 22:19:59 2026] <STEAM_0:0:85754053> OZOR: лечите
+[Thu Mar 19 22:20:06 2026] <STEAM_0:1:782845482> ТАГИЛЛА ran command "hp Ozor 1111"
+[Thu Mar 19 22:20:13 2026] <STEAM_0:1:782845482> ТАГИЛЛА ran command "hp Ozor 120"
+[Thu Mar 19 22:20:19 2026] <STEAM_0:0:85754053> OZOR: пол упокер
+[Thu Mar 19 22:20:26 2026] <STEAM_0:1:782845482> ТАГИЛЛА: на колени суки амереканские
+[Thu Mar 19 22:20:36 2026] <STEAM_0:1:782845482> ТАГИЛЛА: а ну ладн
+[Thu Mar 19 22:21:00 2026] <STEAM_0:1:782845482> ТАГИЛЛА: ДА КУДА
+[Thu Mar 19 22:21:02 2026] <STEAM_0:1:782845482> ТАГИЛЛА: ПОД СТВОЛ
+[Thu Mar 19 22:21:02 2026] <STEAM_0:0:85754053> OZOR: да блять
+[Thu Mar 19 22:21:30 2026] ansarhasanov56 has killed THE-_-Reper.
+[Thu Mar 19 22:21:33 2026] ansarhasanov56 has killed ТАГИЛЛА.
+[Thu Mar 19 22:21:33 2026] <STEAM_0:1:782845482> ТАГИЛЛА: витязь кста
+[Thu Mar 19 22:21:35 2026] ansarhasanov56 has killed OZOR.
+[Thu Mar 19 22:21:36 2026] <STEAM_0:1:782845482> ТАГИЛЛА ran command "respawn Соколов"
+[Thu Mar 19 22:21:39 2026] <STEAM_0:0:85754053> OZOR: // панимаю
+[Thu Mar 19 22:21:48 2026] <STEAM_0:0:85754053> OZOR ran command "respawn Соколов"
+[Thu Mar 19 22:21:51 2026] <STEAM_0:0:85754053> OZOR ran command "respawn Ozor"
+[Thu Mar 19 22:21:56 2026] <STEAM_0:0:85754053> OZOR ran command "respawn Ramirez"
+[Thu Mar 19 22:21:58 2026] <STEAM_0:1:782845482> ТАГИЛЛА ran command "kick Хасанов RDM"
+[Thu Mar 19 22:21:58 2026] Player "ansarhasanov56" <STEAM_0:0:776736301> has left the server
+[Thu Mar 19 22:22:03 2026] <STEAM_0:0:85754053> OZOR: вот так и пускай
+[Thu Mar 19 22:22:29 2026] ТАГИЛЛА has killed OZOR.
+[Thu Mar 19 22:22:34 2026] <STEAM_0:1:782845482> ТАГИЛЛА: че
+[Thu Mar 19 22:22:38 2026] <STEAM_0:0:85754053> OZOR: /nato ебашь его
+[Thu Mar 19 22:22:42 2026] <STEAM_0:1:782845482> ТАГИЛЛА ran command "respawn ozor"
+[Thu Mar 19 22:22:42 2026] THE-_-Reper has killed ТАГИЛЛА.
+[Thu Mar 19 22:22:45 2026] <STEAM_0:1:782845482> ТАГИЛЛА: ! как ты умер
+[Thu Mar 19 22:22:45 2026] <STEAM_0:0:85754053> OZOR ran command "respawn Ozor"
+[Thu Mar 19 22:22:49 2026] <STEAM_0:1:782845482> ТАГИЛЛА: ! я в дверь стрелял
+[Thu Mar 19 22:22:53 2026] <STEAM_0:0:85754053> OZOR: в плен его
+[Thu Mar 19 22:22:57 2026] THE-_-Reper has killed ТАГИЛЛА.
+[Thu Mar 19 22:23:02 2026] <STEAM_0:1:526999954> THE-_-Reper: /y Сдавайся пидр ! Другого варианта нет , если хочешь жить сложи оружие
+[Thu Mar 19 22:23:02 2026] <STEAM_0:1:526999954> THE-_-Reper: /y Сдавайся пидр ! Другого варианта нет , если хочешь жить сложи оружие
+[Thu Mar 19 22:23:03 2026] <STEAM_0:1:526999954> THE-_-Reper: /y Сдавайся пидр ! Другого варианта нет , если хочешь жить сложи оружие
+[Thu Mar 19 22:23:04 2026] <STEAM_0:1:526999954> THE-_-Reper: /y Сдавайся пидр ! Другого варианта нет , если хочешь жить сложи оружие
+[Thu Mar 19 22:23:05 2026] <STEAM_0:1:526999954> THE-_-Reper: /y Сдавайся пидр ! Другого варианта нет , если хочешь жить сложи оружие
+[Thu Mar 19 22:23:07 2026] THE-_-Reper has killed ТАГИЛЛА.
+[Thu Mar 19 22:23:10 2026] <STEAM_0:1:782845482> ТАГИЛЛА: да сука
+[Thu Mar 19 22:23:30 2026] <STEAM_0:1:782845482> ТАГИЛЛА: Э СУКА
+[Thu Mar 19 22:23:35 2026] <STEAM_0:0:85754053> OZOR: абузер
+[Thu Mar 19 22:23:37 2026] <STEAM_0:1:782845482> ТАГИЛЛА ran command "respawn Соколов"
+[Thu Mar 19 22:23:47 2026] <STEAM_0:1:782845482> ТАГИЛЛА ran command "respawn Соколов"
+[Thu Mar 19 22:23:56 2026] <STEAM_0:0:85754053> OZOR: надо сделать фриз после респавна на 3 секу
+[Thu Mar 19 22:24:07 2026] <STEAM_0:0:85754053> OZOR: а то как карасик скользкие
+[Thu Mar 19 22:24:09 2026] <STEAM_0:1:782845482> ТАГИЛЛА ran command "hp Тагилла 0"
+[Thu Mar 19 22:24:10 2026] <STEAM_0:1:782845482> ТАГИЛЛА ran command "hp Тагилла 0"
+[Thu Mar 19 22:24:19 2026] worldspawn has killed ТАГИЛЛА.
+[Thu Mar 19 22:24:19 2026] <STEAM_0:0:85754053> OZOR ran command "send Соколов"
+[Thu Mar 19 22:24:31 2026] <STEAM_0:0:85754053> OZOR: // к ноге
+[Thu Mar 19 22:24:33 2026] <STEAM_0:0:85754053> OZOR ran command "send Соколов"
+[Thu Mar 19 22:24:34 2026] worldspawn has killed ТАГИЛЛА.
+[Thu Mar 19 22:24:36 2026] <STEAM_0:0:85754053> OZOR: зазаза
+[Thu Mar 19 22:24:37 2026] <STEAM_0:1:782845482> ТАГИЛЛА ran command "respawn Соколов"
+[Thu Mar 19 22:24:47 2026] Player "ansarhasanov56" <STEAM_0:0:776736301> is attempting to connect.
+[Thu Mar 19 22:24:48 2026] <STEAM_0:0:85754053> OZOR: он летел умирать и скорость сохранилась
+[Thu Mar 19 22:24:53 2026] <STEAM_0:0:85754053> OZOR ran command "send Соколов"
+[Thu Mar 19 22:24:58 2026] <STEAM_0:0:85754053> OZOR ran command "send Соколов"
+[Thu Mar 19 22:25:06 2026] worldspawn has killed ТАГИЛЛА.
+[Thu Mar 19 22:25:09 2026] <STEAM_0:1:782845482> ТАГИЛЛА ran command "respawn Соколов"
+[Thu Mar 19 22:25:15 2026] <STEAM_0:0:85754053> OZOR ran command "send Соколов"
+[Thu Mar 19 22:25:18 2026] ТАГИЛЛА has killed OZOR.
+[Thu Mar 19 22:25:21 2026] <STEAM_0:0:85754053> OZOR ran command "respawn Ozor"
+[Thu Mar 19 22:25:28 2026] THE-_-Reper has killed THE-_-Reper.
+[Thu Mar 19 22:25:28 2026] THE-_-Reper has killed ТАГИЛЛА.
+[Thu Mar 19 22:25:31 2026] <STEAM_0:0:85754053> OZOR: хаха
+[Thu Mar 19 22:25:33 2026] <STEAM_0:1:782845482> ТАГИЛЛА ran command "respawn Соколов"
+[Thu Mar 19 22:25:35 2026] Player "ansarhasanov56" <STEAM_0:0:776736301> has spawned in the server
+[Thu Mar 19 22:25:42 2026] <STEAM_0:0:85754053> OZOR: эпично
+[Thu Mar 19 22:25:52 2026] <STEAM_0:1:782845482> ТАГИЛЛА: !  я мышку сломал
+[Thu Mar 19 22:26:04 2026] <STEAM_0:0:85754053> OZOR: да норм
+[Thu Mar 19 22:26:09 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /ooc я мышку сломал
+[Thu Mar 19 22:26:13 2026] <STEAM_0:0:85754053> OZOR: ааха
+[Thu Mar 19 22:26:19 2026] <STEAM_0:1:526999954> THE-_-Reper: /ooc зачем ?
+[Thu Mar 19 22:26:20 2026] <STEAM_0:0:85754053> OZOR: ты его в реале задамажил
+[Thu Mar 19 22:26:22 2026] <STEAM_0:0:776736301> ansarhasanov56: сорян ребята, произошло недоразумения
+[Thu Mar 19 22:26:35 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /ooc хз
+[Thu Mar 19 22:26:43 2026] <STEAM_0:0:85754053> OZOR: хасанов вернулся
+[Thu Mar 19 22:26:54 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /ooc а не батарейки сели я их погрыз
+[Thu Mar 19 22:27:01 2026] <STEAM_0:0:85754053> OZOR ran command "send Соколов"
+[Thu Mar 19 22:27:10 2026] <STEAM_0:1:526999954> THE-_-Reper: /ooc Зачем ты грыз батарейки ?
+[Thu Mar 19 22:27:28 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /ooc чтоб заработали
+[Thu Mar 19 22:28:08 2026] <STEAM_0:0:85754053> OZOR: зараза
+[Thu Mar 19 22:28:11 2026] <STEAM_0:0:85754053> OZOR: это он
+[Thu Mar 19 22:28:14 2026] <STEAM_0:0:85754053> OZOR: он летает
+[Thu Mar 19 22:28:18 2026] <STEAM_0:0:85754053> OZOR: и сдази ебашит
+[Thu Mar 19 22:28:28 2026] ТАГИЛЛА has killed THE-_-Reper.
+[Thu Mar 19 22:28:28 2026] ТАГИЛЛА has killed OZOR.
+[Thu Mar 19 22:28:31 2026] <STEAM_0:0:85754053> OZOR: блять
+[Thu Mar 19 22:28:33 2026] <STEAM_0:0:85754053> OZOR ran command "respawn Ozor"
+[Thu Mar 19 22:28:35 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /ooc опаа
+[Thu Mar 19 22:28:36 2026] <STEAM_0:0:85754053> OZOR ran command "send Ramirez"
+[Thu Mar 19 22:28:42 2026] <STEAM_0:0:85754053> OZOR: ты че кнопки перепутал
+[Thu Mar 19 22:28:46 2026] <STEAM_0:0:85754053> OZOR: или это ты
+[Thu Mar 19 22:28:55 2026] ТАГИЛЛА has killed OZOR.
+[Thu Mar 19 22:28:59 2026] <STEAM_0:0:85754053> OZOR ran command "respawn Ozor"
+[Thu Mar 19 22:29:22 2026] OZOR has killed ТАГИЛЛА.
+[Thu Mar 19 22:29:25 2026] <STEAM_0:1:782845482> ТАГИЛЛА ran command "respawn Соколов"
+[Thu Mar 19 22:29:30 2026] Player "ansarhasanov56" <STEAM_0:0:776736301> has left the server
+[Thu Mar 19 22:29:34 2026] <STEAM_0:0:85754053> OZOR ran command "god Ozor"
+[Thu Mar 19 22:30:00 2026] <STEAM_0:0:85754053> OZOR: газонюх
+[Thu Mar 19 22:30:01 2026] Player "ansarhasanov56" <STEAM_0:0:776736301> is attempting to connect.
+[Thu Mar 19 22:30:33 2026] Player "ansarhasanov56" <STEAM_0:0:776736301> has spawned in the server
+[Thu Mar 19 22:30:44 2026] <STEAM_0:0:85754053> OZOR: новый класс на сервер - газонюхи
+[Thu Mar 19 22:30:53 2026] Player "ansarhasanov56" <STEAM_0:0:776736301> has left the server
+[Thu Mar 19 22:30:53 2026] <STEAM_0:1:526999954> THE-_-Reper: /me исполнил партийное приветствие 
+[Thu Mar 19 22:30:57 2026] <STEAM_0:1:526999954> THE-_-Reper: /me исполнил партийное приветствие 
+[Thu Mar 19 22:31:01 2026] <STEAM_0:0:85754053> OZOR: панимаю
+[Thu Mar 19 22:31:06 2026] <STEAM_0:0:85754053> OZOR: он мышку сломал
+[Thu Mar 19 22:31:07 2026] <STEAM_0:0:85754053> OZOR: хахах
+[Thu Mar 19 22:31:09 2026] <STEAM_0:1:526999954> THE-_-Reper: /y Сдавайся пидр ! Другого варианта нет , если хочешь жить сложи оружие
+[Thu Mar 19 22:31:11 2026] <STEAM_0:1:526999954> THE-_-Reper: /y Иди нахуй , Русские не сдаются 
+[Thu Mar 19 22:31:21 2026] <STEAM_0:0:85754053> OZOR: хазе
+[Thu Mar 19 22:31:25 2026] <STEAM_0:0:85754053> OZOR: но не на твиче
+[Thu Mar 19 22:31:30 2026] <STEAM_0:1:526999954> THE-_-Reper: /y Сдавайся пидр ! Другого варианта нет , если хочешь жить сложи оружие
+[Thu Mar 19 22:31:43 2026] <STEAM_0:0:85754053> OZOR: нодо под язык и ножом
+[Thu Mar 19 22:32:28 2026] <STEAM_0:0:85754053> OZOR: оружее конечно космическое какое-то
+[Thu Mar 19 22:32:36 2026] <STEAM_0:0:85754053> OZOR: каво
+[Thu Mar 19 22:32:38 2026] <STEAM_0:1:526999954> THE-_-Reper: /me исполнил партийное приветствие 
+[Thu Mar 19 22:32:39 2026] <STEAM_0:1:526999954> THE-_-Reper: /me исполнил партийное приветствие 
+[Thu Mar 19 22:32:44 2026] <STEAM_0:0:85754053> OZOR: всм
+[Thu Mar 19 22:32:47 2026] <STEAM_0:1:782845482> ТАГИЛЛА ran command "send Ramirez"
+[Thu Mar 19 22:32:53 2026] <STEAM_0:0:85754053> OZOR ran command "goto Ramirez"
+[Thu Mar 19 22:33:01 2026] <STEAM_0:0:85754053> OZOR: паранойк
+[Thu Mar 19 22:33:19 2026] ТАГИЛЛА has killed THE-_-Reper.
+[Thu Mar 19 22:33:22 2026] <STEAM_0:0:85754053> OZOR: пытается меня убить в год моде
+[Thu Mar 19 22:33:25 2026] ТАГИЛЛА has killed ТАГИЛЛА.
+[Thu Mar 19 22:33:25 2026] <STEAM_0:0:85754053> OZOR ran command "slay Соколов"
+[Thu Mar 19 22:33:29 2026] <STEAM_0:1:782845482> ТАГИЛЛА ran command "respawn Соколов"
+[Thu Mar 19 22:33:37 2026] ТАГИЛЛА has killed THE-_-Reper.
+[Thu Mar 19 22:33:38 2026] ТАГИЛЛА has killed ТАГИЛЛА.
+[Thu Mar 19 22:33:38 2026] <STEAM_0:0:85754053> OZOR ran command "slay Соколов"
+[Thu Mar 19 22:33:40 2026] <STEAM_0:1:782845482> ТАГИЛЛА ran command "respawn Соколов"
+[Thu Mar 19 22:33:45 2026] ТАГИЛЛА has killed THE-_-Reper.
+[Thu Mar 19 22:33:57 2026] <STEAM_0:0:85754053> OZOR ran command "rank Соколов user 0"
+[Thu Mar 19 22:34:01 2026] ТАГИЛЛА has killed ТАГИЛЛА.
+[Thu Mar 19 22:34:01 2026] <STEAM_0:0:85754053> OZOR ran command "slay Соколов"
+[Thu Mar 19 22:34:06 2026] Player "ansarhasanov56" <STEAM_0:0:776736301> is attempting to connect.
+[Thu Mar 19 22:34:09 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /ooc ЭЭЭЭЭ
+[Thu Mar 19 22:34:10 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /ooc ЭЭЭЭЭ
+[Thu Mar 19 22:34:11 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /ooc ЭЭЭЭЭ
+[Thu Mar 19 22:34:11 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /ooc ЭЭЭЭЭ
+[Thu Mar 19 22:34:11 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /ooc ЭЭЭЭЭН
+[Thu Mar 19 22:34:12 2026] <STEAM_0:1:782845482> ТАГИЛЛА: Н
+[Thu Mar 19 22:34:13 2026] <STEAM_0:0:85754053> OZOR: заебал он меня
+[Thu Mar 19 22:34:30 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /ooc о великий озор простите своего крестьянина я больше так не булду
+[Thu Mar 19 22:34:38 2026] Player "ansarhasanov56" <STEAM_0:0:776736301> has spawned in the server
+[Thu Mar 19 22:34:40 2026] <STEAM_0:0:85754053> OZOR: // не верю
+[Thu Mar 19 22:34:43 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /ooc зуб даю
+[Thu Mar 19 22:34:54 2026] <STEAM_0:0:85754053> OZOR: у тебя даже оценки нет
+[Thu Mar 19 22:34:57 2026] Player "ansarhasanov56" <STEAM_0:0:776736301> has left the server
+[Thu Mar 19 22:34:57 2026] <STEAM_0:0:85754053> OZOR: ты непригодный
+[Thu Mar 19 22:35:02 2026] <STEAM_0:1:782845482> ТАГИЛЛА: всмысле
+[Thu Mar 19 22:35:31 2026] <STEAM_0:1:782845482> ТАГИЛЛА: дай обртано
+[Thu Mar 19 22:35:34 2026] <STEAM_0:1:782845482> ТАГИЛЛА: ивент
+[Thu Mar 19 22:35:41 2026] <STEAM_0:0:85754053> OZOR: с этим шевроном он больше на дорожные войска похож
+[Thu Mar 19 22:35:59 2026] <STEAM_0:1:782845482> ТАГИЛЛА: пиздец
+[Thu Mar 19 22:36:01 2026] <STEAM_0:1:782845482> ТАГИЛЛА: ноль отдачи
+[Thu Mar 19 22:36:06 2026] <STEAM_0:1:782845482> ТАГИЛЛА: ХАВХЫАФХА
+[Thu Mar 19 22:36:20 2026] <STEAM_0:0:85754053> OZOR: по спрею видно что отдача есть
+[Thu Mar 19 22:36:25 2026] <STEAM_0:1:782845482> ТАГИЛЛА: малюсенькая
+[Thu Mar 19 22:36:30 2026] <STEAM_0:1:782845482> ТАГИЛЛА: я не контрю ее
+[Thu Mar 19 22:36:40 2026] <STEAM_0:1:782845482> ТАГИЛЛА: вся обойма в голову
+[Thu Mar 19 22:36:55 2026] <STEAM_0:1:782845482> ТАГИЛЛА: от бедра нука
+[Thu Mar 19 22:37:02 2026] <STEAM_0:1:782845482> ТАГИЛЛА: также
+[Thu Mar 19 22:37:07 2026] <STEAM_0:1:782845482> ТАГИЛЛА: пошли постреляемся
+[Thu Mar 19 22:37:17 2026] <STEAM_0:1:782845482> ТАГИЛЛА: дай мотопехоту
+[Thu Mar 19 22:37:19 2026] <STEAM_0:1:782845482> ТАГИЛЛА: он адм забрал
+[Thu Mar 19 22:37:31 2026] <STEAM_0:1:782845482> ТАГИЛЛА: АДАААЙ
+[Thu Mar 19 22:37:33 2026] <STEAM_0:1:782845482> ТАГИЛЛА: ПАЖАЛУЙСТА
+[Thu Mar 19 22:37:34 2026] <STEAM_0:1:782845482> ТАГИЛЛА: АДАЙ
+[Thu Mar 19 22:37:38 2026] <STEAM_0:0:85754053> OZOR ran command "send Соколов"
+[Thu Mar 19 22:37:41 2026] <STEAM_0:0:85754053> OZOR: бомжик
+[Thu Mar 19 22:38:15 2026] THE-_-Reper has killed ТАГИЛЛА.
+[Thu Mar 19 22:38:20 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /ooc сука по моему колу
+[Thu Mar 19 22:38:23 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /ooc жди
+[Thu Mar 19 22:38:30 2026] <STEAM_0:0:85754053> OZOR: нет
+[Thu Mar 19 22:39:12 2026] <STEAM_0:0:85754053> OZOR: смотри
+[Thu Mar 19 22:39:15 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [668][lvs_wheeldrive_hummer_m2]"
+[Thu Mar 19 22:39:17 2026] THE-_-Reper has killed ТАГИЛЛА.
+[Thu Mar 19 22:39:23 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /ooc ты ебень без подствола
+[Thu Mar 19 22:40:05 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [666][lvs_wheeldrive_hummer_tow]"
+[Thu Mar 19 22:40:35 2026] ТАГИЛЛА has killed THE-_-Reper.
+[Thu Mar 19 22:40:48 2026] <STEAM_0:1:782845482> ТАГИЛЛА: изи пендосы
+[Thu Mar 19 22:40:52 2026] <STEAM_0:1:782845482> ТАГИЛЛА: СДАВАЙС
+[Thu Mar 19 22:40:52 2026] <STEAM_0:0:85754053> OZOR ran command "send Ramirez"
+[Thu Mar 19 22:40:54 2026] <STEAM_0:1:782845482> ТАГИЛЛА: СДАВАЙС
+[Thu Mar 19 22:40:56 2026] <STEAM_0:1:526999954> THE-_-Reper: /y Иди нахуй , Русские не сдаются 
+[Thu Mar 19 22:40:59 2026] <STEAM_0:1:782845482> ТАГИЛЛА: НА КОЛЕНИ
+[Thu Mar 19 22:41:01 2026] <STEAM_0:1:526999954> THE-_-Reper: /y Иди нахуй , Русские не сдаются 
+[Thu Mar 19 22:41:03 2026] ТАГИЛЛА has killed THE-_-Reper.
+[Thu Mar 19 22:41:09 2026] <STEAM_0:0:85754053> OZOR ran command "send Ramirez"
+[Thu Mar 19 22:41:11 2026] <STEAM_0:1:782845482> ТАГИЛЛА: все по рм
+[Thu Mar 19 22:41:19 2026] <STEAM_0:0:85754053> OZOR: он там
+[Thu Mar 19 22:42:11 2026] THE-_-Reper has killed ТАГИЛЛА.
+[Thu Mar 19 22:42:20 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /ooc я хз у меня колени через шот ломаються
+[Thu Mar 19 22:42:24 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /ooc это бред же
+[Thu Mar 19 22:42:55 2026] <STEAM_0:0:85754053> OZOR: криповая музыка пошла
+[Thu Mar 19 22:43:05 2026] <STEAM_0:0:85754053> OZOR: в кс замедляется движение при попадании
+[Thu Mar 19 22:43:16 2026] <STEAM_0:0:85754053> OZOR: надо спат
+[Thu Mar 19 22:43:27 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [664][sw_matv_m2]"
+[Thu Mar 19 22:44:13 2026] <STEAM_0:0:85754053> OZOR ran command "goto Ramirez"
+[Thu Mar 19 22:44:19 2026] <STEAM_0:0:85754053> OZOR: а ты как выжил
+[Thu Mar 19 22:44:23 2026] <STEAM_0:0:85754053> OZOR: хаха
+[Thu Mar 19 22:44:28 2026] <STEAM_0:0:85754053> OZOR: ты выжил?
+[Thu Mar 19 22:44:32 2026] <STEAM_0:0:85754053> OZOR: [f[f[
+[Thu Mar 19 22:45:08 2026] ТАГИЛЛА has killed THE-_-Reper.
+[Thu Mar 19 22:45:09 2026] THE-_-Reper has killed THE-_-Reper.
+[Thu Mar 19 22:45:13 2026] <STEAM_0:0:85754053> OZOR: смерть
+[Thu Mar 19 22:46:03 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /ooc гоу
+[Thu Mar 19 22:46:24 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Mar 19 22:46:24 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [660][lvs_wheeldrive_hummer_tow]"
+[Thu Mar 19 22:46:29 2026] <STEAM_0:1:526999954> THE-_-Reper: /ooc тебе устроить штурм приближеный к реале или так
+[Thu Mar 19 22:46:32 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Mar 19 22:46:32 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [636][sw_rocket_3m54_v3]"
+[Thu Mar 19 22:46:33 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Mar 19 22:46:33 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [660][sw_rocket_3m54_v3]"
+[Thu Mar 19 22:46:33 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Mar 19 22:46:33 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [665][sw_rocket_3m54_v3]"
+[Thu Mar 19 22:46:34 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Mar 19 22:46:34 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [667][sw_rocket_3m54_v3]"
+[Thu Mar 19 22:46:34 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Mar 19 22:46:34 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [668][sw_rocket_3m54_v3]"
+[Thu Mar 19 22:46:34 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Mar 19 22:46:34 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [669][sw_rocket_3m54_v3]"
+[Thu Mar 19 22:46:37 2026] OZOR has killed THE-_-Reper.
+[Thu Mar 19 22:46:37 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /ooc как хочешь
+[Thu Mar 19 22:46:38 2026] OZOR has killed ТАГИЛЛА.
+[Thu Mar 19 22:46:46 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /ooс что ты блять деалешь
+[Thu Mar 19 22:46:49 2026] <STEAM_0:0:85754053> OZOR: // бабах
+[Thu Mar 19 22:46:51 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /ooc нахуя
+[Thu Mar 19 22:46:53 2026] <STEAM_0:0:85754053> OZOR ran command "send Соколов"
+[Thu Mar 19 22:46:54 2026] <STEAM_0:0:85754053> OZOR ran command "send Ramirez"
+[Thu Mar 19 22:47:06 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Mar 19 22:47:06 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [664][sw_rocket_3m14k_v3]"
+[Thu Mar 19 22:47:15 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Mar 19 22:47:15 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [667][sw_rocket_3m14k_v3]"
+[Thu Mar 19 22:47:29 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Mar 19 22:47:29 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [667][sw_rocket_3m14k_v3]"
+[Thu Mar 19 22:47:43 2026] <STEAM_0:0:85754053> OZOR: норм
+[Thu Mar 19 22:47:46 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Mar 19 22:47:46 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [661][sw_rocket_3m14k_v3]"
+[Thu Mar 19 22:47:47 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Mar 19 22:47:47 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [667][sw_rocket_3m14k_v3]"
+[Thu Mar 19 22:47:48 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Mar 19 22:47:48 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [669][sw_rocket_3m14k_v3]"
+[Thu Mar 19 22:47:48 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Mar 19 22:47:48 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [672][sw_rocket_3m14k_v3]"
+[Thu Mar 19 22:47:48 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /ooc го
+[Thu Mar 19 22:47:49 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Mar 19 22:47:49 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [673][sw_rocket_3m14k_v3]"
+[Thu Mar 19 22:47:49 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Mar 19 22:47:49 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [674][sw_rocket_3m14k_v3]"
+[Thu Mar 19 22:47:49 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Mar 19 22:47:49 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [675][sw_rocket_3m14k_v3]"
+[Thu Mar 19 22:48:10 2026] ТАГИЛЛА has killed THE-_-Reper.
+[Thu Mar 19 22:48:10 2026] ТАГИЛЛА has killed ТАГИЛЛА.
+[Thu Mar 19 22:48:15 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /ooc ХАВЫХАЫХФА
+[Thu Mar 19 22:48:15 2026] <STEAM_0:0:85754053> OZOR ran command "send Ramirez"
+[Thu Mar 19 22:48:17 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Mar 19 22:48:17 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [652][sw_rocket_3m7_v3]"
+[Thu Mar 19 22:48:18 2026] <STEAM_0:1:782845482> ТАГИЛЛА: /OOC Я СДОХ
+[Thu Mar 19 22:48:29 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [661][sw_rocket_3m7_v3]"
+[Thu Mar 19 22:48:41 2026] <STEAM_0:0:85754053> OZOR ran command "send Соколов"
+[Thu Mar 19 22:48:48 2026] <STEAM_0:0:85754053> OZOR: нет
+[Thu Mar 19 22:48:55 2026] <STEAM_0:0:85754053> OZOR: всем спат
+[Thu Mar 19 22:49:02 2026] <STEAM_0:0:85754053> OZOR: ну вот он и поставит я же не ставил
+[Thu Mar 19 22:49:03 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [661][sw_rocket_3m7_v3]"
+[Thu Mar 19 22:49:11 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [651][sw_rocket_4k40_v3]"
+[Thu Mar 19 22:49:14 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [661][sw_rocket_4k40_v3]"
+[Thu Mar 19 22:49:15 2026] OZOR has killed THE-_-Reper.
+[Thu Mar 19 22:49:15 2026] OZOR has killed ТАГИЛЛА.
+[Thu Mar 19 22:49:20 2026] <STEAM_0:0:85754053> OZOR ran command "send Ramirez"
+[Thu Mar 19 22:49:21 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // ХХЫХЫ
+[Thu Mar 19 22:49:21 2026] <STEAM_0:0:85754053> OZOR ran command "send Соколов"
+[Thu Mar 19 22:49:30 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [661][sw_rocket_9m119_v3]"
+[Thu Mar 19 22:49:35 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [664][sw_rocket_9m119_v3]"
+[Thu Mar 19 22:49:39 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [664][sw_rocket_9m119_v3]"
+[Thu Mar 19 22:49:44 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Mar 19 22:49:44 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [666][sw_rocket_9m119_v3]"
+[Thu Mar 19 22:49:44 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Mar 19 22:49:44 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [667][sw_rocket_9m119_v3]"
+[Thu Mar 19 22:49:44 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Mar 19 22:49:44 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [653][sw_rocket_9m119_v3]"
+[Thu Mar 19 22:49:45 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Mar 19 22:49:45 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [668][sw_rocket_9m119_v3]"
+[Thu Mar 19 22:49:45 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Mar 19 22:49:45 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [669][sw_rocket_9m119_v3]"
+[Thu Mar 19 22:49:45 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Mar 19 22:49:45 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [672][sw_rocket_9m119_v3]"
+[Thu Mar 19 22:49:45 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Mar 19 22:49:45 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [673][sw_rocket_9m119_v3]"
+[Thu Mar 19 22:49:45 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Mar 19 22:49:45 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [674][sw_rocket_9m119_v3]"
+[Thu Mar 19 22:49:45 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Mar 19 22:49:45 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [675][sw_rocket_9m119_v3]"
+[Thu Mar 19 22:49:46 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Mar 19 22:49:46 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [676][sw_rocket_9m119_v3]"
+[Thu Mar 19 22:49:46 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Mar 19 22:49:46 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [677][sw_rocket_9m119_v3]"
+[Thu Mar 19 22:50:08 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Thu Mar 19 22:50:08 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [662][sw_bomb_ao1_v3]"
+[Thu Mar 19 22:50:21 2026] <STEAM_0:0:85754053> OZOR: ты пешком
+[Thu Mar 19 22:50:36 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [653][sw_matv]"
+[Thu Mar 19 22:50:38 2026] <STEAM_0:1:782845482> ТАГИЛЛА: // ЛАН Я СПАТЬ ББ
+[Thu Mar 19 22:50:45 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [653][lvs_wheeldrive_hummer_tow]"
+[Thu Mar 19 22:51:02 2026] <STEAM_0:0:85754053> OZOR: ну я тоже щас уже пойду
+[Thu Mar 19 22:51:04 2026] <STEAM_0:0:85754053> OZOR: ыы
+[Thu Mar 19 22:51:20 2026] <STEAM_0:0:85754053> OZOR: могу дать механика покатаешься
+[Thu Mar 19 22:51:35 2026] <STEAM_0:0:85754053> OZOR: ксьта
+[Thu Mar 19 22:51:36 2026] <STEAM_0:0:85754053> OZOR: мтой
+[Thu Mar 19 22:51:37 2026] <STEAM_0:0:85754053> OZOR: стой
+[Thu Mar 19 22:51:43 2026] <STEAM_0:0:85754053> OZOR: ты можешь по окопам проехать\
+[Thu Mar 19 22:51:43 2026] <STEAM_0:0:85754053> OZOR: хах
+[Thu Mar 19 22:51:58 2026] <STEAM_0:0:85754053> OZOR: я пробовал на камазе
+[Thu Mar 19 22:52:32 2026] <STEAM_0:0:85754053> OZOR: дал дал ушел
+[Thu Mar 19 22:52:57 2026] <STEAM_0:0:85754053> OZOR: хаха
+[Thu Mar 19 22:52:59 2026] <STEAM_0:0:85754053> OZOR: понимаю
+[Thu Mar 19 22:53:34 2026] <STEAM_0:0:85754053> OZOR: я был в штабе южного военного округа, там только майонры и полковники ходят
+[Thu Mar 19 22:54:01 2026] <STEAM_0:0:85754053> OZOR: командир роты
+[Thu Mar 19 22:54:24 2026] <STEAM_0:0:85754053> OZOR: три колеки
+[Thu Mar 19 22:59:07 2026] <STEAM_0:0:85754053> OZOR: условно пон
+[Thu Mar 19 23:00:10 2026] <STEAM_0:0:85754053> OZOR: я твои слова на шортс нарежу
+[Thu Mar 19 23:00:28 2026] <STEAM_0:0:85754053> OZOR: блять
+[Thu Mar 19 23:00:35 2026] <STEAM_0:0:85754053> OZOR: этот от гостивича тема?
+[Thu Mar 19 23:00:53 2026] <STEAM_0:0:85754053> OZOR: понимаю
+[Thu Mar 19 23:00:56 2026] <STEAM_0:0:85754053> OZOR: толкаем
+[Thu Mar 19 23:01:10 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [692][prop_physics] (models/props_borealis/door_wheel001a.mdl)"
+[Thu Mar 19 23:02:12 2026] <STEAM_0:0:85754053> OZOR: та меня больше беспокоит основа сервера
+[Thu Mar 19 23:02:18 2026] <STEAM_0:0:85754053> OZOR: куда двигаться
+[Thu Mar 19 23:02:20 2026] <STEAM_0:0:85754053> OZOR: 2 стула
+[Thu Mar 19 23:02:34 2026] <STEAM_0:0:85754053> OZOR: 1 - хардкор, реализм\n2 - это развлечение
+[Thu Mar 19 23:02:43 2026] <STEAM_0:0:85754053> OZOR: и как бы и туда нада и туда
+[Thu Mar 19 23:03:06 2026] <STEAM_0:0:85754053> OZOR: у меня щас идея есть сделать как на арме, не будет пвп, а будут эвенты
+[Thu Mar 19 23:03:25 2026] <STEAM_0:0:85754053> OZOR: не, люди будут сами набираться на миссии и ебашиться
+[Thu Mar 19 23:03:42 2026] <STEAM_0:0:85754053> OZOR: т.е. выбирают захват точек, появляются точки ивесь сервер учавствует
+[Thu Mar 19 23:04:01 2026] <STEAM_0:0:85754053> OZOR: ну т.е. обычный режим сервера это база отыгровка
+[Thu Mar 19 23:04:10 2026] <STEAM_0:0:85754053> OZOR: без перестрелки по кд
+[Thu Mar 19 23:04:15 2026] <STEAM_0:0:85754053> OZOR: не, пусть выходят
+[Thu Mar 19 23:04:26 2026] <STEAM_0:0:85754053> OZOR: но именно движуха будет как эвент
+[Thu Mar 19 23:04:32 2026] <STEAM_0:0:85754053> OZOR: которы люди будут сами себе выбирать
+[Thu Mar 19 23:04:45 2026] <STEAM_0:0:85754053> OZOR: чтоб сервер жил в штатном режиме
+[Thu Mar 19 23:04:54 2026] <STEAM_0:0:85754053> OZOR: без надобности 10 админов, 100 эвентеров
+[Thu Mar 19 23:05:02 2026] <STEAM_0:0:85754053> OZOR: ну условно миссия - колонна
+[Thu Mar 19 23:05:05 2026] <STEAM_0:0:85754053> OZOR: че там
+[Thu Mar 19 23:05:08 2026] <STEAM_0:0:85754053> OZOR: сделать лобби
+[Thu Mar 19 23:05:11 2026] <STEAM_0:0:85754053> OZOR: поставить точки
+[Thu Mar 19 23:05:45 2026] <STEAM_0:0:85754053> OZOR: главное чтоб это жило
+[Thu Mar 19 23:05:50 2026] <STEAM_0:0:85754053> OZOR: а мнение там единиц
+[Thu Mar 19 23:05:58 2026] <STEAM_0:0:85754053> OZOR: дело десятое
+[Thu Mar 19 23:06:19 2026] <STEAM_0:0:85754053> OZOR: либо делать какой-нибудь около экстракшен шутер
+[Thu Mar 19 23:06:38 2026] <STEAM_0:0:85754053> OZOR: с хардкором, квестами, рп там в своей сфере
+[Thu Mar 19 23:07:27 2026] <STEAM_0:0:85754053> OZOR: ало тыт ту
+[Thu Mar 19 23:07:49 2026] <STEAM_0:0:85754053> OZOR: всем спат пора
+[Thu Mar 19 23:08:01 2026] Player "THE-_-Reper" <STEAM_0:1:526999954> has left the server
+[Thu Mar 19 23:08:09 2026] Player "OZOR" <STEAM_0:0:85754053> has left the server
+[Thu Mar 19 23:19:29 2026] Player "ТАГИЛЛА" <STEAM_0:1:782845482> has left the server

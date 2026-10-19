@@ -1,0 +1,462 @@
+[Mon Apr 27 06:42:20 2026] Player "david280911" <STEAM_0:1:839860057> is attempting to connect.
+[Mon Apr 27 06:45:29 2026] Player "david280911" <STEAM_0:1:839860057> is attempting to connect.
+[Mon Apr 27 07:53:57 2026] Player "BloodySmile" <STEAM_0:1:54838838> is attempting to connect.
+[Mon Apr 27 07:54:55 2026] Player "BloodySmile" <STEAM_0:1:54838838> has spawned in the server
+[Mon Apr 27 07:56:09 2026] <STEAM_0:1:54838838> BloodySmile: Внимание на квадрат: H8
+[Mon Apr 27 07:56:09 2026] <STEAM_0:1:54838838> BloodySmile: Внимание на квадрат: H8
+[Mon Apr 27 07:56:41 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [624][sent_eft_popper]"
+[Mon Apr 27 07:57:23 2026] BloodySmile has killed BloodySmile.
+[Mon Apr 27 07:57:23 2026] <STEAM_0:1:54838838> BloodySmile ran command "slay Андрев"
+[Mon Apr 27 07:57:30 2026] <STEAM_0:1:54838838> BloodySmile ran command "respawn Андрев"
+[Mon Apr 27 07:57:42 2026] Player "BloodySmile" <STEAM_0:1:54838838> has left the server
+[Mon Apr 27 11:13:20 2026] Player "gREG4IK" <STEAM_0:1:455594560> is attempting to connect.
+[Mon Apr 27 11:13:52 2026] Player "gREG4IK" <STEAM_0:1:455594560> is attempting to connect.
+[Mon Apr 27 11:15:52 2026] Player "gREG4IK" <STEAM_0:1:455594560> has spawned in the server
+[Mon Apr 27 11:19:14 2026] <STEAM_0:1:455594560> gREG4IK spawned ragdoll "Entity [625][prop_ragdoll] (models/voidn/ksk/ksk-6_pm.mdl)"
+[Mon Apr 27 11:25:36 2026] <STEAM_0:1:455594560> gREG4IK: /pass
+[Mon Apr 27 11:29:47 2026] <STEAM_0:1:455594560> gREG4IK spawned ragdoll "Entity [631][prop_ragdoll] (models/player/pmc_custom_acientlt/alt_marine_acient.mdl)"
+[Mon Apr 27 11:29:52 2026] <STEAM_0:1:455594560> gREG4IK spawned ragdoll "Entity [631][prop_ragdoll] (models/motoess/sas/sas-1.mdl)"
+[Mon Apr 27 11:29:54 2026] <STEAM_0:1:455594560> gREG4IK spawned ragdoll "Entity [632][prop_ragdoll] (models/motoess/sas/sas-2.mdl)"
+[Mon Apr 27 11:30:06 2026] <STEAM_0:1:455594560> gREG4IK spawned ragdoll "Entity [633][prop_ragdoll] (models/hypnoshizu/nato_pioneer.mdl)"
+[Mon Apr 27 12:09:15 2026] <STEAM_0:1:455594560> gREG4IK spawned ragdoll "Entity [622][prop_ragdoll] (models/usef.mdl)"
+[Mon Apr 27 12:09:32 2026] <STEAM_0:1:455594560> gREG4IK spawned ragdoll "Entity [626][prop_ragdoll] (models/multi/us_army_caucasian_pm.mdl)"
+[Mon Apr 27 12:09:43 2026] <STEAM_0:1:455594560> gREG4IK spawned ragdoll "Entity [627][prop_ragdoll] (models/notart/us pararescue 3.mdl)"
+[Mon Apr 27 12:19:45 2026] <STEAM_0:1:455594560> gREG4IK ran command "respawn Грэг"
+[Mon Apr 27 12:26:47 2026] Player "gREG4IK" <STEAM_0:1:455594560> has left the server
+[Mon Apr 27 14:56:41 2026] Player "Discar" <STEAM_0:0:650470378> is attempting to connect.
+[Mon Apr 27 14:59:04 2026] Player "david280911" <STEAM_0:1:839860057> is attempting to connect.
+[Mon Apr 27 15:14:08 2026] Player "кувэликс" <STEAM_0:1:760607491> is attempting to connect.
+[Mon Apr 27 16:03:40 2026] Player "DAR" <STEAM_0:1:813184676> is attempting to connect.
+[Mon Apr 27 17:03:55 2026] Player "✞Aʀᴍɪɴ✞" <STEAM_0:1:222294247> is attempting to connect.
+[Mon Apr 27 18:14:32 2026] Player "Нагибатор30000000" <STEAM_0:0:954879349> is attempting to connect.
+[Mon Apr 27 18:40:05 2026] Player "gREG4IK" <STEAM_0:1:455594560> is attempting to connect.
+[Mon Apr 27 18:40:41 2026] Player "gREG4IK" <STEAM_0:1:455594560> is attempting to connect.
+[Mon Apr 27 18:46:20 2026] Player "gREG4IK" <STEAM_0:1:455594560> is attempting to connect.
+[Mon Apr 27 18:47:05 2026] Player "gREG4IK" <STEAM_0:1:455594560> has spawned in the server
+[Mon Apr 27 18:49:47 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [610][sw_rocket_9m22_v3]"
+[Mon Apr 27 18:49:56 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [610][lvs_missile]"
+[Mon Apr 27 18:49:59 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Mon Apr 27 18:49:59 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [610][lvs_missile]"
+[Mon Apr 27 18:50:01 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Mon Apr 27 18:50:01 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [610][lvs_missile]"
+[Mon Apr 27 18:50:02 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Mon Apr 27 18:50:02 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [613][lvs_missile]"
+[Mon Apr 27 18:50:02 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Mon Apr 27 18:50:02 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [614][lvs_missile]"
+[Mon Apr 27 18:50:03 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Mon Apr 27 18:50:03 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [615][lvs_missile]"
+[Mon Apr 27 18:50:03 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Mon Apr 27 18:50:03 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [610][lvs_missile]"
+[Mon Apr 27 18:50:03 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Mon Apr 27 18:50:03 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [616][lvs_missile]"
+[Mon Apr 27 18:50:03 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Mon Apr 27 18:50:03 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [617][lvs_missile]"
+[Mon Apr 27 18:50:04 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Mon Apr 27 18:50:04 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [613][lvs_missile]"
+[Mon Apr 27 18:50:04 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Mon Apr 27 18:50:04 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [614][lvs_missile]"
+[Mon Apr 27 18:50:05 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Mon Apr 27 18:50:05 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [610][lvs_missile]"
+[Mon Apr 27 18:50:05 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Mon Apr 27 18:50:05 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [615][lvs_missile]"
+[Mon Apr 27 18:50:05 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Mon Apr 27 18:50:05 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [613][lvs_missile]"
+[Mon Apr 27 18:50:06 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Mon Apr 27 18:50:06 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [616][lvs_missile]"
+[Mon Apr 27 18:50:06 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Mon Apr 27 18:50:06 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [617][lvs_missile]"
+[Mon Apr 27 18:50:06 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Mon Apr 27 18:50:06 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [614][lvs_missile]"
+[Mon Apr 27 18:50:06 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Mon Apr 27 18:50:06 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [623][lvs_missile]"
+[Mon Apr 27 18:50:07 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Mon Apr 27 18:50:07 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [610][lvs_missile]"
+[Mon Apr 27 18:50:13 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [610][lvs_missile]"
+[Mon Apr 27 18:50:13 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [613][lvs_missile]"
+[Mon Apr 27 18:50:13 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [614][lvs_missile]"
+[Mon Apr 27 18:50:13 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [615][lvs_missile]"
+[Mon Apr 27 18:50:17 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Mon Apr 27 18:50:17 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [610][lvs_missile]"
+[Mon Apr 27 18:50:17 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Mon Apr 27 18:50:17 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [613][lvs_missile]"
+[Mon Apr 27 18:50:18 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Mon Apr 27 18:50:18 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [614][lvs_missile]"
+[Mon Apr 27 18:50:18 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Mon Apr 27 18:50:18 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [615][lvs_missile]"
+[Mon Apr 27 18:50:18 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Mon Apr 27 18:50:18 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [616][lvs_missile]"
+[Mon Apr 27 18:50:18 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Mon Apr 27 18:50:18 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [617][lvs_missile]"
+[Mon Apr 27 18:50:18 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Mon Apr 27 18:50:18 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [623][lvs_missile]"
+[Mon Apr 27 18:50:18 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Mon Apr 27 18:50:18 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [624][lvs_missile]"
+[Mon Apr 27 18:50:18 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Mon Apr 27 18:50:18 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [625][lvs_missile]"
+[Mon Apr 27 18:50:19 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Mon Apr 27 18:50:19 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [626][lvs_missile]"
+[Mon Apr 27 18:50:19 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Mon Apr 27 18:50:19 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [627][lvs_missile]"
+[Mon Apr 27 18:50:19 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Mon Apr 27 18:50:19 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [628][lvs_missile]"
+[Mon Apr 27 18:50:19 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Mon Apr 27 18:50:19 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [629][lvs_missile]"
+[Mon Apr 27 18:50:19 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Mon Apr 27 18:50:19 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [630][lvs_missile]"
+[Mon Apr 27 18:50:19 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Mon Apr 27 18:50:19 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [610][lvs_missile]"
+[Mon Apr 27 18:50:19 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Mon Apr 27 18:50:19 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [613][lvs_missile]"
+[Mon Apr 27 18:50:33 2026] gREG4IK has killed gREG4IK.
+[Mon Apr 27 18:51:07 2026] <STEAM_0:1:455594560> gREG4IK ran command "respawn ^"
+[Mon Apr 27 18:51:44 2026] worldspawn has killed gREG4IK.
+[Mon Apr 27 18:52:17 2026] <STEAM_0:1:455594560> gREG4IK ran command "respawn ^"
+[Mon Apr 27 18:53:17 2026] Player "HELL SANS" <STEAM_0:0:613773736> is attempting to connect.
+[Mon Apr 27 18:58:42 2026] Player "HELL SANS" <STEAM_0:0:613773736> is attempting to connect.
+[Mon Apr 27 18:58:47 2026] <STEAM_0:1:455594560> gREG4IK ran command "respawn Грэг"
+[Mon Apr 27 18:59:27 2026] <STEAM_0:1:455594560> gREG4IK ran command "respawn Грэг"
+[Mon Apr 27 19:00:04 2026] <STEAM_0:1:455594560> gREG4IK ran command "respawn Грэг"
+[Mon Apr 27 19:02:04 2026] <STEAM_0:1:455594560> gREG4IK ran command "respawn ^"
+[Mon Apr 27 19:02:19 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [618][grenade_helicopter]"
+[Mon Apr 27 19:02:21 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [619][grenade_helicopter]"
+[Mon Apr 27 19:02:30 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [618][grenade_helicopter]"
+[Mon Apr 27 19:02:30 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [619][grenade_helicopter]"
+[Mon Apr 27 19:03:12 2026] <STEAM_0:1:455594560> gREG4IK ran command "respawn ^"
+[Mon Apr 27 19:03:13 2026] <STEAM_0:1:455594560> gREG4IK: /respawn ^
+[Mon Apr 27 19:03:21 2026] <STEAM_0:1:455594560> gREG4IK ran command "respawn ^"
+[Mon Apr 27 19:03:34 2026] <STEAM_0:1:455594560> gREG4IK ran command "respawn ^"
+[Mon Apr 27 19:03:51 2026] <STEAM_0:1:455594560> gREG4IK ran command "respawn ^"
+[Mon Apr 27 19:04:02 2026] <STEAM_0:1:455594560> gREG4IK ran command "respawn ^"
+[Mon Apr 27 19:04:16 2026] <STEAM_0:1:455594560> gREG4IK ran command "respawn ^"
+[Mon Apr 27 19:04:39 2026] <STEAM_0:1:455594560> gREG4IK ran command "respawn ^"
+[Mon Apr 27 19:05:28 2026] <STEAM_0:1:455594560> gREG4IK ran command "respawn ^"
+[Mon Apr 27 19:06:26 2026] <STEAM_0:1:455594560> gREG4IK ran command "respawn ^"
+[Mon Apr 27 19:07:15 2026] <STEAM_0:1:455594560> gREG4IK ran command "respawn ^"
+[Mon Apr 27 19:07:37 2026] <STEAM_0:1:455594560> gREG4IK ran command "respawn ^"
+[Mon Apr 27 19:07:42 2026] <STEAM_0:1:455594560> gREG4IK ran command "respawn ^"
+[Mon Apr 27 19:07:50 2026] <STEAM_0:1:455594560> gREG4IK ran command "respawn ^"
+[Mon Apr 27 19:08:32 2026] Player "OZOR" <STEAM_0:0:85754053> has spawned in the server
+[Mon Apr 27 19:09:23 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [739][sw_superhind]"
+[Mon Apr 27 19:09:26 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [739][sw_uh60q]"
+[Mon Apr 27 19:15:56 2026] Player "АРБУЗИК" <STEAM_0:0:959824042> is attempting to connect.
+[Mon Apr 27 19:16:02 2026] Player "АРБУЗИК" <STEAM_0:0:959824042> is attempting to connect.
+[Mon Apr 27 19:16:26 2026] Player "АРБУЗИК" <STEAM_0:0:959824042> is attempting to connect.
+[Mon Apr 27 19:17:33 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [761][lvs_missile]"
+[Mon Apr 27 19:17:35 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [761][lvs_missile]"
+[Mon Apr 27 19:17:36 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [762][lvs_protontorpedo]"
+[Mon Apr 27 19:17:38 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [761][lvs_missile]"
+[Mon Apr 27 19:18:02 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [761][sw_mi35m]"
+[Mon Apr 27 19:20:30 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [760][sw_mi35m]"
+[Mon Apr 27 19:22:26 2026] worldspawn has killed OZOR.
+[Mon Apr 27 19:22:32 2026] <STEAM_0:0:85754053> OZOR ran command "respawn Ковалев"
+[Mon Apr 27 19:22:32 2026] <STEAM_0:0:85754053> OZOR ran command "respawn Ковалев"
+[Mon Apr 27 19:23:35 2026] <STEAM_0:0:85754053> OZOR ran command "respawn Ковалев"
+[Mon Apr 27 19:23:35 2026] <STEAM_0:0:85754053> OZOR ran command "respawn Ковалев"
+[Mon Apr 27 19:24:08 2026] worldspawn has killed OZOR.
+[Mon Apr 27 19:24:15 2026] <STEAM_0:0:85754053> OZOR ran command "respawn Ковалев"
+[Mon Apr 27 19:24:15 2026] <STEAM_0:0:85754053> OZOR ran command "respawn Ковалев"
+[Mon Apr 27 19:28:29 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [760][sw_mi35m]"
+[Mon Apr 27 19:30:07 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [760][sw_mi35m]"
+[Mon Apr 27 19:30:50 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [760][sw_mi35m]"
+[Mon Apr 27 19:31:11 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [764][lvs_missile]"
+[Mon Apr 27 19:31:12 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [765][lvs_missile]"
+[Mon Apr 27 19:31:13 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [764][lvs_missile]"
+[Mon Apr 27 19:31:14 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [765][lvs_missile]"
+[Mon Apr 27 19:31:15 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [764][lvs_missile]"
+[Mon Apr 27 19:31:15 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [765][lvs_missile]"
+[Mon Apr 27 19:31:16 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [767][lvs_missile]"
+[Mon Apr 27 19:31:16 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [768][lvs_missile]"
+[Mon Apr 27 19:33:37 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [760][sw_mi35m]"
+[Mon Apr 27 19:35:32 2026] worldspawn has killed gREG4IK.
+[Mon Apr 27 19:35:34 2026] <STEAM_0:1:455594560> gREG4IK ran command "respawn ^"
+[Mon Apr 27 19:36:41 2026] <STEAM_0:1:455594560> gREG4IK ran command "respawn ^"
+[Mon Apr 27 19:36:48 2026] <STEAM_0:1:455594560> gREG4IK ran command "respawn ^"
+[Mon Apr 27 19:37:02 2026] <STEAM_0:1:455594560> gREG4IK ran command "respawn ^"
+[Mon Apr 27 19:37:17 2026] <STEAM_0:1:455594560> gREG4IK ran command "respawn ^"
+[Mon Apr 27 19:38:06 2026] <STEAM_0:1:455594560> gREG4IK ran command "respawn ^"
+[Mon Apr 27 19:38:29 2026] <STEAM_0:1:455594560> gREG4IK ran command "respawn ^"
+[Mon Apr 27 19:40:44 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [613][sw_mi35m]"
+[Mon Apr 27 19:41:28 2026] <STEAM_0:1:455594560> gREG4IK ran command "menu"
+[Mon Apr 27 19:42:01 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [613][sw_mi24a]"
+[Mon Apr 27 19:42:24 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [613][sw_superhind]"
+[Mon Apr 27 19:42:26 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [613][sw_ah1z]"
+[Mon Apr 27 19:42:27 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [613][sw_ah1s]"
+[Mon Apr 27 19:42:28 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [738][sw_uh60]"
+[Mon Apr 27 19:42:34 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [613][sw_leo2a6m]"
+[Mon Apr 27 19:43:04 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [613][sw_t90m_arena]"
+[Mon Apr 27 19:43:12 2026] <STEAM_0:1:455594560> gREG4IK ran command "respawn ^"
+[Mon Apr 27 19:45:50 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [613][perk_rocket]"
+[Mon Apr 27 19:46:08 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [613][sw_rocket_9m123_v3]"
+[Mon Apr 27 19:46:11 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [613][sw_bomb_kab500kr_v3]"
+[Mon Apr 27 19:46:13 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [737][sw_rocket_m14of_v3]"
+[Mon Apr 27 19:46:18 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [737][sw_rocket_rbs82_v3]"
+[Mon Apr 27 19:46:21 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [737][sw_rocket_tt250_v3]"
+[Mon Apr 27 19:46:23 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [737][sw_rocket_tt250_v3]"
+[Mon Apr 27 19:46:29 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [737][sw_bomb_fab1500m46_v3]"
+[Mon Apr 27 19:46:35 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [737][sw_bomb_fab1500m54_umpk_v3]"
+[Mon Apr 27 19:46:46 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [737][sw_bomb_brab1000m43_v3]"
+[Mon Apr 27 19:46:48 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [738][sw_bomb_brab500_1938_v3]"
+[Mon Apr 27 19:46:49 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [739][sw_rocket_3m55_v3]"
+[Mon Apr 27 19:46:56 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [613][sw_rocket_4k40_v3]"
+[Mon Apr 27 19:47:00 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [738][sw_rocket_4k40_v3]"
+[Mon Apr 27 19:47:05 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [738][sw_rocket_s25of_v3]"
+[Mon Apr 27 19:47:09 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [739][sw_bomb_ofab250sh_v3]"
+[Mon Apr 27 19:47:11 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [738][sw_bomb_ofab250sh_v3]"
+[Mon Apr 27 19:47:11 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [739][sw_bomb_upab500b_v3]"
+[Mon Apr 27 19:47:13 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [740][sw_bomb_upab1500v_v3]"
+[Mon Apr 27 19:47:13 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [741][sw_bomb_ofab250sh_v3]"
+[Mon Apr 27 19:47:14 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [738][sw_rocket_s25ofm_v3]"
+[Mon Apr 27 19:47:16 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [739][sw_bomb_ofab250sh_v3]"
+[Mon Apr 27 19:47:19 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [738][sw_rocket_s25ofm_v3]"
+[Mon Apr 27 19:47:22 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [739][sw_bomb_ofab250sh_v3]"
+[Mon Apr 27 19:47:25 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [738][sw_rocket_s25ofm_v3]"
+[Mon Apr 27 19:47:25 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [740][sw_bomb_ofab250sh_v3]"
+[Mon Apr 27 19:47:27 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [741][sw_bomb_ofab250sh_v3]"
+[Mon Apr 27 19:47:27 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [742][sw_bomb_ofab250sh_v3]"
+[Mon Apr 27 19:47:27 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [743][sw_bomb_ofab250sh_v3]"
+[Mon Apr 27 19:47:37 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Mon Apr 27 19:47:37 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [613][perk_rocket]"
+[Mon Apr 27 19:47:37 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Mon Apr 27 19:47:37 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [738][perk_rocket]"
+[Mon Apr 27 19:47:38 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Mon Apr 27 19:47:38 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [739][perk_rocket]"
+[Mon Apr 27 19:47:38 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Mon Apr 27 19:47:38 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [740][perk_rocket]"
+[Mon Apr 27 19:47:39 2026] <STEAM_0:0:85754053> OZOR used tool "creator"
+[Mon Apr 27 19:47:39 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [741][perk_rocket]"
+[Mon Apr 27 19:47:50 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [613][perk_rocket]"
+[Mon Apr 27 19:47:50 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [738][perk_rocket]"
+[Mon Apr 27 19:48:00 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [613][perk_rocket]"
+[Mon Apr 27 19:48:01 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [738][perk_rocket]"
+[Mon Apr 27 19:48:01 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [739][perk_rocket]"
+[Mon Apr 27 19:48:01 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [740][perk_bomb]"
+[Mon Apr 27 19:48:02 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [741][perk_rocket]"
+[Mon Apr 27 19:48:03 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [742][perk_bomb]"
+[Mon Apr 27 19:48:07 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [740][perk_bomb]"
+[Mon Apr 27 19:48:11 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [613][perk_bomb]"
+[Mon Apr 27 19:48:17 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [613][perk_bomb]"
+[Mon Apr 27 19:48:21 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [613][perk_bomb]"
+[Mon Apr 27 19:48:26 2026] OZOR has killed gREG4IK.
+[Mon Apr 27 19:48:33 2026] <STEAM_0:1:455594560> gREG4IK ran command "respawn ^"
+[Mon Apr 27 19:49:05 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [737][perk_bomb]"
+[Mon Apr 27 19:51:04 2026] <STEAM_0:0:85754053> OZOR: /playercharacter
+[Mon Apr 27 19:51:18 2026] <STEAM_0:0:85754053> OZOR: /playermenu
+[Mon Apr 27 19:51:29 2026] <STEAM_0:0:85754053> OZOR: /playermenu
+[Mon Apr 27 19:51:40 2026] <STEAM_0:1:455594560> gREG4IK: /playermenu
+[Mon Apr 27 19:52:00 2026] <STEAM_0:0:85754053> OZOR: /playermenu
+[Mon Apr 27 19:53:03 2026] Player "tohiro" <STEAM_0:0:99492375> is attempting to connect.
+[Mon Apr 27 19:53:48 2026] Player "tohiro" <STEAM_0:0:99492375> is attempting to connect.
+[Mon Apr 27 19:54:38 2026] <STEAM_0:1:455594560> gREG4IK: w
+[Mon Apr 27 19:54:48 2026] <STEAM_0:1:455594560> gREG4IK: /playermenu
+[Mon Apr 27 19:55:41 2026] Player "tohiro" <STEAM_0:0:99492375> has spawned in the server
+[Mon Apr 27 19:56:34 2026] <STEAM_0:1:455594560> gREG4IK ran command "goto Jones"
+[Mon Apr 27 19:56:34 2026] <STEAM_0:1:455594560> gREG4IK ran command "goto Jones"
+[Mon Apr 27 19:56:49 2026] <STEAM_0:0:85754053> OZOR ran command "goto Грэг"
+[Mon Apr 27 19:56:49 2026] <STEAM_0:0:85754053> OZOR ran command "goto Грэг"
+[Mon Apr 27 19:57:56 2026] gREG4IK has killed tohiro.
+[Mon Apr 27 19:58:07 2026] gREG4IK has killed gREG4IK.
+[Mon Apr 27 19:58:20 2026] <STEAM_0:1:455594560> gREG4IK ran command "respawn ^"
+[Mon Apr 27 19:58:30 2026] <STEAM_0:1:455594560> gREG4IK ran command "ammo Jones"
+[Mon Apr 27 19:58:30 2026] <STEAM_0:1:455594560> gREG4IK ran command "ammo Jones"
+[Mon Apr 27 19:58:33 2026] <STEAM_0:1:455594560> gREG4IK ran command "respawn Jones"
+[Mon Apr 27 19:58:33 2026] <STEAM_0:1:455594560> gREG4IK ran command "respawn Jones"
+[Mon Apr 27 19:58:47 2026] Player "Дегустатор пива" <STEAM_0:1:862887967> is attempting to connect.
+[Mon Apr 27 19:59:31 2026] worldspawn has killed OZOR.
+[Mon Apr 27 20:07:44 2026] <STEAM_0:0:99492375> tohiro spawned prop "Entity [760][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1_tall.mdl)"
+[Mon Apr 27 20:07:49 2026] Player "BloodySmile" <STEAM_0:1:54838838> is attempting to connect.
+[Mon Apr 27 20:08:04 2026] <STEAM_0:0:99492375> tohiro spawned prop "Entity [787][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner2.mdl)"
+[Mon Apr 27 20:08:21 2026] <STEAM_0:0:99492375> tohiro spawned prop "Entity [788][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner2_tall.mdl)"
+[Mon Apr 27 20:08:26 2026] <STEAM_0:0:99492375> tohiro spawned prop "Entity [789][alydus_destructiblefortification] (models/props_fortifications/sandbags_line1.mdl)"
+[Mon Apr 27 20:08:51 2026] Player "BloodySmile" <STEAM_0:1:54838838> has spawned in the server
+[Mon Apr 27 20:09:06 2026] <STEAM_0:1:455594560> gREG4IK ran command "jail Jones 1800"
+[Mon Apr 27 20:09:13 2026] <STEAM_0:1:455594560> gREG4IK ran command "goto Jones"
+[Mon Apr 27 20:09:13 2026] <STEAM_0:1:455594560> gREG4IK ran command "goto Jones"
+[Mon Apr 27 20:09:19 2026] <STEAM_0:1:54838838> BloodySmile ran command "goto Jones"
+[Mon Apr 27 20:09:19 2026] <STEAM_0:1:54838838> BloodySmile ran command "goto Jones"
+[Mon Apr 27 20:11:21 2026] <STEAM_0:1:455594560> gREG4IK ran command "jail Грэг 1800"
+[Mon Apr 27 20:11:39 2026] <STEAM_0:1:455594560> gREG4IK ran command "unjail Грэг"
+[Mon Apr 27 20:11:39 2026] <STEAM_0:1:455594560> gREG4IK ran command "unjail Грэг"
+[Mon Apr 27 20:11:46 2026] <STEAM_0:1:455594560> gREG4IK: /com spam
+[Mon Apr 27 20:11:47 2026] <STEAM_0:1:455594560> gREG4IK: /com spam
+[Mon Apr 27 20:11:47 2026] <STEAM_0:1:455594560> gREG4IK: /com spam
+[Mon Apr 27 20:11:47 2026] <STEAM_0:1:455594560> gREG4IK: /com spam
+[Mon Apr 27 20:11:48 2026] <STEAM_0:1:455594560> gREG4IK: /com spam
+[Mon Apr 27 20:11:48 2026] <STEAM_0:1:455594560> gREG4IK: /com spam
+[Mon Apr 27 20:13:47 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [723][npc_vj_re5_em81]"
+[Mon Apr 27 20:13:55 2026] npc_vj_re5_em81 has killed OZOR.
+[Mon Apr 27 20:14:05 2026] <STEAM_0:0:85754053> OZOR ran command "respawn Ковалев"
+[Mon Apr 27 20:14:05 2026] <STEAM_0:0:85754053> OZOR ran command "respawn Ковалев"
+[Mon Apr 27 20:14:28 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [747][npc_vj_re5_em80]"
+[Mon Apr 27 20:14:39 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [763][npc_vj_re5_em80b]"
+[Mon Apr 27 20:14:43 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [763][npc_vj_re5_em80]"
+[Mon Apr 27 20:14:45 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [767][npc_vj_re5_em80]"
+[Mon Apr 27 20:15:11 2026] npc_vj_re5_em80 has killed BloodySmile.
+[Mon Apr 27 20:15:22 2026] <STEAM_0:1:54838838> BloodySmile ran command "respawn Андрев"
+[Mon Apr 27 20:15:49 2026] npc_vj_re5_em80 has killed gREG4IK.
+[Mon Apr 27 20:15:56 2026] <STEAM_0:1:455594560> gREG4IK ran command "respawn ^"
+[Mon Apr 27 20:16:02 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [613][npc_vj_re5_em84]"
+[Mon Apr 27 20:16:23 2026] <STEAM_0:1:54838838> BloodySmile spawned SWEP "Weapon [738][weapon_ar2]"
+[Mon Apr 27 20:16:23 2026] <STEAM_0:1:54838838> BloodySmile spawned SWEP "Weapon [767][weapon_ar2]"
+[Mon Apr 27 20:16:23 2026] <STEAM_0:1:54838838> BloodySmile spawned SWEP "Weapon [772][weapon_ar2]"
+[Mon Apr 27 20:16:23 2026] <STEAM_0:1:54838838> BloodySmile spawned SWEP "Weapon [776][weapon_ar2]"
+[Mon Apr 27 20:16:24 2026] <STEAM_0:1:54838838> BloodySmile spawned SWEP "Weapon [779][weapon_ar2]"
+[Mon Apr 27 20:16:24 2026] <STEAM_0:1:54838838> BloodySmile spawned SWEP "Weapon [784][weapon_ar2]"
+[Mon Apr 27 20:16:28 2026] npc_vj_re5_em84 has killed BloodySmile.
+[Mon Apr 27 20:16:30 2026] <STEAM_0:1:54838838> BloodySmile ran command "respawn Андрев"
+[Mon Apr 27 20:16:32 2026] <STEAM_0:1:54838838> BloodySmile spawned SWEP "Weapon [777][weapon_ar2]"
+[Mon Apr 27 20:16:33 2026] <STEAM_0:1:54838838> BloodySmile spawned SWEP "Weapon [783][weapon_ar2]"
+[Mon Apr 27 20:16:33 2026] <STEAM_0:1:54838838> BloodySmile spawned SWEP "Weapon [767][weapon_ar2]"
+[Mon Apr 27 20:16:33 2026] <STEAM_0:1:54838838> BloodySmile spawned SWEP "Weapon [768][weapon_ar2]"
+[Mon Apr 27 20:16:33 2026] <STEAM_0:1:54838838> BloodySmile spawned SWEP "Weapon [770][weapon_ar2]"
+[Mon Apr 27 20:16:33 2026] <STEAM_0:1:54838838> BloodySmile spawned SWEP "Weapon [771][weapon_ar2]"
+[Mon Apr 27 20:16:37 2026] worldspawn has killed gREG4IK.
+[Mon Apr 27 20:16:39 2026] <STEAM_0:1:455594560> gREG4IK ran command "respawn ^"
+[Mon Apr 27 20:17:02 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [615][npc_vj_re5_em81]"
+[Mon Apr 27 20:17:04 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [767][npc_vj_re5_em80]"
+[Mon Apr 27 20:17:19 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [772][weapon_rpg]"
+[Mon Apr 27 20:17:19 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [774][weapon_rpg]"
+[Mon Apr 27 20:17:20 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [775][weapon_rpg]"
+[Mon Apr 27 20:17:20 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [613][weapon_rpg]"
+[Mon Apr 27 20:18:05 2026] <STEAM_0:1:54838838> BloodySmile spawned SWEP "Weapon [615][weapon_ar2]"
+[Mon Apr 27 20:18:06 2026] <STEAM_0:1:54838838> BloodySmile spawned SWEP "Weapon [771][weapon_ar2]"
+[Mon Apr 27 20:18:06 2026] <STEAM_0:1:54838838> BloodySmile spawned SWEP "Weapon [613][weapon_ar2]"
+[Mon Apr 27 20:18:06 2026] <STEAM_0:1:54838838> BloodySmile spawned SWEP "Weapon [772][weapon_ar2]"
+[Mon Apr 27 20:18:06 2026] <STEAM_0:1:54838838> BloodySmile spawned SWEP "Weapon [775][weapon_ar2]"
+[Mon Apr 27 20:18:06 2026] <STEAM_0:1:54838838> BloodySmile spawned SWEP "Weapon [777][weapon_ar2]"
+[Mon Apr 27 20:18:07 2026] <STEAM_0:1:54838838> BloodySmile spawned SWEP "Weapon [779][weapon_ar2]"
+[Mon Apr 27 20:18:13 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [613][item_healthkit]"
+[Mon Apr 27 20:18:14 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [771][item_healthkit]"
+[Mon Apr 27 20:18:14 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [772][item_healthkit]"
+[Mon Apr 27 20:18:14 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [775][item_healthkit]"
+[Mon Apr 27 20:18:14 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [776][item_healthkit]"
+[Mon Apr 27 20:18:14 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [777][item_healthkit]"
+[Mon Apr 27 20:19:05 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [766][npc_vj_re5_em84]"
+[Mon Apr 27 20:19:15 2026] worldspawn has killed BloodySmile.
+[Mon Apr 27 20:19:20 2026] <STEAM_0:1:54838838> BloodySmile ran command "respawn Андрев"
+[Mon Apr 27 20:19:20 2026] <STEAM_0:1:455594560> gREG4IK ran command "respawn Jones"
+[Mon Apr 27 20:19:20 2026] <STEAM_0:1:455594560> gREG4IK ran command "respawn Jones"
+[Mon Apr 27 20:19:52 2026] <STEAM_0:1:455594560> gREG4IK ran command "slap Jones"
+[Mon Apr 27 20:19:52 2026] <STEAM_0:1:455594560> gREG4IK ran command "slap Jones"
+[Mon Apr 27 20:20:01 2026] tohiro has killed tohiro.
+[Mon Apr 27 20:20:01 2026] <STEAM_0:1:455594560> gREG4IK ran command "slay Jones"
+[Mon Apr 27 20:20:01 2026] tohiro has killed tohiro.
+[Mon Apr 27 20:20:01 2026] <STEAM_0:1:455594560> gREG4IK ran command "slay Jones"
+[Mon Apr 27 20:20:19 2026] <STEAM_0:1:455594560> gREG4IK ran command "unjail Jones"
+[Mon Apr 27 20:20:19 2026] <STEAM_0:1:455594560> gREG4IK ran command "unjail Jones"
+[Mon Apr 27 20:20:42 2026] <STEAM_0:1:455594560> gREG4IK ran command "jail Jones 120"
+[Mon Apr 27 20:21:07 2026] <STEAM_0:0:85754053> OZOR ran command "respawn Jones"
+[Mon Apr 27 20:21:07 2026] <STEAM_0:0:85754053> OZOR ran command "respawn Jones"
+[Mon Apr 27 20:21:10 2026] <STEAM_0:1:455594560> gREG4IK ran command "jail Грэг 60"
+[Mon Apr 27 20:21:30 2026] <STEAM_0:1:455594560> gREG4IK ran command "unjail Грэг"
+[Mon Apr 27 20:21:30 2026] <STEAM_0:1:455594560> gREG4IK ran command "unjail Грэг"
+[Mon Apr 27 20:21:36 2026] <STEAM_0:1:455594560> gREG4IK ran command "jail Грэг 120"
+[Mon Apr 27 20:21:41 2026] <STEAM_0:1:455594560> gREG4IK ran command "goto Ковалев"
+[Mon Apr 27 20:21:41 2026] <STEAM_0:1:455594560> gREG4IK ran command "goto Ковалев"
+[Mon Apr 27 20:21:45 2026] <STEAM_0:1:455594560> gREG4IK ran command "goto Андрев"
+[Mon Apr 27 20:21:45 2026] <STEAM_0:1:455594560> gREG4IK ran command "goto Андрев"
+[Mon Apr 27 20:21:53 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [721][sent_ball]"
+[Mon Apr 27 20:21:54 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [722][sent_ball]"
+[Mon Apr 27 20:21:54 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [726][sent_ball]"
+[Mon Apr 27 20:21:54 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [721][sent_ball]"
+[Mon Apr 27 20:21:54 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [738][sent_ball]"
+[Mon Apr 27 20:23:02 2026] OZOR has killed OZOR.
+[Mon Apr 27 20:23:29 2026] <STEAM_0:1:455594560> gREG4IK ran command "unjail Грэг"
+[Mon Apr 27 20:23:29 2026] <STEAM_0:1:455594560> gREG4IK ran command "unjail Грэг"
+[Mon Apr 27 20:23:32 2026] <STEAM_0:0:85754053> OZOR ran command "respawn Ковалев"
+[Mon Apr 27 20:23:32 2026] <STEAM_0:0:85754053> OZOR ran command "respawn Ковалев"
+[Mon Apr 27 20:23:45 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [721][alydus_destructiblefortification]"
+[Mon Apr 27 20:23:48 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [721][witcher_gateway]"
+[Mon Apr 27 20:23:58 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [721][sw_rocket_zt6_v3]"
+[Mon Apr 27 20:23:58 2026] BloodySmile has killed BloodySmile.
+[Mon Apr 27 20:24:02 2026] <STEAM_0:1:54838838> BloodySmile ran command "respawn Андрев"
+[Mon Apr 27 20:24:20 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [741][perk_rocket]"
+[Mon Apr 27 20:24:47 2026] <STEAM_0:1:54838838> BloodySmile ran command "respawn Андрев"
+[Mon Apr 27 20:25:13 2026] <STEAM_0:0:99492375> tohiro: Внимание на квадрат: G4
+[Mon Apr 27 20:25:14 2026] <STEAM_0:0:99492375> tohiro: Внимание на квадрат: G4
+[Mon Apr 27 20:25:17 2026] <STEAM_0:0:99492375> tohiro: Внимание на квадрат: F4
+[Mon Apr 27 20:25:17 2026] <STEAM_0:0:99492375> tohiro: Внимание на квадрат: F4
+[Mon Apr 27 20:25:19 2026] <STEAM_0:0:85754053> OZOR: Внимание на квадрат: H8
+[Mon Apr 27 20:25:19 2026] <STEAM_0:0:85754053> OZOR: Внимание на квадрат: H8
+[Mon Apr 27 20:25:20 2026] <STEAM_0:0:85754053> OZOR: Внимание на квадрат: C5
+[Mon Apr 27 20:25:20 2026] <STEAM_0:0:85754053> OZOR: Внимание на квадрат: C5
+[Mon Apr 27 20:25:21 2026] <STEAM_0:0:99492375> tohiro: Внимание на квадрат: E4
+[Mon Apr 27 20:25:21 2026] <STEAM_0:0:99492375> tohiro: Внимание на квадрат: E4
+[Mon Apr 27 20:25:21 2026] <STEAM_0:0:99492375> tohiro: Внимание на квадрат: E4
+[Mon Apr 27 20:25:22 2026] <STEAM_0:0:99492375> tohiro: Внимание на квадрат: E4
+[Mon Apr 27 20:25:22 2026] <STEAM_0:0:99492375> tohiro: Внимание на квадрат: C5
+[Mon Apr 27 20:25:22 2026] <STEAM_0:0:99492375> tohiro: Внимание на квадрат: C5
+[Mon Apr 27 20:25:23 2026] <STEAM_0:0:99492375> tohiro: Внимание на квадрат: D6
+[Mon Apr 27 20:25:23 2026] <STEAM_0:0:99492375> tohiro: Внимание на квадрат: D6
+[Mon Apr 27 20:25:24 2026] <STEAM_0:0:99492375> tohiro: Внимание на квадрат: G6
+[Mon Apr 27 20:25:24 2026] <STEAM_0:0:99492375> tohiro: Внимание на квадрат: G6
+[Mon Apr 27 20:26:28 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "NPC [765][perk_medkit]"
+[Mon Apr 27 20:27:27 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [767][sw_uh60q]"
+[Mon Apr 27 20:27:30 2026] <STEAM_0:0:85754053> OZOR ran command "respawn Андрев"
+[Mon Apr 27 20:27:30 2026] <STEAM_0:0:85754053> OZOR ran command "respawn Андрев"
+[Mon Apr 27 20:28:36 2026] <STEAM_0:0:99492375> tohiro: /pass
+[Mon Apr 27 20:28:44 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [768][lvs_helicopter_rebel]"
+[Mon Apr 27 20:29:09 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [768][lvs_helicopter_rebel]"
+[Mon Apr 27 20:29:17 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [768][lvs_helicopter_rebel]"
+[Mon Apr 27 20:30:08 2026] <STEAM_0:0:85754053> OZOR ran command "respawn Ковалев"
+[Mon Apr 27 20:30:08 2026] <STEAM_0:0:85754053> OZOR ran command "respawn Ковалев"
+[Mon Apr 27 20:32:04 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [778][sw_leo2a4]"
+[Mon Apr 27 20:32:08 2026] Player "OZOR" <STEAM_0:0:85754053> has left the server
+[Mon Apr 27 20:32:11 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [614][lvs_wheeldrive_kamazfuel]"
+[Mon Apr 27 20:32:17 2026] worldspawn has killed BloodySmile.
+[Mon Apr 27 20:32:23 2026] <STEAM_0:1:54838838> BloodySmile ran command "respawn Андрев"
+[Mon Apr 27 20:32:24 2026] worldspawn has killed tohiro.
+[Mon Apr 27 20:33:47 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [742][perk_rocket]"
+[Mon Apr 27 20:33:58 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [774][perk_rocket]"
+[Mon Apr 27 20:34:22 2026] worldspawn has killed BloodySmile.
+[Mon Apr 27 20:34:26 2026] <STEAM_0:1:54838838> BloodySmile ran command "respawn Андрев"
+[Mon Apr 27 20:34:55 2026] <STEAM_0:1:54838838> BloodySmile used tool "camera"
+[Mon Apr 27 20:37:17 2026] <STEAM_0:1:54838838> BloodySmile ran command "bring Jones"
+[Mon Apr 27 20:40:37 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [778][sent_vj_campfire]"
+[Mon Apr 27 20:40:43 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [778][prop_vj_board]"
+[Mon Apr 27 20:44:45 2026] <STEAM_0:1:455594560> gREG4IK ran command "respawn ^"
+[Mon Apr 27 20:46:00 2026] Player "BloodySmile" <STEAM_0:1:54838838> has left the server
+[Mon Apr 27 20:54:23 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "NPC [743][perk_ammo]"
+[Mon Apr 27 20:55:24 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "NPC [771][perk_armor]"
+[Mon Apr 27 20:58:45 2026] worldspawn has killed tohiro.
+[Mon Apr 27 20:59:55 2026] <STEAM_0:1:455594560> gREG4IK used tool "camera"
+[Mon Apr 27 21:03:41 2026] Player "tohiro" <STEAM_0:0:99492375> has left the server
+[Mon Apr 27 21:04:18 2026] gREG4IK has killed gREG4IK.
+[Mon Apr 27 21:04:20 2026] <STEAM_0:1:455594560> gREG4IK ran command "respawn ^"
+[Mon Apr 27 21:06:37 2026] Player "david280911" <STEAM_0:1:839860057> is attempting to connect.
+[Mon Apr 27 21:10:54 2026] <STEAM_0:1:455594560> gREG4IK: f
+[Mon Apr 27 21:10:55 2026] <STEAM_0:1:455594560> gREG4IK: f
+[Mon Apr 27 21:18:29 2026] Player "david280911" <STEAM_0:1:839860057> is attempting to connect.
+[Mon Apr 27 21:21:36 2026] Player "david280911" <STEAM_0:1:839860057> is attempting to connect.
+[Mon Apr 27 21:21:43 2026] Player "david280911" <STEAM_0:1:839860057> is attempting to connect.
+[Mon Apr 27 21:22:24 2026] Player "david280911" <STEAM_0:1:839860057> is attempting to connect.
+[Mon Apr 27 21:22:31 2026] Player "david280911" <STEAM_0:1:839860057> is attempting to connect.
+[Mon Apr 27 21:22:36 2026] Player "david280911" <STEAM_0:1:839860057> is attempting to connect.
+[Mon Apr 27 21:22:45 2026] Player "david280911" <STEAM_0:1:839860057> is attempting to connect.
+[Mon Apr 27 21:23:45 2026] Player "gREG4IK" <STEAM_0:1:455594560> is attempting to connect.
+[Mon Apr 27 21:24:38 2026] Player "gREG4IK" <STEAM_0:1:455594560> has spawned in the server
+[Mon Apr 27 21:25:01 2026] Player "david280911" <STEAM_0:1:839860057> is attempting to connect.
+[Mon Apr 27 21:26:14 2026] Player "david280911" <STEAM_0:1:839860057> has spawned in the server
+[Mon Apr 27 21:27:10 2026] <STEAM_0:1:455594560> gREG4IK ran command "goto Виноградов"
+[Mon Apr 27 21:27:35 2026] <STEAM_0:1:839860057> david280911: /pass\
+[Mon Apr 27 21:27:42 2026] <STEAM_0:1:839860057> david280911: /pass пр
+[Mon Apr 27 21:28:10 2026] <STEAM_0:1:839860057> david280911: /rf Борт 050, выполняю выезд с базы, конец связи.
+[Mon Apr 27 21:28:46 2026] <STEAM_0:1:839860057> david280911: // грег а покажи новый спецназ вместо GSG 9
+[Mon Apr 27 21:29:28 2026] <STEAM_0:1:455594560> gREG4IK ran command "goto Виноградов"
+[Mon Apr 27 21:31:15 2026] <STEAM_0:1:455594560> gREG4IK: /playermenu
+[Mon Apr 27 21:32:41 2026] Player "david280911" <STEAM_0:1:839860057> has left the server
+[Mon Apr 27 21:34:42 2026] Player "gREG4IK" <STEAM_0:1:455594560> has left the server
+[Mon Apr 27 21:55:44 2026] Player "Pioner" <STEAM_0:1:923042528> is attempting to connect.
+[Mon Apr 27 21:57:33 2026] Player "Pioner" <STEAM_0:1:923042528> is attempting to connect.
+[Mon Apr 27 21:58:33 2026] Player "Discar" <STEAM_0:0:650470378> is attempting to connect.
+[Mon Apr 27 21:58:51 2026] Player "Pioner" <STEAM_0:1:923042528> has spawned in the server
+[Mon Apr 27 21:59:39 2026] Player "Discar" <STEAM_0:0:650470378> has spawned in the server
+[Mon Apr 27 22:00:43 2026] Player "TUZ__PIKA" <STEAM_0:0:415263293> is attempting to connect.
+[Mon Apr 27 22:01:30 2026] Pioner has killed Pioner.
+[Mon Apr 27 22:01:34 2026] Player "Pioner" <STEAM_0:1:923042528> has left the server
+[Mon Apr 27 22:04:59 2026] Player "fugi" <STEAM_0:0:901549713> is attempting to connect.
+[Mon Apr 27 22:09:44 2026] Player "Discar" <STEAM_0:0:650470378> has left the server
+[Mon Apr 27 23:02:22 2026] Player "impotent" <STEAM_0:1:425612974> is attempting to connect.
+[Mon Apr 27 23:04:26 2026] Player "impotent" <STEAM_0:1:425612974> has spawned in the server
+[Mon Apr 27 23:10:33 2026] <STEAM_0:1:425612974> impotent: /pass
+[Mon Apr 27 23:57:21 2026] <STEAM_0:1:425612974> impotent spawned SENT "Entity [624][bodygroup]"
+[Mon Apr 27 23:57:24 2026] <STEAM_0:1:425612974> impotent spawned SENT "Entity [625][bodygroup_admin]"

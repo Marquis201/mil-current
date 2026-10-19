@@ -1,0 +1,12 @@
+[Mon May 11 08:26:36 2026] Player "liltropapopa" <STEAM_0:0:397953146> is attempting to connect.
+[Mon May 11 12:13:35 2026] Player "★FALCON☆" <STEAM_0:1:42516791> is attempting to connect.
+[Mon May 11 13:27:13 2026] Player "TWIN" <STEAM_0:0:157533098> is attempting to connect.
+[Mon May 11 16:13:11 2026] Player "prostotamik" <STEAM_0:1:922004452> is attempting to connect.
+[Mon May 11 16:19:54 2026] Player "just deisth(Дет)" <STEAM_0:0:405537360> is attempting to connect.
+[Mon May 11 16:19:56 2026] Player "just deisth(Дет)" <STEAM_0:0:405537360> is attempting to connect.
+[Mon May 11 19:15:09 2026] Player "Tesack#OldRust" <STEAM_0:0:390862311> is attempting to connect.
+[Mon May 11 19:17:42 2026] Player "Tesack#OldRust" <STEAM_0:0:390862311> has spawned in the server
+[Mon May 11 19:32:24 2026] Player "Tesack#OldRust" <STEAM_0:0:390862311> has left the server
+[Mon May 11 21:09:26 2026] Player "артур" <STEAM_0:0:791872633> is attempting to connect.
+[Mon May 11 23:25:44 2026] Player "funysx" <STEAM_0:0:837098105> is attempting to connect.
+[Mon May 11 23:43:51 2026] Player "Mateo" <STEAM_0:1:796137847> is attempting to connect.

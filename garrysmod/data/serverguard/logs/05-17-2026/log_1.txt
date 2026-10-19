@@ -1,0 +1,12 @@
+[Sun May 17 03:38:21 2026] Player "gordver1723" <STEAM_0:0:390855914> is attempting to connect.
+[Sun May 17 16:11:08 2026] Player "сталин" <STEAM_0:0:959824042> is attempting to connect.
+[Sun May 17 16:24:16 2026] Player "сталин" <STEAM_0:0:959824042> has spawned in the server
+[Sun May 17 16:25:52 2026] Player "сталин" <STEAM_0:0:959824042> has left the server
+[Sun May 17 16:25:54 2026] Player "сталин" <STEAM_0:0:959824042> is attempting to connect.
+[Sun May 17 16:31:21 2026] Player "сталин" <STEAM_0:0:959824042> is attempting to connect.
+[Sun May 17 16:35:07 2026] Player "сталин" <STEAM_0:0:959824042> has spawned in the server
+[Sun May 17 16:35:55 2026] Player "сталин" <STEAM_0:0:959824042> has left the server
+[Sun May 17 19:08:25 2026] Player "ВОДОЛАЗ" <STEAM_0:0:642548282> is attempting to connect.
+[Sun May 17 21:12:40 2026] Player "Dev1on" <STEAM_0:0:937046115> is attempting to connect.
+[Sun May 17 21:35:44 2026] Player "Dev1on" <STEAM_0:0:937046115> has spawned in the server
+[Sun May 17 21:40:04 2026] Player "Dev1on" <STEAM_0:0:937046115> has left the server

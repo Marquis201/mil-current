@@ -1,0 +1,13 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\suno\spyper\us_assault\us_assault_headgear_d"
+	"$bumpmap" "models\suno\spyper\us_assault\us_assault_headgear_n"
+	"$phong" "5"
+	"$phongexponent" "5"
+
+	"$phongboost" ".2"	
+	"$phongfresnelranges"	"[.1 0.2 1]"
+	"$rimlight" "1"										
+	"$rimlightexponent" "88"							
+	"$rimlightboost" "0.2"
+}

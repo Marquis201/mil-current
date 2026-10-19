@@ -1,0 +1,164 @@
+[Thu Apr 30 12:45:30 2026] Player "charfutur51" <STEAM_0:1:403149490> is attempting to connect.
+[Thu Apr 30 13:00:02 2026] Player "Белочка" <STEAM_0:1:411221606> is attempting to connect.
+[Thu Apr 30 13:17:12 2026] Player "Белочка" <STEAM_0:1:411221606> has spawned in the server
+[Thu Apr 30 13:24:36 2026] Player "Белочка" <STEAM_0:1:411221606> has left the server
+[Thu Apr 30 15:22:48 2026] Player "Discar" <STEAM_0:0:650470378> is attempting to connect.
+[Thu Apr 30 15:24:12 2026] Player "Discar" <STEAM_0:0:650470378> has spawned in the server
+[Thu Apr 30 15:26:23 2026] Player "Discar" <STEAM_0:0:650470378> has left the server
+[Thu Apr 30 15:57:19 2026] Player "marina310824" <STEAM_0:1:902575649> is attempting to connect.
+[Thu Apr 30 15:58:19 2026] Player "marina310824" <STEAM_0:1:902575649> has spawned in the server
+[Thu Apr 30 15:58:45 2026] Player "marina310824" <STEAM_0:1:902575649> has left the server
+[Thu Apr 30 16:19:54 2026] Player "Дегустатор пива" <STEAM_0:1:862887967> is attempting to connect.
+[Thu Apr 30 16:20:35 2026] Player "Дегустатор пива" <STEAM_0:1:862887967> has spawned in the server
+[Thu Apr 30 16:21:44 2026] Player "GodZilla" <STEAM_0:0:899769575> is attempting to connect.
+[Thu Apr 30 16:27:01 2026] Player "Дегустатор пива" <STEAM_0:1:862887967> has left the server
+[Thu Apr 30 17:01:39 2026] Player "Casebook" <STEAM_0:0:585468466> is attempting to connect.
+[Thu Apr 30 17:03:23 2026] Player "Casebook" <STEAM_0:0:585468466> has spawned in the server
+[Thu Apr 30 17:07:05 2026] Player "Casebook" <STEAM_0:0:585468466> has left the server
+[Thu Apr 30 18:20:43 2026] Player "e.suloev" <STEAM_0:1:375719671> is attempting to connect.
+[Thu Apr 30 18:26:38 2026] Player "Casebook" <STEAM_0:0:585468466> is attempting to connect.
+[Thu Apr 30 18:28:15 2026] Player "Casebook" <STEAM_0:0:585468466> has spawned in the server
+[Thu Apr 30 18:48:53 2026] Player "Махорка" <STEAM_0:0:563533126> is attempting to connect.
+[Thu Apr 30 18:53:49 2026] Player "Махорка" <STEAM_0:0:563533126> has spawned in the server
+[Thu Apr 30 18:56:00 2026] Player "Discar" <STEAM_0:0:650470378> is attempting to connect.
+[Thu Apr 30 18:56:48 2026] Player "Discar" <STEAM_0:0:650470378> has spawned in the server
+[Thu Apr 30 19:01:29 2026] <STEAM_0:0:585468466> Casebook: Слышу
+[Thu Apr 30 19:02:25 2026] Player "SANYA #BR" <STEAM_0:0:398289672> is attempting to connect.
+[Thu Apr 30 19:06:15 2026] <STEAM_0:0:563533126> Махорка: /me показал жетон военнослужащего ВС РФ: [6975] [В/Ч № 10220]
+[Thu Apr 30 19:06:16 2026] <STEAM_0:0:563533126> Махорка: /me ударил сталкера со всей силы прикладом по голове тем самым вырубев
+[Thu Apr 30 19:06:17 2026] <STEAM_0:0:563533126> Махорка: /me ударил сталкера со всей силы прикладом по голове тем самым вырубев
+[Thu Apr 30 19:06:23 2026] <STEAM_0:0:563533126> Махорка: /me показал жетон военнослужащего ВС РФ: [6975] [В/Ч № 10220]
+[Thu Apr 30 19:06:24 2026] <STEAM_0:0:563533126> Махорка: /me ударил сталкера со всей силы прикладом по голове тем самым вырубев
+[Thu Apr 30 19:06:24 2026] <STEAM_0:0:563533126> Махорка: /me ударил сталкера со всей силы прикладом по голове тем самым вырубев
+[Thu Apr 30 19:06:26 2026] <STEAM_0:0:563533126> Махорка: /me [6975] [Корнеплод А. П.] {РЯД} [102-й МСП] [МОБИЛ] (-) |
+[Thu Apr 30 19:06:33 2026] <STEAM_0:0:563533126> Махорка: /me связал человека и стянул кисти
+[Thu Apr 30 19:06:37 2026] <STEAM_0:0:563533126> Махорка: /me показал жетон военнослужащего ВС РФ: [6975] [В/Ч № 10220]
+[Thu Apr 30 19:06:38 2026] <STEAM_0:0:563533126> Махорка: /me ударил сталкера со всей силы прикладом по голове тем самым вырубев
+[Thu Apr 30 19:06:38 2026] <STEAM_0:0:563533126> Махорка: /me ударил сталкера со всей силы прикладом по голове тем самым вырубев
+[Thu Apr 30 19:17:01 2026] Player "★☾₳ⱤØ₦₦ł₭☽★" <STEAM_0:0:456016030> is attempting to connect.
+[Thu Apr 30 19:19:13 2026] Player "★☾₳ⱤØ₦₦ł₭☽★" <STEAM_0:0:456016030> has spawned in the server
+[Thu Apr 30 19:19:58 2026] <STEAM_0:0:650470378> Discar: /looc на другой сервер залетел
+[Thu Apr 30 19:20:15 2026] <STEAM_0:0:650470378> Discar: /looc там база пошире
+[Thu Apr 30 19:24:26 2026] <STEAM_0:0:650470378> Discar: /me включил нагрудную камеру
+[Thu Apr 30 19:25:50 2026] <STEAM_0:0:585468466> Casebook: /me включил нагрудную камеру DOZOR
+[Thu Apr 30 19:40:30 2026] Player "Махорка" <STEAM_0:0:563533126> has left the server
+[Thu Apr 30 19:50:04 2026] <STEAM_0:0:650470378> Discar: /me взял портрет Путина
+[Thu Apr 30 19:50:38 2026] Player "impotent" <STEAM_0:1:425612974> is attempting to connect.
+[Thu Apr 30 19:50:43 2026] <STEAM_0:0:650470378> Discar: /me закинул портрет Путина
+[Thu Apr 30 19:50:57 2026] <STEAM_0:0:585468466> Casebook: /me Взял ящик с рамками с фотками Путина
+[Thu Apr 30 19:51:15 2026] <STEAM_0:0:585468466> Casebook: /me положил ящик в камаз
+[Thu Apr 30 19:51:21 2026] <STEAM_0:0:585468466> Casebook: /me положил ящик в камаз
+[Thu Apr 30 19:51:33 2026] <STEAM_0:0:585468466> Casebook: /me положил ящик в камаз
+[Thu Apr 30 19:52:30 2026] Player "impotent" <STEAM_0:1:425612974> has spawned in the server
+[Thu Apr 30 19:54:38 2026] <STEAM_0:0:650470378> Discar: /me начал разгружать плакаты Путина и повел в КХО
+[Thu Apr 30 19:54:44 2026] <STEAM_0:0:585468466> Casebook: /me вязл ящик с камаза
+[Thu Apr 30 19:55:15 2026] <STEAM_0:0:650470378> Discar: /me спрятал плакаты за ящиками с боеприпасами
+[Thu Apr 30 19:55:20 2026] <STEAM_0:0:585468466> Casebook: /me Аккуратно поставил коробку с портретами Путина на Пол
+[Thu Apr 30 19:56:13 2026] <STEAM_0:0:585468466> Casebook: /me дернул портрет с подписью Путина
+[Thu Apr 30 19:56:39 2026] <STEAM_0:0:585468466> Casebook: /me положил Ханоеву в карман портрет
+[Thu Apr 30 19:56:48 2026] <STEAM_0:0:585468466> Casebook: :cold_face:
+[Thu Apr 30 19:57:01 2026] Player "Грымза" <STEAM_0:1:826463988> is attempting to connect.
+[Thu Apr 30 19:57:20 2026] <STEAM_0:0:650470378> Discar: /me закинул в карман Ханоева портрет Путина
+[Thu Apr 30 20:03:22 2026] Player "yasararslan.0612" <STEAM_0:0:634703250> is attempting to connect.
+[Thu Apr 30 20:03:47 2026] <STEAM_0:1:425612974> impotent spawned SENT "Entity [649][item_ammo_ar2]"
+[Thu Apr 30 20:03:48 2026] <STEAM_0:1:425612974> impotent spawned SENT "Entity [649][item_ammo_ar2]"
+[Thu Apr 30 20:03:50 2026] <STEAM_0:1:425612974> impotent spawned SENT "Entity [649][item_ammo_ar2_large]"
+[Thu Apr 30 20:03:51 2026] <STEAM_0:1:425612974> impotent spawned SENT "Entity [659][item_ammo_ar2_large]"
+[Thu Apr 30 20:03:51 2026] <STEAM_0:1:425612974> impotent spawned SENT "Entity [660][item_ammo_ar2_large]"
+[Thu Apr 30 20:03:51 2026] <STEAM_0:1:425612974> impotent spawned SENT "Entity [695][item_ammo_ar2_large]"
+[Thu Apr 30 20:04:51 2026] <STEAM_0:1:425612974> impotent spawned SENT "Entity [649][lvs_wheeldrive_hummer]"
+[Thu Apr 30 20:05:08 2026] <STEAM_0:1:425612974> impotent spawned SENT "Entity [659][sw_quadbike]"
+[Thu Apr 30 20:05:15 2026] <STEAM_0:1:425612974> impotent spawned SENT "Entity [649][sw_vdvbuggy]"
+[Thu Apr 30 20:06:21 2026] Player "Pro100_Filya" <STEAM_0:0:803102855> is attempting to connect.
+[Thu Apr 30 20:07:50 2026] <STEAM_0:1:425612974> impotent: /ooc че бля
+[Thu Apr 30 20:08:01 2026] <STEAM_0:1:425612974> impotent: /ooc ахуено я точку захватил
+[Thu Apr 30 20:08:07 2026] <STEAM_0:1:425612974> impotent: /ooc ахуено я точку захватил
+[Thu Apr 30 20:08:14 2026] <STEAM_0:1:425612974> impotent: /ooc ахуено я точку захватил
+[Thu Apr 30 20:08:20 2026] Player "Pro100_Filya" <STEAM_0:0:803102855> has spawned in the server
+[Thu Apr 30 20:08:22 2026] <STEAM_0:1:425612974> impotent: /ooc ахуено я точку захватил
+[Thu Apr 30 20:08:46 2026] <STEAM_0:0:650470378> Discar: /ooc Дезертировал в РФ все Мангомери
+[Thu Apr 30 20:10:17 2026] impotent has killed Casebook.
+[Thu Apr 30 20:11:20 2026] <STEAM_0:0:803102855> Pro100_Filya: Внимание на квадрат: F0
+[Thu Apr 30 20:11:20 2026] <STEAM_0:0:803102855> Pro100_Filya: Внимание на квадрат: F0
+[Thu Apr 30 20:11:21 2026] <STEAM_0:0:803102855> Pro100_Filya: Внимание на квадрат: А0
+[Thu Apr 30 20:11:21 2026] <STEAM_0:0:803102855> Pro100_Filya: Внимание на квадрат: А0
+[Thu Apr 30 20:12:00 2026] impotent has killed Discar.
+[Thu Apr 30 20:13:57 2026] Player "Грымза" <STEAM_0:1:826463988> has spawned in the server
+[Thu Apr 30 20:14:12 2026] Casebook has killed Discar.
+[Thu Apr 30 20:14:50 2026] <STEAM_0:0:803102855> Pro100_Filya: .
+[Thu Apr 30 20:14:56 2026] <STEAM_0:0:803102855> Pro100_Filya: .
+[Thu Apr 30 20:16:52 2026] Casebook has killed Discar.
+[Thu Apr 30 20:17:00 2026] <STEAM_0:1:425612974> impotent spawned SENT "Entity [617][lvs_wheeldrive_hummer]"
+[Thu Apr 30 20:17:46 2026] <STEAM_0:1:425612974> impotent spawned SENT "Entity [619][lvs_wheeldrive_hummer]"
+[Thu Apr 30 20:20:04 2026] <STEAM_0:1:425612974> impotent spawned SENT "Entity [619][lvs_wheeldrive_hummer]"
+[Thu Apr 30 20:21:32 2026] Player "[ALB]МАФИЙОЗНИК" <STEAM_0:1:424398965> is attempting to connect.
+[Thu Apr 30 20:26:17 2026] <STEAM_0:1:425612974> impotent spawned SENT "Entity [617][item_ammo_ar2_large]"
+[Thu Apr 30 20:26:17 2026] <STEAM_0:1:425612974> impotent spawned SENT "Entity [846][item_ammo_ar2_large]"
+[Thu Apr 30 20:26:17 2026] <STEAM_0:1:425612974> impotent spawned SENT "Entity [847][item_ammo_ar2_large]"
+[Thu Apr 30 20:26:41 2026] Player "Грымза" <STEAM_0:1:826463988> has left the server
+[Thu Apr 30 20:26:48 2026] <STEAM_0:1:425612974> impotent spawned SENT "Entity [615][lvs_wheeldrive_hummer]"
+[Thu Apr 30 20:28:21 2026] Discar has killed Casebook.
+[Thu Apr 30 20:28:36 2026] <STEAM_0:0:803102855> Pro100_Filya: а?
+[Thu Apr 30 20:28:46 2026] <STEAM_0:0:803102855> Pro100_Filya: здравия!
+[Thu Apr 30 20:29:05 2026] <STEAM_0:0:803102855> Pro100_Filya: форму сменить надо
+[Thu Apr 30 20:29:09 2026] <STEAM_0:0:803102855> Pro100_Filya: перевёлся
+[Thu Apr 30 20:29:12 2026] <STEAM_0:0:803102855> Pro100_Filya: в ksk
+[Thu Apr 30 20:29:49 2026] <STEAM_0:0:803102855> Pro100_Filya: спасибо
+[Thu Apr 30 20:30:07 2026] <STEAM_0:0:803102855> Pro100_Filya: ну я там специализацию не выбирал
+[Thu Apr 30 20:30:09 2026] <STEAM_0:0:803102855> Pro100_Filya: штурмовик
+[Thu Apr 30 20:30:12 2026] <STEAM_0:0:803102855> Pro100_Filya: штурмовик
+[Thu Apr 30 20:31:22 2026] <STEAM_0:0:803102855> Pro100_Filya: О, спасибо
+[Thu Apr 30 20:31:27 2026] <STEAM_0:0:803102855> Pro100_Filya: щяс пойду оружие возьму
+[Thu Apr 30 20:31:38 2026] <STEAM_0:1:425612974> impotent spawned SENT "Entity [662][lvs_wheeldrive_hummer]"
+[Thu Apr 30 20:32:37 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /rf где усе
+[Thu Apr 30 20:33:06 2026] <STEAM_0:0:585468466> Casebook: /rf В чат посмотрите
+[Thu Apr 30 20:33:35 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc какой ещё чат?
+[Thu Apr 30 20:33:39 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc ,kz
+[Thu Apr 30 20:33:43 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /rf бля
+[Thu Apr 30 20:33:47 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /rf ,kz
+[Thu Apr 30 20:33:54 2026] <STEAM_0:0:585468466> Casebook: /ooc Рация барахлит,чат выше пролистай
+[Thu Apr 30 20:34:23 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc бля
+[Thu Apr 30 20:35:10 2026] Pro100_Filya has killed Casebook.
+[Thu Apr 30 20:35:53 2026] <STEAM_0:1:425612974> impotent: /nato еще один на хомле
+[Thu Apr 30 20:35:56 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /rf на базу
+[Thu Apr 30 20:36:54 2026] impotent has killed Discar.
+[Thu Apr 30 20:37:32 2026] <STEAM_0:1:425612974> impotent: /nato захватывается?
+[Thu Apr 30 20:37:42 2026] <STEAM_0:0:803102855> Pro100_Filya: /nato да
+[Thu Apr 30 20:39:00 2026] Player "Tim324" <STEAM_0:1:387603068> is attempting to connect.
+[Thu Apr 30 20:39:06 2026] Player "Tim324" <STEAM_0:1:387603068> is attempting to connect.
+[Thu Apr 30 20:39:11 2026] <STEAM_0:0:650470378> Discar: Хм. Чья кровь?
+[Thu Apr 30 20:39:41 2026] <STEAM_0:0:650470378> Discar: /me взял пробу крови с пола
+[Thu Apr 30 20:43:33 2026] Player "Tim324" <STEAM_0:1:387603068> is attempting to connect.
+[Thu Apr 30 20:45:09 2026] <STEAM_0:0:650470378> Discar: /looc у нас кд мы недавно померли
+[Thu Apr 30 20:45:39 2026] <STEAM_0:0:650470378> Discar: /looc мы будем лучше правил слушатся чем приказов
+[Thu Apr 30 20:46:14 2026] <STEAM_0:0:803102855> Pro100_Filya: /nato На крыше нахожусь
+[Thu Apr 30 20:54:34 2026] impotent has killed ★☾₳ⱤØ₦₦ł₭☽★.
+[Thu Apr 30 20:54:35 2026] impotent has killed Casebook.
+[Thu Apr 30 20:54:51 2026] Discar has killed impotent.
+[Thu Apr 30 20:54:51 2026] Pro100_Filya has killed Discar.
+[Thu Apr 30 20:55:27 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /rf бациллы
+[Thu Apr 30 20:57:29 2026] <STEAM_0:1:425612974> impotent: 355
+[Thu Apr 30 20:59:26 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: минута пошла или взрываю
+[Thu Apr 30 21:00:39 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: .
+[Thu Apr 30 21:01:08 2026] <STEAM_0:1:425612974> impotent spawned npc "NPC [614][npc_combine_s]"
+[Thu Apr 30 21:03:41 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: чтобы вы хотели сделать перед смертью?
+[Thu Apr 30 21:05:44 2026] <STEAM_0:0:803102855> Pro100_Filya: /ooc одкб постреляемся?
+[Thu Apr 30 21:08:47 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /rf где все
+[Thu Apr 30 21:09:54 2026] Pro100_Filya has killed ★☾₳ⱤØ₦₦ł₭☽★.
+[Thu Apr 30 21:10:02 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /rf на меде
+[Thu Apr 30 21:10:07 2026] Pro100_Filya has killed Discar.
+[Thu Apr 30 21:10:21 2026] impotent has killed Casebook.
+[Thu Apr 30 21:10:25 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /rf ДА КАК
+[Thu Apr 30 21:12:25 2026] Player "★☾₳ⱤØ₦₦ł₭☽★" <STEAM_0:0:456016030> has left the server
+[Thu Apr 30 21:13:17 2026] Player "Discar" <STEAM_0:0:650470378> has left the server
+[Thu Apr 30 21:13:17 2026] Player "Casebook" <STEAM_0:0:585468466> has left the server
+[Thu Apr 30 21:15:05 2026] impotent has killed Pro100_Filya.
+[Thu Apr 30 21:15:13 2026] <STEAM_0:0:803102855> Pro100_Filya: /ooc ладно давай
+[Thu Apr 30 21:15:17 2026] <STEAM_0:0:803102855> Pro100_Filya: // хорошо поиграли!
+[Thu Apr 30 21:15:22 2026] <STEAM_0:0:803102855> Pro100_Filya: /ooc почти мою память
+[Thu Apr 30 21:15:25 2026] Player "Pro100_Filya" <STEAM_0:0:803102855> has left the server
+[Thu Apr 30 21:15:42 2026] Player "impotent" <STEAM_0:1:425612974> has left the server
+[Thu Apr 30 22:02:21 2026] Player "левое яичко" <STEAM_0:1:392353766> is attempting to connect.
+[Thu Apr 30 22:26:20 2026] Player "_Bugulma_01" <STEAM_0:1:895254630> is attempting to connect.
+[Thu Apr 30 23:12:24 2026] Player "polar k1d" <STEAM_0:1:834490056> is attempting to connect.
+[Thu Apr 30 23:28:01 2026] Player "KAD7R" <STEAM_0:0:935446369> is attempting to connect.

@@ -1,0 +1,388 @@
+[Wed Jan  7 00:05:13 2026] Player "Dasma_i" <STEAM_0:0:783993974> is attempting to connect.
+[Wed Jan  7 03:46:04 2026] Player "maks" <STEAM_0:0:750491726> is attempting to connect.
+[Wed Jan  7 03:53:01 2026] Player "maks" <STEAM_0:0:750491726> has spawned in the server
+[Wed Jan  7 03:55:33 2026] Player "maks" <STEAM_0:0:750491726> has left the server
+[Wed Jan  7 03:57:09 2026] Player "maks" <STEAM_0:0:750491726> is attempting to connect.
+[Wed Jan  7 03:57:39 2026] Player "maks" <STEAM_0:0:750491726> has spawned in the server
+[Wed Jan  7 03:58:03 2026] <STEAM_0:0:750491726> maks: Ы
+[Wed Jan  7 03:58:08 2026] <STEAM_0:0:750491726> maks: /LOOC тест
+[Wed Jan  7 03:58:11 2026] <STEAM_0:0:750491726> maks: /ooc тест
+[Wed Jan  7 03:58:14 2026] <STEAM_0:0:750491726> maks: /OOC ТЕСТ
+[Wed Jan  7 03:58:18 2026] <STEAM_0:0:750491726> maks: /looc s
+[Wed Jan  7 03:58:22 2026] <STEAM_0:0:750491726> maks: /advert r
+[Wed Jan  7 03:58:33 2026] Player "maks" <STEAM_0:0:750491726> has left the server
+[Wed Jan  7 05:08:42 2026] Player "фифти севан" <STEAM_0:1:560062972> is attempting to connect.
+[Wed Jan  7 05:15:19 2026] Player "фифти севан" <STEAM_0:1:560062972> has spawned in the server
+[Wed Jan  7 05:20:47 2026] Player "фифти севан" <STEAM_0:1:560062972> has left the server
+[Wed Jan  7 05:20:47 2026] Player "фифти севан" <STEAM_0:1:560062972> is attempting to connect.
+[Wed Jan  7 05:21:15 2026] Player "фифти севан" <STEAM_0:1:560062972> has spawned in the server
+[Wed Jan  7 05:21:46 2026] Player "фифти севан" <STEAM_0:1:560062972> has left the server
+[Wed Jan  7 13:16:01 2026] Player "international" <STEAM_0:0:532359525> is attempting to connect.
+[Wed Jan  7 13:29:10 2026] Player "international" <STEAM_0:0:532359525> has spawned in the server
+[Wed Jan  7 13:31:08 2026] Player "Rossignol" <STEAM_0:0:633990777> is attempting to connect.
+[Wed Jan  7 13:40:40 2026] Player "Магистр гейства" <STEAM_0:0:841918939> is attempting to connect.
+[Wed Jan  7 13:46:18 2026] Player "私はゲイです" <STEAM_0:1:409465675> is attempting to connect.
+[Wed Jan  7 13:48:47 2026] Player "mr.cookies" <STEAM_0:1:928480144> is attempting to connect.
+[Wed Jan  7 13:48:53 2026] Player "私はゲイです" <STEAM_0:1:409465675> is attempting to connect.
+[Wed Jan  7 13:50:15 2026] Player "私はゲイです" <STEAM_0:1:409465675> is attempting to connect.
+[Wed Jan  7 13:50:16 2026] Player "Rossignol" <STEAM_0:0:633990777> has spawned in the server
+[Wed Jan  7 13:52:38 2026] Player "чупапил муняню" <STEAM_0:0:593540774> is attempting to connect.
+[Wed Jan  7 14:16:38 2026] Player "Лесник" <STEAM_0:0:200862208> is attempting to connect.
+[Wed Jan  7 14:17:06 2026] Player "Лесник" <STEAM_0:0:200862208> has spawned in the server
+[Wed Jan  7 14:17:31 2026] Player "Лесник" <STEAM_0:0:200862208> has left the server
+[Wed Jan  7 14:17:31 2026] Player "Лесник" <STEAM_0:0:200862208> is attempting to connect.
+[Wed Jan  7 14:17:53 2026] Player "Лесник" <STEAM_0:0:200862208> has spawned in the server
+[Wed Jan  7 14:20:02 2026] Player "Лесник" <STEAM_0:0:200862208> has left the server
+[Wed Jan  7 14:38:40 2026] Player "Лесник" <STEAM_0:0:200862208> is attempting to connect.
+[Wed Jan  7 14:39:22 2026] Player "Лесник" <STEAM_0:0:200862208> has spawned in the server
+[Wed Jan  7 14:44:55 2026] Player "Po_rA1" <STEAM_0:0:887714123> is attempting to connect.
+[Wed Jan  7 14:45:07 2026] Player "Po_rA1" <STEAM_0:0:887714123> is attempting to connect.
+[Wed Jan  7 14:51:37 2026] <STEAM_0:0:200862208> Лесник: Здесь есть кто-то??????
+[Wed Jan  7 14:51:40 2026] Player "Mr.Monolith" <STEAM_0:1:47931114> is attempting to connect.
+[Wed Jan  7 14:52:02 2026] <STEAM_0:0:200862208> Лесник: ту ту ту ту ту ту ту
+[Wed Jan  7 14:52:15 2026] Player "Mr.Monolith" <STEAM_0:1:47931114> has spawned in the server
+[Wed Jan  7 14:54:37 2026] Player "Rossignol" <STEAM_0:0:633990777> has left the server
+[Wed Jan  7 15:09:53 2026] Player "explorer" <STEAM_0:0:768202207> is attempting to connect.
+[Wed Jan  7 15:09:56 2026] Player "explorer" <STEAM_0:0:768202207> is attempting to connect.
+[Wed Jan  7 15:09:59 2026] Player "explorer" <STEAM_0:0:768202207> is attempting to connect.
+[Wed Jan  7 15:10:14 2026] Player "pizdaboll" <STEAM_0:0:854959720> is attempting to connect.
+[Wed Jan  7 15:10:14 2026] Player "pizdaboll" <STEAM_0:0:854959720> is attempting to connect.
+[Wed Jan  7 15:10:25 2026] <STEAM_0:0:200862208> Лесник: АААААААААААААААААААААААААА
+[Wed Jan  7 15:10:33 2026] <STEAM_0:0:200862208> Лесник: ЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯ ПОД КАРТОЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙ
+[Wed Jan  7 15:11:48 2026] Player "Лесник" <STEAM_0:0:200862208> has left the server
+[Wed Jan  7 15:11:53 2026] Player "Лесник" <STEAM_0:0:200862208> is attempting to connect.
+[Wed Jan  7 15:12:24 2026] Player "Лесник" <STEAM_0:0:200862208> has spawned in the server
+[Wed Jan  7 15:15:48 2026] <STEAM_0:0:200862208> Лесник: АААААААААААААААААААААААААААААААААААААААААААА СКУКАААААААААААААААААААа
+[Wed Jan  7 15:15:59 2026] <STEAM_0:0:200862208> Лесник: Я 1?????"?
+[Wed Jan  7 15:26:54 2026] Player "explorer" <STEAM_0:0:768202207> is attempting to connect.
+[Wed Jan  7 15:28:14 2026] Player "Лесник" <STEAM_0:0:200862208> has left the server
+[Wed Jan  7 15:30:41 2026] Player "explorer" <STEAM_0:0:768202207> has spawned in the server
+[Wed Jan  7 15:33:06 2026] <STEAM_0:0:768202207> explorer: /ooc здаров, можешь дс скинуть?
+[Wed Jan  7 15:34:34 2026] <STEAM_0:1:47931114> Mr.Monolith: // ДС? Ща
+[Wed Jan  7 15:34:39 2026] <STEAM_0:0:768202207> explorer: /ooc да я уже нашел
+[Wed Jan  7 15:34:50 2026] <STEAM_0:0:768202207> explorer: /ooc не знаешь как заявку на вкс нато подать?
+[Wed Jan  7 15:35:14 2026] <STEAM_0:1:47931114> Mr.Monolith: // Сейчас пока никак, ВКС пока недоступны
+[Wed Jan  7 15:35:20 2026] <STEAM_0:0:768202207> explorer: /ooc дапизде(
+[Wed Jan  7 15:35:28 2026] <STEAM_0:1:47931114> Mr.Monolith: // Да-да, увы :с
+[Wed Jan  7 15:35:45 2026] <STEAM_0:0:768202207> explorer: /ooc а танковые войска?
+[Wed Jan  7 15:36:56 2026] <STEAM_0:1:47931114> Mr.Monolith: // А там уже через дискорд НАТО
+[Wed Jan  7 15:37:03 2026] <STEAM_0:0:768202207> explorer: /ooc как дс нато получить
+[Wed Jan  7 15:37:25 2026] <STEAM_0:1:47931114> Mr.Monolith: // https://discord.gg/8fb2mXhh7w
+[Wed Jan  7 15:54:03 2026] Player "S0u1" <STEAM_0:1:618974024> is attempting to connect.
+[Wed Jan  7 15:55:23 2026] Player "S0u1" <STEAM_0:1:618974024> has spawned in the server
+[Wed Jan  7 15:57:36 2026] Player "explorer" <STEAM_0:0:768202207> has left the server
+[Wed Jan  7 15:58:51 2026] <STEAM_0:1:47931114> Mr.Monolith: Ты там на снайпера хотел?
+[Wed Jan  7 15:58:56 2026] <STEAM_0:1:618974024> S0u1: Так точно
+[Wed Jan  7 15:59:11 2026] <STEAM_0:1:47931114> Mr.Monolith: Не раслышал, повтори
+[Wed Jan  7 15:59:27 2026] <STEAM_0:1:47931114> Mr.Monolith: Добро, это я знаю.
+[Wed Jan  7 15:59:44 2026] Player "pizdaboll" <STEAM_0:0:854959720> is attempting to connect.
+[Wed Jan  7 16:01:32 2026] Player "punk" <STEAM_0:0:921324874> is attempting to connect.
+[Wed Jan  7 16:02:14 2026] Player "punk" <STEAM_0:0:921324874> has spawned in the server
+[Wed Jan  7 16:03:51 2026] Player "Кунислав" <STEAM_0:1:160661217> is attempting to connect.
+[Wed Jan  7 16:09:30 2026] Mr.Monolith has killed punk.
+[Wed Jan  7 16:09:42 2026] <STEAM_0:1:47931114> Mr.Monolith: /РФ есть попадание!
+[Wed Jan  7 16:10:04 2026] worldspawn has killed S0u1.
+[Wed Jan  7 16:10:20 2026] <STEAM_0:1:618974024> S0u1: // ахыхаххваха сука я ебал
+[Wed Jan  7 16:10:47 2026] <STEAM_0:1:47931114> Mr.Monolith: // Ля, не успел xD
+[Wed Jan  7 16:10:57 2026] <STEAM_0:1:618974024> S0u1: // крюк слишком высоко кидает
+[Wed Jan  7 16:11:10 2026] <STEAM_0:1:47931114> Mr.Monolith: // Там к нему привыкнуть просто надо
+[Wed Jan  7 16:11:48 2026] <STEAM_0:1:47931114> Mr.Monolith: /rf Жду на точке
+[Wed Jan  7 16:12:04 2026] worldspawn has killed S0u1.
+[Wed Jan  7 16:12:10 2026] <STEAM_0:1:618974024> S0u1: Сейчас
+[Wed Jan  7 16:13:42 2026] Player "international" <STEAM_0:0:532359525> has left the server
+[Wed Jan  7 16:14:22 2026] punk has killed S0u1.
+[Wed Jan  7 16:15:28 2026] Mr.Monolith has killed punk.
+[Wed Jan  7 16:15:35 2026] <STEAM_0:1:47931114> Mr.Monolith: /rf Готов!
+[Wed Jan  7 16:15:46 2026] <STEAM_0:1:47931114> Mr.Monolith: ./rf (())
+[Wed Jan  7 16:17:11 2026] worldspawn has killed S0u1.
+[Wed Jan  7 16:17:47 2026] punk has killed S0u1.
+[Wed Jan  7 16:18:05 2026] Player "Сен" <STEAM_0:1:110234317> is attempting to connect.
+[Wed Jan  7 16:19:59 2026] punk has killed Mr.Monolith.
+[Wed Jan  7 16:19:59 2026] Mr.Monolith has killed Mr.Monolith.
+[Wed Jan  7 16:20:34 2026] <STEAM_0:1:618974024> S0u1: /rf Побыстрей, пожалуйста!
+[Wed Jan  7 16:20:49 2026] <STEAM_0:1:47931114> Mr.Monolith: /rf Постараюсь
+[Wed Jan  7 16:21:07 2026] <STEAM_0:1:618974024> S0u1: /rf я отъехать могу?
+[Wed Jan  7 16:21:17 2026] <STEAM_0:1:47931114> Mr.Monolith: /rf Сам, скорее всего не сможешь
+[Wed Jan  7 16:21:30 2026] <STEAM_0:1:618974024> S0u1: /rf Слишком тяжело?
+[Wed Jan  7 16:21:43 2026] Player "SAXAROZA" <STEAM_0:1:773566500> is attempting to connect.
+[Wed Jan  7 16:21:51 2026] <STEAM_0:1:47931114> Mr.Monolith: /rf Попробуй, коль поулчится
+[Wed Jan  7 16:21:55 2026] punk has killed S0u1.
+[Wed Jan  7 16:21:59 2026] <STEAM_0:1:618974024> S0u1: /rf Блять я вылез!
+[Wed Jan  7 16:22:12 2026] <STEAM_0:1:618974024> S0u1: /rf Я ебал эту систему...
+[Wed Jan  7 16:23:04 2026] Player "SAXAROZA" <STEAM_0:1:773566500> has spawned in the server
+[Wed Jan  7 16:23:24 2026] Mr.Monolith has killed punk.
+[Wed Jan  7 16:23:25 2026] punk has killed punk.
+[Wed Jan  7 16:23:31 2026] <STEAM_0:1:47931114> Mr.Monolith: /rf Убил его.
+[Wed Jan  7 16:23:54 2026] <STEAM_0:1:618974024> S0u1: /rf Хорошо
+[Wed Jan  7 16:24:19 2026] <STEAM_0:1:773566500> SAXAROZA ran command "ammo RCT P. B. Parker"
+[Wed Jan  7 16:24:58 2026] <STEAM_0:1:618974024> S0u1: /rf Вы где?
+[Wed Jan  7 16:25:05 2026] <STEAM_0:1:47931114> Mr.Monolith: /rf На точке.
+[Wed Jan  7 16:25:12 2026] <STEAM_0:1:47931114> Mr.Monolith: /rf Ctqxfc gjtle yfpfl
+[Wed Jan  7 16:25:20 2026] <STEAM_0:1:47931114> Mr.Monolith: /rf Сейчас поеду назад
+[Wed Jan  7 16:25:23 2026] <STEAM_0:1:773566500> SAXAROZA spawned SENT "Entity [646][sw_matv]"
+[Wed Jan  7 16:26:55 2026] Mr.Monolith has killed SAXAROZA.
+[Wed Jan  7 16:27:55 2026] punk has killed S0u1.
+[Wed Jan  7 16:27:56 2026] S0u1 has killed S0u1.
+[Wed Jan  7 16:28:16 2026] <STEAM_0:1:618974024> S0u1: /rf У меня..один..
+[Wed Jan  7 16:28:36 2026] Player "Сен" <STEAM_0:1:110234317> has spawned in the server
+[Wed Jan  7 16:28:39 2026] punk has killed Mr.Monolith.
+[Wed Jan  7 16:28:40 2026] Mr.Monolith has killed Mr.Monolith.
+[Wed Jan  7 16:28:59 2026] <STEAM_0:1:47931114> Mr.Monolith: // Больше не буду вылезать, чтобы тебя поднимать xD
+[Wed Jan  7 16:29:04 2026] <STEAM_0:1:618974024> S0u1: // )
+[Wed Jan  7 16:29:08 2026] <STEAM_0:1:773566500> SAXAROZA ran command "ammo RCT P. B. Parker"
+[Wed Jan  7 16:29:09 2026] <STEAM_0:1:618974024> S0u1: // я лкм и пкм путаю
+[Wed Jan  7 16:29:22 2026] <STEAM_0:1:773566500> SAXAROZA spawned SENT "Entity [494][lvs_wheeldrive_hummer]"
+[Wed Jan  7 16:30:25 2026] <STEAM_0:1:47931114> Mr.Monolith: /l Карта F1
+[Wed Jan  7 16:32:32 2026] <STEAM_0:1:618974024> S0u1: // ебать мой рот
+[Wed Jan  7 16:33:02 2026] Player "Сен" <STEAM_0:1:110234317> has left the server
+[Wed Jan  7 16:33:39 2026] S0u1 has killed SAXAROZA.
+[Wed Jan  7 16:34:36 2026] <STEAM_0:1:773566500> SAXAROZA ran command "ammo RCT P. B. Parker"
+[Wed Jan  7 16:34:44 2026] Player "Сен" <STEAM_0:1:110234317> is attempting to connect.
+[Wed Jan  7 16:35:11 2026] Player "Сен" <STEAM_0:1:110234317> has spawned in the server
+[Wed Jan  7 16:35:26 2026] <STEAM_0:1:773566500> SAXAROZA spawned SENT "Entity [651][edit_sun]"
+[Wed Jan  7 16:35:35 2026] <STEAM_0:1:773566500> SAXAROZA spawned SENT "Entity [650][sw_bomb_ofab250_umpk_v3]"
+[Wed Jan  7 16:35:37 2026] SAXAROZA has killed SAXAROZA.
+[Wed Jan  7 16:35:38 2026] SAXAROZA has killed SAXAROZA.
+[Wed Jan  7 16:36:30 2026] <STEAM_0:1:773566500> SAXAROZA ran command "ammo RCT P. B. Parker"
+[Wed Jan  7 16:37:19 2026] <STEAM_0:1:773566500> SAXAROZA spawned SENT "Entity [696][lvs_wheeldrive_hummer]"
+[Wed Jan  7 16:39:13 2026] <STEAM_0:1:618974024> S0u1: // Заебете бомбить
+[Wed Jan  7 16:39:34 2026] <STEAM_0:1:773566500> SAXAROZA ran command "ammo RCT P. B. Parker"
+[Wed Jan  7 16:40:15 2026] S0u1 has killed SAXAROZA.
+[Wed Jan  7 16:41:22 2026] Player "Сен" <STEAM_0:1:110234317> has left the server
+[Wed Jan  7 16:41:45 2026] <STEAM_0:1:773566500> SAXAROZA ran command "ammo RCT P. B. Parker"
+[Wed Jan  7 16:42:04 2026] <STEAM_0:0:921324874> punk: // а сегодня рф выйдет гулять?
+[Wed Jan  7 16:42:11 2026] <STEAM_0:1:618974024> S0u1: // Не хочу
+[Wed Jan  7 16:42:19 2026] <STEAM_0:1:618974024> S0u1: // я с крюком и снайперкой ниче не сделаю
+[Wed Jan  7 16:42:23 2026] <STEAM_0:1:618974024> S0u1: // и то я 1
+[Wed Jan  7 16:42:41 2026] <STEAM_0:0:921324874> punk: // я 1 против танка сражался
+[Wed Jan  7 16:42:52 2026] <STEAM_0:1:618974024> S0u1: // А я с бомбежкой сражаюсь 1
+[Wed Jan  7 16:43:53 2026] S0u1 has killed SAXAROZA.
+[Wed Jan  7 16:43:54 2026] SAXAROZA has killed SAXAROZA.
+[Wed Jan  7 16:44:46 2026] <STEAM_0:1:773566500> SAXAROZA ran command "hp RCT P. B. Parker 1000000000000000000"
+[Wed Jan  7 16:45:14 2026] Player "Smasher" <STEAM_0:1:220381002> is attempting to connect.
+[Wed Jan  7 16:46:19 2026] <STEAM_0:1:773566500> SAXAROZA ran command "ammo RCT P. B. Parker"
+[Wed Jan  7 16:46:42 2026] Player "Smasher" <STEAM_0:1:220381002> has spawned in the server
+[Wed Jan  7 16:46:57 2026] <STEAM_0:1:618974024> S0u1: // и долго это будет?
+[Wed Jan  7 16:47:12 2026] <STEAM_0:1:773566500> SAXAROZA: 4 часа
+[Wed Jan  7 16:47:38 2026] <STEAM_0:1:618974024> S0u1: // ебать я три раза попал ты не умре
+[Wed Jan  7 16:47:45 2026] <STEAM_0:1:618974024> S0u1: // че за приколы
+[Wed Jan  7 16:47:55 2026] <STEAM_0:1:220381002> Smasher ran command "noclip COL A.T. Smasher"
+[Wed Jan  7 16:48:19 2026] SAXAROZA has killed S0u1.
+[Wed Jan  7 16:48:20 2026] S0u1 has killed S0u1.
+[Wed Jan  7 16:48:35 2026] <STEAM_0:1:618974024> S0u1: // 4 раза попал и ты не умер
+[Wed Jan  7 16:48:38 2026] <STEAM_0:1:618974024> S0u1: // я в шоке
+[Wed Jan  7 16:48:52 2026] <STEAM_0:1:220381002> Smasher ran command "noclip COL A.T. Smasher"
+[Wed Jan  7 16:49:12 2026] <STEAM_0:1:773566500> SAXAROZA ran command "respawn RCT P. B. Parker"
+[Wed Jan  7 16:49:23 2026] <STEAM_0:1:773566500> SAXAROZA ran command "ammo RCT P. B. Parker"
+[Wed Jan  7 16:49:37 2026] <STEAM_0:1:773566500> SAXAROZA spawned SENT "Entity [647][lvs_wheeldrive_m3a3]"
+[Wed Jan  7 16:51:54 2026] punk has killed S0u1.
+[Wed Jan  7 16:51:55 2026] S0u1 has killed S0u1.
+[Wed Jan  7 16:53:59 2026] Player "༒︎シ︎ʰᵉⁿᵗᵃⁱシ" <STEAM_0:0:851601344> is attempting to connect.
+[Wed Jan  7 16:54:05 2026] <STEAM_0:1:618974024> S0u1: // Ну нихуя вы там блять
+[Wed Jan  7 16:54:14 2026] <STEAM_0:1:618974024> S0u1: // Пристроились
+[Wed Jan  7 16:54:40 2026] <STEAM_0:1:773566500> SAXAROZA: фаб 3000 вам не нужен?
+[Wed Jan  7 16:54:47 2026] <STEAM_0:1:220381002> Smasher: // кто на бредли кемпит у выхода
+[Wed Jan  7 16:54:52 2026] <STEAM_0:1:220381002> Smasher: // щяс джейл получишь
+[Wed Jan  7 16:54:57 2026] <STEAM_0:1:618974024> S0u1: // Я ебал так
+[Wed Jan  7 16:55:03 2026] <STEAM_0:1:618974024> S0u1: // Меня и разбомбить успели уже
+[Wed Jan  7 16:55:12 2026] <STEAM_0:1:618974024> S0u1: // И просто походить поубивать
+[Wed Jan  7 16:55:20 2026] Player "༒︎シ︎ʰᵉⁿᵗᵃⁱシ" <STEAM_0:0:851601344> has spawned in the server
+[Wed Jan  7 16:55:45 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /nato о как
+[Wed Jan  7 16:55:51 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /nato рация?
+[Wed Jan  7 16:56:02 2026] <STEAM_0:0:921324874> punk: /nato нету
+[Wed Jan  7 16:56:04 2026] <STEAM_0:1:773566500> SAXAROZA: ангел в дс пойдем?
+[Wed Jan  7 16:56:43 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /nato хотите я устрою бомбард?
+[Wed Jan  7 16:56:49 2026] SAXAROZA has killed S0u1.
+[Wed Jan  7 16:56:50 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /nato рация 122.2
+[Wed Jan  7 16:56:55 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /nato 122
+[Wed Jan  7 16:56:58 2026] <STEAM_0:1:618974024> S0u1: // А есть вообще смысл стрелять в танк
+[Wed Jan  7 16:56:59 2026] <STEAM_0:0:921324874> punk: /nato ломбард лучше
+[Wed Jan  7 16:57:10 2026] <STEAM_0:1:220381002> Smasher: // с рпг
+[Wed Jan  7 16:57:17 2026] <STEAM_0:0:921324874> punk: // я умом брал
+[Wed Jan  7 16:57:27 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "ammo CPT A.E. Evergarden"
+[Wed Jan  7 16:57:32 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [512][lvs_wheeldrive_hummer]"
+[Wed Jan  7 16:57:33 2026] <STEAM_0:1:773566500> SAXAROZA: я забыл как рацию тнастроить
+[Wed Jan  7 16:57:48 2026] <STEAM_0:1:618974024> S0u1: // умом? Я вот не знал к примеру то, что я не могу сесть за руль танка
+[Wed Jan  7 16:58:09 2026] <STEAM_0:0:921324874> punk: // я выжидал и ждал
+[Wed Jan  7 17:00:22 2026] <STEAM_0:1:773566500> SAXAROZA ran command "ammo RCT P. B. Parker"
+[Wed Jan  7 17:01:17 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // рф вы где?
+[Wed Jan  7 17:01:22 2026] <STEAM_0:1:618974024> S0u1: // спят все
+[Wed Jan  7 17:01:36 2026] <STEAM_0:1:618974024> S0u1: // я 1 против дохуя натовцев, это круто че
+[Wed Jan  7 17:03:52 2026] <STEAM_0:1:220381002> Smasher: // я могу за рф зайти
+[Wed Jan  7 17:04:11 2026] <STEAM_0:1:618974024> S0u1: // Как хочешь, вы меня там возле базы на танке поджидаете, но я вас не вижу
+[Wed Jan  7 17:04:26 2026] <STEAM_0:1:618974024> S0u1: // хотя я давно съебал с базы
+[Wed Jan  7 17:04:59 2026] <STEAM_0:1:220381002> Smasher ran command "invisible COL A.T. Smasher"
+[Wed Jan  7 17:05:01 2026] <STEAM_0:1:220381002> Smasher ran command "noclip COL A.T. Smasher"
+[Wed Jan  7 17:05:32 2026] <STEAM_0:1:618974024> S0u1: // а че город то застроен весь
+[Wed Jan  7 17:05:37 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // это я
+[Wed Jan  7 17:05:41 2026] <STEAM_0:1:618974024> S0u1: // че за приколы
+[Wed Jan  7 17:06:06 2026] <STEAM_0:1:618974024> S0u1: // и нахуя это
+[Wed Jan  7 17:06:20 2026] <STEAM_0:1:220381002> Smasher: !uncloak
+[Wed Jan  7 17:06:23 2026] <STEAM_0:1:220381002> Smasher ran command "noclip Капелька"
+[Wed Jan  7 17:06:27 2026] <STEAM_0:1:220381002> Smasher: !uncloak
+[Wed Jan  7 17:06:38 2026] S0u1 has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Wed Jan  7 17:06:39 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Wed Jan  7 17:06:49 2026] <STEAM_0:1:220381002> Smasher ran command "noclip Капелька"
+[Wed Jan  7 17:07:43 2026] Smasher has killed Smasher.
+[Wed Jan  7 17:07:43 2026] <STEAM_0:1:220381002> Smasher ran command "slay ^"
+[Wed Jan  7 17:07:47 2026] <STEAM_0:1:220381002> Smasher ran command "respawn ^"
+[Wed Jan  7 17:08:06 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "ammo CPT A.E. Evergarden"
+[Wed Jan  7 17:08:08 2026] Player "Dmitriy_Eshkerov" <STEAM_0:1:914409736> is attempting to connect.
+[Wed Jan  7 17:08:15 2026] <STEAM_0:1:220381002> Smasher ran command "noclip Капелька"
+[Wed Jan  7 17:08:21 2026] <STEAM_0:1:618974024> S0u1: /rf Т.подполковник, вы спите!?
+[Wed Jan  7 17:08:41 2026] <STEAM_0:1:220381002> Smasher ran command "noclip Капелька"
+[Wed Jan  7 17:08:42 2026] S0u1 has killed SAXAROZA.
+[Wed Jan  7 17:08:57 2026] S0u1 has killed punk.
+[Wed Jan  7 17:08:59 2026] punk has killed punk.
+[Wed Jan  7 17:09:07 2026] Player "SAXAROZA" <STEAM_0:1:773566500> has left the server
+[Wed Jan  7 17:09:44 2026] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [493][bodyman_closet]"
+[Wed Jan  7 17:09:50 2026] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [590][bodyman_closet]"
+[Wed Jan  7 17:10:06 2026] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [632][sw_rocket_3m14k_v3]"
+[Wed Jan  7 17:10:18 2026] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [632][sw_rocket_9m133_v3]"
+[Wed Jan  7 17:10:32 2026] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [632][sw_bmp3]"
+[Wed Jan  7 17:11:09 2026] <STEAM_0:0:921324874> punk: // капелька переверни хамер полажуйста
+[Wed Jan  7 17:11:42 2026] S0u1 has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Wed Jan  7 17:11:50 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // нитро ты невидемый
+[Wed Jan  7 17:11:55 2026] <STEAM_0:1:618974024> S0u1: // че
+[Wed Jan  7 17:11:58 2026] <STEAM_0:1:618974024> S0u1: // я не админ
+[Wed Jan  7 17:12:06 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // я знаю это баг
+[Wed Jan  7 17:12:10 2026] <STEAM_0:1:618974024> S0u1: // бля
+[Wed Jan  7 17:12:18 2026] <STEAM_0:1:618974024> S0u1: // пофиксь может нет
+[Wed Jan  7 17:12:25 2026] <STEAM_0:1:618974024> S0u1: // я хз как чинить тогда
+[Wed Jan  7 17:12:25 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "goto Нитров"
+[Wed Jan  7 17:12:48 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "respawn Нитров"
+[Wed Jan  7 17:12:55 2026] <STEAM_0:1:618974024> S0u1: // тпай
+[Wed Jan  7 17:12:57 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "send Нитров"
+[Wed Jan  7 17:13:04 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "ammo Нитров"
+[Wed Jan  7 17:13:17 2026] <STEAM_0:1:618974024> S0u1: /rf Есть кто из не спящих??
+[Wed Jan  7 17:13:27 2026] Player "༒︎シ︎ʰᵉⁿᵗᵃⁱシ" <STEAM_0:0:851601344> has left the server
+[Wed Jan  7 17:13:30 2026] <STEAM_0:1:220381002> Smasher: /nato да я на бмп 3 у выхода с базы
+[Wed Jan  7 17:13:36 2026] <STEAM_0:1:220381002> Smasher: /rf да я на бмп 3 у выхода с базы
+[Wed Jan  7 17:21:12 2026] Smasher has killed punk.
+[Wed Jan  7 17:22:06 2026] <STEAM_0:0:921324874> punk: // ладно я пока в афк
+[Wed Jan  7 17:22:21 2026] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [515][lvs_protontorpedo]"
+[Wed Jan  7 17:22:24 2026] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [515][lvs_protontorpedo]"
+[Wed Jan  7 17:22:25 2026] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [519][lvs_protontorpedo]"
+[Wed Jan  7 17:22:26 2026] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [515][lvs_protontorpedo]"
+[Wed Jan  7 17:22:26 2026] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [523][lvs_protontorpedo]"
+[Wed Jan  7 17:22:26 2026] Smasher has killed S0u1.
+[Wed Jan  7 17:22:26 2026] Smasher has killed Smasher.
+[Wed Jan  7 17:22:27 2026] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [519][lvs_protontorpedo]"
+[Wed Jan  7 17:22:35 2026] <STEAM_0:1:618974024> S0u1: // и че это было
+[Wed Jan  7 17:22:38 2026] <STEAM_0:1:618974024> S0u1: // :/
+[Wed Jan  7 17:22:42 2026] <STEAM_0:1:220381002> Smasher: // дроны
+[Wed Jan  7 17:22:49 2026] <STEAM_0:1:618974024> S0u1: // нихуя
+[Wed Jan  7 17:23:01 2026] <STEAM_0:1:220381002> Smasher ran command "invisible Капелька"
+[Wed Jan  7 17:23:04 2026] <STEAM_0:1:220381002> Smasher ran command "noclip Капелька"
+[Wed Jan  7 17:23:24 2026] Player "S0u1" <STEAM_0:1:618974024> has left the server
+[Wed Jan  7 17:23:38 2026] Player "Smasher" <STEAM_0:1:220381002> has left the server
+[Wed Jan  7 17:44:22 2026] Player "Mr.Monolith" <STEAM_0:1:47931114> has left the server
+[Wed Jan  7 17:57:43 2026] Player "punk" <STEAM_0:0:921324874> has left the server
+[Wed Jan  7 19:18:21 2026] Player "༒︎シ︎ʰᵉⁿᵗᵃⁱシ" <STEAM_0:0:851601344> is attempting to connect.
+[Wed Jan  7 19:19:41 2026] Player "༒︎シ︎ʰᵉⁿᵗᵃⁱシ" <STEAM_0:0:851601344> has spawned in the server
+[Wed Jan  7 19:49:30 2026] Player "S0u1" <STEAM_0:1:618974024> is attempting to connect.
+[Wed Jan  7 19:49:35 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /me исполнил воинское приветствие
+[Wed Jan  7 19:49:41 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /me исполнил воинское приветствие
+[Wed Jan  7 19:49:47 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /me исполнил воинское приветствие
+[Wed Jan  7 19:49:48 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /me исполнил воинское приветствие
+[Wed Jan  7 19:49:49 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /me исполнил воинское приветствие
+[Wed Jan  7 19:49:50 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /me исполнил воинское приветствие
+[Wed Jan  7 19:49:50 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /me исполнил воинское приветствие
+[Wed Jan  7 19:49:51 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /me исполнил воинское приветствие
+[Wed Jan  7 19:49:52 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /me исполнил воинское приветствие
+[Wed Jan  7 19:49:53 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /me исполнил воинское приветствие
+[Wed Jan  7 19:49:54 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /me исполнил воинское приветствие
+[Wed Jan  7 19:49:54 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /me исполнил воинское приветствие
+[Wed Jan  7 19:49:55 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /me исполнил воинское приветствие
+[Wed Jan  7 19:49:56 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /me исполнил воинское приветствие
+[Wed Jan  7 19:50:09 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "ammo CPT A.E. Evergarden"
+[Wed Jan  7 19:50:37 2026] Player "S0u1" <STEAM_0:1:618974024> has spawned in the server
+[Wed Jan  7 19:51:13 2026] <STEAM_0:1:618974024> S0u1: // ангел
+[Wed Jan  7 19:51:16 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // м
+[Wed Jan  7 19:51:18 2026] <STEAM_0:1:618974024> S0u1: // почему у тебя на аве сиськи
+[Wed Jan  7 19:51:30 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // нет их там
+[Wed Jan  7 19:51:36 2026] <STEAM_0:1:618974024> S0u1: // Пиздишь как дышишь
+[Wed Jan  7 19:51:43 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "npctarget Нитров"
+[Wed Jan  7 19:51:43 2026] <STEAM_0:1:618974024> S0u1: // я про стимовскую
+[Wed Jan  7 19:51:47 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "goto Нитров"
+[Wed Jan  7 19:52:19 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed S0u1.
+[Wed Jan  7 19:52:20 2026] S0u1 has killed S0u1.
+[Wed Jan  7 19:54:30 2026] worldspawn has killed S0u1.
+[Wed Jan  7 19:55:20 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [504][lvs_wheeldrive_hummer]"
+[Wed Jan  7 19:55:23 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [588][lvs_wheeldrive_hummer]"
+[Wed Jan  7 19:55:24 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [504][lvs_wheeldrive_hummer]"
+[Wed Jan  7 19:57:54 2026] <STEAM_0:1:618974024> S0u1: // ангел епта дай отчеты поделать)
+[Wed Jan  7 19:58:07 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // хуй тебе
+[Wed Jan  7 19:58:13 2026] <STEAM_0:1:618974024> S0u1: // сучка
+[Wed Jan  7 19:58:19 2026] <STEAM_0:1:618974024> S0u1: // че ты бомбишь что ошибки идут
+[Wed Jan  7 19:58:23 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Wed Jan  7 19:58:24 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Wed Jan  7 20:00:24 2026] worldspawn has killed S0u1.
+[Wed Jan  7 20:04:05 2026] <STEAM_0:1:618974024> S0u1: // ангел ты можешь аптечку выдать какую нить крутую да
+[Wed Jan  7 20:04:11 2026] <STEAM_0:1:618974024> S0u1: // я тут с крюком экспиременты делаю
+[Wed Jan  7 20:06:39 2026] Player "Кружочек" <STEAM_0:0:541057607> is attempting to connect.
+[Wed Jan  7 20:09:24 2026] Player "Artem" <STEAM_0:1:956808054> is attempting to connect.
+[Wed Jan  7 20:09:30 2026] Player "Artem" <STEAM_0:1:956808054> is attempting to connect.
+[Wed Jan  7 20:11:03 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "ammo CPT A.E. Evergarden"
+[Wed Jan  7 20:11:48 2026] S0u1 has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Wed Jan  7 20:11:49 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Wed Jan  7 20:11:49 2026] Player "Igruha" <STEAM_0:0:914720065> is attempting to connect.
+[Wed Jan  7 20:11:55 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // невидимка хуев
+[Wed Jan  7 20:11:58 2026] <STEAM_0:1:618974024> S0u1: // :)
+[Wed Jan  7 20:12:02 2026] <STEAM_0:1:618974024> S0u1: // опять чтоли?
+[Wed Jan  7 20:12:07 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // ага
+[Wed Jan  7 20:12:10 2026] <STEAM_0:1:618974024> S0u1: // я еба
+[Wed Jan  7 20:12:11 2026] <STEAM_0:1:618974024> S0u1: // л
+[Wed Jan  7 20:12:29 2026] <STEAM_0:1:618974024> S0u1: // дай мне аптечку заебись какую нибудь, ноги же тут не лечатся
+[Wed Jan  7 20:12:30 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "goto CPT A.E. Evergarden"
+[Wed Jan  7 20:12:40 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "respawn Нитров"
+[Wed Jan  7 20:12:49 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "send Нитров"
+[Wed Jan  7 20:12:50 2026] <STEAM_0:1:618974024> S0u1: // патроны че
+[Wed Jan  7 20:12:51 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "ammo Нитров"
+[Wed Jan  7 20:13:31 2026] Player "Igruha" <STEAM_0:0:914720065> is attempting to connect.
+[Wed Jan  7 20:17:52 2026] Player "S0u1" <STEAM_0:1:618974024> has left the server
+[Wed Jan  7 20:22:52 2026] Player "Кружочек" <STEAM_0:0:541057607> has spawned in the server
+[Wed Jan  7 20:23:35 2026] Player "mr.cookies" <STEAM_0:1:928480144> is attempting to connect.
+[Wed Jan  7 20:24:11 2026] Player "Кружочек" <STEAM_0:0:541057607> has left the server
+[Wed Jan  7 20:26:03 2026] Player "mr.cookies" <STEAM_0:1:928480144> is attempting to connect.
+[Wed Jan  7 20:26:20 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "ammo MAJ A.E. Evergarden"
+[Wed Jan  7 20:26:40 2026] Player "TANZI" <STEAM_0:0:561366370> is attempting to connect.
+[Wed Jan  7 20:30:31 2026] Player "TANZI" <STEAM_0:0:561366370> is attempting to connect.
+[Wed Jan  7 20:30:31 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "witchergate"
+[Wed Jan  7 20:30:31 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "witchergate"
+[Wed Jan  7 20:31:04 2026] Player "TANZI" <STEAM_0:0:561366370> has spawned in the server
+[Wed Jan  7 20:31:33 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // ку охотник
+[Wed Jan  7 20:31:43 2026] <STEAM_0:0:561366370> TANZI: /ooc саламчики
+[Wed Jan  7 20:31:47 2026] <STEAM_0:0:561366370> TANZI: // Как ты?
+[Wed Jan  7 20:31:50 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // сек я в баню ухожу так что через минут 10 постреляемся
+[Wed Jan  7 20:32:16 2026] <STEAM_0:0:561366370> TANZI: // Как минимум мы будем искать друг друга 10 минут)))
+[Wed Jan  7 20:33:32 2026] Player "Artem" <STEAM_0:1:956808054> has spawned in the server
+[Wed Jan  7 20:35:32 2026] <STEAM_0:0:561366370> TANZI: /looc Микро есть?
+[Wed Jan  7 20:36:25 2026] <STEAM_0:0:561366370> TANZI: // Федор я буду по тебе скучать
+[Wed Jan  7 20:36:33 2026] <STEAM_0:0:561366370> TANZI: /looc ник видно
+[Wed Jan  7 20:36:36 2026] <STEAM_0:0:561366370> TANZI: /looc к слову
+[Wed Jan  7 20:38:51 2026] <STEAM_0:1:956808054> Artem: что тут надо делать
+[Wed Jan  7 20:39:17 2026] <STEAM_0:0:561366370> TANZI: /looc Ты кста невидимый
+[Wed Jan  7 20:43:29 2026] <STEAM_0:1:956808054> Artem: \
+[Wed Jan  7 20:43:58 2026] Player "TANZI" <STEAM_0:0:561366370> has left the server
+[Wed Jan  7 20:44:22 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // ку
+[Wed Jan  7 20:44:34 2026] Player "Artem" <STEAM_0:1:956808054> has left the server
+[Wed Jan  7 20:46:02 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "ammo MAJ A.E. Evergarden"
+[Wed Jan  7 20:46:13 2026] Player "༒︎シ︎ʰᵉⁿᵗᵃⁱシ" <STEAM_0:0:851601344> has left the server
+[Wed Jan  7 20:56:04 2026] Player "Лесник" <STEAM_0:0:200862208> is attempting to connect.
+[Wed Jan  7 20:56:40 2026] Player "Лесник" <STEAM_0:0:200862208> has spawned in the server
+[Wed Jan  7 20:58:03 2026] Player "S0u1" <STEAM_0:1:618974024> is attempting to connect.
+[Wed Jan  7 20:58:30 2026] Player "S0u1" <STEAM_0:1:618974024> has spawned in the server
+[Wed Jan  7 21:01:53 2026] <STEAM_0:1:618974024> S0u1: /me Проверяет гусеницу
+[Wed Jan  7 21:02:08 2026] <STEAM_0:0:200862208> Лесник: /me Проверяет гусеницу
+[Wed Jan  7 21:02:32 2026] <STEAM_0:1:618974024> S0u1: /me Проверяем мотор
+[Wed Jan  7 21:02:32 2026] <STEAM_0:0:200862208> Лесник: /me проверяет мотор
+[Wed Jan  7 21:03:28 2026] <STEAM_0:1:618974024> S0u1: /me проверяем болты колес или что то подобие
+[Wed Jan  7 21:14:00 2026] Лесник has killed S0u1.
+[Wed Jan  7 21:14:01 2026] S0u1 has killed S0u1.
+[Wed Jan  7 21:14:04 2026] <STEAM_0:1:618974024> S0u1: // возроди
+[Wed Jan  7 21:14:05 2026] <STEAM_0:1:618974024> S0u1: // теперь
+[Wed Jan  7 21:21:31 2026] <STEAM_0:0:200862208> Лесник: /// ты тут
+[Wed Jan  7 21:24:37 2026] Player "S0u1" <STEAM_0:1:618974024> has left the server
+[Wed Jan  7 21:31:34 2026] Player "Лесник" <STEAM_0:0:200862208> has left the server
+[Wed Jan  7 22:42:20 2026] Player "ЗА_БУЛЬБУ_Z" <STEAM_0:1:804082622> is attempting to connect.

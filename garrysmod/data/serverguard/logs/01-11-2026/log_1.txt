@@ -1,0 +1,5 @@
+[Sun Jan 11 11:09:33 2026] Player "BaldBiver" <STEAM_0:1:406343308> is attempting to connect.
+[Sun Jan 11 14:40:12 2026] Player "BloodySmile" <STEAM_0:1:54838838> is attempting to connect.
+[Sun Jan 11 14:40:35 2026] Player "BloodySmile" <STEAM_0:1:54838838> has spawned in the server
+[Sun Jan 11 14:42:03 2026] Player "BloodySmile" <STEAM_0:1:54838838> has left the server
+[Sun Jan 11 16:05:55 2026] Player "gREG4IK" <STEAM_0:1:455594560> is attempting to connect.

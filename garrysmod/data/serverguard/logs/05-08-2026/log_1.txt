@@ -1,0 +1,14 @@
+[Fri May  8 08:27:48 2026] Player "bozaxo" <STEAM_0:1:187751935> is attempting to connect.
+[Fri May  8 08:47:01 2026] Player "bozaxo" <STEAM_0:1:187751935> has spawned in the server
+[Fri May  8 09:31:25 2026] Player "bozaxo" <STEAM_0:1:187751935> has left the server
+[Fri May  8 13:46:24 2026] Player "Pioner" <STEAM_0:1:923042528> is attempting to connect.
+[Fri May  8 13:55:30 2026] Player "Pioner" <STEAM_0:1:923042528> has spawned in the server
+[Fri May  8 14:28:21 2026] Player "Iron" <STEAM_0:1:230182759> is attempting to connect.
+[Fri May  8 14:40:51 2026] Player "Pioner" <STEAM_0:1:923042528> has left the server
+[Fri May  8 15:39:16 2026] Player "tsvetok_1" <STEAM_0:0:799039306> is attempting to connect.
+[Fri May  8 16:22:16 2026] Player "chief" <STEAM_0:1:584430277> is attempting to connect.
+[Fri May  8 17:21:06 2026] Player "man with syphilis" <STEAM_0:1:383633125> is attempting to connect.
+[Fri May  8 17:37:55 2026] Player "david280911" <STEAM_0:1:839860057> is attempting to connect.
+[Fri May  8 17:39:27 2026] Player "david280911" <STEAM_0:1:839860057> has spawned in the server
+[Fri May  8 17:40:06 2026] Player "david280911" <STEAM_0:1:839860057> has left the server
+[Fri May  8 19:46:09 2026] Player "Уолтер Вайт" <STEAM_0:1:817948948> is attempting to connect.

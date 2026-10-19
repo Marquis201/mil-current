@@ -1,0 +1,2125 @@
+[Tue Mar 24 00:43:21 2026] Player "Lexa_playsek" <STEAM_0:1:849865672> is attempting to connect.
+[Tue Mar 24 00:45:21 2026] Player "Lexa_playsek" <STEAM_0:1:849865672> has spawned in the server
+[Tue Mar 24 01:07:12 2026] Player "Lexa_playsek" <STEAM_0:1:849865672> has left the server
+[Tue Mar 24 08:42:09 2026] Player "alex #AbobaRust" <STEAM_0:1:400514237> is attempting to connect.
+[Tue Mar 24 08:42:45 2026] Player "alex #AbobaRust" <STEAM_0:1:400514237> has spawned in the server
+[Tue Mar 24 08:45:59 2026] Player "alex #AbobaRust" <STEAM_0:1:400514237> has left the server
+[Tue Mar 24 10:40:07 2026] Player "MinisterOfWarCrimes" <STEAM_0:1:805357797> is attempting to connect.
+[Tue Mar 24 10:41:56 2026] Player "david280911" <STEAM_0:1:839860057> is attempting to connect.
+[Tue Mar 24 10:42:46 2026] Player "david280911" <STEAM_0:1:839860057> has spawned in the server
+[Tue Mar 24 10:55:53 2026] Player "70,79 руб" <STEAM_0:0:398882714> is attempting to connect.
+[Tue Mar 24 10:56:10 2026] Player "stalker_20130" <STEAM_0:1:890482601> is attempting to connect.
+[Tue Mar 24 10:56:34 2026] Player "Летов" <STEAM_0:1:411221606> is attempting to connect.
+[Tue Mar 24 10:57:38 2026] Player "stalker_20130" <STEAM_0:1:890482601> has spawned in the server
+[Tue Mar 24 11:00:14 2026] Player "Летов" <STEAM_0:1:411221606> has spawned in the server
+[Tue Mar 24 11:00:16 2026] <STEAM_0:1:839860057> david280911: здрасте
+[Tue Mar 24 11:02:38 2026] <STEAM_0:1:411221606> Летов: открывай
+[Tue Mar 24 11:02:48 2026] <STEAM_0:1:411221606> Летов: прыгай
+[Tue Mar 24 11:03:26 2026] Player "70,79 руб" <STEAM_0:0:398882714> has spawned in the server
+[Tue Mar 24 11:06:12 2026] <STEAM_0:1:411221606> Летов: виноградов на стрельюище
+[Tue Mar 24 11:06:20 2026] <STEAM_0:1:839860057> david280911: Так точно
+[Tue Mar 24 11:06:41 2026] <STEAM_0:1:411221606> Летов: виноградов на стрельюище
+[Tue Mar 24 11:06:42 2026] <STEAM_0:1:411221606> Летов: виноградов на стрельюище
+[Tue Mar 24 11:06:42 2026] <STEAM_0:1:411221606> Летов: виноградов на стрельюище
+[Tue Mar 24 11:06:51 2026] <STEAM_0:1:411221606> Летов: нет
+[Tue Mar 24 11:06:54 2026] <STEAM_0:1:411221606> Летов: сержант
+[Tue Mar 24 11:07:15 2026] <STEAM_0:1:411221606> Летов: ССО главнее всех не позванию а по положению
+[Tue Mar 24 11:08:13 2026] <STEAM_0:1:411221606> Летов: ССО главнее всех не позванию а по положению
+[Tue Mar 24 11:08:18 2026] <STEAM_0:1:411221606> Летов: виноградов на стрельюище
+[Tue Mar 24 11:12:30 2026] <STEAM_0:1:411221606> Летов: мда...
+[Tue Mar 24 11:12:43 2026] Player "david280911" <STEAM_0:1:839860057> has left the server
+[Tue Mar 24 11:12:45 2026] <STEAM_0:1:411221606> Летов: мда...
+[Tue Mar 24 11:15:05 2026] <STEAM_0:1:411221606> Летов: по жет по городу?
+[Tue Mar 24 11:16:08 2026] <STEAM_0:1:411221606> Летов: это ВГ восточная сторона города
+[Tue Mar 24 11:16:21 2026] <STEAM_0:1:411221606> Летов: эта наш заезд в город
+[Tue Mar 24 11:16:50 2026] <STEAM_0:1:411221606> Летов: это ЦГ центральная площядь города
+[Tue Mar 24 11:17:54 2026] <STEAM_0:1:411221606> Летов: это ЗГ PFGFLYFZ CNJHJYF UJHJLF
+[Tue Mar 24 11:18:13 2026] <STEAM_0:1:411221606> Летов: Это ЗГ западная сторона города
+[Tue Mar 24 11:19:56 2026] <STEAM_0:1:411221606> Летов: это Завод самая интерусещея точка сторон
+[Tue Mar 24 11:20:07 2026] <STEAM_0:1:411221606> Летов: так как даютса мацериалы
+[Tue Mar 24 11:20:40 2026] <STEAM_0:1:411221606> Летов: это база нато
+[Tue Mar 24 11:21:41 2026] <STEAM_0:1:411221606> Летов: это наивышая точка она дает обзор на действия той или иной сторон
+[Tue Mar 24 11:22:56 2026] <STEAM_0:1:411221606> Летов: это заправка она дает бензин
+[Tue Mar 24 11:23:25 2026] <STEAM_0:1:411221606> Летов: это укрепрайон нато
+[Tue Mar 24 11:23:48 2026] <STEAM_0:1:411221606> Летов: ну и все теперь можно возращятся на базу!
+[Tue Mar 24 11:25:10 2026] <STEAM_0:1:411221606> Летов: блять...
+[Tue Mar 24 11:25:47 2026] <STEAM_0:1:411221606> Летов: хех
+[Tue Mar 24 11:26:07 2026] <STEAM_0:1:411221606> Летов: да я тут
+[Tue Mar 24 11:27:14 2026] Player "david280911" <STEAM_0:1:839860057> is attempting to connect.
+[Tue Mar 24 11:28:08 2026] Player "david280911" <STEAM_0:1:839860057> has spawned in the server
+[Tue Mar 24 11:31:26 2026] <STEAM_0:1:411221606> Летов: // И ТАК БОЙЦЫ РФ ВЫЕЖАЙТЕ НА ГОРОД СЕЙЧАС Я ДЛЯ ВАС ПРЕВЕДУ ПРИМЕРЫ КАК ВОЕВАТЬ С НАТО!
+[Tue Mar 24 11:32:12 2026] <STEAM_0:1:890482601> stalker_20130: /rf ребята едьте в город
+[Tue Mar 24 11:32:56 2026] <STEAM_0:1:890482601> stalker_20130: // виноградов ал
+[Tue Mar 24 11:33:00 2026] <STEAM_0:1:890482601> stalker_20130: // садись в машину
+[Tue Mar 24 11:33:46 2026] Player "david280911" <STEAM_0:1:839860057> has left the server
+[Tue Mar 24 11:34:10 2026] <STEAM_0:1:411221606> Летов: // быстрее я в городе
+[Tue Mar 24 11:34:43 2026] <STEAM_0:0:398882714> 70,79 руб: я в городе
+[Tue Mar 24 11:35:23 2026] <STEAM_0:1:890482601> stalker_20130: // крч александров жди
+[Tue Mar 24 11:35:30 2026] <STEAM_0:1:890482601> stalker_20130: // щас анзуров зайдет
+[Tue Mar 24 11:35:34 2026] <STEAM_0:1:890482601> stalker_20130: // у него вылетело
+[Tue Mar 24 11:35:50 2026] <STEAM_0:0:398882714> 70,79 руб: хорошо
+[Tue Mar 24 11:37:12 2026] Player "Летов" <STEAM_0:1:411221606> has left the server
+[Tue Mar 24 11:39:02 2026] Player "70,79 руб" <STEAM_0:0:398882714> has left the server
+[Tue Mar 24 11:55:38 2026] Player "Летов" <STEAM_0:1:411221606> is attempting to connect.
+[Tue Mar 24 11:55:45 2026] Player "Летов" <STEAM_0:1:411221606> is attempting to connect.
+[Tue Mar 24 12:12:33 2026] Player "Летов" <STEAM_0:1:411221606> has spawned in the server
+[Tue Mar 24 12:14:46 2026] Player "Летов" <STEAM_0:1:411221606> has left the server
+[Tue Mar 24 12:31:40 2026] Player "stalker_20130" <STEAM_0:1:890482601> has left the server
+[Tue Mar 24 13:21:34 2026] Player "Lexa_playsek" <STEAM_0:1:849865672> is attempting to connect.
+[Tue Mar 24 13:22:51 2026] Player "Lexa_playsek" <STEAM_0:1:849865672> has spawned in the server
+[Tue Mar 24 13:24:56 2026] Player "Lexa_playsek" <STEAM_0:1:849865672> has left the server
+[Tue Mar 24 13:34:17 2026] Player "david280911" <STEAM_0:1:839860057> is attempting to connect.
+[Tue Mar 24 13:34:48 2026] Player "david280911" <STEAM_0:1:839860057> has spawned in the server
+[Tue Mar 24 13:35:34 2026] Player "david280911" <STEAM_0:1:839860057> has left the server
+[Tue Mar 24 13:38:04 2026] Player "Летов" <STEAM_0:1:411221606> is attempting to connect.
+[Tue Mar 24 13:43:29 2026] Player "Летов" <STEAM_0:1:411221606> has spawned in the server
+[Tue Mar 24 13:44:48 2026] Player "david280911" <STEAM_0:1:839860057> is attempting to connect.
+[Tue Mar 24 13:45:12 2026] Player "david280911" <STEAM_0:1:839860057> has spawned in the server
+[Tue Mar 24 13:45:38 2026] Player "david280911" <STEAM_0:1:839860057> has left the server
+[Tue Mar 24 13:47:45 2026] Player "Летов" <STEAM_0:1:411221606> has left the server
+[Tue Mar 24 13:53:46 2026] Player "david280911" <STEAM_0:1:839860057> is attempting to connect.
+[Tue Mar 24 13:57:16 2026] Player "Летов" <STEAM_0:1:411221606> is attempting to connect.
+[Tue Mar 24 14:02:07 2026] Player "Летов" <STEAM_0:1:411221606> has spawned in the server
+[Tue Mar 24 14:04:06 2026] Player "david280911" <STEAM_0:1:839860057> is attempting to connect.
+[Tue Mar 24 14:04:33 2026] Player "david280911" <STEAM_0:1:839860057> has spawned in the server
+[Tue Mar 24 14:04:56 2026] Player "david280911" <STEAM_0:1:839860057> has left the server
+[Tue Mar 24 14:09:45 2026] Player "Летов" <STEAM_0:1:411221606> has left the server
+[Tue Mar 24 14:38:30 2026] Player "Летов" <STEAM_0:1:411221606> is attempting to connect.
+[Tue Mar 24 14:42:05 2026] Player "Летов" <STEAM_0:1:411221606> has spawned in the server
+[Tue Mar 24 14:44:33 2026] <STEAM_0:1:411221606> Летов: /rf Рядовой Анзуров заступает на пост КПП
+[Tue Mar 24 14:47:31 2026] <STEAM_0:1:411221606> Летов: п
+[Tue Mar 24 14:49:57 2026] <STEAM_0:1:411221606> Летов: /me пукнул
+[Tue Mar 24 14:52:32 2026] <STEAM_0:1:411221606> Летов: а
+[Tue Mar 24 14:55:18 2026] <STEAM_0:1:411221606> Летов: /rf Докладывает Рядовой Анзуров СОСТ:СТАБ
+[Tue Mar 24 14:57:38 2026] Player "david280911" <STEAM_0:1:839860057> is attempting to connect.
+[Tue Mar 24 14:58:13 2026] Player "david280911" <STEAM_0:1:839860057> has spawned in the server
+[Tue Mar 24 14:58:46 2026] Player "david280911" <STEAM_0:1:839860057> has left the server
+[Tue Mar 24 15:01:42 2026] <STEAM_0:1:411221606> Летов: /me Харкнул на руку и обмазал стенку
+[Tue Mar 24 15:03:14 2026] <STEAM_0:1:411221606> Летов: п
+[Tue Mar 24 15:05:43 2026] <STEAM_0:1:411221606> Летов: а
+[Tue Mar 24 15:05:52 2026] <STEAM_0:1:411221606> Летов: /rf Докладывает Рядовой Анзуров СОСТ:СТАБ
+[Tue Mar 24 15:06:05 2026] <STEAM_0:1:411221606> Летов: /rf Докладывает Рядовой Анзуров я покидаю ПОСТ
+[Tue Mar 24 15:47:57 2026] Player "Летов" <STEAM_0:1:411221606> has left the server
+[Tue Mar 24 17:14:10 2026] Player "Летов" <STEAM_0:1:411221606> is attempting to connect.
+[Tue Mar 24 17:18:04 2026] Player "Летов" <STEAM_0:1:411221606> has spawned in the server
+[Tue Mar 24 17:42:16 2026] Player "david280911" <STEAM_0:1:839860057> is attempting to connect.
+[Tue Mar 24 17:42:48 2026] Player "david280911" <STEAM_0:1:839860057> has spawned in the server
+[Tue Mar 24 17:44:00 2026] <STEAM_0:1:411221606> Летов: /rf я тут ты где?
+[Tue Mar 24 17:44:11 2026] <STEAM_0:1:411221606> Летов: здравия
+[Tue Mar 24 17:45:25 2026] <STEAM_0:1:411221606> Летов: ты че ахуел?
+[Tue Mar 24 17:45:32 2026] <STEAM_0:1:411221606> Летов: че не по уставу одет?
+[Tue Mar 24 17:45:48 2026] <STEAM_0:1:411221606> Летов: устав есть устав
+[Tue Mar 24 17:46:00 2026] <STEAM_0:1:411221606> Летов: виноградов
+[Tue Mar 24 17:46:17 2026] <STEAM_0:1:411221606> Летов: портфель этот уберии он тебя сильно палит
+[Tue Mar 24 17:46:44 2026] <STEAM_0:1:411221606> Летов: одень 8 или 9 на твой выбор
+[Tue Mar 24 17:47:02 2026] <STEAM_0:1:411221606> Летов: норм
+[Tue Mar 24 17:47:16 2026] <STEAM_0:1:411221606> Летов: померь еще 7 вдруг он подойдет
+[Tue Mar 24 17:48:20 2026] <STEAM_0:1:411221606> Летов: зайди
+[Tue Mar 24 17:48:28 2026] <STEAM_0:1:411221606> Летов: выйди
+[Tue Mar 24 17:48:37 2026] <STEAM_0:1:411221606> Летов: аай бля
+[Tue Mar 24 17:48:40 2026] <STEAM_0:1:411221606> Летов: научили тебя
+[Tue Mar 24 17:49:19 2026] <STEAM_0:1:411221606> Летов: вигошрадов
+[Tue Mar 24 17:49:27 2026] <STEAM_0:1:411221606> Летов: заспавнь машинуц
+[Tue Mar 24 17:49:40 2026] <STEAM_0:1:839860057> david280911: я не мехвод
+[Tue Mar 24 17:49:46 2026] <STEAM_0:1:411221606> Летов: ты можешь
+[Tue Mar 24 17:49:52 2026] <STEAM_0:1:839860057> david280911: нет
+[Tue Mar 24 17:50:10 2026] <STEAM_0:1:411221606> Летов: это американский\
+[Tue Mar 24 17:50:12 2026] <STEAM_0:1:839860057> david280911: у меня один вопрос
+[Tue Mar 24 17:50:24 2026] <STEAM_0:1:411221606> Летов: какой
+[Tue Mar 24 17:50:34 2026] <STEAM_0:1:839860057> david280911: откуда у нас натовская техника
+[Tue Mar 24 17:50:46 2026] <STEAM_0:1:411221606> Летов: какой
+[Tue Mar 24 17:51:00 2026] <STEAM_0:1:839860057> david280911: ну бредли и амбрамс
+[Tue Mar 24 17:51:08 2026] <STEAM_0:1:411221606> Летов: мне можно
+[Tue Mar 24 17:51:14 2026] <STEAM_0:1:411221606> Летов: смотри что еще умею
+[Tue Mar 24 17:51:39 2026] <STEAM_0:1:839860057> david280911: ты что то купил
+[Tue Mar 24 17:51:42 2026] <STEAM_0:1:839860057> david280911: ?
+[Tue Mar 24 17:51:43 2026] <STEAM_0:1:411221606> Летов: нет
+[Tue Mar 24 17:51:48 2026] <STEAM_0:1:411221606> Летов: ток ССО
+[Tue Mar 24 17:51:49 2026] <STEAM_0:1:839860057> david280911: из доната
+[Tue Mar 24 17:51:51 2026] <STEAM_0:1:411221606> Летов: ток ССО
+[Tue Mar 24 17:51:52 2026] <STEAM_0:1:411221606> Летов: ток ССО
+[Tue Mar 24 17:51:52 2026] <STEAM_0:1:411221606> Летов: ток ССО
+[Tue Mar 24 17:52:03 2026] <STEAM_0:1:839860057> david280911: а когда как технику спавнишь
+[Tue Mar 24 17:52:11 2026] <STEAM_0:1:411221606> Летов: мне можно)
+[Tue Mar 24 17:52:28 2026] <STEAM_0:1:839860057> david280911: я уже жду 12 часов пока мне рассмотрят заявку на мехвода
+[Tue Mar 24 17:52:37 2026] <STEAM_0:1:411221606> Летов: ХАХАХ я видел
+[Tue Mar 24 17:53:01 2026] <STEAM_0:1:839860057> david280911: я  хочу накоц то нашим помогать
+[Tue Mar 24 17:53:18 2026] <STEAM_0:1:411221606> Летов: ты можешь хнаешь чем помочь
+[Tue Mar 24 17:53:27 2026] <STEAM_0:1:839860057> david280911: чем?
+[Tue Mar 24 17:53:32 2026] <STEAM_0:1:411221606> Летов: картошку почисть на роту солдат
+[Tue Mar 24 17:53:48 2026] <STEAM_0:1:839860057> david280911: я вдвшник вообще  то
+[Tue Mar 24 17:53:54 2026] <STEAM_0:1:411221606> Летов: и че?
+[Tue Mar 24 17:53:56 2026] <STEAM_0:1:411221606> Летов: я ССО
+[Tue Mar 24 17:54:01 2026] <STEAM_0:1:411221606> Летов: я главней
+[Tue Mar 24 17:54:05 2026] <STEAM_0:1:839860057> david280911: кст а ссо имба?
+[Tue Mar 24 17:54:11 2026] <STEAM_0:1:411221606> Летов: мб
+[Tue Mar 24 17:54:27 2026] <STEAM_0:1:411221606> Летов: тебе денег не хватит
+[Tue Mar 24 17:54:27 2026] <STEAM_0:1:839860057> david280911: я тоже хочу купить
+[Tue Mar 24 17:54:29 2026] <STEAM_0:1:411221606> Летов: тебе денег не хватит
+[Tue Mar 24 17:54:30 2026] <STEAM_0:1:411221606> Летов: тебе денег не хватит
+[Tue Mar 24 17:54:53 2026] <STEAM_0:1:839860057> david280911: не дорого стоит
+[Tue Mar 24 17:55:01 2026] <STEAM_0:1:839860057> david280911: 350 руб
+[Tue Mar 24 17:55:02 2026] <STEAM_0:1:411221606> Летов: за донат
+[Tue Mar 24 17:55:07 2026] <STEAM_0:1:411221606> Летов: всего месяц
+[Tue Mar 24 17:55:11 2026] <STEAM_0:1:839860057> david280911: да
+[Tue Mar 24 17:55:17 2026] <STEAM_0:1:839860057> david280911: мне хватит
+[Tue Mar 24 17:55:28 2026] <STEAM_0:1:411221606> Летов: лутше  купить на всегда но подороже
+[Tue Mar 24 17:55:40 2026] <STEAM_0:1:839860057> david280911: а скок стоит?
+[Tue Mar 24 17:55:53 2026] <STEAM_0:1:839860057> david280911: навсегда
+[Tue Mar 24 17:56:04 2026] <STEAM_0:1:411221606> Летов: мне похуй
+[Tue Mar 24 17:56:12 2026] Летов has killed david280911.
+[Tue Mar 24 17:56:20 2026] <STEAM_0:1:839860057> david280911: нет а сколько стоит ссо навсегда
+[Tue Mar 24 17:56:24 2026] <STEAM_0:1:411221606> Летов: хз
+[Tue Mar 24 17:56:32 2026] <STEAM_0:1:839860057> david280911: так ты же его купил
+[Tue Mar 24 17:56:37 2026] <STEAM_0:1:411221606> Летов: у грэга спори
+[Tue Mar 24 17:56:46 2026] <STEAM_0:1:411221606> Летов: вдруг расценки поменялись
+[Tue Mar 24 17:56:48 2026] <STEAM_0:1:839860057> david280911: ща афк
+[Tue Mar 24 17:56:50 2026] Летов has killed david280911.
+[Tue Mar 24 17:57:03 2026] Летов has killed david280911.
+[Tue Mar 24 17:57:12 2026] Летов has killed david280911.
+[Tue Mar 24 17:57:13 2026] Player "stalker_20130" <STEAM_0:1:890482601> is attempting to connect.
+[Tue Mar 24 17:57:53 2026] <STEAM_0:1:411221606> Летов: ?
+[Tue Mar 24 17:57:55 2026] <STEAM_0:1:839860057> david280911: у меня просто касарь
+[Tue Mar 24 17:58:06 2026] <STEAM_0:1:411221606> Летов: тебе мама хоть разрешила?
+[Tue Mar 24 17:58:08 2026] <STEAM_0:1:839860057> david280911: мож хватит
+[Tue Mar 24 17:58:19 2026] <STEAM_0:1:839860057> david280911: мне разрешение спрашивать не нужно
+[Tue Mar 24 17:58:26 2026] <STEAM_0:1:411221606> Летов: АХАХАХХАХА
+[Tue Mar 24 17:58:33 2026] <STEAM_0:1:411221606> Летов: У ТЕБЯ ДАЖЕ КАРТЫ НЕТУ
+[Tue Mar 24 17:58:37 2026] <STEAM_0:1:411221606> Летов: ХАПХАХАХПХПА
+[Tue Mar 24 17:58:40 2026] <STEAM_0:1:839860057> david280911: есть
+[Tue Mar 24 17:58:45 2026] <STEAM_0:1:411221606> Летов: какая?
+[Tue Mar 24 17:58:49 2026] <STEAM_0:1:839860057> david280911: т банка
+[Tue Mar 24 17:58:56 2026] <STEAM_0:1:411221606> Летов: детская?
+[Tue Mar 24 17:58:59 2026] <STEAM_0:1:839860057> david280911: да
+[Tue Mar 24 17:59:01 2026] Player "stalker_20130" <STEAM_0:1:890482601> has spawned in the server
+[Tue Mar 24 17:59:05 2026] <STEAM_0:1:411221606> Летов: хахахахахахах
+[Tue Mar 24 17:59:07 2026] <STEAM_0:1:839860057> david280911: но ограничений нет
+[Tue Mar 24 17:59:14 2026] <STEAM_0:1:411221606> Летов: А У МЕНЯ ВЗРОСЛАЯ
+[Tue Mar 24 17:59:22 2026] Летов has killed david280911.
+[Tue Mar 24 17:59:33 2026] Летов has killed david280911.
+[Tue Mar 24 17:59:50 2026] <STEAM_0:1:411221606> Летов: прыгни
+[Tue Mar 24 18:01:04 2026] Летов has killed david280911.
+[Tue Mar 24 18:01:09 2026] <STEAM_0:1:411221606> Летов: еблан
+[Tue Mar 24 18:01:48 2026] <STEAM_0:1:411221606> Летов: брони возьми
+[Tue Mar 24 18:02:31 2026] <STEAM_0:1:411221606> Летов: дай
+[Tue Mar 24 18:02:34 2026] <STEAM_0:1:411221606> Летов: спецу
+[Tue Mar 24 18:02:36 2026] <STEAM_0:1:411221606> Летов: ссо
+[Tue Mar 24 18:02:57 2026] <STEAM_0:1:890482601> stalker_20130: дал
+[Tue Mar 24 18:03:01 2026] <STEAM_0:1:411221606> Летов: убей
+[Tue Mar 24 18:03:06 2026] <STEAM_0:1:411221606> Летов: // откат
+[Tue Mar 24 18:03:18 2026] <STEAM_0:1:890482601> stalker_20130: так стрелять или нет
+[Tue Mar 24 18:03:24 2026] <STEAM_0:1:839860057> david280911: давай я
+[Tue Mar 24 18:03:34 2026] stalker_20130 has killed Летов.
+[Tue Mar 24 18:03:44 2026] <STEAM_0:1:411221606> Летов: // ресетни
+[Tue Mar 24 18:03:47 2026] <STEAM_0:1:890482601> stalker_20130: ты с войсом играешь?
+[Tue Mar 24 18:03:52 2026] <STEAM_0:1:411221606> Летов: // нет
+[Tue Mar 24 18:03:57 2026] <STEAM_0:1:411221606> Летов: // гоу в дс
+[Tue Mar 24 18:03:59 2026] <STEAM_0:1:890482601> stalker_20130 ran command "respawn Анзуров"
+[Tue Mar 24 18:04:13 2026] <STEAM_0:1:411221606> Летов: // гоу в дс
+[Tue Mar 24 18:04:17 2026] <STEAM_0:1:890482601> stalker_20130: // я в звонке
+[Tue Mar 24 18:04:26 2026] <STEAM_0:1:890482601> stalker_20130: // заходи
+[Tue Mar 24 18:06:05 2026] <STEAM_0:1:411221606> Летов: гоу тулится
+[Tue Mar 24 18:06:07 2026] <STEAM_0:1:411221606> Летов: гоу тулится
+[Tue Mar 24 18:06:07 2026] <STEAM_0:1:411221606> Летов: гоу тулится
+[Tue Mar 24 18:06:08 2026] <STEAM_0:1:411221606> Летов: гоу тулится
+[Tue Mar 24 18:06:08 2026] <STEAM_0:1:411221606> Летов: гоу тулится
+[Tue Mar 24 18:06:09 2026] <STEAM_0:1:411221606> Летов: гоу тулится
+[Tue Mar 24 18:06:09 2026] <STEAM_0:1:411221606> Летов: гоу тулится
+[Tue Mar 24 18:06:10 2026] <STEAM_0:1:411221606> Летов: гоу тулится\
+[Tue Mar 24 18:06:10 2026] <STEAM_0:1:411221606> Летов: гоу тулится\н
+[Tue Mar 24 18:06:11 2026] <STEAM_0:1:411221606> Летов: гоу тулится\н
+[Tue Mar 24 18:06:12 2026] <STEAM_0:1:411221606> Летов: гоу тулится\нн
+[Tue Mar 24 18:06:12 2026] <STEAM_0:1:411221606> Летов: гоу тулится\нн
+[Tue Mar 24 18:06:13 2026] <STEAM_0:1:411221606> Летов: гоу тулится\нн
+[Tue Mar 24 18:06:13 2026] <STEAM_0:1:411221606> Летов: гоу тулится\нн
+[Tue Mar 24 18:06:13 2026] <STEAM_0:1:411221606> Летов: гоу тулится\ннн
+[Tue Mar 24 18:06:20 2026] <STEAM_0:1:411221606> Летов: гоу тулится
+[Tue Mar 24 18:06:21 2026] <STEAM_0:1:411221606> Летов: гоу тулится
+[Tue Mar 24 18:06:21 2026] <STEAM_0:1:411221606> Летов: гоу тулится
+[Tue Mar 24 18:06:22 2026] <STEAM_0:1:411221606> Летов: гоу тулится
+[Tue Mar 24 18:06:22 2026] <STEAM_0:1:411221606> Летов: гоу тулится
+[Tue Mar 24 18:06:23 2026] <STEAM_0:1:411221606> Летов: гоу тулится
+[Tue Mar 24 18:06:24 2026] <STEAM_0:1:411221606> Летов: гоу тулится
+[Tue Mar 24 18:06:25 2026] <STEAM_0:1:411221606> Летов: гоу тулится
+[Tue Mar 24 18:06:25 2026] <STEAM_0:1:411221606> Летов: гоу тулится
+[Tue Mar 24 18:06:26 2026] <STEAM_0:1:411221606> Летов: гоу тулится
+[Tue Mar 24 18:06:27 2026] <STEAM_0:1:411221606> Летов: гоу тулится
+[Tue Mar 24 18:06:27 2026] <STEAM_0:1:411221606> Летов: гоу тулится
+[Tue Mar 24 18:06:28 2026] <STEAM_0:1:411221606> Летов: гоу тулится
+[Tue Mar 24 18:06:28 2026] <STEAM_0:1:411221606> Летов: гоу тулится
+[Tue Mar 24 18:06:29 2026] <STEAM_0:1:411221606> Летов: гоу тулится
+[Tue Mar 24 18:06:29 2026] <STEAM_0:1:411221606> Летов: гоу тулится
+[Tue Mar 24 18:06:30 2026] <STEAM_0:1:411221606> Летов: гоу тулится
+[Tue Mar 24 18:06:30 2026] <STEAM_0:1:411221606> Летов: гоу тулится
+[Tue Mar 24 18:06:31 2026] <STEAM_0:1:411221606> Летов: гоу тулится
+[Tue Mar 24 18:06:32 2026] <STEAM_0:1:411221606> Летов: гоу тулится
+[Tue Mar 24 18:06:32 2026] <STEAM_0:1:411221606> Летов: гоу тулится
+[Tue Mar 24 18:06:35 2026] <STEAM_0:1:411221606> Летов: н
+[Tue Mar 24 18:06:38 2026] <STEAM_0:1:411221606> Летов: гоу тулится
+[Tue Mar 24 18:06:38 2026] <STEAM_0:1:411221606> Летов: гоу тулится
+[Tue Mar 24 18:06:39 2026] <STEAM_0:1:411221606> Летов: гоу тулится
+[Tue Mar 24 18:06:40 2026] <STEAM_0:1:411221606> Летов: гоу тулится
+[Tue Mar 24 18:06:40 2026] <STEAM_0:1:411221606> Летов: гоу тулится
+[Tue Mar 24 18:06:41 2026] <STEAM_0:1:411221606> Летов: гоу тулится
+[Tue Mar 24 18:06:41 2026] <STEAM_0:1:411221606> Летов: гоу тулится
+[Tue Mar 24 18:07:48 2026] <STEAM_0:1:411221606> Летов: // виноградов пупс ты где?
+[Tue Mar 24 18:08:27 2026] <STEAM_0:1:839860057> david280911: в оружейке
+[Tue Mar 24 18:08:46 2026] <STEAM_0:1:839860057> david280911: // в оружейке додначу
+[Tue Mar 24 18:09:20 2026] <STEAM_0:1:411221606> Летов: // пиздец а если серв закроется?
+[Tue Mar 24 18:09:21 2026] <STEAM_0:1:411221606> Летов: а
+[Tue Mar 24 18:11:25 2026] <STEAM_0:1:411221606> Летов: чего тебе?
+[Tue Mar 24 18:11:52 2026] <STEAM_0:1:839860057> david280911: все
+[Tue Mar 24 18:11:59 2026] <STEAM_0:1:839860057> david280911: я купил ссо
+[Tue Mar 24 18:12:02 2026] <STEAM_0:1:411221606> Летов: поздравляю
+[Tue Mar 24 18:12:09 2026] <STEAM_0:1:411221606> Летов: ты теперь в роте геев
+[Tue Mar 24 18:12:29 2026] <STEAM_0:1:411221606> Летов: оружие покажу
+[Tue Mar 24 18:12:34 2026] Летов has killed david280911.
+[Tue Mar 24 18:12:37 2026] <STEAM_0:1:890482601> stalker_20130: // виноградов ссо купил,?
+[Tue Mar 24 18:12:43 2026] <STEAM_0:1:839860057> david280911: //  да
+[Tue Mar 24 18:13:12 2026] <STEAM_0:1:411221606> Летов: // бля я купил и все блять резкро начали закупать
+[Tue Mar 24 18:13:36 2026] <STEAM_0:1:411221606> Летов: ты еще 3 мотострелковая
+[Tue Mar 24 18:13:41 2026] <STEAM_0:1:411221606> Летов: ты еще 3 мотострелковая
+[Tue Mar 24 18:13:59 2026] <STEAM_0:1:411221606> Летов: ты где купил
+[Tue Mar 24 18:14:04 2026] <STEAM_0:1:411221606> Летов: нажми еще раз
+[Tue Mar 24 18:14:12 2026] <STEAM_0:1:411221606> Летов: и тебе выдаст ссо
+[Tue Mar 24 18:14:38 2026] <STEAM_0:1:411221606> Летов: можешь хоть как одется
+[Tue Mar 24 18:14:44 2026] <STEAM_0:1:411221606> Летов: у нас нет формы
+[Tue Mar 24 18:15:05 2026] <STEAM_0:1:411221606> Летов: а шлем?
+[Tue Mar 24 18:15:19 2026] <STEAM_0:1:411221606> Летов: ПШЕЛ НАХУЙ БОЕЦ
+[Tue Mar 24 18:15:52 2026] <STEAM_0:1:411221606> Летов: можешь хоть как одется
+[Tue Mar 24 18:15:54 2026] <STEAM_0:1:411221606> Летов: у нас нет формы
+[Tue Mar 24 18:15:56 2026] <STEAM_0:1:411221606> Летов: можешь хоть как одется
+[Tue Mar 24 18:15:57 2026] <STEAM_0:1:411221606> Летов: у нас нет формы
+[Tue Mar 24 18:15:59 2026] <STEAM_0:1:411221606> Летов: можешь хоть как одется
+[Tue Mar 24 18:16:00 2026] <STEAM_0:1:411221606> Летов: у нас нет формы
+[Tue Mar 24 18:16:27 2026] <STEAM_0:1:411221606> Летов: говно
+[Tue Mar 24 18:16:32 2026] <STEAM_0:1:411221606> Летов: переоденься
+[Tue Mar 24 18:16:45 2026] <STEAM_0:1:411221606> Летов: мы долны выгледеть сексуально
+[Tue Mar 24 18:17:13 2026] <STEAM_0:1:411221606> Летов: ало мою форму не пиздеть свою делай
+[Tue Mar 24 18:18:03 2026] <STEAM_0:1:411221606> Летов: бандану
+[Tue Mar 24 18:18:15 2026] <STEAM_0:1:411221606> Летов: и желательно сам костюм
+[Tue Mar 24 18:18:26 2026] <STEAM_0:1:411221606> Летов: на зщеленый =-
+[Tue Mar 24 18:18:41 2026] <STEAM_0:1:839860057> david280911: уюей меня
+[Tue Mar 24 18:18:42 2026] <STEAM_0:1:411221606> Летов: вот пойдет
+[Tue Mar 24 18:18:49 2026] <STEAM_0:1:839860057> david280911: убей"
+[Tue Mar 24 18:18:49 2026] <STEAM_0:1:411221606> Летов: нах?
+[Tue Mar 24 18:19:00 2026] <STEAM_0:1:839860057> david280911: чтоб оружие появилось
+[Tue Mar 24 18:19:01 2026] <STEAM_0:1:411221606> Летов: нах?
+[Tue Mar 24 18:19:04 2026] Летов has killed david280911.
+[Tue Mar 24 18:19:31 2026] Летов has killed david280911.
+[Tue Mar 24 18:19:41 2026] <STEAM_0:1:411221606> Летов: он сам сказал
+[Tue Mar 24 18:19:56 2026] <STEAM_0:1:411221606> Летов: где?
+[Tue Mar 24 18:20:08 2026] <STEAM_0:1:411221606> Летов: мы ССО
+[Tue Mar 24 18:20:16 2026] <STEAM_0:1:411221606> Летов: и чо?
+[Tue Mar 24 18:20:21 2026] <STEAM_0:1:411221606> Летов: у нас нет формы
+[Tue Mar 24 18:20:32 2026] <STEAM_0:1:411221606> Летов: Схуяли?
+[Tue Mar 24 18:20:49 2026] <STEAM_0:1:411221606> Летов: а ты хули не по форме?
+[Tue Mar 24 18:21:03 2026] <STEAM_0:1:839860057> david280911: нет
+[Tue Mar 24 18:21:16 2026] <STEAM_0:1:411221606> Летов: мне разрешили
+[Tue Mar 24 18:21:39 2026] <STEAM_0:1:411221606> Летов: нытик
+[Tue Mar 24 18:21:50 2026] <STEAM_0:1:411221606> Летов: нытик
+[Tue Mar 24 18:22:02 2026] <STEAM_0:1:411221606> Летов: нытик
+[Tue Mar 24 18:22:52 2026] worldspawn has killed Летов.
+[Tue Mar 24 18:23:35 2026] Player "ColdReboiled" <STEAM_0:1:887260345> is attempting to connect.
+[Tue Mar 24 18:25:49 2026] <STEAM_0:1:411221606> Летов: прыгни
+[Tue Mar 24 18:26:03 2026] <STEAM_0:1:839860057> david280911: не че не получается
+[Tue Mar 24 18:26:28 2026] <STEAM_0:1:839860057> david280911: лан я в дс
+[Tue Mar 24 18:26:35 2026] Player "david280911" <STEAM_0:1:839860057> has left the server
+[Tue Mar 24 18:27:28 2026] worldspawn has killed Летов.
+[Tue Mar 24 18:29:18 2026] worldspawn has killed stalker_20130.
+[Tue Mar 24 18:29:45 2026] worldspawn has killed Летов.
+[Tue Mar 24 18:30:39 2026] Player "Летов" <STEAM_0:1:411221606> has left the server
+[Tue Mar 24 18:34:17 2026] Player "ColdReboiled" <STEAM_0:1:887260345> has spawned in the server
+[Tue Mar 24 18:35:57 2026] Player "ColdReboiled" <STEAM_0:1:887260345> has left the server
+[Tue Mar 24 18:37:17 2026] Player "david280911" <STEAM_0:1:839860057> is attempting to connect.
+[Tue Mar 24 18:37:49 2026] Player "david280911" <STEAM_0:1:839860057> has spawned in the server
+[Tue Mar 24 18:38:30 2026] <STEAM_0:1:839860057> david280911: // самсонов ты где?
+[Tue Mar 24 18:39:28 2026] <STEAM_0:1:839860057> david280911: // а ты за нато можешь зайти?
+[Tue Mar 24 18:41:54 2026] Player "_888_ГАЛОВОРЕЗ_СВИН" <STEAM_0:1:37844878> is attempting to connect.
+[Tue Mar 24 18:45:53 2026] Player "david280911" <STEAM_0:1:839860057> has left the server
+[Tue Mar 24 19:04:42 2026] Player "gedaspuid" <STEAM_0:0:634217548> is attempting to connect.
+[Tue Mar 24 19:06:32 2026] Player "gedaspuid" <STEAM_0:0:634217548> has spawned in the server
+[Tue Mar 24 19:08:15 2026] Player "gedaspuid" <STEAM_0:0:634217548> has left the server
+[Tue Mar 24 19:11:10 2026] worldspawn has killed stalker_20130.
+[Tue Mar 24 19:23:55 2026] Player "david280911" <STEAM_0:1:839860057> is attempting to connect.
+[Tue Mar 24 19:24:41 2026] Player "david280911" <STEAM_0:1:839860057> has spawned in the server
+[Tue Mar 24 19:28:53 2026] Player "Летов" <STEAM_0:1:411221606> is attempting to connect.
+[Tue Mar 24 19:30:50 2026] david280911 has killed david280911.
+[Tue Mar 24 19:31:33 2026] Player "gREG4IK" <STEAM_0:1:455594560> is attempting to connect.
+[Tue Mar 24 19:32:33 2026] Player "Летов" <STEAM_0:1:411221606> has spawned in the server
+[Tue Mar 24 19:33:13 2026] Player "gREG4IK" <STEAM_0:1:455594560> has spawned in the server
+[Tue Mar 24 19:36:09 2026] <STEAM_0:1:411221606> Летов: // грэг ты тут?
+[Tue Mar 24 19:37:29 2026] <STEAM_0:1:411221606> Летов: // грэг ты тут?
+[Tue Mar 24 19:37:36 2026] <STEAM_0:1:455594560> gREG4IK: /ooc да
+[Tue Mar 24 19:37:40 2026] <STEAM_0:1:411221606> Летов: // ку
+[Tue Mar 24 19:38:06 2026] <STEAM_0:1:411221606> Летов: // сколько стоит ССО навсегда?
+[Tue Mar 24 19:38:22 2026] <STEAM_0:1:455594560> gREG4IK: /ooc 350 рубликов
+[Tue Mar 24 19:38:28 2026] <STEAM_0:1:455594560> gREG4IK: /ooc потом повышать буду
+[Tue Mar 24 19:38:34 2026] <STEAM_0:1:411221606> Летов: // настоящих?
+[Tue Mar 24 19:38:37 2026] <STEAM_0:1:890482601> stalker_20130: // навсегда?
+[Tue Mar 24 19:39:20 2026] <STEAM_0:1:411221606> Летов: БАЛЕРИНА КАПУЧИНААА
+[Tue Mar 24 19:39:32 2026] <STEAM_0:1:411221606> Летов: БАЛЕРИНА КАПУЧИНААА
+[Tue Mar 24 19:40:16 2026] <STEAM_0:1:455594560> gREG4IK: /ooc Сейчас стоит 350 рублей навсегда
+[Tue Mar 24 19:40:23 2026] <STEAM_0:1:455594560> gREG4IK: /ooc Сейчас стоит 350 рублей 30
+[Tue Mar 24 19:40:26 2026] <STEAM_0:1:455594560> gREG4IK: /ooc Сейчас стоит 350 рублей 30 дней
+[Tue Mar 24 19:41:16 2026] <STEAM_0:1:890482601> stalker_20130: // грэг блять анзур гандон крюком меня тащит
+[Tue Mar 24 19:41:24 2026] <STEAM_0:1:455594560> gREG4IK ran command "goto Анзуров"
+[Tue Mar 24 19:41:41 2026] <STEAM_0:1:890482601> stalker_20130: я его не трогал
+[Tue Mar 24 19:41:44 2026] <STEAM_0:1:890482601> stalker_20130: я на крыше стоял
+[Tue Mar 24 19:41:46 2026] <STEAM_0:1:455594560> gREG4IK: /logs
+[Tue Mar 24 19:41:50 2026] <STEAM_0:1:890482601> stalker_20130: так я не поподал
+[Tue Mar 24 19:42:00 2026] <STEAM_0:1:890482601> stalker_20130: ой ди наху
+[Tue Mar 24 19:42:41 2026] <STEAM_0:1:890482601> stalker_20130: там пропали кстати где то флаги
+[Tue Mar 24 19:42:48 2026] <STEAM_0:1:890482601> stalker_20130: ага понял
+[Tue Mar 24 19:43:06 2026] <STEAM_0:1:890482601> stalker_20130: блять
+[Tue Mar 24 19:43:10 2026] <STEAM_0:1:890482601> stalker_20130: заебал
+[Tue Mar 24 19:43:19 2026] <STEAM_0:1:455594560> gREG4IK ran command "goto Виноградов"
+[Tue Mar 24 19:44:25 2026] <STEAM_0:1:890482601> stalker_20130: // грэг тп ко мне
+[Tue Mar 24 19:44:30 2026] <STEAM_0:1:890482601> stalker_20130: // тут хуйня какаято
+[Tue Mar 24 19:49:58 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:49:58 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [726][obj_vj_grenade]"
+[Tue Mar 24 19:50:06 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:50:06 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [719][obj_vj_grenade]"
+[Tue Mar 24 19:50:06 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:50:06 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [725][obj_vj_grenade]"
+[Tue Mar 24 19:50:06 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:50:06 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [726][obj_vj_grenade]"
+[Tue Mar 24 19:50:07 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:50:07 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [727][obj_vj_grenade]"
+[Tue Mar 24 19:50:07 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:50:07 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [728][obj_vj_grenade]"
+[Tue Mar 24 19:50:07 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:50:07 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [729][obj_vj_grenade]"
+[Tue Mar 24 19:50:07 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:50:07 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [730][obj_vj_grenade]"
+[Tue Mar 24 19:50:07 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:50:07 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [731][obj_vj_grenade]"
+[Tue Mar 24 19:50:07 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:50:07 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [732][obj_vj_grenade]"
+[Tue Mar 24 19:50:07 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:50:07 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [733][obj_vj_grenade]"
+[Tue Mar 24 19:50:08 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:50:08 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [734][obj_vj_grenade]"
+[Tue Mar 24 19:50:17 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:50:17 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [719][obj_vj_grenade]"
+[Tue Mar 24 19:50:17 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:50:17 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [725][obj_vj_grenade]"
+[Tue Mar 24 19:50:17 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:50:17 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [726][obj_vj_grenade]"
+[Tue Mar 24 19:50:17 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:50:17 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [727][obj_vj_grenade]"
+[Tue Mar 24 19:50:17 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:50:17 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [728][obj_vj_grenade]"
+[Tue Mar 24 19:50:17 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:50:17 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [729][obj_vj_grenade]"
+[Tue Mar 24 19:50:18 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:50:18 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [730][obj_vj_grenade]"
+[Tue Mar 24 19:50:18 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:50:18 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [731][obj_vj_grenade]"
+[Tue Mar 24 19:50:18 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:50:18 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [732][obj_vj_grenade]"
+[Tue Mar 24 19:50:18 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:50:18 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [733][obj_vj_grenade]"
+[Tue Mar 24 19:50:34 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:50:34 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [719][lvs_missile]"
+[Tue Mar 24 19:50:34 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:50:34 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [725][lvs_missile]"
+[Tue Mar 24 19:50:35 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:50:35 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [726][lvs_missile]"
+[Tue Mar 24 19:50:35 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:50:35 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [727][lvs_missile]"
+[Tue Mar 24 19:50:35 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:50:35 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [728][lvs_missile]"
+[Tue Mar 24 19:50:35 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:50:35 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [729][lvs_missile]"
+[Tue Mar 24 19:50:35 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:50:35 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [730][lvs_missile]"
+[Tue Mar 24 19:50:35 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:50:35 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [731][lvs_missile]"
+[Tue Mar 24 19:50:35 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:50:35 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [732][lvs_missile]"
+[Tue Mar 24 19:50:36 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:50:36 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [719][lvs_missile]"
+[Tue Mar 24 19:50:36 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:50:36 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [725][lvs_missile]"
+[Tue Mar 24 19:50:36 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:50:36 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [733][lvs_missile]"
+[Tue Mar 24 19:50:36 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:50:36 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [734][lvs_missile]"
+[Tue Mar 24 19:50:36 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:50:36 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [726][lvs_missile]"
+[Tue Mar 24 19:50:44 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:50:44 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [719][lvs_missile]"
+[Tue Mar 24 19:50:45 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:50:45 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [725][lvs_missile]"
+[Tue Mar 24 19:50:45 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:50:45 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [726][lvs_missile]"
+[Tue Mar 24 19:50:45 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:50:45 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [727][lvs_missile]"
+[Tue Mar 24 19:50:45 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:50:45 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [728][lvs_missile]"
+[Tue Mar 24 19:50:45 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:50:45 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [729][lvs_missile]"
+[Tue Mar 24 19:50:45 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:50:45 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [730][lvs_missile]"
+[Tue Mar 24 19:50:45 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:50:45 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [731][lvs_missile]"
+[Tue Mar 24 19:50:46 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:50:46 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [732][lvs_missile]"
+[Tue Mar 24 19:50:46 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:50:46 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [733][lvs_missile]"
+[Tue Mar 24 19:50:46 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:50:46 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [734][lvs_missile]"
+[Tue Mar 24 19:50:46 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:50:46 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [735][lvs_missile]"
+[Tue Mar 24 19:50:46 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:50:46 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [736][lvs_missile]"
+[Tue Mar 24 19:50:46 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:50:46 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [737][lvs_missile]"
+[Tue Mar 24 19:50:46 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:50:46 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [738][lvs_missile]"
+[Tue Mar 24 19:50:46 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:50:46 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [739][lvs_missile]"
+[Tue Mar 24 19:50:54 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:50:54 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [719][lvs_missile]"
+[Tue Mar 24 19:50:54 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:50:54 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [725][lvs_missile]"
+[Tue Mar 24 19:50:54 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:50:54 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [726][lvs_missile]"
+[Tue Mar 24 19:50:55 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:50:55 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [727][lvs_missile]"
+[Tue Mar 24 19:50:55 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:50:55 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [728][lvs_missile]"
+[Tue Mar 24 19:50:55 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:50:55 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [729][lvs_missile]"
+[Tue Mar 24 19:50:55 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:50:55 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [730][lvs_missile]"
+[Tue Mar 24 19:50:55 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:50:55 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [731][lvs_missile]"
+[Tue Mar 24 19:50:55 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:50:55 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [732][lvs_missile]"
+[Tue Mar 24 19:50:55 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:50:55 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [733][lvs_missile]"
+[Tue Mar 24 19:50:56 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:50:56 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [734][lvs_missile]"
+[Tue Mar 24 19:50:56 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:50:56 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [735][lvs_missile]"
+[Tue Mar 24 19:50:56 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:50:56 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [736][lvs_missile]"
+[Tue Mar 24 19:50:56 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:50:56 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [737][lvs_missile]"
+[Tue Mar 24 19:51:02 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:51:02 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [725][lvs_missile]"
+[Tue Mar 24 19:51:03 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:51:03 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [726][lvs_missile]"
+[Tue Mar 24 19:51:03 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:51:03 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [727][lvs_missile]"
+[Tue Mar 24 19:51:03 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:51:03 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [728][lvs_missile]"
+[Tue Mar 24 19:51:03 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:51:03 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [729][lvs_missile]"
+[Tue Mar 24 19:51:03 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:51:03 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [730][lvs_missile]"
+[Tue Mar 24 19:51:03 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:51:03 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [731][lvs_missile]"
+[Tue Mar 24 19:51:03 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:51:03 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [732][lvs_missile]"
+[Tue Mar 24 19:51:04 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:51:04 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [733][lvs_missile]"
+[Tue Mar 24 19:51:04 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:51:04 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [734][lvs_missile]"
+[Tue Mar 24 19:51:04 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:51:04 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [735][lvs_missile]"
+[Tue Mar 24 19:51:04 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:51:04 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [736][lvs_missile]"
+[Tue Mar 24 19:51:04 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:51:04 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [737][lvs_missile]"
+[Tue Mar 24 19:51:04 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:51:04 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [738][lvs_missile]"
+[Tue Mar 24 19:51:04 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:51:04 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [739][lvs_missile]"
+[Tue Mar 24 19:51:05 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:51:05 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [740][lvs_missile]"
+[Tue Mar 24 19:51:05 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:51:05 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [741][lvs_missile]"
+[Tue Mar 24 19:51:05 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:51:05 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [743][lvs_missile]"
+[Tue Mar 24 19:51:05 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:51:05 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [744][lvs_missile]"
+[Tue Mar 24 19:51:05 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:51:05 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [745][lvs_missile]"
+[Tue Mar 24 19:51:05 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:51:05 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [746][lvs_missile]"
+[Tue Mar 24 19:51:05 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:51:05 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [747][lvs_missile]"
+[Tue Mar 24 19:51:06 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:51:06 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [748][lvs_missile]"
+[Tue Mar 24 19:51:06 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:51:06 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [725][lvs_missile]"
+[Tue Mar 24 19:51:11 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:51:11 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [726][lvs_missile]"
+[Tue Mar 24 19:51:11 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:51:11 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [727][lvs_missile]"
+[Tue Mar 24 19:51:11 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:51:11 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [728][lvs_missile]"
+[Tue Mar 24 19:51:11 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:51:11 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [729][lvs_missile]"
+[Tue Mar 24 19:51:11 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:51:11 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [730][lvs_missile]"
+[Tue Mar 24 19:51:12 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:51:12 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [725][lvs_missile]"
+[Tue Mar 24 19:51:12 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:51:12 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [731][lvs_missile]"
+[Tue Mar 24 19:51:12 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:51:12 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [733][lvs_missile]"
+[Tue Mar 24 19:51:39 2026] <STEAM_0:1:411221606> Летов: то телефон
+[Tue Mar 24 19:52:30 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:52:30 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [719][lvs_missile]"
+[Tue Mar 24 19:52:31 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:52:31 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [725][lvs_missile]"
+[Tue Mar 24 19:52:31 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:52:31 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [726][lvs_missile]"
+[Tue Mar 24 19:52:31 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:52:31 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [727][lvs_missile]"
+[Tue Mar 24 19:52:31 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:52:31 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [728][lvs_missile]"
+[Tue Mar 24 19:52:31 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:52:31 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [729][lvs_missile]"
+[Tue Mar 24 19:52:31 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:52:31 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [730][lvs_missile]"
+[Tue Mar 24 19:52:32 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:52:32 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [731][lvs_missile]"
+[Tue Mar 24 19:52:32 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:52:32 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [732][lvs_missile]"
+[Tue Mar 24 19:52:32 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:52:32 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [733][lvs_missile]"
+[Tue Mar 24 19:52:32 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:52:32 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [734][lvs_missile]"
+[Tue Mar 24 19:52:32 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:52:32 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [719][lvs_missile]"
+[Tue Mar 24 19:52:32 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:52:32 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [725][lvs_missile]"
+[Tue Mar 24 19:52:39 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:52:39 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [719][lvs_missile]"
+[Tue Mar 24 19:52:40 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:52:40 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [725][lvs_missile]"
+[Tue Mar 24 19:52:40 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:52:40 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [726][lvs_missile]"
+[Tue Mar 24 19:52:40 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:52:40 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [727][lvs_missile]"
+[Tue Mar 24 19:52:41 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:52:41 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [728][lvs_missile]"
+[Tue Mar 24 19:52:41 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:52:41 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [719][lvs_missile]"
+[Tue Mar 24 19:52:41 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:52:41 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [729][lvs_missile]"
+[Tue Mar 24 19:52:42 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:52:42 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [725][lvs_missile]"
+[Tue Mar 24 19:52:42 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:52:42 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [731][lvs_missile]"
+[Tue Mar 24 19:52:42 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:52:42 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [732][lvs_missile]"
+[Tue Mar 24 19:52:42 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:52:42 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [726][lvs_missile]"
+[Tue Mar 24 19:52:42 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:52:42 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [727][lvs_missile]"
+[Tue Mar 24 19:52:43 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:52:43 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [728][lvs_missile]"
+[Tue Mar 24 19:52:43 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:52:43 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [733][lvs_missile]"
+[Tue Mar 24 19:52:43 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:52:43 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [734][lvs_missile]"
+[Tue Mar 24 19:52:43 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:52:43 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [719][lvs_missile]"
+[Tue Mar 24 19:52:43 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:52:43 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [735][lvs_missile]"
+[Tue Mar 24 19:52:43 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:52:43 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [729][lvs_missile]"
+[Tue Mar 24 19:52:44 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:52:44 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [736][lvs_missile]"
+[Tue Mar 24 19:52:44 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:52:44 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [725][lvs_missile]"
+[Tue Mar 24 19:52:44 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:52:44 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [731][lvs_missile]"
+[Tue Mar 24 19:52:44 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:52:44 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [737][lvs_missile]"
+[Tue Mar 24 19:52:44 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:52:44 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [732][lvs_missile]"
+[Tue Mar 24 19:52:44 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:52:44 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [726][lvs_missile]"
+[Tue Mar 24 19:52:45 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:52:45 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [727][lvs_missile]"
+[Tue Mar 24 19:52:45 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:52:45 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [728][lvs_missile]"
+[Tue Mar 24 19:52:46 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:52:46 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [719][lvs_missile]"
+[Tue Mar 24 19:52:46 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:52:46 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [729][lvs_missile]"
+[Tue Mar 24 19:52:46 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:52:46 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [733][lvs_missile]"
+[Tue Mar 24 19:52:46 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:52:46 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [725][lvs_missile]"
+[Tue Mar 24 19:52:46 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:52:46 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [731][lvs_missile]"
+[Tue Mar 24 19:52:46 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:52:46 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [732][lvs_missile]"
+[Tue Mar 24 19:52:46 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:52:46 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [734][lvs_missile]"
+[Tue Mar 24 19:52:47 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:52:47 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [726][lvs_missile]"
+[Tue Mar 24 19:52:47 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:52:47 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [735][lvs_missile]"
+[Tue Mar 24 19:52:47 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:52:47 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [727][lvs_missile]"
+[Tue Mar 24 19:52:47 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:52:47 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [736][lvs_missile]"
+[Tue Mar 24 19:52:47 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:52:47 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [728][lvs_missile]"
+[Tue Mar 24 19:52:47 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:52:47 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [737][lvs_missile]"
+[Tue Mar 24 19:53:30 2026] <STEAM_0:1:411221606> Летов: /rp Включил радио с музыкой
+[Tue Mar 24 19:54:04 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:54:04 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [719][lvs_missile]"
+[Tue Mar 24 19:54:04 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:54:04 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [725][lvs_missile]"
+[Tue Mar 24 19:54:05 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:54:05 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [726][lvs_missile]"
+[Tue Mar 24 19:54:05 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:54:05 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [727][lvs_missile]"
+[Tue Mar 24 19:54:05 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:54:05 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [728][lvs_missile]"
+[Tue Mar 24 19:54:06 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:54:06 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [729][lvs_missile]"
+[Tue Mar 24 19:54:06 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:54:06 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [730][lvs_missile]"
+[Tue Mar 24 19:54:06 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:54:06 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [719][lvs_missile]"
+[Tue Mar 24 19:54:06 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:54:06 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [731][lvs_missile]"
+[Tue Mar 24 19:54:06 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:54:06 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [732][lvs_missile]"
+[Tue Mar 24 19:54:07 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:54:07 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [733][lvs_missile]"
+[Tue Mar 24 19:54:07 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:54:07 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [734][lvs_missile]"
+[Tue Mar 24 19:54:07 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:54:07 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [735][lvs_missile]"
+[Tue Mar 24 19:54:07 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:54:07 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [736][lvs_missile]"
+[Tue Mar 24 19:54:07 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:54:07 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [737][lvs_missile]"
+[Tue Mar 24 19:54:07 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:54:07 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [738][lvs_missile]"
+[Tue Mar 24 19:54:08 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:54:08 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [739][lvs_missile]"
+[Tue Mar 24 19:54:08 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:54:08 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [725][lvs_missile]"
+[Tue Mar 24 19:54:08 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:54:08 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [733][lvs_missile]"
+[Tue Mar 24 19:54:08 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:54:08 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [734][lvs_missile]"
+[Tue Mar 24 19:54:08 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:54:08 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [740][lvs_missile]"
+[Tue Mar 24 19:54:08 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:54:08 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [741][lvs_missile]"
+[Tue Mar 24 19:54:08 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:54:08 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [742][lvs_missile]"
+[Tue Mar 24 19:54:09 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:54:09 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [743][lvs_missile]"
+[Tue Mar 24 19:54:09 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:54:09 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [726][lvs_missile]"
+[Tue Mar 24 19:54:09 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:54:09 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [744][lvs_missile]"
+[Tue Mar 24 19:54:09 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:54:09 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [745][lvs_missile]"
+[Tue Mar 24 19:54:09 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:54:09 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [727][lvs_missile]"
+[Tue Mar 24 19:54:09 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:54:09 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [746][lvs_missile]"
+[Tue Mar 24 19:54:10 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:54:10 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [747][lvs_missile]"
+[Tue Mar 24 19:54:10 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:54:10 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [728][lvs_missile]"
+[Tue Mar 24 19:54:10 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:54:10 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [729][lvs_missile]"
+[Tue Mar 24 19:54:10 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:54:10 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [732][lvs_missile]"
+[Tue Mar 24 19:54:10 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:54:10 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [736][lvs_missile]"
+[Tue Mar 24 19:54:10 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:54:10 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [730][lvs_missile]"
+[Tue Mar 24 19:54:11 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:54:11 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [719][lvs_missile]"
+[Tue Mar 24 19:54:12 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:54:12 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [725][lvs_missile]"
+[Tue Mar 24 19:54:12 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:54:12 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [731][lvs_missile]"
+[Tue Mar 24 19:54:12 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:54:12 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [733][lvs_missile]"
+[Tue Mar 24 19:54:12 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:54:12 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [734][lvs_missile]"
+[Tue Mar 24 19:54:12 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:54:12 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [726][lvs_missile]"
+[Tue Mar 24 19:54:12 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:54:12 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [735][lvs_missile]"
+[Tue Mar 24 19:54:12 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:54:12 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [737][lvs_missile]"
+[Tue Mar 24 19:54:13 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:54:13 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [727][lvs_missile]"
+[Tue Mar 24 19:54:13 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 19:54:13 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [738][lvs_missile]"
+[Tue Mar 24 19:54:49 2026] stalker_20130 has killed gREG4IK.
+[Tue Mar 24 19:54:59 2026] <STEAM_0:1:455594560> gREG4IK ran command "respawn ^"
+[Tue Mar 24 19:55:14 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [671][npc_combine_s]"
+[Tue Mar 24 19:55:15 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [673][npc_combine_s]"
+[Tue Mar 24 19:55:15 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [726][npc_combine_s]"
+[Tue Mar 24 19:55:15 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [728][npc_combine_s]"
+[Tue Mar 24 19:55:15 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [730][npc_combine_s]"
+[Tue Mar 24 19:55:15 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [738][npc_combine_s]"
+[Tue Mar 24 19:55:16 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [741][npc_combine_s]"
+[Tue Mar 24 19:55:16 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [745][npc_combine_s]"
+[Tue Mar 24 19:55:16 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [747][npc_combine_s]"
+[Tue Mar 24 19:55:16 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [749][npc_combine_s]"
+[Tue Mar 24 19:55:16 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [751][npc_combine_s]"
+[Tue Mar 24 19:55:19 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [754][npc_combine_s]"
+[Tue Mar 24 19:55:20 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [761][npc_combine_s]"
+[Tue Mar 24 19:55:21 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [765][npc_combine_s]"
+[Tue Mar 24 19:55:22 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [748][npc_citizen]"
+[Tue Mar 24 19:55:24 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [773][npc_citizen]"
+[Tue Mar 24 19:55:25 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [747][npc_citizen]"
+[Tue Mar 24 19:55:25 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [776][npc_citizen]"
+[Tue Mar 24 19:55:29 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [775][npc_combine_s]"
+[Tue Mar 24 19:55:29 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [784][npc_combine_s]"
+[Tue Mar 24 19:55:29 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [786][npc_combine_s]"
+[Tue Mar 24 19:55:29 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [788][npc_combine_s]"
+[Tue Mar 24 19:55:29 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [795][npc_combine_s]"
+[Tue Mar 24 19:55:29 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [797][npc_combine_s]"
+[Tue Mar 24 19:55:30 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [802][npc_combine_s]"
+[Tue Mar 24 19:55:45 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [725][npc_combine_s]"
+[Tue Mar 24 19:55:46 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [764][npc_combine_s]"
+[Tue Mar 24 19:55:47 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [724][npc_combine_s]"
+[Tue Mar 24 19:55:48 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [767][npc_combine_s]"
+[Tue Mar 24 19:55:49 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [748][npc_combine_s]"
+[Tue Mar 24 19:55:49 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [780][npc_combine_s]"
+[Tue Mar 24 19:55:50 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [773][npc_combine_s]"
+[Tue Mar 24 19:55:50 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [719][npc_combine_s]"
+[Tue Mar 24 19:55:51 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [812][npc_combine_s]"
+[Tue Mar 24 19:55:52 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [815][npc_combine_s]"
+[Tue Mar 24 19:55:52 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [818][npc_combine_s]"
+[Tue Mar 24 19:55:54 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [754][npc_combine_s]"
+[Tue Mar 24 19:56:09 2026] Player "Discar" <STEAM_0:0:650470378> is attempting to connect.
+[Tue Mar 24 19:56:35 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [719][npc_combine_s]"
+[Tue Mar 24 19:56:36 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [760][npc_combine_s]"
+[Tue Mar 24 19:56:37 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [766][npc_combine_s]"
+[Tue Mar 24 19:56:38 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [671][npc_combine_s]"
+[Tue Mar 24 19:56:45 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [765][npc_combine_s]"
+[Tue Mar 24 19:56:46 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [778][npc_combine_s]"
+[Tue Mar 24 19:56:46 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [760][npc_combine_s]"
+[Tue Mar 24 19:56:47 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [807][npc_combine_s]"
+[Tue Mar 24 19:56:48 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [724][npc_combine_s]"
+[Tue Mar 24 19:56:48 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [811][npc_combine_s]"
+[Tue Mar 24 19:57:03 2026] Player "Discar" <STEAM_0:0:650470378> has spawned in the server
+[Tue Mar 24 19:57:25 2026] <STEAM_0:1:411221606> Летов: // самец как ты сох?
+[Tue Mar 24 19:57:38 2026] <STEAM_0:1:890482601> stalker_20130: // я живой
+[Tue Mar 24 19:57:51 2026] <STEAM_0:1:455594560> gREG4IK: /ooc f2 для рации если что
+[Tue Mar 24 19:59:10 2026] <STEAM_0:1:411221606> Летов: // грг а что катое сбережени е и зачем оно??
+[Tue Mar 24 19:59:59 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [716][npc_combine_s]"
+[Tue Mar 24 20:00:04 2026] <STEAM_0:1:411221606> Летов: // грг а что катое сбережени е и зачем оно??
+[Tue Mar 24 20:00:24 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [670][npc_helicopter]"
+[Tue Mar 24 20:00:24 2026] <STEAM_0:0:650470378> Discar: /ooc И всееем привет, с вами снова я
+[Tue Mar 24 20:00:50 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [726][npc_helicopter]"
+[Tue Mar 24 20:00:59 2026] <STEAM_0:1:411221606> Летов: /rf ФЕНИКС НА ЗАВОД И БМП
+[Tue Mar 24 20:01:44 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [606][npc_helicopter]"
+[Tue Mar 24 20:01:54 2026] <STEAM_0:1:411221606> Летов: дай магазины я пуст
+[Tue Mar 24 20:01:57 2026] <STEAM_0:1:411221606> Летов: дай магазины я пуст
+[Tue Mar 24 20:02:03 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [606][npc_helicopter]"
+[Tue Mar 24 20:02:08 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [606][npc_helicopter]"
+[Tue Mar 24 20:02:10 2026] <STEAM_0:1:890482601> stalker_20130: щв
+[Tue Mar 24 20:02:17 2026] <STEAM_0:1:411221606> Летов: /l в рп отыграй
+[Tue Mar 24 20:02:19 2026] <STEAM_0:1:411221606> Летов: /l в рп отыграй
+[Tue Mar 24 20:02:23 2026] <STEAM_0:1:890482601> stalker_20130: /me достал из багажника ящик с патронами
+[Tue Mar 24 20:02:36 2026] <STEAM_0:1:455594560> gREG4IK ran command "goto Дискаров"
+[Tue Mar 24 20:02:39 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [734][wesupplycrate]"
+[Tue Mar 24 20:02:53 2026] <STEAM_0:1:411221606> Летов: долго
+[Tue Mar 24 20:03:06 2026] <STEAM_0:1:890482601> stalker_20130 used tool "creator"
+[Tue Mar 24 20:03:06 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [737][wesupplycrate]"
+[Tue Mar 24 20:03:07 2026] <STEAM_0:1:890482601> stalker_20130 used tool "creator"
+[Tue Mar 24 20:03:07 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [739][wesupplycrate]"
+[Tue Mar 24 20:03:08 2026] <STEAM_0:1:890482601> stalker_20130 used tool "creator"
+[Tue Mar 24 20:03:08 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [740][wesupplycrate]"
+[Tue Mar 24 20:03:20 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [606][alydus_destructiblefortification]"
+[Tue Mar 24 20:03:20 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [667][npc_rollermine]"
+[Tue Mar 24 20:03:22 2026] <STEAM_0:1:411221606> Летов: наш мопсик
+[Tue Mar 24 20:03:22 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [606][npc_helicopter]"
+[Tue Mar 24 20:03:44 2026] <STEAM_0:1:411221606> Летов: основным давай
+[Tue Mar 24 20:03:51 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [606][npc_combine_s]"
+[Tue Mar 24 20:03:53 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [729][npc_combine_s]"
+[Tue Mar 24 20:03:55 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [819][npc_combine_s]"
+[Tue Mar 24 20:03:56 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [825][npc_combine_s]"
+[Tue Mar 24 20:03:57 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [829][npc_combine_s]"
+[Tue Mar 24 20:03:57 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [832][npc_combine_s]"
+[Tue Mar 24 20:03:58 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [838][npc_combine_s]"
+[Tue Mar 24 20:03:59 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [745][npc_combine_s]"
+[Tue Mar 24 20:03:59 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [834][npc_combine_s]"
+[Tue Mar 24 20:04:00 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [851][npc_combine_s]"
+[Tue Mar 24 20:04:00 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [828][npc_combine_s]"
+[Tue Mar 24 20:04:01 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [857][npc_combine_s]"
+[Tue Mar 24 20:04:02 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [861][npc_combine_s]"
+[Tue Mar 24 20:04:03 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [824][npc_combine_s]"
+[Tue Mar 24 20:04:03 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [827][npc_combine_s]"
+[Tue Mar 24 20:04:05 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:04:05 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [819][npc_combine_s]"
+[Tue Mar 24 20:04:05 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:04:05 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [865][npc_combine_s]"
+[Tue Mar 24 20:04:05 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:04:05 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [667][npc_combine_s]"
+[Tue Mar 24 20:04:06 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:04:06 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [876][npc_combine_s]"
+[Tue Mar 24 20:04:06 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:04:06 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [878][npc_combine_s]"
+[Tue Mar 24 20:04:06 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:04:06 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [881][npc_combine_s]"
+[Tue Mar 24 20:04:06 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:04:06 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [883][npc_combine_s]"
+[Tue Mar 24 20:04:06 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:04:06 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [888][npc_combine_s]"
+[Tue Mar 24 20:04:07 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:04:07 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [826][npc_combine_s]"
+[Tue Mar 24 20:04:08 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:04:08 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [892][npc_combine_s]"
+[Tue Mar 24 20:04:08 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:04:08 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [895][npc_combine_s]"
+[Tue Mar 24 20:04:08 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:04:08 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [898][npc_combine_s]"
+[Tue Mar 24 20:04:08 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:04:08 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [901][npc_combine_s]"
+[Tue Mar 24 20:04:08 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:04:08 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [904][npc_combine_s]"
+[Tue Mar 24 20:04:09 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:04:09 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [824][npc_combine_s]"
+[Tue Mar 24 20:04:09 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:04:09 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [909][npc_combine_s]"
+[Tue Mar 24 20:04:09 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:04:09 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [913][npc_combine_s]"
+[Tue Mar 24 20:04:09 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:04:09 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [864][npc_combine_s]"
+[Tue Mar 24 20:04:10 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:04:10 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [919][npc_combine_s]"
+[Tue Mar 24 20:04:58 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:04:58 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [729][npc_combine_s]"
+[Tue Mar 24 20:04:58 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:04:58 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [770][npc_combine_s]"
+[Tue Mar 24 20:04:59 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:04:59 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [830][npc_combine_s]"
+[Tue Mar 24 20:04:59 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:04:59 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [858][npc_combine_s]"
+[Tue Mar 24 20:05:02 2026] Player "Morkovka4992" <STEAM_0:1:868763905> is attempting to connect.
+[Tue Mar 24 20:05:09 2026] <STEAM_0:1:455594560> gREG4IK: /event Зона окружена
+[Tue Mar 24 20:05:17 2026] <STEAM_0:0:650470378> Discar: /ooc Когда переведешь и обьясни мой обязанности и т.д
+[Tue Mar 24 20:05:18 2026] <STEAM_0:1:455594560> gREG4IK used tool "remover"
+[Tue Mar 24 20:05:18 2026] <STEAM_0:1:455594560> gREG4IK used tool "remover"
+[Tue Mar 24 20:05:19 2026] <STEAM_0:1:455594560> gREG4IK used tool "remover"
+[Tue Mar 24 20:05:19 2026] <STEAM_0:1:455594560> gREG4IK used tool "remover"
+[Tue Mar 24 20:05:19 2026] <STEAM_0:1:455594560> gREG4IK used tool "remover"
+[Tue Mar 24 20:05:34 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:05:34 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [740][npc_combine_s]"
+[Tue Mar 24 20:05:35 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:05:35 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [820][npc_combine_s]"
+[Tue Mar 24 20:05:35 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:05:35 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [829][npc_combine_s]"
+[Tue Mar 24 20:05:35 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:05:35 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [862][npc_combine_s]"
+[Tue Mar 24 20:05:36 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:05:36 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [869][npc_combine_s]"
+[Tue Mar 24 20:05:36 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:05:36 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [734][npc_combine_s]"
+[Tue Mar 24 20:05:42 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:05:42 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [860][npc_combine_s]"
+[Tue Mar 24 20:05:43 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:05:43 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [893][npc_combine_s]"
+[Tue Mar 24 20:05:43 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:05:43 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [896][npc_combine_s]"
+[Tue Mar 24 20:05:48 2026] <STEAM_0:1:890482601> stalker_20130: // грэг это ты удалил ящики с пт?
+[Tue Mar 24 20:05:52 2026] Player "david280911" <STEAM_0:1:839860057> has left the server
+[Tue Mar 24 20:05:52 2026] <STEAM_0:1:890482601> stalker_20130: // или сами пропали
+[Tue Mar 24 20:05:56 2026] <STEAM_0:1:455594560> gREG4IK: /ooc я удалил
+[Tue Mar 24 20:06:00 2026] <STEAM_0:1:890482601> stalker_20130: // эх
+[Tue Mar 24 20:06:01 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:06:01 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [606][npc_combine_s]"
+[Tue Mar 24 20:06:04 2026] <STEAM_0:1:455594560> gREG4IK: /event Зона окружена
+[Tue Mar 24 20:06:11 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:06:11 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [637][lvs_missile]"
+[Tue Mar 24 20:06:11 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:06:11 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [667][lvs_missile]"
+[Tue Mar 24 20:06:11 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:06:11 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [726][lvs_missile]"
+[Tue Mar 24 20:06:11 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:06:11 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [728][lvs_missile]"
+[Tue Mar 24 20:06:11 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:06:12 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:06:12 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [822][lvs_missile]"
+[Tue Mar 24 20:06:12 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:06:12 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [827][lvs_missile]"
+[Tue Mar 24 20:06:12 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:06:12 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [828][lvs_missile]"
+[Tue Mar 24 20:06:12 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:06:12 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [836][lvs_missile]"
+[Tue Mar 24 20:06:12 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:06:12 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [840][lvs_missile]"
+[Tue Mar 24 20:06:12 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:06:12 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [841][lvs_missile]"
+[Tue Mar 24 20:06:13 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:06:13 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [637][lvs_missile]"
+[Tue Mar 24 20:06:20 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:06:20 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [632][lvs_missile]"
+[Tue Mar 24 20:06:20 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:06:20 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [637][lvs_missile]"
+[Tue Mar 24 20:06:20 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:06:20 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [667][lvs_missile]"
+[Tue Mar 24 20:06:20 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:06:20 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [726][lvs_missile]"
+[Tue Mar 24 20:06:20 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:06:20 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [728][lvs_missile]"
+[Tue Mar 24 20:06:21 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:06:30 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:06:30 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [635][npc_combine_s]"
+[Tue Mar 24 20:06:30 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:06:30 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [726][npc_combine_s]"
+[Tue Mar 24 20:06:30 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:06:30 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [822][npc_combine_s]"
+[Tue Mar 24 20:06:31 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:06:31 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [840][npc_combine_s]"
+[Tue Mar 24 20:06:31 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:06:31 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [846][npc_combine_s]"
+[Tue Mar 24 20:06:31 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:06:31 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [856][npc_combine_s]"
+[Tue Mar 24 20:06:36 2026] npc_combine_s has killed stalker_20130.
+[Tue Mar 24 20:06:44 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:06:44 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [630][npc_combine_s]"
+[Tue Mar 24 20:06:44 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:06:44 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [634][npc_combine_s]"
+[Tue Mar 24 20:06:45 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:06:45 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [663][npc_combine_s]"
+[Tue Mar 24 20:06:45 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:06:45 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [721][npc_combine_s]"
+[Tue Mar 24 20:06:46 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:06:46 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [846][npc_combine_s]"
+[Tue Mar 24 20:06:46 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:06:46 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [876][npc_combine_s]"
+[Tue Mar 24 20:07:01 2026] <STEAM_0:1:890482601> stalker_20130: // так ладно воюйте
+[Tue Mar 24 20:07:05 2026] <STEAM_0:1:455594560> gREG4IK: /event САМСОНОВ РАНЕН
+[Tue Mar 24 20:07:09 2026] <STEAM_0:1:890482601> stalker_20130: // я пошел видос быстро запилю и вернусь
+[Tue Mar 24 20:07:27 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:07:27 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [605][sw_rocket_4k40_v3]"
+[Tue Mar 24 20:07:41 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [630][sw_rocket_4k40_v3]"
+[Tue Mar 24 20:07:42 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [631][sw_rocket_4k40_v3]"
+[Tue Mar 24 20:07:47 2026] <STEAM_0:1:411221606> Летов: контужен
+[Tue Mar 24 20:07:50 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [630][sw_rocket_4k40_v3]"
+[Tue Mar 24 20:07:52 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [663][sw_rocket_4k40_v3]"
+[Tue Mar 24 20:07:59 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [631][sw_rocket_4k40_v3]"
+[Tue Mar 24 20:08:02 2026] <STEAM_0:1:411221606> Летов: cnjq
+[Tue Mar 24 20:08:04 2026] <STEAM_0:1:411221606> Летов: стой
+[Tue Mar 24 20:08:05 2026] gREG4IK has killed Discar.
+[Tue Mar 24 20:08:05 2026] gREG4IK has killed Летов.
+[Tue Mar 24 20:08:16 2026] <STEAM_0:1:411221606> Летов: // я же сказал
+[Tue Mar 24 20:08:32 2026] <STEAM_0:1:455594560> gREG4IK: /event ЗОНА ЗАВОД ПОТЕРЯНА
+[Tue Mar 24 20:08:34 2026] Player "𝗺𝟏𝗿𝗮𝗰𝗹𝗲" <STEAM_0:0:869238922> is attempting to connect.
+[Tue Mar 24 20:09:08 2026] <STEAM_0:0:650470378> Discar: /ooc Грэг когда переведешь?
+[Tue Mar 24 20:09:17 2026] <STEAM_0:1:411221606> Летов: /rp Вызвал подкрепление на Завод
+[Tue Mar 24 20:09:31 2026] <STEAM_0:1:455594560> gREG4IK ran command "goto Дискаров"
+[Tue Mar 24 20:10:01 2026] <STEAM_0:1:411221606> Летов: /me начал копатся на наличие патронов
+[Tue Mar 24 20:10:10 2026] <STEAM_0:1:411221606> Летов: /try было ли чтьо то
+[Tue Mar 24 20:10:16 2026] <STEAM_0:1:411221606> Летов: // грэг тп
+[Tue Mar 24 20:10:22 2026] <STEAM_0:1:411221606> Летов: // рп по
+[Tue Mar 24 20:10:29 2026] <STEAM_0:1:455594560> gREG4IK ran command "goto Анзуров"
+[Tue Mar 24 20:10:50 2026] <STEAM_0:1:455594560> gREG4IK ran command "goto Дискаров"
+[Tue Mar 24 20:11:23 2026] <STEAM_0:1:411221606> Летов: /rp закрыл дверь на ключ
+[Tue Mar 24 20:11:37 2026] <STEAM_0:1:411221606> Летов: /rp закрыл вторую дверь на ключ
+[Tue Mar 24 20:11:54 2026] <STEAM_0:1:411221606> Летов: /rp Вызвал подкрепление на Завод
+[Tue Mar 24 20:12:09 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [663][sw_bmp1am]"
+[Tue Mar 24 20:12:20 2026] <STEAM_0:1:411221606> Летов: // А ПОЧЕМУ ДИСКАРОВ ФСП???
+[Tue Mar 24 20:12:27 2026] <STEAM_0:1:411221606> Летов: // фсб
+[Tue Mar 24 20:12:51 2026] <STEAM_0:1:455594560> gREG4IK: /event БМП Приехало для эвакуации
+[Tue Mar 24 20:13:06 2026] <STEAM_0:0:650470378> Discar: /ooc мне же можно балаклаву натягивать?
+[Tue Mar 24 20:13:13 2026] <STEAM_0:1:455594560> gREG4IK: /ooc да
+[Tue Mar 24 20:13:25 2026] Player "𝗺𝟏𝗿𝗮𝗰𝗹𝗲" <STEAM_0:0:869238922> has spawned in the server
+[Tue Mar 24 20:13:28 2026] <STEAM_0:1:455594560> gREG4IK: /event БМП Приехало для эвакуации
+[Tue Mar 24 20:13:32 2026] <STEAM_0:1:455594560> gREG4IK: /event БМП Приехало для эвакуации
+[Tue Mar 24 20:13:39 2026] <STEAM_0:1:455594560> gREG4IK: /event БМП Приехало для эвакуации
+[Tue Mar 24 20:13:54 2026] <STEAM_0:1:411221606> Летов: // jyf pfrhsnf gecnm boen vtyz
+[Tue Mar 24 20:14:00 2026] <STEAM_0:0:650470378> Discar: /ooc Я даже тигра взять не могу(
+[Tue Mar 24 20:14:11 2026] <STEAM_0:1:411221606> Летов: // она закрыта пусть меня ищут и эвакуируют
+[Tue Mar 24 20:14:35 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [603][npc_combine_s]"
+[Tue Mar 24 20:14:36 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [612][npc_combine_s]"
+[Tue Mar 24 20:14:41 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [619][npc_combine_s]"
+[Tue Mar 24 20:14:42 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [622][npc_combine_s]"
+[Tue Mar 24 20:14:43 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [681][npc_combine_s]"
+[Tue Mar 24 20:14:43 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [697][npc_combine_s]"
+[Tue Mar 24 20:14:52 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [703][npc_combine_s]"
+[Tue Mar 24 20:14:52 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [706][npc_combine_s]"
+[Tue Mar 24 20:14:53 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [709][npc_combine_s]"
+[Tue Mar 24 20:15:06 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [603][npc_combine_s]"
+[Tue Mar 24 20:15:07 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [609][npc_combine_s]"
+[Tue Mar 24 20:15:08 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [702][npc_combine_s]"
+[Tue Mar 24 20:15:23 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [712][npc_combine_s]"
+[Tue Mar 24 20:15:24 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [715][npc_combine_s]"
+[Tue Mar 24 20:15:25 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [792][npc_combine_s]"
+[Tue Mar 24 20:15:26 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [798][npc_combine_s]"
+[Tue Mar 24 20:15:34 2026] <STEAM_0:1:411221606> Летов: /rp открыл дверь
+[Tue Mar 24 20:15:37 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [801][npc_combine_s]"
+[Tue Mar 24 20:15:38 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [805][npc_combine_s]"
+[Tue Mar 24 20:15:39 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [808][npc_combine_s]"
+[Tue Mar 24 20:16:58 2026] <STEAM_0:1:411221606> Летов: какой
+[Tue Mar 24 20:17:11 2026] <STEAM_0:1:411221606> Летов: не в вашей компитенции
+[Tue Mar 24 20:17:15 2026] <STEAM_0:1:411221606> Летов: извените
+[Tue Mar 24 20:17:21 2026] <STEAM_0:1:411221606> Летов: да
+[Tue Mar 24 20:17:28 2026] <STEAM_0:1:411221606> Летов: ССО
+[Tue Mar 24 20:17:36 2026] <STEAM_0:1:411221606> Летов: но не вам
+[Tue Mar 24 20:17:45 2026] <STEAM_0:1:411221606> Летов: не как нет
+[Tue Mar 24 20:17:51 2026] <STEAM_0:1:455594560> gREG4IK: /event Внимание На базу РФ скоро будет нападение
+[Tue Mar 24 20:17:53 2026] <STEAM_0:1:455594560> gREG4IK: /event Внимание На базу РФ скоро будет нападение
+[Tue Mar 24 20:18:03 2026] <STEAM_0:1:411221606> Летов: я буду докладывать самсонову
+[Tue Mar 24 20:18:08 2026] <STEAM_0:1:455594560> gREG4IK: /event Внимание На базу РФ скоро будет нападение!!!
+[Tue Mar 24 20:18:12 2026] Player "𝗺𝟏𝗿𝗮𝗰𝗹𝗲" <STEAM_0:0:869238922> has left the server
+[Tue Mar 24 20:18:15 2026] Player "𝗺𝟏𝗿𝗮𝗰𝗹𝗲" <STEAM_0:0:869238922> is attempting to connect.
+[Tue Mar 24 20:18:16 2026] <STEAM_0:1:411221606> Летов: он был со мной на операциии
+[Tue Mar 24 20:18:22 2026] Player "𝗺𝟏𝗿𝗮𝗰𝗹𝗲" <STEAM_0:0:869238922> is attempting to connect.
+[Tue Mar 24 20:18:32 2026] <STEAM_0:1:411221606> Летов: ну спросите у самсонова
+[Tue Mar 24 20:18:43 2026] <STEAM_0:1:455594560> gREG4IK: /event Внимание На базу РФ скоро будет нападение!!!
+[Tue Mar 24 20:18:47 2026] <STEAM_0:1:411221606> Летов: я подчиняюсь
+[Tue Mar 24 20:18:53 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [603][npc_combine_s]"
+[Tue Mar 24 20:18:55 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:18:55 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [609][npc_combine_s]"
+[Tue Mar 24 20:18:56 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:18:56 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [615][npc_combine_s]"
+[Tue Mar 24 20:18:56 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:18:56 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [618][npc_combine_s]"
+[Tue Mar 24 20:18:56 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:18:56 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [622][npc_combine_s]"
+[Tue Mar 24 20:18:57 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:18:57 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [664][npc_combine_s]"
+[Tue Mar 24 20:18:57 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:18:57 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [668][npc_combine_s]"
+[Tue Mar 24 20:18:57 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:18:57 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [673][npc_combine_s]"
+[Tue Mar 24 20:18:58 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:18:58 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [696][npc_combine_s]"
+[Tue Mar 24 20:18:58 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:18:58 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [700][npc_combine_s]"
+[Tue Mar 24 20:18:59 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:18:59 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [704][npc_combine_s]"
+[Tue Mar 24 20:18:59 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:18:59 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [707][npc_combine_s]"
+[Tue Mar 24 20:18:59 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:18:59 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [711][npc_combine_s]"
+[Tue Mar 24 20:19:01 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:19:01 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [715][npc_combine_s]"
+[Tue Mar 24 20:19:02 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:19:02 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [722][npc_combine_s]"
+[Tue Mar 24 20:19:02 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:19:02 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [727][npc_combine_s]"
+[Tue Mar 24 20:19:02 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:19:02 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [735][npc_combine_s]"
+[Tue Mar 24 20:19:07 2026] <STEAM_0:0:650470378> Discar: /ooc Грег, а ССО подчиняется ФСБ?
+[Tue Mar 24 20:19:09 2026] <STEAM_0:1:411221606> Летов: полковнику подполковнику Лимонадову
+[Tue Mar 24 20:19:14 2026] <STEAM_0:1:455594560> gREG4IK: /ooc нет отдельная структура
+[Tue Mar 24 20:19:16 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:19:16 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [739][npc_combine_s]"
+[Tue Mar 24 20:19:16 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:19:16 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [744][npc_combine_s]"
+[Tue Mar 24 20:19:17 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:19:17 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [747][npc_combine_s]"
+[Tue Mar 24 20:19:17 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:19:17 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [755][npc_combine_s]"
+[Tue Mar 24 20:19:18 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:19:18 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [759][npc_combine_s]"
+[Tue Mar 24 20:19:18 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:19:18 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [762][npc_combine_s]"
+[Tue Mar 24 20:19:25 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:19:25 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [752][npc_combine_s]"
+[Tue Mar 24 20:19:26 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:19:26 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [766][npc_combine_s]"
+[Tue Mar 24 20:19:29 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:19:29 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [766][npc_combine_s]"
+[Tue Mar 24 20:19:29 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:19:29 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [752][npc_combine_s]"
+[Tue Mar 24 20:19:34 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:19:34 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [738][npc_combine_s]"
+[Tue Mar 24 20:19:34 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:19:34 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [772][npc_combine_s]"
+[Tue Mar 24 20:19:35 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:19:35 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [775][npc_combine_s]"
+[Tue Mar 24 20:19:35 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:19:35 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [778][npc_combine_s]"
+[Tue Mar 24 20:19:42 2026] <STEAM_0:1:411221606> Летов: // а я что ттебе говорил Дискаров встал на фсб  думаешь крутой?
+[Tue Mar 24 20:19:56 2026] <STEAM_0:1:455594560> gREG4IK: /ooc Они сами никому не подчиняются
+[Tue Mar 24 20:19:57 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:19:57 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [762][npc_combine_s]"
+[Tue Mar 24 20:19:58 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:19:58 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [771][npc_combine_s]"
+[Tue Mar 24 20:19:58 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:19:58 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [784][npc_combine_s]"
+[Tue Mar 24 20:19:59 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:19:59 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [738][npc_combine_s]"
+[Tue Mar 24 20:20:03 2026] <STEAM_0:1:411221606> Летов: // кто?
+[Tue Mar 24 20:20:04 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:20:04 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [762][npc_combine_s]"
+[Tue Mar 24 20:20:05 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:20:05 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [738][npc_combine_s]"
+[Tue Mar 24 20:20:06 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:20:06 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [762][npc_combine_s]"
+[Tue Mar 24 20:20:07 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:20:07 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [788][npc_combine_s]"
+[Tue Mar 24 20:20:07 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:20:07 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [792][npc_combine_s]"
+[Tue Mar 24 20:20:20 2026] Player "𝗺𝟏𝗿𝗮𝗰𝗹𝗲" <STEAM_0:0:869238922> is attempting to connect.
+[Tue Mar 24 20:20:23 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [760][npc_citizen]"
+[Tue Mar 24 20:20:25 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [762][npc_citizen]"
+[Tue Mar 24 20:20:26 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [700][npc_citizen]"
+[Tue Mar 24 20:20:34 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:20:34 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [696][npc_combine_s]"
+[Tue Mar 24 20:20:35 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:20:35 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [699][npc_combine_s]"
+[Tue Mar 24 20:20:36 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:20:36 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [761][npc_combine_s]"
+[Tue Mar 24 20:20:36 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:20:36 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [765][npc_combine_s]"
+[Tue Mar 24 20:20:36 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:20:36 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [782][npc_combine_s]"
+[Tue Mar 24 20:20:40 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:20:40 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [710][npc_combine_s]"
+[Tue Mar 24 20:20:57 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:20:57 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [621][npc_citizen]"
+[Tue Mar 24 20:20:58 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:20:58 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [665][npc_citizen]"
+[Tue Mar 24 20:21:20 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:21:20 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [618][npc_citizen]"
+[Tue Mar 24 20:21:25 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:21:25 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [619][npc_combine_s]"
+[Tue Mar 24 20:21:25 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:21:25 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [664][npc_combine_s]"
+[Tue Mar 24 20:21:27 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:21:27 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [618][npc_combine_s]"
+[Tue Mar 24 20:21:27 2026] npc_combine_s has killed Discar.
+[Tue Mar 24 20:21:27 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:21:27 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [697][npc_combine_s]"
+[Tue Mar 24 20:21:27 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:21:27 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [700][npc_combine_s]"
+[Tue Mar 24 20:21:28 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:21:28 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [705][npc_combine_s]"
+[Tue Mar 24 20:21:28 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:21:28 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [652][npc_combine_s]"
+[Tue Mar 24 20:21:29 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:21:29 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [637][npc_combine_s]"
+[Tue Mar 24 20:21:51 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:21:51 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [653][npc_combine_s]"
+[Tue Mar 24 20:21:52 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:21:52 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [715][npc_combine_s]"
+[Tue Mar 24 20:21:52 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:21:52 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [721][npc_combine_s]"
+[Tue Mar 24 20:22:10 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:22:10 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [742][npc_combine_s]"
+[Tue Mar 24 20:22:10 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:22:10 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [745][npc_combine_s]"
+[Tue Mar 24 20:22:13 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:22:13 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [740][npc_combine_s]"
+[Tue Mar 24 20:22:14 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:22:14 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [751][npc_combine_s]"
+[Tue Mar 24 20:22:14 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:22:14 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [754][npc_combine_s]"
+[Tue Mar 24 20:22:28 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:22:28 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [740][npc_combine_s]"
+[Tue Mar 24 20:22:28 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:22:28 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [750][npc_combine_s]"
+[Tue Mar 24 20:22:28 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:22:28 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [760][npc_combine_s]"
+[Tue Mar 24 20:22:28 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:22:28 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [763][npc_combine_s]"
+[Tue Mar 24 20:22:28 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:22:28 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [767][npc_combine_s]"
+[Tue Mar 24 20:22:36 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:22:36 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [752][npc_combine_s]"
+[Tue Mar 24 20:22:37 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:22:37 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [767][npc_combine_s]"
+[Tue Mar 24 20:22:56 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:22:56 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [745][npc_combine_s]"
+[Tue Mar 24 20:22:56 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:22:56 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [749][npc_combine_s]"
+[Tue Mar 24 20:22:56 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:22:56 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [752][npc_combine_s]"
+[Tue Mar 24 20:22:56 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:22:56 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [759][npc_combine_s]"
+[Tue Mar 24 20:22:56 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:22:56 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [762][npc_combine_s]"
+[Tue Mar 24 20:22:56 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:22:56 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [766][npc_combine_s]"
+[Tue Mar 24 20:22:57 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:22:57 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [770][npc_combine_s]"
+[Tue Mar 24 20:22:59 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:22:59 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [773][npc_combine_s]"
+[Tue Mar 24 20:22:59 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:22:59 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [776][npc_combine_s]"
+[Tue Mar 24 20:22:59 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:22:59 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [779][npc_combine_s]"
+[Tue Mar 24 20:23:00 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:23:00 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [782][npc_combine_s]"
+[Tue Mar 24 20:23:00 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:23:00 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [785][npc_combine_s]"
+[Tue Mar 24 20:23:00 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:23:00 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [794][npc_combine_s]"
+[Tue Mar 24 20:23:05 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:23:05 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [744][npc_combine_s]"
+[Tue Mar 24 20:23:06 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:23:06 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [800][npc_combine_s]"
+[Tue Mar 24 20:23:55 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:23:55 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [653][npc_combine_s]"
+[Tue Mar 24 20:23:56 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:23:56 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [715][npc_combine_s]"
+[Tue Mar 24 20:23:56 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:23:56 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [742][npc_combine_s]"
+[Tue Mar 24 20:23:57 2026] <STEAM_0:1:455594560> gREG4IK used tool "creator"
+[Tue Mar 24 20:23:57 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [745][npc_combine_s]"
+[Tue Mar 24 20:24:59 2026] Player "𝗺𝟏𝗿𝗮𝗰𝗹𝗲" <STEAM_0:0:869238922> has spawned in the server
+[Tue Mar 24 20:26:23 2026] <STEAM_0:1:411221606> Летов: // а еще будет??
+[Tue Mar 24 20:26:42 2026] <STEAM_0:1:411221606> Летов: хай
+[Tue Mar 24 20:26:46 2026] <STEAM_0:1:411221606> Летов: пупс
+[Tue Mar 24 20:27:06 2026] <STEAM_0:1:411221606> Летов: много ты пропустил канечно
+[Tue Mar 24 20:27:23 2026] <STEAM_0:1:411221606> Летов: // грэг ты тут??
+[Tue Mar 24 20:28:35 2026] <STEAM_0:1:411221606> Летов: еле как да?
+[Tue Mar 24 20:28:37 2026] <STEAM_0:1:411221606> Летов: еле как да?
+[Tue Mar 24 20:28:46 2026] <STEAM_0:1:411221606> Летов: а шлем где?
+[Tue Mar 24 20:30:11 2026] <STEAM_0:1:411221606> Летов: мда.. не фсб а костюмер какой-то
+[Tue Mar 24 20:30:23 2026] <STEAM_0:1:411221606> Летов: мда.. не фсб а костюмер какой-то
+[Tue Mar 24 20:30:36 2026] <STEAM_0:1:411221606> Летов: чего?
+[Tue Mar 24 20:30:52 2026] <STEAM_0:1:411221606> Летов: порабы сделать
+[Tue Mar 24 20:31:30 2026] <STEAM_0:1:411221606> Летов: // ГРЭГУШКА ПОМОГИ
+[Tue Mar 24 20:31:50 2026] <STEAM_0:1:411221606> Летов: // ГРЭГУШКА ПОМОГИ
+[Tue Mar 24 20:32:26 2026] <STEAM_0:0:650470378> Discar: /ooc ГРЕГ роль в ДС
+[Tue Mar 24 20:33:12 2026] <STEAM_0:1:411221606> Летов: // ГРЭГУШКА ПОМОГИ
+[Tue Mar 24 20:33:57 2026] <STEAM_0:1:411221606> Летов: // УБЕЙТЕ МЕНЯЯЯ
+[Tue Mar 24 20:34:08 2026] <STEAM_0:1:411221606> Летов: // УБЕЙТЕ МЕНЯЯЯ
+[Tue Mar 24 20:34:09 2026] <STEAM_0:1:411221606> Летов: // УБЕЙТЕ МЕНЯЯЯ
+[Tue Mar 24 20:34:22 2026] <STEAM_0:1:411221606> Летов: // УБЕЙТЕ МЕНЯЯЯ
+[Tue Mar 24 20:34:23 2026] <STEAM_0:1:411221606> Летов: // УБЕЙТЕ МЕНЯЯЯ
+[Tue Mar 24 20:34:39 2026] <STEAM_0:1:411221606> Летов: // ты ебалн я в оцц пишу
+[Tue Mar 24 20:35:23 2026] <STEAM_0:1:411221606> Летов: ХПАХАХАХАХАХАХАХ
+[Tue Mar 24 20:36:03 2026] <STEAM_0:1:411221606> Летов: НАМ ТОЖЕ ПМ ХОТЯБ
+[Tue Mar 24 20:36:13 2026] <STEAM_0:1:411221606> Летов: вп
+[Tue Mar 24 20:36:49 2026] <STEAM_0:1:411221606> Летов: че палите я настолько красивый?
+[Tue Mar 24 20:37:09 2026] <STEAM_0:1:411221606> Летов: а че палиш?
+[Tue Mar 24 20:37:36 2026] <STEAM_0:1:411221606> Летов: фап 500 кинет
+[Tue Mar 24 20:37:57 2026] Player "gREG4IK" <STEAM_0:1:455594560> has left the server
+[Tue Mar 24 20:37:58 2026] <STEAM_0:1:411221606> Летов: в тир иди и стреляй
+[Tue Mar 24 20:38:10 2026] <STEAM_0:1:411221606> Летов: угроза?
+[Tue Mar 24 20:38:50 2026] <STEAM_0:1:411221606> Летов: угроза?
+[Tue Mar 24 20:38:54 2026] Летов has killed 𝗺𝟏𝗿𝗮𝗰𝗹𝗲.
+[Tue Mar 24 20:38:58 2026] <STEAM_0:1:411221606> Летов: угроза?
+[Tue Mar 24 20:41:26 2026] <STEAM_0:1:411221606> Летов: не в вашей компетенции
+[Tue Mar 24 20:41:59 2026] <STEAM_0:1:411221606> Летов: а еще что?
+[Tue Mar 24 20:42:58 2026] Летов has killed Discar.
+[Tue Mar 24 20:43:15 2026] <STEAM_0:0:650470378> Discar: /ooc Если бы не кость
+[Tue Mar 24 20:43:21 2026] Летов has killed 𝗺𝟏𝗿𝗮𝗰𝗹𝗲.
+[Tue Mar 24 20:43:46 2026] Летов has killed 𝗺𝟏𝗿𝗮𝗰𝗹𝗲.
+[Tue Mar 24 20:44:22 2026] <STEAM_0:1:411221606> Летов: // 2 в 1 слить какой позор НО сивареву простительно!
+[Tue Mar 24 20:44:41 2026] <STEAM_0:1:411221606> Летов: // он мне друн
+[Tue Mar 24 20:44:45 2026] <STEAM_0:0:650470378> Discar: /ooc Я с тайзером был
+[Tue Mar 24 20:45:00 2026] <STEAM_0:1:411221606> Летов: // твоя проблема
+[Tue Mar 24 20:45:11 2026] <STEAM_0:1:411221606> Летов: всм тоже?
+[Tue Mar 24 20:45:19 2026] <STEAM_0:1:411221606> Летов: нет
+[Tue Mar 24 20:45:23 2026] <STEAM_0:1:411221606> Летов: вы поставили
+[Tue Mar 24 20:45:31 2026] <STEAM_0:1:411221606> Летов: в множественное число
+[Tue Mar 24 20:45:36 2026] <STEAM_0:1:411221606> Летов: поставили
+[Tue Mar 24 20:45:43 2026] <STEAM_0:1:411221606> Летов: тоже
+[Tue Mar 24 20:46:02 2026] <STEAM_0:1:411221606> Летов: еще раз = арест
+[Tue Mar 24 20:46:35 2026] Player "gREG4IK" <STEAM_0:1:455594560> is attempting to connect.
+[Tue Mar 24 20:46:49 2026] <STEAM_0:1:411221606> Летов: че
+[Tue Mar 24 20:46:53 2026] <STEAM_0:1:411221606> Летов: это приколы
+[Tue Mar 24 20:47:17 2026] <STEAM_0:1:411221606> Летов: угроза?
+[Tue Mar 24 20:47:22 2026] <STEAM_0:1:411221606> Летов: угроза?
+[Tue Mar 24 20:47:24 2026] <STEAM_0:1:411221606> Летов: угроза?
+[Tue Mar 24 20:47:31 2026] <STEAM_0:1:411221606> Летов: нет
+[Tue Mar 24 20:47:32 2026] Player "gREG4IK" <STEAM_0:1:455594560> has spawned in the server
+[Tue Mar 24 20:47:36 2026] 𝗺𝟏𝗿𝗮𝗰𝗹𝗲 has killed Летов.
+[Tue Mar 24 20:47:40 2026] <STEAM_0:1:411221606> Летов: // рр
+[Tue Mar 24 20:47:44 2026] <STEAM_0:1:411221606> Летов: // пизда вам
+[Tue Mar 24 20:48:06 2026] <STEAM_0:1:411221606> Летов: сними я прыгну
+[Tue Mar 24 20:48:19 2026] <STEAM_0:1:411221606> Летов: сними я прыгну
+[Tue Mar 24 20:48:32 2026] <STEAM_0:1:411221606> Летов: // у вас рр
+[Tue Mar 24 20:48:36 2026] <STEAM_0:1:411221606> Летов: ytn
+[Tue Mar 24 20:49:10 2026] Discar has killed Летов.
+[Tue Mar 24 20:49:32 2026] <STEAM_0:1:411221606> Летов: [f[f[f
+[Tue Mar 24 20:50:46 2026] Discar has killed Летов.
+[Tue Mar 24 20:51:04 2026] <STEAM_0:0:650470378> Discar: /ooc Какого слежка не работает
+[Tue Mar 24 20:51:04 2026] <STEAM_0:1:411221606> Летов: // ХАХАХАХАХАХА
+[Tue Mar 24 20:51:13 2026] <STEAM_0:1:411221606> Летов: // ХАХАХАХАХАХА
+[Tue Mar 24 20:51:38 2026] Player "Мисье ля Француз" <STEAM_0:0:683014410> is attempting to connect.
+[Tue Mar 24 20:52:12 2026] <STEAM_0:1:411221606> Летов: он ебалом щелкает
+[Tue Mar 24 20:53:04 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [603][lvs_wheeldrive_rp_t90m]"
+[Tue Mar 24 20:53:44 2026] <STEAM_0:1:411221606> Летов: угроза?
+[Tue Mar 24 20:53:51 2026] <STEAM_0:1:411221606> Летов: нет
+[Tue Mar 24 20:54:11 2026] <STEAM_0:1:411221606> Летов: угроза?
+[Tue Mar 24 20:54:44 2026] <STEAM_0:1:411221606> Летов: выпусти или расстрел
+[Tue Mar 24 20:54:56 2026] <STEAM_0:1:411221606> Летов: нет
+[Tue Mar 24 20:54:58 2026] <STEAM_0:1:411221606> Летов: пред
+[Tue Mar 24 20:54:59 2026] <STEAM_0:1:411221606> Летов: пред
+[Tue Mar 24 20:55:03 2026] <STEAM_0:1:411221606> Летов: пред
+[Tue Mar 24 20:55:54 2026] Летов has killed 𝗺𝟏𝗿𝗮𝗰𝗹𝗲.
+[Tue Mar 24 20:56:09 2026] <STEAM_0:1:411221606> Летов: лох попущеный
+[Tue Mar 24 20:56:18 2026] <STEAM_0:1:411221606> Летов: даже в крысу не вывез
+[Tue Mar 24 20:56:34 2026] <STEAM_0:1:411221606> Летов: // у меня мнение о тебе поменялось
+[Tue Mar 24 20:56:50 2026] <STEAM_0:1:411221606> Летов: lfq dsqle
+[Tue Mar 24 20:57:17 2026] <STEAM_0:1:411221606> Летов: jhe;bt e cdjtuj ,jqwf
+[Tue Mar 24 20:57:24 2026] <STEAM_0:1:411221606> Летов: оружие у фсб
+[Tue Mar 24 20:57:35 2026] <STEAM_0:1:411221606> Летов: пусть на
+[Tue Mar 24 20:57:48 2026] <STEAM_0:1:411221606> Летов: куда?\nвц
+[Tue Mar 24 20:57:54 2026] <STEAM_0:1:411221606> Летов: нет
+[Tue Mar 24 20:58:17 2026] <STEAM_0:1:411221606> Летов: мнение поменялось о тебе
+[Tue Mar 24 20:58:23 2026] <STEAM_0:1:411221606> Летов: да
+[Tue Mar 24 20:58:32 2026] <STEAM_0:1:411221606> Летов: ну я тебя не трогал
+[Tue Mar 24 20:58:37 2026] <STEAM_0:1:411221606> Летов: а ты начал тулить по мне
+[Tue Mar 24 20:58:45 2026] <STEAM_0:1:411221606> Летов: мне обидно(
+[Tue Mar 24 20:58:58 2026] <STEAM_0:1:411221606> Летов: в ССО вступишь прощу
+[Tue Mar 24 20:59:13 2026] <STEAM_0:1:411221606> Летов: ты можешь просто перевод туда сюда написать
+[Tue Mar 24 20:59:31 2026] <STEAM_0:1:411221606> Летов: могу свинец в голову дать хочешь?
+[Tue Mar 24 21:00:56 2026] <STEAM_0:1:411221606> Летов: алоо
+[Tue Mar 24 21:01:05 2026] <STEAM_0:1:411221606> Летов: с оружием в руках
+[Tue Mar 24 21:01:08 2026] <STEAM_0:1:411221606> Летов: с оружием в руках
+[Tue Mar 24 21:01:09 2026] <STEAM_0:1:411221606> Летов: с оружием в руках
+[Tue Mar 24 21:01:09 2026] <STEAM_0:1:411221606> Летов: с оружием в руках
+[Tue Mar 24 21:01:10 2026] <STEAM_0:1:411221606> Летов: с оружием в руках
+[Tue Mar 24 21:01:12 2026] <STEAM_0:1:411221606> Летов: связал
+[Tue Mar 24 21:01:20 2026] <STEAM_0:1:411221606> Летов: с оружием в руках
+[Tue Mar 24 21:01:21 2026] <STEAM_0:1:411221606> Летов: связал
+[Tue Mar 24 21:01:22 2026] <STEAM_0:1:411221606> Летов: связал
+[Tue Mar 24 21:01:24 2026] <STEAM_0:1:411221606> Летов: с оружием в руках
+[Tue Mar 24 21:01:25 2026] <STEAM_0:1:411221606> Летов: связал
+[Tue Mar 24 21:01:31 2026] <STEAM_0:1:411221606> Летов: ты нарушаешь
+[Tue Mar 24 21:01:45 2026] <STEAM_0:1:411221606> Летов: // грэг забань дискарова
+[Tue Mar 24 21:02:52 2026] Летов has killed Discar.
+[Tue Mar 24 21:03:11 2026] <STEAM_0:1:411221606> Летов: привышение полномочий= расстрел
+[Tue Mar 24 21:04:19 2026] <STEAM_0:1:411221606> Летов: давай
+[Tue Mar 24 21:04:23 2026] <STEAM_0:0:650470378> Discar: /ooc  Тут уже ТК анзурик)
+[Tue Mar 24 21:04:40 2026] <STEAM_0:1:411221606> Летов: обиды забудем и друг друга убивать не будем ток дискарова
+[Tue Mar 24 21:04:58 2026] <STEAM_0:1:411221606> Летов: по сути ла
+[Tue Mar 24 21:05:51 2026] <STEAM_0:0:650470378> Discar: /ooc  Тут уже ТК
+[Tue Mar 24 21:06:01 2026] <STEAM_0:1:411221606> Летов: // нрп тайм
+[Tue Mar 24 21:06:17 2026] <STEAM_0:1:411221606> Летов: // темболее у тебя более много нарушений
+[Tue Mar 24 21:06:39 2026] <STEAM_0:1:411221606> Летов: // RR FREE HENCAFS
+[Tue Mar 24 21:07:00 2026] <STEAM_0:0:650470378> Discar: /ooc ого ого ну поплачь
+[Tue Mar 24 21:07:10 2026] <STEAM_0:0:650470378> Discar: /ooc я все видел)
+[Tue Mar 24 21:07:16 2026] Player "Lexa_playsek" <STEAM_0:1:849865672> is attempting to connect.
+[Tue Mar 24 21:07:22 2026] <STEAM_0:1:411221606> Летов: // что?э
+[Tue Mar 24 21:07:44 2026] <STEAM_0:1:411221606> Летов: // какмы 1 правило нарушили?
+[Tue Mar 24 21:07:52 2026] <STEAM_0:1:411221606> Летов: // а ты 3 или более?
+[Tue Mar 24 21:08:03 2026] <STEAM_0:1:411221606> Летов: стрельни по нему
+[Tue Mar 24 21:08:07 2026] <STEAM_0:0:650470378> Discar: /ooc Я как сотрудник ФСБ имею полномочия задержать за оружие вне предохранителе после предупреждения
+[Tue Mar 24 21:08:14 2026] <STEAM_0:1:411221606> Летов: // ты не вп
+[Tue Mar 24 21:08:26 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: // Я тоже сотрудник ФСБ
+[Tue Mar 24 21:08:29 2026] <STEAM_0:1:411221606> Летов: // тем более я не в твоей юрездикции
+[Tue Mar 24 21:08:34 2026] <STEAM_0:0:650470378> Discar: /ooc Я выше вп гений
+[Tue Mar 24 21:08:42 2026] <STEAM_0:1:411221606> Летов: // нет
+[Tue Mar 24 21:08:48 2026] <STEAM_0:1:411221606> Летов: // я выше всех вас
+[Tue Mar 24 21:08:55 2026] <STEAM_0:1:411221606> Летов: я тоже
+[Tue Mar 24 21:09:07 2026] Player "Lexa_playsek" <STEAM_0:1:849865672> has spawned in the server
+[Tue Mar 24 21:09:12 2026] <STEAM_0:0:650470378> Discar: /ooc Анзуров, если ты тупо тычешь во всех подрядж, ответсвенности не освобождает
+[Tue Mar 24 21:09:34 2026] <STEAM_0:0:650470378> Discar: /ooc Анзуров вообщто я выше, ФСБ подчиняется напрямую прези денту
+[Tue Mar 24 21:09:34 2026] <STEAM_0:1:411221606> Летов: // я знаю
+[Tue Mar 24 21:09:47 2026] <STEAM_0:1:411221606> Летов: // ссо тоже и дальше что?
+[Tue Mar 24 21:09:54 2026] <STEAM_0:0:650470378> Discar: /ooc ССО подчиняется только части
+[Tue Mar 24 21:10:03 2026] <STEAM_0:1:411221606> Летов: // нет почитай о ССО
+[Tue Mar 24 21:10:03 2026] <STEAM_0:0:650470378> Discar: /ooc Генералу и т.д
+[Tue Mar 24 21:10:41 2026] Player "stalker_20130" <STEAM_0:1:890482601> has left the server
+[Tue Mar 24 21:10:45 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: // может хватит спорить?
+[Tue Mar 24 21:11:24 2026] <STEAM_0:1:411221606> Летов: // ты где?
+[Tue Mar 24 21:11:46 2026] <STEAM_0:1:411221606> Летов: /rf ты где?
+[Tue Mar 24 21:11:59 2026] <STEAM_0:1:411221606> Летов: // я не так написал
+[Tue Mar 24 21:12:05 2026] Player "Lexa_playsek" <STEAM_0:1:849865672> has left the server
+[Tue Mar 24 21:12:17 2026] Player "Lexa_playsek" <STEAM_0:1:849865672> is attempting to connect.
+[Tue Mar 24 21:12:18 2026] <STEAM_0:1:411221606> Летов: // я хотел в чат рф а не в ooc
+[Tue Mar 24 21:12:41 2026] <STEAM_0:1:411221606> Летов: смотри
+[Tue Mar 24 21:13:27 2026] Player "Lexa_playsek" <STEAM_0:1:849865672> has spawned in the server
+[Tue Mar 24 21:13:29 2026] <STEAM_0:0:650470378> Discar: /ooc Если что безобид жалоба тестная
+[Tue Mar 24 21:14:06 2026] Player "Lexa_playsek" <STEAM_0:1:849865672> has left the server
+[Tue Mar 24 21:14:08 2026] Player "stalker_20130" <STEAM_0:1:890482601> is attempting to connect.
+[Tue Mar 24 21:14:12 2026] Player "Lexa_playsek" <STEAM_0:1:849865672> is attempting to connect.
+[Tue Mar 24 21:14:39 2026] <STEAM_0:1:411221606> Летов: палк плак фсб-ик
+[Tue Mar 24 21:14:48 2026] Player "Lexa_playsek" <STEAM_0:1:849865672> has spawned in the server
+[Tue Mar 24 21:14:59 2026] <STEAM_0:1:411221606> Летов: фениксу
+[Tue Mar 24 21:15:13 2026] <STEAM_0:1:411221606> Летов: вот знай
+[Tue Mar 24 21:15:23 2026] <STEAM_0:1:411221606> Летов: ии
+[Tue Mar 24 21:15:31 2026] <STEAM_0:1:411221606> Летов: я же в ответ
+[Tue Mar 24 21:15:49 2026] <STEAM_0:1:411221606> Летов: а ты пребери на ВЧ
+[Tue Mar 24 21:16:08 2026] <STEAM_0:1:411221606> Летов: Документ покажешь?
+[Tue Mar 24 21:16:10 2026] <STEAM_0:1:411221606> Летов: Документ покажешь?
+[Tue Mar 24 21:16:11 2026] Player "stalker_20130" <STEAM_0:1:890482601> has spawned in the server
+[Tue Mar 24 21:16:22 2026] <STEAM_0:1:411221606> Летов: что ты президенту служешь?
+[Tue Mar 24 21:16:32 2026] <STEAM_0:1:411221606> Летов: доки покажу не верю
+[Tue Mar 24 21:16:35 2026] <STEAM_0:1:411221606> Летов: нет
+[Tue Mar 24 21:16:40 2026] <STEAM_0:1:411221606> Летов: некаждый фсб
+[Tue Mar 24 21:16:43 2026] <STEAM_0:1:411221606> Летов: служит
+[Tue Mar 24 21:17:00 2026] <STEAM_0:1:411221606> Летов: вот ты теперь почитай конституцию
+[Tue Mar 24 21:17:09 2026] <STEAM_0:1:411221606> Летов: про фсб
+[Tue Mar 24 21:17:18 2026] <STEAM_0:1:411221606> Летов: ЕБАТЬ У ТЕБЯ ПРИЦЕЛ
+[Tue Mar 24 21:17:38 2026] <STEAM_0:1:411221606> Летов: БОЛЬШЕ ЧЕМ ТВОЯ ГОЛОВА
+[Tue Mar 24 21:17:40 2026] <STEAM_0:1:411221606> Летов: АХАХАХАХАХ
+[Tue Mar 24 21:18:02 2026] <STEAM_0:1:411221606> Летов: МЫ ЛОШКИ С ТОБОЙ
+[Tue Mar 24 21:18:21 2026] <STEAM_0:1:411221606> Летов: ГОУ БАТЛ
+[Tue Mar 24 21:18:25 2026] <STEAM_0:1:411221606> Летов: ГОУ БАТЛ
+[Tue Mar 24 21:18:25 2026] <STEAM_0:1:411221606> Летов: ГОУ БАТЛ
+[Tue Mar 24 21:18:42 2026] <STEAM_0:1:411221606> Летов: ты даун?
+[Tue Mar 24 21:18:49 2026] <STEAM_0:1:411221606> Летов: я сказал про служивых
+[Tue Mar 24 21:18:58 2026] <STEAM_0:1:411221606> Летов: а не фсб
+[Tue Mar 24 21:19:15 2026] <STEAM_0:1:411221606> Летов: он сидит ноет
+[Tue Mar 24 21:19:19 2026] <STEAM_0:1:411221606> Летов: что фсб лутше
+[Tue Mar 24 21:19:40 2026] <STEAM_0:1:411221606> Летов: нет
+[Tue Mar 24 21:20:14 2026] <STEAM_0:1:411221606> Летов: хули тыкаешь
+[Tue Mar 24 21:20:23 2026] <STEAM_0:1:411221606> Летов: я не ему
+[Tue Mar 24 21:20:27 2026] <STEAM_0:1:411221606> Летов: а тебе
+[Tue Mar 24 21:20:36 2026] <STEAM_0:1:411221606> Летов: вот это что
+[Tue Mar 24 21:20:45 2026] <STEAM_0:1:411221606> Летов: мне не приятно
+[Tue Mar 24 21:20:53 2026] <STEAM_0:1:411221606> Летов: бегаешь на меня
+[Tue Mar 24 21:21:03 2026] <STEAM_0:1:411221606> Летов: че это?
+[Tue Mar 24 21:21:09 2026] <STEAM_0:1:411221606> Летов: ты же типо ВП
+[Tue Mar 24 21:21:21 2026] <STEAM_0:1:411221606> Летов: ну вот
+[Tue Mar 24 21:21:23 2026] <STEAM_0:1:411221606> Летов: и все
+[Tue Mar 24 21:21:27 2026] <STEAM_0:1:890482601> stalker_20130: // грэг а чо с табом
+[Tue Mar 24 21:21:27 2026] <STEAM_0:1:411221606> Летов: иди значит
+[Tue Mar 24 21:21:39 2026] <STEAM_0:1:890482601> stalker_20130: // или у меня одного он деволтный
+[Tue Mar 24 21:22:00 2026] Player "david280911" <STEAM_0:1:839860057> is attempting to connect.
+[Tue Mar 24 21:22:05 2026] <STEAM_0:1:411221606> Летов: не заслужены
+[Tue Mar 24 21:22:18 2026] <STEAM_0:1:411221606> Летов: не заслужены
+[Tue Mar 24 21:22:21 2026] Player "stalker_20130" <STEAM_0:1:890482601> has left the server
+[Tue Mar 24 21:22:24 2026] Player "stalker_20130" <STEAM_0:1:890482601> is attempting to connect.
+[Tue Mar 24 21:22:26 2026] <STEAM_0:1:411221606> Летов: и мы
+[Tue Mar 24 21:22:33 2026] <STEAM_0:1:411221606> Летов: у нас лидеров еще нет(
+[Tue Mar 24 21:22:42 2026] <STEAM_0:1:411221606> Летов: я больше вас работаю
+[Tue Mar 24 21:22:52 2026] Player "david280911" <STEAM_0:1:839860057> has spawned in the server
+[Tue Mar 24 21:22:55 2026] <STEAM_0:1:411221606> Летов: вы сегодня сколько натовцев положили?
+[Tue Mar 24 21:22:59 2026] Player "stalker_20130" <STEAM_0:1:890482601> has spawned in the server
+[Tue Mar 24 21:22:59 2026] <STEAM_0:1:411221606> Летов: вы сегодня сколько натовцев положили?
+[Tue Mar 24 21:23:10 2026] <STEAM_0:1:411221606> Летов: хаахах
+[Tue Mar 24 21:23:14 2026] <STEAM_0:1:411221606> Летов: за день??
+[Tue Mar 24 21:23:19 2026] <STEAM_0:1:411221606> Летов: за день??
+[Tue Mar 24 21:23:23 2026] <STEAM_0:1:411221606> Летов: 1200
+[Tue Mar 24 21:23:28 2026] <STEAM_0:1:411221606> Летов: убиваешь?
+[Tue Mar 24 21:23:31 2026] <STEAM_0:1:411221606> Летов: за день??
+[Tue Mar 24 21:23:37 2026] <STEAM_0:1:411221606> Летов: твои слова?
+[Tue Mar 24 21:23:47 2026] <STEAM_0:1:411221606> Летов: а чьи
+[Tue Mar 24 21:23:50 2026] <STEAM_0:1:890482601> stalker_20130: // у всех таб без текстур?
+[Tue Mar 24 21:24:05 2026] <STEAM_0:1:411221606> Летов: лично ты за день скок убиваешь?
+[Tue Mar 24 21:24:11 2026] <STEAM_0:1:411221606> Летов: виноградов
+[Tue Mar 24 21:24:18 2026] <STEAM_0:1:411221606> Летов: иди за оружием
+[Tue Mar 24 21:24:29 2026] <STEAM_0:1:411221606> Летов: лично ты за день скок убиваешь?
+[Tue Mar 24 21:24:35 2026] Player "OZOR" <STEAM_0:0:85754053> has spawned in the server
+[Tue Mar 24 21:24:45 2026] <STEAM_0:1:411221606> Летов: а я 13 натовцев
+[Tue Mar 24 21:24:49 2026] <STEAM_0:1:411221606> Летов: за день
+[Tue Mar 24 21:25:05 2026] <STEAM_0:1:411221606> Летов: и ты еще хочешь сказать что вы больше убиваете?
+[Tue Mar 24 21:25:13 2026] <STEAM_0:1:411221606> Летов: так вы же сазали 1200
+[Tue Mar 24 21:25:15 2026] <STEAM_0:1:411221606> Летов: убили
+[Tue Mar 24 21:25:21 2026] <STEAM_0:1:411221606> Летов: амереканцевав
+[Tue Mar 24 21:25:37 2026] <STEAM_0:1:411221606> Летов: что от вопроса ускальзаете
+[Tue Mar 24 21:25:41 2026] <STEAM_0:1:411221606> Летов: что от вопроса ускальзаете
+[Tue Mar 24 21:25:42 2026] <STEAM_0:1:411221606> Летов: что от вопроса ускальзаете
+[Tue Mar 24 21:25:59 2026] <STEAM_0:1:411221606> Летов: он от вопроса ускальзает
+[Tue Mar 24 21:26:10 2026] <STEAM_0:1:411221606> Летов: где служили?
+[Tue Mar 24 21:26:16 2026] Player "stalker_20130" <STEAM_0:1:890482601> has left the server
+[Tue Mar 24 21:26:20 2026] <STEAM_0:1:411221606> Летов: не
+[Tue Mar 24 21:26:23 2026] <STEAM_0:1:411221606> Летов: аа
+[Tue Mar 24 21:26:32 2026] <STEAM_0:1:411221606> Летов: скок духов положил?
+[Tue Mar 24 21:26:40 2026] <STEAM_0:1:411221606> Летов: сколько
+[Tue Mar 24 21:26:48 2026] <STEAM_0:1:839860057> david280911: я там десантником служил
+[Tue Mar 24 21:26:58 2026] <STEAM_0:1:411221606> Летов: чего?
+[Tue Mar 24 21:27:06 2026] Player "stalker_20130" <STEAM_0:1:890482601> is attempting to connect.
+[Tue Mar 24 21:27:28 2026] <STEAM_0:1:411221606> Летов: нет
+[Tue Mar 24 21:27:35 2026] <STEAM_0:1:411221606> Летов: нет
+[Tue Mar 24 21:27:39 2026] <STEAM_0:1:411221606> Летов: танкист
+[Tue Mar 24 21:27:57 2026] <STEAM_0:1:411221606> Летов: а откуда ты вобше взял что я ВДВ
+[Tue Mar 24 21:28:01 2026] Player "stalker_20130" <STEAM_0:1:890482601> has spawned in the server
+[Tue Mar 24 21:28:04 2026] <STEAM_0:1:411221606> Летов: ДИСКАРОВ
+[Tue Mar 24 21:28:07 2026] <STEAM_0:1:839860057> david280911: я служил
+[Tue Mar 24 21:28:09 2026] <STEAM_0:1:411221606> Летов: нет
+[Tue Mar 24 21:28:11 2026] <STEAM_0:1:839860057> david280911: в вдв
+[Tue Mar 24 21:28:20 2026] <STEAM_0:1:839860057> david280911: в чечне
+[Tue Mar 24 21:28:20 2026] <STEAM_0:1:411221606> Летов: ПШЕЛ НАХУЙ
+[Tue Mar 24 21:28:38 2026] <STEAM_0:1:411221606> Летов: лезет в разговор
+[Tue Mar 24 21:28:51 2026] <STEAM_0:1:411221606> Летов: виноградов
+[Tue Mar 24 21:28:52 2026] <STEAM_0:1:839860057> david280911: анзуров я выше тебя по званию
+[Tue Mar 24 21:28:58 2026] <STEAM_0:1:839860057> david280911: посмотри в дс
+[Tue Mar 24 21:29:02 2026] <STEAM_0:1:411221606> Летов: нет
+[Tue Mar 24 21:29:02 2026] <STEAM_0:0:85754053> OZOR ran command "goto Грэг"
+[Tue Mar 24 21:29:06 2026] <STEAM_0:1:411221606> Летов: рядик
+[Tue Mar 24 21:29:06 2026] <STEAM_0:1:839860057> david280911: в рапортах о повышении
+[Tue Mar 24 21:29:09 2026] <STEAM_0:1:411221606> Летов: рядик
+[Tue Mar 24 21:29:18 2026] <STEAM_0:1:411221606> Летов: погоны рядового
+[Tue Mar 24 21:29:25 2026] <STEAM_0:1:411221606> Летов: тем более
+[Tue Mar 24 21:29:29 2026] <STEAM_0:1:839860057> david280911: мне еще роль не выдали
+[Tue Mar 24 21:29:31 2026] <STEAM_0:1:411221606> Летов: ты мото стрелок
+[Tue Mar 24 21:29:47 2026] <STEAM_0:1:849865672> Lexa_playsek: /occ 1
+[Tue Mar 24 21:29:50 2026] <STEAM_0:1:411221606> Летов: специальности не вижу
+[Tue Mar 24 21:30:03 2026] <STEAM_0:1:411221606> Летов: ну
+[Tue Mar 24 21:30:05 2026] <STEAM_0:1:839860057> david280911: посмотри профиль
+[Tue Mar 24 21:30:09 2026] <STEAM_0:1:411221606> Летов: так что
+[Tue Mar 24 21:30:09 2026] Player "Lexa_playsek" <STEAM_0:1:849865672> has left the server
+[Tue Mar 24 21:30:14 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: // Кузнецов надо не /occ писать а //
+[Tue Mar 24 21:30:19 2026] <STEAM_0:1:839860057> david280911: я не ссошник конечно
+[Tue Mar 24 21:30:23 2026] Player "gREG4IK" <STEAM_0:1:455594560> has left the server
+[Tue Mar 24 21:30:23 2026] <STEAM_0:1:411221606> Летов: специальности не вижу
+[Tue Mar 24 21:30:28 2026] <STEAM_0:1:839860057> david280911: но десантник
+[Tue Mar 24 21:30:39 2026] <STEAM_0:1:411221606> Летов: ахаха
+[Tue Mar 24 21:30:52 2026] <STEAM_0:1:411221606> Летов: он
+[Tue Mar 24 21:30:57 2026] <STEAM_0:1:411221606> Летов: кэпа выдал?
+[Tue Mar 24 21:31:00 2026] <STEAM_0:1:411221606> Летов: себе
+[Tue Mar 24 21:31:08 2026] <STEAM_0:1:411221606> Летов: понял
+[Tue Mar 24 21:31:26 2026] <STEAM_0:1:411221606> Летов: сиварев гоу?
+[Tue Mar 24 21:31:36 2026] <STEAM_0:1:411221606> Летов: мы с сиваревым
+[Tue Mar 24 21:31:50 2026] <STEAM_0:1:411221606> Летов: мы с сиваревым
+[Tue Mar 24 21:31:54 2026] Player "Lexa_playsek" <STEAM_0:1:849865672> is attempting to connect.
+[Tue Mar 24 21:32:21 2026] <STEAM_0:1:411221606> Летов: /rf мы за топляком
+[Tue Mar 24 21:32:33 2026] <STEAM_0:1:411221606> Летов: не пупс
+[Tue Mar 24 21:32:34 2026] <STEAM_0:1:890482601> stalker_20130: /rf мы тоже поищем че нибудь
+[Tue Mar 24 21:32:56 2026] <STEAM_0:1:411221606> Летов: ВО
+[Tue Mar 24 21:33:09 2026] <STEAM_0:1:411221606> Летов: на АЗС
+[Tue Mar 24 21:34:32 2026] Player "Lexa_playsek" <STEAM_0:1:849865672> has spawned in the server
+[Tue Mar 24 21:35:12 2026] Player "OZOR" <STEAM_0:0:85754053> has left the server
+[Tue Mar 24 21:35:22 2026] <STEAM_0:1:411221606> Летов: бля
+[Tue Mar 24 21:35:34 2026] Player "Мисье ля Француз" <STEAM_0:0:683014410> is attempting to connect.
+[Tue Mar 24 21:35:36 2026] <STEAM_0:1:411221606> Летов: тебя
+[Tue Mar 24 21:35:42 2026] <STEAM_0:1:411221606> Летов: дискаров заебал?
+[Tue Mar 24 21:35:55 2026] <STEAM_0:1:411221606> Летов: бесит тебя
+[Tue Mar 24 21:35:57 2026] <STEAM_0:1:411221606> Летов: ?
+[Tue Mar 24 21:36:03 2026] <STEAM_0:1:411221606> Летов: нет
+[Tue Mar 24 21:36:12 2026] <STEAM_0:1:411221606> Летов: мне так
+[Tue Mar 24 21:36:20 2026] <STEAM_0:1:411221606> Летов: подбеш=ивает
+[Tue Mar 24 21:36:21 2026] <STEAM_0:1:890482601> stalker_20130: /rf виноградов к машине
+[Tue Mar 24 21:36:26 2026] <STEAM_0:1:411221606> Летов: а так норм парень
+[Tue Mar 24 21:36:31 2026] <STEAM_0:1:411221606> Летов: так
+[Tue Mar 24 21:36:36 2026] <STEAM_0:1:411221606> Летов: ты иди бочки
+[Tue Mar 24 21:36:41 2026] <STEAM_0:1:411221606> Летов: посмотри
+[Tue Mar 24 21:36:57 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: /me взял бочку
+[Tue Mar 24 21:37:04 2026] <STEAM_0:1:411221606> Летов: /me просмотрел на надичее бензина
+[Tue Mar 24 21:37:14 2026] <STEAM_0:1:411221606> Летов: /try есть ли бензин?
+[Tue Mar 24 21:37:19 2026] <STEAM_0:1:411221606> Летов: /me просмотрел на надичее бензина
+[Tue Mar 24 21:37:21 2026] <STEAM_0:1:411221606> Летов: /try есть ли бензин?
+[Tue Mar 24 21:37:24 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: /me прикрепил бочку
+[Tue Mar 24 21:37:32 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: /me взял бочку
+[Tue Mar 24 21:37:35 2026] <STEAM_0:1:411221606> Летов: там пустоы
+[Tue Mar 24 21:37:43 2026] <STEAM_0:1:890482601> stalker_20130: /me взял ящик с запчастями
+[Tue Mar 24 21:37:45 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: /me прикрепил бочку
+[Tue Mar 24 21:37:53 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: /me взял бочку
+[Tue Mar 24 21:37:54 2026] <STEAM_0:1:411221606> Летов: /me просмотрел на наличее бензина
+[Tue Mar 24 21:37:57 2026] <STEAM_0:1:411221606> Летов: /try есть ли бензин?
+[Tue Mar 24 21:38:00 2026] <STEAM_0:1:890482601> stalker_20130: ./me
+[Tue Mar 24 21:38:08 2026] <STEAM_0:1:411221606> Летов: /me взял 2 бочки
+[Tue Mar 24 21:38:08 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: /me поставил бочку в салон
+[Tue Mar 24 21:38:29 2026] <STEAM_0:1:890482601> stalker_20130: /me поставил ящик в багажник
+[Tue Mar 24 21:38:29 2026] <STEAM_0:1:411221606> Летов: /me начал заливать бензин в нутрь
+[Tue Mar 24 21:38:34 2026] <STEAM_0:1:839860057> david280911: /me взял ящик запчастей
+[Tue Mar 24 21:38:38 2026] <STEAM_0:1:411221606> Летов: /try залил?
+[Tue Mar 24 21:38:41 2026] <STEAM_0:1:890482601> stalker_20130: /me взял ящик с запчастями
+[Tue Mar 24 21:38:44 2026] <STEAM_0:1:890482601> stalker_20130: /me поставил ящик в багажник
+[Tue Mar 24 21:38:48 2026] <STEAM_0:1:411221606> Летов: /me взял 2 бочки
+[Tue Mar 24 21:38:50 2026] <STEAM_0:1:839860057> david280911: /me положил в багажник
+[Tue Mar 24 21:39:05 2026] <STEAM_0:1:411221606> Летов: /me начал заливать бензин в нутрь
+[Tue Mar 24 21:39:07 2026] <STEAM_0:1:411221606> Летов: /try залил?
+[Tue Mar 24 21:39:10 2026] <STEAM_0:1:411221606> Летов: /try залил?
+[Tue Mar 24 21:39:46 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: /me взял спрятанный ящик с патронами
+[Tue Mar 24 21:39:51 2026] <STEAM_0:1:411221606> Летов: /rf ну я поехал а ты давай
+[Tue Mar 24 21:40:11 2026] <STEAM_0:1:411221606> Летов: задись жопан
+[Tue Mar 24 21:40:16 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: /me поставил патроны на пассажирское кресло затем сел на них
+[Tue Mar 24 21:40:16 2026] <STEAM_0:1:890482601> stalker_20130: /rf ребята не забываем писать отчеты в спец связи
+[Tue Mar 24 21:40:16 2026] Player "Rip_Diamond" <STEAM_0:1:392325835> is attempting to connect.
+[Tue Mar 24 21:40:36 2026] <STEAM_0:1:890482601> stalker_20130: /rf жду от всех отчеты
+[Tue Mar 24 21:40:51 2026] <STEAM_0:1:411221606> Летов: /rf а сам пишешь?
+[Tue Mar 24 21:40:52 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: /rf Нашли ящик с патронами три бочки с нефтью и целая бочка топлива
+[Tue Mar 24 21:41:10 2026] <STEAM_0:1:890482601> stalker_20130: /rf нет, сегодня начну писать и вам гвоорю чтобы было
+[Tue Mar 24 21:41:16 2026] <STEAM_0:1:411221606> Летов: /rf и еще 4 бочки бензина
+[Tue Mar 24 21:41:26 2026] Player "シ§rSabziro§シ" <STEAM_0:1:582555222> is attempting to connect.
+[Tue Mar 24 21:41:57 2026] <STEAM_0:1:411221606> Летов: глохнет
+[Tue Mar 24 21:42:12 2026] <STEAM_0:1:411221606> Летов: r
+[Tue Mar 24 21:42:15 2026] <STEAM_0:1:411221606> Летов: R
+[Tue Mar 24 21:42:16 2026] <STEAM_0:1:890482601> stalker_20130: /me взял бронежелеты
+[Tue Mar 24 21:42:30 2026] <STEAM_0:1:411221606> Летов: iban ecrfhtybt
+[Tue Mar 24 21:42:36 2026] <STEAM_0:1:411221606> Летов: шифт ускарение
+[Tue Mar 24 21:42:39 2026] <STEAM_0:1:890482601> stalker_20130: /me положил броники в багажник
+[Tue Mar 24 21:42:44 2026] <STEAM_0:1:839860057> david280911: /me взял ящик с броней
+[Tue Mar 24 21:42:46 2026] <STEAM_0:1:890482601> stalker_20130: /me взял бронежелеты
+[Tue Mar 24 21:42:51 2026] <STEAM_0:1:890482601> stalker_20130: /me положил броники в багажник
+[Tue Mar 24 21:43:00 2026] <STEAM_0:1:839860057> david280911: /me положил в багажник
+[Tue Mar 24 21:43:03 2026] Discar has killed Lexa_playsek.
+[Tue Mar 24 21:43:05 2026] <STEAM_0:1:890482601> stalker_20130: /me взял бронежелеты
+[Tue Mar 24 21:43:08 2026] <STEAM_0:1:890482601> stalker_20130: /me положил броники в багажник
+[Tue Mar 24 21:43:09 2026] <STEAM_0:1:411221606> Летов: это тир
+[Tue Mar 24 21:43:19 2026] <STEAM_0:1:411221606> Летов: едь к складу
+[Tue Mar 24 21:43:36 2026] <STEAM_0:1:411221606> Летов: дай руль
+[Tue Mar 24 21:43:42 2026] <STEAM_0:1:411221606> Летов: дай руль
+[Tue Mar 24 21:43:45 2026] <STEAM_0:1:411221606> Летов: дай руль
+[Tue Mar 24 21:43:52 2026] <STEAM_0:1:411221606> Летов: нет
+[Tue Mar 24 21:43:59 2026] <STEAM_0:1:411221606> Летов: дай руль
+[Tue Mar 24 21:44:04 2026] <STEAM_0:1:890482601> stalker_20130: /rf *РАЦИЯ* Говорит Капитан Самсонов, загрузили 4 ящика броников и 3 ящика бронежелетов, выдвигаемся на базу. конец связи
+[Tue Mar 24 21:44:07 2026] <STEAM_0:1:411221606> Летов: не так
+[Tue Mar 24 21:44:41 2026] <STEAM_0:1:411221606> Летов: /rf А ВЫГРУЖАТЬ КТО БУДЕТ??
+[Tue Mar 24 21:44:55 2026] <STEAM_0:1:411221606> Летов: А ВЫГРУЖАТЬ КТО БУДЕТ??
+[Tue Mar 24 21:45:11 2026] <STEAM_0:1:411221606> Летов: смотри
+[Tue Mar 24 21:45:15 2026] <STEAM_0:1:411221606> Летов: бочки берем
+[Tue Mar 24 21:45:20 2026] <STEAM_0:1:411221606> Летов: и сливаем
+[Tue Mar 24 21:45:29 2026] <STEAM_0:1:411221606> Летов: да
+[Tue Mar 24 21:45:35 2026] <STEAM_0:1:411221606> Летов: бочки берем
+[Tue Mar 24 21:45:37 2026] <STEAM_0:1:411221606> Летов: и сливаем
+[Tue Mar 24 21:45:44 2026] <STEAM_0:1:411221606> Летов: бочки берем
+[Tue Mar 24 21:45:45 2026] <STEAM_0:1:411221606> Летов: и сливаем
+[Tue Mar 24 21:45:49 2026] <STEAM_0:1:411221606> Летов: В БОЧКИ
+[Tue Mar 24 21:45:49 2026] <STEAM_0:0:650470378> Discar: /me взял  пустую бочку
+[Tue Mar 24 21:46:01 2026] <STEAM_0:1:411221606> Летов: /me взял бочку
+[Tue Mar 24 21:46:15 2026] <STEAM_0:1:411221606> Летов: /me достал шланг
+[Tue Mar 24 21:46:19 2026] <STEAM_0:0:650470378> Discar: /me подставил под слив
+[Tue Mar 24 21:46:24 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: /me снял прицепленную бочку
+[Tue Mar 24 21:46:29 2026] <STEAM_0:1:411221606> Летов: /me начал сливать
+[Tue Mar 24 21:46:39 2026] <STEAM_0:1:411221606> Летов: /me запустил  слив
+[Tue Mar 24 21:46:46 2026] <STEAM_0:1:411221606> Летов: СЛИВАЕТ ТАМ ИЛИ НЕТ?
+[Tue Mar 24 21:46:54 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: /me поставил заполненную бочку на склад
+[Tue Mar 24 21:47:02 2026] <STEAM_0:1:890482601> stalker_20130: /me Разгрузил багажник
+[Tue Mar 24 21:47:10 2026] <STEAM_0:1:411221606> Летов: ОЙ БЛЯ ПЕРЕЛИЛО
+[Tue Mar 24 21:47:18 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: /me снял прицепленную бочку
+[Tue Mar 24 21:47:18 2026] <STEAM_0:1:411221606> Летов: /me забрал бочку
+[Tue Mar 24 21:47:27 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: /me поставил заполненную бочку на склад
+[Tue Mar 24 21:47:29 2026] <STEAM_0:1:411221606> Летов: /me поставил бочку
+[Tue Mar 24 21:47:34 2026] <STEAM_0:0:650470378> Discar: /me закрыл крышкц бочки, затем взял, аккуратно тащя к стелажу
+[Tue Mar 24 21:47:43 2026] <STEAM_0:1:411221606> Летов: не
+[Tue Mar 24 21:47:50 2026] <STEAM_0:1:411221606> Летов: не к стелажу
+[Tue Mar 24 21:47:53 2026] <STEAM_0:1:411221606> Летов: а на пол
+[Tue Mar 24 21:47:55 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: /me достал с салона еще одну бочку
+[Tue Mar 24 21:48:04 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: /me поставил заполненную бочку на склад
+[Tue Mar 24 21:48:04 2026] <STEAM_0:1:411221606> Летов: дай
+[Tue Mar 24 21:48:07 2026] <STEAM_0:1:411221606> Летов: да
+[Tue Mar 24 21:48:10 2026] <STEAM_0:1:411221606> Летов: тут моя
+[Tue Mar 24 21:48:33 2026] <STEAM_0:0:650470378> Discar: /me подставил полную бочку с бензином к стене
+[Tue Mar 24 21:48:42 2026] <STEAM_0:1:411221606> Летов: да
+[Tue Mar 24 21:49:16 2026] <STEAM_0:1:411221606> Летов: я разворачивал
+[Tue Mar 24 21:49:21 2026] <STEAM_0:1:411221606> Летов: там каптерка
+[Tue Mar 24 21:50:01 2026] <STEAM_0:1:411221606> Летов: )
+[Tue Mar 24 21:50:14 2026] <STEAM_0:1:411221606> Летов: есть
+[Tue Mar 24 21:50:18 2026] <STEAM_0:1:411221606> Летов: АХВХАХАХАХА
+[Tue Mar 24 21:50:23 2026] <STEAM_0:1:839860057> david280911: рядовой
+[Tue Mar 24 21:50:32 2026] <STEAM_0:1:839860057> david280911: ты зачем меня задавил
+[Tue Mar 24 21:51:16 2026] <STEAM_0:1:411221606> Летов: АХВХАХАХАХА
+[Tue Mar 24 21:51:40 2026] <STEAM_0:1:411221606> Летов: АБАСАТОДОР ЧЕГО ЯИЧЕК ИЛИ ПЕЛЬМЕНЕЙ
+[Tue Mar 24 21:51:44 2026] Player "kulenenkov" <STEAM_0:1:676667723> is attempting to connect.
+[Tue Mar 24 21:51:59 2026] <STEAM_0:1:411221606> Летов: ООО УВАЖУХА
+[Tue Mar 24 21:52:08 2026] <STEAM_0:1:411221606> Летов: /me протянул руку
+[Tue Mar 24 21:52:15 2026] <STEAM_0:1:411221606> Летов: /me протянул руку\
+[Tue Mar 24 21:52:31 2026] <STEAM_0:1:411221606> Летов: да так точно
+[Tue Mar 24 21:52:34 2026] <STEAM_0:1:411221606> Летов: сиварев
+[Tue Mar 24 21:52:38 2026] <STEAM_0:1:411221606> Летов: и кузнецов
+[Tue Mar 24 21:52:40 2026] Player "Rip_Diamond" <STEAM_0:1:392325835> has spawned in the server
+[Tue Mar 24 21:52:44 2026] <STEAM_0:1:411221606> Летов: за мнолй
+[Tue Mar 24 21:53:00 2026] <STEAM_0:1:411221606> Летов: кузнецов  за мной
+[Tue Mar 24 21:53:18 2026] <STEAM_0:1:411221606> Летов: да зщнаем
+[Tue Mar 24 21:53:48 2026] <STEAM_0:1:411221606> Летов: анзур
+[Tue Mar 24 21:53:56 2026] <STEAM_0:1:411221606> Летов: чего?
+[Tue Mar 24 21:53:58 2026] <STEAM_0:1:411221606> Летов: окей
+[Tue Mar 24 21:54:50 2026] <STEAM_0:1:411221606> Летов: у нас патруль они зачищяют
+[Tue Mar 24 21:55:07 2026] <STEAM_0:1:411221606> Летов: сиварев
+[Tue Mar 24 21:55:56 2026] <STEAM_0:1:411221606> Летов: /rf с наружи все чисто выдвегаемся на базу
+[Tue Mar 24 21:56:32 2026] <STEAM_0:1:411221606> Летов: может с окрестность осмотрим?
+[Tue Mar 24 21:56:40 2026] <STEAM_0:1:411221606> Летов: чего?
+[Tue Mar 24 21:56:47 2026] <STEAM_0:1:411221606> Летов: окей
+[Tue Mar 24 21:57:11 2026] <STEAM_0:1:411221606> Летов: это я пукнул
+[Tue Mar 24 21:57:49 2026] <STEAM_0:1:411221606> Летов: нет
+[Tue Mar 24 21:58:08 2026] <STEAM_0:1:392325835> Rip_Diamond: всем здравствуйте
+[Tue Mar 24 21:58:58 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: // Почему в городе флагов нету чтобы точки захватить?
+[Tue Mar 24 21:58:59 2026] <STEAM_0:1:411221606> Летов: /rf ДВЕРИ НА БАЗУ ОТКРОЙТЕ
+[Tue Mar 24 21:59:08 2026] <STEAM_0:1:411221606> Летов: /rf ДВЕРИ НА БАЗУ ОТКРОЙТЕ
+[Tue Mar 24 22:02:24 2026] <STEAM_0:1:890482601> stalker_20130: тут в шкафу одеваешься
+[Tue Mar 24 22:02:28 2026] <STEAM_0:1:890482601> stalker_20130: броники там
+[Tue Mar 24 22:02:30 2026] <STEAM_0:1:890482601> stalker_20130: е
+[Tue Mar 24 22:02:45 2026] <STEAM_0:1:890482601> stalker_20130: е нажимаешь и там выбераешь форму любую
+[Tue Mar 24 22:02:48 2026] <STEAM_0:1:890482601> stalker_20130: вот да
+[Tue Mar 24 22:04:42 2026] Player "forever" <STEAM_0:0:382717812> is attempting to connect.
+[Tue Mar 24 22:04:54 2026] <STEAM_0:1:890482601> stalker_20130: молодец
+[Tue Mar 24 22:04:56 2026] <STEAM_0:1:890482601> stalker_20130: теперь оружие
+[Tue Mar 24 22:05:06 2026] <STEAM_0:1:890482601> stalker_20130: фронтовой
+[Tue Mar 24 22:05:09 2026] <STEAM_0:1:890482601> stalker_20130: бери оружие
+[Tue Mar 24 22:05:12 2026] <STEAM_0:1:890482601> stalker_20130: в шкафу
+[Tue Mar 24 22:05:12 2026] <STEAM_0:1:392325835> Rip_Diamond: ?
+[Tue Mar 24 22:05:18 2026] <STEAM_0:1:890482601> stalker_20130: слушая
+[Tue Mar 24 22:05:24 2026] <STEAM_0:1:890482601> stalker_20130: разрешю
+[Tue Mar 24 22:05:38 2026] <STEAM_0:1:890482601> stalker_20130: молодцы хвалю
+[Tue Mar 24 22:05:46 2026] <STEAM_0:1:890482601> stalker_20130: вольно
+[Tue Mar 24 22:05:49 2026] <STEAM_0:1:411221606> Летов: а мi
+[Tue Mar 24 22:06:05 2026] <STEAM_0:1:890482601> stalker_20130: так ну все к службе готов
+[Tue Mar 24 22:06:16 2026] <STEAM_0:1:890482601> stalker_20130: если задание будет какое нибудь то позову
+[Tue Mar 24 22:06:29 2026] <STEAM_0:1:890482601> stalker_20130: если что в чат россии писать /ка
+[Tue Mar 24 22:06:30 2026] <STEAM_0:1:392325835> Rip_Diamond: Так точно
+[Tue Mar 24 22:06:37 2026] <STEAM_0:1:392325835> Rip_Diamond: /ка тест
+[Tue Mar 24 22:06:38 2026] <STEAM_0:1:890482601> stalker_20130: ./rf
+[Tue Mar 24 22:06:40 2026] <STEAM_0:1:890482601> stalker_20130: ./rf
+[Tue Mar 24 22:06:44 2026] <STEAM_0:1:411221606> Летов: я тоже будi
+[Tue Mar 24 22:06:49 2026] Player "Lexa_playsek" <STEAM_0:1:849865672> has left the server
+[Tue Mar 24 22:06:50 2026] <STEAM_0:1:392325835> Rip_Diamond: ./rf тест
+[Tue Mar 24 22:06:52 2026] <STEAM_0:1:411221606> Летов: я тоже будi
+[Tue Mar 24 22:06:54 2026] <STEAM_0:1:890482601> stalker_20130: без точки
+[Tue Mar 24 22:07:01 2026] <STEAM_0:1:411221606> Летов: я тоже будi
+[Tue Mar 24 22:07:02 2026] <STEAM_0:1:392325835> Rip_Diamond: /rf тест
+[Tue Mar 24 22:07:05 2026] <STEAM_0:1:890482601> stalker_20130: вот
+[Tue Mar 24 22:07:07 2026] <STEAM_0:1:411221606> Летов: я тоже будi
+[Tue Mar 24 22:07:07 2026] <STEAM_0:1:890482601> stalker_20130: молодец
+[Tue Mar 24 22:07:11 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: // Фронтовой исправь микро у тебя шипение вместо всего
+[Tue Mar 24 22:07:12 2026] <STEAM_0:1:411221606> Летов: я тоже будi
+[Tue Mar 24 22:07:15 2026] <STEAM_0:1:890482601> stalker_20130: ну ты понял
+[Tue Mar 24 22:07:21 2026] <STEAM_0:1:411221606> Летов: я тоже будi
+[Tue Mar 24 22:07:29 2026] <STEAM_0:1:411221606> Летов: я тоже будi
+[Tue Mar 24 22:07:40 2026] <STEAM_0:1:411221606> Летов: дiло фсб
+[Tue Mar 24 22:07:48 2026] <STEAM_0:1:411221606> Летов: я тоже будi
+[Tue Mar 24 22:08:00 2026] <STEAM_0:1:411221606> Летов: просто
+[Tue Mar 24 22:08:08 2026] <STEAM_0:1:411221606> Летов: я тоже будi
+[Tue Mar 24 22:08:11 2026] <STEAM_0:1:411221606> Летов: я тоже будi
+[Tue Mar 24 22:08:20 2026] <STEAM_0:1:411221606> Летов: я тоже будi
+[Tue Mar 24 22:08:25 2026] <STEAM_0:1:411221606> Летов: я тоже будi
+[Tue Mar 24 22:08:35 2026] <STEAM_0:1:411221606> Летов: я тоже будi
+[Tue Mar 24 22:08:41 2026] <STEAM_0:1:392325835> Rip_Diamond: так
+[Tue Mar 24 22:08:52 2026] <STEAM_0:1:411221606> Летов: виноград
+[Tue Mar 24 22:08:54 2026] Player "Rip_Diamond" <STEAM_0:1:392325835> has left the server
+[Tue Mar 24 22:09:06 2026] <STEAM_0:1:411221606> Летов: что ты на меня в спец связи гониш?
+[Tue Mar 24 22:09:20 2026] <STEAM_0:1:411221606> Летов: зачем?
+[Tue Mar 24 22:09:22 2026] <STEAM_0:1:839860057> david280911: всм
+[Tue Mar 24 22:09:41 2026] <STEAM_0:1:839860057> david280911: я в дс ошибся просто
+[Tue Mar 24 22:09:45 2026] <STEAM_0:1:411221606> Летов: ну я же по факту посавил нет?
+[Tue Mar 24 22:10:03 2026] <STEAM_0:1:839860057> david280911: да
+[Tue Mar 24 22:10:07 2026] <STEAM_0:1:411221606> Летов: ну
+[Tue Mar 24 22:10:17 2026] <STEAM_0:1:411221606> Летов: кто?
+[Tue Mar 24 22:10:38 2026] <STEAM_0:1:411221606> Летов: пупсик мой
+[Tue Mar 24 22:10:58 2026] <STEAM_0:1:411221606> Летов: да
+[Tue Mar 24 22:11:04 2026] <STEAM_0:1:411221606> Летов: будi
+[Tue Mar 24 22:11:14 2026] Player "Discar" <STEAM_0:0:650470378> has left the server
+[Tue Mar 24 22:11:16 2026] <STEAM_0:1:411221606> Летов: я у=же
+[Tue Mar 24 22:11:18 2026] <STEAM_0:1:411221606> Летов: я у=же
+[Tue Mar 24 22:11:42 2026] <STEAM_0:1:411221606> Летов: я знаю
+[Tue Mar 24 22:13:36 2026] <STEAM_0:1:411221606> Летов: гоу
+[Tue Mar 24 22:13:39 2026] <STEAM_0:1:411221606> Летов: тулится
+[Tue Mar 24 22:13:40 2026] <STEAM_0:1:890482601> stalker_20130: куда
+[Tue Mar 24 22:13:43 2026] Player "david280911" <STEAM_0:1:839860057> has left the server
+[Tue Mar 24 22:13:44 2026] <STEAM_0:1:890482601> stalker_20130: с кем
+[Tue Mar 24 22:13:47 2026] <STEAM_0:1:411221606> Летов: со мной
+[Tue Mar 24 22:13:50 2026] <STEAM_0:1:411221606> Летов: скучно
+[Tue Mar 24 22:16:51 2026] Летов has killed stalker_20130.
+[Tue Mar 24 22:17:54 2026] worldspawn has killed stalker_20130.
+[Tue Mar 24 22:19:31 2026] <STEAM_0:1:411221606> Летов: прыгай
+[Tue Mar 24 22:19:39 2026] <STEAM_0:1:411221606> Летов: я словлю
+[Tue Mar 24 22:19:43 2026] worldspawn has killed stalker_20130.
+[Tue Mar 24 22:19:47 2026] <STEAM_0:1:411221606> Летов: наххахаха
+[Tue Mar 24 22:20:46 2026] <STEAM_0:1:890482601> stalker_20130 spawned npc "NPC [634][npc_monk]"
+[Tue Mar 24 22:21:06 2026] Летов has killed stalker_20130.
+[Tue Mar 24 22:22:55 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [619][item_healthkit]"
+[Tue Mar 24 22:22:55 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [629][item_healthkit]"
+[Tue Mar 24 22:22:55 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [642][item_healthkit]"
+[Tue Mar 24 22:22:55 2026] Player "forever" <STEAM_0:0:382717812> is attempting to connect.
+[Tue Mar 24 22:22:55 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [649][item_healthkit]"
+[Tue Mar 24 22:22:56 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [654][item_healthkit]"
+[Tue Mar 24 22:22:56 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [655][item_healthkit]"
+[Tue Mar 24 22:22:57 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [619][item_battery]"
+[Tue Mar 24 22:22:57 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [629][item_battery]"
+[Tue Mar 24 22:22:57 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [642][item_battery]"
+[Tue Mar 24 22:22:57 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [649][item_battery]"
+[Tue Mar 24 22:22:57 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [655][item_battery]"
+[Tue Mar 24 22:22:58 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [671][item_battery]"
+[Tue Mar 24 22:22:58 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [717][item_battery]"
+[Tue Mar 24 22:23:43 2026] Летов has killed stalker_20130.
+[Tue Mar 24 22:23:43 2026] stalker_20130 has killed stalker_20130.
+[Tue Mar 24 22:24:00 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [629][item_healthkit]"
+[Tue Mar 24 22:24:01 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [641][item_healthkit]"
+[Tue Mar 24 22:24:01 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [649][item_healthkit]"
+[Tue Mar 24 22:24:01 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [654][item_healthkit]"
+[Tue Mar 24 22:24:01 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [655][item_healthkit]"
+[Tue Mar 24 22:24:01 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [671][item_healthkit]"
+[Tue Mar 24 22:24:02 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [629][item_battery]"
+[Tue Mar 24 22:24:02 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [641][item_battery]"
+[Tue Mar 24 22:24:02 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [649][item_battery]"
+[Tue Mar 24 22:24:02 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [654][item_battery]"
+[Tue Mar 24 22:24:03 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [717][item_battery]"
+[Tue Mar 24 22:24:03 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [718][item_battery]"
+[Tue Mar 24 22:24:03 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [719][item_battery]"
+[Tue Mar 24 22:24:03 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [629][item_battery]"
+[Tue Mar 24 22:24:03 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [641][item_battery]"
+[Tue Mar 24 22:24:03 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [649][item_battery]"
+[Tue Mar 24 22:24:04 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [654][item_healthkit]"
+[Tue Mar 24 22:24:04 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [717][item_healthkit]"
+[Tue Mar 24 22:24:04 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [718][item_healthkit]"
+[Tue Mar 24 22:24:04 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [719][item_healthkit]"
+[Tue Mar 24 22:24:05 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [723][item_battery]"
+[Tue Mar 24 22:24:05 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [724][item_battery]"
+[Tue Mar 24 22:24:13 2026] Player "forever" <STEAM_0:0:382717812> has spawned in the server
+[Tue Mar 24 22:24:22 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [655][lvs_trailer_flak]"
+[Tue Mar 24 22:24:40 2026] <STEAM_0:1:411221606> Летов: ГОУ ТУЛИТСЯ
+[Tue Mar 24 22:24:41 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [655][lvs_missile]"
+[Tue Mar 24 22:24:47 2026] <STEAM_0:1:411221606> Летов: ГОУ ТУЛИТСЯ
+[Tue Mar 24 22:25:21 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [641][item_healthkit]"
+[Tue Mar 24 22:25:21 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [671][item_healthkit]"
+[Tue Mar 24 22:25:21 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [717][item_healthkit]"
+[Tue Mar 24 22:25:21 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [721][item_healthkit]"
+[Tue Mar 24 22:25:21 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [722][item_healthkit]"
+[Tue Mar 24 22:25:21 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [723][item_healthkit]"
+[Tue Mar 24 22:25:22 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [724][item_healthkit]"
+[Tue Mar 24 22:25:22 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [641][item_battery]"
+[Tue Mar 24 22:25:24 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [641][item_battery]"
+[Tue Mar 24 22:25:24 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [671][item_battery]"
+[Tue Mar 24 22:25:24 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [725][item_battery]"
+[Tue Mar 24 22:25:40 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [641][item_battery]"
+[Tue Mar 24 22:25:40 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [671][item_battery]"
+[Tue Mar 24 22:25:42 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [641][item_battery]"
+[Tue Mar 24 22:25:42 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [671][item_battery]"
+[Tue Mar 24 22:25:43 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [722][item_battery]"
+[Tue Mar 24 22:25:43 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [723][item_battery]"
+[Tue Mar 24 22:25:43 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [724][item_battery]"
+[Tue Mar 24 22:25:43 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [725][item_battery]"
+[Tue Mar 24 22:25:43 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [726][item_battery]"
+[Tue Mar 24 22:25:43 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [727][item_battery]"
+[Tue Mar 24 22:25:43 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [728][item_battery]"
+[Tue Mar 24 22:25:44 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [671][item_healthkit]"
+[Tue Mar 24 22:25:44 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [722][item_healthkit]"
+[Tue Mar 24 22:25:44 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [723][item_healthkit]"
+[Tue Mar 24 22:25:44 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [724][item_healthkit]"
+[Tue Mar 24 22:25:45 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [725][item_healthkit]"
+[Tue Mar 24 22:25:45 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [729][item_healthkit]"
+[Tue Mar 24 22:25:50 2026] <STEAM_0:1:411221606> Летов: // ты заебал хилится
+[Tue Mar 24 22:26:00 2026] <STEAM_0:1:890482601> stalker_20130: || jr ,tp [bkf
+[Tue Mar 24 22:26:04 2026] <STEAM_0:1:890482601> stalker_20130: // о без хила
+[Tue Mar 24 22:26:11 2026] Летов has killed stalker_20130.
+[Tue Mar 24 22:26:28 2026] <STEAM_0:1:890482601> stalker_20130: // хз 0 брони против 200 не оч чета
+[Tue Mar 24 22:26:42 2026] <STEAM_0:1:411221606> Летов: // у меня было на тот момент 94
+[Tue Mar 24 22:26:45 2026] Player "impotent" <STEAM_0:1:425612974> is attempting to connect.
+[Tue Mar 24 22:26:50 2026] <STEAM_0:1:411221606> Летов: // щя 19
+[Tue Mar 24 22:27:19 2026] <STEAM_0:1:411221606> Летов: // да и темболее ты 2 раза бронь давал и хилл  а я без нечего
+[Tue Mar 24 22:27:37 2026] <STEAM_0:1:411221606> Летов: // лан похуй
+[Tue Mar 24 22:27:42 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [609][lvs_protontorpedo]"
+[Tue Mar 24 22:27:42 2026] <STEAM_0:1:411221606> Летов: // гоу дальше
+[Tue Mar 24 22:27:42 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [611][lvs_protontorpedo]"
+[Tue Mar 24 22:27:42 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [612][lvs_protontorpedo]"
+[Tue Mar 24 22:27:42 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [613][lvs_protontorpedo]"
+[Tue Mar 24 22:27:43 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [616][lvs_protontorpedo]"
+[Tue Mar 24 22:27:43 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [617][lvs_protontorpedo]"
+[Tue Mar 24 22:27:43 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [618][lvs_protontorpedo]"
+[Tue Mar 24 22:27:43 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [630][lvs_protontorpedo]"
+[Tue Mar 24 22:27:43 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [634][lvs_protontorpedo]"
+[Tue Mar 24 22:27:43 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [639][lvs_protontorpedo]"
+[Tue Mar 24 22:27:44 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [641][lvs_protontorpedo]"
+[Tue Mar 24 22:28:38 2026] <STEAM_0:1:890482601> stalker_20130 ran command "armor Самсонов 100"
+[Tue Mar 24 22:29:01 2026] <STEAM_0:1:411221606> Летов: // гоу
+[Tue Mar 24 22:29:03 2026] Player "impotent" <STEAM_0:1:425612974> has spawned in the server
+[Tue Mar 24 22:29:08 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [630][edit_sun]"
+[Tue Mar 24 22:29:22 2026] <STEAM_0:1:890482601> stalker_20130 used tool "remover"
+[Tue Mar 24 22:29:41 2026] Летов has killed stalker_20130.
+[Tue Mar 24 22:30:35 2026] <STEAM_0:0:382717812> forever: пацаны а как открыть дыери я ключ получил нажимаю на е не открывается
+[Tue Mar 24 22:30:59 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [630][sw_airdrop_v3]"
+[Tue Mar 24 22:31:06 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [630][sw_mine_tm62_v3]"
+[Tue Mar 24 22:31:28 2026] <STEAM_0:0:382717812> forever: здравия
+[Tue Mar 24 22:31:35 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [630][sw_rocket_tt250_v3]"
+[Tue Mar 24 22:31:43 2026] <STEAM_0:0:382717812> forever: шо
+[Tue Mar 24 22:31:43 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [641][sw_rocket_tt250_v3]"
+[Tue Mar 24 22:31:51 2026] <STEAM_0:0:382717812> forever: да
+[Tue Mar 24 22:31:56 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [608][lfs_grdn_ah1g]"
+[Tue Mar 24 22:32:00 2026] <STEAM_0:1:890482601> stalker_20130: не
+[Tue Mar 24 22:32:05 2026] <STEAM_0:1:890482601> stalker_20130: 200 брони анлак
+[Tue Mar 24 22:32:07 2026] <STEAM_0:1:890482601> stalker_20130: ун лан
+[Tue Mar 24 22:32:20 2026] <STEAM_0:1:890482601> stalker_20130 ran command "armor Самсонов 150"
+[Tue Mar 24 22:32:42 2026] <STEAM_0:1:411221606> Летов: // гоу
+[Tue Mar 24 22:32:48 2026] <STEAM_0:0:382717812> forever: каво
+[Tue Mar 24 22:32:55 2026] Летов has killed stalker_20130.
+[Tue Mar 24 22:32:57 2026] <STEAM_0:1:890482601> stalker_20130: // не
+[Tue Mar 24 22:33:00 2026] <STEAM_0:1:890482601> stalker_20130: // я думал расстояние
+[Tue Mar 24 22:33:06 2026] <STEAM_0:0:382717812> forever: не
+[Tue Mar 24 22:33:20 2026] <STEAM_0:0:382717812> forever: я ток купил гарис
+[Tue Mar 24 22:33:35 2026] <STEAM_0:1:890482601> stalker_20130 ran command "armor Самсонов 150"
+[Tue Mar 24 22:33:38 2026] <STEAM_0:0:382717812> forever: чо куда тут
+[Tue Mar 24 22:33:46 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [642][item_healthkit]"
+[Tue Mar 24 22:33:46 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [662][item_healthkit]"
+[Tue Mar 24 22:33:46 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [669][item_healthkit]"
+[Tue Mar 24 22:33:47 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [671][item_healthkit]"
+[Tue Mar 24 22:33:50 2026] <STEAM_0:1:890482601> stalker_20130: да
+[Tue Mar 24 22:33:53 2026] <STEAM_0:0:382717812> forever: да
+[Tue Mar 24 22:33:54 2026] <STEAM_0:1:411221606> Летов: // гоу
+[Tue Mar 24 22:34:06 2026] Летов has killed stalker_20130.
+[Tue Mar 24 22:34:10 2026] <STEAM_0:1:890482601> stalker_20130: // не все я афк
+[Tue Mar 24 22:34:22 2026] <STEAM_0:0:382717812> forever: я моды скачивал не получалось залесть в танк
+[Tue Mar 24 22:34:22 2026] Летов has killed stalker_20130.
+[Tue Mar 24 22:34:30 2026] <STEAM_0:0:382717812> forever: давай
+[Tue Mar 24 22:35:12 2026] <STEAM_0:0:382717812> forever: штурм
+[Tue Mar 24 22:35:17 2026] <STEAM_0:1:890482601> stalker_20130: // анзур
+[Tue Mar 24 22:35:26 2026] <STEAM_0:1:890482601> stalker_20130: // ты к обзвону готов на ивентолога?
+[Tue Mar 24 22:35:31 2026] <STEAM_0:0:382717812> forever: ага
+[Tue Mar 24 22:35:46 2026] <STEAM_0:0:382717812> forever: щяс подождешь 5 мин плз
+[Tue Mar 24 22:35:47 2026] <STEAM_0:1:411221606> Летов: // да
+[Tue Mar 24 22:36:03 2026] <STEAM_0:1:425612974> impotent: /ooc самсонов тут?
+[Tue Mar 24 22:36:07 2026] <STEAM_0:1:890482601> stalker_20130: // ща малого спрошу
+[Tue Mar 24 22:36:12 2026] <STEAM_0:1:890482601> stalker_20130: // да я тут
+[Tue Mar 24 22:36:23 2026] <STEAM_0:1:425612974> impotent: /ooc Выдай человеку рядового
+[Tue Mar 24 22:36:32 2026] <STEAM_0:1:425612974> impotent: /ooc кадета
+[Tue Mar 24 22:36:37 2026] <STEAM_0:1:411221606> Летов: // так он сам может
+[Tue Mar 24 22:36:45 2026] <STEAM_0:1:411221606> Летов: // на склад его отведи
+[Tue Mar 24 22:36:46 2026] <STEAM_0:1:425612974> impotent: /ooc как?
+[Tue Mar 24 22:36:48 2026] <STEAM_0:1:411221606> Летов: // на склад его отведи
+[Tue Mar 24 22:36:48 2026] <STEAM_0:1:890482601> stalker_20130 ran command "goto Wilsonfg"
+[Tue Mar 24 22:36:53 2026] <STEAM_0:1:411221606> Летов: // там форма
+[Tue Mar 24 22:37:01 2026] <STEAM_0:1:890482601> stalker_20130: сюда
+[Tue Mar 24 22:37:21 2026] <STEAM_0:1:890482601> stalker_20130: да
+[Tue Mar 24 22:37:24 2026] <STEAM_0:1:890482601> stalker_20130: есть такое
+[Tue Mar 24 22:37:30 2026] <STEAM_0:1:890482601> stalker_20130: каво
+[Tue Mar 24 22:37:32 2026] <STEAM_0:0:382717812> forever: щя я с брартом
+[Tue Mar 24 22:37:39 2026] <STEAM_0:1:890482601> stalker_20130: в дискорде
+[Tue Mar 24 22:37:41 2026] <STEAM_0:1:890482601> stalker_20130: смотреть
+[Tue Mar 24 22:37:56 2026] worldspawn has killed stalker_20130.
+[Tue Mar 24 22:38:00 2026] <STEAM_0:1:890482601> stalker_20130 ran command "respawn Самсонов"
+[Tue Mar 24 22:38:10 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [608][item_ammo_crossbow]"
+[Tue Mar 24 22:38:24 2026] Летов has killed stalker_20130.
+[Tue Mar 24 22:38:34 2026] Летов has killed stalker_20130.
+[Tue Mar 24 22:38:34 2026] <STEAM_0:1:890482601> stalker_20130: // чо не пробило?
+[Tue Mar 24 22:38:37 2026] <STEAM_0:1:890482601> stalker_20130 ran command "respawn Самсонов"
+[Tue Mar 24 22:38:50 2026] <STEAM_0:1:411221606> Летов: // -10 хп и -5 брони
+[Tue Mar 24 22:38:55 2026] Летов has killed stalker_20130.
+[Tue Mar 24 22:38:58 2026] <STEAM_0:1:890482601> stalker_20130: // а щас
+[Tue Mar 24 22:39:03 2026] <STEAM_0:1:411221606> Летов: // бПИЗДЕЦ
+[Tue Mar 24 22:39:10 2026] <STEAM_0:1:890482601> stalker_20130 ran command "respawn Самсонов"
+[Tue Mar 24 22:39:36 2026] Летов has killed stalker_20130.
+[Tue Mar 24 22:39:47 2026] <STEAM_0:1:411221606> Летов: ХЕХЕ
+[Tue Mar 24 22:39:54 2026] Летов has killed stalker_20130.
+[Tue Mar 24 22:40:26 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [604][lvs_missile]"
+[Tue Mar 24 22:40:28 2026] Летов has killed stalker_20130.
+[Tue Mar 24 22:40:33 2026] <STEAM_0:1:890482601> stalker_20130 ran command "respawn Самсонов"
+[Tue Mar 24 22:40:36 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [604][lvs_missile]"
+[Tue Mar 24 22:40:36 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [642][lvs_missile]"
+[Tue Mar 24 22:40:36 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [660][lvs_missile]"
+[Tue Mar 24 22:40:36 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [662][lvs_missile]"
+[Tue Mar 24 22:40:36 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [669][lvs_missile]"
+[Tue Mar 24 22:40:37 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [671][lvs_missile]"
+[Tue Mar 24 22:40:37 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [675][lvs_missile]"
+[Tue Mar 24 22:40:37 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [676][lvs_missile]"
+[Tue Mar 24 22:40:37 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [604][lvs_missile]"
+[Tue Mar 24 22:40:37 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [642][lvs_missile]"
+[Tue Mar 24 22:40:37 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [677][lvs_missile]"
+[Tue Mar 24 22:40:37 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [660][lvs_missile]"
+[Tue Mar 24 22:40:38 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [662][lvs_missile]"
+[Tue Mar 24 22:40:38 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [669][lvs_missile]"
+[Tue Mar 24 22:40:38 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [671][lvs_missile]"
+[Tue Mar 24 22:40:38 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [675][lvs_missile]"
+[Tue Mar 24 22:40:38 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [604][lvs_missile]"
+[Tue Mar 24 22:40:44 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [603][lvs_concussionmissile]"
+[Tue Mar 24 22:40:44 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [604][lvs_concussionmissile]"
+[Tue Mar 24 22:40:44 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [642][lvs_concussionmissile]"
+[Tue Mar 24 22:40:45 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [660][lvs_concussionmissile]"
+[Tue Mar 24 22:40:45 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [603][lvs_concussionmissile]"
+[Tue Mar 24 22:40:45 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [604][lvs_concussionmissile]"
+[Tue Mar 24 22:41:04 2026] Летов has killed stalker_20130.
+[Tue Mar 24 22:41:04 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [642][lvs_concussionmissile]"
+[Tue Mar 24 22:41:08 2026] <STEAM_0:1:890482601> stalker_20130 ran command "respawn Самсонов"
+[Tue Mar 24 22:41:22 2026] <STEAM_0:1:890482601> stalker_20130 ran command "armor Самсонов 1000"
+[Tue Mar 24 22:42:03 2026] Летов has killed stalker_20130.
+[Tue Mar 24 22:42:07 2026] Летов has killed Летов.
+[Tue Mar 24 22:42:13 2026] <STEAM_0:1:411221606> Летов: // АХХАХАХА
+[Tue Mar 24 22:42:16 2026] <STEAM_0:1:890482601> stalker_20130: // ххахаха
+[Tue Mar 24 22:42:21 2026] <STEAM_0:1:890482601> stalker_20130: // главное убил
+[Tue Mar 24 22:42:27 2026] <STEAM_0:1:411221606> Летов: // А ТАМ ПОХУЙ
+[Tue Mar 24 22:42:38 2026] <STEAM_0:1:890482601> stalker_20130: // ну да впринчипе
+[Tue Mar 24 22:43:13 2026] Летов has killed stalker_20130.
+[Tue Mar 24 22:43:22 2026] <STEAM_0:1:890482601> stalker_20130 ran command "respawn Самсонов"
+[Tue Mar 24 22:43:33 2026] Летов has killed stalker_20130.
+[Tue Mar 24 22:43:34 2026] <STEAM_0:1:890482601> stalker_20130: дарова
+[Tue Mar 24 22:43:59 2026] <STEAM_0:1:890482601> stalker_20130: заявку на повышение оставь
+[Tue Mar 24 22:44:25 2026] <STEAM_0:1:890482601> stalker_20130: все в дс рф смотри
+[Tue Mar 24 22:44:57 2026] stalker_20130 has killed Летов.
+[Tue Mar 24 22:45:01 2026] <STEAM_0:1:890482601> stalker_20130: ой
+[Tue Mar 24 22:45:02 2026] <STEAM_0:0:382717812> forever: я тут
+[Tue Mar 24 22:45:03 2026] <STEAM_0:1:890482601> stalker_20130: хаахахха
+[Tue Mar 24 22:45:11 2026] <STEAM_0:1:411221606> Летов: за хо
+[Tue Mar 24 22:45:26 2026] stalker_20130 has killed Летов.
+[Tue Mar 24 22:45:34 2026] <STEAM_0:1:411221606> Летов: // УБЕЙ ЕГО
+[Tue Mar 24 22:45:37 2026] Player "forever" <STEAM_0:0:382717812> has left the server
+[Tue Mar 24 22:45:50 2026] Летов has killed stalker_20130.
+[Tue Mar 24 22:45:57 2026] <STEAM_0:1:890482601> stalker_20130: // в спину даже крысы не убивают
+[Tue Mar 24 22:46:01 2026] <STEAM_0:1:890482601> stalker_20130 ran command "respawn Самсонов"
+[Tue Mar 24 22:46:46 2026] stalker_20130 has killed Летов.
+[Tue Mar 24 22:48:11 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [650][lvs_missile]"
+[Tue Mar 24 22:48:13 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [650][lvs_missile]"
+[Tue Mar 24 22:48:41 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [711][lvs_missile]"
+[Tue Mar 24 22:48:44 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [650][lvs_missile]"
+[Tue Mar 24 22:48:47 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [650][lvs_missile]"
+[Tue Mar 24 22:48:49 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [711][lvs_missile]"
+[Tue Mar 24 22:48:51 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [650][lvs_missile]"
+[Tue Mar 24 22:49:13 2026] Летов has killed impotent.
+[Tue Mar 24 22:49:14 2026] Player "impotent" <STEAM_0:1:425612974> has left the server
+[Tue Mar 24 22:50:01 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [611][lvs_missile]"
+[Tue Mar 24 22:50:01 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [612][lvs_missile]"
+[Tue Mar 24 22:50:01 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [617][lvs_missile]"
+[Tue Mar 24 22:50:01 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [618][lvs_missile]"
+[Tue Mar 24 22:50:02 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [630][lvs_missile]"
+[Tue Mar 24 22:50:02 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [632][lvs_missile]"
+[Tue Mar 24 22:50:09 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [611][lvs_missile]"
+[Tue Mar 24 22:50:13 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [611][lvs_missile]"
+[Tue Mar 24 22:50:13 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [612][lvs_missile]"
+[Tue Mar 24 22:50:13 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [617][lvs_missile]"
+[Tue Mar 24 22:50:16 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: /rf Прием, говорит Рядовой Оперативник ФСБ Амбассадор 1-3, сообщаю о начале моего поста на КПП
+[Tue Mar 24 22:50:16 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [611][lvs_protontorpedo]"
+[Tue Mar 24 22:50:16 2026] <STEAM_0:1:890482601> stalker_20130 spawned SENT "Entity [612][lvs_protontorpedo]"
+[Tue Mar 24 22:50:38 2026] <STEAM_0:1:411221606> Летов: /rf не забудь пукнуть
+[Tue Mar 24 22:50:49 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: /rf обязательно
+[Tue Mar 24 22:51:21 2026] <STEAM_0:1:411221606> Летов: /me пукнул
+[Tue Mar 24 22:51:30 2026] <STEAM_0:1:411221606> Летов: /me пукнул
+[Tue Mar 24 22:53:09 2026] <STEAM_0:1:411221606> Летов: глушитель урон снимает на 2 единицы
+[Tue Mar 24 22:53:18 2026] <STEAM_0:1:411221606> Летов: убери его нахуй
+[Tue Mar 24 22:55:04 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: // Прием, говорит Рядовой Оперативник ФСБ Амбассадор 1-3, докладываю о стабильности безопасности КПП и Воинской Части РФ, Конец связи (Звготовка)
+[Tue Mar 24 22:58:21 2026] <STEAM_0:1:411221606> Летов: ёскучно сидим
+[Tue Mar 24 22:58:49 2026] Player "forever" <STEAM_0:0:382717812> is attempting to connect.
+[Tue Mar 24 22:59:22 2026] Player "forever" <STEAM_0:0:382717812> has spawned in the server
+[Tue Mar 24 22:59:59 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: /rf Прием, говорит Рядовой Оперативник ФСБ Амбассадор 1-3, докладываю\n о стабильности безопасности КПП и Воинской Части РФ, Безопасность ВЧ действует в штатном режиме, Конец связи
+[Tue Mar 24 23:00:39 2026] <STEAM_0:0:382717812> forever: дарова
+[Tue Mar 24 23:00:48 2026] <STEAM_0:0:382717812> forever: можете помочь
+[Tue Mar 24 23:01:28 2026] <STEAM_0:1:411221606> Летов: чего все аново
+[Tue Mar 24 23:01:55 2026] <STEAM_0:1:411221606> Летов: я нечего не слыхал с соунпадом
+[Tue Mar 24 23:02:06 2026] <STEAM_0:1:411221606> Летов: окей
+[Tue Mar 24 23:02:12 2026] <STEAM_0:1:411221606> Летов: соко мин
+[Tue Mar 24 23:02:21 2026] <STEAM_0:1:411221606> Летов: ебать
+[Tue Mar 24 23:02:31 2026] <STEAM_0:1:411221606> Летов: мб я спасть уйб\
+[Tue Mar 24 23:02:36 2026] <STEAM_0:1:411221606> Летов: у тя дс есть?
+[Tue Mar 24 23:02:45 2026] <STEAM_0:1:411221606> Летов: дай
+[Tue Mar 24 23:02:56 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: maloy1967
+[Tue Mar 24 23:03:10 2026] <STEAM_0:1:411221606> Летов: 6767676766767676767676
+[Tue Mar 24 23:03:45 2026] Player "forever" <STEAM_0:0:382717812> has left the server
+[Tue Mar 24 23:04:06 2026] <STEAM_0:1:411221606> Летов: 6776767676767676
+[Tue Mar 24 23:04:12 2026] <STEAM_0:1:411221606> Летов: 6767676767676767767677
+[Tue Mar 24 23:05:46 2026] <STEAM_0:1:411221606> Летов: баобап
+[Tue Mar 24 23:05:48 2026] <STEAM_0:1:411221606> Летов: баобап
+[Tue Mar 24 23:05:48 2026] <STEAM_0:1:411221606> Летов: баобап
+[Tue Mar 24 23:05:49 2026] <STEAM_0:1:411221606> Летов: баобап
+[Tue Mar 24 23:05:49 2026] <STEAM_0:1:411221606> Летов: баобап
+[Tue Mar 24 23:05:50 2026] <STEAM_0:1:411221606> Летов: баобап
+[Tue Mar 24 23:06:29 2026] <STEAM_0:1:411221606> Летов: внизу теперь надо
+[Tue Mar 24 23:08:17 2026] <STEAM_0:1:411221606> Летов: ВАЦОК ПОЧУВСТВУЙ
+[Tue Mar 24 23:08:19 2026] <STEAM_0:1:411221606> Летов: ВАЦОК ПОЧУВСТВУЙ
+[Tue Mar 24 23:08:20 2026] <STEAM_0:1:411221606> Летов: ВАЦОК ПОЧУВСТВУЙ
+[Tue Mar 24 23:08:30 2026] <STEAM_0:1:411221606> Летов: я в ян музыке
+[Tue Mar 24 23:08:32 2026] <STEAM_0:1:411221606> Летов: сори
+[Tue Mar 24 23:08:36 2026] <STEAM_0:1:411221606> Летов: нечего не слышу
+[Tue Mar 24 23:09:03 2026] <STEAM_0:1:411221606> Летов: 67 67 67 67 67 67 67 67 67 67 67
+[Tue Mar 24 23:09:06 2026] <STEAM_0:1:411221606> Летов: 67 67 67 67 67 67 67 67 67 67 67
+[Tue Mar 24 23:09:11 2026] <STEAM_0:1:411221606> Летов: 67 67 67 67 67 67 67 67 67 67 67
+[Tue Mar 24 23:09:47 2026] <STEAM_0:1:411221606> Летов: 67 67 67 67 67 67 67 67 67 67 67
+[Tue Mar 24 23:09:49 2026] <STEAM_0:1:411221606> Летов: 67 67 67 67 67 67 67 67 67 67 67
+[Tue Mar 24 23:09:50 2026] <STEAM_0:1:411221606> Летов: 67 67 67 67 67 67 67 67 67 67 67
+[Tue Mar 24 23:09:51 2026] <STEAM_0:1:411221606> Летов: 67 67 67 67 67 67 67 67 67 67 67
+[Tue Mar 24 23:10:12 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: /rf Прием говорит Рядовой Оперативник ФСБ Амбассадор 1-3, докладываю что безопасность действует в штатном режиме, заканчиваю свой пост!
+[Tue Mar 24 23:10:19 2026] <STEAM_0:1:411221606> Летов: 67 67 67 67 67 67 67 67 67 67 67
+[Tue Mar 24 23:10:25 2026] <STEAM_0:1:411221606> Летов: чего
+[Tue Mar 24 23:10:29 2026] <STEAM_0:1:411221606> Летов: ты говорил
+[Tue Mar 24 23:10:34 2026] <STEAM_0:1:411221606> Летов: окей
+[Tue Mar 24 23:26:54 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: // Самсон тут?
+[Tue Mar 24 23:30:44 2026] Player "𝗺𝟏𝗿𝗮𝗰𝗹𝗲" <STEAM_0:0:869238922> has left the server
+[Tue Mar 24 23:47:32 2026] Player "𝗺𝟏𝗿𝗮𝗰𝗹𝗲" <STEAM_0:0:869238922> is attempting to connect.
+[Tue Mar 24 23:53:09 2026] Player "𝗺𝟏𝗿𝗮𝗰𝗹𝗲" <STEAM_0:0:869238922> has spawned in the server
+[Tue Mar 24 23:55:42 2026] Летов has killed 𝗺𝟏𝗿𝗮𝗰𝗹𝗲.
+[Tue Mar 24 23:55:49 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: // да блять нахуй
+[Tue Mar 24 23:56:04 2026] <STEAM_0:1:411221606> Летов: // сам дигинерат
+[Tue Mar 24 23:57:29 2026] Летов has killed 𝗺𝟏𝗿𝗮𝗰𝗹𝗲.
+[Tue Mar 24 23:57:37 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: // Самсонов ты в игре?
+[Tue Mar 24 23:57:54 2026] Летов has killed 𝗺𝟏𝗿𝗮𝗰𝗹𝗲.
+[Tue Mar 24 23:58:03 2026] Летов has killed 𝗺𝟏𝗿𝗮𝗰𝗹𝗲.
+[Tue Mar 24 23:58:11 2026] Летов has killed 𝗺𝟏𝗿𝗮𝗰𝗹𝗲.
+[Tue Mar 24 23:59:12 2026] <STEAM_0:1:411221606> Летов: Я ФРАЕР
+[Tue Mar 24 23:59:19 2026] Летов has killed 𝗺𝟏𝗿𝗮𝗰𝗹𝗲.

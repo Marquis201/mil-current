@@ -1,0 +1,14 @@
+[Mon May 18 13:37:46 2026] Player "сталин" <STEAM_0:0:959824042> is attempting to connect.
+[Mon May 18 13:39:47 2026] Player "сталин" <STEAM_0:0:959824042> has spawned in the server
+[Mon May 18 13:41:14 2026] Player "сталин" <STEAM_0:0:959824042> has left the server
+[Mon May 18 15:34:36 2026] Player "Melnicha" <STEAM_0:1:811343084> is attempting to connect.
+[Mon May 18 15:42:29 2026] Player "puwo" <STEAM_0:0:587757129> is attempting to connect.
+[Mon May 18 16:10:40 2026] Player "puwo" <STEAM_0:0:587757129> has spawned in the server
+[Mon May 18 16:28:51 2026] <STEAM_0:0:587757129> puwo: /com
+[Mon May 18 16:30:30 2026] Player "puwo" <STEAM_0:0:587757129> has left the server
+[Mon May 18 18:23:05 2026] Player "Электровоз ВЛ80" <STEAM_0:1:862887967> is attempting to connect.
+[Mon May 18 18:23:57 2026] Player "Электровоз ВЛ80" <STEAM_0:1:862887967> has spawned in the server
+[Mon May 18 18:30:12 2026] m67_srpnl has killed Электровоз ВЛ80.
+[Mon May 18 18:36:55 2026] <STEAM_0:1:862887967> Электровоз ВЛ80: бтр 90 говно
+[Mon May 18 18:44:46 2026] worldspawn has killed Электровоз ВЛ80.
+[Mon May 18 18:50:32 2026] Player "Электровоз ВЛ80" <STEAM_0:1:862887967> has left the server

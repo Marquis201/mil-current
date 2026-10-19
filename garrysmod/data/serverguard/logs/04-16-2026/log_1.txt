@@ -1,0 +1,1897 @@
+[Thu Apr 16 00:05:06 2026] <STEAM_0:0:650470378> Discar: назови статью
+[Thu Apr 16 00:11:53 2026] Player "kamekadz.banzai" <STEAM_0:0:390862311> has left the server
+[Thu Apr 16 00:13:22 2026] Player "Discar" <STEAM_0:0:650470378> has left the server
+[Thu Apr 16 03:27:57 2026] Player "BloodySmile" <STEAM_0:1:54838838> is attempting to connect.
+[Thu Apr 16 03:32:42 2026] Player "BloodySmile" <STEAM_0:1:54838838> has spawned in the server
+[Thu Apr 16 03:33:47 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [519][prop_physics] (models/sw/ground/bmp2/bmp2m.mdl)"
+[Thu Apr 16 03:33:56 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [519][prop_physics] (models/sw/ground/bmp1/bmp1m.mdl)"
+[Thu Apr 16 03:33:59 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [519][prop_physics] (models/sw/ground/bmp2/bmp2m.mdl)"
+[Thu Apr 16 03:34:09 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [519][sw_bmp2m]"
+[Thu Apr 16 03:34:58 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [701][edit_sun]"
+[Thu Apr 16 03:35:59 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [522][edit_sun]"
+[Thu Apr 16 03:38:03 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [701][sw_bmp2m]"
+[Thu Apr 16 03:38:35 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [771][edit_sun]"
+[Thu Apr 16 03:38:51 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [701][edit_sun]"
+[Thu Apr 16 03:39:08 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [702][sw_bmp2m]"
+[Thu Apr 16 03:39:10 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Thu Apr 16 03:39:35 2026] <STEAM_0:1:54838838> BloodySmile spawned ragdoll "Entity [772][prop_ragdoll] (models/modernaussie/zealander.mdl)"
+[Thu Apr 16 03:39:38 2026] <STEAM_0:1:54838838> BloodySmile spawned ragdoll "Entity [772][prop_ragdoll] (models/notart/us pararescue 2.mdl)"
+[Thu Apr 16 03:39:44 2026] <STEAM_0:1:54838838> BloodySmile spawned ragdoll "Entity [772][prop_ragdoll] (models/notart/us pararescue 2.mdl)"
+[Thu Apr 16 03:41:56 2026] <STEAM_0:1:54838838> BloodySmile spawned ragdoll "Entity [773][prop_ragdoll] (models/notart/us pararescue 2.mdl)"
+[Thu Apr 16 03:41:58 2026] <STEAM_0:1:54838838> BloodySmile spawned ragdoll "Entity [774][prop_ragdoll] (models/multi/us_army_caucasian_pm.mdl)"
+[Thu Apr 16 03:42:01 2026] <STEAM_0:1:54838838> BloodySmile spawned ragdoll "Entity [773][prop_ragdoll] (models/multi/us_army_caucasian_pm.mdl)"
+[Thu Apr 16 03:42:03 2026] <STEAM_0:1:54838838> BloodySmile spawned ragdoll "Entity [773][prop_ragdoll] (models/multi/us_army_caucasian_pm.mdl)"
+[Thu Apr 16 03:42:05 2026] <STEAM_0:1:54838838> BloodySmile spawned ragdoll "Entity [774][prop_ragdoll] (models/multi/us_army_caucasian_pm.mdl)"
+[Thu Apr 16 03:42:15 2026] <STEAM_0:1:54838838> BloodySmile spawned ragdoll "Entity [773][prop_ragdoll] (models/multi/us_army_caucasian_pm.mdl)"
+[Thu Apr 16 03:42:42 2026] <STEAM_0:1:54838838> BloodySmile spawned ragdoll "Entity [773][prop_ragdoll] (models/pmc/pmc_2/male_04.mdl)"
+[Thu Apr 16 03:42:44 2026] <STEAM_0:1:54838838> BloodySmile spawned ragdoll "Entity [773][prop_ragdoll] (models/modernaussie/zealander.mdl)"
+[Thu Apr 16 03:42:47 2026] <STEAM_0:1:54838838> BloodySmile spawned ragdoll "Entity [775][prop_ragdoll] (models/modernaussie/zealander.mdl)"
+[Thu Apr 16 03:43:07 2026] <STEAM_0:1:54838838> BloodySmile spawned ragdoll "Entity [773][prop_ragdoll] (models/modernaussie/zealander.mdl)"
+[Thu Apr 16 03:43:16 2026] <STEAM_0:1:54838838> BloodySmile spawned ragdoll "Entity [776][prop_ragdoll] (models/modernaussie/zealander.mdl)"
+[Thu Apr 16 03:43:19 2026] <STEAM_0:1:54838838> BloodySmile spawned ragdoll "Entity [776][prop_ragdoll] (models/notart/us pararescue.mdl)"
+[Thu Apr 16 03:43:52 2026] <STEAM_0:1:54838838> BloodySmile spawned ragdoll "Entity [777][prop_ragdoll] (models/notart/venerated.mdl)"
+[Thu Apr 16 03:44:01 2026] <STEAM_0:1:54838838> BloodySmile spawned ragdoll "Entity [778][prop_ragdoll] (models/pmc/pmc_8/male_04.mdl)"
+[Thu Apr 16 03:44:04 2026] <STEAM_0:1:54838838> BloodySmile spawned ragdoll "Entity [778][prop_ragdoll] (models/eurofor/finnishdefence.mdl)"
+[Thu Apr 16 03:44:06 2026] <STEAM_0:1:54838838> BloodySmile spawned ragdoll "Entity [778][prop_ragdoll] (models/modernaussie/aussiedigger.mdl)"
+[Thu Apr 16 03:44:32 2026] <STEAM_0:1:54838838> BloodySmile spawned ragdoll "Entity [779][prop_ragdoll] (models/usef.mdl)"
+[Thu Apr 16 03:44:36 2026] <STEAM_0:1:54838838> BloodySmile spawned ragdoll "Entity [780][prop_ragdoll] (models/usef.mdl)"
+[Thu Apr 16 03:44:39 2026] <STEAM_0:1:54838838> BloodySmile spawned ragdoll "Entity [779][prop_ragdoll] (models/balkandude.mdl)"
+[Thu Apr 16 03:44:42 2026] <STEAM_0:1:54838838> BloodySmile spawned ragdoll "Entity [780][prop_ragdoll] (models/balkandude.mdl)"
+[Thu Apr 16 03:44:57 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [780][npc_citizen]"
+[Thu Apr 16 03:45:18 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [780][npc_citizen]"
+[Thu Apr 16 03:45:19 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [782][npc_citizen]"
+[Thu Apr 16 03:45:20 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [780][npc_combine_s]"
+[Thu Apr 16 03:45:21 2026] npc_combine_s has killed BloodySmile.
+[Thu Apr 16 03:45:29 2026] <STEAM_0:1:54838838> BloodySmile ran command "respawn Андрев"
+[Thu Apr 16 03:45:39 2026] <STEAM_0:1:54838838> BloodySmile ran command "npctarget Андрев"
+[Thu Apr 16 03:45:49 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [700][npc_combine_s]"
+[Thu Apr 16 03:45:50 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [784][npc_combine_s]"
+[Thu Apr 16 03:45:59 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [700][npc_citizen]"
+[Thu Apr 16 03:46:01 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [786][npc_combine_s]"
+[Thu Apr 16 03:46:03 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [700][npc_citizen]"
+[Thu Apr 16 03:46:05 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [700][npc_citizen]"
+[Thu Apr 16 03:46:06 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [785][npc_combine_s]"
+[Thu Apr 16 03:46:08 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [700][npc_combine_s]"
+[Thu Apr 16 03:46:14 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [700][npc_combine_s]"
+[Thu Apr 16 03:46:16 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [783][npc_combine_s]"
+[Thu Apr 16 03:46:17 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [700][npc_combine_s]"
+[Thu Apr 16 03:46:21 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [782][npc_combine_s]"
+[Thu Apr 16 03:46:45 2026] <STEAM_0:1:54838838> BloodySmile spawned ragdoll "Entity [700][prop_ragdoll] (models/notart/us pararescue 3.mdl)"
+[Thu Apr 16 03:46:58 2026] <STEAM_0:1:54838838> BloodySmile used tool "remover"
+[Thu Apr 16 03:47:19 2026] <STEAM_0:1:54838838> BloodySmile ran command "invisible Андрев"
+[Thu Apr 16 03:48:48 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [701][lvs_wheeldrive_m3a3]"
+[Thu Apr 16 03:49:06 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [701][prop_physics] (models/sw/ground/leopard2a6m/leopard2a6m_dmg.mdl)"
+[Thu Apr 16 03:49:07 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [780][prop_physics] (models/sw/ground/leopard2a6m/leopard2a6m_turret_dmg.mdl)"
+[Thu Apr 16 03:49:10 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [701][prop_physics] (models/diggercars/m3a3/m3a3.mdl)"
+[Thu Apr 16 03:49:11 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [780][prop_physics] (models/diggercars/m3a3/dead.mdl)"
+[Thu Apr 16 03:49:13 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [701][prop_physics] (models/diggercars/m3a3/turret.mdl)"
+[Thu Apr 16 03:49:39 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [701][lvs_wheeldrive_m3a3]"
+[Thu Apr 16 03:49:44 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [842][sw_bmp2m]"
+[Thu Apr 16 03:50:34 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [701][sw_bmp2m]"
+[Thu Apr 16 03:50:39 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [848][prop_physics] (models/diggercars/m3a3/dead.mdl)"
+[Thu Apr 16 03:50:48 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [850][prop_physics] (models/diggercars/m3a3/turret.mdl)"
+[Thu Apr 16 03:51:34 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [851][edit_sun]"
+[Thu Apr 16 04:03:18 2026] Player "ISOL1D" <STEAM_0:0:636644371> is attempting to connect.
+[Thu Apr 16 04:13:39 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [849][obj_vj_flareround]"
+[Thu Apr 16 04:13:43 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [853][obj_vj_flareround]"
+[Thu Apr 16 04:13:46 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [856][obj_vj_flareround]"
+[Thu Apr 16 04:13:50 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [859][obj_vj_flareround]"
+[Thu Apr 16 04:13:51 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [862][obj_vj_flareround]"
+[Thu Apr 16 04:21:13 2026] Player "GrozaMakak" <STEAM_0:0:789619932> is attempting to connect.
+[Thu Apr 16 04:26:48 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [637][prop_physics] (models/crysis/barriers/concrete_wall/wall_catwalk/wall_catwalk_tcorner.mdl)"
+[Thu Apr 16 04:26:50 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [637][prop_physics] (models/crysis/barriers/sandbags/end1_small.mdl)"
+[Thu Apr 16 04:26:51 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [648][prop_physics] (models/crysis/barriers/concrete_wall/wall_catwalk/wall_catwalk_800x.mdl)"
+[Thu Apr 16 04:26:53 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [637][prop_physics] (models/crysis/barriers/concrete_wall/wall_catwalk/wall_catwalk_800x.mdl)"
+[Thu Apr 16 04:26:54 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [649][prop_physics] (models/crysis/barriers/concrete_wall/wall_catwalk/wall_catwalk_800x_mg.mdl)"
+[Thu Apr 16 04:26:58 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [650][prop_physics] (models/crysis/barriers/concrete_wall/wall_catwalk/wall_catwalk_corner.mdl)"
+[Thu Apr 16 04:27:00 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [651][prop_physics] (models/crysis/barriers/concrete_wall/wall_catwalk/wall_catwalk_end.mdl)"
+[Thu Apr 16 04:27:01 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [652][prop_physics] (models/crysis/barriers/concrete_wall/wall_catwalk/wall_catwalk_tcorner.mdl)"
+[Thu Apr 16 04:27:14 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [651][prop_physics] (models/crysis/barriers/razorwire/razorwire1_asian_corner.mdl)"
+[Thu Apr 16 04:27:18 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [637][prop_physics] (models/crysis/barriers/razorwire/razorwire1_asian_dual_corner.mdl)"
+[Thu Apr 16 04:27:24 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [637][prop_physics] (models/crysis/barriers/razorwire/razorwire1_asian_4x_rope.mdl)"
+[Thu Apr 16 04:27:29 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [637][prop_physics] (models/crysis/barriers/sandbags/end1_big.mdl)"
+[Thu Apr 16 04:27:31 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [648][prop_physics] (models/crysis/barriers/sandbags/end1_small.mdl)"
+[Thu Apr 16 04:27:35 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [648][prop_physics] (models/crysis/barriers/sandbags/curve_big.mdl)"
+[Thu Apr 16 04:27:45 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [637][prop_physics] (models/crysis/barriers/concrete_wall/concrete_wall_base/concrete_wall_base_16m.mdl)"
+[Thu Apr 16 04:27:48 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [648][prop_physics] (models/crysis/barriers/concrete_wall/concrete_wall_base/concrete_wall_base_16m_destroyed.mdl)"
+[Thu Apr 16 04:28:18 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [637][prop_physics] (models/crysis/barriers/railroad_crossing/railroad_crossing_open.mdl)"
+[Thu Apr 16 04:28:20 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [637][prop_physics] (models/crysis/barriers/concrete_wall/concrete_wall_base/concrete_wall_base_16m.mdl)"
+[Thu Apr 16 04:28:38 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [648][prop_physics] (models/crysis/barriers/concrete_wall/concrete_wall_base/concrete_wall_base_16m_destroyed.mdl)"
+[Thu Apr 16 04:28:48 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [649][prop_physics] (models/crysis/barriers/concrete_wall/concrete_wall_base/concrete_wall_base_16m_destroyed.mdl)"
+[Thu Apr 16 04:28:49 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [648][prop_physics] (models/crysis/barriers/concrete_wall/concrete_wall_base/concrete_wall_base_16m_destroyedb.mdl)"
+[Thu Apr 16 04:28:52 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [649][prop_physics] (models/crysis/barriers/concrete_wall/concrete_wall_base/concrete_wall_base_16m_destroyedb.mdl)"
+[Thu Apr 16 04:29:03 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [648][prop_physics] (models/crysis/barriers/concrete_wall/concrete_wall_base/concrete_wall_base_16m_destroyed.mdl)"
+[Thu Apr 16 04:29:06 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [649][prop_physics] (models/crysis/barriers/concrete_wall/concrete_wall_base/concrete_wall_base_16m_destroyed.mdl)"
+[Thu Apr 16 04:29:09 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [648][prop_physics] (models/crysis/barriers/concrete_wall/concrete_wall_base/concrete_wall_base_16m_destroyed.mdl)"
+[Thu Apr 16 04:29:53 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:29:54 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:29:58 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:29:58 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:29:59 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:30:02 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:30:02 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:30:03 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:30:03 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:30:39 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:30:39 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:30:39 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:30:40 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:30:40 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:30:42 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:30:43 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:30:43 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:30:43 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:30:46 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:30:46 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:30:47 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:30:47 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:30:49 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:30:49 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:31:20 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [633][prop_physics] (models/crysis/barriers/concrete_wall/concrete_wall_base/concrete_wall_base_8m_door.mdl)"
+[Thu Apr 16 04:31:24 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [633][prop_physics] (models/crysis/barriers/concrete_wall/concrete_wall_base/concrete_wall_base_4m.mdl)"
+[Thu Apr 16 04:31:28 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [633][prop_physics] (models/crysis/barriers/concrete_wall/concrete_wall_base/concrete_wall_base_16m.mdl)"
+[Thu Apr 16 04:31:42 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [648][prop_physics] (models/crysis/barriers/concrete_wall/concrete_wall_base/concrete_wall_base_16m_destroyed.mdl)"
+[Thu Apr 16 04:32:02 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [649][sw_bmp2m]"
+[Thu Apr 16 04:32:15 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [649][prop_physics] (models/crysis/barriers/concrete_wall/concrete_wall_base/concrete_wall_base_4m.mdl)"
+[Thu Apr 16 04:32:20 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [650][prop_physics] (models/crysis/barriers/concrete_wall/concrete_wall_base/concrete_wall_base_4m_window.mdl)"
+[Thu Apr 16 04:32:24 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [649][prop_physics] (models/crysis/barriers/concrete_wall/concrete_wall_base/concrete_wall_base_cornerb.mdl)"
+[Thu Apr 16 04:32:30 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [649][prop_physics] (models/crysis/barriers/concrete_wall/concrete_wall_base/concrete_wall_base_end.mdl)"
+[Thu Apr 16 04:32:43 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [650][prop_physics] (models/crysis/barriers/concrete_wall/concrete_wall_base/concrete_wall_base_2m.mdl)"
+[Thu Apr 16 04:32:53 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [649][prop_physics] (models/crysis/barriers/concrete_wall/concrete_wall_base/concrete_wall_base_cornerb.mdl)"
+[Thu Apr 16 04:32:57 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [649][prop_physics] (models/crysis/barriers/concrete_wall/concrete_wall_base/concrete_wall_base_corner.mdl)"
+[Thu Apr 16 04:33:09 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [650][prop_physics] (models/crysis/barriers/concrete_wall/concrete_wall_90degl.mdl)"
+[Thu Apr 16 04:33:10 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [651][prop_physics] (models/crysis/barriers/concrete_wall/concrete_wall_base/concrete_wall_base_16m.mdl)"
+[Thu Apr 16 04:33:42 2026] <STEAM_0:1:54838838> BloodySmile used tool "nocollide"
+[Thu Apr 16 04:33:47 2026] <STEAM_0:1:54838838> BloodySmile used tool "nocollide"
+[Thu Apr 16 04:33:54 2026] <STEAM_0:1:54838838> BloodySmile used tool "nocollide"
+[Thu Apr 16 04:34:04 2026] <STEAM_0:1:54838838> BloodySmile used tool "nocollide"
+[Thu Apr 16 04:34:19 2026] <STEAM_0:1:54838838> BloodySmile used tool "nocollide"
+[Thu Apr 16 04:34:20 2026] <STEAM_0:1:54838838> BloodySmile used tool "nocollide"
+[Thu Apr 16 04:34:24 2026] <STEAM_0:1:54838838> BloodySmile used tool "nocollide"
+[Thu Apr 16 04:34:26 2026] <STEAM_0:1:54838838> BloodySmile used tool "nocollide"
+[Thu Apr 16 04:34:36 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [650][prop_physics] (models/crysis/barriers/concrete_wall/concrete_wall_base/concrete_wall_base_corner.mdl)"
+[Thu Apr 16 04:34:52 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [652][prop_physics] (models/crysis/barriers/concrete_wall/concrete_wall_base/concrete_wall_base_16m.mdl)"
+[Thu Apr 16 04:35:23 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:35:24 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:35:24 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:35:24 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:35:24 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:35:25 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:35:25 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:35:25 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:35:25 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:35:25 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:35:27 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:35:27 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:35:28 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:35:28 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:35:28 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:35:29 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:35:33 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:35:33 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:35:34 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:35:36 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:35:37 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:35:37 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:35:38 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:35:38 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:35:39 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:35:39 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:35:40 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:35:40 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:35:41 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:35:41 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:35:47 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [637][prop_physics] (models/crysis/barriers/concrete_wall/concrete_wall_90degl.mdl)"
+[Thu Apr 16 04:35:48 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [653][prop_physics] (models/crysis/barriers/concrete_wall/concrete_wall_base/concrete_wall_base_16m.mdl)"
+[Thu Apr 16 04:35:52 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [654][prop_physics] (models/crysis/barriers/concrete_wall/concrete_wall_base/concrete_wall_base_16m.mdl)"
+[Thu Apr 16 04:35:56 2026] <STEAM_0:1:54838838> BloodySmile used tool "stacker_improved"
+[Thu Apr 16 04:35:56 2026] <STEAM_0:1:54838838> BloodySmile used tool "stacker_improved"
+[Thu Apr 16 04:35:57 2026] <STEAM_0:1:54838838> BloodySmile used tool "stacker_improved"
+[Thu Apr 16 04:35:57 2026] <STEAM_0:1:54838838> BloodySmile used tool "stacker_improved"
+[Thu Apr 16 04:35:58 2026] <STEAM_0:1:54838838> BloodySmile used tool "stacker_improved"
+[Thu Apr 16 04:36:07 2026] <STEAM_0:1:54838838> BloodySmile used tool "stacker_improved"
+[Thu Apr 16 04:36:07 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [637][prop_physics] (models/crysis/barriers/concrete_wall/concrete_wall_base/concrete_wall_base_16m.mdl)"
+[Thu Apr 16 04:37:11 2026] <STEAM_0:1:54838838> BloodySmile used tool "stacker_improved"
+[Thu Apr 16 04:37:11 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [653][prop_physics] (models/crysis/barriers/concrete_wall/concrete_wall_base/concrete_wall_base_16m.mdl)"
+[Thu Apr 16 04:37:36 2026] <STEAM_0:1:54838838> BloodySmile used tool "stacker_improved"
+[Thu Apr 16 04:37:36 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [653][prop_physics] (models/crysis/barriers/concrete_wall/concrete_wall_base/concrete_wall_base_16m.mdl)"
+[Thu Apr 16 04:37:52 2026] <STEAM_0:1:54838838> BloodySmile used tool "stacker_improved"
+[Thu Apr 16 04:37:52 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [654][prop_physics] (models/crysis/barriers/concrete_wall/concrete_wall_base/concrete_wall_base_16m.mdl)"
+[Thu Apr 16 04:37:57 2026] <STEAM_0:1:54838838> BloodySmile used tool "stacker_improved"
+[Thu Apr 16 04:37:58 2026] <STEAM_0:1:54838838> BloodySmile used tool "stacker_improved"
+[Thu Apr 16 04:37:59 2026] <STEAM_0:1:54838838> BloodySmile used tool "stacker_improved"
+[Thu Apr 16 04:37:59 2026] <STEAM_0:1:54838838> BloodySmile used tool "stacker_improved"
+[Thu Apr 16 04:38:03 2026] <STEAM_0:1:54838838> BloodySmile used tool "stacker_improved"
+[Thu Apr 16 04:38:03 2026] <STEAM_0:1:54838838> BloodySmile used tool "stacker_improved"
+[Thu Apr 16 04:38:04 2026] <STEAM_0:1:54838838> BloodySmile used tool "stacker_improved"
+[Thu Apr 16 04:38:09 2026] <STEAM_0:1:54838838> BloodySmile used tool "stacker_improved"
+[Thu Apr 16 04:38:09 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [655][prop_physics] (models/crysis/barriers/concrete_wall/concrete_wall_base/concrete_wall_base_16m.mdl)"
+[Thu Apr 16 04:38:10 2026] <STEAM_0:1:54838838> BloodySmile used tool "stacker_improved"
+[Thu Apr 16 04:38:10 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [656][prop_physics] (models/crysis/barriers/concrete_wall/concrete_wall_base/concrete_wall_base_16m.mdl)"
+[Thu Apr 16 04:38:14 2026] <STEAM_0:1:54838838> BloodySmile used tool "stacker_improved"
+[Thu Apr 16 04:38:26 2026] <STEAM_0:1:54838838> BloodySmile used tool "stacker_improved"
+[Thu Apr 16 04:38:34 2026] <STEAM_0:1:54838838> BloodySmile used tool "stacker_improved"
+[Thu Apr 16 04:38:34 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [656][prop_physics] (models/crysis/barriers/concrete_wall/concrete_wall_base/concrete_wall_base_corner.mdl)"
+[Thu Apr 16 04:38:35 2026] <STEAM_0:1:54838838> BloodySmile used tool "stacker_improved"
+[Thu Apr 16 04:38:35 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [657][prop_physics] (models/crysis/barriers/concrete_wall/concrete_wall_base/concrete_wall_base_corner.mdl)"
+[Thu Apr 16 04:38:36 2026] <STEAM_0:1:54838838> BloodySmile used tool "stacker_improved"
+[Thu Apr 16 04:38:36 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [658][prop_physics] (models/crysis/barriers/concrete_wall/concrete_wall_base/concrete_wall_base_corner.mdl)"
+[Thu Apr 16 04:38:38 2026] <STEAM_0:1:54838838> BloodySmile used tool "stacker_improved"
+[Thu Apr 16 04:38:38 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [659][prop_physics] (models/crysis/barriers/concrete_wall/concrete_wall_base/concrete_wall_base_corner.mdl)"
+[Thu Apr 16 04:39:01 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [656][prop_physics] (models/crysis/barriers/concrete_wall/concrete_wall_base/concrete_wall_base_cornerb.mdl)"
+[Thu Apr 16 04:39:03 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [656][prop_physics] (models/crysis/barriers/concrete_wall/concrete_wall_base/concrete_wall_base_end.mdl)"
+[Thu Apr 16 04:39:09 2026] <STEAM_0:1:54838838> BloodySmile used tool "stacker_improved"
+[Thu Apr 16 04:39:09 2026] <STEAM_0:1:54838838> BloodySmile used tool "stacker_improved"
+[Thu Apr 16 04:39:10 2026] <STEAM_0:1:54838838> BloodySmile used tool "stacker_improved"
+[Thu Apr 16 04:39:10 2026] <STEAM_0:1:54838838> BloodySmile used tool "stacker_improved"
+[Thu Apr 16 04:39:16 2026] <STEAM_0:1:54838838> BloodySmile used tool "stacker_improved"
+[Thu Apr 16 04:39:16 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [656][prop_physics] (models/crysis/barriers/concrete_wall/concrete_wall_base/concrete_wall_base_16m.mdl)"
+[Thu Apr 16 04:39:27 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [657][prop_physics] (models/crysis/barriers/concrete_wall/concrete_wall_base/concrete_wall_base_16m_destroyed.mdl)"
+[Thu Apr 16 04:39:51 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [657][prop_physics] (models/crysis/barriers/concrete_wall/concrete_wall_15degl.mdl)"
+[Thu Apr 16 04:39:54 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [657][prop_physics] (models/crysis/barriers/concrete_wall/gate/gate_6m.mdl)"
+[Thu Apr 16 04:40:01 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [657][prop_physics] (models/crysis/barriers/concrete_wall/concrete_wall_base/concrete_wall_base_16m_destroyed.mdl)"
+[Thu Apr 16 04:40:24 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [659][prop_physics] (models/crysis/barriers/concrete_wall/concrete_wall_base/concrete_wall_base_corner.mdl)"
+[Thu Apr 16 04:40:31 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [659][prop_physics] (models/crysis/barriers/concrete_wall/concrete_wall_base/concrete_wall_base_8m_door.mdl)"
+[Thu Apr 16 04:40:34 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [660][prop_physics] (models/crysis/barriers/concrete_wall/concrete_wall_base/concrete_wall_base_8m_door.mdl)"
+[Thu Apr 16 04:40:46 2026] <STEAM_0:1:54838838> BloodySmile used tool "nocollide"
+[Thu Apr 16 04:40:46 2026] <STEAM_0:1:54838838> BloodySmile used tool "nocollide"
+[Thu Apr 16 04:41:08 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [659][prop_physics] (models/crysis/barriers/concrete_wall/concrete_wall_base/concrete_wall_base_2m.mdl)"
+[Thu Apr 16 04:41:11 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [659][prop_physics] (models/crysis/barriers/concrete_wall/concrete_wall_base/concrete_wall_base_4m_window.mdl)"
+[Thu Apr 16 04:41:16 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [659][prop_physics] (models/crysis/barriers/concrete_wall/concrete_wall_base/concrete_wall_base_cornerb.mdl)"
+[Thu Apr 16 04:41:18 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [660][prop_physics] (models/crysis/barriers/concrete_wall/concrete_wall_base/concrete_wall_base_corner.mdl)"
+[Thu Apr 16 04:41:24 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [659][prop_physics] (models/crysis/barriers/concrete_wall/concrete_wall_base/concrete_wall_base_16m.mdl)"
+[Thu Apr 16 04:41:44 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [660][prop_physics] (models/crysis/barriers/concrete_wall/concrete_wall_base/concrete_wall_base_end.mdl)"
+[Thu Apr 16 04:42:22 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [661][prop_physics] (models/crysis/barriers/concrete_wall/concrete_wall_base/concrete_wall_base_end.mdl)"
+[Thu Apr 16 04:42:24 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [661][prop_physics] (models/crysis/barriers/concrete_wall/concrete_wall_base/concrete_wall_base_corner.mdl)"
+[Thu Apr 16 04:42:45 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [662][prop_physics] (models/crysis/barriers/concrete_wall/concrete_wall_base/concrete_wall_base_16m_destroyedb.mdl)"
+[Thu Apr 16 04:42:47 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [663][prop_physics] (models/crysis/barriers/concrete_wall/concrete_wall_base/concrete_wall_base_16m_destroyedb.mdl)"
+[Thu Apr 16 04:42:52 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [662][prop_physics] (models/crysis/barriers/concrete_wall/concrete_wall_base/concrete_wall_base_cornerb.mdl)"
+[Thu Apr 16 04:43:16 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [664][prop_physics] (models/crysis/barriers/concrete_wall/concrete_wall_base/concrete_wall_base_end.mdl)"
+[Thu Apr 16 04:43:29 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [665][prop_physics] (models/crysis/barriers/concrete_wall/concrete_wall_base/concrete_wall_base_corner.mdl)"
+[Thu Apr 16 04:43:48 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [666][prop_physics] (models/crysis/barriers/concrete_wall/concrete_wall_base/concrete_wall_base_cornerb.mdl)"
+[Thu Apr 16 04:43:50 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [666][prop_physics] (models/crysis/barriers/concrete_wall/concrete_wall_base/concrete_wall_base_corner.mdl)"
+[Thu Apr 16 04:43:58 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [666][prop_physics] (models/crysis/barriers/concrete_wall/concrete_wall_base/concrete_wall_base_end.mdl)"
+[Thu Apr 16 04:44:07 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [667][prop_physics] (models/crysis/barriers/concrete_wall/concrete_wall_base/concrete_wall_base_corner.mdl)"
+[Thu Apr 16 04:44:11 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [668][prop_physics] (models/crysis/barriers/concrete_wall/concrete_wall_base/concrete_wall_base_cornerb.mdl)"
+[Thu Apr 16 04:44:16 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [667][prop_physics] (models/crysis/barriers/concrete_wall/concrete_wall_base/concrete_wall_base_cornerb.mdl)"
+[Thu Apr 16 04:44:20 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [669][prop_physics] (models/crysis/barriers/concrete_wall/concrete_wall_base/concrete_wall_base_end.mdl)"
+[Thu Apr 16 04:44:44 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [670][prop_physics] (models/crysis/barriers/concrete_wall/concrete_wall_base/concrete_wall_base_cornerb.mdl)"
+[Thu Apr 16 04:45:09 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [667][prop_physics] (models/crysis/barriers/sandbags/curve_big.mdl)"
+[Thu Apr 16 04:45:13 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [667][prop_physics] (models/crysis/barriers/sandbags/sandbag_big.mdl)"
+[Thu Apr 16 04:45:18 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [668][prop_physics] (models/crysis/barriers/sandbags/sandbag_big_structure_b.mdl)"
+[Thu Apr 16 04:45:23 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [669][prop_physics] (models/crysis/barriers/sandbags/sandbag_big_structure_f.mdl)"
+[Thu Apr 16 04:45:32 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [670][prop_physics] (models/crysis/barriers/sandbags/sandbag_big_structure_e.mdl)"
+[Thu Apr 16 04:45:40 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [671][prop_physics] (models/crysis/barriers/sandbags/support_big.mdl)"
+[Thu Apr 16 04:45:44 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Apr 16 04:45:45 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Apr 16 04:45:45 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Apr 16 04:45:46 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Apr 16 04:45:46 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Apr 16 04:45:55 2026] <STEAM_0:1:54838838> BloodySmile used tool "nocollide"
+[Thu Apr 16 04:46:27 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Apr 16 04:46:28 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Apr 16 04:46:28 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Apr 16 04:46:29 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Apr 16 04:46:30 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Apr 16 04:46:31 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Apr 16 04:46:32 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Apr 16 04:46:33 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Apr 16 04:46:34 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Apr 16 04:46:35 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Apr 16 04:46:36 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Apr 16 04:46:37 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Apr 16 04:46:38 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Apr 16 04:46:43 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Apr 16 04:46:45 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Apr 16 04:46:45 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Apr 16 04:46:45 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Apr 16 04:46:50 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [667][prop_physics] (models/crysis/barriers/sandbags/sandbag_big_structure_c.mdl)"
+[Thu Apr 16 04:46:56 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [668][prop_physics] (models/crysis/barriers/sandbags/sandbag_big_structure_d.mdl)"
+[Thu Apr 16 04:47:00 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [670][prop_physics] (models/crysis/barriers/sandbags/sandbag_big_structure_f.mdl)"
+[Thu Apr 16 04:47:03 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [670][prop_physics] (models/crysis/barriers/sandbags/sandbag_big_structure_f.mdl)"
+[Thu Apr 16 04:47:09 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [668][prop_physics] (models/crysis/barriers/sandbags/sandbag_big_structure_f.mdl)"
+[Thu Apr 16 04:47:29 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [673][prop_physics] (models/total_conflict/prop/fence/sm_fence_barbwire_corner.mdl)"
+[Thu Apr 16 04:47:33 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [673][prop_physics] (models/total_conflict/prop/dot/dot_02.mdl)"
+[Thu Apr 16 04:47:38 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [674][prop_physics] (models/total_conflict/prop/dot/dot_01.mdl)"
+[Thu Apr 16 04:47:49 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [674][prop_physics] (models/total_conflict/prop/dot/dot_01.mdl)"
+[Thu Apr 16 04:47:52 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [674][prop_physics] (models/total_conflict/prop/dot/dot_02.mdl)"
+[Thu Apr 16 04:48:05 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [675][prop_physics] (models/total_conflict/prop/dot/dot_02.mdl)"
+[Thu Apr 16 04:48:11 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [676][prop_physics] (models/total_conflict/prop/dot/dot_02.mdl)"
+[Thu Apr 16 04:48:13 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [677][prop_physics] (models/total_conflict/prop/dot/dot_01.mdl)"
+[Thu Apr 16 04:48:21 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [676][prop_physics] (models/crysis/barriers/sandbags/sandbag_big_structure_f.mdl)"
+[Thu Apr 16 04:48:25 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [678][prop_physics] (models/crysis/barriers/sandbags/sandbag_big_structure_f.mdl)"
+[Thu Apr 16 04:48:30 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [679][prop_physics] (models/crysis/barriers/sandbags/sandbag_big_structure_f.mdl)"
+[Thu Apr 16 04:48:37 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [680][prop_physics] (models/crysis/barriers/sandbags/sandbag_big_structure_e.mdl)"
+[Thu Apr 16 04:48:46 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [681][prop_physics] (models/crysis/barriers/tank_trap/tank_trap.mdl)"
+[Thu Apr 16 04:48:51 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [682][prop_physics] (models/crysis/barriers/tank_trap/tank_trap.mdl)"
+[Thu Apr 16 04:49:01 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [681][prop_physics] (models/total_conflict/prop/dot/dzot_05.mdl)"
+[Thu Apr 16 04:49:02 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [682][prop_physics] (models/total_conflict/prop/fence/sm_fence_barbwire.mdl)"
+[Thu Apr 16 04:49:03 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [681][prop_physics] (models/total_conflict/prop/fence/sm_fence_barbwire_corner.mdl)"
+[Thu Apr 16 04:49:04 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [682][prop_physics] (models/total_conflict/prop/wall/wall_big_wood.mdl)"
+[Thu Apr 16 04:49:05 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [681][prop_physics] (models/total_conflict/prop/wall/wall_big_wood_02.mdl)"
+[Thu Apr 16 04:49:09 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [681][prop_physics] (models/total_conflict/prop/des_veh/armata/t14_destroyed.mdl)"
+[Thu Apr 16 04:49:10 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [682][prop_physics] (models/total_conflict/prop/anti_tank/anti_tank.mdl)"
+[Thu Apr 16 04:49:14 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [681][prop_physics] (models/total_conflict/prop/anti_tank/anti_tank.mdl)"
+[Thu Apr 16 04:49:25 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:49:25 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:49:25 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:49:25 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:49:25 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:49:26 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:49:27 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:49:27 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:49:27 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:49:27 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:49:28 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:49:28 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:49:28 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:49:29 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:49:32 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:49:32 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:49:35 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:49:41 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:49:42 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:49:42 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:49:43 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:49:43 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:49:44 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:49:44 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:49:45 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:49:45 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:49:46 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:49:46 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:49:51 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:49:51 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:49:52 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:49:52 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:49:52 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:49:56 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Apr 16 04:49:56 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Apr 16 04:49:58 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Apr 16 04:50:00 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Apr 16 04:50:01 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Apr 16 04:50:04 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Apr 16 04:50:04 2026] Player "GrozaMakak" <STEAM_0:0:789619932> has spawned in the server
+[Thu Apr 16 04:50:05 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Apr 16 04:50:06 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Apr 16 04:50:07 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Apr 16 04:50:07 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Apr 16 04:50:08 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Apr 16 04:50:12 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:50:12 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:50:13 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:50:14 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:50:14 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:50:14 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:50:14 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:50:15 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:50:15 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:50:15 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:50:17 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:50:17 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:50:17 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:50:18 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:50:19 2026] Player "GrozaMakak" <STEAM_0:0:789619932> has left the server
+[Thu Apr 16 04:50:23 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Apr 16 04:50:29 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:50:30 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:50:30 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:50:30 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:50:30 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:50:31 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:50:31 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:50:35 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Apr 16 04:50:37 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Apr 16 04:50:41 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Apr 16 04:50:42 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Apr 16 04:50:44 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Apr 16 04:50:47 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Apr 16 04:50:49 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Apr 16 04:50:59 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Apr 16 04:50:59 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Apr 16 04:50:59 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Apr 16 04:51:00 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Apr 16 04:51:00 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Apr 16 04:51:00 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Apr 16 04:51:01 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Apr 16 04:51:02 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Apr 16 04:51:02 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Apr 16 04:51:04 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Apr 16 04:51:07 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Apr 16 04:51:13 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [662][prop_physics] (models/crysis/barriers/concrete_wall/wall_catwalk/wall_catwalk_800x_stairs.mdl)"
+[Thu Apr 16 04:51:15 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Apr 16 04:51:16 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Apr 16 04:51:19 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [678][prop_physics] (models/crysis/barriers/concrete_wall/wall_catwalk/wall_catwalk_800x_stairs.mdl)"
+[Thu Apr 16 04:51:20 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [682][prop_physics] (models/crysis/barriers/concrete_wall/wall_catwalk/wall_catwalk_800x_stairs.mdl)"
+[Thu Apr 16 04:51:40 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [678][prop_physics] (models/crysis/barriers/concrete_wall/wall_catwalk/wall_catwalk_end.mdl)"
+[Thu Apr 16 04:51:55 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [684][prop_physics] (models/crysis/barriers/concrete_wall/wall_catwalk/wall_catwalk_end.mdl)"
+[Thu Apr 16 04:52:28 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Apr 16 04:52:29 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Apr 16 04:52:31 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Apr 16 04:52:39 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [684][prop_physics] (models/crysis/barriers/boomgate/boomgate_a_open.mdl)"
+[Thu Apr 16 04:52:42 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [686][prop_physics] (models/crysis/barriers/boomgate/boomgate_b_box.mdl)"
+[Thu Apr 16 04:52:43 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [684][prop_physics] (models/crysis/barriers/boomgate/boomgate_b_plank.mdl)"
+[Thu Apr 16 04:52:46 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [684][prop_physics] (models/crysis/barriers/concrete_wall/concrete_wall_16m_c.mdl)"
+[Thu Apr 16 04:52:49 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [684][prop_physics] (models/crysis/barriers/razorwire/razorwire1_asian_corner.mdl)"
+[Thu Apr 16 04:52:58 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [684][prop_physics] (models/ninja/esp/fortification/hescobarrierfort.mdl)"
+[Thu Apr 16 04:53:16 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [684][prop_physics] (models/diggercars/m3a3/dead.mdl)"
+[Thu Apr 16 04:53:22 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [686][prop_physics] (models/diggercars/m3a3/turret.mdl)"
+[Thu Apr 16 04:53:36 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Apr 16 04:53:37 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Apr 16 04:53:44 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [682][prop_physics] (models/sw/ground/puma/puma_dmg.mdl)"
+[Thu Apr 16 04:53:54 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Apr 16 04:54:01 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [682][prop_physics] (models/diggercars/abrams_m1a1/ded.mdl)"
+[Thu Apr 16 04:54:09 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [682][prop_physics] (models/total_conflict/prop/dot/dot_01.mdl)"
+[Thu Apr 16 04:54:31 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:54:32 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:54:32 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:54:32 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:54:33 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:54:33 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:54:36 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:54:38 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 04:54:42 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Apr 16 04:54:47 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [690][prop_physics] (models/crysis/barriers/sandbags/sandbag_big_structure_e.mdl)"
+[Thu Apr 16 04:54:56 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [691][prop_physics] (models/crysis/barriers/sandbags/sandbag_big_structure_b.mdl)"
+[Thu Apr 16 04:55:11 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [691][prop_physics] (models/crysis/barriers/sandbags/sandbag_big_structure_e.mdl)"
+[Thu Apr 16 04:55:35 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [692][prop_physics] (models/vehicles/abrams_tub_burned.mdl)"
+[Thu Apr 16 04:55:39 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [693][prop_physics] (models/vehicles/abrams_turret_burned.mdl)"
+[Thu Apr 16 04:55:58 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Apr 16 04:55:59 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Apr 16 04:56:00 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Apr 16 04:56:00 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Apr 16 04:56:20 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [691][prop_physics] (models/props_se/gaz53/gaz53_box_b.mdl)"
+[Thu Apr 16 04:56:30 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [691][prop_physics] (models/props_se/gaz53/gaz53_box_a.mdl)"
+[Thu Apr 16 04:56:35 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [691][prop_physics] (models/props_wasteland/coolingtank02.mdl)"
+[Thu Apr 16 04:56:39 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [695][prop_physics] (models/props_wasteland/coolingtank02.mdl)"
+[Thu Apr 16 04:56:46 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [696][prop_physics] (models/props_wasteland/coolingtank02.mdl)"
+[Thu Apr 16 04:56:49 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Apr 16 04:56:50 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Apr 16 04:56:52 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Apr 16 04:56:59 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [695][prop_physics] (models/static_props/container_01_closed.mdl)"
+[Thu Apr 16 04:57:11 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [695][prop_physics] (models/static_props/container_01_closed.mdl)"
+[Thu Apr 16 04:57:19 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [695][prop_physics] (models/static_props/container_01_closed.mdl)"
+[Thu Apr 16 04:57:24 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [696][prop_physics] (models/static_props/container_01_closed.mdl)"
+[Thu Apr 16 04:57:32 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [699][prop_physics] (models/props_rooftop/rooftopcluser06a.mdl)"
+[Thu Apr 16 04:57:43 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Apr 16 04:57:44 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Apr 16 04:57:58 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [696][prop_physics] (models/props/de_train/de_train_horizontalcoolingtank.mdl)"
+[Thu Apr 16 04:58:04 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [700][prop_physics] (models/props/de_train/de_train_signalbox_01.mdl)"
+[Thu Apr 16 04:58:15 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [701][prop_physics] (models/props/de_train/acunit1.mdl)"
+[Thu Apr 16 04:58:17 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [701][prop_physics] (models/props/de_train/de_train_signalbox_01.mdl)"
+[Thu Apr 16 04:58:35 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Apr 16 04:58:35 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Apr 16 04:58:36 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Apr 16 04:58:44 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [700][prop_physics] (models/props/de_prodigy/ammo_can_03.mdl)"
+[Thu Apr 16 04:58:46 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [701][prop_physics] (models/props/de_prodigy/ammo_can_01.mdl)"
+[Thu Apr 16 04:58:49 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [704][prop_physics] (models/props/de_prodigy/ammo_can_03.mdl)"
+[Thu Apr 16 04:58:52 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [705][prop_physics] (models/props/de_prodigy/ammo_can_01.mdl)"
+[Thu Apr 16 04:58:55 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Apr 16 04:58:55 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Apr 16 04:58:55 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Apr 16 04:58:56 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Apr 16 04:59:03 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [700][prop_physics] (models/props/de_nuke/pipeset.mdl)"
+[Thu Apr 16 04:59:17 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [700][prop_physics] (models/props_pipes/pipe03_straight01_long.mdl)"
+[Thu Apr 16 04:59:21 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [700][prop_physics] (models/props_pipes/pipe03_straight01_long.mdl)"
+[Thu Apr 16 04:59:35 2026] <STEAM_0:1:54838838> BloodySmile used tool "stacker_improved"
+[Thu Apr 16 04:59:35 2026] <STEAM_0:1:54838838> BloodySmile used tool "stacker_improved"
+[Thu Apr 16 04:59:38 2026] <STEAM_0:1:54838838> BloodySmile used tool "stacker_improved"
+[Thu Apr 16 04:59:38 2026] <STEAM_0:1:54838838> BloodySmile used tool "stacker_improved"
+[Thu Apr 16 04:59:39 2026] <STEAM_0:1:54838838> BloodySmile used tool "stacker_improved"
+[Thu Apr 16 04:59:39 2026] <STEAM_0:1:54838838> BloodySmile used tool "stacker_improved"
+[Thu Apr 16 04:59:43 2026] <STEAM_0:1:54838838> BloodySmile used tool "stacker_improved"
+[Thu Apr 16 04:59:44 2026] <STEAM_0:1:54838838> BloodySmile used tool "stacker_improved"
+[Thu Apr 16 04:59:44 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [701][prop_physics] (models/props_pipes/pipe03_straight01_long.mdl)"
+[Thu Apr 16 04:59:53 2026] <STEAM_0:1:54838838> BloodySmile used tool "stacker_improved"
+[Thu Apr 16 04:59:53 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [705][prop_physics] (models/props_pipes/pipe03_straight01_long.mdl)"
+[Thu Apr 16 04:59:54 2026] <STEAM_0:1:54838838> BloodySmile used tool "stacker_improved"
+[Thu Apr 16 04:59:55 2026] <STEAM_0:1:54838838> BloodySmile used tool "stacker_improved"
+[Thu Apr 16 04:59:55 2026] <STEAM_0:1:54838838> BloodySmile used tool "stacker_improved"
+[Thu Apr 16 04:59:55 2026] <STEAM_0:1:54838838> BloodySmile used tool "stacker_improved"
+[Thu Apr 16 04:59:55 2026] <STEAM_0:1:54838838> BloodySmile used tool "stacker_improved"
+[Thu Apr 16 04:59:56 2026] <STEAM_0:1:54838838> BloodySmile used tool "stacker_improved"
+[Thu Apr 16 04:59:56 2026] <STEAM_0:1:54838838> BloodySmile used tool "stacker_improved"
+[Thu Apr 16 04:59:57 2026] <STEAM_0:1:54838838> BloodySmile used tool "stacker_improved"
+[Thu Apr 16 04:59:57 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [701][prop_physics] (models/props_pipes/pipe03_straight01_long.mdl)"
+[Thu Apr 16 05:00:01 2026] <STEAM_0:1:54838838> BloodySmile used tool "stacker_improved"
+[Thu Apr 16 05:00:01 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [701][prop_physics] (models/props_pipes/pipe03_straight01_long.mdl)"
+[Thu Apr 16 05:00:05 2026] <STEAM_0:1:54838838> BloodySmile used tool "stacker_improved"
+[Thu Apr 16 05:00:05 2026] <STEAM_0:1:54838838> BloodySmile used tool "stacker_improved"
+[Thu Apr 16 05:00:06 2026] <STEAM_0:1:54838838> BloodySmile used tool "stacker_improved"
+[Thu Apr 16 05:00:24 2026] <STEAM_0:1:54838838> BloodySmile used tool "stacker_improved"
+[Thu Apr 16 05:00:24 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [708][prop_physics] (models/props_pipes/pipe03_straight01_long.mdl)"
+[Thu Apr 16 05:00:26 2026] <STEAM_0:1:54838838> BloodySmile used tool "stacker_improved"
+[Thu Apr 16 05:00:26 2026] <STEAM_0:1:54838838> BloodySmile used tool "stacker_improved"
+[Thu Apr 16 05:00:26 2026] <STEAM_0:1:54838838> BloodySmile used tool "stacker_improved"
+[Thu Apr 16 05:00:27 2026] <STEAM_0:1:54838838> BloodySmile used tool "stacker_improved"
+[Thu Apr 16 05:00:27 2026] <STEAM_0:1:54838838> BloodySmile used tool "stacker_improved"
+[Thu Apr 16 05:00:27 2026] <STEAM_0:1:54838838> BloodySmile used tool "stacker_improved"
+[Thu Apr 16 05:00:27 2026] <STEAM_0:1:54838838> BloodySmile used tool "stacker_improved"
+[Thu Apr 16 05:00:28 2026] <STEAM_0:1:54838838> BloodySmile used tool "stacker_improved"
+[Thu Apr 16 05:00:32 2026] <STEAM_0:1:54838838> BloodySmile used tool "stacker_improved"
+[Thu Apr 16 05:00:32 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [709][prop_physics] (models/props_pipes/pipe03_straight01_long.mdl)"
+[Thu Apr 16 05:00:32 2026] <STEAM_0:1:54838838> BloodySmile used tool "stacker_improved"
+[Thu Apr 16 05:00:32 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [710][prop_physics] (models/props_pipes/pipe03_straight01_long.mdl)"
+[Thu Apr 16 05:00:36 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [712][prop_physics] (models/props_pipes/pipe03_90degree01.mdl)"
+[Thu Apr 16 05:01:46 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 05:01:46 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 05:01:47 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 05:01:47 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 05:01:47 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 05:01:47 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 05:01:48 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 05:01:48 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 05:01:48 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 05:01:48 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 05:01:49 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 05:01:49 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 05:01:49 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 05:01:49 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 05:01:49 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 05:01:50 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 05:01:50 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 05:01:50 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 05:01:51 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 05:01:52 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 05:01:52 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 05:01:55 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 05:01:55 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 05:01:55 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 05:01:56 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 05:01:56 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 05:01:56 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 05:01:56 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 05:01:57 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 05:02:00 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 05:02:01 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 05:02:02 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 05:02:02 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 05:02:03 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 05:02:03 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 05:02:03 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 05:02:03 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 05:02:04 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 05:02:04 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 05:02:04 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 05:02:04 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 05:02:05 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 05:02:05 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 05:02:05 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 05:02:06 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 05:02:06 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 05:02:06 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 05:02:09 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 05:02:16 2026] <STEAM_0:1:54838838> BloodySmile used tool "stacker_improved"
+[Thu Apr 16 05:02:16 2026] <STEAM_0:1:54838838> BloodySmile used tool "stacker_improved"
+[Thu Apr 16 05:02:16 2026] <STEAM_0:1:54838838> BloodySmile used tool "stacker_improved"
+[Thu Apr 16 05:02:23 2026] <STEAM_0:1:54838838> BloodySmile used tool "stacker_improved"
+[Thu Apr 16 05:02:23 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [711][prop_physics] (models/props_pipes/pipe03_90degree01.mdl)"
+[Thu Apr 16 05:02:30 2026] <STEAM_0:1:54838838> BloodySmile used tool "stacker_improved"
+[Thu Apr 16 05:02:30 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [711][prop_physics] (models/props_pipes/pipe03_90degree01.mdl)"
+[Thu Apr 16 05:02:57 2026] <STEAM_0:1:54838838> BloodySmile used tool "stacker_improved"
+[Thu Apr 16 05:02:57 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [713][prop_physics] (models/props_pipes/pipe03_straight01_long.mdl)"
+[Thu Apr 16 05:03:02 2026] <STEAM_0:1:54838838> BloodySmile used tool "stacker_improved"
+[Thu Apr 16 05:03:02 2026] <STEAM_0:1:54838838> BloodySmile used tool "stacker_improved"
+[Thu Apr 16 05:03:02 2026] <STEAM_0:1:54838838> BloodySmile used tool "stacker_improved"
+[Thu Apr 16 05:03:03 2026] <STEAM_0:1:54838838> BloodySmile used tool "stacker_improved"
+[Thu Apr 16 05:03:07 2026] <STEAM_0:1:54838838> BloodySmile used tool "stacker_improved"
+[Thu Apr 16 05:03:07 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [714][prop_physics] (models/props_pipes/pipe03_straight01_long.mdl)"
+[Thu Apr 16 05:03:08 2026] <STEAM_0:1:54838838> BloodySmile used tool "stacker_improved"
+[Thu Apr 16 05:03:08 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [715][prop_physics] (models/props_pipes/pipe03_straight01_long.mdl)"
+[Thu Apr 16 05:03:09 2026] <STEAM_0:1:54838838> BloodySmile used tool "stacker_improved"
+[Thu Apr 16 05:03:10 2026] <STEAM_0:1:54838838> BloodySmile used tool "stacker_improved"
+[Thu Apr 16 05:03:10 2026] <STEAM_0:1:54838838> BloodySmile used tool "stacker_improved"
+[Thu Apr 16 05:03:26 2026] <STEAM_0:1:54838838> BloodySmile used tool "stacker_improved"
+[Thu Apr 16 05:03:26 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [716][prop_physics] (models/props_pipes/pipe03_straight01_long.mdl)"
+[Thu Apr 16 05:03:28 2026] <STEAM_0:1:54838838> BloodySmile used tool "stacker_improved"
+[Thu Apr 16 05:03:28 2026] <STEAM_0:1:54838838> BloodySmile used tool "stacker_improved"
+[Thu Apr 16 05:03:29 2026] <STEAM_0:1:54838838> BloodySmile used tool "stacker_improved"
+[Thu Apr 16 05:03:32 2026] <STEAM_0:1:54838838> BloodySmile used tool "stacker_improved"
+[Thu Apr 16 05:03:32 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [717][prop_physics] (models/props_pipes/pipe03_straight01_long.mdl)"
+[Thu Apr 16 05:03:32 2026] <STEAM_0:1:54838838> BloodySmile used tool "stacker_improved"
+[Thu Apr 16 05:03:32 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [718][prop_physics] (models/props_pipes/pipe03_straight01_long.mdl)"
+[Thu Apr 16 05:03:39 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Apr 16 05:03:40 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Apr 16 05:03:41 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Apr 16 05:03:41 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Apr 16 05:03:42 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Apr 16 05:03:43 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Apr 16 05:03:43 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Apr 16 05:03:43 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Apr 16 05:03:44 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Apr 16 05:03:44 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Apr 16 05:03:47 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Apr 16 05:03:48 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Apr 16 05:03:49 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Apr 16 05:03:49 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Apr 16 05:03:50 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Apr 16 05:03:51 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Apr 16 05:04:05 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [713][prop_physics] (models/props/de_prodigy/wall_console1.mdl)"
+[Thu Apr 16 05:04:20 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 05:04:21 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 05:04:22 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Apr 16 05:04:23 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Apr 16 05:04:27 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [713][prop_physics] (models/props_se/gaz53/gaz53_box_b.mdl)"
+[Thu Apr 16 05:04:33 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [714][prop_physics] (models/props_se/gaz53/gaz53_box_b.mdl)"
+[Thu Apr 16 05:04:39 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [714][prop_physics] (models/props_se/gaz53/gaz53_box_b.mdl)"
+[Thu Apr 16 05:04:41 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [718][prop_physics] (models/props_se/gaz53/gaz53_box_b.mdl)"
+[Thu Apr 16 05:04:54 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [714][prop_physics] (models/props/de_prodigy/wall_console1.mdl)"
+[Thu Apr 16 05:05:03 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [722][prop_physics] (models/props/de_prodigy/wall_console1.mdl)"
+[Thu Apr 16 05:05:26 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [714][prop_physics] (models/props/de_prodigy/wall_console1.mdl)"
+[Thu Apr 16 05:05:32 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [722][prop_physics] (models/props/de_prodigy/wall_console1.mdl)"
+[Thu Apr 16 05:05:37 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 05:05:38 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 05:05:38 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 05:05:51 2026] <STEAM_0:1:54838838> BloodySmile used tool "stacker_improved"
+[Thu Apr 16 05:05:51 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [687][prop_physics] (models/props/de_prodigy/wall_console1.mdl)"
+[Thu Apr 16 05:05:54 2026] <STEAM_0:1:54838838> BloodySmile used tool "stacker_improved"
+[Thu Apr 16 05:05:54 2026] <STEAM_0:1:54838838> BloodySmile used tool "stacker_improved"
+[Thu Apr 16 05:05:54 2026] <STEAM_0:1:54838838> BloodySmile used tool "stacker_improved"
+[Thu Apr 16 05:06:09 2026] <STEAM_0:1:54838838> BloodySmile used tool "stacker_improved"
+[Thu Apr 16 05:06:09 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [722][prop_physics] (models/props/de_prodigy/wall_console1.mdl)"
+[Thu Apr 16 05:06:11 2026] <STEAM_0:1:54838838> BloodySmile used tool "stacker_improved"
+[Thu Apr 16 05:06:11 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [723][prop_physics] (models/props/de_prodigy/wall_console1.mdl)"
+[Thu Apr 16 05:06:22 2026] <STEAM_0:1:54838838> BloodySmile used tool "stacker_improved"
+[Thu Apr 16 05:06:22 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [687][prop_physics] (models/props/de_prodigy/wall_console1.mdl)"
+[Thu Apr 16 05:06:25 2026] <STEAM_0:1:54838838> BloodySmile used tool "stacker_improved"
+[Thu Apr 16 05:06:25 2026] <STEAM_0:1:54838838> BloodySmile used tool "stacker_improved"
+[Thu Apr 16 05:06:28 2026] <STEAM_0:1:54838838> BloodySmile used tool "remover"
+[Thu Apr 16 05:06:32 2026] <STEAM_0:1:54838838> BloodySmile used tool "stacker_improved"
+[Thu Apr 16 05:06:32 2026] <STEAM_0:1:54838838> BloodySmile used tool "stacker_improved"
+[Thu Apr 16 05:06:35 2026] <STEAM_0:1:54838838> BloodySmile used tool "stacker_improved"
+[Thu Apr 16 05:06:35 2026] <STEAM_0:1:54838838> BloodySmile used tool "stacker_improved"
+[Thu Apr 16 05:06:36 2026] <STEAM_0:1:54838838> BloodySmile used tool "stacker_improved"
+[Thu Apr 16 05:06:36 2026] <STEAM_0:1:54838838> BloodySmile used tool "stacker_improved"
+[Thu Apr 16 05:06:37 2026] <STEAM_0:1:54838838> BloodySmile used tool "stacker_improved"
+[Thu Apr 16 05:06:37 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [714][prop_physics] (models/props/de_prodigy/wall_console1.mdl)"
+[Thu Apr 16 05:06:49 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 05:06:49 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 05:06:50 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 05:07:03 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Apr 16 05:07:04 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Apr 16 05:07:05 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Apr 16 05:07:24 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [718][prop_physics] (models/props_se/propper/wood_crate_1.mdl)"
+[Thu Apr 16 05:07:26 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [724][prop_physics] (models/props_se/propper/wood_crate_1.mdl)"
+[Thu Apr 16 05:07:30 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [718][prop_physics] (models/props_se/propper/wood_crate_1.mdl)"
+[Thu Apr 16 05:07:50 2026] <STEAM_0:1:54838838> BloodySmile spawned effect "Entity [718][prop_effect] (models/props_foliage/cattails.mdl)"
+[Thu Apr 16 05:07:54 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [718][prop_physics] (models/propper/rp_military_play_d/military_play/rail_build_01.mdl)"
+[Thu Apr 16 05:08:06 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 05:08:08 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 05:08:13 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 05:08:16 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 05:08:20 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 05:08:21 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 05:08:21 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 05:08:23 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 05:08:30 2026] <STEAM_0:1:54838838> BloodySmile used tool "stacker_improved"
+[Thu Apr 16 05:08:45 2026] <STEAM_0:1:54838838> BloodySmile used tool "stacker_improved"
+[Thu Apr 16 05:08:45 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [687][prop_physics] (models/propper/rp_military_play_d/military_play/rail_build_01.mdl)"
+[Thu Apr 16 05:08:57 2026] <STEAM_0:1:54838838> BloodySmile used tool "stacker_improved"
+[Thu Apr 16 05:08:57 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [724][prop_physics] (models/propper/rp_military_play_d/military_play/rail_build_01.mdl)"
+[Thu Apr 16 05:09:09 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [725][prop_physics] (models/static_props/barrel_01_multiple.mdl)"
+[Thu Apr 16 05:09:13 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [726][prop_physics] (models/static_props/barrel_01_multiple.mdl)"
+[Thu Apr 16 05:09:18 2026] <STEAM_0:1:54838838> BloodySmile used tool "stacker_improved"
+[Thu Apr 16 05:09:18 2026] <STEAM_0:1:54838838> BloodySmile used tool "stacker_improved"
+[Thu Apr 16 05:09:19 2026] <STEAM_0:1:54838838> BloodySmile used tool "stacker_improved"
+[Thu Apr 16 05:09:22 2026] <STEAM_0:1:54838838> BloodySmile used tool "stacker_improved"
+[Thu Apr 16 05:09:22 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [725][prop_physics] (models/static_props/barrel_01_multiple.mdl)"
+[Thu Apr 16 05:09:23 2026] <STEAM_0:1:54838838> BloodySmile used tool "stacker_improved"
+[Thu Apr 16 05:09:23 2026] <STEAM_0:1:54838838> BloodySmile used tool "stacker_improved"
+[Thu Apr 16 05:09:24 2026] <STEAM_0:1:54838838> BloodySmile used tool "stacker_improved"
+[Thu Apr 16 05:09:24 2026] <STEAM_0:1:54838838> BloodySmile used tool "stacker_improved"
+[Thu Apr 16 05:09:25 2026] <STEAM_0:1:54838838> BloodySmile used tool "stacker_improved"
+[Thu Apr 16 05:09:25 2026] <STEAM_0:1:54838838> BloodySmile used tool "stacker_improved"
+[Thu Apr 16 05:09:25 2026] <STEAM_0:1:54838838> BloodySmile used tool "stacker_improved"
+[Thu Apr 16 05:09:26 2026] <STEAM_0:1:54838838> BloodySmile used tool "stacker_improved"
+[Thu Apr 16 05:09:27 2026] <STEAM_0:1:54838838> BloodySmile used tool "stacker_improved"
+[Thu Apr 16 05:09:27 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [727][prop_physics] (models/static_props/barrel_01_multiple.mdl)"
+[Thu Apr 16 05:09:36 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Apr 16 05:09:37 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Apr 16 05:09:37 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Apr 16 05:09:38 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Apr 16 05:09:39 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Apr 16 05:09:40 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Apr 16 05:09:42 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Apr 16 05:10:09 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [713][prop_physics] (models/props/cs_militia/silo_01.mdl)"
+[Thu Apr 16 05:10:39 2026] <STEAM_0:1:54838838> BloodySmile spawned effect "Entity [713][prop_effect] (models/props_buildings/destroyed_cityblock01g.mdl)"
+[Thu Apr 16 05:10:41 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [713][prop_physics] (models/props_buildings/building_002a.mdl)"
+[Thu Apr 16 05:11:02 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [724][prop_physics] (models/props_wasteland/rockcliff_cluster01b.mdl)"
+[Thu Apr 16 05:11:25 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [724][prop_physics] (models/props_wasteland/rockcliff_cluster02a.mdl)"
+[Thu Apr 16 05:11:33 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [730][prop_physics] (models/props_wasteland/rockcliff_cluster02c.mdl)"
+[Thu Apr 16 05:11:37 2026] <STEAM_0:1:54838838> BloodySmile spawned effect "Entity [731][prop_effect] (models/perftest/rocksground02a.mdl)"
+[Thu Apr 16 05:11:39 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [731][prop_physics] (models/props_wasteland/rockcliff_cluster02c.mdl)"
+[Thu Apr 16 05:11:40 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [732][prop_physics] (models/props_wasteland/rockcliff_cluster03a.mdl)"
+[Thu Apr 16 05:11:46 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [731][prop_physics] (models/props_wasteland/rockcliff_cluster01b.mdl)"
+[Thu Apr 16 05:11:56 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 05:11:56 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 05:11:57 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 05:11:57 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 05:11:59 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 05:12:00 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 05:12:02 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 05:12:03 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 05:12:04 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 05:12:05 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 05:12:06 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 05:12:14 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Apr 16 05:12:16 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Apr 16 05:12:17 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Apr 16 05:12:17 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Apr 16 05:12:35 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [730][prop_physics] (models/vehicles/humvee_destroyed.mdl)"
+[Thu Apr 16 05:12:49 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [734][prop_physics] (models/vehicles/civ_pickup.mdl)"
+[Thu Apr 16 05:12:54 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [735][prop_physics] (models/vehicles/pickup_truck_rockets.mdl)"
+[Thu Apr 16 05:12:56 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [736][prop_physics] (models/vehicles/humvee_destroyed.mdl)"
+[Thu Apr 16 05:12:57 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [735][prop_physics] (models/vehicles/civ_pickup.mdl)"
+[Thu Apr 16 05:12:59 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [735][prop_physics] (models/vehicles/civ_mercedes_damaged.mdl)"
+[Thu Apr 16 05:13:20 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Apr 16 05:13:20 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Apr 16 05:13:21 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Apr 16 05:13:36 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [730][prop_physics] (models/sw/ground/matv/matv.mdl)"
+[Thu Apr 16 05:13:39 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [730][prop_physics] (models/sw/ground/puma/puma_dmg.mdl)"
+[Thu Apr 16 05:13:52 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Apr 16 05:16:09 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [730][prop_physics] (models/cars/usa/hummer/humvee.mdl)"
+[Thu Apr 16 05:16:21 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [730][sw_bmp3]"
+[Thu Apr 16 05:16:22 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [814][sw_bmp2m]"
+[Thu Apr 16 05:16:27 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_aamloadout_editor_v3"
+[Thu Apr 16 05:16:31 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_aamloadout_editor_v3"
+[Thu Apr 16 05:16:34 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Thu Apr 16 05:16:36 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Thu Apr 16 05:17:13 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [730][sw_t90m_arena]"
+[Thu Apr 16 05:18:17 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [735][sw_t90m_arena]"
+[Thu Apr 16 05:18:50 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [815][sw_leo2a6m]"
+[Thu Apr 16 05:18:54 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [815][sw_t90m_arena]"
+[Thu Apr 16 05:20:57 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [893][sw_t90m]"
+[Thu Apr 16 05:21:37 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [975][sw_m3a3]"
+[Thu Apr 16 05:23:33 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [973][sw_puma]"
+[Thu Apr 16 05:23:49 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [973][sw_eitan]"
+[Thu Apr 16 05:23:54 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [1027][sw_t90m]"
+[Thu Apr 16 05:23:56 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [974][sw_leo2a6m]"
+[Thu Apr 16 05:23:57 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [976][sw_leo2a4]"
+[Thu Apr 16 05:23:59 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [1198][sw_leo2a4]"
+[Thu Apr 16 05:25:46 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [973][lvs_vehicle_repair]"
+[Thu Apr 16 05:26:12 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [735][sw_ah1z]"
+[Thu Apr 16 05:26:13 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [735][sw_ah1w]"
+[Thu Apr 16 05:26:13 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [738][sw_ah1s]"
+[Thu Apr 16 05:26:14 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [739][sw_ah1q]"
+[Thu Apr 16 05:26:14 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [735][sw_ah1g]"
+[Thu Apr 16 05:26:14 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [740][sw_ah1f]"
+[Thu Apr 16 05:26:15 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [738][sw_ah1e]"
+[Thu Apr 16 05:26:17 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [735][sw_mi24a]"
+[Thu Apr 16 05:26:19 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [768][sw_superhind]"
+[Thu Apr 16 05:26:24 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Thu Apr 16 05:26:25 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Thu Apr 16 05:26:25 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Thu Apr 16 05:26:27 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Thu Apr 16 05:26:28 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Thu Apr 16 05:26:30 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Thu Apr 16 05:26:33 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [735][sw_mi24v]"
+[Thu Apr 16 05:26:34 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Thu Apr 16 05:26:37 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Thu Apr 16 05:26:38 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Thu Apr 16 05:26:39 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Thu Apr 16 05:26:40 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Thu Apr 16 05:26:42 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Thu Apr 16 05:26:43 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Thu Apr 16 05:26:45 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Thu Apr 16 05:27:12 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [735][sw_mi35m]"
+[Thu Apr 16 05:27:13 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Thu Apr 16 05:27:16 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Thu Apr 16 05:27:20 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Thu Apr 16 05:27:22 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Thu Apr 16 05:27:30 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Thu Apr 16 05:27:32 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Thu Apr 16 05:28:13 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Thu Apr 16 05:28:15 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Thu Apr 16 05:28:16 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Thu Apr 16 05:28:18 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Thu Apr 16 05:28:20 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Thu Apr 16 05:28:21 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Thu Apr 16 05:28:23 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Thu Apr 16 05:28:24 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Thu Apr 16 05:28:26 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Thu Apr 16 05:28:27 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Thu Apr 16 05:28:31 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [735][sw_mi24a]"
+[Thu Apr 16 05:28:37 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [735][sw_mi24p]"
+[Thu Apr 16 05:28:37 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Thu Apr 16 05:28:43 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [735][sw_superhind]"
+[Thu Apr 16 05:29:13 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [735][sw_mi24a]"
+[Thu Apr 16 05:29:15 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [768][sw_mi24p]"
+[Thu Apr 16 05:29:22 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Thu Apr 16 05:29:24 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Thu Apr 16 05:29:26 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Thu Apr 16 05:30:20 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [735][sw_mi35m]"
+[Thu Apr 16 05:32:52 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [735][sw_mi24v]"
+[Thu Apr 16 05:33:06 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Thu Apr 16 05:33:40 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [735][sw_mi35m]"
+[Thu Apr 16 05:33:49 2026] <STEAM_0:1:54838838> BloodySmile used tool "nocollide"
+[Thu Apr 16 05:33:49 2026] <STEAM_0:1:54838838> BloodySmile used tool "nocollide"
+[Thu Apr 16 05:33:56 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [738][sw_mi35m]"
+[Thu Apr 16 05:33:57 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [739][sw_mi35m]"
+[Thu Apr 16 05:34:04 2026] <STEAM_0:1:54838838> BloodySmile used tool "remover"
+[Thu Apr 16 05:34:22 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [738][sw_uh60]"
+[Thu Apr 16 05:35:00 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [738][sw_leo2a6m]"
+[Thu Apr 16 05:35:24 2026] Player "BloodySmile" <STEAM_0:1:54838838> has left the server
+[Thu Apr 16 06:25:01 2026] Player "GrozaMakak" <STEAM_0:0:789619932> is attempting to connect.
+[Thu Apr 16 09:04:01 2026] Player "Pioner" <STEAM_0:1:923042528> is attempting to connect.
+[Thu Apr 16 09:07:42 2026] Player "Pioner" <STEAM_0:1:923042528> has spawned in the server
+[Thu Apr 16 09:17:06 2026] <STEAM_0:1:923042528> Pioner: 687437
+[Thu Apr 16 09:18:54 2026] <STEAM_0:1:923042528> Pioner: 687437
+[Thu Apr 16 09:22:46 2026] Player "Pioner" <STEAM_0:1:923042528> has left the server
+[Thu Apr 16 11:46:46 2026] Player "Po_rA1" <STEAM_0:0:887714123> is attempting to connect.
+[Thu Apr 16 11:48:08 2026] Player "Po_rA1" <STEAM_0:0:887714123> has spawned in the server
+[Thu Apr 16 12:00:04 2026] Player "АРБУЗИК" <STEAM_0:0:959824042> is attempting to connect.
+[Thu Apr 16 12:12:55 2026] Player "-SiMbiOZ- #kristalix" <STEAM_0:1:871942355> is attempting to connect.
+[Thu Apr 16 12:24:27 2026] Player "Po_rA1" <STEAM_0:0:887714123> has left the server
+[Thu Apr 16 13:40:38 2026] Player "Po_rA1" <STEAM_0:0:887714123> is attempting to connect.
+[Thu Apr 16 13:42:11 2026] Player "Po_rA1" <STEAM_0:0:887714123> has spawned in the server
+[Thu Apr 16 13:45:38 2026] <STEAM_0:0:887714123> Po_rA1: Внимание на квадрат: G1
+[Thu Apr 16 13:45:38 2026] <STEAM_0:0:887714123> Po_rA1: Внимание на квадрат: G1
+[Thu Apr 16 13:45:38 2026] <STEAM_0:0:887714123> Po_rA1: Внимание на квадрат: G1
+[Thu Apr 16 13:45:39 2026] <STEAM_0:0:887714123> Po_rA1: Внимание на квадрат: G1
+[Thu Apr 16 13:45:39 2026] <STEAM_0:0:887714123> Po_rA1: Внимание на квадрат: G1
+[Thu Apr 16 13:45:39 2026] <STEAM_0:0:887714123> Po_rA1: Внимание на квадрат: G1
+[Thu Apr 16 13:45:40 2026] <STEAM_0:0:887714123> Po_rA1: Внимание на квадрат: G1
+[Thu Apr 16 13:45:40 2026] <STEAM_0:0:887714123> Po_rA1: Внимание на квадрат: G1
+[Thu Apr 16 13:45:43 2026] <STEAM_0:0:887714123> Po_rA1: Внимание на квадрат: I8
+[Thu Apr 16 13:45:43 2026] <STEAM_0:0:887714123> Po_rA1: Внимание на квадрат: I8
+[Thu Apr 16 13:45:45 2026] <STEAM_0:0:887714123> Po_rA1: Внимание на квадрат: C6
+[Thu Apr 16 13:45:45 2026] <STEAM_0:0:887714123> Po_rA1: Внимание на квадрат: C6
+[Thu Apr 16 13:45:49 2026] <STEAM_0:0:887714123> Po_rA1: Внимание на квадрат: C4
+[Thu Apr 16 13:45:50 2026] <STEAM_0:0:887714123> Po_rA1: Внимание на квадрат: C4
+[Thu Apr 16 14:11:09 2026] Player "Po_rA1" <STEAM_0:0:887714123> has left the server
+[Thu Apr 16 14:57:21 2026] Player "Discar" <STEAM_0:0:650470378> is attempting to connect.
+[Thu Apr 16 14:58:16 2026] Player "Discar" <STEAM_0:0:650470378> has spawned in the server
+[Thu Apr 16 14:59:05 2026] <STEAM_0:0:650470378> Discar: Внимание на квадрат: C1
+[Thu Apr 16 14:59:05 2026] <STEAM_0:0:650470378> Discar: Внимание на квадрат: C1
+[Thu Apr 16 14:59:05 2026] <STEAM_0:0:650470378> Discar: Внимание на квадрат: C2
+[Thu Apr 16 14:59:06 2026] <STEAM_0:0:650470378> Discar: Внимание на квадрат: C2
+[Thu Apr 16 14:59:07 2026] <STEAM_0:0:650470378> Discar: Внимание на квадрат: C4
+[Thu Apr 16 14:59:07 2026] <STEAM_0:0:650470378> Discar: Внимание на квадрат: C4
+[Thu Apr 16 14:59:08 2026] <STEAM_0:0:650470378> Discar: Внимание на квадрат: C6
+[Thu Apr 16 14:59:08 2026] <STEAM_0:0:650470378> Discar: Внимание на квадрат: C6
+[Thu Apr 16 15:00:28 2026] Player "Discar" <STEAM_0:0:650470378> has left the server
+[Thu Apr 16 15:26:21 2026] Player "Discar" <STEAM_0:0:650470378> is attempting to connect.
+[Thu Apr 16 15:26:24 2026] Player "Casebook" <STEAM_0:0:585468466> is attempting to connect.
+[Thu Apr 16 15:27:20 2026] Player "Discar" <STEAM_0:0:650470378> has spawned in the server
+[Thu Apr 16 15:29:22 2026] Player "Casebook" <STEAM_0:0:585468466> has spawned in the server
+[Thu Apr 16 15:33:40 2026] Casebook has killed Discar.
+[Thu Apr 16 15:44:41 2026] Player "kamekadz.banzai" <STEAM_0:0:390862311> is attempting to connect.
+[Thu Apr 16 15:52:13 2026] Player "kamekadz.banzai" <STEAM_0:0:390862311> has spawned in the server
+[Thu Apr 16 15:52:32 2026] <STEAM_0:0:585468466> Casebook: /rf Заступил на пост вышка 2 код-1
+[Thu Apr 16 15:56:05 2026] worldspawn has killed Casebook.
+[Thu Apr 16 16:00:54 2026] <STEAM_0:0:390862311> kamekadz.banzai: /me я возьму листок
+[Thu Apr 16 16:07:22 2026] rgd5_srpnl has killed Discar.
+[Thu Apr 16 16:19:06 2026] Player "𝗺𝟏𝗿𝗮𝗰𝗹𝗲" <STEAM_0:0:869238922> is attempting to connect.
+[Thu Apr 16 16:24:58 2026] Player "Simple настаящi" <STEAM_0:1:795521724> is attempting to connect.
+[Thu Apr 16 16:26:26 2026] Player "Simple настаящi" <STEAM_0:1:795521724> has spawned in the server
+[Thu Apr 16 16:28:33 2026] Player "Po_rA1" <STEAM_0:0:887714123> is attempting to connect.
+[Thu Apr 16 16:28:41 2026] Player "𝗺𝟏𝗿𝗮𝗰𝗹𝗲" <STEAM_0:0:869238922> has spawned in the server
+[Thu Apr 16 16:29:24 2026] Player "Discar" <STEAM_0:0:650470378> has left the server
+[Thu Apr 16 16:29:26 2026] Player "Discar" <STEAM_0:0:650470378> is attempting to connect.
+[Thu Apr 16 16:30:05 2026] Player "Po_rA1" <STEAM_0:0:887714123> has spawned in the server
+[Thu Apr 16 16:30:07 2026] Player "Discar" <STEAM_0:0:650470378> has spawned in the server
+[Thu Apr 16 16:35:56 2026] Player "Креветка" <STEAM_0:1:942364657> is attempting to connect.
+[Thu Apr 16 16:35:57 2026] Player "Casebook" <STEAM_0:0:585468466> has left the server
+[Thu Apr 16 16:36:52 2026] Player "Casebook" <STEAM_0:0:585468466> is attempting to connect.
+[Thu Apr 16 16:37:54 2026] Player "Casebook" <STEAM_0:0:585468466> has spawned in the server
+[Thu Apr 16 16:39:39 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: /me снял ремень с пояса
+[Thu Apr 16 16:40:29 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: /me ударил металлической звездой по попе Дискарова
+[Thu Apr 16 16:40:48 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: /me ударил металлической звездой по попе Дискарова
+[Thu Apr 16 16:40:51 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: /me ударил металлической звездой по попе Дискарова
+[Thu Apr 16 16:40:52 2026] <STEAM_0:0:887714123> Po_rA1: /me достал телефон и включил видео
+[Thu Apr 16 16:40:53 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: /me ударил металлической звездой по попе Дискарова
+[Thu Apr 16 16:41:07 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: /me ударил металлической звездой по попе Дискарова
+[Thu Apr 16 16:41:36 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: /me ударил металлической звездой по попе Дискарова
+[Thu Apr 16 16:42:06 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: /me ударил металлической звездой по попе Дискарова
+[Thu Apr 16 16:42:17 2026] <STEAM_0:1:795521724> Simple настаящi: бу
+[Thu Apr 16 16:44:31 2026] Player "Casebook" <STEAM_0:0:585468466> has left the server
+[Thu Apr 16 16:45:16 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: /me надел ремень на штаны
+[Thu Apr 16 16:47:36 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: /rf Все в КХО
+[Thu Apr 16 16:48:43 2026] <STEAM_0:0:650470378> Discar: /rf Разрешите не явится,  я в санчасти отлеживаюсь на животе.
+[Thu Apr 16 16:49:27 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: /ME снял ремень с пояса
+[Thu Apr 16 16:49:39 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: /me снял ремень с пояса
+[Thu Apr 16 16:50:27 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: /me хлестанул по жопе Колесникова металлической звездой
+[Thu Apr 16 16:50:56 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: /me хлестанул по жопе Колесникова металлической звездой
+[Thu Apr 16 16:51:19 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: /me хлестанул по спине Колесникова металлической звездой
+[Thu Apr 16 16:52:08 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: /me хлестанул по спине Колесникова металлической звездой
+[Thu Apr 16 16:52:57 2026] Player "kamekadz.banzai" <STEAM_0:0:390862311> has left the server
+[Thu Apr 16 16:53:10 2026] Player "kamekadz.banzai" <STEAM_0:0:390862311> is attempting to connect.
+[Thu Apr 16 16:54:37 2026] Player "Casebook" <STEAM_0:0:585468466> is attempting to connect.
+[Thu Apr 16 16:54:39 2026] Player "kamekadz.banzai" <STEAM_0:0:390862311> has spawned in the server
+[Thu Apr 16 16:54:58 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: /rf Ладно, Колесников с тебя хватит
+[Thu Apr 16 16:55:44 2026] Player "Casebook" <STEAM_0:0:585468466> has spawned in the server
+[Thu Apr 16 16:56:33 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: /me вытащил пулю с патроны затем засупал соль
+[Thu Apr 16 16:58:17 2026] Player "Fimm-ᵛˢᵃᵈⁿᶦᵏ" <STEAM_0:0:627461691> is attempting to connect.
+[Thu Apr 16 17:00:28 2026] Player "Fimm-ᵛˢᵃᵈⁿᶦᵏ" <STEAM_0:0:627461691> has spawned in the server
+[Thu Apr 16 17:01:14 2026] Player "АРБУЗИК" <STEAM_0:0:959824042> is attempting to connect.
+[Thu Apr 16 17:02:43 2026] Player "Fimm-ᵛˢᵃᵈⁿᶦᵏ" <STEAM_0:0:627461691> has left the server
+[Thu Apr 16 17:02:49 2026] <STEAM_0:0:650470378> Discar: /ooc ААААА насилуют
+[Thu Apr 16 17:03:25 2026] Player "АРБУЗИК" <STEAM_0:0:959824042> is attempting to connect.
+[Thu Apr 16 17:03:30 2026] kamekadz.banzai has killed Simple настаящi.
+[Thu Apr 16 17:06:41 2026] Player "АРБУЗИК" <STEAM_0:0:959824042> is attempting to connect.
+[Thu Apr 16 17:06:48 2026] Player "АРБУЗИК" <STEAM_0:0:959824042> is attempting to connect.
+[Thu Apr 16 17:08:48 2026] Player "Креветка" <STEAM_0:1:942364657> is attempting to connect.
+[Thu Apr 16 17:09:46 2026] Player "Креветка" <STEAM_0:1:942364657> has spawned in the server
+[Thu Apr 16 17:11:00 2026] <STEAM_0:1:942364657> Креветка: Внимание на квадрат: H8
+[Thu Apr 16 17:11:01 2026] <STEAM_0:1:942364657> Креветка: Внимание на квадрат: H8
+[Thu Apr 16 17:12:23 2026] Player "АРБУЗИК" <STEAM_0:0:959824042> has spawned in the server
+[Thu Apr 16 17:12:32 2026] <STEAM_0:0:887714123> Po_rA1: /me достал телефон и включил видео
+[Thu Apr 16 17:12:42 2026] Player "Креветка" <STEAM_0:1:942364657> has left the server
+[Thu Apr 16 17:13:03 2026] <STEAM_0:0:887714123> Po_rA1: /me Заварил дверь в изолятор
+[Thu Apr 16 17:14:31 2026] <STEAM_0:0:959824042> АРБУЗИК: jkrfkjyrf
+[Thu Apr 16 17:14:38 2026] <STEAM_0:0:959824042> АРБУЗИК: о калонка
+[Thu Apr 16 17:14:45 2026] <STEAM_0:0:959824042> АРБУЗИК: калонк
+[Thu Apr 16 17:15:07 2026] <STEAM_0:0:959824042> АРБУЗИК: колонка
+[Thu Apr 16 17:15:17 2026] <STEAM_0:0:959824042> АРБУЗИК: включайся
+[Thu Apr 16 17:15:50 2026] Po_rA1 has killed kamekadz.banzai.
+[Thu Apr 16 17:15:54 2026] <STEAM_0:0:959824042> АРБУЗИК: калонка
+[Thu Apr 16 17:15:59 2026] <STEAM_0:0:959824042> АРБУЗИК: включайся
+[Thu Apr 16 17:16:11 2026] <STEAM_0:0:959824042> АРБУЗИК: пошли
+[Thu Apr 16 17:16:49 2026] <STEAM_0:0:959824042> АРБУЗИК: калонка
+[Thu Apr 16 17:16:59 2026] <STEAM_0:0:959824042> АРБУЗИК: включайся
+[Thu Apr 16 17:17:05 2026] <STEAM_0:0:959824042> АРБУЗИК: бракованая
+[Thu Apr 16 17:17:40 2026] <STEAM_0:0:959824042> АРБУЗИК: пошли
+[Thu Apr 16 17:17:51 2026] Po_rA1 has killed kamekadz.banzai.
+[Thu Apr 16 17:17:57 2026] <STEAM_0:0:959824042> АРБУЗИК: да
+[Thu Apr 16 17:18:23 2026] <STEAM_0:0:887714123> Po_rA1: /me Пинаю псковского
+[Thu Apr 16 17:18:25 2026] <STEAM_0:0:959824042> АРБУЗИК: можно
+[Thu Apr 16 17:18:40 2026] <STEAM_0:0:959824042> АРБУЗИК: калонка
+[Thu Apr 16 17:18:46 2026] <STEAM_0:0:959824042> АРБУЗИК: включайся
+[Thu Apr 16 17:18:58 2026] <STEAM_0:0:959824042> АРБУЗИК: воооооооъ
+[Thu Apr 16 17:19:11 2026] <STEAM_0:0:650470378> Discar: /rp приварил дверь в изолятор
+[Thu Apr 16 17:19:19 2026] <STEAM_0:0:959824042> АРБУЗИК: оооооооооооооооооооооооооооооооооооооо
+[Thu Apr 16 17:19:25 2026] <STEAM_0:0:959824042> АРБУЗИК: еще калонка
+[Thu Apr 16 17:19:28 2026] <STEAM_0:0:585468466> Casebook: /rp приварил дверь к раме
+[Thu Apr 16 17:19:43 2026] <STEAM_0:0:585468466> Casebook: /rp приварил дверь к раме
+[Thu Apr 16 17:19:46 2026] <STEAM_0:0:650470378> Discar: /rp приварил дверь в изолятор
+[Thu Apr 16 17:19:47 2026] <STEAM_0:0:959824042> АРБУЗИК: эммммм
+[Thu Apr 16 17:19:54 2026] <STEAM_0:0:959824042> АРБУЗИК: ему не надо
+[Thu Apr 16 17:20:00 2026] <STEAM_0:0:959824042> АРБУЗИК: он хорощий
+[Thu Apr 16 17:20:17 2026] <STEAM_0:0:959824042> АРБУЗИК: мне его
+[Thu Apr 16 17:20:39 2026] <STEAM_0:0:959824042> АРБУЗИК: не надо он хорощий
+[Thu Apr 16 17:21:02 2026] <STEAM_0:0:959824042> АРБУЗИК: открыть
+[Thu Apr 16 17:21:07 2026] Player "༒︎シ︎ʰᵉⁿᵗᵃⁱシ" <STEAM_0:0:851601344> is attempting to connect.
+[Thu Apr 16 17:21:07 2026] <STEAM_0:0:959824042> АРБУЗИК: шучу
+[Thu Apr 16 17:21:21 2026] <STEAM_0:0:959824042> АРБУЗИК: щас
+[Thu Apr 16 17:21:27 2026] <STEAM_0:0:390862311> kamekadz.banzai: /me проталкиваю дверья, плохая сварка не выдержала и треснула
+[Thu Apr 16 17:21:36 2026] <STEAM_0:0:959824042> АРБУЗИК: стойе
+[Thu Apr 16 17:21:45 2026] <STEAM_0:0:959824042> АРБУЗИК: стойте
+[Thu Apr 16 17:21:47 2026] rgd5_srpnl has killed Casebook.
+[Thu Apr 16 17:22:06 2026] Simple настаящi has killed kamekadz.banzai.
+[Thu Apr 16 17:22:08 2026] Simple настаящi has killed 𝗺𝟏𝗿𝗮𝗰𝗹𝗲.
+[Thu Apr 16 17:22:08 2026] <STEAM_0:0:887714123> Po_rA1: /ooc Ало выпустите\
+[Thu Apr 16 17:22:36 2026] <STEAM_0:0:959824042> АРБУЗИК: а откройте мне камеру 3
+[Thu Apr 16 17:23:03 2026] <STEAM_0:0:390862311> kamekadz.banzai: /ooc сука только попрогбуйте всем ебалу сломаю кто зайдёт в изолятор
+[Thu Apr 16 17:23:13 2026] <STEAM_0:0:959824042> АРБУЗИК: стойте
+[Thu Apr 16 17:23:18 2026] <STEAM_0:0:959824042> АРБУЗИК: открой 3
+[Thu Apr 16 17:23:22 2026] <STEAM_0:0:959824042> АРБУЗИК: камеру
+[Thu Apr 16 17:23:50 2026] <STEAM_0:0:959824042> АРБУЗИК: хорощий
+[Thu Apr 16 17:23:55 2026] <STEAM_0:0:959824042> АРБУЗИК: не я тут
+[Thu Apr 16 17:24:08 2026] <STEAM_0:0:959824042> АРБУЗИК: да
+[Thu Apr 16 17:24:12 2026] <STEAM_0:0:959824042> АРБУЗИК: спасибо
+[Thu Apr 16 17:24:37 2026] <STEAM_0:0:959824042> АРБУЗИК: ну я не знаю
+[Thu Apr 16 17:24:56 2026] <STEAM_0:0:959824042> АРБУЗИК: да норм перезайди прост и все
+[Thu Apr 16 17:24:58 2026] <STEAM_0:0:959824042> АРБУЗИК: нет
+[Thu Apr 16 17:25:00 2026] Player "༒︎シ︎ʰᵉⁿᵗᵃⁱシ" <STEAM_0:0:851601344> has spawned in the server
+[Thu Apr 16 17:25:03 2026] <STEAM_0:0:959824042> АРБУЗИК: не надо
+[Thu Apr 16 17:25:47 2026] kamekadz.banzai has killed АРБУЗИК.
+[Thu Apr 16 17:25:52 2026] <STEAM_0:0:959824042> АРБУЗИК: не
+[Thu Apr 16 17:25:59 2026] <STEAM_0:0:959824042> АРБУЗИК: выличете
+[Thu Apr 16 17:26:02 2026] rgd5_srpnl has killed Po_rA1.
+[Thu Apr 16 17:27:10 2026] <STEAM_0:0:585468466> Casebook: /rp приварил дверь к раме
+[Thu Apr 16 17:27:29 2026] kamekadz.banzai has killed Po_rA1.
+[Thu Apr 16 17:27:32 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Discar.
+[Thu Apr 16 17:27:35 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed АРБУЗИК.
+[Thu Apr 16 17:28:56 2026] Player "Casebook" <STEAM_0:0:585468466> has left the server
+[Thu Apr 16 17:29:12 2026] <STEAM_0:0:959824042> АРБУЗИК: я пройду
+[Thu Apr 16 17:29:24 2026] <STEAM_0:0:959824042> АРБУЗИК: ладно
+[Thu Apr 16 17:29:32 2026] <STEAM_0:0:959824042> АРБУЗИК: спасибо
+[Thu Apr 16 17:29:34 2026] <STEAM_0:0:887714123> Po_rA1: /me Пинаю псковского
+[Thu Apr 16 17:29:42 2026] <STEAM_0:0:959824042> АРБУЗИК: я и не хотел
+[Thu Apr 16 17:29:57 2026] <STEAM_0:0:959824042> АРБУЗИК: пустите
+[Thu Apr 16 17:30:12 2026] <STEAM_0:0:959824042> АРБУЗИК: я помогу
+[Thu Apr 16 17:30:26 2026] <STEAM_0:0:887714123> Po_rA1: /ooc SOS
+[Thu Apr 16 17:30:26 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "hp Ангел 10000"
+[Thu Apr 16 17:30:42 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed АРБУЗИК.
+[Thu Apr 16 17:30:43 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed kamekadz.banzai.
+[Thu Apr 16 17:31:15 2026] <STEAM_0:0:959824042> АРБУЗИК: а
+[Thu Apr 16 17:31:24 2026] Po_rA1 has killed kamekadz.banzai.
+[Thu Apr 16 17:31:47 2026] Player "korask2" <STEAM_0:0:212596445> is attempting to connect.
+[Thu Apr 16 17:31:54 2026] <STEAM_0:0:959824042> АРБУЗИК: а можете мне дать молот
+[Thu Apr 16 17:31:55 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [673][lvs_helicopter_rebel]"
+[Thu Apr 16 17:32:02 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [620][lvs_helicopter_rebel]"
+[Thu Apr 16 17:32:11 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [820][lvs_helicopter_rebel]"
+[Thu Apr 16 17:32:13 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [819][lvs_helicopter_rebel]"
+[Thu Apr 16 17:32:15 2026] <STEAM_0:0:959824042> АРБУЗИК: я молот хочу
+[Thu Apr 16 17:32:18 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [908][lvs_helicopter_rebel]"
+[Thu Apr 16 17:32:20 2026] <STEAM_0:0:887714123> Po_rA1: /ooc МИ есть
+[Thu Apr 16 17:32:23 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [819][lvs_helicopter_rebel]"
+[Thu Apr 16 17:32:49 2026] <STEAM_0:0:959824042> АРБУЗИК: а можешь молот создать
+[Thu Apr 16 17:33:10 2026] rgd5_srpnl has killed 𝗺𝟏𝗿𝗮𝗰𝗹𝗲.
+[Thu Apr 16 17:33:12 2026] <STEAM_0:0:887714123> Po_rA1: /ooc Ангел. глянь вертолеты МИ
+[Thu Apr 16 17:33:21 2026] <STEAM_0:0:959824042> АРБУЗИК: ангнл
+[Thu Apr 16 17:33:29 2026] <STEAM_0:0:959824042> АРБУЗИК: ангел
+[Thu Apr 16 17:33:38 2026] <STEAM_0:0:959824042> АРБУЗИК: а можно молот
+[Thu Apr 16 17:33:47 2026] 𝗺𝟏𝗿𝗮𝗰𝗹𝗲 has killed Discar.
+[Thu Apr 16 17:33:52 2026] <STEAM_0:0:959824042> АРБУЗИК: жаль
+[Thu Apr 16 17:33:55 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [635][sw_matv_mk19]"
+[Thu Apr 16 17:33:59 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [635][sw_vdvbuggy]"
+[Thu Apr 16 17:34:04 2026] 𝗺𝟏𝗿𝗮𝗰𝗹𝗲 has killed 𝗺𝟏𝗿𝗮𝗰𝗹𝗲.
+[Thu Apr 16 17:34:09 2026] <STEAM_0:0:959824042> АРБУЗИК: ахахахаха
+[Thu Apr 16 17:34:44 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [155][lvs_helicopter_combine]"
+[Thu Apr 16 17:34:53 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [73][lvs_helicopter_combine]"
+[Thu Apr 16 17:35:03 2026] <STEAM_0:0:887714123> Po_rA1: /ooc Опять нет техники
+[Thu Apr 16 17:35:04 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed АРБУЗИК.
+[Thu Apr 16 17:35:18 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [156][lvs_helicopter_combine]"
+[Thu Apr 16 17:35:23 2026] worldspawn has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Thu Apr 16 17:35:30 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "respawn Ангел"
+[Thu Apr 16 17:35:36 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [73][lvs_helicopter_combinegunship]"
+[Thu Apr 16 17:35:40 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [73][lvs_helicopter_combinegunship]"
+[Thu Apr 16 17:35:43 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [73][lvs_helicopter_combinegunship]"
+[Thu Apr 16 17:35:48 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [73][lvs_helicopter_combinegunship]"
+[Thu Apr 16 17:35:54 2026] kamekadz.banzai has killed Po_rA1.
+[Thu Apr 16 17:35:54 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [175][lvs_helicopter_combinegunship]"
+[Thu Apr 16 17:35:58 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [241][lvs_helicopter_combinegunship]"
+[Thu Apr 16 17:35:59 2026] Player "Po_rA1" <STEAM_0:0:887714123> has left the server
+[Thu Apr 16 17:36:11 2026] kamekadz.banzai has killed Discar.
+[Thu Apr 16 17:36:31 2026] kamekadz.banzai has killed АРБУЗИК.
+[Thu Apr 16 17:36:42 2026] Player "АРБУЗИК" <STEAM_0:0:959824042> has left the server
+[Thu Apr 16 17:37:07 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed kamekadz.banzai.
+[Thu Apr 16 17:37:33 2026] Player "Simple настаящi" <STEAM_0:1:795521724> has left the server
+[Thu Apr 16 17:38:14 2026] Player "korask2" <STEAM_0:0:212596445> has spawned in the server
+[Thu Apr 16 17:38:36 2026] Player "⚠️⇝VeLeS⇝⚠" <STEAM_0:1:800154607> is attempting to connect.
+[Thu Apr 16 17:39:26 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Discar.
+[Thu Apr 16 17:39:34 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed kamekadz.banzai.
+[Thu Apr 16 17:40:33 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Discar.
+[Thu Apr 16 17:41:11 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed kamekadz.banzai.
+[Thu Apr 16 17:41:34 2026] Discar has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Thu Apr 16 17:41:42 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "respawn Ангел"
+[Thu Apr 16 17:42:01 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed kamekadz.banzai.
+[Thu Apr 16 17:42:15 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "hp Ангел 1000"
+[Thu Apr 16 17:42:30 2026] Player "𝗺𝟏𝗿𝗮𝗰𝗹𝗲" <STEAM_0:0:869238922> has left the server
+[Thu Apr 16 17:42:45 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Discar.
+[Thu Apr 16 17:42:55 2026] kamekadz.banzai has killed Discar.
+[Thu Apr 16 17:42:56 2026] Discar has killed Discar.
+[Thu Apr 16 17:43:33 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed kamekadz.banzai.
+[Thu Apr 16 17:43:42 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "hp Ангел 1000"
+[Thu Apr 16 17:44:44 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [186][lvs_helicopter_combine]"
+[Thu Apr 16 17:44:47 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [186][lvs_helicopter_combine]"
+[Thu Apr 16 17:45:33 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [186][lvs_helicopter_combine]"
+[Thu Apr 16 17:45:35 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [193][lvs_helicopter_combine]"
+[Thu Apr 16 17:45:41 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ un-froze (reloaded) using the physgun
+[Thu Apr 16 17:47:20 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [186][sw_vdvbuggy]"
+[Thu Apr 16 17:47:28 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [186][sw_vdvbuggy]"
+[Thu Apr 16 17:47:35 2026] Player "⚠️⇝VeLeS⇝⚠" <STEAM_0:1:800154607> has spawned in the server
+[Thu Apr 16 17:47:46 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [186][sw_vdvbuggy]"
+[Thu Apr 16 17:48:05 2026] Player "Casebook" <STEAM_0:0:585468466> is attempting to connect.
+[Thu Apr 16 17:48:44 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed kamekadz.banzai.
+[Thu Apr 16 17:48:57 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [164][lvs_helicopter_rebel]"
+[Thu Apr 16 17:49:04 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [186][lvs_helicopter_rebel]"
+[Thu Apr 16 17:49:09 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [212][lvs_helicopter_rebel]"
+[Thu Apr 16 17:49:11 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [186][lvs_helicopter_rebel]"
+[Thu Apr 16 17:49:12 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [211][lvs_helicopter_rebel]"
+[Thu Apr 16 17:49:16 2026] Player "Casebook" <STEAM_0:0:585468466> has spawned in the server
+[Thu Apr 16 17:49:21 2026] <STEAM_0:1:800154607> ⚠️⇝VeLeS⇝⚠: /me исполнил воинское приветствие
+[Thu Apr 16 17:49:24 2026] <STEAM_0:0:212596445> korask2: HI
+[Thu Apr 16 17:53:42 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Discar.
+[Thu Apr 16 17:54:01 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "respawn Дискаров"
+[Thu Apr 16 17:54:10 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [216][lvs_helicopter_rebel]"
+[Thu Apr 16 17:54:17 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [216][lvs_helicopter_combine]"
+[Thu Apr 16 17:54:18 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [264][lvs_helicopter_rebel]"
+[Thu Apr 16 17:55:13 2026] <STEAM_0:0:212596445> korask2: thx sir
+[Thu Apr 16 17:55:17 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Discar.
+[Thu Apr 16 17:55:35 2026] Casebook has killed Discar.
+[Thu Apr 16 17:55:48 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Thu Apr 16 17:55:48 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [216][sw_bomb_fab9000m54_v3]"
+[Thu Apr 16 17:55:52 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed kamekadz.banzai.
+[Thu Apr 16 17:55:52 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Casebook.
+[Thu Apr 16 17:56:35 2026] <STEAM_0:0:390862311> kamekadz.banzai: /ooc ну сука
+[Thu Apr 16 17:56:54 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed kamekadz.banzai.
+[Thu Apr 16 17:57:13 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed kamekadz.banzai.
+[Thu Apr 16 17:57:45 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed kamekadz.banzai.
+[Thu Apr 16 17:57:59 2026] Player "⚠️⇝VeLeS⇝⚠" <STEAM_0:1:800154607> has left the server
+[Thu Apr 16 17:59:25 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed kamekadz.banzai.
+[Thu Apr 16 17:59:26 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Discar.
+[Thu Apr 16 17:59:37 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Casebook.
+[Thu Apr 16 18:00:03 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "send Псковский "
+[Thu Apr 16 18:00:06 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "send Дискаров"
+[Thu Apr 16 18:00:10 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "send Калашников"
+[Thu Apr 16 18:00:32 2026] Player ". ." <STEAM_0:1:549687868> is attempting to connect.
+[Thu Apr 16 18:00:51 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed kamekadz.banzai.
+[Thu Apr 16 18:01:01 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Casebook.
+[Thu Apr 16 18:01:03 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Discar.
+[Thu Apr 16 18:01:08 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "respawn Псковский "
+[Thu Apr 16 18:01:12 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "respawn Калашников"
+[Thu Apr 16 18:01:14 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "respawn Дискаров"
+[Thu Apr 16 18:01:19 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "respawn Ангел"
+[Thu Apr 16 18:02:26 2026] kamekadz.banzai has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Thu Apr 16 18:02:28 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "respawn Ангел"
+[Thu Apr 16 18:02:55 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed kamekadz.banzai.
+[Thu Apr 16 18:03:24 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Casebook.
+[Thu Apr 16 18:03:33 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Thu Apr 16 18:03:33 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [83][sw_bomb_fab9000m54_v3]"
+[Thu Apr 16 18:03:35 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Thu Apr 16 18:03:36 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Thu Apr 16 18:03:37 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Thu Apr 16 18:03:37 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [85][sw_rocket_kh29t_v3]"
+[Thu Apr 16 18:03:38 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Discar.
+[Thu Apr 16 18:03:45 2026] Player "༒︎シ︎ʰᵉⁿᵗᵃⁱシ" <STEAM_0:0:851601344> has left the server
+[Thu Apr 16 18:03:57 2026] Player "Casebook" <STEAM_0:0:585468466> has left the server
+[Thu Apr 16 18:04:38 2026] Player "korask2" <STEAM_0:0:212596445> has left the server
+[Thu Apr 16 18:04:39 2026] Player "Discar" <STEAM_0:0:650470378> has left the server
+[Thu Apr 16 18:06:35 2026] Player "kamekadz.banzai" <STEAM_0:0:390862311> has left the server
+[Thu Apr 16 18:09:07 2026] Player "Be6a" <STEAM_0:0:926636983> is attempting to connect.
+[Thu Apr 16 18:21:28 2026] Player "savage schizophrenic" <STEAM_0:1:582371689> is attempting to connect.
+[Thu Apr 16 18:23:15 2026] Player "savage schizophrenic" <STEAM_0:1:582371689> has spawned in the server
+[Thu Apr 16 18:25:11 2026] <STEAM_0:1:582371689> savage schizophrenic: /punch
+[Thu Apr 16 18:25:11 2026] <STEAM_0:1:582371689> savage schizophrenic: /punch
+[Thu Apr 16 18:31:47 2026] <STEAM_0:1:582371689> savage schizophrenic: 7.5
+[Thu Apr 16 18:38:37 2026] Player "savage schizophrenic" <STEAM_0:1:582371689> has left the server
+[Thu Apr 16 20:26:46 2026] Player "༒︎シ︎ʰᵉⁿᵗᵃⁱシ" <STEAM_0:0:851601344> is attempting to connect.
+[Thu Apr 16 20:27:10 2026] Player "gREG4IK" <STEAM_0:1:455594560> is attempting to connect.
+[Thu Apr 16 20:28:28 2026] Player "༒︎シ︎ʰᵉⁿᵗᵃⁱシ" <STEAM_0:0:851601344> has spawned in the server
+[Thu Apr 16 20:30:48 2026] Player "gREG4IK" <STEAM_0:1:455594560> has spawned in the server
+[Thu Apr 16 20:31:18 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [78][sw_eitan]"
+[Thu Apr 16 20:32:41 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [168][lvs_wheeldrive_m3a3]"
+[Thu Apr 16 20:32:43 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [231][lvs_wheeldrive_m3a3]"
+[Thu Apr 16 20:33:09 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [168][lvs_wheeldrive_dabrams_m1a1]"
+[Thu Apr 16 20:34:19 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [168][sw_leo2a6m]"
+[Thu Apr 16 20:35:18 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [78][sw_t90m_arena]"
+[Thu Apr 16 20:35:52 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [78][sw_superhind]"
+[Thu Apr 16 20:35:57 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [92][sw_mi24p]"
+[Thu Apr 16 20:36:29 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [78][sw_mi24a]"
+[Thu Apr 16 20:36:34 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [131][sw_mi24a]"
+[Thu Apr 16 20:36:50 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Thu Apr 16 20:36:50 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [94][sw_mi24a]"
+[Thu Apr 16 20:37:36 2026] worldspawn has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Thu Apr 16 20:37:47 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "respawn Ангел"
+[Thu Apr 16 20:37:54 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [78][sw_ah1g]"
+[Thu Apr 16 20:37:56 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [78][sw_mi35m]"
+[Thu Apr 16 20:38:02 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [78][sw_kamaz5350_2b26]"
+[Thu Apr 16 20:38:35 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: Внимание на квадрат: F5
+[Thu Apr 16 20:38:35 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: Внимание на квадрат: F5
+[Thu Apr 16 20:38:43 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: Внимание на квадрат: K4
+[Thu Apr 16 20:38:43 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: Внимание на квадрат: K4
+[Thu Apr 16 20:38:49 2026] Player "༒︎シ︎ʰᵉⁿᵗᵃⁱシ" <STEAM_0:0:851601344> has left the server
+[Thu Apr 16 20:41:14 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [66][sw_mh60s]"
+[Thu Apr 16 20:42:51 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [66][sw_mi24v]"
+[Thu Apr 16 20:43:16 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [66][sw_uh60q]"
+[Thu Apr 16 20:44:24 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [66][sw_mi35m]"
+[Thu Apr 16 20:44:28 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [66][sw_superhind]"
+[Thu Apr 16 20:44:32 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [66][sw_uh60j]"
+[Thu Apr 16 20:45:32 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [66][sw_mi24p]"
+[Thu Apr 16 20:45:54 2026] <STEAM_0:1:455594560> gREG4IK used tool "camera"
+[Thu Apr 16 20:46:06 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [73][npc_combine_s]"
+[Thu Apr 16 20:46:21 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [74][npc_combine_s]"
+[Thu Apr 16 20:46:22 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [87][npc_combine_s]"
+[Thu Apr 16 20:46:23 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [90][npc_combine_s]"
+[Thu Apr 16 20:46:23 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [97][npc_combine_s]"
+[Thu Apr 16 20:46:24 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [103][npc_combine_s]"
+[Thu Apr 16 20:46:25 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [106][npc_combine_s]"
+[Thu Apr 16 20:47:40 2026] <STEAM_0:1:455594560> gREG4IK used tool "camera"
+[Thu Apr 16 20:48:33 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [85][npc_combine_s]"
+[Thu Apr 16 20:48:35 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [90][npc_combine_s]"
+[Thu Apr 16 20:53:13 2026] Player "kamekadz.banzai" <STEAM_0:0:390862311> is attempting to connect.
+[Thu Apr 16 20:56:32 2026] Player "kamekadz.banzai" <STEAM_0:0:390862311> has spawned in the server
+[Thu Apr 16 20:58:35 2026] <STEAM_0:0:390862311> kamekadz.banzai: /ooc не моглт бы вы спустить мой тигр
+[Thu Apr 16 21:03:34 2026] worldspawn has killed gREG4IK.
+[Thu Apr 16 21:03:48 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [81][sent_vj_ply_healthkit]"
+[Thu Apr 16 21:07:43 2026] <STEAM_0:1:455594560> gREG4IK spawned SWEP "Weapon [134][tfa_l4d2mw_knife]"
+[Thu Apr 16 21:08:35 2026] gREG4IK has killed kamekadz.banzai.
+[Thu Apr 16 21:09:46 2026] Player "Simple настаящi" <STEAM_0:1:795521724> is attempting to connect.
+[Thu Apr 16 21:09:58 2026] Player "impotent" <STEAM_0:1:425612974> is attempting to connect.
+[Thu Apr 16 21:10:26 2026] Player "Simple настаящi" <STEAM_0:1:795521724> has spawned in the server
+[Thu Apr 16 21:13:19 2026] kamekadz.banzai has killed Simple настаящi.
+[Thu Apr 16 21:14:18 2026] kamekadz.banzai has killed Simple настаящi.
+[Thu Apr 16 21:15:19 2026] Player "impotent" <STEAM_0:1:425612974> is attempting to connect.
+[Thu Apr 16 21:15:29 2026] Player "impotent" <STEAM_0:1:425612974> is attempting to connect.
+[Thu Apr 16 21:16:34 2026] Player "impotent" <STEAM_0:1:425612974> has spawned in the server
+[Thu Apr 16 21:19:37 2026] rgd5_srpnl has killed Simple настаящi.
+[Thu Apr 16 21:21:29 2026] Player "gREG4IK" <STEAM_0:1:455594560> has left the server
+[Thu Apr 16 21:23:35 2026] <STEAM_0:1:425612974> impotent: /ooc рф, у вас техника спавнится?
+[Thu Apr 16 21:23:46 2026] <STEAM_0:1:795521724> Simple настаящi: /ooc хз
+[Thu Apr 16 21:24:04 2026] <STEAM_0:1:795521724> Simple настаящi: /ooc у меня доступа нет, я спавнить не могу
+[Thu Apr 16 21:24:07 2026] <STEAM_0:1:795521724> Simple настаящi: /ooc у меня доступа нет, я спавнить не могу
+[Thu Apr 16 21:24:12 2026] <STEAM_0:1:795521724> Simple настаящi: /ooc у меня доступа нет, я спавнить не могу
+[Thu Apr 16 21:25:17 2026] <STEAM_0:1:425612974> impotent spawned SENT "Entity [91][sw_eitan]"
+[Thu Apr 16 21:27:27 2026] Player "Андрей Убивалов" <STEAM_0:1:927190123> is attempting to connect.
+[Thu Apr 16 21:27:33 2026] Player "Андрей Убивалов" <STEAM_0:1:927190123> is attempting to connect.
+[Thu Apr 16 21:31:41 2026] Player "𝗺𝟏𝗿𝗮𝗰𝗹𝗲" <STEAM_0:0:869238922> is attempting to connect.
+[Thu Apr 16 21:34:32 2026] Player "gREG4IK" <STEAM_0:1:455594560> is attempting to connect.
+[Thu Apr 16 21:35:41 2026] Player "gREG4IK" <STEAM_0:1:455594560> has spawned in the server
+[Thu Apr 16 21:36:45 2026] <STEAM_0:1:795521724> Simple настаящi: /ooc мафынка пропала(
+[Thu Apr 16 21:37:58 2026] <STEAM_0:1:455594560> gREG4IK: Внимание на квадрат: G8
+[Thu Apr 16 21:37:58 2026] <STEAM_0:1:455594560> gREG4IK: Внимание на квадрат: G8
+[Thu Apr 16 21:38:00 2026] <STEAM_0:1:455594560> gREG4IK: Внимание на квадрат: F8
+[Thu Apr 16 21:38:00 2026] <STEAM_0:1:455594560> gREG4IK: Внимание на квадрат: F8
+[Thu Apr 16 21:38:47 2026] Player "BloodySmile" <STEAM_0:1:54838838> is attempting to connect.
+[Thu Apr 16 21:39:19 2026] Player "𝗺𝟏𝗿𝗮𝗰𝗹𝗲" <STEAM_0:0:869238922> has spawned in the server
+[Thu Apr 16 21:39:30 2026] <STEAM_0:0:390862311> kamekadz.banzai: /ooc грег дай на время мне мех-вода
+[Thu Apr 16 21:39:52 2026] Player "BloodySmile" <STEAM_0:1:54838838> has spawned in the server
+[Thu Apr 16 21:40:19 2026] <STEAM_0:0:390862311> kamekadz.banzai: /ooc грег дай мне на время мехвода
+[Thu Apr 16 21:40:50 2026] <STEAM_0:1:795521724> Simple настаящi: /rf андреев пашли в танк
+[Thu Apr 16 21:41:27 2026] Player "Po_rA1" <STEAM_0:0:887714123> is attempting to connect.
+[Thu Apr 16 21:41:46 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: да я такой
+[Thu Apr 16 21:41:59 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: Нееееееееееееет
+[Thu Apr 16 21:42:15 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: я сдохну
+[Thu Apr 16 21:43:12 2026] Player "Po_rA1" <STEAM_0:0:887714123> has spawned in the server
+[Thu Apr 16 21:43:42 2026] kamekadz.banzai has killed 𝗺𝟏𝗿𝗮𝗰𝗹𝗲.
+[Thu Apr 16 21:44:10 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: Они еще не действительны
+[Thu Apr 16 21:44:10 2026] Player "Андрей Убивалов" <STEAM_0:1:927190123> has spawned in the server
+[Thu Apr 16 21:44:18 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: Регламент
+[Thu Apr 16 21:44:57 2026] <STEAM_0:1:455594560> gREG4IK: Добавил ножи
+[Thu Apr 16 21:45:27 2026] gREG4IK has killed kamekadz.banzai.
+[Thu Apr 16 21:45:33 2026] 𝗺𝟏𝗿𝗮𝗰𝗹𝗲 has killed gREG4IK.
+[Thu Apr 16 21:45:50 2026] gREG4IK has killed 𝗺𝟏𝗿𝗮𝗰𝗹𝗲.
+[Thu Apr 16 21:46:08 2026] <STEAM_0:1:927190123> Андрей Убивалов spawned SENT "Entity [872][sw_mi24p]"
+[Thu Apr 16 21:46:09 2026] <STEAM_0:1:425612974> impotent spawned SENT "Entity [926][sw_eitan]"
+[Thu Apr 16 21:46:52 2026] <STEAM_0:1:927190123> Андрей Убивалов spawned npc "NPC [145][npc_vj_test_player]"
+[Thu Apr 16 21:46:55 2026] <STEAM_0:1:927190123> Андрей Убивалов spawned npc "NPC [145][npc_vj_test_interactive]"
+[Thu Apr 16 21:46:55 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: // Чикатило блять
+[Thu Apr 16 21:47:00 2026] <STEAM_0:1:927190123> Андрей Убивалов spawned npc "NPC [145][npc_vj_test_aerial]"
+[Thu Apr 16 21:47:03 2026] <STEAM_0:1:927190123> Андрей Убивалов spawned npc "NPC [137][npc_citizen]"
+[Thu Apr 16 21:47:19 2026] <STEAM_0:0:887714123> Po_rA1: /ooc Это че за чилипиздрик поехал?
+[Thu Apr 16 21:47:20 2026] gREG4IK has killed kamekadz.banzai.
+[Thu Apr 16 21:47:39 2026] <STEAM_0:1:425612974> impotent spawned SENT "Entity [850][sw_puma]"
+[Thu Apr 16 21:47:42 2026] gREG4IK has killed 𝗺𝟏𝗿𝗮𝗰𝗹𝗲.
+[Thu Apr 16 21:47:55 2026] <STEAM_0:0:887714123> Po_rA1: Внимание на квадрат: H5
+[Thu Apr 16 21:47:55 2026] <STEAM_0:0:887714123> Po_rA1: Внимание на квадрат: H5
+[Thu Apr 16 21:48:02 2026] <STEAM_0:0:887714123> Po_rA1: Внимание на квадрат: F1
+[Thu Apr 16 21:48:02 2026] <STEAM_0:0:887714123> Po_rA1: Внимание на квадрат: F1
+[Thu Apr 16 21:48:08 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [977][lvs_helicopter_rebel]"
+[Thu Apr 16 21:48:09 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [991][lvs_helicopter_rebel]"
+[Thu Apr 16 21:48:15 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [977][lvs_helicopter_rebel]"
+[Thu Apr 16 21:48:45 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [977][lvs_helicopter_rebel]"
+[Thu Apr 16 21:48:46 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [999][lvs_helicopter_rebel]"
+[Thu Apr 16 21:48:47 2026] Po_rA1 has killed impotent.
+[Thu Apr 16 21:48:54 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [872][lvs_helicopter_rebel]"
+[Thu Apr 16 21:49:30 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: Знаю
+[Thu Apr 16 21:49:41 2026] kamekadz.banzai has killed 𝗺𝟏𝗿𝗮𝗰𝗹𝗲.
+[Thu Apr 16 21:49:59 2026] Player "Жан-Клодмамдрал" <STEAM_0:0:958430552> is attempting to connect.
+[Thu Apr 16 21:49:59 2026] kamekadz.banzai has killed 𝗺𝟏𝗿𝗮𝗰𝗹𝗲.
+[Thu Apr 16 21:50:22 2026] 𝗺𝟏𝗿𝗮𝗰𝗹𝗲 has killed kamekadz.banzai.
+[Thu Apr 16 21:50:56 2026] Po_rA1 has killed 𝗺𝟏𝗿𝗮𝗰𝗹𝗲.
+[Thu Apr 16 21:51:39 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: // Грег помоги, застрял
+[Thu Apr 16 21:51:43 2026] <STEAM_0:1:425612974> impotent spawned SENT "Entity [873][sw_leo2a6m]"
+[Thu Apr 16 21:52:15 2026] Po_rA1 has killed kamekadz.banzai.
+[Thu Apr 16 21:52:20 2026] <STEAM_0:1:425612974> impotent spawned SENT "Entity [793][sw_leo2a6m]"
+[Thu Apr 16 21:53:03 2026] <STEAM_0:0:390862311> kamekadz.banzai: /ooc сука ещё раз такую хуйню подбную сделаешь я начну карать законом
+[Thu Apr 16 21:53:24 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: пизда лагает
+[Thu Apr 16 21:53:49 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [955][sent_vj_ply_healthkit]"
+[Thu Apr 16 21:53:51 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: Я на тостере играю нахуй
+[Thu Apr 16 21:53:52 2026] gREG4IK has killed Po_rA1.
+[Thu Apr 16 21:54:30 2026] impotent has killed 𝗺𝟏𝗿𝗮𝗰𝗹𝗲.
+[Thu Apr 16 21:54:30 2026] impotent has killed Simple настаящi.
+[Thu Apr 16 21:54:31 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [146][obj_vj_grenade]"
+[Thu Apr 16 21:54:36 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [83][obj_vj_grenade]"
+[Thu Apr 16 21:54:36 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [108][obj_vj_grenade]"
+[Thu Apr 16 21:54:36 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [109][obj_vj_grenade]"
+[Thu Apr 16 21:54:36 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [133][obj_vj_grenade]"
+[Thu Apr 16 21:54:36 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [135][obj_vj_grenade]"
+[Thu Apr 16 21:54:36 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [145][obj_vj_grenade]"
+[Thu Apr 16 21:54:37 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [146][obj_vj_grenade]"
+[Thu Apr 16 21:54:39 2026] obj_vj_grenade has killed kamekadz.banzai.
+[Thu Apr 16 21:54:40 2026] kamekadz.banzai has killed kamekadz.banzai.
+[Thu Apr 16 21:54:45 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: // Ух нихуя, Грег что с оптимизацией стало
+[Thu Apr 16 21:55:00 2026] <STEAM_0:1:927190123> Андрей Убивалов: // Все хорошо
+[Thu Apr 16 21:55:15 2026] <STEAM_0:1:927190123> Андрей Убивалов spawned SENT "Entity [81][sw_uh60j]"
+[Thu Apr 16 21:55:18 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: // Я пойду винду переустановлю либо обновлю
+[Thu Apr 16 21:55:25 2026] <STEAM_0:1:927190123> Андрей Убивалов spawned SENT "Entity [108][sw_ah1e]"
+[Thu Apr 16 21:55:27 2026] gREG4IK has killed Po_rA1.
+[Thu Apr 16 21:55:28 2026] <STEAM_0:1:927190123> Андрей Убивалов spawned SENT "Entity [779][sw_superhind]"
+[Thu Apr 16 21:55:30 2026] <STEAM_0:1:927190123> Андрей Убивалов spawned SENT "Entity [109][sw_uh60q]"
+[Thu Apr 16 21:55:32 2026] <STEAM_0:1:927190123> Андрей Убивалов spawned SENT "Entity [819][sw_uh60]"
+[Thu Apr 16 21:55:35 2026] <STEAM_0:1:927190123> Андрей Убивалов spawned SENT "Entity [109][sw_mi24v]"
+[Thu Apr 16 21:55:38 2026] Player "𝗺𝟏𝗿𝗮𝗰𝗹𝗲" <STEAM_0:0:869238922> has left the server
+[Thu Apr 16 21:56:26 2026] <STEAM_0:1:927190123> Андрей Убивалов ran command "menu"
+[Thu Apr 16 21:56:28 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [133][sw_vdvbuggy]"
+[Thu Apr 16 21:56:55 2026] <STEAM_0:1:425612974> impotent spawned prop "Entity [1029][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1_tall.mdl)"
+[Thu Apr 16 21:57:19 2026] <STEAM_0:1:927190123> Андрей Убивалов: /helop
+[Thu Apr 16 21:57:20 2026] <STEAM_0:1:927190123> Андрей Убивалов: /help
+[Thu Apr 16 21:57:28 2026] <STEAM_0:1:927190123> Андрей Убивалов ran command "ammo Nelson"
+[Thu Apr 16 21:58:04 2026] <STEAM_0:1:927190123> Андрей Убивалов spawned SENT "Entity [1025][sw_mh60s]"
+[Thu Apr 16 21:58:39 2026] Player "gREG4IK" <STEAM_0:1:455594560> has left the server
+[Thu Apr 16 21:58:58 2026] Player "Андрей Убивалов" <STEAM_0:1:927190123> has left the server
+[Thu Apr 16 21:59:07 2026] Player "impotent" <STEAM_0:1:425612974> has left the server
+[Thu Apr 16 22:00:26 2026] Player "komok" <STEAM_0:0:923416924> is attempting to connect.
+[Thu Apr 16 22:01:21 2026] <STEAM_0:0:887714123> Po_rA1: Внимание на квадрат: G4
+[Thu Apr 16 22:01:22 2026] <STEAM_0:0:887714123> Po_rA1: Внимание на квадрат: G4
+[Thu Apr 16 22:07:11 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [133][sw_t90m_arena]"
+[Thu Apr 16 22:08:15 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [858][sw_t90m_arena]"
+[Thu Apr 16 22:10:10 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [109][sw_bmp1m]"
+[Thu Apr 16 22:10:14 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [109][sw_bmp1am]"
+[Thu Apr 16 22:10:16 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [109][sw_bmp1p]"
+[Thu Apr 16 22:10:17 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [990][sw_bmp1p]"
+[Thu Apr 16 22:10:23 2026] worldspawn has killed kamekadz.banzai.
+[Thu Apr 16 22:10:35 2026] <STEAM_0:1:54838838> BloodySmile ran command "respawn Псковский "
+[Thu Apr 16 22:10:52 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [81][sw_bmp2]"
+[Thu Apr 16 22:10:54 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [908][sw_bmp2]"
+[Thu Apr 16 22:11:11 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [81][sw_t90m_arena]"
+[Thu Apr 16 22:11:54 2026] <STEAM_0:1:54838838> BloodySmile used tool "remover"
+[Thu Apr 16 22:12:07 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [908][lvs_wheeldrive_m3a3]"
+[Thu Apr 16 22:12:17 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [908][sw_puma]"
+[Thu Apr 16 22:12:29 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [908][sw_m3a3]"
+[Thu Apr 16 22:14:12 2026] <STEAM_0:0:887714123> Po_rA1: /ooc Андреев тут баг карты похоже
+[Thu Apr 16 22:14:34 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [908][sw_m3a3]"
+[Thu Apr 16 22:14:35 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [908][sw_m3a3]"
+[Thu Apr 16 22:14:58 2026] worldspawn has killed BloodySmile.
+[Thu Apr 16 22:15:06 2026] <STEAM_0:1:54838838> BloodySmile: /respawb
+[Thu Apr 16 22:15:07 2026] <STEAM_0:1:54838838> BloodySmile: /respawn
+[Thu Apr 16 22:15:15 2026] <STEAM_0:1:54838838> BloodySmile ran command "respawn Андрев"
+[Thu Apr 16 22:15:30 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [81][lvs_wheeldrive_nonrp_t90m]"
+[Thu Apr 16 22:15:32 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [915][sw_t90m_arena]"
+[Thu Apr 16 22:15:42 2026] <STEAM_0:0:887714123> Po_rA1: /ooc Андреев
+[Thu Apr 16 22:16:20 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [81][sw_kurganets_b11]"
+[Thu Apr 16 22:17:10 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [909][sw_kurganets_b10]"
+[Thu Apr 16 22:17:34 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [909][sw_kurganets_b15]"
+[Thu Apr 16 22:18:05 2026] <STEAM_0:0:887714123> Po_rA1: /rp Достал нож и вырезал на лбу натовца надпись (Мы русские, с нами бог)
+[Thu Apr 16 22:18:12 2026] <STEAM_0:0:887714123> Po_rA1: /ooc Откат
+[Thu Apr 16 22:18:43 2026] <STEAM_0:0:887714123> Po_rA1: /ooc Помогите
+[Thu Apr 16 22:18:58 2026] <STEAM_0:1:795521724> Simple настаящi: /ooc тут т-90 чуть чуть не нормалды
+[Thu Apr 16 22:19:07 2026] <STEAM_0:1:795521724> Simple настаящi: /ooc ему пиздец
+[Thu Apr 16 22:19:16 2026] <STEAM_0:1:795521724> Simple настаящi: /ooc ему пиздец
+[Thu Apr 16 22:19:19 2026] <STEAM_0:1:795521724> Simple настаящi: /ooc ему пиздец
+[Thu Apr 16 22:19:26 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [762][lvs_vehicle_repair]"
+[Thu Apr 16 22:21:33 2026] <STEAM_0:1:54838838> BloodySmile: /rf выгде?
+[Thu Apr 16 22:21:44 2026] <STEAM_0:1:795521724> Simple настаящi: /ooc укрепрайон
+[Thu Apr 16 22:21:47 2026] <STEAM_0:0:887714123> Po_rA1: /ooc Спасите. Нас карта в жопу ебашит
+[Thu Apr 16 22:23:08 2026] <STEAM_0:1:54838838> BloodySmile used tool "remover"
+[Thu Apr 16 22:23:14 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [81][sw_t90m_arena]"
+[Thu Apr 16 22:24:16 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [81][sw_t90m_arena]"
+[Thu Apr 16 22:25:41 2026] Player "𝗺𝟏𝗿𝗮𝗰𝗹𝗲" <STEAM_0:0:869238922> is attempting to connect.
+[Thu Apr 16 22:27:11 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [133][sw_mi24p]"
+[Thu Apr 16 22:27:15 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Thu Apr 16 22:27:32 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [81][sw_mi35m]"
+[Thu Apr 16 22:27:34 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Thu Apr 16 22:27:40 2026] <STEAM_0:1:795521724> Simple настаящi: /adrf Борт 141, выполняю взлет с ВПП 1, конец связи.
+[Thu Apr 16 22:27:40 2026] <STEAM_0:1:795521724> Simple настаящi: /adrf Борт 141, выполняю взлет с ВПП 1, конец связи.
+[Thu Apr 16 22:27:51 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Thu Apr 16 22:27:55 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Thu Apr 16 22:27:57 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Thu Apr 16 22:27:58 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Thu Apr 16 22:28:00 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Thu Apr 16 22:28:02 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Thu Apr 16 22:28:03 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Thu Apr 16 22:28:05 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Thu Apr 16 22:28:09 2026] <STEAM_0:0:887714123> Po_rA1: /rf Борт 141, выполняю взлет с ВПП 1, Конец связи
+[Thu Apr 16 22:28:11 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Thu Apr 16 22:29:16 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [81][sw_mi24v]"
+[Thu Apr 16 22:29:49 2026] worldspawn has killed BloodySmile.
+[Thu Apr 16 22:29:52 2026] <STEAM_0:1:54838838> BloodySmile ran command "respawn Андрев"
+[Thu Apr 16 22:29:54 2026] worldspawn has killed kamekadz.banzai.
+[Thu Apr 16 22:29:57 2026] <STEAM_0:1:54838838> BloodySmile ran command "goto Псковский "
+[Thu Apr 16 22:30:16 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [756][sw_uh60j]"
+[Thu Apr 16 22:30:20 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Thu Apr 16 22:30:26 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Thu Apr 16 22:30:27 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Thu Apr 16 22:30:29 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Thu Apr 16 22:30:29 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Thu Apr 16 22:30:30 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Thu Apr 16 22:30:31 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Thu Apr 16 22:30:33 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Thu Apr 16 22:30:35 2026] kamekadz.banzai has killed BloodySmile.
+[Thu Apr 16 22:30:37 2026] <STEAM_0:1:54838838> BloodySmile ran command "respawn Андрев"
+[Thu Apr 16 22:30:39 2026] <STEAM_0:0:887714123> Po_rA1: /ooc Можете верт заправить?
+[Thu Apr 16 22:30:42 2026] <STEAM_0:1:54838838> BloodySmile ran command "goto Псковский "
+[Thu Apr 16 22:31:54 2026] BloodySmile has killed Po_rA1.
+[Thu Apr 16 22:32:04 2026] BloodySmile has killed Po_rA1.
+[Thu Apr 16 22:32:12 2026] BloodySmile has killed Simple настаящi.
+[Thu Apr 16 22:32:50 2026] Player "𝗺𝟏𝗿𝗮𝗰𝗹𝗲" <STEAM_0:0:869238922> has spawned in the server
+[Thu Apr 16 22:34:08 2026] Player "Simple настаящi" <STEAM_0:1:795521724> has left the server
+[Thu Apr 16 22:34:43 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [136][sw_uh60q]"
+[Thu Apr 16 22:34:47 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Thu Apr 16 22:34:52 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Thu Apr 16 22:34:53 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Thu Apr 16 22:34:54 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Thu Apr 16 22:34:57 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [83][sw_uh60]"
+[Thu Apr 16 22:34:59 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Thu Apr 16 22:35:04 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Thu Apr 16 22:35:05 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Thu Apr 16 22:35:06 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Thu Apr 16 22:35:07 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Thu Apr 16 22:35:09 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Thu Apr 16 22:35:14 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [83][sw_uh60j]"
+[Thu Apr 16 22:35:23 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Thu Apr 16 22:35:28 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Thu Apr 16 22:35:30 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Thu Apr 16 22:35:30 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Thu Apr 16 22:35:31 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Thu Apr 16 22:35:31 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Thu Apr 16 22:35:33 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Thu Apr 16 22:35:35 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Thu Apr 16 22:35:36 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Thu Apr 16 22:35:37 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Thu Apr 16 22:35:37 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Thu Apr 16 22:35:39 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [811][sw_ah1q]"
+[Thu Apr 16 22:35:43 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [83][sw_uh60]"
+[Thu Apr 16 22:35:45 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Thu Apr 16 22:35:56 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [808][sw_ah1e]"
+[Thu Apr 16 22:36:01 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [83][sw_kamaz5350_2b26]"
+[Thu Apr 16 22:36:31 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [809][lvs_vehicle_repair]"
+[Thu Apr 16 22:37:01 2026] <STEAM_0:0:390862311> kamekadz.banzai: /rf 3-3-3!
+[Thu Apr 16 22:37:39 2026] <STEAM_0:0:390862311> kamekadz.banzai: /rf 3-3-3!
+[Thu Apr 16 22:37:49 2026] Player "korask2" <STEAM_0:0:212596445> is attempting to connect.
+[Thu Apr 16 22:37:56 2026] <STEAM_0:1:54838838> BloodySmile: /rf правей
+[Thu Apr 16 22:38:01 2026] <STEAM_0:1:54838838> BloodySmile: /rf и ниже
+[Thu Apr 16 22:38:07 2026] <STEAM_0:1:54838838> BloodySmile: /rf и ниже
+[Thu Apr 16 22:38:10 2026] <STEAM_0:1:54838838> BloodySmile: /rf и ниже
+[Thu Apr 16 22:38:13 2026] <STEAM_0:1:54838838> BloodySmile: /rf и ниже
+[Thu Apr 16 22:38:20 2026] <STEAM_0:1:54838838> BloodySmile: /rf и ниже
+[Thu Apr 16 22:38:22 2026] <STEAM_0:1:54838838> BloodySmile: /rf и ниже
+[Thu Apr 16 22:38:26 2026] <STEAM_0:1:54838838> BloodySmile: /rf и ниже
+[Thu Apr 16 22:39:03 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [809][lvs_vehicle_repair]"
+[Thu Apr 16 22:40:33 2026] worldspawn has killed kamekadz.banzai.
+[Thu Apr 16 22:40:33 2026] worldspawn has killed BloodySmile.
+[Thu Apr 16 22:40:33 2026] worldspawn has killed Po_rA1.
+[Thu Apr 16 22:40:41 2026] <STEAM_0:1:54838838> BloodySmile ran command "respawn Андрев"
+[Thu Apr 16 22:40:45 2026] <STEAM_0:1:54838838> BloodySmile ran command "respawn Псковский "
+[Thu Apr 16 22:40:50 2026] <STEAM_0:1:54838838> BloodySmile ran command "respawn Колесников"
+[Thu Apr 16 22:41:08 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [144][sw_leo2a6m]"
+[Thu Apr 16 22:41:10 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [916][sw_leo2a4]"
+[Thu Apr 16 22:41:20 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: я пацанов смотрю
+[Thu Apr 16 22:41:30 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [83][sw_puma]"
+[Thu Apr 16 22:41:37 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [1074][sw_bmpt72]"
+[Thu Apr 16 22:41:54 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: Я так и знал что вы нацисты
+[Thu Apr 16 22:42:18 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: У тебя на макушке крест рейха
+[Thu Apr 16 22:42:30 2026] worldspawn has killed kamekadz.banzai.
+[Thu Apr 16 22:42:49 2026] BloodySmile has killed Po_rA1.
+[Thu Apr 16 22:43:26 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [788][sw_leo2a6m]"
+[Thu Apr 16 22:44:03 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [775][sw_eitan]"
+[Thu Apr 16 22:44:20 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Thu Apr 16 22:44:23 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Thu Apr 16 22:44:24 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Thu Apr 16 22:44:24 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Thu Apr 16 22:44:25 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Thu Apr 16 22:44:26 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Thu Apr 16 22:44:28 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Thu Apr 16 22:44:29 2026] Player "korask2" <STEAM_0:0:212596445> is attempting to connect.
+[Thu Apr 16 22:44:34 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Thu Apr 16 22:44:34 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Thu Apr 16 22:44:35 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Thu Apr 16 22:44:35 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Thu Apr 16 22:44:35 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Thu Apr 16 22:44:35 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Thu Apr 16 22:44:48 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Thu Apr 16 22:44:49 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Thu Apr 16 22:44:49 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Thu Apr 16 22:44:54 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Thu Apr 16 22:44:54 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Thu Apr 16 22:44:55 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Thu Apr 16 22:45:08 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [1157][sw_kamaz5350]"
+[Thu Apr 16 22:45:10 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Thu Apr 16 22:45:10 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Thu Apr 16 22:45:13 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_aamloadout_editor_v3"
+[Thu Apr 16 22:45:15 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_aamloadout_editor_v3"
+[Thu Apr 16 22:45:15 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_aamloadout_editor_v3"
+[Thu Apr 16 22:45:27 2026] Po_rA1 has killed kamekadz.banzai.
+[Thu Apr 16 22:45:36 2026] BloodySmile has killed Po_rA1.
+[Thu Apr 16 22:45:37 2026] BloodySmile has killed kamekadz.banzai.
+[Thu Apr 16 22:45:49 2026] <STEAM_0:1:54838838> BloodySmile ran command "respawn Колесников"
+[Thu Apr 16 22:45:52 2026] <STEAM_0:1:54838838> BloodySmile ran command "respawn Псковский "
+[Thu Apr 16 22:46:12 2026] BloodySmile has killed kamekadz.banzai.
+[Thu Apr 16 22:46:31 2026] Po_rA1 has killed BloodySmile.
+[Thu Apr 16 22:46:48 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [768][item_healthvial]"
+[Thu Apr 16 22:46:48 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [772][item_healthkit]"
+[Thu Apr 16 22:46:49 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [785][item_healthkit]"
+[Thu Apr 16 22:46:49 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [786][item_healthkit]"
+[Thu Apr 16 22:46:49 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [768][item_healthkit]"
+[Thu Apr 16 22:46:49 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [787][item_healthkit]"
+[Thu Apr 16 22:46:49 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [1202][item_healthkit]"
+[Thu Apr 16 22:46:49 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [772][item_healthkit]"
+[Thu Apr 16 22:46:50 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [1203][item_healthkit]"
+[Thu Apr 16 22:46:52 2026] <STEAM_0:1:54838838> BloodySmile used tool "rb655_easy_bodygroup"
+[Thu Apr 16 22:46:54 2026] <STEAM_0:1:54838838> BloodySmile used tool "rb655_easy_bodygroup"
+[Thu Apr 16 22:47:53 2026] <STEAM_0:1:54838838> BloodySmile used tool "rb655_easy_bodygroup"
+[Thu Apr 16 22:47:54 2026] <STEAM_0:1:54838838> BloodySmile used tool "rb655_easy_bodygroup"
+[Thu Apr 16 22:48:02 2026] <STEAM_0:1:54838838> BloodySmile used tool "rb655_easy_bodygroup"
+[Thu Apr 16 22:48:03 2026] <STEAM_0:1:54838838> BloodySmile used tool "rb655_easy_bodygroup"
+[Thu Apr 16 22:48:04 2026] <STEAM_0:1:54838838> BloodySmile used tool "rb655_easy_bodygroup"
+[Thu Apr 16 22:48:04 2026] <STEAM_0:1:54838838> BloodySmile used tool "rb655_easy_bodygroup"
+[Thu Apr 16 22:48:04 2026] <STEAM_0:1:54838838> BloodySmile used tool "rb655_easy_bodygroup"
+[Thu Apr 16 22:48:04 2026] <STEAM_0:1:54838838> BloodySmile used tool "rb655_easy_bodygroup"
+[Thu Apr 16 22:48:04 2026] <STEAM_0:1:54838838> BloodySmile used tool "rb655_easy_bodygroup"
+[Thu Apr 16 22:48:04 2026] <STEAM_0:1:54838838> BloodySmile used tool "rb655_easy_bodygroup"
+[Thu Apr 16 22:48:04 2026] <STEAM_0:1:54838838> BloodySmile used tool "rb655_easy_bodygroup"
+[Thu Apr 16 22:48:04 2026] <STEAM_0:1:54838838> BloodySmile used tool "rb655_easy_bodygroup"
+[Thu Apr 16 22:48:05 2026] <STEAM_0:1:54838838> BloodySmile used tool "rb655_easy_bodygroup"
+[Thu Apr 16 22:48:05 2026] <STEAM_0:1:54838838> BloodySmile used tool "rb655_easy_bodygroup"
+[Thu Apr 16 22:48:05 2026] <STEAM_0:1:54838838> BloodySmile used tool "rb655_easy_bodygroup"
+[Thu Apr 16 22:48:06 2026] <STEAM_0:1:54838838> BloodySmile used tool "rb655_easy_bodygroup"
+[Thu Apr 16 22:48:09 2026] <STEAM_0:1:54838838> BloodySmile used tool "rb655_easy_bodygroup"
+[Thu Apr 16 22:48:14 2026] <STEAM_0:1:54838838> BloodySmile used tool "rb655_easy_bodygroup"
+[Thu Apr 16 22:48:14 2026] <STEAM_0:1:54838838> BloodySmile used tool "rb655_easy_bodygroup"
+[Thu Apr 16 22:48:17 2026] <STEAM_0:1:54838838> BloodySmile used tool "rb655_easy_bodygroup"
+[Thu Apr 16 22:48:20 2026] <STEAM_0:1:54838838> BloodySmile used tool "rb655_easy_bodygroup"
+[Thu Apr 16 22:48:21 2026] <STEAM_0:1:54838838> BloodySmile used tool "rb655_easy_bodygroup"
+[Thu Apr 16 22:48:23 2026] <STEAM_0:1:54838838> BloodySmile used tool "rb655_easy_bodygroup"
+[Thu Apr 16 22:48:36 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [136][sw_eitan]"
+[Thu Apr 16 22:48:39 2026] <STEAM_0:1:54838838> BloodySmile used tool "rb655_easy_bodygroup"
+[Thu Apr 16 22:48:47 2026] <STEAM_0:1:54838838> BloodySmile used tool "rb655_easy_bodygroup"
+[Thu Apr 16 22:48:48 2026] <STEAM_0:1:54838838> BloodySmile used tool "rb655_easy_bodygroup"
+[Thu Apr 16 22:48:53 2026] <STEAM_0:1:54838838> BloodySmile used tool "rb655_easy_bodygroup"
+[Thu Apr 16 22:48:53 2026] <STEAM_0:1:54838838> BloodySmile used tool "rb655_easy_bodygroup"
+[Thu Apr 16 22:48:55 2026] <STEAM_0:1:54838838> BloodySmile used tool "rb655_easy_bodygroup"
+[Thu Apr 16 22:48:59 2026] <STEAM_0:1:54838838> BloodySmile used tool "rb655_easy_bodygroup"
+[Thu Apr 16 22:49:02 2026] <STEAM_0:1:54838838> BloodySmile used tool "rb655_easy_bodygroup"
+[Thu Apr 16 22:49:04 2026] <STEAM_0:1:54838838> BloodySmile used tool "rb655_easy_bodygroup"
+[Thu Apr 16 22:49:06 2026] <STEAM_0:1:54838838> BloodySmile used tool "rb655_easy_bodygroup"
+[Thu Apr 16 22:49:07 2026] <STEAM_0:1:54838838> BloodySmile used tool "rb655_easy_bodygroup"
+[Thu Apr 16 22:49:10 2026] <STEAM_0:1:54838838> BloodySmile used tool "rb655_easy_bodygroup"
+[Thu Apr 16 22:49:11 2026] <STEAM_0:1:54838838> BloodySmile used tool "rb655_easy_bodygroup"
+[Thu Apr 16 22:49:15 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [813][lvs_wheeldrive_m3a3]"
+[Thu Apr 16 22:49:16 2026] <STEAM_0:1:54838838> BloodySmile used tool "rb655_easy_bodygroup"
+[Thu Apr 16 22:49:17 2026] <STEAM_0:1:54838838> BloodySmile used tool "rb655_easy_bodygroup"
+[Thu Apr 16 22:49:23 2026] Player "korask2" <STEAM_0:0:212596445> has spawned in the server
+[Thu Apr 16 22:49:28 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [152][sw_m3a3]"
+[Thu Apr 16 22:49:29 2026] <STEAM_0:1:54838838> BloodySmile used tool "rb655_easy_bodygroup"
+[Thu Apr 16 22:49:37 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [152][sw_bmp2m]"
+[Thu Apr 16 22:49:37 2026] <STEAM_0:1:54838838> BloodySmile used tool "rb655_easy_bodygroup"
+[Thu Apr 16 22:49:40 2026] <STEAM_0:1:54838838> BloodySmile used tool "rb655_easy_bodygroup"
+[Thu Apr 16 22:49:41 2026] <STEAM_0:1:54838838> BloodySmile used tool "rb655_easy_bodygroup"
+[Thu Apr 16 22:49:44 2026] <STEAM_0:1:54838838> BloodySmile used tool "rb655_easy_bodygroup"
+[Thu Apr 16 22:49:45 2026] <STEAM_0:1:54838838> BloodySmile used tool "rb655_easy_bodygroup"
+[Thu Apr 16 22:49:45 2026] <STEAM_0:1:54838838> BloodySmile used tool "rb655_easy_bodygroup"
+[Thu Apr 16 22:49:46 2026] <STEAM_0:1:54838838> BloodySmile used tool "rb655_easy_bodygroup"
+[Thu Apr 16 22:50:07 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [838][sw_bmpt72]"
+[Thu Apr 16 22:50:08 2026] <STEAM_0:1:54838838> BloodySmile used tool "rb655_easy_bodygroup"
+[Thu Apr 16 22:50:09 2026] <STEAM_0:1:54838838> BloodySmile used tool "rb655_easy_bodygroup"
+[Thu Apr 16 22:50:10 2026] <STEAM_0:1:54838838> BloodySmile used tool "rb655_easy_bodygroup"
+[Thu Apr 16 22:50:10 2026] <STEAM_0:1:54838838> BloodySmile used tool "rb655_easy_bodygroup"
+[Thu Apr 16 22:50:12 2026] <STEAM_0:1:54838838> BloodySmile used tool "rb655_easy_bodygroup"
+[Thu Apr 16 22:50:13 2026] <STEAM_0:1:54838838> BloodySmile used tool "rb655_easy_bodygroup"
+[Thu Apr 16 22:50:15 2026] <STEAM_0:1:54838838> BloodySmile used tool "rb655_easy_bodygroup"
+[Thu Apr 16 22:50:15 2026] <STEAM_0:1:54838838> BloodySmile used tool "rb655_easy_bodygroup"
+[Thu Apr 16 22:50:18 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [136][sw_kurganets_b10]"
+[Thu Apr 16 22:50:18 2026] <STEAM_0:1:54838838> BloodySmile used tool "rb655_easy_bodygroup"
+[Thu Apr 16 22:50:36 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [791][sw_puma]"
+[Thu Apr 16 22:50:36 2026] <STEAM_0:1:54838838> BloodySmile used tool "rb655_easy_bodygroup"
+[Thu Apr 16 22:50:52 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [756][sw_kamaz5350]"
+[Thu Apr 16 22:50:53 2026] <STEAM_0:1:54838838> BloodySmile used tool "rb655_easy_bodygroup"
+[Thu Apr 16 22:51:00 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [136][sw_kamaz5350]"
+[Thu Apr 16 22:51:03 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [136][sw_kamaz5350]"
+[Thu Apr 16 22:51:05 2026] <STEAM_0:1:54838838> BloodySmile used tool "rb655_easy_bodygroup"
+[Thu Apr 16 22:51:29 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [145][sw_uh60j]"
+[Thu Apr 16 22:51:30 2026] <STEAM_0:1:54838838> BloodySmile used tool "rb655_easy_bodygroup"
+[Thu Apr 16 22:51:40 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [145][sw_uh60j]"
+[Thu Apr 16 22:51:41 2026] <STEAM_0:1:54838838> BloodySmile used tool "rb655_easy_bodygroup"
+[Thu Apr 16 22:51:43 2026] <STEAM_0:1:54838838> BloodySmile used tool "rb655_easy_bodygroup"
+[Thu Apr 16 22:52:19 2026] Player "Worshiper of God" <STEAM_0:0:74235942> is attempting to connect.
+[Thu Apr 16 22:52:20 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [839][lvs_wheeldrive_nonrp_t90m]"
+[Thu Apr 16 22:52:22 2026] <STEAM_0:1:54838838> BloodySmile used tool "rb655_easy_bodygroup"
+[Thu Apr 16 22:52:25 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [839][sw_vdvbuggy]"
+[Thu Apr 16 22:52:26 2026] <STEAM_0:1:54838838> BloodySmile used tool "rb655_easy_bodygroup"
+[Thu Apr 16 22:52:38 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [136][sw_vdvbuggy]"
+[Thu Apr 16 22:52:41 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Thu Apr 16 22:53:14 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [136][sw_vdvbuggy]"
+[Thu Apr 16 22:53:20 2026] <STEAM_0:1:54838838> BloodySmile used tool "rb655_easy_bodygroup"
+[Thu Apr 16 22:53:55 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [136][sw_bmp2m]"
+[Thu Apr 16 22:54:05 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [136][sw_gaz2330]"
+[Thu Apr 16 22:54:08 2026] Player "Worshiper of God" <STEAM_0:0:74235942> has spawned in the server
+[Thu Apr 16 22:54:09 2026] <STEAM_0:1:54838838> BloodySmile used tool "rb655_easy_bodygroup"
+[Thu Apr 16 22:54:33 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [136][lvs_wheeldrive_hummer]"
+[Thu Apr 16 22:54:35 2026] <STEAM_0:1:54838838> BloodySmile used tool "rb655_easy_bodygroup"
+[Thu Apr 16 22:54:50 2026] <STEAM_0:0:74235942> Worshiper of God: // ребят я самый сильный тут игрок
+[Thu Apr 16 22:55:36 2026] <STEAM_0:1:54838838> BloodySmile: /char
+[Thu Apr 16 22:56:34 2026] <STEAM_0:1:54838838> BloodySmile used tool "permaprops"
+[Thu Apr 16 22:57:23 2026] <STEAM_0:0:212596445> korask2: Внимание на квадрат: G5
+[Thu Apr 16 22:57:24 2026] <STEAM_0:0:212596445> korask2: Внимание на квадрат: G5
+[Thu Apr 16 22:58:06 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [728][lvs_wheeldrive_hummer_tow]"
+[Thu Apr 16 22:58:16 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [835][lvs_wheeldrive_hummer]"
+[Thu Apr 16 22:58:29 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [728][lvs_wheeldrive_hummer]"
+[Thu Apr 16 22:58:32 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [728][lvs_wheeldrive_hummer_m2]"
+[Thu Apr 16 22:58:49 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [835][sw_quadbike]"
+[Thu Apr 16 22:58:52 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [865][lvs_wheeldrive_hummer]"
+[Thu Apr 16 22:59:50 2026] Player "Po_rA1" <STEAM_0:0:887714123> has left the server
+[Thu Apr 16 22:59:53 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [138][lvs_wheeldrive_hummer]"
+[Thu Apr 16 23:00:40 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [138][lvs_wheeldrive_hummer]"
+[Thu Apr 16 23:00:42 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [875][lvs_wheeldrive_hummer]"
+[Thu Apr 16 23:00:44 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [138][lvs_wheeldrive_hummer]"
+[Thu Apr 16 23:00:45 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: а
+[Thu Apr 16 23:00:46 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [874][lvs_wheeldrive_hummer]"
+[Thu Apr 16 23:00:47 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [138][lvs_wheeldrive_hummer]"
+[Thu Apr 16 23:00:47 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [874][lvs_wheeldrive_hummer]"
+[Thu Apr 16 23:01:05 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: чего??
+[Thu Apr 16 23:01:09 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [138][lvs_wheeldrive_hummer]"
+[Thu Apr 16 23:01:11 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [874][lvs_wheeldrive_hummer]"
+[Thu Apr 16 23:01:12 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [138][lvs_wheeldrive_hummer_m134]"
+[Thu Apr 16 23:01:13 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: я как тут оказался
+[Thu Apr 16 23:01:14 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [874][lvs_wheeldrive_hummer]"
+[Thu Apr 16 23:01:15 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [138][lvs_wheeldrive_hummer]"
+[Thu Apr 16 23:01:16 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [874][lvs_wheeldrive_hummer]"
+[Thu Apr 16 23:01:32 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [138][lvs_wheeldrive_hummer]"
+[Thu Apr 16 23:01:46 2026] <STEAM_0:1:54838838> BloodySmile used tool "rb655_easy_bodygroup"
+[Thu Apr 16 23:02:31 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [829][lvs_wheeldrive_hummer]"
+[Thu Apr 16 23:02:37 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [890][lvs_wheeldrive_hummer]"
+[Thu Apr 16 23:02:45 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Thu Apr 16 23:02:45 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [828][lvs_wheeldrive_hummer]"
+[Thu Apr 16 23:02:45 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Thu Apr 16 23:02:45 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [890][lvs_wheeldrive_hummer]"
+[Thu Apr 16 23:02:46 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Thu Apr 16 23:02:46 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [916][lvs_wheeldrive_hummer]"
+[Thu Apr 16 23:02:46 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Thu Apr 16 23:02:46 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [938][lvs_wheeldrive_hummer]"
+[Thu Apr 16 23:02:52 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Thu Apr 16 23:02:52 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [828][lvs_wheeldrive_hummer_m134]"
+[Thu Apr 16 23:02:56 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Thu Apr 16 23:02:56 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [828][lvs_wheeldrive_hummer_m2]"
+[Thu Apr 16 23:02:59 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [828][sw_matv]"
+[Thu Apr 16 23:03:01 2026] <STEAM_0:1:54838838> BloodySmile used tool "rb655_easy_bodygroup"
+[Thu Apr 16 23:03:41 2026] <STEAM_0:0:212596445> korask2: // да че я сделол?
+[Thu Apr 16 23:03:51 2026] <STEAM_0:1:54838838> BloodySmile ran command "goto Thompson"
+[Thu Apr 16 23:03:58 2026] Player "Worshiper of God" <STEAM_0:0:74235942> has left the server
+[Thu Apr 16 23:04:04 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [828][lvs_wheeldrive_hummer_m134]"
+[Thu Apr 16 23:04:07 2026] <STEAM_0:1:54838838> BloodySmile used tool "rb655_easy_bodygroup"
+[Thu Apr 16 23:04:46 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Thu Apr 16 23:04:46 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [828][lvs_missile]"
+[Thu Apr 16 23:04:47 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Thu Apr 16 23:04:47 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [830][lvs_missile]"
+[Thu Apr 16 23:04:49 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Thu Apr 16 23:04:49 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [828][lvs_missile]"
+[Thu Apr 16 23:04:50 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Thu Apr 16 23:04:50 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [830][lvs_missile]"
+[Thu Apr 16 23:04:54 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Thu Apr 16 23:04:54 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [828][lvs_missile]"
+[Thu Apr 16 23:05:01 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Thu Apr 16 23:05:01 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [828][lvs_protontorpedo]"
+[Thu Apr 16 23:05:02 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Thu Apr 16 23:05:02 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [830][lvs_protontorpedo]"
+[Thu Apr 16 23:05:03 2026] <STEAM_0:1:54838838> BloodySmile used tool "creator"
+[Thu Apr 16 23:05:03 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [828][lvs_protontorpedo]"
+[Thu Apr 16 23:05:09 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [828][lvs_wheeldrive_hummer_m134]"
+[Thu Apr 16 23:05:11 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [880][lvs_wheeldrive_hummer_m2]"
+[Thu Apr 16 23:05:13 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [908][lvs_wheeldrive_hummer_m240]"
+[Thu Apr 16 23:05:16 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [932][lvs_wheeldrive_hummer_mk19]"
+[Thu Apr 16 23:05:18 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [956][lvs_wheeldrive_hummer_tow]"
+[Thu Apr 16 23:05:38 2026] <STEAM_0:1:54838838> BloodySmile ran command "goto Jackson"
+[Thu Apr 16 23:05:42 2026] <STEAM_0:1:54838838> BloodySmile ran command "respawn Jackson"
+[Thu Apr 16 23:06:40 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [831][sw_matv]"
+[Thu Apr 16 23:06:46 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [831][sw_matv_m2]"
+[Thu Apr 16 23:06:49 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [831][sw_matv_mk19]"
+[Thu Apr 16 23:07:47 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [830][sw_matv_mk19]"
+[Thu Apr 16 23:07:50 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [910][sw_matv_m2]"
+[Thu Apr 16 23:08:19 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [830][sw_bmp3m]"
+[Thu Apr 16 23:08:20 2026] <STEAM_0:1:54838838> BloodySmile used tool "rb655_easy_bodygroup"
+[Thu Apr 16 23:08:22 2026] <STEAM_0:1:54838838> BloodySmile used tool "rb655_easy_bodygroup"
+[Thu Apr 16 23:08:23 2026] <STEAM_0:1:54838838> BloodySmile used tool "rb655_easy_bodygroup"
+[Thu Apr 16 23:08:24 2026] <STEAM_0:1:54838838> BloodySmile used tool "rb655_easy_bodygroup"
+[Thu Apr 16 23:08:26 2026] <STEAM_0:1:54838838> BloodySmile used tool "rb655_easy_bodygroup"
+[Thu Apr 16 23:08:26 2026] <STEAM_0:1:54838838> BloodySmile used tool "rb655_easy_bodygroup"
+[Thu Apr 16 23:08:29 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [830][sw_bmp2m]"
+[Thu Apr 16 23:08:30 2026] <STEAM_0:1:54838838> BloodySmile used tool "rb655_easy_bodygroup"
+[Thu Apr 16 23:08:32 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [945][sw_bmpt72]"
+[Thu Apr 16 23:08:32 2026] <STEAM_0:1:54838838> BloodySmile used tool "rb655_easy_bodygroup"
+[Thu Apr 16 23:08:34 2026] <STEAM_0:1:54838838> BloodySmile used tool "rb655_easy_bodygroup"
+[Thu Apr 16 23:08:35 2026] <STEAM_0:1:54838838> BloodySmile used tool "rb655_easy_bodygroup"
+[Thu Apr 16 23:08:36 2026] <STEAM_0:1:54838838> BloodySmile used tool "rb655_easy_bodygroup"
+[Thu Apr 16 23:08:37 2026] <STEAM_0:1:54838838> BloodySmile used tool "rb655_easy_bodygroup"
+[Thu Apr 16 23:08:37 2026] <STEAM_0:1:54838838> BloodySmile used tool "rb655_easy_bodygroup"
+[Thu Apr 16 23:08:48 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [830][sw_t90m]"
+[Thu Apr 16 23:08:49 2026] <STEAM_0:1:54838838> BloodySmile used tool "rb655_easy_bodygroup"
+[Thu Apr 16 23:08:50 2026] <STEAM_0:1:54838838> BloodySmile used tool "rb655_easy_bodygroup"
+[Thu Apr 16 23:10:15 2026] <STEAM_0:1:54838838> BloodySmile: /char
+[Thu Apr 16 23:10:24 2026] kamekadz.banzai has killed korask2.
+[Thu Apr 16 23:10:58 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: сыыыр
+[Thu Apr 16 23:11:10 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: /me сделал фото
+[Thu Apr 16 23:12:01 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: к углу
+[Thu Apr 16 23:12:11 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: точно?
+[Thu Apr 16 23:12:45 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: cnjq
+[Thu Apr 16 23:12:48 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: стой
+[Thu Apr 16 23:12:57 2026] kamekadz.banzai has killed korask2.
+[Thu Apr 16 23:13:27 2026] <STEAM_0:1:54838838> BloodySmile ran command "respawn Carter"
+[Thu Apr 16 23:13:34 2026] korask2 has killed korask2.
+[Thu Apr 16 23:14:11 2026] <STEAM_0:0:390862311> kamekadz.banzai: /me отрезал голову
+[Thu Apr 16 23:14:35 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: надо еще ловить
+[Thu Apr 16 23:14:45 2026] <STEAM_0:0:390862311> kamekadz.banzai spawned prop "Entity [744][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1.mdl)"
+[Thu Apr 16 23:14:49 2026] <STEAM_0:0:390862311> kamekadz.banzai spawned prop "Entity [745][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1.mdl)"
+[Thu Apr 16 23:14:50 2026] <STEAM_0:0:390862311> kamekadz.banzai spawned prop "Entity [749][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1.mdl)"
+[Thu Apr 16 23:14:51 2026] <STEAM_0:0:390862311> kamekadz.banzai spawned prop "Entity [750][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1.mdl)"
+[Thu Apr 16 23:14:51 2026] <STEAM_0:0:390862311> kamekadz.banzai spawned prop "Entity [751][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1.mdl)"
+[Thu Apr 16 23:14:52 2026] <STEAM_0:0:390862311> kamekadz.banzai spawned prop "Entity [752][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1.mdl)"
+[Thu Apr 16 23:14:53 2026] <STEAM_0:0:390862311> kamekadz.banzai spawned prop "Entity [753][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1.mdl)"
+[Thu Apr 16 23:14:58 2026] <STEAM_0:0:390862311> kamekadz.banzai spawned prop "Entity [755][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1.mdl)"
+[Thu Apr 16 23:15:05 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: У меня в расте опыт неплохой
+[Thu Apr 16 23:16:57 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [749][sw_puma]"
+[Thu Apr 16 23:18:00 2026] Player "GameBusket" <STEAM_0:1:943713094> is attempting to connect.
+[Thu Apr 16 23:18:00 2026] <STEAM_0:1:54838838> BloodySmile ran command "goto Псковский "
+[Thu Apr 16 23:18:31 2026] <STEAM_0:1:54838838> BloodySmile: /char
+[Thu Apr 16 23:18:33 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: /rf так рейд от 3 людей
+[Thu Apr 16 23:18:34 2026] Player "GameBusket" <STEAM_0:1:943713094> is attempting to connect.
+[Thu Apr 16 23:18:59 2026] Player "impotent" <STEAM_0:1:425612974> is attempting to connect.
+[Thu Apr 16 23:19:04 2026] <STEAM_0:1:54838838> BloodySmile: /char
+[Thu Apr 16 23:19:09 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: /com НАТО, подключитесь к 2 РЧ
+[Thu Apr 16 23:19:13 2026] Player "GameBusket" <STEAM_0:1:943713094> is attempting to connect.
+[Thu Apr 16 23:19:16 2026] <STEAM_0:1:54838838> BloodySmile: /char
+[Thu Apr 16 23:19:27 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: Тэк
+[Thu Apr 16 23:20:10 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: Короче говори ему мирно сдаваться
+[Thu Apr 16 23:21:15 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: У тебя только глушак больше твоей ноги
+[Thu Apr 16 23:22:37 2026] Player "impotent" <STEAM_0:1:425612974> has spawned in the server
+[Thu Apr 16 23:23:56 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: /looc Да не, в бан как-то не хочется за Raid Rules
+[Thu Apr 16 23:25:04 2026] kamekadz.banzai has killed 𝗺𝟏𝗿𝗮𝗰𝗹𝗲.
+[Thu Apr 16 23:25:46 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: Of gjujlm
+[Thu Apr 16 23:26:10 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [139][sw_puma]"
+[Thu Apr 16 23:26:10 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: /looc Лан я короче спать, до завтра
+[Thu Apr 16 23:26:18 2026] kamekadz.banzai has killed 𝗺𝟏𝗿𝗮𝗰𝗹𝗲.
+[Thu Apr 16 23:26:20 2026] Player "𝗺𝟏𝗿𝗮𝗰𝗹𝗲" <STEAM_0:0:869238922> has left the server
+[Thu Apr 16 23:26:22 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [146][sw_puma]"
+[Thu Apr 16 23:26:29 2026] Player "kamekadz.banzai" <STEAM_0:0:390862311> has left the server
+[Thu Apr 16 23:26:32 2026] Player "𝗺𝟏𝗿𝗮𝗰𝗹𝗲" <STEAM_0:0:869238922> is attempting to connect.
+[Thu Apr 16 23:26:38 2026] <STEAM_0:1:54838838> BloodySmile ran command "goto Белик"
+[Thu Apr 16 23:26:45 2026] <STEAM_0:1:54838838> BloodySmile: /char
+[Thu Apr 16 23:27:04 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [150][sw_t90m_arena]"
+[Thu Apr 16 23:27:11 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [904][sw_t90m_arena]"
+[Thu Apr 16 23:27:32 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [104][sw_bmp2m]"
+[Thu Apr 16 23:29:11 2026] impotent has killed korask2.
+[Thu Apr 16 23:29:25 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [141][sw_t90m_arena]"
+[Thu Apr 16 23:29:27 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [819][sw_t90m_arena]"
+[Thu Apr 16 23:29:34 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [904][sw_t90m_arena]"
+[Thu Apr 16 23:29:36 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [818][sw_t90m_arena]"
+[Thu Apr 16 23:30:10 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [104][prop_physics] (models/crysis/barriers/concrete_wall/wall_catwalk/wall_catwalk_tcorner.mdl)"
+[Thu Apr 16 23:30:18 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [104][prop_physics] (models/crysis/barriers/concrete_wall/wall_catwalk/wall_catwalk_tcorner.mdl)"
+[Thu Apr 16 23:30:24 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [104][prop_physics] (models/crysis/barriers/sandbags/sandbag_big.mdl)"
+[Thu Apr 16 23:30:25 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [142][prop_physics] (models/crysis/barriers/sandbags/sandbag_big_structure_a.mdl)"
+[Thu Apr 16 23:30:27 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [739][prop_physics] (models/crysis/barriers/sandbags/sandbag_big_structure_b.mdl)"
+[Thu Apr 16 23:30:29 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [142][prop_physics] (models/crysis/barriers/sandbags/sandbag_big_structure_a.mdl)"
+[Thu Apr 16 23:30:31 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [746][prop_physics] (models/crysis/barriers/sandbags/sandbag_big_structure_b.mdl)"
+[Thu Apr 16 23:30:33 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [747][prop_physics] (models/crysis/barriers/sandbags/sandbag_big_structure_c.mdl)"
+[Thu Apr 16 23:30:34 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [746][prop_physics] (models/crysis/barriers/sandbags/sandbag_big_structure_c.mdl)"
+[Thu Apr 16 23:30:37 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [104][prop_physics] (models/crysis/barriers/concrete_wall/concrete_wall_16m_c.mdl)"
+[Thu Apr 16 23:30:39 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [141][prop_physics] (models/crysis/barriers/concrete_wall/concrete_wall_16m_c.mdl)"
+[Thu Apr 16 23:30:40 2026] <STEAM_0:1:54838838> BloodySmile used tool "rb655_easy_bodygroup"
+[Thu Apr 16 23:32:38 2026] korask2 has killed impotent.
+[Thu Apr 16 23:32:45 2026] <STEAM_0:1:425612974> impotent: /logs
+[Thu Apr 16 23:33:24 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [749][prop_physics] (models/crysis/barriers/concrete_wall/concrete_wall_base/concrete_wall_base_gatehouse.mdl)"
+[Thu Apr 16 23:34:43 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [141][prop_physics] (models/crysis/barriers/railroad_crossing/railroad_crossing.mdl)"
+[Thu Apr 16 23:34:45 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [749][prop_physics] (models/crysis/barriers/railroad_crossing/railroad_crossing.mdl)"
+[Thu Apr 16 23:34:51 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [141][prop_physics] (models/crysis/barriers/railroad_crossing/railroad_crossing_open.mdl)"
+[Thu Apr 16 23:34:53 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [141][prop_physics] (models/crysis/barriers/razorwire/razorwire1_asian_4x.mdl)"
+[Thu Apr 16 23:35:17 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [141][prop_physics] (models/crysis/barriers/razorwire/razorwire1_asian_corner.mdl)"
+[Thu Apr 16 23:35:19 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [141][prop_physics] (models/crysis/barriers/razorwire/razorwire1_asian_4x_rope.mdl)"
+[Thu Apr 16 23:35:21 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [141][prop_physics] (models/crysis/barriers/razorwire/razorwire1_asian_4x.mdl)"
+[Thu Apr 16 23:35:24 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [749][prop_physics] (models/crysis/barriers/razorwire/razorwire1_asian_corner.mdl)"
+[Thu Apr 16 23:35:25 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [751][prop_physics] (models/crysis/barriers/razorwire/razorwire1_asian_dual_4x.mdl)"
+[Thu Apr 16 23:35:25 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [752][prop_physics] (models/crysis/barriers/razorwire/razorwire1_asian_dual_corner.mdl)"
+[Thu Apr 16 23:35:49 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [141][prop_physics] (models/crysis/barriers/razorwire/razorwire1_asian_dual_corner.mdl)"
+[Thu Apr 16 23:35:53 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [141][prop_physics] (models/crysis/barriers/razorwire/razorwire1_asian_dual_wood_4x.mdl)"
+[Thu Apr 16 23:35:57 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [141][prop_physics] (models/crysis/barriers/razorwire/razorwire1_asian_dual_wood_4x_b.mdl)"
+[Thu Apr 16 23:36:05 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [141][prop_physics] (models/crysis/barriers/sandbags/curve_big.mdl)"
+[Thu Apr 16 23:36:07 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [749][prop_physics] (models/crysis/barriers/sandbags/curve_big_to_small.mdl)"
+[Thu Apr 16 23:36:08 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [751][prop_physics] (models/crysis/barriers/sandbags/curve_big_to_small2.mdl)"
+[Thu Apr 16 23:36:17 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [141][prop_physics] (models/crysis/barriers/sandbags/long_big.mdl)"
+[Thu Apr 16 23:36:21 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [749][prop_physics] (models/crysis/barriers/sandbags/long_small.mdl)"
+[Thu Apr 16 23:37:04 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [141][prop_physics] (models/crysis/barriers/sandbags/support_big.mdl)"
+[Thu Apr 16 23:37:06 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [749][prop_physics] (models/crysis/barriers/sandbags/support_small.mdl)"
+[Thu Apr 16 23:37:08 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [141][prop_physics] (models/crysis/barriers/tank_trap/tank_trap.mdl)"
+[Thu Apr 16 23:37:12 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [141][prop_physics] (models/crysis/barriers/tank_trap/tank_trap.mdl)"
+[Thu Apr 16 23:37:14 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [749][prop_physics] (models/total_conflict/prop/antenns/sm_tr_antenna_01.mdl)"
+[Thu Apr 16 23:37:15 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [751][prop_physics] (models/total_conflict/prop/des_veh/abrams/abrams_damaged.mdl)"
+[Thu Apr 16 23:37:18 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [749][prop_physics] (models/total_conflict/prop/dot/dot_01.mdl)"
+[Thu Apr 16 23:37:19 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [749][prop_physics] (models/total_conflict/prop/des_veh/tigrm/tigrm_damage.mdl)"
+[Thu Apr 16 23:37:21 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [749][prop_physics] (models/total_conflict/prop/dot/dzot_01.mdl)"
+[Thu Apr 16 23:37:22 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [751][prop_physics] (models/total_conflict/prop/dot/dzot_05.mdl)"
+[Thu Apr 16 23:37:23 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [749][prop_physics] (models/total_conflict/prop/fence/sm_fence_barbwire.mdl)"
+[Thu Apr 16 23:37:24 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [751][prop_physics] (models/total_conflict/prop/fence/sm_fence_barbwire_corner.mdl)"
+[Thu Apr 16 23:37:24 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [749][prop_physics] (models/total_conflict/prop/wall/wall_big_wood.mdl)"
+[Thu Apr 16 23:37:25 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [751][prop_physics] (models/total_conflict/prop/wall/wall_big_wood_02.mdl)"
+[Thu Apr 16 23:37:38 2026] <STEAM_0:1:54838838> BloodySmile ran command "goto Thompson"
+[Thu Apr 16 23:37:44 2026] korask2 has killed impotent.
+[Thu Apr 16 23:37:59 2026] <STEAM_0:1:54838838> BloodySmile spawned SWEP "Weapon [104][alydus_fortificationbuildertablet]"
+[Thu Apr 16 23:38:11 2026] <STEAM_0:0:212596445> korask2 spawned prop "Entity [142][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1_tall.mdl)"
+[Thu Apr 16 23:38:39 2026] <STEAM_0:0:212596445> korask2 spawned prop "Entity [142][alydus_destructiblefortification] (models/props_fortifications/concrete_barrier001_128_reference.mdl)"
+[Thu Apr 16 23:38:42 2026] <STEAM_0:0:212596445> korask2 spawned prop "Entity [739][alydus_destructiblefortification] (models/props_fortifications/concrete_barrier001_128_reference.mdl)"
+[Thu Apr 16 23:38:45 2026] <STEAM_0:0:212596445> korask2: 26
+[Thu Apr 16 23:39:07 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [142][prop_physics] (models/total_conflict/prop/des_veh/t72b/t72b_damaged.mdl)"
+[Thu Apr 16 23:39:08 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [748][prop_physics] (models/crysis/barriers/tank_trap/tank_trap.mdl)"
+[Thu Apr 16 23:39:11 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [142][prop_physics] (models/total_conflict/prop/des_veh/tigrm/tigrm_damage.mdl)"
+[Thu Apr 16 23:39:12 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [142][prop_physics] (models/total_conflict/prop/wall/wall_big_wood_02.mdl)"
+[Thu Apr 16 23:39:14 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [761][prop_physics] (models/total_conflict/prop/wall/wall_big_wood.mdl)"
+[Thu Apr 16 23:39:15 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [142][prop_physics] (models/total_conflict/prop/des_veh/abrams/abrams_damaged.mdl)"
+[Thu Apr 16 23:39:16 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [761][prop_physics] (models/total_conflict/prop/anti_tank/anti_tank.mdl)"
+[Thu Apr 16 23:39:17 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [142][prop_physics] (models/total_conflict/prop/anti_tank/anti_tank.mdl)"
+[Thu Apr 16 23:39:40 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [142][prop_physics] (models/ninja/esp/fortification/hescobarrierpyramidbig.mdl)"
+[Thu Apr 16 23:39:42 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [141][prop_physics] (models/ninja/esp/fortification/hescobarrierpyramidbig.mdl)"
+[Thu Apr 16 23:39:48 2026] <STEAM_0:1:54838838> BloodySmile ran command "goto Thompson"
+[Thu Apr 16 23:39:59 2026] <STEAM_0:0:212596445> korask2: 26
+[Thu Apr 16 23:40:08 2026] <STEAM_0:0:212596445> korask2 spawned prop "Entity [141][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1.mdl)"
+[Thu Apr 16 23:40:38 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [141][prop_physics] (models/ninja/esp/fortification/hescobarrierpyramidbig.mdl)"
+[Thu Apr 16 23:40:46 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [141][prop_physics] (models/crysis/barriers/sandbags/sandbag_big_structure_e.mdl)"
+[Thu Apr 16 23:40:55 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [141][prop_physics] (models/total_conflict/prop/antenns/sm_tr_antenna_01.mdl)"
+[Thu Apr 16 23:40:57 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [142][prop_physics] (models/total_conflict/prop/dot/dot_01.mdl)"
+[Thu Apr 16 23:40:58 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [141][prop_physics] (models/total_conflict/prop/dot/dot_02.mdl)"
+[Thu Apr 16 23:41:07 2026] korask2 has killed impotent.
+[Thu Apr 16 23:41:27 2026] <STEAM_0:1:54838838> BloodySmile ran command "goto Thompson"
+[Thu Apr 16 23:41:33 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [141][prop_physics] (models/total_conflict/prop/dot/dot_01.mdl)"
+[Thu Apr 16 23:41:47 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [746][prop_physics] (models/total_conflict/prop/dot/dot_02.mdl)"
+[Thu Apr 16 23:42:48 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [141][prop_physics] (models/total_conflict/prop/dot/dot_01.mdl)"
+[Thu Apr 16 23:43:00 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [141][prop_physics] (models/total_conflict/prop/wall/wall_big_wood.mdl)"
+[Thu Apr 16 23:43:02 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [739][prop_physics] (models/total_conflict/prop/fence/sm_fence_barbwire_corner.mdl)"
+[Thu Apr 16 23:43:03 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [141][prop_physics] (models/total_conflict/prop/dot/dzot_01.mdl)"
+[Thu Apr 16 23:43:12 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [141][prop_physics] (models/total_conflict/prop/dot/dot_02.mdl)"
+[Thu Apr 16 23:43:14 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [739][prop_physics] (models/total_conflict/prop/dot/dzot_05.mdl)"
+[Thu Apr 16 23:43:23 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [141][prop_physics] (models/total_conflict/prop/fence/sm_fence_barbwire.mdl)"
+[Thu Apr 16 23:43:25 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [739][prop_physics] (models/total_conflict/prop/fence/sm_fence_barbwire_corner.mdl)"
+[Thu Apr 16 23:43:26 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [141][prop_physics] (models/total_conflict/prop/wall/wall_big_wood.mdl)"
+[Thu Apr 16 23:43:27 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [739][prop_physics] (models/total_conflict/prop/wall/wall_big_wood_02.mdl)"
+[Thu Apr 16 23:43:29 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [141][prop_physics] (models/total_conflict/prop/wall/wall_big_wood.mdl)"
+[Thu Apr 16 23:43:31 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [746][prop_physics] (models/total_conflict/prop/wall/wall_big_wood_02.mdl)"
+[Thu Apr 16 23:43:46 2026] impotent has killed korask2.
+[Thu Apr 16 23:43:47 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [104][prop_physics] (models/ninja/esp/fortification/sandbagwalllow.mdl)"
+[Thu Apr 16 23:43:49 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [141][prop_physics] (models/ninja/esp/fortification/sandbagwalllow.mdl)"
+[Thu Apr 16 23:43:50 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [104][prop_physics] (models/ninja/esp/fortification/sandbagwall.mdl)"
+[Thu Apr 16 23:43:58 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [104][prop_physics] (models/crysis/barriers/concrete_wall/gate/gate_6m.mdl)"
+[Thu Apr 16 23:44:10 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [104][prop_physics] (models/crysis/barriers/concrete_wall/concrete_wall_base/concrete_wall_base_gatehouse.mdl)"
+[Thu Apr 16 23:44:17 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [143][prop_physics] (models/crysis/barriers/concrete_wall/gate/gate_6m.mdl)"
+[Thu Apr 16 23:44:22 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [150][prop_physics] (models/crysis/barriers/concrete_wall/concrete_wall_base_rubble/concrete_wall_base_rubble_2.mdl)"
+[Thu Apr 16 23:44:24 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [143][prop_physics] (models/crysis/barriers/concrete_wall/concrete_wall_base_rubble/concrete_wall_base_rubble_1.mdl)"
+[Thu Apr 16 23:45:20 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [153][prop_physics] (models/sw/shared/cope_cage.mdl)"
+[Thu Apr 16 23:45:33 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [153][prop_physics] (models/cars/usa/hummer/humvee.mdl)"
+[Thu Apr 16 23:45:37 2026] <STEAM_0:1:54838838> BloodySmile used tool "rb655_easy_bodygroup"
+[Thu Apr 16 23:45:47 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [141][prop_physics] (models/kamaz5350/mil_frame/kamaz_frame.mdl)"
+[Thu Apr 16 23:45:48 2026] <STEAM_0:1:54838838> BloodySmile used tool "rb655_easy_bodygroup"
+[Thu Apr 16 23:46:05 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [141][prop_physics] (models/sw/ground/m3a3/m3a3.mdl)"
+[Thu Apr 16 23:46:05 2026] <STEAM_0:1:54838838> BloodySmile used tool "rb655_easy_bodygroup"
+[Thu Apr 16 23:46:12 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [141][prop_physics] (models/diggercars/abrams_m1a1/abrams.mdl)"
+[Thu Apr 16 23:46:12 2026] <STEAM_0:1:54838838> BloodySmile used tool "rb655_easy_bodygroup"
+[Thu Apr 16 23:46:32 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [141][prop_physics] (models/diggercars/m3a3/m3a3.mdl)"
+[Thu Apr 16 23:46:32 2026] <STEAM_0:1:54838838> BloodySmile used tool "rb655_easy_bodygroup"
+[Thu Apr 16 23:46:39 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [141][prop_physics] (models/kamaz5350/mil_cargo/kamaz_cargo.mdl)"
+[Thu Apr 16 23:46:40 2026] <STEAM_0:1:54838838> BloodySmile used tool "rb655_easy_bodygroup"
+[Thu Apr 16 23:46:48 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [141][prop_physics] (models/sw/ground/leopard2a6m/leopard2a6m.mdl)"
+[Thu Apr 16 23:46:49 2026] <STEAM_0:1:54838838> BloodySmile used tool "rb655_easy_bodygroup"
+[Thu Apr 16 23:46:56 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [141][prop_physics] (models/generic/ammocrate1.mdl)"
+[Thu Apr 16 23:46:59 2026] impotent has killed korask2.
+[Thu Apr 16 23:47:02 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [104][prop_physics] (models/kamaz5350/mil_repair/kamaz_repair.mdl)"
+[Thu Apr 16 23:47:03 2026] <STEAM_0:1:54838838> BloodySmile used tool "rb655_easy_bodygroup"
+[Thu Apr 16 23:47:06 2026] <STEAM_0:1:425612974> impotent: /logs
+[Thu Apr 16 23:47:15 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [104][prop_physics] (models/sw/shared/uav_control.mdl)"
+[Thu Apr 16 23:47:22 2026] <STEAM_0:1:54838838> BloodySmile spawned prop "Entity [104][prop_physics] (models/static_junk/ir_metalsheet_01c.mdl)"
+[Thu Apr 16 23:47:33 2026] <STEAM_0:1:54838838> BloodySmile spawned effect "Entity [104][prop_effect] (models/sw/rus/weapons/lancet_launcher.mdl)"
+[Thu Apr 16 23:47:38 2026] <STEAM_0:0:212596445> korask2: // бб
+[Thu Apr 16 23:47:40 2026] Player "korask2" <STEAM_0:0:212596445> has left the server
+[Thu Apr 16 23:50:45 2026] <STEAM_0:1:425612974> impotent spawned npc "NPC [739][npc_monk]"
+[Thu Apr 16 23:50:49 2026] <STEAM_0:1:425612974> impotent spawned npc "NPC [739][npc_hunter]"
+[Thu Apr 16 23:50:57 2026] <STEAM_0:1:425612974> impotent spawned npc "NPC [739][npc_hunter]"
+[Thu Apr 16 23:51:00 2026] <STEAM_0:1:425612974> impotent spawned npc "NPC [757][npc_hunter]"
+[Thu Apr 16 23:57:13 2026] <STEAM_0:1:425612974> impotent spawned npc "NPC [762][npc_hunter]"
+[Thu Apr 16 23:57:25 2026] <STEAM_0:1:425612974> impotent spawned npc "NPC [762][npc_hunter]"
+[Thu Apr 16 23:57:37 2026] <STEAM_0:1:425612974> impotent spawned npc "NPC [762][npc_hunter]"
+[Thu Apr 16 23:57:46 2026] <STEAM_0:1:425612974> impotent spawned npc "NPC [762][npc_hunter]"
+[Thu Apr 16 23:57:54 2026] <STEAM_0:1:425612974> impotent spawned npc "NPC [763][npc_metropolice]"
+[Thu Apr 16 23:58:06 2026] <STEAM_0:1:425612974> impotent spawned npc "NPC [762][npc_hunter]"
+[Thu Apr 16 23:58:07 2026] <STEAM_0:1:425612974> impotent spawned npc "NPC [763][npc_hunter]"
+[Thu Apr 16 23:58:07 2026] <STEAM_0:1:425612974> impotent spawned npc "NPC [764][npc_hunter]"
+[Thu Apr 16 23:58:08 2026] <STEAM_0:1:425612974> impotent spawned npc "NPC [771][npc_hunter]"
+[Thu Apr 16 23:58:31 2026] <STEAM_0:1:425612974> impotent spawned npc "NPC [762][npc_hunter]"
+[Thu Apr 16 23:58:55 2026] <STEAM_0:1:425612974> impotent spawned npc "NPC [763][npc_hunter]"
+[Thu Apr 16 23:59:05 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [764][lvs_vehicle_spammer]"
+[Thu Apr 16 23:59:07 2026] <STEAM_0:1:54838838> BloodySmile used tool "rb655_easy_bodygroup"
+[Thu Apr 16 23:59:09 2026] <STEAM_0:1:54838838> BloodySmile used tool "rb655_easy_bodygroup"
+[Thu Apr 16 23:59:10 2026] <STEAM_0:1:425612974> impotent spawned npc "NPC [765][npc_hunter]"
+[Thu Apr 16 23:59:14 2026] <STEAM_0:1:425612974> impotent spawned npc "NPC [769][npc_hunter]"
+[Thu Apr 16 23:59:15 2026] <STEAM_0:1:54838838> BloodySmile used tool "rb655_easy_bodygroup"
+[Thu Apr 16 23:59:17 2026] <STEAM_0:1:54838838> BloodySmile used tool "rb655_easy_bodygroup"
+[Thu Apr 16 23:59:18 2026] <STEAM_0:1:54838838> BloodySmile used tool "rb655_easy_bodygroup"
+[Thu Apr 16 23:59:19 2026] <STEAM_0:1:54838838> BloodySmile used tool "rb655_easy_bodygroup"
+[Thu Apr 16 23:59:19 2026] <STEAM_0:1:54838838> BloodySmile used tool "rb655_easy_bodygroup"
+[Thu Apr 16 23:59:19 2026] <STEAM_0:1:54838838> BloodySmile used tool "rb655_easy_bodygroup"
+[Thu Apr 16 23:59:28 2026] <STEAM_0:1:54838838> BloodySmile used tool "rb655_easy_bodygroup"
+[Thu Apr 16 23:59:28 2026] <STEAM_0:1:54838838> BloodySmile used tool "rb655_easy_bodygroup"
+[Thu Apr 16 23:59:30 2026] <STEAM_0:1:425612974> impotent spawned SENT "Entity [765][lvs_helicopter_combine]"
+[Thu Apr 16 23:59:39 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [765][lvs_concussionmissile]"
+[Thu Apr 16 23:59:40 2026] <STEAM_0:1:425612974> impotent spawned SENT "Entity [766][lvs_helicopter_combinegunship]"
+[Thu Apr 16 23:59:41 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [765][lvs_vehicle_air_refil]"
+[Thu Apr 16 23:59:42 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 23:59:43 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 23:59:44 2026] <STEAM_0:1:425612974> impotent spawned SENT "Entity [765][lvs_helicopter_combinegunship]"
+[Thu Apr 16 23:59:44 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 23:59:44 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 23:59:45 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 23:59:45 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 23:59:45 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 23:59:45 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 23:59:45 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 23:59:45 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 23:59:46 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 23:59:46 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 23:59:46 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 23:59:46 2026] <STEAM_0:1:54838838> BloodySmile used tool "precision"
+[Thu Apr 16 23:59:55 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [768][lvs_trailer_flak]"

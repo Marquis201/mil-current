@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\texture_fsb\mask_04"
+	$alphatest                   1
+
+}

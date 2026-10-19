@@ -1,0 +1,14 @@
+[Sun Jan  4 18:42:12 2026] Player "𝙙𝙖𝙧𝙠𝙣𝙚𝙨𝙨" <STEAM_0:1:500787472> is attempting to connect.
+[Sun Jan  4 18:53:48 2026] Player "𝙙𝙖𝙧𝙠𝙣𝙚𝙨𝙨" <STEAM_0:1:500787472> has spawned in the server
+[Sun Jan  4 19:03:37 2026] <STEAM_0:1:500787472> 𝙙𝙖𝙧𝙠𝙣𝙚𝙨𝙨: /me показал удостоверение личности: [Никифоров И.С.] {МЙР} [5 МСД] [ОШД]
+[Sun Jan  4 19:07:14 2026] <STEAM_0:1:500787472> 𝙙𝙖𝙧𝙠𝙣𝙚𝙨𝙨: /// тут есть кто
+[Sun Jan  4 19:08:21 2026] <STEAM_0:1:500787472> 𝙙𝙖𝙧𝙠𝙣𝙚𝙨𝙨: /me показал удостоверение личности: [Никифоров И.С.] {МЙР} [5 МСД] [ОШД]
+[Sun Jan  4 19:17:24 2026] Player "𝙙𝙖𝙧𝙠𝙣𝙚𝙨𝙨" <STEAM_0:1:500787472> has left the server
+[Sun Jan  4 20:18:26 2026] Player "The king of Low tab" <STEAM_0:0:781917709> is attempting to connect.
+[Sun Jan  4 20:30:35 2026] Player "The king of Low tab" <STEAM_0:0:781917709> has spawned in the server
+[Sun Jan  4 20:32:29 2026] Player "The king of Low tab" <STEAM_0:0:781917709> has left the server
+[Sun Jan  4 21:06:50 2026] Player "dezzy?" <STEAM_0:1:713724177> is attempting to connect.
+[Sun Jan  4 21:47:03 2026] Player "sosiska123" <STEAM_0:0:865280837> is attempting to connect.
+[Sun Jan  4 21:58:32 2026] Player "sosiska123" <STEAM_0:0:865280837> has spawned in the server
+[Sun Jan  4 22:04:14 2026] Player "sosiska123" <STEAM_0:0:865280837> has left the server
+[Sun Jan  4 22:12:01 2026] Player "ei017727" <STEAM_0:1:413064979> is attempting to connect.

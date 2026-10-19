@@ -1,0 +1,73 @@
+[Wed May 13 09:15:04 2026] Player "TYURBALE" <STEAM_0:1:223548399> is attempting to connect.
+[Wed May 13 09:15:32 2026] Player "TYURBALE" <STEAM_0:1:223548399> has spawned in the server
+[Wed May 13 09:35:12 2026] Player "david280911" <STEAM_0:1:839860057> is attempting to connect.
+[Wed May 13 09:36:44 2026] Player "david280911" <STEAM_0:1:839860057> has spawned in the server
+[Wed May 13 09:37:47 2026] rgd5_srpnl has killed TYURBALE.
+[Wed May 13 09:58:14 2026] <STEAM_0:1:839860057> david280911: потому что я и сам лагаю
+[Wed May 13 09:58:22 2026] <STEAM_0:1:223548399> TYURBALE: ААА ПОН
+[Wed May 13 09:58:38 2026] <STEAM_0:1:839860057> david280911: ладно я пошел
+[Wed May 13 09:58:42 2026] <STEAM_0:1:223548399> TYURBALE: ок
+[Wed May 13 10:00:18 2026] Player "david280911" <STEAM_0:1:839860057> has left the server
+[Wed May 13 10:03:12 2026] Player "TYURBALE" <STEAM_0:1:223548399> has left the server
+[Wed May 13 10:56:52 2026] Player "TYURBALE" <STEAM_0:1:223548399> is attempting to connect.
+[Wed May 13 10:57:34 2026] Player "TYURBALE" <STEAM_0:1:223548399> has spawned in the server
+[Wed May 13 10:57:48 2026] Player "TYURBALE" <STEAM_0:1:223548399> has left the server
+[Wed May 13 13:06:42 2026] Player "TYURBALE" <STEAM_0:1:223548399> is attempting to connect.
+[Wed May 13 13:07:08 2026] Player "TYURBALE" <STEAM_0:1:223548399> has spawned in the server
+[Wed May 13 13:11:51 2026] <STEAM_0:1:223548399> TYURBALE: Внимание на квадрат: I9
+[Wed May 13 13:11:51 2026] <STEAM_0:1:223548399> TYURBALE: Внимание на квадрат: I9
+[Wed May 13 13:25:48 2026] Player "yzy.0911" <STEAM_0:0:392798433> is attempting to connect.
+[Wed May 13 13:27:57 2026] Player "WeirdxDude" <STEAM_0:1:596323906> is attempting to connect.
+[Wed May 13 13:31:38 2026] <STEAM_0:1:223548399> TYURBALE: Есть кто на сервере ?
+[Wed May 13 14:01:54 2026] <STEAM_0:1:223548399> TYURBALE: ффнннннннннннннннннннннннн
+[Wed May 13 14:12:54 2026] Player "TYURBALE" <STEAM_0:1:223548399> has left the server
+[Wed May 13 15:40:00 2026] Player "Капитан Кунька" <STEAM_0:1:114573291> is attempting to connect.
+[Wed May 13 15:42:35 2026] Player "Капитан Кунька" <STEAM_0:1:114573291> is attempting to connect.
+[Wed May 13 15:45:30 2026] Player "david280911" <STEAM_0:1:839860057> is attempting to connect.
+[Wed May 13 15:46:31 2026] Player "david280911" <STEAM_0:1:839860057> has spawned in the server
+[Wed May 13 15:46:56 2026] Player "david280911" <STEAM_0:1:839860057> has left the server
+[Wed May 13 15:59:41 2026] Player "Капитан Кунька" <STEAM_0:1:114573291> has spawned in the server
+[Wed May 13 16:01:32 2026] <STEAM_0:1:114573291> Капитан Кунька: Внимание на квадрат: E4
+[Wed May 13 16:01:32 2026] <STEAM_0:1:114573291> Капитан Кунька: Внимание на квадрат: E4
+[Wed May 13 16:01:33 2026] <STEAM_0:1:114573291> Капитан Кунька: Внимание на квадрат: G4
+[Wed May 13 16:01:33 2026] <STEAM_0:1:114573291> Капитан Кунька: Внимание на квадрат: G4
+[Wed May 13 16:01:33 2026] <STEAM_0:1:114573291> Капитан Кунька: Внимание на квадрат: D6
+[Wed May 13 16:01:34 2026] <STEAM_0:1:114573291> Капитан Кунька: Внимание на квадрат: D6
+[Wed May 13 16:01:34 2026] <STEAM_0:1:114573291> Капитан Кунька: Внимание на квадрат: E5
+[Wed May 13 16:01:34 2026] <STEAM_0:1:114573291> Капитан Кунька: Внимание на квадрат: E5
+[Wed May 13 16:03:54 2026] Player "vasinmaksim78" <STEAM_0:0:944906002> is attempting to connect.
+[Wed May 13 16:07:51 2026] Console ran command "rank STEAM_0 : 1 : 114573291 admin"
+[Wed May 13 16:08:18 2026] Console ran command "rank STEAM_0 : 1 : 114573291 sadmin"
+[Wed May 13 16:08:24 2026] Console ran command "rank STEAM_0:1:114573291 sadmin"
+[Wed May 13 16:14:17 2026] Player "vasinmaksim78" <STEAM_0:0:944906002> has spawned in the server
+[Wed May 13 16:15:44 2026] <STEAM_0:1:114573291> Капитан Кунька spawned SENT "Entity [630][sw_bmp1]"
+[Wed May 13 16:15:51 2026] <STEAM_0:1:114573291> Капитан Кунька spawned SENT "Entity [817][sw_bmp1am]"
+[Wed May 13 16:15:52 2026] <STEAM_0:1:114573291> Капитан Кунька spawned SENT "Entity [699][sw_bmp1m]"
+[Wed May 13 16:15:54 2026] <STEAM_0:1:114573291> Капитан Кунька spawned SENT "Entity [630][sw_bmp1p]"
+[Wed May 13 16:15:55 2026] <STEAM_0:1:114573291> Капитан Кунька spawned SENT "Entity [699][sw_bmp2]"
+[Wed May 13 16:15:56 2026] <STEAM_0:1:114573291> Капитан Кунька spawned SENT "Entity [630][sw_bmp2m]"
+[Wed May 13 16:15:58 2026] <STEAM_0:1:114573291> Капитан Кунька spawned SENT "Entity [699][sw_bmp3]"
+[Wed May 13 16:15:59 2026] <STEAM_0:1:114573291> Капитан Кунька spawned SENT "Entity [626][sw_bmp3m]"
+[Wed May 13 16:16:01 2026] <STEAM_0:1:114573291> Капитан Кунька spawned SENT "Entity [699][sw_bmpt72]"
+[Wed May 13 16:16:03 2026] <STEAM_0:1:114573291> Капитан Кунька spawned SENT "Entity [626][sw_eitan]"
+[Wed May 13 16:17:31 2026] <STEAM_0:1:114573291> Капитан Кунька spawned npc "NPC [626][npc_vj_re5_em81]"
+[Wed May 13 16:17:33 2026] <STEAM_0:1:114573291> Капитан Кунька spawned npc "NPC [630][npc_vj_re5_em81_boss]"
+[Wed May 13 16:17:34 2026] <STEAM_0:1:114573291> Капитан Кунька spawned npc "NPC [626][npc_vj_re5_em80]"
+[Wed May 13 16:17:35 2026] <STEAM_0:1:114573291> Капитан Кунька spawned npc "NPC [630][npc_vj_re5_em82a]"
+[Wed May 13 16:17:38 2026] <STEAM_0:1:114573291> Капитан Кунька spawned npc "NPC [626][npc_vj_re5_em82a]"
+[Wed May 13 16:17:39 2026] <STEAM_0:1:114573291> Капитан Кунька spawned npc "NPC [632][npc_vj_re5_em84]"
+[Wed May 13 16:17:41 2026] <STEAM_0:1:114573291> Капитан Кунька spawned npc "NPC [626][npc_combine_s]"
+[Wed May 13 16:17:46 2026] <STEAM_0:1:114573291> Капитан Кунька spawned npc "NPC [626][npc_combine_s]"
+[Wed May 13 16:21:39 2026] Капитан Кунька has killed vasinmaksim78.
+[Wed May 13 16:21:55 2026] <STEAM_0:0:944906002> vasinmaksim78: /me показал военный билет: [4444] [Кузницов Ф. И.] {РЯД} [12 Гв.МСП] [-]
+[Wed May 13 16:24:25 2026] <STEAM_0:0:944906002> vasinmaksim78: о
+[Wed May 13 16:24:29 2026] <STEAM_0:0:944906002> vasinmaksim78: чат нашол
+[Wed May 13 16:24:47 2026] <STEAM_0:0:944906002> vasinmaksim78: где тут полоса припятствий у меня баг
+[Wed May 13 16:24:52 2026] Player "torus2315hi" <STEAM_0:0:776749965> is attempting to connect.
+[Wed May 13 16:26:36 2026] Player "Капитан Кунька" <STEAM_0:1:114573291> has left the server
+[Wed May 13 16:27:47 2026] <STEAM_0:0:944906002> vasinmaksim78: :frowning2:
+[Wed May 13 16:27:59 2026] Player "vasinmaksim78" <STEAM_0:0:944906002> has left the server
+[Wed May 13 16:31:19 2026] Console ran command "rank STEAM_0:1:114573291 user"
+[Wed May 13 18:24:43 2026] Player "Po_rA1" <STEAM_0:0:887714123> is attempting to connect.
+[Wed May 13 18:25:56 2026] Player "Po_rA1" <STEAM_0:0:887714123> has spawned in the server
+[Wed May 13 18:29:19 2026] Player "Po_rA1" <STEAM_0:0:887714123> has left the server

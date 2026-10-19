@@ -1,0 +1,14 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\suno\spyper\us_engineer\us_engineer_headgear_d"
+
+
+// Specularity
+	//"$envmap" 			"env_cubemap"
+	"$envmapmask" "models\suno\spyper\us_engineer\us_engineer_headgear_n"
+
+
+// Transparency
+	"$translucent" 0
+	"$nocull" 1
+}

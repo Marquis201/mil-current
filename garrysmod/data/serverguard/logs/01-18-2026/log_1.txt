@@ -1,0 +1,7 @@
+[Sun Jan 18 14:17:41 2026] Player "Fernández" <STEAM_0:0:79873507> is attempting to connect.
+[Sun Jan 18 14:18:02 2026] Player "Fernández" <STEAM_0:0:79873507> has spawned in the server
+[Sun Jan 18 14:18:14 2026] <STEAM_0:0:79873507> Fernández ran command "menu"
+[Sun Jan 18 14:18:27 2026] <STEAM_0:0:79873507> Fernández: wda
+[Sun Jan 18 14:18:28 2026] <STEAM_0:0:79873507> Fernández ran command "menu"
+[Sun Jan 18 14:18:53 2026] Player "Fernández" <STEAM_0:0:79873507> has left the server
+[Sun Jan 18 16:24:07 2026] Player "Фiжма" <STEAM_0:1:942364657> is attempting to connect.

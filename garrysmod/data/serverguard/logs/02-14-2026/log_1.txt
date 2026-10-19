@@ -1,0 +1,163 @@
+[Sat Feb 14 09:03:46 2026] Player "Discar" <STEAM_0:0:650470378> is attempting to connect.
+[Sat Feb 14 09:04:41 2026] Player "Discar" <STEAM_0:0:650470378> has spawned in the server
+[Sat Feb 14 09:18:14 2026] Player "Discar" <STEAM_0:0:650470378> has left the server
+[Sat Feb 14 11:06:39 2026] Player "punk" <STEAM_0:0:921324874> is attempting to connect.
+[Sat Feb 14 11:07:28 2026] Player "punk" <STEAM_0:0:921324874> has spawned in the server
+[Sat Feb 14 11:27:26 2026] Player "silard87" <STEAM_0:1:414630400> is attempting to connect.
+[Sat Feb 14 11:28:03 2026] Player "silard87" <STEAM_0:1:414630400> has spawned in the server
+[Sat Feb 14 11:28:29 2026] Player "silard87" <STEAM_0:1:414630400> has left the server
+[Sat Feb 14 11:28:32 2026] Player "silard87" <STEAM_0:1:414630400> is attempting to connect.
+[Sat Feb 14 11:28:57 2026] Player "silard87" <STEAM_0:1:414630400> has spawned in the server
+[Sat Feb 14 11:32:46 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [879][item_healthkit]"
+[Sat Feb 14 11:32:46 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [894][item_healthkit]"
+[Sat Feb 14 11:32:47 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [895][item_healthkit]"
+[Sat Feb 14 11:36:53 2026] <STEAM_0:0:921324874> punk spawned npc "NPC [879][npc_vj_test_aerial]"
+[Sat Feb 14 11:37:07 2026] <STEAM_0:0:921324874> punk spawned npc "NPC [879][npc_vj_test_interactive]"
+[Sat Feb 14 11:37:13 2026] <STEAM_0:0:921324874> punk spawned npc "NPC [879][npc_vj_test_interactive]"
+[Sat Feb 14 11:37:15 2026] <STEAM_0:0:921324874> punk spawned npc "NPC [894][npc_vj_test_interactive]"
+[Sat Feb 14 11:40:34 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [879][item_healthkit]"
+[Sat Feb 14 11:40:36 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [895][item_healthkit]"
+[Sat Feb 14 11:40:38 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [879][item_healthkit]"
+[Sat Feb 14 11:40:45 2026] worldspawn has killed punk.
+[Sat Feb 14 11:41:52 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [879][lvs_wheeldrive_dabrams_m1a1]"
+[Sat Feb 14 11:41:59 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [891][lvs_wheeldrive_dabrams_m1a1]"
+[Sat Feb 14 11:42:40 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [879][item_healthkit]"
+[Sat Feb 14 11:42:41 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [891][item_healthkit]"
+[Sat Feb 14 11:42:41 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [893][item_healthkit]"
+[Sat Feb 14 11:42:41 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [894][item_healthkit]"
+[Sat Feb 14 11:42:41 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [895][item_healthkit]"
+[Sat Feb 14 11:43:34 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [357][item_healthkit]"
+[Sat Feb 14 11:43:34 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [366][item_healthkit]"
+[Sat Feb 14 11:43:36 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [357][item_battery]"
+[Sat Feb 14 11:43:36 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [879][item_battery]"
+[Sat Feb 14 11:43:36 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [366][item_battery]"
+[Sat Feb 14 11:43:36 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [891][item_battery]"
+[Sat Feb 14 11:43:36 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [893][item_battery]"
+[Sat Feb 14 11:43:37 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [894][item_battery]"
+[Sat Feb 14 11:44:28 2026] <STEAM_0:0:921324874> punk: /log
+[Sat Feb 14 11:44:30 2026] <STEAM_0:0:921324874> punk: /logs
+[Sat Feb 14 11:46:17 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [357][item_ammo_crossbow]"
+[Sat Feb 14 11:46:27 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [357][sw_bomb_ofab250sh_v3]"
+[Sat Feb 14 11:46:30 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [357][sw_rocket_kh47m2_v3]"
+[Sat Feb 14 11:46:46 2026] punk has killed punk.
+[Sat Feb 14 11:48:34 2026] Player "silard87" <STEAM_0:1:414630400> has left the server
+[Sat Feb 14 11:58:25 2026] <STEAM_0:0:921324874> punk spawned npc "NPC [366][npc_gman]"
+[Sat Feb 14 13:07:33 2026] Player "ghoprhd" <STEAM_0:0:453883455> is attempting to connect.
+[Sat Feb 14 15:05:43 2026] Player "Discar" <STEAM_0:0:650470378> is attempting to connect.
+[Sat Feb 14 15:06:36 2026] Player "Discar" <STEAM_0:0:650470378> has spawned in the server
+[Sat Feb 14 15:20:45 2026] <STEAM_0:0:921324874> punk spawned SENT "Entity [862][sw_rocket_kh47m2_v3]"
+[Sat Feb 14 15:33:43 2026] Player "tinexksov" <STEAM_0:0:736745661> is attempting to connect.
+[Sat Feb 14 15:36:57 2026] Player "tinexksov" <STEAM_0:0:736745661> has spawned in the server
+[Sat Feb 14 15:37:38 2026] Player "Discar" <STEAM_0:0:650470378> has left the server
+[Sat Feb 14 15:47:08 2026] Player "Juk" <STEAM_0:0:586457449> is attempting to connect.
+[Sat Feb 14 15:49:35 2026] Player "Juk" <STEAM_0:0:586457449> has spawned in the server
+[Sat Feb 14 15:51:12 2026] <STEAM_0:0:586457449> Juk: /ooc дядя панк
+[Sat Feb 14 15:51:18 2026] <STEAM_0:0:921324874> punk: // а
+[Sat Feb 14 15:51:34 2026] <STEAM_0:0:586457449> Juk: /ooc я военный мусор,выдай мне его
+[Sat Feb 14 15:51:51 2026] <STEAM_0:0:921324874> punk: // каво
+[Sat Feb 14 15:52:03 2026] <STEAM_0:0:586457449> Juk: /ooc военный полицейский говрю
+[Sat Feb 14 15:53:13 2026] <STEAM_0:0:921324874> punk: // выдал
+[Sat Feb 14 15:53:37 2026] <STEAM_0:0:586457449> Juk: /ooc в табе не поменялось
+[Sat Feb 14 15:54:03 2026] <STEAM_0:0:586457449> Juk: /ooc эт та самая новая карта?
+[Sat Feb 14 15:54:21 2026] <STEAM_0:0:921324874> punk: // она выдается как разрешение а не специальнось
+[Sat Feb 14 15:54:30 2026] <STEAM_0:0:586457449> Juk: /ooc а блятть понял
+[Sat Feb 14 15:55:09 2026] <STEAM_0:0:586457449> Juk: /ooc ехала пиздиться
+[Sat Feb 14 15:57:56 2026] punk has killed Juk.
+[Sat Feb 14 15:58:03 2026] <STEAM_0:0:921324874> punk: /logs
+[Sat Feb 14 15:58:12 2026] <STEAM_0:0:921324874> punk ran command "respawn Вакутагин "Тундр"
+[Sat Feb 14 15:59:19 2026] Player "Zhenechka" <STEAM_0:0:114787793> is attempting to connect.
+[Sat Feb 14 16:00:42 2026] <STEAM_0:0:921324874> punk: // если что я полу афк
+[Sat Feb 14 16:00:51 2026] <STEAM_0:0:586457449> Juk: /ooc окей
+[Sat Feb 14 16:01:05 2026] Player "Zhenechka" <STEAM_0:0:114787793> has spawned in the server
+[Sat Feb 14 16:03:41 2026] Player "punk" <STEAM_0:0:921324874> has left the server
+[Sat Feb 14 16:06:05 2026] <STEAM_0:0:586457449> Juk: /me связал стяжками
+[Sat Feb 14 16:06:06 2026] <STEAM_0:0:586457449> Juk: /me показал удостоверение личности: [Вакутагин А.Е.] { Мл.Сержант} [ВП] [О�
+[Sat Feb 14 16:06:10 2026] Player "punk" <STEAM_0:0:921324874> is attempting to connect.
+[Sat Feb 14 16:06:10 2026] Player "Zhenechka" <STEAM_0:0:114787793> has left the server
+[Sat Feb 14 16:06:27 2026] Player "Zhenechka" <STEAM_0:0:114787793> is attempting to connect.
+[Sat Feb 14 16:07:30 2026] Player "Zhenechka" <STEAM_0:0:114787793> has spawned in the server
+[Sat Feb 14 16:08:39 2026] Player "punk" <STEAM_0:0:921324874> is attempting to connect.
+[Sat Feb 14 16:10:12 2026] Player "tinexksov" <STEAM_0:0:736745661> has left the server
+[Sat Feb 14 16:10:31 2026] Player "punk" <STEAM_0:0:921324874> is attempting to connect.
+[Sat Feb 14 16:10:56 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [862][lvs_wheeldrive_hummer_m2]"
+[Sat Feb 14 16:11:20 2026] Player "punk" <STEAM_0:0:921324874> has spawned in the server
+[Sat Feb 14 16:18:06 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [901][lvs_wheeldrive_hummer_mk19]"
+[Sat Feb 14 16:18:19 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [901][sw_matv]"
+[Sat Feb 14 16:18:55 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [874][sw_matv_m2]"
+[Sat Feb 14 16:18:56 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [999][sw_matv_mk19]"
+[Sat Feb 14 16:19:18 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [874][sw_gaz2330_9m133]"
+[Sat Feb 14 16:19:21 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [874][lvs_wheeldrive_hummer_tow]"
+[Sat Feb 14 16:19:25 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [874][lvs_wheeldrive_m3a3]"
+[Sat Feb 14 16:19:27 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [1028][sw_bmp3m]"
+[Sat Feb 14 16:19:33 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [874][lvs_wheeldrive_rp_dabrams_m1a1]"
+[Sat Feb 14 16:19:43 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [874][lvs_wheeldrive_rp_t90m]"
+[Sat Feb 14 16:19:53 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [874][lvs_wheeldrive_dabrams_m1a1]"
+[Sat Feb 14 16:20:34 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [874][lvs_trailer_flak]"
+[Sat Feb 14 16:21:27 2026] <STEAM_0:0:114787793> Zhenechka spawned npc "NPC [874][npc_vj_test_aerial]"
+[Sat Feb 14 16:21:38 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [901][sent_ball]"
+[Sat Feb 14 16:21:41 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [902][sent_ball]"
+[Sat Feb 14 16:21:43 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [901][sent_ball]"
+[Sat Feb 14 16:21:44 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [902][sent_ball]"
+[Sat Feb 14 16:21:53 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [874][sent_eft_popper_laptop]"
+[Sat Feb 14 16:21:55 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [904][sent_eft_popper]"
+[Sat Feb 14 16:21:56 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [874][sent_purchasable_ball]"
+[Sat Feb 14 16:21:59 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [874][sent_eft_popper]"
+[Sat Feb 14 16:22:00 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [907][sent_eft_popper]"
+[Sat Feb 14 16:22:15 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [874][sent_eft_popper]"
+[Sat Feb 14 16:22:27 2026] <STEAM_0:0:114787793> Zhenechka spawned SENT "Entity [874][sent_soccerball]"
+[Sat Feb 14 16:23:10 2026] Player "Zhenechka" <STEAM_0:0:114787793> has left the server
+[Sat Feb 14 16:23:18 2026] Player "rastler" <STEAM_0:0:217626284> is attempting to connect.
+[Sat Feb 14 16:28:17 2026] Player "rastler" <STEAM_0:0:217626284> has spawned in the server
+[Sat Feb 14 16:32:13 2026] <STEAM_0:0:921324874> punk ran command "goto Hernandez"
+[Sat Feb 14 16:33:34 2026] Player "Juk" <STEAM_0:0:586457449> has left the server
+[Sat Feb 14 16:39:08 2026] <STEAM_0:0:921324874> punk: медик, стрелок, снайпер, механик водитель, гранатомётчик
+[Sat Feb 14 16:40:21 2026] <STEAM_0:0:921324874> punk: пулеметчик
+[Sat Feb 14 16:44:59 2026] Player "punk" <STEAM_0:0:921324874> has left the server
+[Sat Feb 14 16:45:04 2026] Player "punk" <STEAM_0:0:921324874> is attempting to connect.
+[Sat Feb 14 16:45:43 2026] Player "punk" <STEAM_0:0:921324874> has spawned in the server
+[Sat Feb 14 16:46:53 2026] Player "rastler" <STEAM_0:0:217626284> has left the server
+[Sat Feb 14 16:49:27 2026] Player "Discar" <STEAM_0:0:650470378> is attempting to connect.
+[Sat Feb 14 16:50:47 2026] Player "Discar" <STEAM_0:0:650470378> has spawned in the server
+[Sat Feb 14 16:51:34 2026] Player "{poligraf}" <STEAM_0:0:91934126> is attempting to connect.
+[Sat Feb 14 17:06:33 2026] <STEAM_0:0:921324874> punk: // жду в городе
+[Sat Feb 14 17:11:12 2026] <STEAM_0:0:921324874> punk ran command "goto Дискаров"
+[Sat Feb 14 17:11:37 2026] punk has killed Discar.
+[Sat Feb 14 17:12:24 2026] Player "Discar" <STEAM_0:0:650470378> has left the server
+[Sat Feb 14 17:13:49 2026] Player "why:(" <STEAM_0:1:767117443> is attempting to connect.
+[Sat Feb 14 17:23:51 2026] Player "why:(" <STEAM_0:1:767117443> has spawned in the server
+[Sat Feb 14 17:27:06 2026] Player "why:(" <STEAM_0:1:767117443> has left the server
+[Sat Feb 14 17:38:54 2026] Player "AbEm" <STEAM_0:0:651960520> is attempting to connect.
+[Sat Feb 14 18:01:09 2026] Player "AbEm" <STEAM_0:0:651960520> has spawned in the server
+[Sat Feb 14 18:10:03 2026] <STEAM_0:0:651960520> AbEm: есть кто
+[Sat Feb 14 18:10:52 2026] Player "AbEm" <STEAM_0:0:651960520> has left the server
+[Sat Feb 14 18:11:51 2026] Player "punk" <STEAM_0:0:921324874> has left the server
+[Sat Feb 14 18:55:59 2026] Player "punk" <STEAM_0:0:921324874> is attempting to connect.
+[Sat Feb 14 18:56:53 2026] Player "punk" <STEAM_0:0:921324874> has spawned in the server
+[Sat Feb 14 19:10:45 2026] Player "r2belsleat" <STEAM_0:0:796319570> is attempting to connect.
+[Sat Feb 14 19:30:23 2026] Player "punk" <STEAM_0:0:921324874> has left the server
+[Sat Feb 14 20:10:40 2026] Player "IMNOTNOGTI" <STEAM_0:0:759427361> is attempting to connect.
+[Sat Feb 14 20:58:06 2026] Player "str" <STEAM_0:0:764517894> is attempting to connect.
+[Sat Feb 14 21:03:31 2026] Player "༒︎シ︎ʰᵉⁿᵗᵃⁱシ" <STEAM_0:0:851601344> is attempting to connect.
+[Sat Feb 14 21:05:10 2026] Player "༒︎シ︎ʰᵉⁿᵗᵃⁱシ" <STEAM_0:0:851601344> has spawned in the server
+[Sat Feb 14 21:07:08 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [894][lvs_item_gear]"
+[Sat Feb 14 21:07:12 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [894][lvs_item_transmission_automatic]"
+[Sat Feb 14 21:07:17 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [894][lvs_item_transmission_manual]"
+[Sat Feb 14 21:07:20 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [894][lvs_item_exhaust]"
+[Sat Feb 14 21:07:32 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [841][lvs_wheeldrive_hummer]"
+[Sat Feb 14 21:07:39 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [894][lvs_item_gear]"
+[Sat Feb 14 21:07:43 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [894][lvs_item_turbo]"
+[Sat Feb 14 21:07:48 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [895][lvs_item_transmission_manual]"
+[Sat Feb 14 21:07:49 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [896][lvs_item_compressor]"
+[Sat Feb 14 21:07:52 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [895][lvs_item_exhaust]"
+[Sat Feb 14 21:07:58 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [895][lvs_item_transmission_automatic]"
+[Sat Feb 14 21:07:59 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [897][lvs_item_transmission_manual]"
+[Sat Feb 14 21:08:26 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [841][lvs_wheeldrive_hummer]"
+[Sat Feb 14 21:08:29 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [893][lvs_item_gear]"
+[Sat Feb 14 21:08:35 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [893][lvs_item_turbo]"
+[Sat Feb 14 21:08:37 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [895][lvs_item_compressor]"
+[Sat Feb 14 21:08:44 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [896][lvs_item_gauge]"
+[Sat Feb 14 21:12:32 2026] Player "༒︎シ︎ʰᵉⁿᵗᵃⁱシ" <STEAM_0:0:851601344> has left the server
+[Sat Feb 14 21:20:38 2026] Player "impotent" <STEAM_0:1:425612974> is attempting to connect.
+[Sat Feb 14 21:22:51 2026] Player "impotent" <STEAM_0:1:425612974> has spawned in the server
+[Sat Feb 14 21:33:49 2026] Player "impotent" <STEAM_0:1:425612974> has left the server
+[Sat Feb 14 21:36:28 2026] Player "Хон Гиль Дон" <STEAM_0:0:64369171> is attempting to connect.

@@ -1,0 +1,50 @@
+[Wed May 27 00:11:52 2026] Player "IDIOT" <STEAM_0:1:951051755> is attempting to connect.
+[Wed May 27 09:25:00 2026] Player "МАКС" <STEAM_0:1:965492883> is attempting to connect.
+[Wed May 27 09:28:57 2026] Player "MoZikss" <STEAM_0:0:451703694> is attempting to connect.
+[Wed May 27 09:35:16 2026] Player "MoZikss" <STEAM_0:0:451703694> has spawned in the server
+[Wed May 27 09:40:44 2026] Player "MoZikss" <STEAM_0:0:451703694> has left the server
+[Wed May 27 09:57:23 2026] Player "МАКС" <STEAM_0:1:965492883> has spawned in the server
+[Wed May 27 10:56:56 2026] Player "GOOD ZONE" <STEAM_0:0:403661582> is attempting to connect.
+[Wed May 27 11:30:25 2026] Player "Hanchik" <STEAM_0:0:765884600> is attempting to connect.
+[Wed May 27 11:53:19 2026] Player "Po_rA1" <STEAM_0:0:887714123> is attempting to connect.
+[Wed May 27 11:54:33 2026] Player "Po_rA1" <STEAM_0:0:887714123> has spawned in the server
+[Wed May 27 11:55:19 2026] Player "Po_rA1" <STEAM_0:0:887714123> has left the server
+[Wed May 27 11:55:40 2026] Player "МАКС" <STEAM_0:1:965492883> has left the server
+[Wed May 27 17:07:04 2026] Player "𝗺𝟏𝗿𝗮𝗰𝗹𝗲" <STEAM_0:0:869238922> is attempting to connect.
+[Wed May 27 17:13:06 2026] Player "𝗺𝟏𝗿𝗮𝗰𝗹𝗲" <STEAM_0:0:869238922> has spawned in the server
+[Wed May 27 17:18:17 2026] Player "Discar" <STEAM_0:0:650470378> is attempting to connect.
+[Wed May 27 17:19:00 2026] Player "Discar" <STEAM_0:0:650470378> has spawned in the server
+[Wed May 27 17:22:15 2026] <STEAM_0:0:650470378> Discar: /ooc ты где
+[Wed May 27 17:22:25 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: /ooc Стрельбище
+[Wed May 27 17:22:45 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: ыыыы
+[Wed May 27 17:22:55 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: Ура
+[Wed May 27 17:23:04 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: Чего?
+[Wed May 27 17:23:15 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: Хочу звание Майора
+[Wed May 27 17:23:24 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: НЕЕЕЕЕЕЕЕЕЕЕЕТ
+[Wed May 27 17:23:46 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: Мне щас ебало бить будут!!!
+[Wed May 27 17:24:01 2026] <STEAM_0:0:650470378> Discar: /me
+[Wed May 27 17:24:27 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: НЕ ХОЧУ
+[Wed May 27 17:24:38 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: НЕЕЕЕЕЕЕТ
+[Wed May 27 17:24:57 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: /looc Бля у мя этого, микро нет
+[Wed May 27 17:25:03 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: так бы соундпад включил
+[Wed May 27 17:25:25 2026] <STEAM_0:0:650470378> Discar: /me снял штаны амбасадорову, затем достал ремень с абриатурой звания майора
+[Wed May 27 17:25:36 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: НЕЕЕЕЕЕЕЕЕЕЕЕЕТ
+[Wed May 27 17:26:27 2026] <STEAM_0:0:650470378> Discar: /me начал бить ремнем Амбасадорова, награждая звания Майора
+[Wed May 27 17:26:34 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: ААААААААААААААА
+[Wed May 27 17:27:07 2026] <STEAM_0:0:650470378> Discar: /me  бьет ремнем Амбасадорова, награждая звания Майора по попе
+[Wed May 27 17:27:16 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: ААААА ААА ААА АА
+[Wed May 27 17:27:45 2026] <STEAM_0:0:650470378> Discar: /me  бьет ремнем Амбасадорова, награждая звания Майора по попе
+[Wed May 27 17:28:06 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: АААААА
+[Wed May 27 17:28:12 2026] Discar has killed 𝗺𝟏𝗿𝗮𝗰𝗹𝗲.
+[Wed May 27 17:29:14 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: Пиу?
+[Wed May 27 17:29:37 2026] 𝗺𝟏𝗿𝗮𝗰𝗹𝗲 has killed 𝗺𝟏𝗿𝗮𝗰𝗹𝗲.
+[Wed May 27 17:29:53 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: /OOC ыыыы
+[Wed May 27 17:30:36 2026] Discar has killed 𝗺𝟏𝗿𝗮𝗰𝗹𝗲.
+[Wed May 27 17:30:54 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: ееееееееееет
+[Wed May 27 17:31:05 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: Неееееееееет
+[Wed May 27 17:31:09 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: ни
+[Wed May 27 17:31:12 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: ни
+[Wed May 27 17:32:21 2026] <STEAM_0:0:869238922> 𝗺𝟏𝗿𝗮𝗰𝗹𝗲: меня тут нета
+[Wed May 27 17:33:44 2026] Player "Discar" <STEAM_0:0:650470378> has left the server
+[Wed May 27 17:33:54 2026] Player "𝗺𝟏𝗿𝗮𝗰𝗹𝗲" <STEAM_0:0:869238922> has left the server
+[Wed May 27 17:58:27 2026] Player "ROBERTO0505" <STEAM_0:1:374348403> is attempting to connect.

@@ -1,0 +1,108 @@
+[Sat Mar 14 06:31:08 2026] Player "hrychelo21" <STEAM_0:0:947025522> is attempting to connect.
+[Sat Mar 14 10:53:31 2026] Player "OZOR" <STEAM_0:0:85754053> has spawned in the server
+[Sat Mar 14 10:53:33 2026] worldspawn has killed OZOR.
+[Sat Mar 14 11:03:44 2026] <STEAM_0:0:85754053> OZOR ran command "spectate Ozor"
+[Sat Mar 14 11:03:50 2026] <STEAM_0:0:85754053> OZOR ran command "spectate Ozor"
+[Sat Mar 14 11:04:08 2026] <STEAM_0:0:85754053> OZOR ran command "spectate Ozor"
+[Sat Mar 14 11:04:22 2026] <STEAM_0:0:85754053> OZOR ran command "spectate Ozor"
+[Sat Mar 14 11:04:28 2026] <STEAM_0:0:85754053> OZOR ran command "spectate Ozor"
+[Sat Mar 14 11:04:32 2026] <STEAM_0:0:85754053> OZOR ran command "spectate Ozor"
+[Sat Mar 14 11:04:49 2026] <STEAM_0:0:85754053> OZOR: /spec
+[Sat Mar 14 11:05:09 2026] <STEAM_0:0:85754053> OZOR: /spec
+[Sat Mar 14 11:05:12 2026] <STEAM_0:0:85754053> OZOR: /spec
+[Sat Mar 14 11:05:15 2026] <STEAM_0:0:85754053> OZOR: /spec
+[Sat Mar 14 11:05:29 2026] <STEAM_0:0:85754053> OZOR: /spec
+[Sat Mar 14 11:06:06 2026] <STEAM_0:0:85754053> OZOR: /spec
+[Sat Mar 14 11:07:18 2026] Player "Bot01" <BOT> has spawned in the server
+[Sat Mar 14 11:07:23 2026] <STEAM_0:0:85754053> OZOR ran command "send Ozor"
+[Sat Mar 14 11:07:25 2026] <STEAM_0:0:85754053> OZOR ran command "send Bot01"
+[Sat Mar 14 11:16:30 2026] <STEAM_0:0:85754053> OZOR ran command "send Bot01"
+[Sat Mar 14 11:20:38 2026] <STEAM_0:0:85754053> OZOR spawned vehicle "Vehicle [619][prop_vehicle_jeep]"
+[Sat Mar 14 11:20:43 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [619][sw_bmp1]"
+[Sat Mar 14 11:28:36 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [619][sw_bmp1am]"
+[Sat Mar 14 11:28:40 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [619][sw_bmp1am]"
+[Sat Mar 14 11:28:40 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [712][sw_bmp1p]"
+[Sat Mar 14 11:28:41 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [779][sw_bmp2]"
+[Sat Mar 14 11:28:42 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [848][sw_bmp2m]"
+[Sat Mar 14 11:28:43 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [917][sw_bmp3m]"
+[Sat Mar 14 11:30:03 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [619][lvs_wheeldrive_m3a3]"
+[Sat Mar 14 11:31:40 2026] <STEAM_0:0:85754053> OZOR spawned vehicle "Vehicle [619][prop_vehicle_jeep]"
+[Sat Mar 14 11:31:46 2026] <STEAM_0:0:85754053> OZOR spawned vehicle "Vehicle [637][prop_vehicle_jeep_old]"
+[Sat Mar 14 11:31:47 2026] <STEAM_0:0:85754053> OZOR spawned vehicle "Vehicle [619][prop_vehicle_prisoner_pod]"
+[Sat Mar 14 11:31:48 2026] <STEAM_0:0:85754053> OZOR spawned vehicle "Vehicle [621][prop_vehicle_airboat]"
+[Sat Mar 14 11:32:47 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [612][sw_bmp1am]"
+[Sat Mar 14 11:32:56 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [612][prop_physics] (models/props_phx/construct/metal_plate1_tri.mdl)"
+[Sat Mar 14 11:33:23 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [621][prop_physics] (models/props_phx/construct/metal_plate_curve180x2.mdl)"
+[Sat Mar 14 11:33:24 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [612][prop_physics] (models/props_phx/construct/metal_dome180.mdl)"
+[Sat Mar 14 11:33:25 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [637][prop_physics] (models/phxtended/tri1x1solid.mdl)"
+[Sat Mar 14 11:33:26 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [643][prop_physics] (models/props_phx/construct/metal_plate4x4_tri.mdl)"
+[Sat Mar 14 11:33:26 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [645][prop_physics] (models/props_phx/construct/metal_tube.mdl)"
+[Sat Mar 14 11:33:35 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [612][prop_physics] (models/props_phx/construct/metal_wire1x1x1.mdl)"
+[Sat Mar 14 11:33:37 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [621][prop_physics] (models/props_phx/construct/metal_wire_angle360x2.mdl)"
+[Sat Mar 14 11:33:37 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [612][prop_physics] (models/props_phx/construct/metal_wire_angle180x2.mdl)"
+[Sat Mar 14 11:33:37 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [637][prop_physics] (models/props_phx/construct/metal_wire_angle90x2.mdl)"
+[Sat Mar 14 11:33:51 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [619][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner2_tall.mdl)"
+[Sat Mar 14 11:35:10 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [637][prop_physics] (models/props_phx/construct/metal_plate2x2.mdl)"
+[Sat Mar 14 11:35:17 2026] <STEAM_0:0:85754053> OZOR ran command "send Bot01"
+[Sat Mar 14 11:35:26 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [643][sw_bmp1m]"
+[Sat Mar 14 11:37:28 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [643][sw_bmp1m]"
+[Sat Mar 14 11:37:34 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [643][sw_bmp1m]"
+[Sat Mar 14 11:38:29 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [643][sw_bmp1m]"
+[Sat Mar 14 11:38:33 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [643][lfs_grdn_mi28nm]"
+[Sat Mar 14 11:38:36 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [645][lvs_wheeldrive_rp_dabrams_m1a1]"
+[Sat Mar 14 11:44:04 2026] <STEAM_0:0:85754053> OZOR: /character
+[Sat Mar 14 11:48:14 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [626][prop_physics] (models/props_phx/construct/metal_plate1x2_tri.mdl)"
+[Sat Mar 14 11:48:16 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [641][prop_physics] (models/props_phx/construct/metal_dome360.mdl)"
+[Sat Mar 14 11:49:02 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [641][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1.mdl)"
+[Sat Mar 14 11:51:29 2026] worldspawn has killed OZOR.
+[Sat Mar 14 11:52:08 2026] <STEAM_0:0:85754053> OZOR ran command "send Bot01"
+[Sat Mar 14 12:33:30 2026] <STEAM_0:0:85754053> OZOR ran command "send Bot01"
+[Sat Mar 14 12:33:34 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [644][lvs_wheeldrive_rp_dabrams_m1a1]"
+[Sat Mar 14 12:33:39 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [722][prop_physics] (models/props_phx/construct/metal_plate1x2.mdl)"
+[Sat Mar 14 12:33:47 2026] <STEAM_0:0:85754053> OZOR spawned prop "Entity [642][alydus_destructiblefortification] (models/props_fortifications/sandbags_corner1.mdl)"
+[Sat Mar 14 12:34:38 2026] Player "OZOR" <STEAM_0:0:85754053> has left the server
+[Sat Mar 14 12:34:38 2026] Player "Bot01" <BOT> has left the server
+[Sat Mar 14 12:40:08 2026] Player "OZOR" <STEAM_0:0:85754053> has spawned in the server
+[Sat Mar 14 12:40:10 2026] worldspawn has killed OZOR.
+[Sat Mar 14 13:20:19 2026] <STEAM_0:0:85754053> OZOR: sadsad
+[Sat Mar 14 13:29:56 2026] Player "OZOR" <STEAM_0:0:85754053> has left the server
+[Sat Mar 14 13:46:36 2026] Player "OZOR" <STEAM_0:0:85754053> has spawned in the server
+[Sat Mar 14 13:46:39 2026] worldspawn has killed OZOR.
+[Sat Mar 14 13:47:52 2026] Player "OZOR" <STEAM_0:0:85754053> has left the server
+[Sat Mar 14 13:50:10 2026] Player "OZOR" <STEAM_0:0:85754053> has spawned in the server
+[Sat Mar 14 13:50:12 2026] worldspawn has killed OZOR.
+[Sat Mar 14 13:52:52 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [629][ifak_ammo]"
+[Sat Mar 14 13:52:57 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [629][lvs_wheeldrive_kamazfuel]"
+[Sat Mar 14 13:53:41 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [629][lvs_wheeldrive_kamazrepair]"
+[Sat Mar 14 13:53:47 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [629][lvs_wheeldrive_kamaztroop]"
+[Sat Mar 14 13:54:23 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [629][lvs_wheeldrive_kamazfuel]"
+[Sat Mar 14 13:54:24 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [660][lvs_wheeldrive_kamazfuel]"
+[Sat Mar 14 13:54:25 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [629][lvs_wheeldrive_kamazrepair]"
+[Sat Mar 14 13:54:27 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [685][lvs_wheeldrive_kamaztroop]"
+[Sat Mar 14 13:54:28 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [723][lvs_wheeldrive_kamaztroop]"
+[Sat Mar 14 13:54:38 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [685][sw_hemtt_cargo]"
+[Sat Mar 14 13:54:41 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [685][sw_hemtt_cargo]"
+[Sat Mar 14 13:54:43 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [762][sw_hemtt_fuel]"
+[Sat Mar 14 13:54:45 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [799][sw_hemtt_troop]"
+[Sat Mar 14 14:00:48 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [629][sw_hemtt_cargo]"
+[Sat Mar 14 14:00:50 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [675][sw_hemtt_cargo]"
+[Sat Mar 14 14:00:52 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [629][sw_hemtt_fuel]"
+[Sat Mar 14 14:00:53 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [673][sw_hemtt_troop]"
+[Sat Mar 14 14:00:54 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [629][sw_hemtt_cargo]"
+[Sat Mar 14 14:01:28 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [629][sw_hemtt_cargo]"
+[Sat Mar 14 14:05:29 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [629][sw_hemtt_cargo]"
+[Sat Mar 14 14:05:50 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [629][sw_hemtt_cargo]"
+[Sat Mar 14 14:05:56 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [629][sw_hemtt_fuel]"
+[Sat Mar 14 14:06:00 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [629][sw_hemtt_troop]"
+[Sat Mar 14 14:06:13 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [629][lvs_wheeldrive_kamazfuel]"
+[Sat Mar 14 14:06:17 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [629][lvs_wheeldrive_kamazrepair]"
+[Sat Mar 14 14:06:22 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [629][lvs_wheeldrive_kamaztroop]"
+[Sat Mar 14 14:07:12 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [629][lvs_wheeldrive_kamazfuel]"
+[Sat Mar 14 14:07:13 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [660][lvs_wheeldrive_kamaztroop]"
+[Sat Mar 14 14:14:55 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [602][sw_hemtt_cargo]"
+[Sat Mar 14 14:17:53 2026] <STEAM_0:0:85754053> OZOR: /character
+[Sat Mar 14 14:20:35 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [602][sw_hemtt_troop]"
+[Sat Mar 14 14:20:40 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [684][lvs_wheeldrive_kamazfuel]"
+[Sat Mar 14 14:21:48 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [602][lvs_wheeldrive_kamazfuel]"
+[Sat Mar 14 14:30:05 2026] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [603][sw_hemtt_troop]"
+[Sat Mar 14 14:38:07 2026] Player "OZOR" <STEAM_0:0:85754053> has left the server

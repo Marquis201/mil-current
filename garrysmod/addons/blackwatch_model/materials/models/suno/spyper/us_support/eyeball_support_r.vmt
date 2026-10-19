@@ -1,0 +1,14 @@
+"Eyes"
+{
+	"$iris" "models\suno\spyper\us_support\eyeblue_d"
+	"$phong" "1"
+	"$phongexponent" "5"
+
+	"$phongboost" ".2"	
+	"$phongfresnelranges"	"[.1 0.2 1]"
+	"$rimlight" "1"										
+	"$rimlightexponent" "88"							
+	"$rimlightboost" "0.2"
+	"clamps" "1"
+	"clampt" "1"
+}

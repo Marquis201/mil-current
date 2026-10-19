@@ -1,0 +1,130 @@
+[Thu Dec 18 04:11:09 2025] Player "费尔南德斯" <STEAM_0:0:79873507> is attempting to connect.
+[Thu Dec 18 04:12:19 2025] Player "费尔南德斯" <STEAM_0:0:79873507> has spawned in the server
+[Thu Dec 18 04:12:50 2025] <STEAM_0:0:79873507> 费尔南德斯: /addpoints
+[Thu Dec 18 04:13:49 2025] <STEAM_0:0:79873507> 费尔南德斯: /capture
+[Thu Dec 18 04:13:52 2025] <STEAM_0:0:79873507> 费尔南德斯: dwada
+[Thu Dec 18 04:14:01 2025] Player "费尔南德斯" <STEAM_0:0:79873507> has left the server
+[Thu Dec 18 04:23:51 2025] Player "OZOR" <STEAM_0:0:85754053> has spawned in the server
+[Thu Dec 18 04:25:38 2025] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [369][sw_gaz2330]"
+[Thu Dec 18 04:26:14 2025] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [369][lvs_wheeldrive_hummer]"
+[Thu Dec 18 04:26:16 2025] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [496][sw_matv]"
+[Thu Dec 18 04:28:19 2025] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [369][lvs_wheeldrive_hummer]"
+[Thu Dec 18 04:30:26 2025] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [369][sw_gaz2330]"
+[Thu Dec 18 04:30:29 2025] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [369][lvs_wheeldrive_hummer]"
+[Thu Dec 18 04:30:32 2025] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [496][lvs_wheeldrive_hummer]"
+[Thu Dec 18 04:36:38 2025] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [267][sw_matv]"
+[Thu Dec 18 04:39:28 2025] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [267][lvs_wheeldrive_m3a3]"
+[Thu Dec 18 04:41:02 2025] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [267][lvs_wheeldrive_dabrams_m1a1]"
+[Thu Dec 18 04:43:59 2025] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [267][sw_gaz2330]"
+[Thu Dec 18 04:44:41 2025] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [267][sw_bmp2m]"
+[Thu Dec 18 04:46:05 2025] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [267][lvs_wheeldrive_nonrp_t90m]"
+[Thu Dec 18 04:51:01 2025] Player "Mad Bart" <STEAM_0:1:215461131> is attempting to connect.
+[Thu Dec 18 04:51:31 2025] Player "Mad Bart" <STEAM_0:1:215461131> is attempting to connect.
+[Thu Dec 18 05:03:33 2025] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [369][lvs_wheeldrive_nonrp_t90m]"
+[Thu Dec 18 05:03:40 2025] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [369][sw_gaz2330]"
+[Thu Dec 18 05:04:23 2025] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [369][lvs_wheeldrive_hummer]"
+[Thu Dec 18 05:07:57 2025] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [369][lvs_wheeldrive_hummer]"
+[Thu Dec 18 05:33:27 2025] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [267][lvs_wheeldrive_hummer]"
+[Thu Dec 18 05:47:30 2025] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [267][sw_matv]"
+[Thu Dec 18 05:47:38 2025] <STEAM_0:0:85754053> OZOR ran command "menu"
+[Thu Dec 18 05:50:45 2025] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [267][sw_matv]"
+[Thu Dec 18 05:52:08 2025] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [267][sw_matv]"
+[Thu Dec 18 06:23:35 2025] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [267][sw_matv]"
+[Thu Dec 18 06:25:19 2025] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [508][sw_matv]"
+[Thu Dec 18 06:26:58 2025] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [267][sw_matv]"
+[Thu Dec 18 06:27:43 2025] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [267][lvs_wheeldrive_hummer_m134]"
+[Thu Dec 18 06:27:45 2025] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [497][lvs_wheeldrive_hummer_m2]"
+[Thu Dec 18 06:27:58 2025] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [267][lvs_wheeldrive_hummer]"
+[Thu Dec 18 06:27:59 2025] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [495][lvs_wheeldrive_hummer_m134]"
+[Thu Dec 18 06:29:08 2025] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [267][sw_gaz2330]"
+[Thu Dec 18 06:29:58 2025] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [267][lfs_grdn_ah1z]"
+[Thu Dec 18 06:30:00 2025] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [369][lfs_grdn_ah1g]"
+[Thu Dec 18 06:33:08 2025] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [267][bodygroup]"
+[Thu Dec 18 06:33:29 2025] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [368][bodygroup]"
+[Thu Dec 18 06:34:04 2025] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [368][alydus_destructiblefortification]"
+[Thu Dec 18 06:34:06 2025] <STEAM_0:0:85754053> OZOR spawned SENT "NPC [368][vehicles_sales]"
+[Thu Dec 18 06:34:10 2025] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [370][armor_take]"
+[Thu Dec 18 06:34:34 2025] <STEAM_0:0:85754053> OZOR spawned SENT "NPC [368][vehicles_sales]"
+[Thu Dec 18 06:34:37 2025] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [370][armor_take]"
+[Thu Dec 18 06:35:10 2025] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [368][armor_take]"
+[Thu Dec 18 06:36:14 2025] <STEAM_0:0:85754053> OZOR spawned SENT "NPC [369][vehicles_sales]"
+[Thu Dec 18 08:00:01 2025] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [368][sw_gaz2330]"
+[Thu Dec 18 08:01:52 2025] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [368][sw_gaz2330]"
+[Thu Dec 18 08:03:15 2025] Player "OZOR" <STEAM_0:0:85754053> has left the server
+[Thu Dec 18 08:27:14 2025] Player "OZOR" <STEAM_0:0:85754053> has spawned in the server
+[Thu Dec 18 08:27:47 2025] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [267][sw_gaz2330]"
+[Thu Dec 18 08:28:51 2025] <STEAM_0:0:85754053> OZOR spawned SENT "NPC [517][vehicles_sales]"
+[Thu Dec 18 08:31:22 2025] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [267][lvs_wheeldrive_hummer_mk19]"
+[Thu Dec 18 08:31:24 2025] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [497][sw_matv]"
+[Thu Dec 18 08:33:08 2025] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [369][sw_matv]"
+[Thu Dec 18 08:33:11 2025] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [369][lvs_wheeldrive_m3a3]"
+[Thu Dec 18 08:33:43 2025] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [267][sw_bmp3]"
+[Thu Dec 18 08:34:06 2025] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [267][lvs_wheeldrive_m3a3]"
+[Thu Dec 18 08:34:42 2025] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [267][lvs_wheeldrive_m3a3]"
+[Thu Dec 18 08:34:42 2025] lvs_wheeldrive_m3a3 has killed OZOR.
+[Thu Dec 18 08:34:50 2025] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [372][lvs_wheeldrive_m3a3]"
+[Thu Dec 18 08:36:03 2025] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [368][lvs_wheeldrive_m3a3]"
+[Thu Dec 18 08:36:51 2025] <STEAM_0:0:85754053> OZOR spawned SENT "NPC [368][vehicles_sales]"
+[Thu Dec 18 08:39:26 2025] <STEAM_0:0:85754053> OZOR spawned SENT "NPC [368][vehicles_sales]"
+[Thu Dec 18 08:39:31 2025] <STEAM_0:0:85754053> OZOR spawned SENT "NPC [368][vehicles_sales]"
+[Thu Dec 18 08:45:49 2025] <STEAM_0:0:85754053> OZOR spawned SENT "NPC [368][vehicles_sales]"
+[Thu Dec 18 08:46:33 2025] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [368][sw_bmp1am]"
+[Thu Dec 18 09:08:06 2025] <STEAM_0:0:85754053> OZOR spawned SENT "NPC [368][vehicles_sales]"
+[Thu Dec 18 09:15:23 2025] <STEAM_0:0:85754053> OZOR spawned SENT "NPC [368][vehicles_sales]"
+[Thu Dec 18 09:17:37 2025] <STEAM_0:0:85754053> OZOR spawned SENT "NPC [368][vehicles_sales]"
+[Thu Dec 18 09:22:53 2025] Player "OZOR" <STEAM_0:0:85754053> has left the server
+[Thu Dec 18 18:36:30 2025] Player "BloodySmile" <STEAM_0:1:54838838> is attempting to connect.
+[Thu Dec 18 18:36:45 2025] Player "BloodySmile" <STEAM_0:1:54838838> is attempting to connect.
+[Thu Dec 18 18:38:47 2025] Player "BloodySmile" <STEAM_0:1:54838838> has spawned in the server
+[Thu Dec 18 18:41:10 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [267][lvs_wheeldrive_dabrams_m1a1]"
+[Thu Dec 18 18:41:15 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [267][lfs_grdn_ah1z]"
+[Thu Dec 18 18:41:16 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [370][lfs_grdn_ah1z]"
+[Thu Dec 18 18:41:16 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [373][lfs_grdn_ah64d]"
+[Thu Dec 18 18:41:17 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [375][lfs_grdn_ka50]"
+[Thu Dec 18 18:41:17 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [376][lfs_grdn_mi28nm]"
+[Thu Dec 18 18:42:16 2025] <STEAM_0:1:54838838> BloodySmile: /me показал военный билет: [543288][Соколов К.И.]|[ГСРЖТ][ILDU]|[-][-]
+[Thu Dec 18 18:44:56 2025] <STEAM_0:1:54838838> BloodySmile spawned SWEP "Weapon [376][tfa_fas2_ifak]"
+[Thu Dec 18 18:44:57 2025] <STEAM_0:1:54838838> BloodySmile spawned SWEP "Weapon [377][tfa_fas2_ifak]"
+[Thu Dec 18 18:44:57 2025] <STEAM_0:1:54838838> BloodySmile spawned SWEP "Weapon [376][tfa_fas2_ifak]"
+[Thu Dec 18 18:44:57 2025] <STEAM_0:1:54838838> BloodySmile spawned SWEP "Weapon [378][tfa_fas2_ifak]"
+[Thu Dec 18 18:44:58 2025] <STEAM_0:1:54838838> BloodySmile spawned SWEP "Weapon [379][tfa_fas2_ifak]"
+[Thu Dec 18 18:46:36 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [378][item_healthkit]"
+[Thu Dec 18 18:46:47 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [378][item_healthkit]"
+[Thu Dec 18 18:46:52 2025] worldspawn has killed BloodySmile.
+[Thu Dec 18 18:47:04 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [369][lvs_wheeldrive_dabrams_m1a1]"
+[Thu Dec 18 18:47:06 2025] Player "BloodySmile" <STEAM_0:1:54838838> has left the server
+[Thu Dec 18 18:58:27 2025] Player "BloodySmile" <STEAM_0:1:54838838> is attempting to connect.
+[Thu Dec 18 18:58:54 2025] Player "BloodySmile" <STEAM_0:1:54838838> has spawned in the server
+[Thu Dec 18 19:00:36 2025] Player "BloodySmile" <STEAM_0:1:54838838> has left the server
+[Thu Dec 18 19:00:46 2025] Player "BloodySmile" <STEAM_0:1:54838838> is attempting to connect.
+[Thu Dec 18 19:01:06 2025] Player "BloodySmile" <STEAM_0:1:54838838> has spawned in the server
+[Thu Dec 18 19:02:45 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [369][ifak_ammo]"
+[Thu Dec 18 19:02:53 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [369][armor_take]"
+[Thu Dec 18 19:03:32 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [377][lvs_wheeldrive_nonrp_t90m]"
+[Thu Dec 18 19:03:33 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [556][lvs_wheeldrive_dabrams_m1a1]"
+[Thu Dec 18 19:04:57 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [377][lvs_wheeldrive_nonrp_t90m]"
+[Thu Dec 18 19:05:08 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [377][lvs_wheeldrive_rp_dabrams_m1a1]"
+[Thu Dec 18 19:05:58 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [377][lfs_grdn_ah1z]"
+[Thu Dec 18 19:06:01 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [369][lfs_grdn_ka50]"
+[Thu Dec 18 19:06:02 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [377][lfs_grdn_mi24d]"
+[Thu Dec 18 19:06:02 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [378][lfs_grdn_uh1c_xm30]"
+[Thu Dec 18 19:06:02 2025] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [379][lfs_grdn_ec665uht]"
+[Thu Dec 18 19:06:08 2025] Player "BloodySmile" <STEAM_0:1:54838838> has left the server
+[Thu Dec 18 19:57:30 2025] Player "费尔南德斯" <STEAM_0:0:79873507> is attempting to connect.
+[Thu Dec 18 19:58:54 2025] Player "费尔南德斯" <STEAM_0:0:79873507> has spawned in the server
+[Thu Dec 18 20:00:34 2025] <STEAM_0:0:79873507> 费尔南德斯: !capture
+[Thu Dec 18 20:00:37 2025] <STEAM_0:0:79873507> 费尔南德斯: /capture
+[Thu Dec 18 20:06:28 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [267][bodygroup]"
+[Thu Dec 18 20:10:54 2025] <STEAM_0:0:79873507> 费尔南德斯: /pass
+[Thu Dec 18 20:11:33 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [369][sw_airdrop_large_v3]"
+[Thu Dec 18 20:23:09 2025] Player "费尔南德斯" <STEAM_0:0:79873507> is attempting to connect.
+[Thu Dec 18 20:23:35 2025] Player "费尔南德斯" <STEAM_0:0:79873507> has spawned in the server
+[Thu Dec 18 20:23:57 2025] <STEAM_0:0:79873507> 费尔南德斯: цвфцвф
+[Thu Dec 18 20:24:01 2025] <STEAM_0:0:79873507> 费尔南德斯: // 1231
+[Thu Dec 18 20:24:44 2025] <STEAM_0:0:79873507> 费尔南德斯: /nato 123
+[Thu Dec 18 20:24:48 2025] <STEAM_0:0:79873507> 费尔南德斯: /rf 123
+[Thu Dec 18 20:24:51 2025] <STEAM_0:0:79873507> 费尔南德斯: /ad 123
+[Thu Dec 18 20:24:54 2025] <STEAM_0:0:79873507> 费尔南德斯: /event 123
+[Thu Dec 18 20:26:00 2025] <STEAM_0:0:79873507> 费尔南德斯: 13
+[Thu Dec 18 20:27:55 2025] Player "Demi" <STEAM_0:1:694040172> is attempting to connect.
+[Thu Dec 18 20:28:06 2025] Player "费尔南德斯" <STEAM_0:0:79873507> has left the server

@@ -1,0 +1,600 @@
+[Sat Apr 18 00:03:37 2026] Discar has killed kamekadz.banzai.
+[Sat Apr 18 00:05:54 2026] kamekadz.banzai has killed Discar.
+[Sat Apr 18 00:07:06 2026] kamekadz.banzai has killed Discar.
+[Sat Apr 18 00:08:53 2026] Discar has killed kamekadz.banzai.
+[Sat Apr 18 00:10:44 2026] kamekadz.banzai has killed Discar.
+[Sat Apr 18 00:11:42 2026] Discar has killed kamekadz.banzai.
+[Sat Apr 18 00:12:52 2026] kamekadz.banzai has killed Discar.
+[Sat Apr 18 00:13:31 2026] Player "Discar" <STEAM_0:0:650470378> has left the server
+[Sat Apr 18 00:14:03 2026] Player "kamekadz.banzai" <STEAM_0:0:390862311> has left the server
+[Sat Apr 18 01:00:46 2026] Player "Casebook" <STEAM_0:0:585468466> is attempting to connect.
+[Sat Apr 18 01:03:33 2026] Player "Casebook" <STEAM_0:0:585468466> has spawned in the server
+[Sat Apr 18 01:12:06 2026] worldspawn has killed Casebook.
+[Sat Apr 18 01:12:13 2026] <STEAM_0:0:585468466> Casebook: Внимание на квадрат: E4
+[Sat Apr 18 01:12:13 2026] <STEAM_0:0:585468466> Casebook: Внимание на квадрат: E4
+[Sat Apr 18 01:15:52 2026] Player "Fernández" <STEAM_0:0:79873507> is attempting to connect.
+[Sat Apr 18 01:16:09 2026] Player "Casebook" <STEAM_0:0:585468466> is attempting to connect.
+[Sat Apr 18 01:16:25 2026] Player "kamekadz.banzai" <STEAM_0:0:390862311> is attempting to connect.
+[Sat Apr 18 01:16:26 2026] Player "Fernández" <STEAM_0:0:79873507> has spawned in the server
+[Sat Apr 18 01:16:48 2026] <STEAM_0:0:79873507> Fernández spawned npc "NPC [606][npc_vj_re5_em81]"
+[Sat Apr 18 01:17:09 2026] Player "Casebook" <STEAM_0:0:585468466> has spawned in the server
+[Sat Apr 18 01:17:35 2026] <STEAM_0:0:79873507> Fernández used tool "rb655_easy_bodygroup"
+[Sat Apr 18 01:17:59 2026] Player "Casebook" <STEAM_0:0:585468466> has left the server
+[Sat Apr 18 01:18:56 2026] <STEAM_0:0:79873507> Fernández spawned npc "NPC [603][npc_vj_re5_em81_boss]"
+[Sat Apr 18 01:20:06 2026] <STEAM_0:0:79873507> Fernández spawned npc "NPC [603][npc_vj_re5_em82a]"
+[Sat Apr 18 01:20:12 2026] npc_vj_re5_em82a has killed Fernández.
+[Sat Apr 18 01:20:21 2026] <STEAM_0:0:79873507> Fernández ran command "respawn Александров"
+[Sat Apr 18 01:20:31 2026] <STEAM_0:0:79873507> Fernández spawned npc "NPC [611][npc_vj_re5_em81_boss]"
+[Sat Apr 18 01:22:22 2026] <STEAM_0:0:79873507> Fernández spawned npc "NPC [611][npc_vj_re5_em80]"
+[Sat Apr 18 01:22:25 2026] <STEAM_0:0:79873507> Fernández spawned npc "NPC [612][npc_vj_re5_em81]"
+[Sat Apr 18 01:23:23 2026] <STEAM_0:0:79873507> Fernández spawned npc "NPC [609][npc_vj_re5_em81_boss]"
+[Sat Apr 18 01:24:41 2026] Player "BloodySmile" <STEAM_0:1:54838838> is attempting to connect.
+[Sat Apr 18 01:25:29 2026] Player "kamekadz.banzai" <STEAM_0:0:390862311> is attempting to connect.
+[Sat Apr 18 01:25:37 2026] Player "BloodySmile" <STEAM_0:1:54838838> has spawned in the server
+[Sat Apr 18 01:27:57 2026] Player "kamekadz.banzai" <STEAM_0:0:390862311> has spawned in the server
+[Sat Apr 18 01:32:02 2026] <STEAM_0:0:390862311> kamekadz.banzai: /ooc ооо
+[Sat Apr 18 01:32:09 2026] <STEAM_0:0:390862311> kamekadz.banzai: /ooc 5 место
+[Sat Apr 18 01:32:09 2026] <STEAM_0:0:79873507> Fernández: // ?
+[Sat Apr 18 01:32:21 2026] <STEAM_0:0:390862311> kamekadz.banzai: /looc 5 место
+[Sat Apr 18 01:32:26 2026] <STEAM_0:1:54838838> BloodySmile ran command "goto Александров"
+[Sat Apr 18 01:32:27 2026] <STEAM_0:0:390862311> kamekadz.banzai: /ooc 5 vtcnj
+[Sat Apr 18 01:32:30 2026] <STEAM_0:0:79873507> Fernández spawned npc "NPC [630][npc_vj_re5_em81_boss]"
+[Sat Apr 18 01:32:35 2026] <STEAM_0:0:390862311> kamekadz.banzai: /ooc 5 место
+[Sat Apr 18 01:32:36 2026] npc_vj_re5_em81_boss has killed BloodySmile.
+[Sat Apr 18 01:33:00 2026] <STEAM_0:1:54838838> BloodySmile ran command "respawn Андрев"
+[Sat Apr 18 01:33:34 2026] npc_vj_re5_em81_boss has killed BloodySmile.
+[Sat Apr 18 01:33:36 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [603][npc_vj_re5_em81]"
+[Sat Apr 18 01:33:38 2026] <STEAM_0:1:54838838> BloodySmile ran command "respawn Андрев"
+[Sat Apr 18 01:33:41 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [620][npc_vj_re5_em81]"
+[Sat Apr 18 01:33:58 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [620][npc_vj_re5_em84]"
+[Sat Apr 18 01:34:07 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [620][npc_vj_re5_em82a]"
+[Sat Apr 18 01:34:19 2026] npc_vj_re5_em81 has killed BloodySmile.
+[Sat Apr 18 01:34:46 2026] npc_vj_re5_em82a has killed kamekadz.banzai.
+[Sat Apr 18 01:34:49 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [616][sent_vj_ply_healthkit]"
+[Sat Apr 18 01:35:03 2026] <STEAM_0:0:79873507> Fernández spawned npc "NPC [603][npc_vj_re5_em81]"
+[Sat Apr 18 01:35:05 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [613][npc_vj_re5_em80b]"
+[Sat Apr 18 01:35:05 2026] npc_vj_re5_em81 has killed Fernández.
+[Sat Apr 18 01:35:13 2026] <STEAM_0:0:79873507> Fernández ran command "respawn Александров"
+[Sat Apr 18 01:37:24 2026] <STEAM_0:0:79873507> Fernández spawned npc "NPC [629][npc_vj_re5_em81_boss]"
+[Sat Apr 18 01:39:02 2026] Player "kamekadz.banzai" <STEAM_0:0:390862311> has left the server
+[Sat Apr 18 01:39:27 2026] <STEAM_0:0:79873507> Fernández spawned npc "NPC [613][npc_vj_re5_em81_boss]"
+[Sat Apr 18 01:40:14 2026] Player "BloodySmile" <STEAM_0:1:54838838> has left the server
+[Sat Apr 18 01:43:29 2026] Player "BloodySmile" <STEAM_0:1:54838838> is attempting to connect.
+[Sat Apr 18 01:52:37 2026] Player "Fernández" <STEAM_0:0:79873507> has left the server
+[Sat Apr 18 08:10:39 2026] Player "{Arasaka Tower}KAWAi!300FPS" <STEAM_0:0:156831015> is attempting to connect.
+[Sat Apr 18 08:27:37 2026] Player "Сперма яйцо вадим" <STEAM_0:0:395681274> is attempting to connect.
+[Sat Apr 18 08:33:43 2026] Player "Metropolice URF.IM" <STEAM_0:0:881907491> is attempting to connect.
+[Sat Apr 18 09:43:15 2026] Player "TatataPigeon" <STEAM_0:1:908859079> is attempting to connect.
+[Sat Apr 18 09:53:36 2026] Player "TatataPigeon" <STEAM_0:1:908859079> has spawned in the server
+[Sat Apr 18 09:54:31 2026] Player "TatataPigeon" <STEAM_0:1:908859079> has left the server
+[Sat Apr 18 11:02:15 2026] Player "★☾₳ⱤØ₦₦ł₭☽★" <STEAM_0:0:456016030> is attempting to connect.
+[Sat Apr 18 11:05:19 2026] Player "★☾₳ⱤØ₦₦ł₭☽★" <STEAM_0:0:456016030> has spawned in the server
+[Sat Apr 18 11:40:41 2026] Player "kamekadz.banzai" <STEAM_0:0:390862311> is attempting to connect.
+[Sat Apr 18 12:19:59 2026] Player "kamekadz.banzai" <STEAM_0:0:390862311> is attempting to connect.
+[Sat Apr 18 12:41:38 2026] Player "kamekadz.banzai" <STEAM_0:0:390862311> is attempting to connect.
+[Sat Apr 18 12:45:20 2026] Player "kamekadz.banzai" <STEAM_0:0:390862311> has spawned in the server
+[Sat Apr 18 12:52:42 2026] Player "kamekadz.banzai" <STEAM_0:0:390862311> has left the server
+[Sat Apr 18 13:00:41 2026] Player "kamekadz.banzai" <STEAM_0:0:390862311> is attempting to connect.
+[Sat Apr 18 13:02:36 2026] Player "kamekadz.banzai" <STEAM_0:0:390862311> has spawned in the server
+[Sat Apr 18 13:06:48 2026] <STEAM_0:0:390862311> kamekadz.banzai: /ooc чего нахуй
+[Sat Apr 18 13:07:23 2026] Player "Sou1" <STEAM_0:1:618974024> is attempting to connect.
+[Sat Apr 18 13:07:36 2026] <STEAM_0:0:390862311> kamekadz.banzai: /ooc да сука я того в рот ебал
+[Sat Apr 18 13:07:40 2026] Player "kamekadz.banzai" <STEAM_0:0:390862311> has left the server
+[Sat Apr 18 13:08:38 2026] Player "kamekadz.banzai" <STEAM_0:0:390862311> is attempting to connect.
+[Sat Apr 18 13:09:06 2026] Player "Sou1" <STEAM_0:1:618974024> is attempting to connect.
+[Sat Apr 18 13:10:24 2026] Player "Sou1" <STEAM_0:1:618974024> is attempting to connect.
+[Sat Apr 18 13:10:26 2026] Player "kamekadz.banzai" <STEAM_0:0:390862311> has spawned in the server
+[Sat Apr 18 13:11:28 2026] <STEAM_0:0:390862311> kamekadz.banzai: /ooc яебал
+[Sat Apr 18 13:11:43 2026] Player "Dent1st" <STEAM_0:0:899892561> is attempting to connect.
+[Sat Apr 18 13:12:05 2026] <STEAM_0:0:390862311> kamekadz.banzai: /ooc какого хуя я площадь захватил под флагом пмс анал
+[Sat Apr 18 13:12:14 2026] Player "Sou1" <STEAM_0:1:618974024> has spawned in the server
+[Sat Apr 18 13:12:48 2026] Player "Dent1st" <STEAM_0:0:899892561> has spawned in the server
+[Sat Apr 18 13:12:57 2026] <STEAM_0:1:618974024> Sou1: // главное управление войсками - ефрейтор?
+[Sat Apr 18 13:13:07 2026] <STEAM_0:0:390862311> kamekadz.banzai: /ooc да да
+[Sat Apr 18 13:13:52 2026] <STEAM_0:0:390862311> kamekadz.banzai: /ooc я вообще захватил площадь под флагом пмс анал
+[Sat Apr 18 13:14:04 2026] <STEAM_0:1:618974024> Sou1: // ого ножи
+[Sat Apr 18 13:16:12 2026] <STEAM_0:0:390862311> kamekadz.banzai: /ooc ну все нахуй я за пмс анал
+[Sat Apr 18 13:17:28 2026] <STEAM_0:0:390862311> kamekadz.banzai: /ooc фу на леопарде
+[Sat Apr 18 13:17:51 2026] <STEAM_0:0:390862311> kamekadz.banzai: /ooc куда вы на площадь
+[Sat Apr 18 13:19:11 2026] <STEAM_0:0:390862311> kamekadz.banzai: /ooc я посторался
+[Sat Apr 18 13:20:11 2026] <STEAM_0:1:618974024> Sou1: Mогу на 100 дцб поставить
+[Sat Apr 18 13:20:17 2026] <STEAM_0:1:618974024> Sou1: 92 стоит щас
+[Sat Apr 18 13:20:24 2026] <STEAM_0:0:899892561> Dent1st: не почувствуется
+[Sat Apr 18 13:20:27 2026] <STEAM_0:1:618974024> Sou1: Ну ок
+[Sat Apr 18 13:20:32 2026] <STEAM_0:0:899892561> Dent1st: скинь мне к слову мп3 в дсе
+[Sat Apr 18 13:20:35 2026] <STEAM_0:0:899892561> Dent1st: r34_mri
+[Sat Apr 18 13:20:37 2026] <STEAM_0:1:618974024> Sou1: потоM
+[Sat Apr 18 13:20:39 2026] <STEAM_0:1:618974024> Sou1: ууу
+[Sat Apr 18 13:20:41 2026] <STEAM_0:1:618974024> Sou1: дрочун
+[Sat Apr 18 13:20:43 2026] <STEAM_0:1:618974024> Sou1: дрочун
+[Sat Apr 18 13:20:53 2026] <STEAM_0:1:618974024> Sou1: правда правда
+[Sat Apr 18 13:21:39 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /me положил документы на стол
+[Sat Apr 18 13:22:02 2026] <STEAM_0:1:618974024> Sou1: Не думаю Chто они на хате у себя
+[Sat Apr 18 13:22:23 2026] <STEAM_0:1:618974024> Sou1: Внимание на квадрат: F7
+[Sat Apr 18 13:22:23 2026] <STEAM_0:1:618974024> Sou1: Внимание на квадрат: F7
+[Sat Apr 18 13:22:23 2026] <STEAM_0:1:618974024> Sou1: Внимание на квадрат: G6
+[Sat Apr 18 13:22:24 2026] <STEAM_0:1:618974024> Sou1: Внимание на квадрат: G6
+[Sat Apr 18 13:22:24 2026] <STEAM_0:1:618974024> Sou1: Внимание на квадрат: G5
+[Sat Apr 18 13:22:24 2026] <STEAM_0:1:618974024> Sou1: Внимание на квадрат: G5
+[Sat Apr 18 13:22:29 2026] <STEAM_0:1:618974024> Sou1: о нихуя
+[Sat Apr 18 13:23:48 2026] <STEAM_0:1:618974024> Sou1: кстати
+[Sat Apr 18 13:23:52 2026] <STEAM_0:0:899892561> Dent1st: ну?
+[Sat Apr 18 13:23:52 2026] <STEAM_0:1:618974024> Sou1: у меня айди 6777
+[Sat Apr 18 13:23:56 2026] <STEAM_0:1:618974024> Sou1: я в ахуе
+[Sat Apr 18 13:24:01 2026] <STEAM_0:0:899892561> Dent1st: СИКСЕЕЕВЭЭЭЭЭН
+[Sat Apr 18 13:24:09 2026] <STEAM_0:0:390862311> kamekadz.banzai: /ooc я точку не могу захватить хз почему у меня от рук пмс анал захватываеться
+[Sat Apr 18 13:24:19 2026] <STEAM_0:1:618974024> Sou1: // че за анал
+[Sat Apr 18 13:24:41 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc ЧВК "Анал"
+[Sat Apr 18 13:24:42 2026] <STEAM_0:0:390862311> kamekadz.banzai: /ooc астрал
+[Sat Apr 18 13:25:45 2026] Player "★☾₳ⱤØ₦₦ł₭☽★" <STEAM_0:0:456016030> has left the server
+[Sat Apr 18 13:28:48 2026] Sou1 has killed Dent1st.
+[Sat Apr 18 13:29:49 2026] Dent1st has killed Sou1.
+[Sat Apr 18 13:29:57 2026] Player "Discar" <STEAM_0:0:650470378> is attempting to connect.
+[Sat Apr 18 13:30:18 2026] Player "FreeTP.Org" <STEAM_0:0:437678744> is attempting to connect.
+[Sat Apr 18 13:30:53 2026] Player "Discar" <STEAM_0:0:650470378> has spawned in the server
+[Sat Apr 18 13:31:17 2026] Player "Dent1st" <STEAM_0:0:899892561> has left the server
+[Sat Apr 18 13:31:28 2026] Player "Sou1" <STEAM_0:1:618974024> has left the server
+[Sat Apr 18 13:40:17 2026] kamekadz.banzai has killed Discar.
+[Sat Apr 18 13:41:42 2026] kamekadz.banzai has killed Discar.
+[Sat Apr 18 13:42:07 2026] rgd5_srpnl has killed Discar.
+[Sat Apr 18 13:44:31 2026] rgd5_srpnl has killed Discar.
+[Sat Apr 18 13:45:42 2026] kamekadz.banzai has killed Discar.
+[Sat Apr 18 13:46:07 2026] kamekadz.banzai has killed Discar.
+[Sat Apr 18 13:46:28 2026] <STEAM_0:0:650470378> Discar: /ooc я блять на тебя танкистов натравлю Псковский
+[Sat Apr 18 13:47:02 2026] <STEAM_0:0:650470378> Discar: /ooc Буду
+[Sat Apr 18 13:47:47 2026] Discar has killed kamekadz.banzai.
+[Sat Apr 18 13:49:08 2026] <STEAM_0:0:650470378> Discar: /ooc Это называется самооьборона
+[Sat Apr 18 13:53:37 2026] kamekadz.banzai has killed Discar.
+[Sat Apr 18 13:54:06 2026] kamekadz.banzai has killed Discar.
+[Sat Apr 18 13:55:56 2026] Discar has killed kamekadz.banzai.
+[Sat Apr 18 13:56:01 2026] <STEAM_0:0:390862311> kamekadz.banzai: /ooc ты еблан?
+[Sat Apr 18 13:56:22 2026] <STEAM_0:0:390862311> kamekadz.banzai: /ooc я тебя услышал
+[Sat Apr 18 13:56:30 2026] <STEAM_0:0:390862311> kamekadz.banzai: /ooc я тебя услышал
+[Sat Apr 18 13:56:37 2026] <STEAM_0:0:390862311> kamekadz.banzai: /ooc я тебя услышал
+[Sat Apr 18 13:59:35 2026] Player "BloodySmile" <STEAM_0:1:54838838> is attempting to connect.
+[Sat Apr 18 14:00:35 2026] Player "BloodySmile" <STEAM_0:1:54838838> has spawned in the server
+[Sat Apr 18 14:02:33 2026] <STEAM_0:0:650470378> Discar: Внимание на квадрат: B9
+[Sat Apr 18 14:02:33 2026] <STEAM_0:0:650470378> Discar: Внимание на квадрат: B9
+[Sat Apr 18 14:03:21 2026] <STEAM_0:1:54838838> BloodySmile ran command "goto Псковский "
+[Sat Apr 18 14:03:48 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [610][npc_vj_re5_em81]"
+[Sat Apr 18 14:04:23 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [619][npc_vj_re5_em81]"
+[Sat Apr 18 14:05:20 2026] Player "Discar" <STEAM_0:0:650470378> has left the server
+[Sat Apr 18 14:06:42 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [619][npc_vj_re5_em81_boss]"
+[Sat Apr 18 14:07:07 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [626][npc_vj_re5_em81]"
+[Sat Apr 18 14:07:40 2026] npc_vj_re5_em81 has killed kamekadz.banzai.
+[Sat Apr 18 14:07:59 2026] npc_vj_re5_em81 has killed kamekadz.banzai.
+[Sat Apr 18 14:08:35 2026] <STEAM_0:0:390862311> kamekadz.banzai: /ooc бля сидеть ждать минуту
+[Sat Apr 18 14:08:40 2026] <STEAM_0:1:54838838> BloodySmile ran command "respawn Псковский "
+[Sat Apr 18 14:09:21 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [619][npc_vj_re5_em84]"
+[Sat Apr 18 14:09:36 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [619][npc_vj_re5_em80b]"
+[Sat Apr 18 14:09:48 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [619][npc_vj_re5_em81]"
+[Sat Apr 18 14:10:14 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [619][npc_vj_re5_em80]"
+[Sat Apr 18 14:10:27 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [620][npc_vj_re5_em81]"
+[Sat Apr 18 14:10:51 2026] npc_vj_re5_em81 has killed kamekadz.banzai.
+[Sat Apr 18 14:10:52 2026] kamekadz.banzai has killed kamekadz.banzai.
+[Sat Apr 18 14:11:28 2026] <STEAM_0:1:54838838> BloodySmile: https://steamcommunity.com/workshop/filedetails/?id=3605141517
+[Sat Apr 18 14:11:53 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [620][npc_vj_re5_em82a]"
+[Sat Apr 18 14:12:00 2026] Player "kamekadz.banzai" <STEAM_0:0:390862311> has left the server
+[Sat Apr 18 14:13:02 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [613][npc_vj_re5_em80]"
+[Sat Apr 18 14:13:06 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [615][npc_vj_re5_em80]"
+[Sat Apr 18 14:15:10 2026] npc_vj_re5_em80 has killed BloodySmile.
+[Sat Apr 18 14:15:15 2026] <STEAM_0:1:54838838> BloodySmile: н
+[Sat Apr 18 14:15:21 2026] <STEAM_0:1:54838838> BloodySmile ran command "respawn Андрев"
+[Sat Apr 18 14:17:11 2026] npc_vj_re5_em80 has killed BloodySmile.
+[Sat Apr 18 14:17:14 2026] <STEAM_0:1:54838838> BloodySmile ran command "respawn Андрев"
+[Sat Apr 18 14:18:49 2026] Player "kamekadz.banzai" <STEAM_0:0:390862311> is attempting to connect.
+[Sat Apr 18 14:19:38 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [615][sw_mh60l]"
+[Sat Apr 18 14:19:45 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Sat Apr 18 14:19:47 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Sat Apr 18 14:19:55 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [615][sw_uh60]"
+[Sat Apr 18 14:19:56 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Sat Apr 18 14:19:58 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Sat Apr 18 14:20:03 2026] <STEAM_0:1:54838838> BloodySmile spawned SENT "Entity [615][sw_mh60s]"
+[Sat Apr 18 14:20:03 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Sat Apr 18 14:20:07 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Sat Apr 18 14:20:07 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Sat Apr 18 14:20:12 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Sat Apr 18 14:20:12 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Sat Apr 18 14:20:14 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Sat Apr 18 14:20:16 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Sat Apr 18 14:20:19 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Sat Apr 18 14:20:19 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Sat Apr 18 14:20:22 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Sat Apr 18 14:20:36 2026] <STEAM_0:1:54838838> BloodySmile used tool "sw_loadout_editor_v3"
+[Sat Apr 18 14:21:22 2026] Player "kamekadz.banzai" <STEAM_0:0:390862311> has spawned in the server
+[Sat Apr 18 14:22:25 2026] Player "Discar" <STEAM_0:0:650470378> is attempting to connect.
+[Sat Apr 18 14:22:50 2026] Player "Casebook" <STEAM_0:0:585468466> is attempting to connect.
+[Sat Apr 18 14:23:19 2026] Player "Discar" <STEAM_0:0:650470378> has spawned in the server
+[Sat Apr 18 14:24:58 2026] Player "Casebook" <STEAM_0:0:585468466> has spawned in the server
+[Sat Apr 18 14:25:09 2026] <STEAM_0:0:650470378> Discar: /pay
+[Sat Apr 18 14:26:08 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [657][npc_vj_re5_em81]"
+[Sat Apr 18 14:26:32 2026] npc_vj_re5_em81 has killed kamekadz.banzai.
+[Sat Apr 18 14:26:41 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [624][npc_vj_re5_em81]"
+[Sat Apr 18 14:26:53 2026] <STEAM_0:1:54838838> BloodySmile ran command "respawn Псковский "
+[Sat Apr 18 14:27:06 2026] npc_vj_re5_em81 has killed Casebook.
+[Sat Apr 18 14:27:11 2026] <STEAM_0:1:54838838> BloodySmile ran command "respawn Калашников"
+[Sat Apr 18 14:28:26 2026] npc_vj_re5_em81 has killed kamekadz.banzai.
+[Sat Apr 18 14:28:44 2026] npc_vj_re5_em81 has killed Discar.
+[Sat Apr 18 14:28:50 2026] <STEAM_0:1:54838838> BloodySmile ran command "respawn Дискаров"
+[Sat Apr 18 14:28:53 2026] <STEAM_0:1:54838838> BloodySmile ran command "respawn Псковский "
+[Sat Apr 18 14:28:58 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [624][npc_vj_re5_em81_boss]"
+[Sat Apr 18 14:29:36 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [842][npc_vj_re5_em84]"
+[Sat Apr 18 14:29:52 2026] Casebook has killed kamekadz.banzai.
+[Sat Apr 18 14:31:01 2026] <STEAM_0:1:54838838> BloodySmile spawned npc "NPC [624][npc_vj_re5_em80]"
+[Sat Apr 18 14:32:42 2026] <STEAM_0:0:650470378> Discar: /pay
+[Sat Apr 18 14:33:09 2026] Discar has killed kamekadz.banzai.
+[Sat Apr 18 14:33:33 2026] Discar has killed Casebook.
+[Sat Apr 18 14:35:30 2026] Player "BloodySmile" <STEAM_0:1:54838838> has left the server
+[Sat Apr 18 14:36:21 2026] Discar has killed kamekadz.banzai.
+[Sat Apr 18 14:39:02 2026] Player "kamekadz.banzai" <STEAM_0:0:390862311> has left the server
+[Sat Apr 18 14:41:40 2026] Player "Discar" <STEAM_0:0:650470378> has left the server
+[Sat Apr 18 14:41:42 2026] Player "Discar" <STEAM_0:0:650470378> is attempting to connect.
+[Sat Apr 18 14:42:30 2026] Player "Discar" <STEAM_0:0:650470378> has spawned in the server
+[Sat Apr 18 14:43:40 2026] Player "Po_rA1" <STEAM_0:0:887714123> is attempting to connect.
+[Sat Apr 18 14:43:52 2026] Player "Po_rA1" <STEAM_0:0:887714123> is attempting to connect.
+[Sat Apr 18 14:46:04 2026] Player "Po_rA1" <STEAM_0:0:887714123> has spawned in the server
+[Sat Apr 18 14:50:03 2026] worldspawn has killed Casebook.
+[Sat Apr 18 14:51:29 2026] Player "Po_rA1" <STEAM_0:0:887714123> has left the server
+[Sat Apr 18 15:12:34 2026] Player "༒︎シ︎ʰᵉⁿᵗᵃⁱシ" <STEAM_0:0:851601344> is attempting to connect.
+[Sat Apr 18 15:14:44 2026] Player "༒︎シ︎ʰᵉⁿᵗᵃⁱシ" <STEAM_0:0:851601344> has spawned in the server
+[Sat Apr 18 15:16:55 2026] Player "Casebook" <STEAM_0:0:585468466> has left the server
+[Sat Apr 18 15:20:24 2026] Player "Discar" <STEAM_0:0:650470378> has left the server
+[Sat Apr 18 15:25:26 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [610][sw_mi35m]"
+[Sat Apr 18 15:25:29 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [612][sw_mi35m]"
+[Sat Apr 18 15:26:58 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [610][lvs_item_gear]"
+[Sat Apr 18 15:27:08 2026] Player "༒︎シ︎ʰᵉⁿᵗᵃⁱシ" <STEAM_0:0:851601344> has left the server
+[Sat Apr 18 15:45:04 2026] Player "★☾₳ⱤØ₦₦ł₭☽★" <STEAM_0:0:456016030> is attempting to connect.
+[Sat Apr 18 15:46:56 2026] Player "★☾₳ⱤØ₦₦ł₭☽★" <STEAM_0:0:456016030> has spawned in the server
+[Sat Apr 18 15:50:06 2026] Player "[HapKo6apoH]™" <STEAM_0:1:25562169> is attempting to connect.
+[Sat Apr 18 15:50:44 2026] Player "ni363078" <STEAM_0:1:395906538> is attempting to connect.
+[Sat Apr 18 15:55:18 2026] Player "ni363078" <STEAM_0:1:395906538> has spawned in the server
+[Sat Apr 18 16:00:20 2026] Player "Discar" <STEAM_0:0:650470378> is attempting to connect.
+[Sat Apr 18 16:01:06 2026] Player "Discar" <STEAM_0:0:650470378> has spawned in the server
+[Sat Apr 18 16:09:10 2026] Player "ni363078" <STEAM_0:1:395906538> has left the server
+[Sat Apr 18 16:09:12 2026] Player "ni363078" <STEAM_0:1:395906538> is attempting to connect.
+[Sat Apr 18 16:09:49 2026] Player "ni363078" <STEAM_0:1:395906538> has spawned in the server
+[Sat Apr 18 16:10:44 2026] Player "Dude" <STEAM_0:0:538953955> is attempting to connect.
+[Sat Apr 18 16:10:51 2026] Player "kamekadz.banzai" <STEAM_0:0:390862311> is attempting to connect.
+[Sat Apr 18 16:18:08 2026] Player "kamekadz.banzai" <STEAM_0:0:390862311> has spawned in the server
+[Sat Apr 18 16:24:47 2026] Player "kamekadz.banzai" <STEAM_0:0:390862311> has left the server
+[Sat Apr 18 16:28:33 2026] Player "ni363078" <STEAM_0:1:395906538> has left the server
+[Sat Apr 18 16:28:38 2026] Player "ni363078" <STEAM_0:1:395906538> is attempting to connect.
+[Sat Apr 18 16:29:15 2026] Player "ni363078" <STEAM_0:1:395906538> has spawned in the server
+[Sat Apr 18 16:29:40 2026] Player "kamekadz.banzai" <STEAM_0:0:390862311> is attempting to connect.
+[Sat Apr 18 16:30:03 2026] Player "ni363078" <STEAM_0:1:395906538> has left the server
+[Sat Apr 18 16:32:21 2026] Player "kamekadz.banzai" <STEAM_0:0:390862311> has spawned in the server
+[Sat Apr 18 16:42:29 2026] <STEAM_0:0:390862311> kamekadz.banzai: /me отдал честь
+[Sat Apr 18 16:44:16 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /rf Военной Полиции запрещено покидать территорию ВЧ, только в случаях обороны ВЧ и в случае поиска дезертиров.
+[Sat Apr 18 16:46:01 2026] <STEAM_0:0:390862311> kamekadz.banzai: /rf забыли упомянуть патруль
+[Sat Apr 18 16:46:11 2026] Player "Dude" <STEAM_0:0:538953955> has spawned in the server
+[Sat Apr 18 16:46:41 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /rf Патруль без причины. Если за 5 минут не вернёшься на ВЧ, получишь строгое предупреждение. Ни отчётности о начале патрулировании, ни приказа КМД ВП.
+[Sat Apr 18 16:46:54 2026] <STEAM_0:0:390862311> kamekadz.banzai: /rf так же для подержания провопроядка в особождёных территориях
+[Sat Apr 18 16:48:26 2026] <STEAM_0:0:390862311> kamekadz.banzai: /ooc ух как мы запели когда написал жб
+[Sat Apr 18 16:49:36 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /rf Кто дал приказание начать патруль?
+[Sat Apr 18 16:49:51 2026] <STEAM_0:0:390862311> kamekadz.banzai: /me закрыл тигр
+[Sat Apr 18 16:50:04 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc Не отчёт, а хуйня, это раз; а во вторых как там твоё убийство Танкистов?)) РАсскажешь?)
+[Sat Apr 18 16:51:05 2026] <STEAM_0:0:390862311> kamekadz.banzai: /ooc ну-ну тоже прикольно еблонил на капитане
+[Sat Apr 18 16:51:59 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc Хах))) Когда ты сбегал с ВЧ и писал, мол свободен?)))) А ещё за мной доел, написал донос))) Да ты мастер доеданий)
+[Sat Apr 18 16:52:02 2026] <STEAM_0:0:390862311> kamekadz.banzai: /rf а как узнали что патруль
+[Sat Apr 18 16:52:26 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /rf Других причин для выезда не имеются, исключительно поиски дезертиров
+[Sat Apr 18 16:52:41 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /rf Других причин нету, исключительно поиски дезертиров
+[Sat Apr 18 16:53:29 2026] <STEAM_0:0:390862311> kamekadz.banzai: /ooc норм тоже ни за что в нары сажать, да кстати жб я бы раньше написал мол были бы доки
+[Sat Apr 18 16:54:07 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc Опять слился, даже не ответил на довод, что сьебал просто так базы. Как ты пытаешься, уф. Иди в КВН детский, там также пытаются
+[Sat Apr 18 16:55:24 2026] <STEAM_0:0:390862311> kamekadz.banzai: /ooc нет вопроса нет ответа довльно логично не?
+[Sat Apr 18 16:55:32 2026] Player "Dude" <STEAM_0:0:538953955> has left the server
+[Sat Apr 18 16:56:04 2026] <STEAM_0:0:390862311> kamekadz.banzai: /ooc своё соо перечитай умник
+[Sat Apr 18 16:56:22 2026] Player "Mr.Ruskov" <STEAM_0:0:641109614> is attempting to connect.
+[Sat Apr 18 16:56:24 2026] <STEAM_0:0:390862311> kamekadz.banzai: /ooc ещё мне че-то заливает
+[Sat Apr 18 16:56:38 2026] <STEAM_0:0:390862311> kamekadz.banzai: /ooc ещё мне че-то заливает
+[Sat Apr 18 16:57:53 2026] <STEAM_0:0:390862311> kamekadz.banzai: /ooc язык из жопы высунь и ответь
+[Sat Apr 18 16:58:15 2026] <STEAM_0:0:390862311> kamekadz.banzai: /ooc или с мыслями собираешься?)
+[Sat Apr 18 16:58:27 2026] <STEAM_0:0:390862311> kamekadz.banzai: /ooc или с мыслями собираешься?)
+[Sat Apr 18 17:01:07 2026] Player "Mr.Ruskov" <STEAM_0:0:641109614> has spawned in the server
+[Sat Apr 18 17:04:28 2026] Player "Mr.Ruskov" <STEAM_0:0:641109614> has left the server
+[Sat Apr 18 17:04:29 2026] Player "Mr.Ruskov" <STEAM_0:0:641109614> is attempting to connect.
+[Sat Apr 18 17:05:49 2026] <STEAM_0:0:390862311> kamekadz.banzai: /ooc ясно ясно всё с тобой
+[Sat Apr 18 17:07:36 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc Извини, у тебя слова с хрюканьем перемешались. Можешь по буквам написать, дабы ты меньше ошибался, ок?
+[Sat Apr 18 17:08:18 2026] <STEAM_0:0:390862311> kamekadz.banzai: /ooс ну тут понятно слился
+[Sat Apr 18 17:08:25 2026] <STEAM_0:0:390862311> kamekadz.banzai: /ooc ну тут понятно слился
+[Sat Apr 18 17:09:39 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc Ты слился, с вопроса что сбегал. Мне как-то фиолетово доказывать тебе (ибо ты наверное не понимаешь суть моего вопроса) что-либо. Захочешь - ответишь, а ещё лучше перестанешь ныть в чат.
+[Sat Apr 18 17:09:51 2026] Player "Mr.Ruskov" <STEAM_0:0:641109614> is attempting to connect.
+[Sat Apr 18 17:10:21 2026] Player "Mr.Ruskov" <STEAM_0:0:641109614> has spawned in the server
+[Sat Apr 18 17:10:28 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc Сначала сам стелился и смеялся, а потом обиделся и запускал слёзки))
+[Sat Apr 18 17:11:16 2026] Player "Mr.Ruskov" <STEAM_0:0:641109614> has left the server
+[Sat Apr 18 17:11:45 2026] Player "Mr.Ruskov" <STEAM_0:0:641109614> is attempting to connect.
+[Sat Apr 18 17:12:03 2026] <STEAM_0:0:390862311> kamekadz.banzai: /ooc ну видишь сам не отрицаешь что вытворял такую хуйню
+[Sat Apr 18 17:12:36 2026] Player "drist228" <STEAM_0:1:712738089> is attempting to connect.
+[Sat Apr 18 17:13:14 2026] Player "Mr.Ruskov" <STEAM_0:0:641109614> has spawned in the server
+[Sat Apr 18 17:15:11 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc Я писал, что это хуйня? Где же?
+[Sat Apr 18 17:15:56 2026] <STEAM_0:0:390862311> kamekadz.banzai: /ooc ебать,ну нихуя себе ты так быстро память потерял
+[Sat Apr 18 17:17:00 2026] <STEAM_0:0:390862311> kamekadz.banzai: /ooc собствено я тебя понял
+[Sat Apr 18 17:17:40 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc Ты пропустил предлог "не", иначе я не смогу снова тебе разъяснить
+[Sat Apr 18 17:18:56 2026] <STEAM_0:0:390862311> kamekadz.banzai: /ooc "не" это частица, тогда что ты имел виду "сам стелился и смеялся"
+[Sat Apr 18 17:20:18 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc Частица это "же", а "не" - предлог глагола "потерял"
+[Sat Apr 18 17:21:11 2026] Player "Po_rA1" <STEAM_0:0:887714123> is attempting to connect.
+[Sat Apr 18 17:21:23 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc А, да, я просто не гуглю такую хуйню. Частица всё же
+[Sat Apr 18 17:22:14 2026] <STEAM_0:0:390862311> kamekadz.banzai: /ooc  как ты ме там сказал "опять слился, Да же на вопрос не ответив на мой довод" сам то особо не отличаешься
+[Sat Apr 18 17:22:26 2026] Player "Delivery Club" <STEAM_0:1:567170872> is attempting to connect.
+[Sat Apr 18 17:22:44 2026] Player "Mr.Ruskov" <STEAM_0:0:641109614> has left the server
+[Sat Apr 18 17:22:56 2026] Player "Po_rA1" <STEAM_0:0:887714123> has spawned in the server
+[Sat Apr 18 17:23:23 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc Сам стелился и смеялся - тебе на это ответить? Хорошо, ты в тот момент сам рофлил и сбегал с базы, после чего писал в незащищённую сеть "Я свободен", что является ФанРП и НонРП
+[Sat Apr 18 17:24:13 2026] <STEAM_0:0:390862311> kamekadz.banzai: /ooc мда я тебе про ерёму ты мне про фаму
+[Sat Apr 18 17:26:24 2026] <STEAM_0:0:390862311> kamekadz.banzai: /ooc ну ладно если уходишь с темы, то ладно
+[Sat Apr 18 17:32:37 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /me Достал папку с документами, перелестнул страницу и начал заполнять в ней что-то ручкой.
+[Sat Apr 18 17:37:42 2026] Player "Discar" <STEAM_0:0:650470378> has left the server
+[Sat Apr 18 17:49:30 2026] Player "tohiro" <STEAM_0:0:99492375> is attempting to connect.
+[Sat Apr 18 17:50:18 2026] Player "tohiro" <STEAM_0:0:99492375> has spawned in the server
+[Sat Apr 18 17:53:15 2026] <STEAM_0:0:99492375> tohiro: // Здарова мужики
+[Sat Apr 18 17:53:27 2026] <STEAM_0:0:887714123> Po_rA1: /ooc Здаров
+[Sat Apr 18 17:59:07 2026] <STEAM_0:0:99492375> tohiro: // Давайте жить дружно.
+[Sat Apr 18 18:04:36 2026] <STEAM_0:0:99492375> tohiro: // Ну давайте жить дружно.
+[Sat Apr 18 18:04:58 2026] <STEAM_0:0:887714123> Po_rA1: /ooc Был бы Леопольдом, я бы подумал
+[Sat Apr 18 18:05:43 2026] <STEAM_0:0:99492375> tohiro: // вот бы кто танк подарил
+[Sat Apr 18 18:05:54 2026] <STEAM_0:0:887714123> Po_rA1: /ooc Давай на завод
+[Sat Apr 18 18:06:09 2026] <STEAM_0:0:887714123> Po_rA1: /ooc Бесплатная раздача патрон
+[Sat Apr 18 18:06:13 2026] <STEAM_0:0:887714123> Po_rA1: /ooc Бесплатная раздача патрон
+[Sat Apr 18 18:06:15 2026] <STEAM_0:0:887714123> Po_rA1: /ooc Бесплатная раздача патрон
+[Sat Apr 18 18:06:17 2026] <STEAM_0:0:887714123> Po_rA1: /ooc Бесплатная раздача патрон
+[Sat Apr 18 18:06:44 2026] <STEAM_0:0:99492375> tohiro: // я же ща за гранатометом схожу обманщик
+[Sat Apr 18 18:10:01 2026] <STEAM_0:0:99492375> tohiro: // я же сейчас прийду и буду ругаться
+[Sat Apr 18 18:11:44 2026] Player "impotent" <STEAM_0:1:425612974> is attempting to connect.
+[Sat Apr 18 18:15:06 2026] Player "impotent" <STEAM_0:1:425612974> has spawned in the server
+[Sat Apr 18 18:15:25 2026] Player "Po_rA1" <STEAM_0:0:887714123> has left the server
+[Sat Apr 18 18:16:32 2026] Player "impotent" <STEAM_0:1:425612974> has left the server
+[Sat Apr 18 18:40:32 2026] Player "Sou1" <STEAM_0:1:618974024> is attempting to connect.
+[Sat Apr 18 18:41:19 2026] <STEAM_0:0:390862311> kamekadz.banzai: /me играет, в gta 777
+[Sat Apr 18 18:41:29 2026] <STEAM_0:0:390862311> kamekadz.banzai: /me убрал тел
+[Sat Apr 18 18:41:45 2026] <STEAM_0:0:390862311> kamekadz.banzai: /me убрал тел.
+[Sat Apr 18 18:41:52 2026] <STEAM_0:0:390862311> kamekadz.banzai: /me убрал тел.
+[Sat Apr 18 18:42:04 2026] Player "Sou1" <STEAM_0:1:618974024> has spawned in the server
+[Sat Apr 18 18:43:11 2026] <STEAM_0:0:390862311> kamekadz.banzai: /ooc о нееет....
+[Sat Apr 18 18:43:18 2026] <STEAM_0:0:99492375> tohiro: // Мухахаха
+[Sat Apr 18 18:43:28 2026] <STEAM_0:1:618974024> Sou1: // ого
+[Sat Apr 18 18:43:49 2026] <STEAM_0:0:99492375> tohiro: /nato Прием, на базе есть кто?
+[Sat Apr 18 18:43:53 2026] <STEAM_0:1:618974024> Sou1: /nato Я
+[Sat Apr 18 18:43:55 2026] <STEAM_0:1:618974024> Sou1: /nato Я
+[Sat Apr 18 18:43:58 2026] <STEAM_0:1:618974024> Sou1: /nato Я
+[Sat Apr 18 18:44:28 2026] <STEAM_0:0:99492375> tohiro: /nato Я сижу на крыше в городе, контроллю точки П и С. Если хочешь - присоеденяйся, поможешь.
+[Sat Apr 18 18:44:38 2026] <STEAM_0:1:618974024> Sou1: /nato окей
+[Sat Apr 18 18:45:05 2026] Player "Mr.Ruskov" <STEAM_0:0:641109614> is attempting to connect.
+[Sat Apr 18 18:45:59 2026] Player "Mr.Ruskov" <STEAM_0:0:641109614> has spawned in the server
+[Sat Apr 18 18:48:50 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /looc ща
+[Sat Apr 18 18:50:19 2026] Player "Mr.Ruskov" <STEAM_0:0:641109614> has left the server
+[Sat Apr 18 18:50:37 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /looc на место
+[Sat Apr 18 18:50:53 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /looc 1 минуту и продолжу лекцию
+[Sat Apr 18 18:51:01 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /looc 1 минуту и продолжу лекцию
+[Sat Apr 18 18:55:36 2026] Player "ni363078" <STEAM_0:1:395906538> is attempting to connect.
+[Sat Apr 18 18:56:29 2026] Player "ni363078" <STEAM_0:1:395906538> has spawned in the server
+[Sat Apr 18 18:56:54 2026] <STEAM_0:0:390862311> kamekadz.banzai: /me открыв коробку, беру погоны Мл.Сержанта, открыв уже другую я беру от туда нитки с иголкой
+[Sat Apr 18 18:57:16 2026] Player "FreeTP.Org" <STEAM_0:0:350763868> is attempting to connect.
+[Sat Apr 18 18:58:29 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: #dice
+[Sat Apr 18 18:58:31 2026] <STEAM_0:0:390862311> kamekadz.banzai: /r
+[Sat Apr 18 18:58:33 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /dice
+[Sat Apr 18 18:58:37 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /try
+[Sat Apr 18 18:58:47 2026] <STEAM_0:0:390862311> kamekadz.banzai: /troll
+[Sat Apr 18 18:59:04 2026] Sou1 has killed ni363078.
+[Sat Apr 18 19:00:04 2026] <STEAM_0:0:390862311> kamekadz.banzai: /me отаскиваю труп
+[Sat Apr 18 19:00:20 2026] <STEAM_0:0:390862311> kamekadz.banzai: /me осматриваю тело
+[Sat Apr 18 19:00:51 2026] tohiro has killed ★☾₳ⱤØ₦₦ł₭☽★.
+[Sat Apr 18 19:01:05 2026] Sou1 has killed ni363078.
+[Sat Apr 18 19:01:09 2026] tohiro has killed kamekadz.banzai.
+[Sat Apr 18 19:01:24 2026] <STEAM_0:1:618974024> Sou1: // есс -3 юху
+[Sat Apr 18 19:01:41 2026] <STEAM_0:0:456016030> ★☾₳ⱤØ₦₦ł₭☽★: /ooc Рейд на Базу, нарушение RR. Бан на 1 день
+[Sat Apr 18 19:01:59 2026] <STEAM_0:0:99492375> tohiro: // Мы никого и не трогали -_-
+[Sat Apr 18 19:01:59 2026] <STEAM_0:0:390862311> kamekadz.banzai: /ooc -пендос юху
+[Sat Apr 18 19:02:07 2026] <STEAM_0:1:618974024> Sou1: // сами напали, а ведь могли стрелять по вам уже 4 раза
+[Sat Apr 18 19:02:23 2026] <STEAM_0:1:618974024> Sou1: // мы отступили от базы когда вы стреляли, был ответный огонь
+[Sat Apr 18 19:02:27 2026] <STEAM_0:1:618974024> Sou1: // мы отступили от базы когда вы стреляли, был ответный огонь по вам.
+[Sat Apr 18 19:02:36 2026] <STEAM_0:1:618974024> Sou1: // мы отступили от базы когда вы стреляли, был ответный огонь по вам
+[Sat Apr 18 19:03:03 2026] Player "Discar" <STEAM_0:0:650470378> is attempting to connect.
+[Sat Apr 18 19:03:03 2026] <STEAM_0:0:99492375> tohiro: // выходити давайте, мы дружить хотим
+[Sat Apr 18 19:03:11 2026] <STEAM_0:1:618974024> Sou1: // по крайней мере, я слезть с дерева не мог, поэтому убил вас
+[Sat Apr 18 19:04:08 2026] Player "Discar" <STEAM_0:0:650470378> has spawned in the server
+[Sat Apr 18 19:06:22 2026] Player "ni363078" <STEAM_0:1:395906538> has left the server
+[Sat Apr 18 19:06:22 2026] Player "ni363078" <STEAM_0:1:395906538> is attempting to connect.
+[Sat Apr 18 19:06:59 2026] Player "ni363078" <STEAM_0:1:395906538> has spawned in the server
+[Sat Apr 18 19:08:14 2026] Player "ni363078" <STEAM_0:1:395906538> has left the server
+[Sat Apr 18 19:08:14 2026] Player "ni363078" <STEAM_0:1:395906538> is attempting to connect.
+[Sat Apr 18 19:08:50 2026] Player "ni363078" <STEAM_0:1:395906538> has spawned in the server
+[Sat Apr 18 19:09:28 2026] Player "Discar" <STEAM_0:0:650470378> has left the server
+[Sat Apr 18 19:12:12 2026] <STEAM_0:0:99492375> tohiro: <raindbow> Воевать пайдемте
+[Sat Apr 18 19:12:32 2026] <STEAM_0:0:99492375> tohiro: <rainbow> Воевать пайдемте
+[Sat Apr 18 19:14:07 2026] <STEAM_0:0:99492375> tohiro: // вы гулять когда выйдете, мы дружиться будем
+[Sat Apr 18 19:16:23 2026] Player "Discar" <STEAM_0:0:650470378> is attempting to connect.
+[Sat Apr 18 19:17:00 2026] Player "ni363078" <STEAM_0:1:395906538> has left the server
+[Sat Apr 18 19:17:00 2026] Player "ni363078" <STEAM_0:1:395906538> is attempting to connect.
+[Sat Apr 18 19:17:24 2026] Player "Discar" <STEAM_0:0:650470378> has spawned in the server
+[Sat Apr 18 19:17:37 2026] Player "ni363078" <STEAM_0:1:395906538> has spawned in the server
+[Sat Apr 18 19:18:27 2026] tohiro has killed ★☾₳ⱤØ₦₦ł₭☽★.
+[Sat Apr 18 19:19:50 2026] Player "ni363078" <STEAM_0:1:395906538> has left the server
+[Sat Apr 18 19:20:39 2026] Sou1 has killed Discar.
+[Sat Apr 18 19:20:44 2026] Sou1 has killed ★☾₳ⱤØ₦₦ł₭☽★.
+[Sat Apr 18 19:20:52 2026] tohiro has killed kamekadz.banzai.
+[Sat Apr 18 19:21:38 2026] Player "ni363078" <STEAM_0:1:395906538> is attempting to connect.
+[Sat Apr 18 19:22:10 2026] kamekadz.banzai has killed kamekadz.banzai.
+[Sat Apr 18 19:22:39 2026] Player "ni363078" <STEAM_0:1:395906538> has spawned in the server
+[Sat Apr 18 19:23:15 2026] Player "ni363078" <STEAM_0:1:395906538> has left the server
+[Sat Apr 18 19:25:08 2026] worldspawn has killed tohiro.
+[Sat Apr 18 19:25:25 2026] Player "ni363078" <STEAM_0:1:395906538> is attempting to connect.
+[Sat Apr 18 19:26:38 2026] Player "ni363078" <STEAM_0:1:395906538> has spawned in the server
+[Sat Apr 18 19:26:50 2026] Sou1 has killed kamekadz.banzai.
+[Sat Apr 18 19:29:12 2026] tohiro has killed Sou1.
+[Sat Apr 18 19:29:45 2026] tohiro has killed kamekadz.banzai.
+[Sat Apr 18 19:30:24 2026] <STEAM_0:0:650470378> Discar: Внимание на квадрат: D9
+[Sat Apr 18 19:30:24 2026] <STEAM_0:0:650470378> Discar: Внимание на квадрат: D9
+[Sat Apr 18 19:30:26 2026] <STEAM_0:0:650470378> Discar: Внимание на квадрат: G6
+[Sat Apr 18 19:30:26 2026] <STEAM_0:0:650470378> Discar: Внимание на квадрат: G6
+[Sat Apr 18 19:30:35 2026] Player "ni363078" <STEAM_0:1:395906538> has left the server
+[Sat Apr 18 19:30:35 2026] Player "ni363078" <STEAM_0:1:395906538> is attempting to connect.
+[Sat Apr 18 19:30:38 2026] tohiro has killed kamekadz.banzai.
+[Sat Apr 18 19:31:14 2026] Player "ni363078" <STEAM_0:1:395906538> has spawned in the server
+[Sat Apr 18 19:32:39 2026] tohiro has killed ★☾₳ⱤØ₦₦ł₭☽★.
+[Sat Apr 18 19:34:22 2026] <STEAM_0:0:99492375> tohiro: // да бля выходите йобаны, мы чо тут сидеть должны вас ждать
+[Sat Apr 18 19:34:23 2026] ★☾₳ⱤØ₦₦ł₭☽★ has killed Sou1.
+[Sat Apr 18 19:34:32 2026] <STEAM_0:1:618974024> Sou1: // ебать это че за снайпа
+[Sat Apr 18 19:34:44 2026] Player "ni363078" <STEAM_0:1:395906538> has left the server
+[Sat Apr 18 19:35:15 2026] tohiro has killed ★☾₳ⱤØ₦₦ł₭☽★.
+[Sat Apr 18 19:36:23 2026] Player "ni363078" <STEAM_0:1:395906538> is attempting to connect.
+[Sat Apr 18 19:37:27 2026] Player "ni363078" <STEAM_0:1:395906538> has spawned in the server
+[Sat Apr 18 19:39:02 2026] Sou1 has killed Discar.
+[Sat Apr 18 19:39:05 2026] Player "ni363078" <STEAM_0:1:395906538> has left the server
+[Sat Apr 18 19:39:11 2026] Player "ni363078" <STEAM_0:1:395906538> is attempting to connect.
+[Sat Apr 18 19:39:13 2026] Sou1 has killed kamekadz.banzai.
+[Sat Apr 18 19:39:47 2026] Player "ni363078" <STEAM_0:1:395906538> has spawned in the server
+[Sat Apr 18 19:39:47 2026] <STEAM_0:1:618974024> Sou1: /me добил
+[Sat Apr 18 19:40:24 2026] Player "★☾₳ⱤØ₦₦ł₭☽★" <STEAM_0:0:456016030> has left the server
+[Sat Apr 18 19:40:28 2026] Player "★☾₳ⱤØ₦₦ł₭☽★" <STEAM_0:0:456016030> is attempting to connect.
+[Sat Apr 18 19:41:05 2026] Player "Discar" <STEAM_0:0:650470378> has left the server
+[Sat Apr 18 19:41:14 2026] <STEAM_0:0:390862311> kamekadz.banzai: /ooc пиздец где ваша совесть
+[Sat Apr 18 19:41:19 2026] <STEAM_0:1:618974024> Sou1: // :)
+[Sat Apr 18 19:41:31 2026] Player "★☾₳ⱤØ₦₦ł₭☽★" <STEAM_0:0:456016030> has spawned in the server
+[Sat Apr 18 19:41:33 2026] <STEAM_0:1:618974024> Sou1: // я вообще по вам с крюка попал
+[Sat Apr 18 19:41:38 2026] <STEAM_0:1:618974024> Sou1: // я вообще по вам с крюка попал, пока по приколу кидал
+[Sat Apr 18 19:41:52 2026] Player "ni363078" <STEAM_0:1:395906538> has left the server
+[Sat Apr 18 19:41:52 2026] Player "ni363078" <STEAM_0:1:395906538> is attempting to connect.
+[Sat Apr 18 19:42:03 2026] <STEAM_0:0:99492375> tohiro: // Dalz не кашмарь пацанов XD
+[Sat Apr 18 19:42:06 2026] <STEAM_0:1:618974024> Sou1: // я вообще по вам с крюка попал, пока по приколу кидал
+[Sat Apr 18 19:42:27 2026] Player "ni363078" <STEAM_0:1:395906538> has spawned in the server
+[Sat Apr 18 19:43:17 2026] Player "★☾₳ⱤØ₦₦ł₭☽★" <STEAM_0:0:456016030> has left the server
+[Sat Apr 18 19:43:20 2026] Player "ni363078" <STEAM_0:1:395906538> has left the server
+[Sat Apr 18 19:44:21 2026] <STEAM_0:1:618974024> Sou1: // хах, че ливнули от злости?
+[Sat Apr 18 19:47:51 2026] Player "painrainboow" <STEAM_0:1:122805523> is attempting to connect.
+[Sat Apr 18 19:50:05 2026] Player "painrainboow" <STEAM_0:1:122805523> has spawned in the server
+[Sat Apr 18 19:51:49 2026] tohiro has killed Sou1.
+[Sat Apr 18 19:51:54 2026] Player "Sou1" <STEAM_0:1:618974024> has left the server
+[Sat Apr 18 19:56:39 2026] painrainboow has killed kamekadz.banzai.
+[Sat Apr 18 19:56:55 2026] <STEAM_0:0:390862311> kamekadz.banzai: /ooc жди рапорт
+[Sat Apr 18 19:57:04 2026] <STEAM_0:0:99492375> tohiro: // он вышел уже
+[Sat Apr 18 19:57:23 2026] <STEAM_0:0:390862311> kamekadz.banzai: /ooc ни че закон покарает
+[Sat Apr 18 20:00:50 2026] tohiro has killed kamekadz.banzai.
+[Sat Apr 18 20:01:25 2026] Player "Pioner" <STEAM_0:1:923042528> is attempting to connect.
+[Sat Apr 18 20:03:12 2026] tohiro has killed painrainboow.
+[Sat Apr 18 20:05:00 2026] Player "Be6a" <STEAM_0:0:926636983> is attempting to connect.
+[Sat Apr 18 20:06:01 2026] Player "Pioner" <STEAM_0:1:923042528> is attempting to connect.
+[Sat Apr 18 20:07:24 2026] Player "Pioner" <STEAM_0:1:923042528> has spawned in the server
+[Sat Apr 18 20:08:08 2026] <STEAM_0:0:99492375> tohiro: // пум-пум-пум
+[Sat Apr 18 20:08:15 2026] <STEAM_0:0:390862311> kamekadz.banzai: /ooc что?
+[Sat Apr 18 20:08:21 2026] <STEAM_0:0:99492375> tohiro: // как дела
+[Sat Apr 18 20:08:32 2026] <STEAM_0:0:99492375> tohiro: // как дела?
+[Sat Apr 18 20:08:34 2026] <STEAM_0:0:99492375> tohiro: // как дела?
+[Sat Apr 18 20:09:20 2026] <STEAM_0:0:99492375> tohiro: // как дела?
+[Sat Apr 18 20:10:26 2026] Player "kamekadz.banzai" <STEAM_0:0:390862311> has left the server
+[Sat Apr 18 20:11:12 2026] <STEAM_0:0:99492375> tohiro: // как дела?
+[Sat Apr 18 20:11:57 2026] tohiro has killed painrainboow.
+[Sat Apr 18 20:15:41 2026] painrainboow has killed tohiro.
+[Sat Apr 18 20:16:22 2026] Pioner has killed painrainboow.
+[Sat Apr 18 20:17:30 2026] Player "painrainboow" <STEAM_0:1:122805523> has left the server
+[Sat Apr 18 20:17:34 2026] Player "painrainboow" <STEAM_0:1:122805523> is attempting to connect.
+[Sat Apr 18 20:18:09 2026] Player "painrainboow" <STEAM_0:1:122805523> has spawned in the server
+[Sat Apr 18 20:21:25 2026] Player "kamekadz.banzai" <STEAM_0:0:390862311> is attempting to connect.
+[Sat Apr 18 20:24:27 2026] Player "kamekadz.banzai" <STEAM_0:0:390862311> has spawned in the server
+[Sat Apr 18 20:25:04 2026] Pioner has killed painrainboow.
+[Sat Apr 18 20:26:42 2026] Player "painrainboow" <STEAM_0:1:122805523> has left the server
+[Sat Apr 18 20:26:47 2026] Player "painrainboow" <STEAM_0:1:122805523> is attempting to connect.
+[Sat Apr 18 20:27:20 2026] <STEAM_0:0:99492375> tohiro: // Расмешнив меня
+[Sat Apr 18 20:27:21 2026] Player "painrainboow" <STEAM_0:1:122805523> has spawned in the server
+[Sat Apr 18 20:28:21 2026] Player "Be6a" <STEAM_0:0:926636983> has spawned in the server
+[Sat Apr 18 20:29:36 2026] <STEAM_0:1:122805523> painrainboow: НАЧАЛЬНИК
+[Sat Apr 18 20:29:41 2026] <STEAM_0:1:122805523> painrainboow: ТАВРЯ МАТЬ ШЛЮХА\
+[Sat Apr 18 20:29:44 2026] Player "painrainboow" <STEAM_0:1:122805523> has left the server
+[Sat Apr 18 20:32:14 2026] <STEAM_0:0:390862311> kamekadz.banzai: /ooc как же у чела сгорело
+[Sat Apr 18 20:32:22 2026] <STEAM_0:0:99492375> tohiro: // мы видем XD
+[Sat Apr 18 20:32:47 2026] <STEAM_0:0:99492375> tohiro: // пгык скок Псковский
+[Sat Apr 18 20:33:01 2026] <STEAM_0:0:390862311> kamekadz.banzai: /ooc ни че я знаю кому эти скрины кидать
+[Sat Apr 18 20:33:10 2026] <STEAM_0:0:99492375> tohiro: // людей зови блин XD
+[Sat Apr 18 20:33:15 2026] <STEAM_0:0:99492375> tohiro: // людей зови блин, нам воевать не с кем
+[Sat Apr 18 20:33:18 2026] <STEAM_0:0:99492375> tohiro: // людей зови блин, нам воевать не с кем
+[Sat Apr 18 20:33:24 2026] Player "Be6a" <STEAM_0:0:926636983> has left the server
+[Sat Apr 18 20:33:37 2026] <STEAM_0:0:390862311> kamekadz.banzai: /ooc да там уже мой КМД всех пинганул всем поебать
+[Sat Apr 18 20:34:16 2026] <STEAM_0:0:99492375> tohiro: // можем встретиться поговорить при твоем согласии
+[Sat Apr 18 20:34:22 2026] <STEAM_0:0:99492375> tohiro: // По эльфийски
+[Sat Apr 18 20:34:33 2026] <STEAM_0:0:99492375> tohiro: // По эльфийски
+[Sat Apr 18 20:34:34 2026] <STEAM_0:0:390862311> kamekadz.banzai: /oocну спустись
+[Sat Apr 18 20:34:42 2026] <STEAM_0:0:390862311> kamekadz.banzai: /ooc ну спустись
+[Sat Apr 18 20:34:43 2026] <STEAM_0:0:99492375> tohiro: // По эльфийски
+[Sat Apr 18 20:38:11 2026] Player "Be6a" <STEAM_0:0:926636983> is attempting to connect.
+[Sat Apr 18 20:38:22 2026] Player "Pioner" <STEAM_0:1:923042528> has left the server
+[Sat Apr 18 20:38:24 2026] Player "Pioner" <STEAM_0:1:923042528> is attempting to connect.
+[Sat Apr 18 20:39:10 2026] Player "Pioner" <STEAM_0:1:923042528> has spawned in the server
+[Sat Apr 18 20:41:22 2026] tohiro has killed kamekadz.banzai.
+[Sat Apr 18 20:42:13 2026] kamekadz.banzai has killed tohiro.
+[Sat Apr 18 20:42:29 2026] Pioner has killed kamekadz.banzai.
+[Sat Apr 18 20:42:40 2026] <STEAM_0:0:99492375> tohiro: // XD
+[Sat Apr 18 20:42:52 2026] <STEAM_0:0:390862311> kamekadz.banzai: /ooc помоему он эту сцену немного не так понял
+[Sat Apr 18 20:46:32 2026] <STEAM_0:0:99492375> tohiro: // мы на 20 частоте если что
+[Sat Apr 18 20:46:47 2026] <STEAM_0:0:99492375> tohiro: // еще кинь
+[Sat Apr 18 20:46:55 2026] <STEAM_0:0:99492375> tohiro: // еще кинь
+[Sat Apr 18 20:46:59 2026] <STEAM_0:0:99492375> tohiro: // еще кинь
+[Sat Apr 18 20:48:03 2026] tohiro has killed kamekadz.banzai.
+[Sat Apr 18 20:51:42 2026] m67_srpnl has killed kamekadz.banzai.
+[Sat Apr 18 20:54:56 2026] m67_srpnl has killed kamekadz.banzai.
+[Sat Apr 18 20:55:43 2026] tohiro has killed kamekadz.banzai.
+[Sat Apr 18 20:56:01 2026] <STEAM_0:0:390862311> kamekadz.banzai: /ooc день победыыыы
+[Sat Apr 18 20:56:30 2026] <STEAM_0:0:390862311> kamekadz.banzai: /ooc крч не теряйте меня я афк
+[Sat Apr 18 20:57:54 2026] <STEAM_0:0:99492375> tohiro: // я тож н
+[Sat Apr 18 20:58:47 2026] <STEAM_0:0:99492375> tohiro: // позже вернусь
+[Sat Apr 18 20:58:48 2026] Player "tohiro" <STEAM_0:0:99492375> has left the server
+[Sat Apr 18 20:58:51 2026] <STEAM_0:1:923042528> Pioner: голос похож на лето арбалеты
+[Sat Apr 18 20:59:16 2026] <STEAM_0:0:390862311> kamekadz.banzai: /me это аким апачев
+[Sat Apr 18 20:59:19 2026] Player "Pioner" <STEAM_0:1:923042528> has left the server
+[Sat Apr 18 21:26:22 2026] Player "kamekadz.banzai" <STEAM_0:0:390862311> has left the server
+[Sat Apr 18 21:29:30 2026] Player "kamekadz.banzai" <STEAM_0:0:390862311> is attempting to connect.
+[Sat Apr 18 21:32:45 2026] Player "kamekadz.banzai" <STEAM_0:0:390862311> has spawned in the server
+[Sat Apr 18 21:38:25 2026] worldspawn has killed kamekadz.banzai.
+[Sat Apr 18 21:46:12 2026] Player "MaDGeRich" <STEAM_0:0:133407970> is attempting to connect.
+[Sat Apr 18 21:47:34 2026] Player "MaDGeRich" <STEAM_0:0:133407970> is attempting to connect.
+[Sat Apr 18 21:52:55 2026] worldspawn has killed kamekadz.banzai.
+[Sat Apr 18 21:58:24 2026] Player "kamekadz.banzai" <STEAM_0:0:390862311> has left the server
+[Sat Apr 18 22:15:01 2026] Player "kamekadz.banzai" <STEAM_0:0:390862311> is attempting to connect.
+[Sat Apr 18 22:18:00 2026] Player "kamekadz.banzai" <STEAM_0:0:390862311> has spawned in the server
+[Sat Apr 18 22:36:24 2026] <STEAM_0:0:390862311> kamekadz.banzai: 278718
+[Sat Apr 18 22:38:13 2026] Player "Po_rA1" <STEAM_0:0:887714123> is attempting to connect.
+[Sat Apr 18 22:40:04 2026] Player "Po_rA1" <STEAM_0:0:887714123> has spawned in the server
+[Sat Apr 18 22:45:02 2026] <STEAM_0:0:390862311> kamekadz.banzai: /ooc в командной строке act soute
+[Sat Apr 18 23:04:15 2026] Po_rA1 has killed kamekadz.banzai.
+[Sat Apr 18 23:06:29 2026] Po_rA1 has killed kamekadz.banzai.
+[Sat Apr 18 23:07:42 2026] <STEAM_0:0:887714123> Po_rA1: /me Снимаю штаны с Псковского
+[Sat Apr 18 23:09:19 2026] Po_rA1 has killed kamekadz.banzai.
+[Sat Apr 18 23:11:54 2026] kamekadz.banzai has killed Po_rA1.
+[Sat Apr 18 23:12:28 2026] rgd5_srpnl has killed Po_rA1.
+[Sat Apr 18 23:13:23 2026] Po_rA1 has killed kamekadz.banzai.
+[Sat Apr 18 23:19:54 2026] Player "༒︎シ︎ʰᵉⁿᵗᵃⁱシ" <STEAM_0:0:851601344> is attempting to connect.
+[Sat Apr 18 23:21:46 2026] Player "༒︎シ︎ʰᵉⁿᵗᵃⁱシ" <STEAM_0:0:851601344> has spawned in the server
+[Sat Apr 18 23:22:26 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Po_rA1.
+[Sat Apr 18 23:22:26 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed kamekadz.banzai.
+[Sat Apr 18 23:22:26 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Sat Apr 18 23:22:39 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "respawn Ангел"
+[Sat Apr 18 23:23:19 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed kamekadz.banzai.
+[Sat Apr 18 23:23:47 2026] Player "Dent1st" <STEAM_0:0:899892561> is attempting to connect.
+[Sat Apr 18 23:23:50 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [652][sw_mi24a]"
+[Sat Apr 18 23:24:10 2026] Player "kamekadz.banzai" <STEAM_0:0:390862311> has left the server
+[Sat Apr 18 23:24:28 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [609][sw_mi35m]"
+[Sat Apr 18 23:24:34 2026] Player "Dent1st" <STEAM_0:0:899892561> has spawned in the server
+[Sat Apr 18 23:25:02 2026] worldspawn has killed Po_rA1.
+[Sat Apr 18 23:25:02 2026] worldspawn has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Sat Apr 18 23:25:05 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "respawn Ангел"
+[Sat Apr 18 23:25:23 2026] Player "Po_rA1" <STEAM_0:0:887714123> has left the server
+[Sat Apr 18 23:25:44 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [628][lvs_helicopter_rebel]"
+[Sat Apr 18 23:25:49 2026] Player "kamekadz.banzai" <STEAM_0:0:390862311> is attempting to connect.
+[Sat Apr 18 23:26:11 2026] <STEAM_0:0:899892561> Dent1st: /com LETS DANCE!
+[Sat Apr 18 23:27:01 2026] Dent1st has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Sat Apr 18 23:27:03 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "respawn Ангел"
+[Sat Apr 18 23:27:15 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [616][sw_superhind]"
+[Sat Apr 18 23:27:19 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [616][sw_mi24a]"
+[Sat Apr 18 23:28:02 2026] worldspawn has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Sat Apr 18 23:28:06 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "respawn Ангел"
+[Sat Apr 18 23:28:38 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "ammo Ангел"
+[Sat Apr 18 23:28:48 2026] Dent1st has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Sat Apr 18 23:28:49 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Dent1st.
+[Sat Apr 18 23:28:52 2026] Player "kamekadz.banzai" <STEAM_0:0:390862311> has spawned in the server
+[Sat Apr 18 23:28:52 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "respawn Ангел"
+[Sat Apr 18 23:28:57 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "respawn Ristars"
+[Sat Apr 18 23:29:00 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "goto Ristars"
+[Sat Apr 18 23:29:52 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [626][sw_kamaz5350_2b26]"
+[Sat Apr 18 23:30:05 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Sat Apr 18 23:30:05 2026] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Dent1st.
+[Sat Apr 18 23:30:08 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "respawn Ангел"
+[Sat Apr 18 23:30:13 2026] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "goto Ristars"
+[Sat Apr 18 23:30:14 2026] Player "Dent1st" <STEAM_0:0:899892561> has left the server
+[Sat Apr 18 23:30:28 2026] Player "༒︎シ︎ʰᵉⁿᵗᵃⁱシ" <STEAM_0:0:851601344> has left the server
+[Sat Apr 18 23:35:03 2026] Player "kamekadz.banzai" <STEAM_0:0:390862311> has left the server

@@ -1,0 +1,73 @@
+[Wed Mar 18 18:38:48 2026] Player "gREG4IK" <STEAM_0:1:455594560> is attempting to connect.
+[Wed Mar 18 18:40:22 2026] Player "gREG4IK" <STEAM_0:1:455594560> has spawned in the server
+[Wed Mar 18 18:40:25 2026] worldspawn has killed gREG4IK.
+[Wed Mar 18 18:48:20 2026] <STEAM_0:1:455594560> gREG4IK ran command "model ^ models/player/ctm_gsg9.mdl"
+[Wed Mar 18 18:48:32 2026] <STEAM_0:1:455594560> gREG4IK ran command "model ^ models/player/ctm_gsg9_variantb.mdl"
+[Wed Mar 18 18:48:39 2026] <STEAM_0:1:455594560> gREG4IK ran command "model ^ models/minson97/bo2/seal.mdl"
+[Wed Mar 18 18:48:52 2026] <STEAM_0:1:455594560> gREG4IK ran command "model ^ models/madivan18/gsg9/gsg9_karlt_crye_combine.mdl"
+[Wed Mar 18 18:49:00 2026] <STEAM_0:1:455594560> gREG4IK ran command "model ^ models/madivan18/gsg9/gsg9_karlt_crye_player.mdl"
+[Wed Mar 18 18:49:55 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [610][form_store]"
+[Wed Mar 18 18:50:06 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [610][bodygroup]"
+[Wed Mar 18 18:52:19 2026] Player "gREG4IK" <STEAM_0:1:455594560> has left the server
+[Wed Mar 18 18:59:18 2026] Player "gREG4IK" <STEAM_0:1:455594560> is attempting to connect.
+[Wed Mar 18 19:01:35 2026] Player "gREG4IK" <STEAM_0:1:455594560> has spawned in the server
+[Wed Mar 18 19:01:37 2026] worldspawn has killed gREG4IK.
+[Wed Mar 18 19:03:37 2026] Player "gREG4IK" <STEAM_0:1:455594560> has left the server
+[Wed Mar 18 19:03:38 2026] Player "gREG4IK" <STEAM_0:1:455594560> is attempting to connect.
+[Wed Mar 18 19:04:14 2026] Player "gREG4IK" <STEAM_0:1:455594560> has spawned in the server
+[Wed Mar 18 19:04:17 2026] worldspawn has killed gREG4IK.
+[Wed Mar 18 19:05:03 2026] <STEAM_0:1:455594560> gREG4IK ran command "model ^ models/madivan18/gsg9/gsg9_karlt_v2_crye_rebel.mdl"
+[Wed Mar 18 19:05:13 2026] <STEAM_0:1:455594560> gREG4IK ran command "model ^ models/madivan18/gsg9/gsg9_karlt_crye_rebel.mdl"
+[Wed Mar 18 19:05:18 2026] <STEAM_0:1:455594560> gREG4IK ran command "model ^ models/madivan18/gsg9/gsg9_karlt_crye_player.mdl"
+[Wed Mar 18 19:06:42 2026] <STEAM_0:1:455594560> gREG4IK ran command "model ^ models/madivan18/gsg9/gsg9_viktor_crye_rebel.mdl"
+[Wed Mar 18 19:06:47 2026] <STEAM_0:1:455594560> gREG4IK ran command "model ^ models/madivan18/gsg9/gsg9_viktor_crye_player.mdl"
+[Wed Mar 18 19:06:53 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [636][npc_combine_s]"
+[Wed Mar 18 19:06:55 2026] npc_combine_s has killed gREG4IK.
+[Wed Mar 18 19:06:59 2026] <STEAM_0:1:455594560> gREG4IK ran command "respawn *"
+[Wed Mar 18 19:07:03 2026] <STEAM_0:1:455594560> gREG4IK spawned npc "NPC [635][npc_combine_s]"
+[Wed Mar 18 19:07:10 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [635][bodygroup]"
+[Wed Mar 18 19:07:15 2026] <STEAM_0:1:455594560> gREG4IK ran command "model ^ models/madivan18/gsg9/gsg9_viktor_crye_player.mdl"
+[Wed Mar 18 19:07:34 2026] <STEAM_0:1:455594560> gREG4IK ran command "model ^ models/madivan18/gsg9/gsg9_karlt_v2_crye_player.mdl"
+[Wed Mar 18 19:07:50 2026] <STEAM_0:1:455594560> gREG4IK spawned ragdoll "Entity [637][prop_ragdoll] (models/madivan18/gsg9/gsg9_karlt_v2_crye_player.mdl)"
+[Wed Mar 18 19:08:10 2026] <STEAM_0:1:455594560> gREG4IK ran command "model ^ models/madivan18/gsg9/gsg9_karlt_v2_crye_player.mdl"
+[Wed Mar 18 19:19:09 2026] Player "gREG4IK" <STEAM_0:1:455594560> has left the server
+[Wed Mar 18 19:19:09 2026] Player "gREG4IK" <STEAM_0:1:455594560> is attempting to connect.
+[Wed Mar 18 19:19:44 2026] Player "gREG4IK" <STEAM_0:1:455594560> has spawned in the server
+[Wed Mar 18 19:19:46 2026] worldspawn has killed gREG4IK.
+[Wed Mar 18 19:20:33 2026] <STEAM_0:1:455594560> gREG4IK ran command "model ^ models/notart/jtf ii.mdl"
+[Wed Mar 18 19:21:24 2026] <STEAM_0:1:455594560> gREG4IK ran command "model ^ models/notart/jtfiivm.mdl"
+[Wed Mar 18 19:21:32 2026] <STEAM_0:1:455594560> gREG4IK ran command "model ^ models/notart/jtf ii.mdl"
+[Wed Mar 18 19:24:42 2026] Player "gREG4IK" <STEAM_0:1:455594560> is attempting to connect.
+[Wed Mar 18 19:25:17 2026] Player "gREG4IK" <STEAM_0:1:455594560> has spawned in the server
+[Wed Mar 18 19:25:19 2026] worldspawn has killed gREG4IK.
+[Wed Mar 18 19:26:30 2026] <STEAM_0:1:455594560> gREG4IK: models/notart/jtf_ii.mdl
+[Wed Mar 18 19:26:40 2026] <STEAM_0:1:455594560> gREG4IK: !models models/notart/jtf_ii.mdl
+[Wed Mar 18 19:27:09 2026] <STEAM_0:1:455594560> gREG4IK ran command "model ^ models/notart/jtf_ii.mdl"
+[Wed Mar 18 19:27:18 2026] <STEAM_0:1:455594560> gREG4IK ran command "model ^ models/notart/jtf ii.mdl"
+[Wed Mar 18 19:27:37 2026] <STEAM_0:1:455594560> gREG4IK ran command "model ^ models/notart/jtf_ii.mdl"
+[Wed Mar 18 19:28:36 2026] <STEAM_0:1:455594560> gREG4IK ran command "model ^ models/player/pmc_custom_acientlt/alt_marine_acient.mdl"
+[Wed Mar 18 19:28:40 2026] <STEAM_0:1:455594560> gREG4IK used tool "camera"
+[Wed Mar 18 19:29:04 2026] <STEAM_0:1:455594560> gREG4IK ran command "model ^ models/knyaje pack/rosgvardia_vng/vng_specforce.mdl"
+[Wed Mar 18 20:21:23 2026] <STEAM_0:1:455594560> gREG4IK spawned effect "Entity [602][prop_effect] (models/futurewarfare/spetsnaz_gear.mdl)"
+[Wed Mar 18 20:21:26 2026] <STEAM_0:1:455594560> gREG4IK spawned effect "Entity [602][prop_effect] (models/futurewarfare/spetsnaz_assaultgear.mdl)"
+[Wed Mar 18 20:21:30 2026] <STEAM_0:1:455594560> gREG4IK spawned ragdoll "Entity [602][prop_ragdoll] (models/eurofor/swedishdefence_mask.mdl)"
+[Wed Mar 18 20:22:29 2026] <STEAM_0:1:455594560> gREG4IK spawned ragdoll "Entity [603][prop_ragdoll] (models/eurofor/finnishdefence_mask.mdl)"
+[Wed Mar 18 20:22:37 2026] <STEAM_0:1:455594560> gREG4IK spawned ragdoll "Entity [603][prop_ragdoll] (models/eurofor/finnishdefence.mdl)"
+[Wed Mar 18 20:22:46 2026] <STEAM_0:1:455594560> gREG4IK spawned ragdoll "Entity [602][prop_ragdoll] (models/canadian_infantry/soldier2_canada.mdl)"
+[Wed Mar 18 20:23:20 2026] <STEAM_0:1:455594560> gREG4IK spawned ragdoll "Entity [602][prop_ragdoll] (models/notart/venerated.mdl)"
+[Wed Mar 18 20:23:26 2026] <STEAM_0:1:455594560> gREG4IK spawned ragdoll "Entity [602][prop_ragdoll] (models/eurofor/swedishdefence_mask.mdl)"
+[Wed Mar 18 20:23:34 2026] <STEAM_0:1:455594560> gREG4IK ran command "model ^ models/eurofor/swedishdefence_mask.mdl"
+[Wed Mar 18 20:23:43 2026] <STEAM_0:1:455594560> gREG4IK ran command "model ^ models/eurofor/swedishdefence.mdl"
+[Wed Mar 18 20:23:49 2026] <STEAM_0:1:455594560> gREG4IK ran command "model ^ models/eurofor/finnishdefence.mdl"
+[Wed Mar 18 20:23:57 2026] <STEAM_0:1:455594560> gREG4IK ran command "model ^ models/multi/us_army_caucasian_pm.mdl"
+[Wed Mar 18 20:24:02 2026] <STEAM_0:1:455594560> gREG4IK spawned SENT "Entity [602][bodygroup]"
+[Wed Mar 18 20:24:39 2026] <STEAM_0:1:455594560> gREG4IK ran command "model ^ models/canadian_infantry/soldier2_canada.mdl"
+[Wed Mar 18 20:24:58 2026] <STEAM_0:1:455594560> gREG4IK spawned ragdoll "Entity [603][prop_ragdoll] (models/pmc/pmc_4/swat_pm.mdl)"
+[Wed Mar 18 20:25:04 2026] <STEAM_0:1:455594560> gREG4IK spawned ragdoll "Entity [603][prop_ragdoll] (models/pmc/pmc_6/desert_pm.mdl)"
+[Wed Mar 18 20:25:17 2026] <STEAM_0:1:455594560> gREG4IK spawned ragdoll "Entity [603][prop_ragdoll] (models/pmc/pmc_1/pmc_pm.mdl)"
+[Wed Mar 18 20:25:32 2026] <STEAM_0:1:455594560> gREG4IK ran command "model ^ models/balkandude.mdl"
+[Wed Mar 18 20:58:42 2026] Player "impotent" <STEAM_0:1:425612974> is attempting to connect.
+[Wed Mar 18 20:58:45 2026] Player "impotent" <STEAM_0:1:425612974> is attempting to connect.
+[Wed Mar 18 20:58:46 2026] Player "impotent" <STEAM_0:1:425612974> is attempting to connect.
+[Wed Mar 18 20:58:52 2026] Player "impotent" <STEAM_0:1:425612974> is attempting to connect.
+[Wed Mar 18 21:48:41 2026] Player "gREG4IK" <STEAM_0:1:455594560> has left the server

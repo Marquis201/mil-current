@@ -1,0 +1,9 @@
+[Sat May  9 09:58:51 2026] Player "Goopgoop66" <STEAM_0:0:542285264> is attempting to connect.
+[Sat May  9 10:59:57 2026] Player "mlersvet" <STEAM_0:1:230461350> is attempting to connect.
+[Sat May  9 12:23:16 2026] Player "Lupichka" <STEAM_0:1:926423915> is attempting to connect.
+[Sat May  9 17:49:45 2026] Player "Discar" <STEAM_0:0:650470378> is attempting to connect.
+[Sat May  9 17:50:27 2026] Player "Discar" <STEAM_0:0:650470378> has spawned in the server
+[Sat May  9 18:20:08 2026] Player "polypoker" <STEAM_0:0:396710536> is attempting to connect.
+[Sat May  9 18:35:39 2026] Player "3hunna6a6y" <STEAM_0:0:578790291> is attempting to connect.
+[Sat May  9 18:55:10 2026] Player "Discar" <STEAM_0:0:650470378> has left the server
+[Sat May  9 20:02:20 2026] Player "punk" <STEAM_0:0:921324874> is attempting to connect.

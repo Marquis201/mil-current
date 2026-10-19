@@ -1,0 +1,1374 @@
+[Mon Dec 29 00:02:21 2025] Player "OZOR" <STEAM_0:0:85754053> has spawned in the server
+[Mon Dec 29 00:04:29 2025] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [495][item_battery]"
+[Mon Dec 29 00:04:29 2025] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [497][item_battery]"
+[Mon Dec 29 00:04:29 2025] <STEAM_0:0:85754053> OZOR spawned SENT "Entity [498][item_battery]"
+[Mon Dec 29 00:28:06 2025] Player "OZOR" <STEAM_0:0:85754053> has left the server
+[Mon Dec 29 00:52:02 2025] Player "费尔南德斯" <STEAM_0:0:79873507> is attempting to connect.
+[Mon Dec 29 00:52:58 2025] Player "费尔南德斯" <STEAM_0:0:79873507> has spawned in the server
+[Mon Dec 29 00:56:06 2025] Player "Soldier Boy" <STEAM_0:1:620808428> is attempting to connect.
+[Mon Dec 29 00:56:51 2025] Player "Soldier Boy" <STEAM_0:1:620808428> has spawned in the server
+[Mon Dec 29 00:57:45 2025] <STEAM_0:1:620808428> Soldier Boy spawned prop "Entity [495][prop_physics] (models/props_interiors/VendingMachineSoda01a.mdl)"
+[Mon Dec 29 00:58:10 2025] Soldier Boy has killed 费尔南德斯.
+[Mon Dec 29 00:59:40 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [508][lvs_wheeldrive_rp_dabrams_m1a1]"
+[Mon Dec 29 01:00:13 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "remover"
+[Mon Dec 29 01:00:14 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "remover"
+[Mon Dec 29 01:00:14 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "remover"
+[Mon Dec 29 01:01:57 2025] worldspawn has killed Soldier Boy.
+[Mon Dec 29 01:02:08 2025] <STEAM_0:0:79873507> 费尔南德斯 ran command "goto Дубровин"
+[Mon Dec 29 01:04:47 2025] <STEAM_0:1:620808428> Soldier Boy: /rp Начал захват В.Г
+[Mon Dec 29 01:35:28 2025] <STEAM_0:1:620808428> Soldier Boy ran command "send Коваленко"
+[Mon Dec 29 01:35:33 2025] <STEAM_0:0:79873507> 费尔南德斯 ran command "rank Дубровин user 0"
+[Mon Dec 29 01:37:10 2025] <STEAM_0:0:79873507> 费尔南德斯 ran command "rank Дубровин sadmin 0"
+[Mon Dec 29 01:39:52 2025] <STEAM_0:1:620808428> Soldier Boy ran command "hide Дубровин"
+[Mon Dec 29 01:39:55 2025] <STEAM_0:1:620808428> Soldier Boy ran command "unhide Дубровин"
+[Mon Dec 29 01:42:14 2025] <STEAM_0:1:620808428> Soldier Boy ran command "rank Дубровин founder 0"
+[Mon Dec 29 01:42:40 2025] <STEAM_0:1:620808428> Soldier Boy ran command "invisible Дубровин"
+[Mon Dec 29 01:42:48 2025] <STEAM_0:1:620808428> Soldier Boy ran command "invisible Дубровин"
+[Mon Dec 29 01:44:32 2025] <STEAM_0:1:620808428> Soldier Boy: /me Скинул с крыши
+[Mon Dec 29 01:44:55 2025] worldspawn has killed 费尔南德斯.
+[Mon Dec 29 01:45:24 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "creator"
+[Mon Dec 29 01:45:24 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SWEP "Weapon [508][arrest_baton]"
+[Mon Dec 29 01:45:24 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "creator"
+[Mon Dec 29 01:45:24 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SWEP "Weapon [510][arrest_baton]"
+[Mon Dec 29 01:45:24 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "creator"
+[Mon Dec 29 01:45:24 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SWEP "Weapon [511][arrest_baton]"
+[Mon Dec 29 01:45:25 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "creator"
+[Mon Dec 29 01:45:25 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SWEP "Weapon [512][arrest_baton]"
+[Mon Dec 29 01:46:35 2025] <STEAM_0:0:79873507> 费尔南德斯 ran command "giveweapon @ unarrest_baton"
+[Mon Dec 29 01:47:58 2025] Soldier Boy has killed 费尔南德斯.
+[Mon Dec 29 01:47:59 2025] 费尔南德斯 has killed 费尔南德斯.
+[Mon Dec 29 01:48:52 2025] Soldier Boy has killed 费尔南德斯.
+[Mon Dec 29 01:49:01 2025] <STEAM_0:1:620808428> Soldier Boy used tool "remover"
+[Mon Dec 29 01:49:57 2025] <STEAM_0:1:620808428> Soldier Boy used tool "remover"
+[Mon Dec 29 01:49:57 2025] <STEAM_0:1:620808428> Soldier Boy used tool "remover"
+[Mon Dec 29 01:54:06 2025] <STEAM_0:0:79873507> 费尔南德斯 ran command "menu"
+[Mon Dec 29 01:56:33 2025] <STEAM_0:1:620808428> Soldier Boy ran command "menu"
+[Mon Dec 29 01:56:57 2025] <STEAM_0:1:620808428> Soldier Boy ran command "menu"
+[Mon Dec 29 01:57:44 2025] worldspawn has killed 费尔南德斯.
+[Mon Dec 29 01:58:13 2025] <STEAM_0:0:79873507> 费尔南德斯 ran command "menu"
+[Mon Dec 29 01:58:52 2025] <STEAM_0:0:79873507> 费尔南德斯 ran command "menu"
+[Mon Dec 29 02:00:14 2025] worldspawn has killed Soldier Boy.
+[Mon Dec 29 02:24:06 2025] Player "费尔南德斯" <STEAM_0:0:79873507> has left the server
+[Mon Dec 29 13:28:18 2025] Player "༒︎シ︎ʰᵉⁿᵗᵃⁱシ" <STEAM_0:0:851601344> is attempting to connect.
+[Mon Dec 29 13:53:49 2025] Player "punk" <STEAM_0:0:921324874> is attempting to connect.
+[Mon Dec 29 13:54:30 2025] Player "punk" <STEAM_0:0:921324874> has spawned in the server
+[Mon Dec 29 13:56:00 2025] Player ".σαλαδ ϲαεσαρ" <STEAM_0:0:542957151> is attempting to connect.
+[Mon Dec 29 13:57:25 2025] Player "punk" <STEAM_0:0:921324874> has left the server
+[Mon Dec 29 13:57:26 2025] Player "punk" <STEAM_0:0:921324874> is attempting to connect.
+[Mon Dec 29 17:19:55 2025] Player "Soldier Boy" <STEAM_0:1:620808428> is attempting to connect.
+[Mon Dec 29 17:20:55 2025] Player "Soldier Boy" <STEAM_0:1:620808428> has spawned in the server
+[Mon Dec 29 17:27:58 2025] Player "Soldier Boy" <STEAM_0:1:620808428> is attempting to connect.
+[Mon Dec 29 17:28:19 2025] Player "Soldier Boy" <STEAM_0:1:620808428> has spawned in the server
+[Mon Dec 29 17:34:29 2025] Player "дядя вася" <STEAM_0:1:587547601> is attempting to connect.
+[Mon Dec 29 18:15:58 2025] Player "༒︎シ︎ʰᵉⁿᵗᵃⁱシ" <STEAM_0:0:851601344> is attempting to connect.
+[Mon Dec 29 18:17:05 2025] Player "༒︎シ︎ʰᵉⁿᵗᵃⁱシ" <STEAM_0:0:851601344> has spawned in the server
+[Mon Dec 29 18:19:24 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [517][sw_airdrop_v3]"
+[Mon Dec 29 18:19:27 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [517][sw_airdrop_v3]"
+[Mon Dec 29 18:19:31 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [517][sw_airdrop_v3]"
+[Mon Dec 29 18:19:34 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [518][sw_airdrop_v3]"
+[Mon Dec 29 18:25:10 2025] Player "punk" <STEAM_0:0:921324874> is attempting to connect.
+[Mon Dec 29 18:25:44 2025] Player "punk" <STEAM_0:0:921324874> has spawned in the server
+[Mon Dec 29 18:26:09 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /nato Точка A под захватом нато!
+[Mon Dec 29 18:26:39 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /nato вы где рекрут панк?
+[Mon Dec 29 18:26:50 2025] <STEAM_0:0:921324874> punk: еду к вам
+[Mon Dec 29 18:32:47 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [659][lvs_wheeldrive_hummer_tow]"
+[Mon Dec 29 18:32:58 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [517][lvs_wheeldrive_hummer_tow]"
+[Mon Dec 29 18:33:47 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [585][sw_gaz2330]"
+[Mon Dec 29 18:33:56 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [586][sw_bmp3m]"
+[Mon Dec 29 18:34:24 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [589][sw_rocket_3m55_v3]"
+[Mon Dec 29 18:34:36 2025] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed punk.
+[Mon Dec 29 18:34:36 2025] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Mon Dec 29 18:34:47 2025] <STEAM_0:0:921324874> punk: // ы
+[Mon Dec 29 18:35:32 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "respawn CPT A.E. Evergarden"
+[Mon Dec 29 18:36:09 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [574][sw_airdrop_v3]"
+[Mon Dec 29 18:36:12 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [577][sw_airdrop_v3]"
+[Mon Dec 29 18:36:17 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [574][sw_airdrop_v3]"
+[Mon Dec 29 18:36:19 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [577][sw_airdrop_v3]"
+[Mon Dec 29 18:36:29 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [517][sw_bmp1]"
+[Mon Dec 29 18:36:37 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [517][lvs_wheeldrive_hummer_tow]"
+[Mon Dec 29 18:38:26 2025] Soldier Boy has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Mon Dec 29 18:38:27 2025] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Mon Dec 29 18:38:34 2025] Soldier Boy has killed punk.
+[Mon Dec 29 18:38:35 2025] punk has killed punk.
+[Mon Dec 29 18:39:07 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // а мы думали ты спишь)
+[Mon Dec 29 18:39:34 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [590][sw_airdrop_v3]"
+[Mon Dec 29 18:39:37 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [592][sw_airdrop_v3]"
+[Mon Dec 29 18:39:41 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [592][sw_airdrop_v3]"
+[Mon Dec 29 18:39:50 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [594][sw_airdrop_v3]"
+[Mon Dec 29 18:39:53 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [594][sw_airdrop_v3]"
+[Mon Dec 29 18:40:01 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [594][lvs_wheeldrive_hummer_tow]"
+[Mon Dec 29 18:42:00 2025] Soldier Boy has killed punk.
+[Mon Dec 29 18:42:01 2025] punk has killed punk.
+[Mon Dec 29 18:42:10 2025] <STEAM_0:0:921324874> punk: // по мне попал
+[Mon Dec 29 18:43:27 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /nato рация 22
+[Mon Dec 29 18:43:53 2025] Soldier Boy has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Mon Dec 29 18:44:23 2025] <STEAM_0:1:620808428> Soldier Boy: // Сломали всё(
+[Mon Dec 29 18:44:28 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // хехе
+[Mon Dec 29 18:44:52 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [637][sw_airdrop_v3]"
+[Mon Dec 29 18:44:55 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [639][sw_airdrop_v3]"
+[Mon Dec 29 18:44:58 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [637][sw_airdrop_v3]"
+[Mon Dec 29 18:45:01 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [637][sw_airdrop_v3]"
+[Mon Dec 29 18:45:05 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [637][sw_airdrop_v3]"
+[Mon Dec 29 18:46:43 2025] punk has killed Soldier Boy.
+[Mon Dec 29 18:46:44 2025] Soldier Boy has killed Soldier Boy.
+[Mon Dec 29 18:47:02 2025] <STEAM_0:1:620808428> Soldier Boy ran command "respawn Дубровин"
+[Mon Dec 29 18:48:28 2025] Player "korolevsky" <STEAM_0:0:890122999> is attempting to connect.
+[Mon Dec 29 18:52:43 2025] Soldier Boy has killed punk.
+[Mon Dec 29 18:53:08 2025] Soldier Boy has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Mon Dec 29 18:54:05 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [521][sw_airdrop_v3]"
+[Mon Dec 29 18:54:20 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned npc "NPC [521][npc_monk]"
+[Mon Dec 29 18:54:23 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [521][sw_airdrop_v3]"
+[Mon Dec 29 18:54:26 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [521][sw_airdrop_v3]"
+[Mon Dec 29 18:54:36 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [521][sw_rocket_3m54_v3]"
+[Mon Dec 29 18:54:38 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [521][sw_airdrop_v3]"
+[Mon Dec 29 18:54:59 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [635][lvs_wheeldrive_dabrams_m1a1]"
+[Mon Dec 29 18:55:45 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [635][lvs_wheeldrive_rp_dabrams_m1a1]"
+[Mon Dec 29 18:55:46 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [863][lvs_wheeldrive_rp_dabrams_m1a1]"
+[Mon Dec 29 18:58:29 2025] Soldier Boy has killed punk.
+[Mon Dec 29 18:58:30 2025] punk has killed punk.
+[Mon Dec 29 19:02:59 2025] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Soldier Boy.
+[Mon Dec 29 19:03:08 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // хехе
+[Mon Dec 29 19:03:16 2025] <STEAM_0:1:620808428> Soldier Boy ran command "respawn Дубровин"
+[Mon Dec 29 19:03:19 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // весело сука
+[Mon Dec 29 19:07:09 2025] punk has killed Soldier Boy.
+[Mon Dec 29 19:07:09 2025] Soldier Boy has killed Soldier Boy.
+[Mon Dec 29 19:07:28 2025] <STEAM_0:1:620808428> Soldier Boy ran command "respawn Дубровин"
+[Mon Dec 29 19:10:34 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [519][lvs_wheeldrive_hummer_tow]"
+[Mon Dec 29 19:10:53 2025] Soldier Boy has killed punk.
+[Mon Dec 29 19:10:54 2025] punk has killed punk.
+[Mon Dec 29 19:11:54 2025] Soldier Boy has killed punk.
+[Mon Dec 29 19:11:55 2025] punk has killed punk.
+[Mon Dec 29 19:12:18 2025] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Soldier Boy.
+[Mon Dec 29 19:12:19 2025] Soldier Boy has killed Soldier Boy.
+[Mon Dec 29 19:12:22 2025] <STEAM_0:1:620808428> Soldier Boy: // ёбанные чеченские сепаратисты
+[Mon Dec 29 19:12:41 2025] <STEAM_0:1:620808428> Soldier Boy: // ёбанные чеченские сепаратисты
+[Mon Dec 29 19:12:44 2025] <STEAM_0:1:620808428> Soldier Boy ran command "respawn Дубровин"
+[Mon Dec 29 19:13:08 2025] <STEAM_0:0:921324874> punk: // форест когда мега рп плен?
+[Mon Dec 29 19:13:36 2025] <STEAM_0:1:620808428> Soldier Boy: // Я тебя понял
+[Mon Dec 29 19:14:15 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // гоу на рацию?
+[Mon Dec 29 19:14:26 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // а руский нарцист?
+[Mon Dec 29 19:14:37 2025] <STEAM_0:1:620808428> Soldier Boy: // рч 228
+[Mon Dec 29 19:19:47 2025] Soldier Boy has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Mon Dec 29 19:20:58 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [520][sw_airdrop_v3]"
+[Mon Dec 29 19:21:02 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [520][sw_airdrop_v3]"
+[Mon Dec 29 19:21:07 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [520][sw_airdrop_v3]"
+[Mon Dec 29 19:21:15 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [520][sw_airdrop_v3]"
+[Mon Dec 29 19:21:17 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [523][sw_airdrop_v3]"
+[Mon Dec 29 19:21:31 2025] Soldier Boy has killed punk.
+[Mon Dec 29 19:21:32 2025] punk has killed punk.
+[Mon Dec 29 19:21:36 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [489][lvs_wheeldrive_hummer_tow]"
+[Mon Dec 29 19:22:47 2025] Soldier Boy has killed punk.
+[Mon Dec 29 19:22:47 2025] punk has killed punk.
+[Mon Dec 29 19:22:57 2025] <STEAM_0:1:620808428> Soldier Boy: /me скрутил
+[Mon Dec 29 19:23:08 2025] <STEAM_0:1:620808428> Soldier Boy: /me изъял средства связи
+[Mon Dec 29 19:23:09 2025] <STEAM_0:1:620808428> Soldier Boy: /me изъял оружие
+[Mon Dec 29 19:26:02 2025] Soldier Boy has killed punk.
+[Mon Dec 29 19:32:23 2025] <STEAM_0:1:620808428> Soldier Boy: /me изъял оружие
+[Mon Dec 29 19:32:24 2025] <STEAM_0:1:620808428> Soldier Boy: /me изъял средства связи
+[Mon Dec 29 19:34:49 2025] Player "Melowww" <STEAM_0:1:894627559> is attempting to connect.
+[Mon Dec 29 19:36:12 2025] <STEAM_0:1:620808428> Soldier Boy ran command "respawn RCT F. B. Punkov"
+[Mon Dec 29 19:36:52 2025] Soldier Boy has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Mon Dec 29 19:36:53 2025] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Mon Dec 29 19:41:39 2025] Player "费尔南德斯" <STEAM_0:0:79873507> is attempting to connect.
+[Mon Dec 29 19:41:57 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "a 1"
+[Mon Dec 29 19:43:10 2025] Player "费尔南德斯" <STEAM_0:0:79873507> has spawned in the server
+[Mon Dec 29 19:44:23 2025] <STEAM_0:0:79873507> 费尔南德斯: // всем привет
+[Mon Dec 29 19:44:29 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // ку
+[Mon Dec 29 19:44:34 2025] <STEAM_0:0:921324874> punk: // йоу
+[Mon Dec 29 19:45:14 2025] <STEAM_0:1:620808428> Soldier Boy: /
+[Mon Dec 29 19:45:24 2025] <STEAM_0:1:620808428> Soldier Boy ran command "goto RCT F. B. Punkov"
+[Mon Dec 29 19:45:44 2025] <STEAM_0:0:79873507> 费尔南德斯: /l ты че тут делаешь?
+[Mon Dec 29 19:46:07 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // посадили меня хранитель)
+[Mon Dec 29 19:46:20 2025] <STEAM_0:1:620808428> Soldier Boy: // Двух Натовцев в плен взял
+[Mon Dec 29 19:46:27 2025] <STEAM_0:0:79873507> 费尔南德斯: // пхах
+[Mon Dec 29 19:46:39 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // ну меня не взял я просто прилетел но да ладно
+[Mon Dec 29 19:46:47 2025] <STEAM_0:0:79873507> 费尔南德斯 ran command "invisible Соловьев"
+[Mon Dec 29 19:47:13 2025] punk has killed Soldier Boy.
+[Mon Dec 29 19:47:14 2025] Soldier Boy has killed Soldier Boy.
+[Mon Dec 29 19:47:26 2025] <STEAM_0:1:620808428> Soldier Boy: // Почему карта из картона?
+[Mon Dec 29 19:47:34 2025] <STEAM_0:0:79873507> 费尔南德斯: // пхахахах
+[Mon Dec 29 19:47:52 2025] <STEAM_0:0:79873507> 费尔南德斯 ran command "invisible Соловьев"
+[Mon Dec 29 19:49:27 2025] <STEAM_0:0:79873507> 费尔南德斯 ran command "invisible Соловьев"
+[Mon Dec 29 19:49:37 2025] <STEAM_0:0:79873507> 费尔南德斯 ran command "a не берите hummer c TOW"
+[Mon Dec 29 19:49:56 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "remover"
+[Mon Dec 29 19:49:58 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "remover"
+[Mon Dec 29 19:50:02 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "remover"
+[Mon Dec 29 19:50:27 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "remover"
+[Mon Dec 29 19:50:51 2025] <STEAM_0:0:79873507> 费尔南德斯 ran command "invisible Соловьев"
+[Mon Dec 29 19:51:23 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "NPC [508][vehicles_sales]"
+[Mon Dec 29 19:51:35 2025] <STEAM_0:1:620808428> Soldier Boy ran command "spectate Соловьев"
+[Mon Dec 29 19:51:39 2025] <STEAM_0:1:620808428> Soldier Boy ran command "spectate CPT A.E. Evergarden"
+[Mon Dec 29 19:51:45 2025] <STEAM_0:0:79873507> 费尔南德斯 ran command "a техника везде не спавниться или только у рф?"
+[Mon Dec 29 19:51:53 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [498][sw_gaz2330]"
+[Mon Dec 29 19:51:59 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "a у рф навер"
+[Mon Dec 29 19:53:52 2025] punk has killed 费尔南德斯.
+[Mon Dec 29 19:54:33 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [627][sw_gaz2330]"
+[Mon Dec 29 19:54:37 2025] <STEAM_0:0:79873507> 费尔南德斯 spawned SENT "Entity [627][sw_gaz2330]"
+[Mon Dec 29 19:58:30 2025] punk has killed 费尔南德斯.
+[Mon Dec 29 19:58:42 2025] <STEAM_0:0:79873507> 费尔南德斯 ran command "invisible Соловьев"
+[Mon Dec 29 20:00:10 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "witchergate"
+[Mon Dec 29 20:00:21 2025] <STEAM_0:0:79873507> 费尔南德斯 used tool "witchergate"
+[Mon Dec 29 20:00:30 2025] Player "༒︎シ︎ʰᵉⁿᵗᵃⁱシ" <STEAM_0:0:851601344> has left the server
+[Mon Dec 29 20:00:54 2025] <STEAM_0:0:79873507> 费尔南德斯: /me показал удостоверение Новомирца
+[Mon Dec 29 20:01:06 2025] <STEAM_0:0:79873507> 费尔南德斯: /me показал удостоверение Новомирца
+[Mon Dec 29 20:01:24 2025] Player "费尔南德斯" <STEAM_0:0:79873507> has left the server
+[Mon Dec 29 20:10:41 2025] worldspawn has killed punk.
+[Mon Dec 29 20:10:52 2025] Player "Лысый аптекарь" <STEAM_0:1:601998882> is attempting to connect.
+[Mon Dec 29 20:22:56 2025] Player "Лысый аптекарь" <STEAM_0:1:601998882> has spawned in the server
+[Mon Dec 29 20:23:49 2025] <STEAM_0:0:921324874> punk: // форест ты тут?
+[Mon Dec 29 20:24:07 2025] <STEAM_0:1:620808428> Soldier Boy: // Ага
+[Mon Dec 29 20:24:18 2025] <STEAM_0:0:921324874> punk: // как там по заявке?
+[Mon Dec 29 20:24:27 2025] <STEAM_0:1:620808428> Soldier Boy: // думаю
+[Mon Dec 29 20:27:32 2025] <STEAM_0:1:620808428> Soldier Boy ran command "spectate Баранов"
+[Mon Dec 29 20:28:54 2025] <STEAM_0:1:620808428> Soldier Boy ran command "spectate Баранов"
+[Mon Dec 29 20:32:18 2025] <STEAM_0:1:601998882> Лысый аптекарь: // рп же сервак?
+[Mon Dec 29 20:32:25 2025] <STEAM_0:1:620808428> Soldier Boy: // Да
+[Mon Dec 29 20:35:12 2025] <STEAM_0:1:620808428> Soldier Boy spawned SENT "Entity [489][lvs_wheeldrive_rp_t90m]"
+[Mon Dec 29 20:35:34 2025] <STEAM_0:1:620808428> Soldier Boy: /l На R
+[Mon Dec 29 20:38:15 2025] <STEAM_0:1:620808428> Soldier Boy ran command "respawn RCT F. B. Punkov"
+[Mon Dec 29 20:38:20 2025] <STEAM_0:1:620808428> Soldier Boy ran command "send RCT F. B. Punkov"
+[Mon Dec 29 20:38:36 2025] <STEAM_0:1:620808428> Soldier Boy used tool "remover"
+[Mon Dec 29 20:38:36 2025] <STEAM_0:1:620808428> Soldier Boy used tool "remover"
+[Mon Dec 29 20:38:37 2025] <STEAM_0:1:620808428> Soldier Boy used tool "remover"
+[Mon Dec 29 20:38:37 2025] <STEAM_0:1:620808428> Soldier Boy used tool "remover"
+[Mon Dec 29 20:38:37 2025] <STEAM_0:1:620808428> Soldier Boy used tool "remover"
+[Mon Dec 29 20:38:37 2025] <STEAM_0:1:620808428> Soldier Boy used tool "remover"
+[Mon Dec 29 20:38:37 2025] <STEAM_0:1:620808428> Soldier Boy used tool "remover"
+[Mon Dec 29 20:38:37 2025] <STEAM_0:1:620808428> Soldier Boy used tool "remover"
+[Mon Dec 29 20:38:38 2025] <STEAM_0:1:620808428> Soldier Boy used tool "remover"
+[Mon Dec 29 20:38:38 2025] <STEAM_0:1:620808428> Soldier Boy used tool "remover"
+[Mon Dec 29 20:38:38 2025] <STEAM_0:1:620808428> Soldier Boy used tool "remover"
+[Mon Dec 29 20:38:38 2025] <STEAM_0:1:620808428> Soldier Boy used tool "remover"
+[Mon Dec 29 20:38:38 2025] <STEAM_0:1:620808428> Soldier Boy used tool "remover"
+[Mon Dec 29 20:38:38 2025] <STEAM_0:1:620808428> Soldier Boy used tool "remover"
+[Mon Dec 29 20:38:39 2025] <STEAM_0:1:620808428> Soldier Boy used tool "remover"
+[Mon Dec 29 20:38:40 2025] <STEAM_0:1:620808428> Soldier Boy used tool "remover"
+[Mon Dec 29 20:38:40 2025] <STEAM_0:1:620808428> Soldier Boy used tool "remover"
+[Mon Dec 29 20:38:40 2025] <STEAM_0:1:620808428> Soldier Boy used tool "remover"
+[Mon Dec 29 20:39:06 2025] <STEAM_0:1:620808428> Soldier Boy spawned SENT "Entity [550][lvs_wheeldrive_rp_t90m]"
+[Mon Dec 29 20:39:10 2025] <STEAM_0:1:620808428> Soldier Boy ran command "send Баранов"
+[Mon Dec 29 20:40:58 2025] Soldier Boy has killed punk.
+[Mon Dec 29 20:41:39 2025] <STEAM_0:1:620808428> Soldier Boy used tool "creator"
+[Mon Dec 29 20:41:40 2025] <STEAM_0:1:620808428> Soldier Boy used tool "creator"
+[Mon Dec 29 20:41:40 2025] <STEAM_0:1:620808428> Soldier Boy used tool "creator"
+[Mon Dec 29 20:41:40 2025] <STEAM_0:1:620808428> Soldier Boy used tool "creator"
+[Mon Dec 29 20:41:41 2025] <STEAM_0:1:620808428> Soldier Boy used tool "creator"
+[Mon Dec 29 20:41:42 2025] <STEAM_0:1:620808428> Soldier Boy used tool "creator"
+[Mon Dec 29 20:41:42 2025] <STEAM_0:1:620808428> Soldier Boy used tool "creator"
+[Mon Dec 29 20:41:42 2025] <STEAM_0:1:620808428> Soldier Boy used tool "creator"
+[Mon Dec 29 20:41:42 2025] <STEAM_0:1:620808428> Soldier Boy used tool "creator"
+[Mon Dec 29 20:41:42 2025] <STEAM_0:1:620808428> Soldier Boy used tool "creator"
+[Mon Dec 29 20:41:42 2025] <STEAM_0:1:620808428> Soldier Boy used tool "creator"
+[Mon Dec 29 20:41:43 2025] <STEAM_0:1:620808428> Soldier Boy used tool "creator"
+[Mon Dec 29 20:41:43 2025] <STEAM_0:1:620808428> Soldier Boy used tool "creator"
+[Mon Dec 29 20:41:43 2025] <STEAM_0:1:620808428> Soldier Boy used tool "creator"
+[Mon Dec 29 20:41:43 2025] <STEAM_0:1:620808428> Soldier Boy used tool "creator"
+[Mon Dec 29 20:41:43 2025] <STEAM_0:1:620808428> Soldier Boy used tool "creator"
+[Mon Dec 29 20:41:43 2025] <STEAM_0:1:620808428> Soldier Boy used tool "creator"
+[Mon Dec 29 20:41:43 2025] <STEAM_0:1:620808428> Soldier Boy used tool "creator"
+[Mon Dec 29 20:41:44 2025] <STEAM_0:1:620808428> Soldier Boy used tool "creator"
+[Mon Dec 29 20:41:44 2025] <STEAM_0:1:620808428> Soldier Boy used tool "creator"
+[Mon Dec 29 20:41:44 2025] <STEAM_0:1:620808428> Soldier Boy used tool "creator"
+[Mon Dec 29 20:41:44 2025] <STEAM_0:1:620808428> Soldier Boy used tool "creator"
+[Mon Dec 29 20:41:45 2025] <STEAM_0:1:620808428> Soldier Boy used tool "creator"
+[Mon Dec 29 20:42:09 2025] <STEAM_0:1:620808428> Soldier Boy used tool "creator"
+[Mon Dec 29 20:42:09 2025] <STEAM_0:1:620808428> Soldier Boy used tool "creator"
+[Mon Dec 29 20:42:09 2025] <STEAM_0:1:620808428> Soldier Boy used tool "creator"
+[Mon Dec 29 20:42:10 2025] <STEAM_0:1:620808428> Soldier Boy used tool "creator"
+[Mon Dec 29 20:42:10 2025] <STEAM_0:1:620808428> Soldier Boy used tool "creator"
+[Mon Dec 29 20:42:10 2025] <STEAM_0:1:620808428> Soldier Boy used tool "creator"
+[Mon Dec 29 20:42:26 2025] <STEAM_0:1:620808428> Soldier Boy used tool "creator"
+[Mon Dec 29 20:42:27 2025] <STEAM_0:1:620808428> Soldier Boy used tool "creator"
+[Mon Dec 29 20:42:27 2025] <STEAM_0:1:620808428> Soldier Boy used tool "creator"
+[Mon Dec 29 20:43:54 2025] Soldier Boy has killed punk.
+[Mon Dec 29 20:43:55 2025] punk has killed punk.
+[Mon Dec 29 20:44:37 2025] <STEAM_0:1:601998882> Лысый аптекарь: /ooc ну шансов ноль у тебя против танка
+[Mon Dec 29 20:45:00 2025] <STEAM_0:0:921324874> punk: // посмотрим
+[Mon Dec 29 20:45:09 2025] <STEAM_0:1:620808428> Soldier Boy: // Панк, я бы тебе дал РПГ, но по механу не могу
+[Mon Dec 29 20:45:22 2025] <STEAM_0:1:601998882> Лысый аптекарь: // ну с рпг то каждый может
+[Mon Dec 29 20:49:44 2025] Player "Smasher" <STEAM_0:1:220381002> is attempting to connect.
+[Mon Dec 29 20:51:23 2025] Лысый аптекарь has killed punk.
+[Mon Dec 29 20:52:33 2025] Player "Smasher" <STEAM_0:1:220381002> has spawned in the server
+[Mon Dec 29 20:52:53 2025] <STEAM_0:1:620808428> Soldier Boy: // Если, что на CTR 3 лицл
+[Mon Dec 29 20:54:32 2025] punk has killed Soldier Boy.
+[Mon Dec 29 20:54:51 2025] Лысый аптекарь has killed punk.
+[Mon Dec 29 20:57:03 2025] <STEAM_0:1:620808428> Soldier Boy: /russ аоаал
+[Mon Dec 29 20:57:05 2025] <STEAM_0:1:601998882> Лысый аптекарь: // я надеюсь к мне уже едут
+[Mon Dec 29 20:57:19 2025] Player "alkashyo" <STEAM_0:1:212563886> is attempting to connect.
+[Mon Dec 29 20:57:49 2025] <STEAM_0:1:220381002> Smasher: /me Исполнил воинское приветствие!
+[Mon Dec 29 20:58:03 2025] <STEAM_0:0:921324874> punk: /me отдал честь
+[Mon Dec 29 20:58:16 2025] Player "Centaurus" <STEAM_0:1:176906490> is attempting to connect.
+[Mon Dec 29 21:00:04 2025] Smasher has killed Лысый аптекарь.
+[Mon Dec 29 21:03:58 2025] <STEAM_0:1:220381002> Smasher: // вы где
+[Mon Dec 29 21:04:08 2025] <STEAM_0:1:601998882> Лысый аптекарь: /ooc кд
+[Mon Dec 29 21:04:16 2025] Player "saxaroza" <STEAM_0:1:773566500> is attempting to connect.
+[Mon Dec 29 21:06:09 2025] <STEAM_0:1:220381002> Smasher: // да похуй на кд
+[Mon Dec 29 21:06:14 2025] <STEAM_0:1:220381002> Smasher: // онлайна нет
+[Mon Dec 29 21:06:33 2025] <STEAM_0:1:620808428> Soldier Boy: // Ну это же не повод правила нарушать
+[Mon Dec 29 21:06:49 2025] <STEAM_0:0:921324874> punk: // онлайн 4 человека
+[Mon Dec 29 21:07:02 2025] <STEAM_0:1:620808428> Soldier Boy: // Москва не сразу строилась
+[Mon Dec 29 21:08:16 2025] <STEAM_0:0:921324874> punk: Полковник я могу запросить повышение?
+[Mon Dec 29 21:08:20 2025] <STEAM_0:1:220381002> Smasher: да
+[Mon Dec 29 21:08:23 2025] <STEAM_0:1:220381002> Smasher: // скукатория
+[Mon Dec 29 21:09:07 2025] <STEAM_0:0:921324874> punk: это все через спец связь или просто сможете?
+[Mon Dec 29 21:09:36 2025] Smasher has killed Лысый аптекарь.
+[Mon Dec 29 21:09:36 2025] Smasher has killed Soldier Boy.
+[Mon Dec 29 21:09:53 2025] <STEAM_0:1:601998882> Лысый аптекарь: /ooc ну нам ракеты не завезли
+[Mon Dec 29 21:10:01 2025] <STEAM_0:1:220381002> Smasher: // берите бмп
+[Mon Dec 29 21:10:11 2025] <STEAM_0:1:601998882> Лысый аптекарь: /ooc откуда там ракеты
+[Mon Dec 29 21:10:24 2025] <STEAM_0:1:220381002> Smasher: // бмп 2м
+[Mon Dec 29 21:10:56 2025] <STEAM_0:0:921324874> punk: на е
+[Mon Dec 29 21:11:26 2025] Player "alkashyo" <STEAM_0:1:212563886> has spawned in the server
+[Mon Dec 29 21:12:03 2025] Smasher has killed Лысый аптекарь.
+[Mon Dec 29 21:12:03 2025] Smasher has killed Soldier Boy.
+[Mon Dec 29 21:13:33 2025] <STEAM_0:1:620808428> Soldier Boy: /l Щас всё будет
+[Mon Dec 29 21:15:09 2025] Smasher has killed Soldier Boy.
+[Mon Dec 29 21:15:09 2025] Smasher has killed Лысый аптекарь.
+[Mon Dec 29 21:15:30 2025] <STEAM_0:1:220381002> Smasher: // ебать бмп колобок
+[Mon Dec 29 21:15:34 2025] <STEAM_0:1:601998882> Лысый аптекарь: /looc а вот пушить не надо было
+[Mon Dec 29 21:16:15 2025] <STEAM_0:0:921324874> punk: сэр можете меня на капрала поставить?
+[Mon Dec 29 21:16:45 2025] Player "alkashyo" <STEAM_0:1:212563886> has left the server
+[Mon Dec 29 21:17:23 2025] Player "saxaroza" <STEAM_0:1:773566500> has spawned in the server
+[Mon Dec 29 21:17:43 2025] Smasher has killed Лысый аптекарь.
+[Mon Dec 29 21:17:43 2025] Smasher has killed Soldier Boy.
+[Mon Dec 29 21:17:57 2025] <STEAM_0:1:220381002> Smasher: // бешеные
+[Mon Dec 29 21:18:09 2025] <STEAM_0:1:220381002> Smasher: /nato отпиши в перепись и запроси роли
+[Mon Dec 29 21:18:36 2025] Player "Centaurus" <STEAM_0:1:176906490> is attempting to connect.
+[Mon Dec 29 21:19:47 2025] Smasher has killed Лысый аптекарь.
+[Mon Dec 29 21:19:47 2025] Smasher has killed Soldier Boy.
+[Mon Dec 29 21:19:47 2025] worldspawn has killed Smasher.
+[Mon Dec 29 21:19:59 2025] <STEAM_0:1:220381002> Smasher: // размен
+[Mon Dec 29 21:20:09 2025] <STEAM_0:1:620808428> Soldier Boy ran command "a Смешер, иди типа обучи тогда"
+[Mon Dec 29 21:20:21 2025] <STEAM_0:1:220381002> Smasher: /me Исполнил воинское приветствие!
+[Mon Dec 29 21:20:32 2025] <STEAM_0:1:220381002> Smasher: /nato панков как захватишь скажешь
+[Mon Dec 29 21:20:59 2025] <STEAM_0:0:921324874> punk: // как в защищенную сеть писать?
+[Mon Dec 29 21:21:07 2025] <STEAM_0:1:620808428> Soldier Boy: ./nato
+[Mon Dec 29 21:21:08 2025] <STEAM_0:1:220381002> Smasher: // /nato
+[Mon Dec 29 21:21:10 2025] <STEAM_0:1:620808428> Soldier Boy: ./nato
+[Mon Dec 29 21:23:00 2025] <STEAM_0:1:220381002> Smasher ran command "bring punkov"
+[Mon Dec 29 21:23:09 2025] Player "Worshiper of God" <STEAM_0:0:74235942> is attempting to connect.
+[Mon Dec 29 21:23:22 2025] Player "баребух" <STEAM_0:1:543025186> is attempting to connect.
+[Mon Dec 29 21:23:47 2025] Player "Worshiper of God" <STEAM_0:0:74235942> has spawned in the server
+[Mon Dec 29 21:24:26 2025] <STEAM_0:1:620808428> Soldier Boy ran command "a Смэшер"
+[Mon Dec 29 21:24:32 2025] <STEAM_0:1:620808428> Soldier Boy ran command "a Обучаешь?"
+[Mon Dec 29 21:24:41 2025] Player "Centaurus" <STEAM_0:1:176906490> has spawned in the server
+[Mon Dec 29 21:25:56 2025] <STEAM_0:1:220381002> Smasher ran command "a да"
+[Mon Dec 29 21:26:10 2025] <STEAM_0:1:220381002> Smasher ran command "noclip COL A.T. Smasher"
+[Mon Dec 29 21:26:11 2025] <STEAM_0:1:220381002> Smasher ran command "invisible COL A.T. Smasher"
+[Mon Dec 29 21:26:20 2025] <STEAM_0:1:601998882> Лысый аптекарь: /ooc я жду типо да
+[Mon Dec 29 21:26:20 2025] <STEAM_0:0:74235942> Worshiper of God: /rf Дубровин у нас новоприбывший курстан.
+[Mon Dec 29 21:27:06 2025] <STEAM_0:1:601998882> Лысый аптекарь: /ooc только сразу лицо мне не бейте
+[Mon Dec 29 21:27:56 2025] Centaurus has killed Centaurus.
+[Mon Dec 29 21:28:32 2025] Smasher has killed Лысый аптекарь.
+[Mon Dec 29 21:28:47 2025] Soldier Boy has killed Smasher.
+[Mon Dec 29 21:28:48 2025] Smasher has killed Smasher.
+[Mon Dec 29 21:29:01 2025] <STEAM_0:1:220381002> Smasher: // что блять
+[Mon Dec 29 21:29:06 2025] <STEAM_0:1:220381002> Smasher: // абрамс с рпг
+[Mon Dec 29 21:29:43 2025] Player "alkashyo" <STEAM_0:1:212563886> is attempting to connect.
+[Mon Dec 29 21:30:00 2025] <STEAM_0:1:620808428> Soldier Boy: /rf Бойцы, скоро мы на базу!
+[Mon Dec 29 21:30:09 2025] <STEAM_0:0:74235942> Worshiper of God: /rf Так точно!
+[Mon Dec 29 21:30:12 2025] <STEAM_0:1:620808428> Soldier Boy: /rf Пока точку берём
+[Mon Dec 29 21:30:28 2025] <STEAM_0:0:74235942> Worshiper of God: /rf Принял информацию.
+[Mon Dec 29 21:30:54 2025] Player "alkashyo" <STEAM_0:1:212563886> has spawned in the server
+[Mon Dec 29 21:31:12 2025] <STEAM_0:1:620808428> Soldier Boy ran command "a Я щас захвачу"
+[Mon Dec 29 21:31:16 2025] Player "баребух" <STEAM_0:1:543025186> has spawned in the server
+[Mon Dec 29 21:31:18 2025] <STEAM_0:1:620808428> Soldier Boy ran command "a И буду бойцов обучать"
+[Mon Dec 29 21:32:04 2025] Player "费尔南德斯" <STEAM_0:0:79873507> is attempting to connect.
+[Mon Dec 29 21:32:46 2025] <STEAM_0:1:543025186> баребух: /advert Новобранец прибыл и ожидает обучения
+[Mon Dec 29 21:32:50 2025] Player "༒︎シ︎ʰᵉⁿᵗᵃⁱシ" <STEAM_0:0:851601344> is attempting to connect.
+[Mon Dec 29 21:33:29 2025] Player "费尔南德斯" <STEAM_0:0:79873507> has spawned in the server
+[Mon Dec 29 21:34:00 2025] <STEAM_0:1:620808428> Soldier Boy: /rf Отступаем на базу
+[Mon Dec 29 21:34:18 2025] Player "༒︎シ︎ʰᵉⁿᵗᵃⁱシ" <STEAM_0:0:851601344> has spawned in the server
+[Mon Dec 29 21:35:07 2025] <STEAM_0:1:620808428> Soldier Boy: /nato ха
+[Mon Dec 29 21:35:10 2025] <STEAM_0:1:620808428> Soldier Boy: /nato хай
+[Mon Dec 29 21:35:20 2025] <STEAM_0:1:620808428> Soldier Boy: /nato вы видите мои мообщения?
+[Mon Dec 29 21:35:29 2025] <STEAM_0:1:620808428> Soldier Boy: /nato в ооси напишите
+[Mon Dec 29 21:35:51 2025] Player "费尔南德斯" <STEAM_0:0:79873507> has left the server
+[Mon Dec 29 21:36:00 2025] <STEAM_0:0:74235942> Worshiper of God: /rf Принял информацию.
+[Mon Dec 29 21:36:12 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [574][sw_rocket_9m528_v3]"
+[Mon Dec 29 21:36:13 2025] <STEAM_0:1:212563886> alkashyo ran command "menu"
+[Mon Dec 29 21:36:21 2025] <STEAM_0:1:620808428> Soldier Boy: /me передал
+[Mon Dec 29 21:36:30 2025] <STEAM_0:1:601998882> Лысый аптекарь: /me принял, отдал честь
+[Mon Dec 29 21:36:38 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [574][sw_uav_catapult]"
+[Mon Dec 29 21:36:44 2025] <STEAM_0:1:773566500> saxaroza: /me встал в стойку смирно
+[Mon Dec 29 21:36:50 2025] <STEAM_0:1:620808428> Soldier Boy: /l луук
+[Mon Dec 29 21:36:58 2025] <STEAM_0:1:773566500> saxaroza: /me открыл книгу
+[Mon Dec 29 21:37:12 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [574][sw_rocket_kh47m2_v3]"
+[Mon Dec 29 21:37:18 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [552][sw_rocket_s5kp_v3]"
+[Mon Dec 29 21:37:38 2025] <STEAM_0:1:543025186> баребух: .
+[Mon Dec 29 21:37:53 2025] <STEAM_0:1:773566500> saxaroza: /me закрыл книгу
+[Mon Dec 29 21:37:57 2025] <STEAM_0:1:220381002> Smasher spawned SENT "Entity [562][sw_rocket_s3k_v3]"
+[Mon Dec 29 21:38:03 2025] Smasher has killed punk.
+[Mon Dec 29 21:38:03 2025] Smasher has killed Smasher.
+[Mon Dec 29 21:38:04 2025] Smasher has killed Smasher.
+[Mon Dec 29 21:38:32 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /nato 2 лейтенанта у нас нету же
+[Mon Dec 29 21:38:44 2025] <STEAM_0:1:220381002> Smasher ran command "goto 2LT F. B. Punkov"
+[Mon Dec 29 21:38:58 2025] <STEAM_0:1:220381002> Smasher: !nolcip
+[Mon Dec 29 21:39:02 2025] <STEAM_0:1:220381002> Smasher ran command "noclip COL A.T. Smasher"
+[Mon Dec 29 21:39:05 2025] <STEAM_0:1:220381002> Smasher ran command "noclip COL A.T. Smasher"
+[Mon Dec 29 21:39:46 2025] <STEAM_0:1:620808428> Soldier Boy ran command "send Деревяшко"
+[Mon Dec 29 21:40:01 2025] Player "Бананчики" <STEAM_0:1:778645091> is attempting to connect.
+[Mon Dec 29 21:40:07 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /nato смешер
+[Mon Dec 29 21:40:35 2025] <STEAM_0:1:620808428> Soldier Boy ran command "send Кузьмин"
+[Mon Dec 29 21:40:58 2025] <STEAM_0:1:220381002> Smasher: /nato что
+[Mon Dec 29 21:41:11 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /nato у нас второго лейтенанта нету же
+[Mon Dec 29 21:41:13 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [554][sw_airdrop_v3]"
+[Mon Dec 29 21:41:16 2025] <STEAM_0:1:543025186> баребух: /
+[Mon Dec 29 21:41:20 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [554][sw_airdrop_v3]"
+[Mon Dec 29 21:41:24 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [554][sw_airdrop_v3]"
+[Mon Dec 29 21:41:28 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [554][sw_airdrop_v3]"
+[Mon Dec 29 21:41:30 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [590][sw_airdrop_v3]"
+[Mon Dec 29 21:41:43 2025] <STEAM_0:1:220381002> Smasher: /nato пока испытательный срок, эксперементальное звание
+[Mon Dec 29 21:42:04 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /nato окей тогда ставлю пока что на первого лейтенанта его
+[Mon Dec 29 21:43:08 2025] <STEAM_0:1:601998882> Лысый аптекарь: /LOOC меня только дубровин не види?
+[Mon Dec 29 21:43:16 2025] <STEAM_0:1:601998882> Лысый аптекарь: /looc ну да вообщем
+[Mon Dec 29 21:43:55 2025] <STEAM_0:1:620808428> Soldier Boy ran command "send Жнецов"
+[Mon Dec 29 21:44:07 2025] <STEAM_0:1:620808428> Soldier Boy ran command "invisible Баранов"
+[Mon Dec 29 21:44:16 2025] <STEAM_0:1:620808428> Soldier Boy ran command "invisible Баранов"
+[Mon Dec 29 21:44:38 2025] <STEAM_0:1:620808428> Soldier Boy ran command "invisible Деревяшко"
+[Mon Dec 29 21:44:43 2025] <STEAM_0:1:620808428> Soldier Boy ran command "invisible Деревяшко"
+[Mon Dec 29 21:44:54 2025] <STEAM_0:1:620808428> Soldier Boy ran command "invisible Кузьмин"
+[Mon Dec 29 21:44:56 2025] <STEAM_0:1:620808428> Soldier Boy ran command "invisible Кузьмин"
+[Mon Dec 29 21:47:35 2025] <STEAM_0:1:220381002> Smasher: // деревня дураков бля
+[Mon Dec 29 21:47:41 2025] баребух has killed баребух.
+[Mon Dec 29 21:47:41 2025] <STEAM_0:1:220381002> Smasher ran command "slay RCT C.J. Jonson"
+[Mon Dec 29 21:47:48 2025] <STEAM_0:1:220381002> Smasher ran command "bring Jonson"
+[Mon Dec 29 21:48:15 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "a хули чел из рф на базе нато делает?"
+[Mon Dec 29 21:48:23 2025] <STEAM_0:1:620808428> Soldier Boy ran command "a ??"
+[Mon Dec 29 21:48:24 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "a кто его привёл"
+[Mon Dec 29 21:48:27 2025] <STEAM_0:1:620808428> Soldier Boy ran command "a Не знаю"
+[Mon Dec 29 21:48:30 2025] <STEAM_0:1:620808428> Soldier Boy ran command "a Сами могли"
+[Mon Dec 29 21:48:34 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "a пиздец"
+[Mon Dec 29 21:48:35 2025] <STEAM_0:1:620808428> Soldier Boy ran command "a Ты их тепни"
+[Mon Dec 29 21:48:45 2025] <STEAM_0:1:620808428> Soldier Boy ran command "a объясни, что нельзя"
+[Mon Dec 29 21:48:49 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "a он у нас появился"
+[Mon Dec 29 21:49:02 2025] <STEAM_0:1:220381002> Smasher ran command "a все норм я ему поменял"
+[Mon Dec 29 21:49:21 2025] alkashyo has killed alkashyo.
+[Mon Dec 29 21:49:48 2025] <STEAM_0:1:601998882> Лысый аптекарь: /ooc деревяшко уже ушел воевать? почему он успел уже умереть
+[Mon Dec 29 21:49:55 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /l я с тобой ходил XD
+[Mon Dec 29 21:51:34 2025] <STEAM_0:1:220381002> Smasher: /nato как закончите обучение второй лейт и капитан ко мне в штаб
+[Mon Dec 29 21:53:02 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /l ты тут?
+[Mon Dec 29 21:53:16 2025] <STEAM_0:1:773566500> saxaroza: /me [7460] [Сахарных К.С.] {СЖТ} [12 Гв.МСП|МВ] [-] (-)
+[Mon Dec 29 21:53:17 2025] Player "Centaurus" <STEAM_0:1:176906490> has left the server
+[Mon Dec 29 21:55:12 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /nato общий сбор возле КПП
+[Mon Dec 29 21:55:25 2025] Player "|| Homelander ||" <STEAM_0:0:869238922> is attempting to connect.
+[Mon Dec 29 21:55:27 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /nato приказ главностоящего
+[Mon Dec 29 21:55:27 2025] Player "Centaurus" <STEAM_0:1:176906490> is attempting to connect.
+[Mon Dec 29 21:56:20 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /nato все готовы?
+[Mon Dec 29 21:56:24 2025] <STEAM_0:1:620808428> Soldier Boy ran command "a У вас тип Призывник"
+[Mon Dec 29 21:56:31 2025] <STEAM_0:1:620808428> Soldier Boy ran command "a На базе спрятался"
+[Mon Dec 29 21:56:36 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "a у кого"
+[Mon Dec 29 21:56:39 2025] <STEAM_0:1:220381002> Smasher: /nato Главнокомандующий Операцией - Капитан Евергарден
+[Mon Dec 29 21:56:43 2025] <STEAM_0:1:620808428> Soldier Boy ran command "a нато"
+[Mon Dec 29 21:56:48 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /nato чистота рации 245
+[Mon Dec 29 21:56:53 2025] Player "Soldier Boy" <STEAM_0:1:620808428> has left the server
+[Mon Dec 29 21:57:03 2025] Player "Soldier Boy" <STEAM_0:1:620808428> is attempting to connect.
+[Mon Dec 29 21:57:12 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "a нету же"
+[Mon Dec 29 21:57:28 2025] Player "Soldier Boy" <STEAM_0:1:620808428> has spawned in the server
+[Mon Dec 29 21:57:31 2025] <STEAM_0:1:601998882> Лысый аптекарь: /looc клевая любовь у него
+[Mon Dec 29 21:58:28 2025] <STEAM_0:1:601998882> Лысый аптекарь: /looc профиль в дс
+[Mon Dec 29 21:58:47 2025] <STEAM_0:1:601998882> Лысый аптекарь: /looc у него в комментарии к профилю написано каких он любит женщин
+[Mon Dec 29 22:00:04 2025] <STEAM_0:1:220381002> Smasher: // рядовой деревяшка
+[Mon Dec 29 22:00:16 2025] Player "Centaurus" <STEAM_0:1:176906490> has spawned in the server
+[Mon Dec 29 22:00:19 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /l а ой
+[Mon Dec 29 22:01:11 2025] <STEAM_0:1:176906490> Centaurus: // вы де
+[Mon Dec 29 22:01:22 2025] <STEAM_0:1:176906490> Centaurus ran command "pm Дубровин Я их наебал"
+[Mon Dec 29 22:01:27 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // скоро приедем
+[Mon Dec 29 22:01:30 2025] Player "баребух" <STEAM_0:1:543025186> has left the server
+[Mon Dec 29 22:01:34 2025] <STEAM_0:1:176906490> Centaurus ran command "pm Дубровин Скоро всех в спину на захвате переебашу и к вам"
+[Mon Dec 29 22:01:36 2025] Player "баребух" <STEAM_0:1:543025186> is attempting to connect.
+[Mon Dec 29 22:01:39 2025] <STEAM_0:1:176906490> Centaurus ran command "pm Дубровин <3"
+[Mon Dec 29 22:02:02 2025] <STEAM_0:1:620808428> Soldier Boy ran command "pm Кузьмин А со вторым, что?"
+[Mon Dec 29 22:02:11 2025] <STEAM_0:1:176906490> Centaurus ran command "pm Дубровин ссыт"
+[Mon Dec 29 22:02:31 2025] Player "punk" <STEAM_0:0:921324874> has left the server
+[Mon Dec 29 22:02:53 2025] Player "баребух" <STEAM_0:1:543025186> has spawned in the server
+[Mon Dec 29 22:03:19 2025] Centaurus has killed Centaurus.
+[Mon Dec 29 22:03:34 2025] <STEAM_0:1:220381002> Smasher ran command "bring Parker"
+[Mon Dec 29 22:03:42 2025] <STEAM_0:1:220381002> Smasher ran command "bring parker"
+[Mon Dec 29 22:04:30 2025] worldspawn has killed saxaroza.
+[Mon Dec 29 22:04:31 2025] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed баребух.
+[Mon Dec 29 22:04:34 2025] worldspawn has killed Smasher.
+[Mon Dec 29 22:04:34 2025] <STEAM_0:1:220381002> Smasher: /nato откройте ворота
+[Mon Dec 29 22:04:35 2025] Smasher has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Mon Dec 29 22:04:44 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // прям перед базой(
+[Mon Dec 29 22:05:01 2025] <STEAM_0:1:176906490> Centaurus ran command "pm Дубро красавцы!"
+[Mon Dec 29 22:05:30 2025] <STEAM_0:1:620808428> Soldier Boy: // ивентолог говорит, что щас ивент будет!
+[Mon Dec 29 22:06:07 2025] Player "TANZI" <STEAM_0:0:561366370> is attempting to connect.
+[Mon Dec 29 22:06:45 2025] <STEAM_0:1:620808428> Soldier Boy ran command "pm Кузьмин на бы руки за рф..."
+[Mon Dec 29 22:07:36 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: RCT
+[Mon Dec 29 22:07:40 2025] <STEAM_0:1:176906490> Centaurus: RCT Kyzmin S.S
+[Mon Dec 29 22:07:46 2025] <STEAM_0:1:620808428> Soldier Boy: /rf f2 рч - 14.55
+[Mon Dec 29 22:07:47 2025] <STEAM_0:1:220381002> Smasher ran command "noclip COL A.T. Smasher"
+[Mon Dec 29 22:07:48 2025] <STEAM_0:1:220381002> Smasher ran command "invisible COL A.T. Smasher"
+[Mon Dec 29 22:08:01 2025] <STEAM_0:1:601998882> Лысый аптекарь: // мы типо ждем да
+[Mon Dec 29 22:08:10 2025] <STEAM_0:1:620808428> Soldier Boy: /rf 14*
+[Mon Dec 29 22:08:42 2025] Player "Smasher" <STEAM_0:1:220381002> has left the server
+[Mon Dec 29 22:09:59 2025] <STEAM_0:1:601998882> Лысый аптекарь: // мы типо долго ждем да
+[Mon Dec 29 22:10:45 2025] Player "TANZI" <STEAM_0:0:561366370> is attempting to connect.
+[Mon Dec 29 22:10:47 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [636][sw_airdrop_v3]"
+[Mon Dec 29 22:10:50 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [636][sw_airdrop_v3]"
+[Mon Dec 29 22:10:55 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [636][sw_airdrop_v3]"
+[Mon Dec 29 22:10:57 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [637][sw_airdrop_v3]"
+[Mon Dec 29 22:11:00 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [636][sw_airdrop_v3]"
+[Mon Dec 29 22:11:02 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [637][sw_airdrop_v3]"
+[Mon Dec 29 22:11:24 2025] Player "TANZI" <STEAM_0:0:561366370> has spawned in the server
+[Mon Dec 29 22:12:00 2025] <STEAM_0:1:176906490> Centaurus ran command "pm Дубро Щас бредли с кпп выкатится. Не шмайляйте"
+[Mon Dec 29 22:12:24 2025] Player "deceased" <STEAM_0:0:219840273> is attempting to connect.
+[Mon Dec 29 22:14:22 2025] Player "deceased" <STEAM_0:0:219840273> has spawned in the server
+[Mon Dec 29 22:14:25 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /nato 1 бредли и 1 хамер выходят за базу. Цель: разведка
+[Mon Dec 29 22:15:42 2025] Player "баребух" <STEAM_0:1:543025186> has left the server
+[Mon Dec 29 22:15:48 2025] Player "баребух" <STEAM_0:1:543025186> is attempting to connect.
+[Mon Dec 29 22:15:59 2025] <STEAM_0:1:601998882> Лысый аптекарь: /ooc вы забили на нас?
+[Mon Dec 29 22:16:06 2025] <STEAM_0:1:176906490> Centaurus ran command "pm Дубр Щас красиво будет"
+[Mon Dec 29 22:16:13 2025] <STEAM_0:1:176906490> Centaurus ran command "pm Дубр Нам героя дадут?"
+[Mon Dec 29 22:16:14 2025] <STEAM_0:1:620808428> Soldier Boy ran command "invisible Охотник"
+[Mon Dec 29 22:16:25 2025] <STEAM_0:1:620808428> Soldier Boy ran command "invisible Охотник"
+[Mon Dec 29 22:16:36 2025] <STEAM_0:1:620808428> Soldier Boy: /l Зайди за НАТО тогда пока
+[Mon Dec 29 22:16:41 2025] <STEAM_0:1:620808428> Soldier Boy: /l их мало
+[Mon Dec 29 22:16:46 2025] <STEAM_0:0:219840273> deceased: /looc прям я? XD
+[Mon Dec 29 22:17:10 2025] <STEAM_0:1:620808428> Soldier Boy ran command "a Ну да"
+[Mon Dec 29 22:17:14 2025] <STEAM_0:1:620808428> Soldier Boy ran command "a их мало"
+[Mon Dec 29 22:17:15 2025] <STEAM_0:0:561366370> TANZI: /look бля
+[Mon Dec 29 22:17:28 2025] <STEAM_0:0:561366370> TANZI: /looc откат
+[Mon Dec 29 22:17:40 2025] <STEAM_0:1:176906490> Centaurus ran command "pm Дубро По бредле не стреляйте"
+[Mon Dec 29 22:18:06 2025] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Mon Dec 29 22:18:06 2025] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed saxaroza.
+[Mon Dec 29 22:18:07 2025] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Mon Dec 29 22:18:10 2025] <STEAM_0:0:561366370> TANZI: /me моргнул
+[Mon Dec 29 22:18:17 2025] <STEAM_0:0:561366370> TANZI: /do моргнул
+[Mon Dec 29 22:18:23 2025] <STEAM_0:1:620808428> Soldier Boy: /l Откат
+[Mon Dec 29 22:18:26 2025] <STEAM_0:1:620808428> Soldier Boy: /l Откат
+[Mon Dec 29 22:18:28 2025] <STEAM_0:1:620808428> Soldier Boy: /ooc ⓀⓇⒶⓈⒾⒷⓄ ( ͡° ͜ʖ ͡°)
+[Mon Dec 29 22:18:33 2025] <STEAM_0:0:561366370> TANZI: /looc Я вспоминаю не обращайте внимания :D
+[Mon Dec 29 22:19:01 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [513][sw_airdrop_v3]"
+[Mon Dec 29 22:19:09 2025] <STEAM_0:0:561366370> TANZI: /looc это же старшина?
+[Mon Dec 29 22:19:14 2025] <STEAM_0:0:561366370> TANZI: /looc или не?
+[Mon Dec 29 22:19:18 2025] <STEAM_0:1:601998882> Лысый аптекарь: /looc нет
+[Mon Dec 29 22:19:18 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "respawn RCT P. B. Parker"
+[Mon Dec 29 22:19:20 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [496][sw_airdrop_v3]"
+[Mon Dec 29 22:19:22 2025] <STEAM_0:1:620808428> Soldier Boy: /l неа
+[Mon Dec 29 22:19:26 2025] <STEAM_0:0:561366370> TANZI: /looc qmq понял
+[Mon Dec 29 22:19:29 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [496][sw_airdrop_v3]"
+[Mon Dec 29 22:19:31 2025] <STEAM_0:1:601998882> Лысый аптекарь: /looc старшина после старшего сержанта вроде идет
+[Mon Dec 29 22:19:36 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [571][sw_airdrop_v3]"
+[Mon Dec 29 22:19:37 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [574][sw_airdrop_v3]"
+[Mon Dec 29 22:19:45 2025] <STEAM_0:0:561366370> TANZI: /looc как ник исправить?
+[Mon Dec 29 22:19:49 2025] <STEAM_0:1:601998882> Лысый аптекарь: /looc а да, точно как я мог
+[Mon Dec 29 22:19:52 2025] <STEAM_0:1:620808428> Soldier Boy: /l я исправлю
+[Mon Dec 29 22:20:08 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [637][lvs_wheeldrive_hummer_tow]"
+[Mon Dec 29 22:20:22 2025] <STEAM_0:1:620808428> Soldier Boy ran command "spectate Деревяшко"
+[Mon Dec 29 22:20:41 2025] <STEAM_0:1:601998882> Лысый аптекарь: /looc немного магии ощутили
+[Mon Dec 29 22:22:27 2025] <STEAM_0:1:601998882> Лысый аптекарь: Мотор глуши
+[Mon Dec 29 22:22:43 2025] <STEAM_0:0:219840273> deceased: // че за бред блять
+[Mon Dec 29 22:22:51 2025] <STEAM_0:0:219840273> deceased: // ебучий баг
+[Mon Dec 29 22:23:00 2025] <STEAM_0:0:219840273> deceased: // я технику заспавнить не могу
+[Mon Dec 29 22:23:23 2025] <STEAM_0:0:561366370> TANZI: /looc я хуею братья мусульмане
+[Mon Dec 29 22:23:46 2025] <STEAM_0:1:601998882> Лысый аптекарь: /looc почему не в максе?
+[Mon Dec 29 22:24:18 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Mon Dec 29 22:24:18 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Mon Dec 29 22:24:18 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Mon Dec 29 22:24:19 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Mon Dec 29 22:24:19 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Mon Dec 29 22:24:19 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Mon Dec 29 22:24:19 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Mon Dec 29 22:24:20 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "creator"
+[Mon Dec 29 22:24:40 2025] <STEAM_0:0:561366370> TANZI: /looc Если по логике судить, то его должны были растрелять пока он подъезжал qmq
+[Mon Dec 29 22:24:48 2025] <STEAM_0:1:212563886> alkashyo: /looc неа
+[Mon Dec 29 22:25:06 2025] <STEAM_0:0:561366370> TANZI: /looc Если судить по РЖ, то жа
+[Mon Dec 29 22:26:03 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "stripweapons RCT P. B. Parker"
+[Mon Dec 29 22:26:56 2025] <STEAM_0:1:620808428> Soldier Boy: /l Да их 2 всего
+[Mon Dec 29 22:27:03 2025] <STEAM_0:1:620808428> Soldier Boy: /l это вообще не честно
+[Mon Dec 29 22:27:33 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "a форест"
+[Mon Dec 29 22:27:47 2025] <STEAM_0:1:620808428> Soldier Boy ran command "a К тебе бредли едет"
+[Mon Dec 29 22:27:51 2025] <STEAM_0:1:620808428> Soldier Boy ran command "a хуярь их"
+[Mon Dec 29 22:27:52 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "a понял"
+[Mon Dec 29 22:28:01 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "a как челу оружие выдать?"
+[Mon Dec 29 22:28:19 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "a и мы по рп знаем то что они нас предали"
+[Mon Dec 29 22:28:27 2025] <STEAM_0:1:620808428> Soldier Boy ran command "a Да"
+[Mon Dec 29 22:28:38 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "a так оружие как выдать?"
+[Mon Dec 29 22:28:46 2025] <STEAM_0:1:620808428> Soldier Boy ran command "a Q"
+[Mon Dec 29 22:28:51 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "a человеку"
+[Mon Dec 29 22:28:55 2025] <STEAM_0:1:620808428> Soldier Boy ran command "a никак"
+[Mon Dec 29 22:29:00 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "a принял"
+[Mon Dec 29 22:29:05 2025] <STEAM_0:1:773566500> saxaroza: /me [7460] [Сахарных К.С.] {СЖТ} [12 Гв.МСП|МВ] [-] (-)
+[Mon Dec 29 22:31:09 2025] <STEAM_0:1:773566500> saxaroza: /me [7460] [Сахарных К.С.] {СЖТ} [12 Гв.МСП|МВ] [-] (-)
+[Mon Dec 29 22:31:16 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /pass
+[Mon Dec 29 22:32:25 2025] <STEAM_0:1:176906490> Centaurus: /drop
+[Mon Dec 29 22:33:10 2025] <STEAM_0:0:219840273> deceased ran command "invisible Павлов"
+[Mon Dec 29 22:33:28 2025] <STEAM_0:0:219840273> deceased ran command "invisible Павлов"
+[Mon Dec 29 22:34:26 2025] Centaurus has killed saxaroza.
+[Mon Dec 29 22:34:27 2025] saxaroza has killed saxaroza.
+[Mon Dec 29 22:34:30 2025] Centaurus has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Mon Dec 29 22:34:43 2025] worldspawn has killed Лысый аптекарь.
+[Mon Dec 29 22:34:43 2025] worldspawn has killed deceased.
+[Mon Dec 29 22:34:43 2025] worldspawn has killed Worshiper of God.
+[Mon Dec 29 22:34:44 2025] Лысый аптекарь has killed Лысый аптекарь.
+[Mon Dec 29 22:34:46 2025] <STEAM_0:0:219840273> deceased: // блять
+[Mon Dec 29 22:34:50 2025] <STEAM_0:0:219840273> deceased: // откать
+[Mon Dec 29 22:34:59 2025] <STEAM_0:0:219840273> deceased: // я не думал что так все получится :D
+[Mon Dec 29 22:35:02 2025] <STEAM_0:0:219840273> deceased: // хахахахахах
+[Mon Dec 29 22:35:06 2025] <STEAM_0:0:74235942> Worshiper of God: // ты типо нас взорвал?
+[Mon Dec 29 22:35:06 2025] alkashyo has killed saxaroza.
+[Mon Dec 29 22:35:10 2025] <STEAM_0:1:601998882> Лысый аптекарь: // ахуенно ты нас разебал, а должен был заправкеу
+[Mon Dec 29 22:35:15 2025] <STEAM_0:0:219840273> deceased: // типо пытался взять пулемет
+[Mon Dec 29 22:35:28 2025] Centaurus has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Mon Dec 29 22:35:36 2025] Soldier Boy has killed alkashyo.
+[Mon Dec 29 22:35:37 2025] alkashyo has killed alkashyo.
+[Mon Dec 29 22:36:03 2025] <STEAM_0:1:620808428> Soldier Boy ran command "ammo Дубровин"
+[Mon Dec 29 22:36:10 2025] <STEAM_0:0:561366370> TANZI: /ooc А как предохранитель ставить?
+[Mon Dec 29 22:36:12 2025] Soldier Boy has killed Centaurus.
+[Mon Dec 29 22:36:17 2025] Player "alkashyo" <STEAM_0:1:212563886> has left the server
+[Mon Dec 29 22:36:24 2025] <STEAM_0:1:620808428> Soldier Boy: // Шифр ER
+[Mon Dec 29 22:36:24 2025] Player "Centaurus" <STEAM_0:1:176906490> has left the server
+[Mon Dec 29 22:36:35 2025] <STEAM_0:0:561366370> TANZI: /ooc Сябки <
+[Mon Dec 29 22:37:54 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "respawn RCT P. B. Parker"
+[Mon Dec 29 22:38:24 2025] <STEAM_0:0:219840273> deceased ran command "invisible Павлов"
+[Mon Dec 29 22:39:47 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /nato Parker Обьявляеться диверсантом офицально с постановления штаба.
+[Mon Dec 29 22:40:10 2025] <STEAM_0:0:219840273> deceased ran command "invisible Павлов"
+[Mon Dec 29 22:40:45 2025] <STEAM_0:0:219840273> deceased: // ивент хотите?
+[Mon Dec 29 22:40:51 2025] <STEAM_0:0:561366370> TANZI: /ooc не
+[Mon Dec 29 22:40:52 2025] <STEAM_0:1:620808428> Soldier Boy: // Да
+[Mon Dec 29 22:40:58 2025] <STEAM_0:1:601998882> Лысый аптекарь: /ooc да я хочу разебать кого нибудь
+[Mon Dec 29 22:41:03 2025] <STEAM_0:0:219840273> deceased ran command "invisible Павлов"
+[Mon Dec 29 22:41:06 2025] <STEAM_0:1:601998882> Лысый аптекарь: /ooc я зря 15 ка апал в премьере кс?
+[Mon Dec 29 22:41:13 2025] <STEAM_0:0:561366370> TANZI: /ooc давай ивент
+[Mon Dec 29 22:41:37 2025] <STEAM_0:0:219840273> deceased spawned SENT "Entity [519][lvs_trailer_flak]"
+[Mon Dec 29 22:41:45 2025] <STEAM_0:0:219840273> deceased spawned SENT "Entity [554][lvs_trailer_flak]"
+[Mon Dec 29 22:41:52 2025] <STEAM_0:0:219840273> deceased spawned SENT "Entity [489][lvs_wheeldrive_hummer_tow]"
+[Mon Dec 29 22:41:55 2025] <STEAM_0:0:219840273> deceased spawned SENT "Entity [489][lvs_wheeldrive_hummer_m2]"
+[Mon Dec 29 22:42:09 2025] <STEAM_0:0:219840273> deceased spawned SENT "Entity [675][lvs_wheeldrive_dabrams_m1a1]"
+[Mon Dec 29 22:42:12 2025] <STEAM_0:1:620808428> Soldier Boy: // Баранов и Жнецов, в спец связи роли запросите
+[Mon Dec 29 22:42:17 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [778][sw_airdrop_v3]"
+[Mon Dec 29 22:42:18 2025] <STEAM_0:0:219840273> deceased: // нато
+[Mon Dec 29 22:42:18 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [779][sw_airdrop_v3]"
+[Mon Dec 29 22:42:20 2025] <STEAM_0:0:219840273> deceased: // вас тепаю?
+[Mon Dec 29 22:42:28 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // сек
+[Mon Dec 29 22:42:31 2025] <STEAM_0:1:601998882> Лысый аптекарь: /ooc можна патом? я хочу ебать все что движется
+[Mon Dec 29 22:42:41 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // тепай
+[Mon Dec 29 22:42:46 2025] <STEAM_0:0:561366370> TANZI: /ooc полтара человека? qmq
+[Mon Dec 29 22:42:54 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [778][sw_airdrop_v3]"
+[Mon Dec 29 22:42:55 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [779][sw_airdrop_v3]"
+[Mon Dec 29 22:43:00 2025] <STEAM_0:0:561366370> TANZI: е
+[Mon Dec 29 22:43:02 2025] <STEAM_0:0:561366370> TANZI: е
+[Mon Dec 29 22:43:03 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [778][sw_airdrop_v3]"
+[Mon Dec 29 22:43:04 2025] <STEAM_0:0:561366370> TANZI: н
+[Mon Dec 29 22:43:06 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [779][sw_airdrop_v3]"
+[Mon Dec 29 22:43:13 2025] <STEAM_0:1:601998882> Лысый аптекарь: /ooc а нам не кто чтоли не помешает?
+[Mon Dec 29 22:43:14 2025] <STEAM_0:0:219840273> deceased ran command "bring Evergarden"
+[Mon Dec 29 22:43:17 2025] <STEAM_0:0:219840273> deceased: // ох бля
+[Mon Dec 29 22:43:26 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [781][lvs_wheeldrive_hummer_tow]"
+[Mon Dec 29 22:43:32 2025] <STEAM_0:0:219840273> deceased ran command "goto RCT P. B. Parker"
+[Mon Dec 29 22:43:55 2025] worldspawn has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Mon Dec 29 22:44:01 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // сюка
+[Mon Dec 29 22:44:08 2025] <STEAM_0:1:601998882> Лысый аптекарь: /ooc увы и ах
+[Mon Dec 29 22:44:12 2025] <STEAM_0:1:601998882> Лысый аптекарь: /ooc еще раз
+[Mon Dec 29 22:44:12 2025] <STEAM_0:0:219840273> deceased ran command "menu"
+[Mon Dec 29 22:44:37 2025] <STEAM_0:0:219840273> deceased: // админ меню говна
+[Mon Dec 29 22:44:43 2025] <STEAM_0:0:219840273> deceased: // я не ебу как тебя тепнуть ангел
+[Mon Dec 29 22:44:47 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // окей директива 117 активирована
+[Mon Dec 29 22:44:58 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "goto Павлов"
+[Mon Dec 29 22:45:05 2025] <STEAM_0:1:601998882> Лысый аптекарь: /ooc только нежнее пожалуйста
+[Mon Dec 29 22:45:27 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [656][sw_airdrop_v3]"
+[Mon Dec 29 22:45:31 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [656][sw_airdrop_v3]"
+[Mon Dec 29 22:45:34 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [656][sw_airdrop_v3]"
+[Mon Dec 29 22:45:36 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [674][sw_airdrop_v3]"
+[Mon Dec 29 22:45:38 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [656][sw_airdrop_v3]"
+[Mon Dec 29 22:45:41 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [656][sw_bomb_brab250_v3]"
+[Mon Dec 29 22:45:51 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [489][sw_airdrop_v3]"
+[Mon Dec 29 22:45:54 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [494][sw_airdrop_v3]"
+[Mon Dec 29 22:46:09 2025] <STEAM_0:0:219840273> deceased ran command "menu"
+[Mon Dec 29 22:46:13 2025] <STEAM_0:0:561366370> TANZI: /ooc КАПИТАН КУДА ТЫ ПРОПААААААЛ ((((
+[Mon Dec 29 22:46:26 2025] <STEAM_0:0:219840273> deceased: // блять
+[Mon Dec 29 22:46:30 2025] <STEAM_0:1:620808428> Soldier Boy ran command "invisible Охотник"
+[Mon Dec 29 22:46:31 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // на ивенте
+[Mon Dec 29 22:46:33 2025] <STEAM_0:0:219840273> deceased: // а как вам объявить
+[Mon Dec 29 22:46:33 2025] <STEAM_0:1:620808428> Soldier Boy ran command "invisible Охотник"
+[Mon Dec 29 22:46:35 2025] <STEAM_0:0:219840273> deceased: // об ивенте
+[Mon Dec 29 22:46:51 2025] <STEAM_0:0:219840273> deceased: // стойтек
+[Mon Dec 29 22:47:00 2025] <STEAM_0:0:219840273> deceased: // подлети ко мне
+[Mon Dec 29 22:47:02 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "send RCT P. B. Parker"
+[Mon Dec 29 22:47:03 2025] <STEAM_0:0:219840273> deceased: // форест
+[Mon Dec 29 22:47:07 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "send RCT P. B. Parker"
+[Mon Dec 29 22:47:21 2025] <STEAM_0:0:219840273> deceased: // не едьте
+[Mon Dec 29 22:47:46 2025] <STEAM_0:0:219840273> deceased: // тепнись ко мне
+[Mon Dec 29 22:47:49 2025] <STEAM_0:0:219840273> deceased: // форетс
+[Mon Dec 29 22:48:02 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "goto Павлов"
+[Mon Dec 29 22:48:13 2025] <STEAM_0:1:620808428> Soldier Boy ran command "goto Павлов"
+[Mon Dec 29 22:48:32 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: ./event
+[Mon Dec 29 22:48:41 2025] <STEAM_0:0:561366370> TANZI: /looc как ее включить?
+[Mon Dec 29 22:48:41 2025] <STEAM_0:1:601998882> Лысый аптекарь: /looc как выбрать?
+[Mon Dec 29 22:48:46 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "goto RCT P. B. Parker"
+[Mon Dec 29 22:48:52 2025] <STEAM_0:0:74235942> Worshiper of God: /rf f2 рч 28.28
+[Mon Dec 29 22:49:07 2025] <STEAM_0:0:74235942> Worshiper of God: /rf там кнопка еще будет вкл частоту которую выбрали
+[Mon Dec 29 22:49:42 2025] <STEAM_0:1:620808428> Soldier Boy: /rf Бойцы
+[Mon Dec 29 22:49:50 2025] <STEAM_0:1:620808428> Soldier Boy: / rf РЧ?
+[Mon Dec 29 22:50:07 2025] <STEAM_0:1:601998882> Лысый аптекарь: /looc типо у меня 999 край
+[Mon Dec 29 22:50:11 2025] <STEAM_0:0:219840273> deceased: /event Город был захвачен бойцами NATO! Русские бойцы все были убиты до единного.
+[Mon Dec 29 22:50:30 2025] <STEAM_0:0:74235942> Worshiper of God: // а мы для вас шутка типо?
+[Mon Dec 29 22:50:41 2025] <STEAM_0:0:219840273> deceased: // это ивент для вас
+[Mon Dec 29 22:50:44 2025] <STEAM_0:0:219840273> deceased: // а не серьезное рп
+[Mon Dec 29 22:50:56 2025] <STEAM_0:0:219840273> deceased: // щас я считаю для вас важнее эмоции, чем хард рп
+[Mon Dec 29 22:51:21 2025] <STEAM_0:0:219840273> deceased spawned SENT "Entity [784][bodyman_closet]"
+[Mon Dec 29 22:51:26 2025] <STEAM_0:0:219840273> deceased spawned SENT "Entity [784][ifak_ammo]"
+[Mon Dec 29 22:51:28 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "send RCT P. B. Parker"
+[Mon Dec 29 22:51:30 2025] <STEAM_0:0:219840273> deceased spawned SENT "Entity [784][bodygroup]"
+[Mon Dec 29 22:51:51 2025] <STEAM_0:1:601998882> Лысый аптекарь: /ooc щас мы вам каку покажем
+[Mon Dec 29 22:52:14 2025] <STEAM_0:0:219840273> deceased ran command "invisible Павлов"
+[Mon Dec 29 22:52:21 2025] <STEAM_0:0:219840273> deceased spawned SENT "Entity [811][lvs_wheeldrive_hummer]"
+[Mon Dec 29 22:53:24 2025] <STEAM_0:1:773566500> saxaroza: /me [7460] [Сахарных К.С.] {СЖТ} [12 Гв.МСП|МВ] [-] (-)
+[Mon Dec 29 22:53:47 2025] <STEAM_0:0:561366370> TANZI: /looc сорян отойти надо
+[Mon Dec 29 22:53:47 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // павлов как тебе моё искуство?
+[Mon Dec 29 22:53:54 2025] <STEAM_0:0:219840273> deceased: // я не видел
+[Mon Dec 29 22:54:01 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // не смотри)
+[Mon Dec 29 22:54:27 2025] deceased has killed Лысый аптекарь.
+[Mon Dec 29 22:54:29 2025] Worshiper of God has killed deceased.
+[Mon Dec 29 22:54:29 2025] deceased has killed deceased.
+[Mon Dec 29 22:54:40 2025] Soldier Boy has killed saxaroza.
+[Mon Dec 29 22:54:41 2025] <STEAM_0:0:219840273> deceased: // вы там каждый по рпг взяли? -_-
+[Mon Dec 29 22:54:46 2025] <STEAM_0:0:219840273> deceased: // это как-то не круто
+[Mon Dec 29 22:54:51 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // это не мы
+[Mon Dec 29 22:54:52 2025] <STEAM_0:0:219840273> deceased ran command "respawn Павлов"
+[Mon Dec 29 22:55:12 2025] <STEAM_0:1:620808428> Soldier Boy: // У меня по специальности
+[Mon Dec 29 22:55:17 2025] deceased has killed Worshiper of God.
+[Mon Dec 29 22:55:24 2025] Лысый аптекарь has killed deceased.
+[Mon Dec 29 22:55:25 2025] deceased has killed deceased.
+[Mon Dec 29 22:55:30 2025] <STEAM_0:0:219840273> deceased ran command "respawn Павлов"
+[Mon Dec 29 22:55:45 2025] <STEAM_0:0:219840273> deceased ran command "invisible Павлов"
+[Mon Dec 29 22:55:54 2025] <STEAM_0:1:620808428> Soldier Boy ran command "ammo 200 @"
+[Mon Dec 29 22:55:55 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "send RCT P. B. Parker"
+[Mon Dec 29 22:55:58 2025] Player "Centaurus" <STEAM_0:1:176906490> is attempting to connect.
+[Mon Dec 29 22:55:58 2025] <STEAM_0:1:620808428> Soldier Boy ran command "ammo @"
+[Mon Dec 29 22:56:01 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "respawn CPT A.E. Evergarden"
+[Mon Dec 29 22:56:15 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "ammo CPT A.E. Evergarden"
+[Mon Dec 29 22:56:26 2025] <STEAM_0:0:219840273> deceased spawned SENT "Entity [818][sw_bomb_kab500lg_v3]"
+[Mon Dec 29 22:56:27 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "npctarget RCT P. B. Parker"
+[Mon Dec 29 22:56:34 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "goto RCT P. B. Parker"
+[Mon Dec 29 22:56:38 2025] <STEAM_0:0:219840273> deceased ran command "invisible Павлов"
+[Mon Dec 29 22:56:40 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "npctarget RCT P. B. Parker"
+[Mon Dec 29 22:56:51 2025] Soldier Boy has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Mon Dec 29 22:56:52 2025] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Mon Dec 29 22:56:53 2025] Soldier Boy has killed saxaroza.
+[Mon Dec 29 22:57:22 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: !respavn
+[Mon Dec 29 22:57:42 2025] deceased has killed Worshiper of God.
+[Mon Dec 29 22:57:45 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "respawn CPT A.E. Evergarden"
+[Mon Dec 29 22:58:05 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "ammo CPT A.E. Evergarden"
+[Mon Dec 29 22:58:32 2025] <STEAM_0:0:219840273> deceased: /event [NATO] [Объявление] Сдавайтесь жалки русски, вы окруженны бойцами США
+[Mon Dec 29 22:58:34 2025] deceased has killed Worshiper of God.
+[Mon Dec 29 22:58:35 2025] Worshiper of God has killed Worshiper of God.
+[Mon Dec 29 22:58:46 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "send RCT P. B. Parker"
+[Mon Dec 29 22:58:55 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "ammo RCT P. B. Parker"
+[Mon Dec 29 22:59:16 2025] Soldier Boy has killed deceased.
+[Mon Dec 29 22:59:17 2025] deceased has killed deceased.
+[Mon Dec 29 22:59:24 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "send RCT P. B. Parker"
+[Mon Dec 29 22:59:24 2025] Player "Centaurus" <STEAM_0:1:176906490> has spawned in the server
+[Mon Dec 29 22:59:25 2025] <STEAM_0:0:219840273> deceased ran command "respawn Павлов"
+[Mon Dec 29 22:59:38 2025] <STEAM_0:1:620808428> Soldier Boy ran command "respawn Жнецов"
+[Mon Dec 29 22:59:44 2025] saxaroza has killed Soldier Boy.
+[Mon Dec 29 22:59:45 2025] Soldier Boy has killed Soldier Boy.
+[Mon Dec 29 22:59:48 2025] <STEAM_0:0:219840273> deceased spawned SENT "Entity [699][lvs_wheeldrive_hummer_m134]"
+[Mon Dec 29 22:59:49 2025] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Лысый аптекарь.
+[Mon Dec 29 23:00:08 2025] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed deceased.
+[Mon Dec 29 23:00:12 2025] <STEAM_0:0:219840273> deceased ran command "respawn Павлов"
+[Mon Dec 29 23:00:36 2025] <STEAM_0:0:219840273> deceased: // форест
+[Mon Dec 29 23:00:42 2025] <STEAM_0:0:219840273> deceased: // бойцов рф можешь обратно тепать
+[Mon Dec 29 23:00:49 2025] <STEAM_0:1:620808428> Soldier Boy: // Принял
+[Mon Dec 29 23:01:24 2025] <STEAM_0:0:219840273> deceased ran command "invisible Павлов"
+[Mon Dec 29 23:01:56 2025] <STEAM_0:0:219840273> deceased spawned SENT "Entity [940][sw_bomb_kab500lg_v3]"
+[Mon Dec 29 23:01:57 2025] <STEAM_0:0:219840273> deceased spawned SENT "Entity [941][sw_bomb_kab500lg_v3]"
+[Mon Dec 29 23:01:59 2025] <STEAM_0:0:219840273> deceased spawned SENT "Entity [940][sw_bomb_kab500lg_v3]"
+[Mon Dec 29 23:02:01 2025] <STEAM_0:0:219840273> deceased spawned SENT "Entity [941][sw_bomb_kab500lg_v3]"
+[Mon Dec 29 23:02:03 2025] <STEAM_0:0:219840273> deceased spawned SENT "Entity [940][sw_bomb_kab500lg_v3]"
+[Mon Dec 29 23:02:14 2025] <STEAM_0:1:620808428> Soldier Boy ran command "send Баранов"
+[Mon Dec 29 23:02:23 2025] <STEAM_0:0:219840273> deceased spawned SENT "Entity [942][sw_bomb_kab1500kr_v3]"
+[Mon Dec 29 23:02:24 2025] <STEAM_0:0:219840273> deceased spawned SENT "Entity [943][sw_bomb_kab1500kr_v3]"
+[Mon Dec 29 23:02:26 2025] <STEAM_0:1:620808428> Soldier Boy ran command "send Жнецов"
+[Mon Dec 29 23:02:26 2025] <STEAM_0:0:219840273> deceased spawned SENT "Entity [942][sw_bomb_kab1500kr_v3]"
+[Mon Dec 29 23:02:36 2025] <STEAM_0:0:219840273> deceased spawned SENT "Entity [946][sw_bomb_kab1500kr_v3]"
+[Mon Dec 29 23:02:43 2025] <STEAM_0:0:219840273> deceased spawned SENT "Entity [593][sw_rocket_m31_v3]"
+[Mon Dec 29 23:02:48 2025] <STEAM_0:0:219840273> deceased spawned SENT "Entity [593][sw_rocket_m31_v3]"
+[Mon Dec 29 23:02:51 2025] <STEAM_0:0:219840273> deceased spawned SENT "Entity [595][sw_rocket_m31_v3]"
+[Mon Dec 29 23:02:53 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [593][ladder_small2]"
+[Mon Dec 29 23:02:57 2025] <STEAM_0:0:219840273> deceased spawned SENT "Entity [593][sw_rocket_m31_v3]"
+[Mon Dec 29 23:03:04 2025] <STEAM_0:0:219840273> deceased spawned SENT "Entity [593][sw_bomb_ofab250_v3]"
+[Mon Dec 29 23:03:06 2025] <STEAM_0:0:219840273> deceased spawned SENT "Entity [595][sw_bomb_ofab250_v3]"
+[Mon Dec 29 23:03:09 2025] <STEAM_0:0:219840273> deceased spawned SENT "Entity [593][sw_bomb_ofab250_v3]"
+[Mon Dec 29 23:03:11 2025] <STEAM_0:0:219840273> deceased spawned SENT "Entity [595][sw_bomb_ofab250_v3]"
+[Mon Dec 29 23:03:11 2025] <STEAM_0:0:219840273> deceased spawned SENT "Entity [597][sw_bomb_ofab250_v3]"
+[Mon Dec 29 23:03:13 2025] <STEAM_0:0:219840273> deceased spawned SENT "Entity [593][sw_bomb_ofab100_v3]"
+[Mon Dec 29 23:03:14 2025] <STEAM_0:0:219840273> deceased spawned SENT "Entity [595][sw_bomb_ofab100_v3]"
+[Mon Dec 29 23:03:15 2025] <STEAM_0:0:219840273> deceased spawned SENT "Entity [597][sw_bomb_ofab100_v3]"
+[Mon Dec 29 23:03:19 2025] <STEAM_0:0:219840273> deceased spawned SENT "Entity [595][sw_bomb_ofab100_v3]"
+[Mon Dec 29 23:03:20 2025] <STEAM_0:0:219840273> deceased spawned SENT "Entity [597][sw_bomb_ofab100_v3]"
+[Mon Dec 29 23:03:22 2025] deceased has killed Soldier Boy.
+[Mon Dec 29 23:03:27 2025] <STEAM_0:0:219840273> deceased spawned SENT "Entity [595][sw_bomb_ofab100_v3]"
+[Mon Dec 29 23:03:38 2025] <STEAM_0:1:620808428> Soldier Boy ran command "respawn Дубровин"
+[Mon Dec 29 23:03:41 2025] <STEAM_0:0:219840273> deceased spawned SENT "Entity [686][sw_bomb_brab1000m43_v3]"
+[Mon Dec 29 23:03:44 2025] <STEAM_0:0:219840273> deceased spawned SENT "Entity [686][sw_bomb_brab1000m43_v3]"
+[Mon Dec 29 23:03:48 2025] <STEAM_0:0:219840273> deceased spawned SENT "Entity [686][sw_bomb_brab1000m43_v3]"
+[Mon Dec 29 23:03:49 2025] deceased has killed Soldier Boy.
+[Mon Dec 29 23:03:53 2025] <STEAM_0:1:620808428> Soldier Boy ran command "respawn Дубровин"
+[Mon Dec 29 23:03:59 2025] <STEAM_0:0:219840273> deceased spawned npc "NPC [946][npc_barney]"
+[Mon Dec 29 23:04:06 2025] <STEAM_0:0:219840273> deceased spawned SENT "Entity [946][lvs_wheeldrive_hummer_tow]"
+[Mon Dec 29 23:04:09 2025] <STEAM_0:0:219840273> deceased spawned SENT "Entity [946][lvs_wheeldrive_hummer_m134]"
+[Mon Dec 29 23:04:16 2025] Лысый аптекарь has killed saxaroza.
+[Mon Dec 29 23:04:27 2025] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Soldier Boy.
+[Mon Dec 29 23:04:27 2025] <STEAM_0:0:219840273> deceased: /me показал военный билет: [1422] [Далиев В.А] {РЯД} [102-й гв.МСП] [МОБИЛ] (-) | |
+[Mon Dec 29 23:04:28 2025] Soldier Boy has killed Soldier Boy.
+[Mon Dec 29 23:04:30 2025] <STEAM_0:1:620808428> Soldier Boy ran command "respawn Дубровин"
+[Mon Dec 29 23:04:40 2025] Worshiper of God has killed deceased.
+[Mon Dec 29 23:04:46 2025] <STEAM_0:0:219840273> deceased ran command "respawn Павлов"
+[Mon Dec 29 23:04:57 2025] Centaurus has killed Worshiper of God.
+[Mon Dec 29 23:04:59 2025] Worshiper of God has killed Worshiper of God.
+[Mon Dec 29 23:04:59 2025] Centaurus has killed Лысый аптекарь.
+[Mon Dec 29 23:05:01 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "send RCT P. B. Parker"
+[Mon Dec 29 23:05:07 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "respawn RCT P. B. Parker"
+[Mon Dec 29 23:05:21 2025] <STEAM_0:0:219840273> deceased spawned SENT "Entity [640][lvs_wheeldrive_dabrams_m1a1]"
+[Mon Dec 29 23:05:32 2025] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Soldier Boy.
+[Mon Dec 29 23:05:33 2025] Soldier Boy has killed Soldier Boy.
+[Mon Dec 29 23:05:40 2025] deceased has killed TANZI.
+[Mon Dec 29 23:05:44 2025] <STEAM_0:1:620808428> Soldier Boy ran command "respawn Дубровин"
+[Mon Dec 29 23:05:52 2025] <STEAM_0:1:620808428> Soldier Boy ran command "respawn Жнецов"
+[Mon Dec 29 23:05:54 2025] Centaurus has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Mon Dec 29 23:05:55 2025] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Mon Dec 29 23:06:09 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // жнец хули ты прозрачный
+[Mon Dec 29 23:06:25 2025] <STEAM_0:1:620808428> Soldier Boy ran command "ammo Дубровин"
+[Mon Dec 29 23:06:37 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "ammo RCT P. B. Parker"
+[Mon Dec 29 23:06:38 2025] <STEAM_0:1:620808428> Soldier Boy ran command "send Жнецов"
+[Mon Dec 29 23:06:40 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "ammo CPT A.E. Evergarden"
+[Mon Dec 29 23:06:50 2025] Centaurus has killed Лысый аптекарь.
+[Mon Dec 29 23:06:51 2025] Лысый аптекарь has killed Лысый аптекарь.
+[Mon Dec 29 23:07:01 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "send RCT P. B. Parker"
+[Mon Dec 29 23:07:05 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [790][lvs_wheeldrive_hummer_tow]"
+[Mon Dec 29 23:07:07 2025] Worshiper of God has killed deceased.
+[Mon Dec 29 23:07:08 2025] deceased has killed deceased.
+[Mon Dec 29 23:07:12 2025] <STEAM_0:0:219840273> deceased ran command "respawn Павлов"
+[Mon Dec 29 23:07:27 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [714][lvs_wheeldrive_m3a3]"
+[Mon Dec 29 23:07:34 2025] Worshiper of God has killed Лысый аптекарь.
+[Mon Dec 29 23:07:35 2025] Лысый аптекарь has killed Лысый аптекарь.
+[Mon Dec 29 23:08:11 2025] Worshiper of God has killed Centaurus.
+[Mon Dec 29 23:08:12 2025] Centaurus has killed Centaurus.
+[Mon Dec 29 23:08:19 2025] deceased has killed Лысый аптекарь.
+[Mon Dec 29 23:08:21 2025] Soldier Boy has killed deceased.
+[Mon Dec 29 23:08:21 2025] deceased has killed deceased.
+[Mon Dec 29 23:08:29 2025] <STEAM_0:0:219840273> deceased ran command "respawn Павлов"
+[Mon Dec 29 23:08:41 2025] <STEAM_0:1:620808428> Soldier Boy ran command "respawn Баранов"
+[Mon Dec 29 23:08:49 2025] <STEAM_0:0:219840273> deceased spawned SENT "Entity [632][lvs_wheeldrive_dabrams_m1a1]"
+[Mon Dec 29 23:08:56 2025] Worshiper of God has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Mon Dec 29 23:09:13 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "menu"
+[Mon Dec 29 23:09:23 2025] Soldier Boy has killed deceased.
+[Mon Dec 29 23:09:26 2025] saxaroza has killed Worshiper of God.
+[Mon Dec 29 23:09:29 2025] <STEAM_0:0:219840273> deceased ran command "respawn Павлов"
+[Mon Dec 29 23:09:37 2025] saxaroza has killed Soldier Boy.
+[Mon Dec 29 23:09:43 2025] <STEAM_0:1:620808428> Soldier Boy ran command "respawn Дубровин"
+[Mon Dec 29 23:09:49 2025] <STEAM_0:0:219840273> deceased spawned SENT "Entity [722][sw_bomb_kab1500l_v3]"
+[Mon Dec 29 23:09:51 2025] <STEAM_0:0:219840273> deceased spawned SENT "Entity [632][sw_bomb_kab1500l_v3]"
+[Mon Dec 29 23:09:52 2025] <STEAM_0:1:620808428> Soldier Boy ran command "ammo Дубровин"
+[Mon Dec 29 23:09:53 2025] <STEAM_0:0:219840273> deceased spawned SENT "Entity [722][sw_bomb_kab1500l_v3]"
+[Mon Dec 29 23:09:58 2025] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Centaurus.
+[Mon Dec 29 23:10:14 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "ammo RCT S.S Kyzmin"
+[Mon Dec 29 23:10:17 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "ammo CPT A.E. Evergarden"
+[Mon Dec 29 23:10:29 2025] <STEAM_0:1:620808428> Soldier Boy ran command "send Баранов"
+[Mon Dec 29 23:10:32 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "send RCT S.S Kyzmin"
+[Mon Dec 29 23:10:35 2025] <STEAM_0:1:620808428> Soldier Boy ran command "send Жнецов"
+[Mon Dec 29 23:10:57 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [816][sw_bmp3m]"
+[Mon Dec 29 23:11:07 2025] Soldier Boy has killed saxaroza.
+[Mon Dec 29 23:11:14 2025] deceased has killed Лысый аптекарь.
+[Mon Dec 29 23:11:15 2025] Лысый аптекарь has killed Лысый аптекарь.
+[Mon Dec 29 23:11:41 2025] Player "TANZI" <STEAM_0:0:561366370> has left the server
+[Mon Dec 29 23:11:48 2025] Soldier Boy has killed deceased.
+[Mon Dec 29 23:11:49 2025] deceased has killed deceased.
+[Mon Dec 29 23:11:54 2025] <STEAM_0:0:219840273> deceased ran command "respawn Павлов"
+[Mon Dec 29 23:12:12 2025] <STEAM_0:1:620808428> Soldier Boy ran command "ammo @"
+[Mon Dec 29 23:12:26 2025] Worshiper of God has killed deceased.
+[Mon Dec 29 23:12:26 2025] deceased has killed deceased.
+[Mon Dec 29 23:12:30 2025] <STEAM_0:0:219840273> deceased ran command "respawn Павлов"
+[Mon Dec 29 23:12:38 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "send RCT P. B. Parker"
+[Mon Dec 29 23:12:44 2025] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed saxaroza.
+[Mon Dec 29 23:12:45 2025] saxaroza has killed saxaroza.
+[Mon Dec 29 23:12:56 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "send RCT P. B. Parker"
+[Mon Dec 29 23:13:00 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "ammo RCT P. B. Parker"
+[Mon Dec 29 23:13:14 2025] deceased has killed Soldier Boy.
+[Mon Dec 29 23:13:23 2025] Worshiper of God has killed deceased.
+[Mon Dec 29 23:13:24 2025] deceased has killed deceased.
+[Mon Dec 29 23:13:27 2025] <STEAM_0:0:219840273> deceased ran command "respawn Павлов"
+[Mon Dec 29 23:13:39 2025] Worshiper of God has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Mon Dec 29 23:13:39 2025] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Mon Dec 29 23:13:54 2025] deceased has killed Лысый аптекарь.
+[Mon Dec 29 23:14:08 2025] deceased has killed Soldier Boy.
+[Mon Dec 29 23:14:09 2025] Soldier Boy has killed Soldier Boy.
+[Mon Dec 29 23:14:12 2025] Worshiper of God has killed deceased.
+[Mon Dec 29 23:14:13 2025] deceased has killed deceased.
+[Mon Dec 29 23:14:13 2025] <STEAM_0:1:620808428> Soldier Boy ran command "ammo @"
+[Mon Dec 29 23:14:18 2025] <STEAM_0:0:219840273> deceased ran command "respawn Павлов"
+[Mon Dec 29 23:14:25 2025] <STEAM_0:1:620808428> Soldier Boy ran command "respawn Дубровин"
+[Mon Dec 29 23:14:40 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "ammo CPT A.E. Evergarden"
+[Mon Dec 29 23:14:52 2025] Worshiper of God has killed deceased.
+[Mon Dec 29 23:14:53 2025] deceased has killed deceased.
+[Mon Dec 29 23:14:58 2025] <STEAM_0:0:219840273> deceased: // легендарно
+[Mon Dec 29 23:15:01 2025] <STEAM_0:0:219840273> deceased ran command "respawn Павлов"
+[Mon Dec 29 23:15:03 2025] <STEAM_0:1:620808428> Soldier Boy ran command "ammo Дубровин"
+[Mon Dec 29 23:15:08 2025] <STEAM_0:0:219840273> deceased spawned SENT "Entity [558][lfs_grdn_mi28nm]"
+[Mon Dec 29 23:15:10 2025] <STEAM_0:0:219840273> deceased spawned SENT "Entity [818][lfs_grdn_mi28nm]"
+[Mon Dec 29 23:15:11 2025] <STEAM_0:0:219840273> deceased spawned SENT "Entity [558][lfs_grdn_ec665uht]"
+[Mon Dec 29 23:15:12 2025] <STEAM_0:0:219840273> deceased spawned SENT "Entity [818][lfs_grdn_md500tow]"
+[Mon Dec 29 23:15:13 2025] <STEAM_0:0:219840273> deceased spawned SENT "Entity [558][lfs_grdn_mi24d]"
+[Mon Dec 29 23:15:17 2025] <STEAM_0:0:219840273> deceased spawned SENT "Entity [558][lfs_grdn_mi24d]"
+[Mon Dec 29 23:15:18 2025] <STEAM_0:0:219840273> deceased spawned SENT "Entity [640][lfs_grdn_mi28nm]"
+[Mon Dec 29 23:15:19 2025] <STEAM_0:0:219840273> deceased spawned SENT "Entity [558][lfs_grdn_sa316b]"
+[Mon Dec 29 23:15:20 2025] <STEAM_0:0:219840273> deceased spawned SENT "Entity [820][lfs_grdn_uh1c_xm30]"
+[Mon Dec 29 23:15:20 2025] <STEAM_0:0:219840273> deceased spawned SENT "Entity [558][lfs_uh60]"
+[Mon Dec 29 23:15:22 2025] <STEAM_0:1:620808428> Soldier Boy ran command "send Баранов"
+[Mon Dec 29 23:15:22 2025] <STEAM_0:0:219840273> deceased spawned SENT "Entity [558][lfs_grdn_ka50]"
+[Mon Dec 29 23:15:23 2025] <STEAM_0:0:219840273> deceased spawned SENT "Entity [640][lfs_grdn_hkp9a]"
+[Mon Dec 29 23:15:23 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: /nato рация 234
+[Mon Dec 29 23:15:24 2025] <STEAM_0:0:219840273> deceased spawned SENT "Entity [558][lfs_grdn_bo105pah1]"
+[Mon Dec 29 23:15:25 2025] <STEAM_0:0:219840273> deceased spawned SENT "Entity [640][lfs_grdn_ah64d]"
+[Mon Dec 29 23:15:25 2025] <STEAM_0:0:219840273> deceased spawned SENT "Entity [558][lfs_grdn_ah1z]"
+[Mon Dec 29 23:15:37 2025] <STEAM_0:0:219840273> deceased spawned SENT "Entity [558][sw_bomb_odab500_v3]"
+[Mon Dec 29 23:15:37 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [640][lvs_wheeldrive_hummer_tow]"
+[Mon Dec 29 23:15:44 2025] <STEAM_0:0:219840273> deceased spawned SENT "Entity [558][sw_rocket_pg26_v3]"
+[Mon Dec 29 23:15:51 2025] Лысый аптекарь has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Mon Dec 29 23:16:00 2025] Soldier Boy has killed saxaroza.
+[Mon Dec 29 23:16:01 2025] saxaroza has killed saxaroza.
+[Mon Dec 29 23:16:12 2025] <STEAM_0:0:219840273> deceased spawned SENT "Entity [514][sw_mine_ozm72_v3]"
+[Mon Dec 29 23:16:16 2025] deceased has killed Soldier Boy.
+[Mon Dec 29 23:16:22 2025] <STEAM_0:0:219840273> deceased spawned SENT "Entity [494][sw_mine_pfm1_v3]"
+[Mon Dec 29 23:16:27 2025] deceased has killed Worshiper of God.
+[Mon Dec 29 23:16:38 2025] deceased has killed Soldier Boy.
+[Mon Dec 29 23:16:38 2025] Лысый аптекарь has killed deceased.
+[Mon Dec 29 23:16:39 2025] Soldier Boy has killed Soldier Boy.
+[Mon Dec 29 23:16:48 2025] <STEAM_0:0:219840273> deceased: // был эпичный подрыв
+[Mon Dec 29 23:16:51 2025] <STEAM_0:0:219840273> deceased: // ")
+[Mon Dec 29 23:16:53 2025] <STEAM_0:0:74235942> Worshiper of God: // 1-1
+[Mon Dec 29 23:16:58 2025] <STEAM_0:0:74235942> Worshiper of God: // )
+[Mon Dec 29 23:16:58 2025] <STEAM_0:0:219840273> deceased: // про мины не забывайте
+[Mon Dec 29 23:17:05 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "ammo CPT A.E. Evergarden"
+[Mon Dec 29 23:17:05 2025] <STEAM_0:0:219840273> deceased: // там липесток есть и тм
+[Mon Dec 29 23:17:13 2025] <STEAM_0:0:219840273> deceased: // Я НИХКЯ НЕ ВИЖУ
+[Mon Dec 29 23:17:17 2025] <STEAM_0:1:620808428> Soldier Boy: /me изъял средства связи
+[Mon Dec 29 23:17:19 2025] <STEAM_0:1:620808428> Soldier Boy: /me изъял оружие
+[Mon Dec 29 23:17:29 2025] <STEAM_0:0:219840273> deceased: // У меня экран в сперме
+[Mon Dec 29 23:17:31 2025] <STEAM_0:0:219840273> deceased: // весь серый
+[Mon Dec 29 23:17:35 2025] <STEAM_0:1:620808428> Soldier Boy: // НАТО, у нас ваш человек!
+[Mon Dec 29 23:17:51 2025] <STEAM_0:1:620808428> Soldier Boy ran command "spectate Жнецов"
+[Mon Dec 29 23:18:05 2025] <STEAM_0:1:620808428> Soldier Boy ran command "send Жнецов"
+[Mon Dec 29 23:18:12 2025] Лысый аптекарь has killed Centaurus.
+[Mon Dec 29 23:18:13 2025] Centaurus has killed Centaurus.
+[Mon Dec 29 23:18:25 2025] <STEAM_0:0:219840273> deceased: fuck you
+[Mon Dec 29 23:18:27 2025] worldspawn has killed deceased.
+[Mon Dec 29 23:18:28 2025] <STEAM_0:1:176906490> Centaurus: // Меня Жнецов вьебал, пропишите рпк ему нахуй
+[Mon Dec 29 23:18:46 2025] <STEAM_0:0:219840273> deceased: fuck
+[Mon Dec 29 23:18:47 2025] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Centaurus.
+[Mon Dec 29 23:18:48 2025] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Лысый аптекарь.
+[Mon Dec 29 23:18:48 2025] Лысый аптекарь has killed Лысый аптекарь.
+[Mon Dec 29 23:19:03 2025] <STEAM_0:1:601998882> Лысый аптекарь: /ooc вы меня вьебали блять
+[Mon Dec 29 23:19:05 2025] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Soldier Boy.
+[Mon Dec 29 23:19:05 2025] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed deceased.
+[Mon Dec 29 23:19:06 2025] Soldier Boy has killed Soldier Boy.
+[Mon Dec 29 23:19:11 2025] <STEAM_0:1:176906490> Centaurus: // еать красиво
+[Mon Dec 29 23:19:14 2025] <STEAM_0:0:219840273> deceased: // френдли фаер уже XD
+[Mon Dec 29 23:19:16 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // хехе
+[Mon Dec 29 23:19:19 2025] <STEAM_0:0:219840273> deceased ran command "respawn Павлов"
+[Mon Dec 29 23:19:21 2025] <STEAM_0:1:620808428> Soldier Boy: // хаха
+[Mon Dec 29 23:19:34 2025] <STEAM_0:1:601998882> Лысый аптекарь: /ooc кузьмин играй за нато уже
+[Mon Dec 29 23:19:34 2025] <STEAM_0:1:620808428> Soldier Boy ran command "respawn Дубровин"
+[Mon Dec 29 23:19:40 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "send RCT P. B. Parker"
+[Mon Dec 29 23:19:40 2025] <STEAM_0:1:601998882> Лысый аптекарь: /ooc в время ивета хотяб
+[Mon Dec 29 23:19:44 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "ammo RCT P. B. Parker"
+[Mon Dec 29 23:19:46 2025] <STEAM_0:1:620808428> Soldier Boy: // Да вообще
+[Mon Dec 29 23:19:49 2025] <STEAM_0:1:176906490> Centaurus: // кто-бы перекинул
+[Mon Dec 29 23:19:51 2025] Worshiper of God has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Mon Dec 29 23:19:52 2025] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Mon Dec 29 23:19:57 2025] <STEAM_0:1:620808428> Soldier Boy: // А ты за РФ хочешь?
+[Mon Dec 29 23:20:04 2025] <STEAM_0:0:219840273> deceased spawned SENT "Entity [511][lvs_wheeldrive_nonrp_t90m]"
+[Mon Dec 29 23:20:07 2025] <STEAM_0:1:176906490> Centaurus: // а хуле нет?
+[Mon Dec 29 23:20:09 2025] <STEAM_0:0:219840273> deceased spawned SENT "Entity [511][lvs_wheeldrive_nonrp_t90m]"
+[Mon Dec 29 23:20:09 2025] <STEAM_0:1:620808428> Soldier Boy: // Жалобу примите
+[Mon Dec 29 23:20:15 2025] <STEAM_0:0:219840273> deceased used tool "colour"
+[Mon Dec 29 23:20:15 2025] <STEAM_0:0:219840273> deceased used tool "colour"
+[Mon Dec 29 23:20:16 2025] <STEAM_0:0:219840273> deceased used tool "colour"
+[Mon Dec 29 23:20:16 2025] <STEAM_0:0:219840273> deceased used tool "colour"
+[Mon Dec 29 23:20:16 2025] <STEAM_0:0:219840273> deceased used tool "colour"
+[Mon Dec 29 23:20:16 2025] <STEAM_0:0:219840273> deceased used tool "colour"
+[Mon Dec 29 23:20:16 2025] <STEAM_0:0:219840273> deceased used tool "colour"
+[Mon Dec 29 23:20:16 2025] <STEAM_0:0:219840273> deceased used tool "colour"
+[Mon Dec 29 23:20:17 2025] <STEAM_0:0:219840273> deceased used tool "colour"
+[Mon Dec 29 23:20:20 2025] <STEAM_0:0:219840273> deceased used tool "lamp"
+[Mon Dec 29 23:20:20 2025] <STEAM_0:0:219840273> deceased used tool "lamp"
+[Mon Dec 29 23:20:21 2025] <STEAM_0:1:620808428> Soldier Boy ran command "a Кузьмин за РФ хочет"
+[Mon Dec 29 23:20:21 2025] <STEAM_0:0:219840273> deceased used tool "lamp"
+[Mon Dec 29 23:20:21 2025] <STEAM_0:0:219840273> deceased used tool "lamp"
+[Mon Dec 29 23:20:22 2025] <STEAM_0:0:219840273> deceased used tool "lamp"
+[Mon Dec 29 23:20:29 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "a пусть идёт мы что"
+[Mon Dec 29 23:20:37 2025] <STEAM_0:1:620808428> Soldier Boy ran command "ammo Дубровин"
+[Mon Dec 29 23:20:50 2025] <STEAM_0:1:620808428> Soldier Boy ran command "send Баранов"
+[Mon Dec 29 23:20:50 2025] saxaroza has killed Worshiper of God.
+[Mon Dec 29 23:20:51 2025] Worshiper of God has killed saxaroza.
+[Mon Dec 29 23:20:52 2025] saxaroza has killed saxaroza.
+[Mon Dec 29 23:21:07 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "ammo CPT A.E. Evergarden"
+[Mon Dec 29 23:21:33 2025] <STEAM_0:1:620808428> Soldier Boy ran command "ammo Дубровин"
+[Mon Dec 29 23:21:43 2025] Лысый аптекарь has killed deceased.
+[Mon Dec 29 23:21:49 2025] <STEAM_0:0:219840273> deceased ran command "respawn Павлов"
+[Mon Dec 29 23:21:55 2025] Лысый аптекарь has killed Centaurus.
+[Mon Dec 29 23:21:56 2025] Centaurus has killed Centaurus.
+[Mon Dec 29 23:22:07 2025] <STEAM_0:1:176906490> Centaurus: // Да я ебал с мпшкой хуряить калаш
+[Mon Dec 29 23:22:31 2025] deceased has killed Soldier Boy.
+[Mon Dec 29 23:22:31 2025] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed deceased.
+[Mon Dec 29 23:22:38 2025] <STEAM_0:0:219840273> deceased: // сука
+[Mon Dec 29 23:22:42 2025] <STEAM_0:0:219840273> deceased: // вы точно из нато?
+[Mon Dec 29 23:22:47 2025] <STEAM_0:0:219840273> deceased: // вы меня раз пятый ебашите
+[Mon Dec 29 23:22:49 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // lf f xnj
+[Mon Dec 29 23:22:50 2025] <STEAM_0:0:219840273> deceased ran command "respawn Павлов"
+[Mon Dec 29 23:22:56 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "send RCT P. B. Parker"
+[Mon Dec 29 23:23:03 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "ammo RCT P. B. Parker"
+[Mon Dec 29 23:23:04 2025] <STEAM_0:1:620808428> Soldier Boy ran command "send Жнецов"
+[Mon Dec 29 23:23:05 2025] <STEAM_0:0:219840273> deceased: я хз как выдвать
+[Mon Dec 29 23:23:06 2025] <STEAM_0:0:219840273> deceased: не могу
+[Mon Dec 29 23:23:09 2025] <STEAM_0:0:219840273> deceased used tool "creator"
+[Mon Dec 29 23:23:10 2025] <STEAM_0:0:219840273> deceased used tool "creator"
+[Mon Dec 29 23:23:10 2025] <STEAM_0:0:219840273> deceased used tool "creator"
+[Mon Dec 29 23:23:38 2025] <STEAM_0:1:620808428> Soldier Boy: // Перекиньте Кузьмина за РФ
+[Mon Dec 29 23:23:39 2025] deceased has killed Centaurus.
+[Mon Dec 29 23:23:39 2025] Centaurus has killed Centaurus.
+[Mon Dec 29 23:23:41 2025] <STEAM_0:1:620808428> Soldier Boy: // Он хочет
+[Mon Dec 29 23:23:50 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // так пусть идёт
+[Mon Dec 29 23:23:51 2025] <STEAM_0:0:219840273> deceased ran command "respawn kuz"
+[Mon Dec 29 23:23:56 2025] <STEAM_0:1:620808428> Soldier Boy: // Как?
+[Mon Dec 29 23:24:06 2025] <STEAM_0:0:219840273> deceased: // бля
+[Mon Dec 29 23:24:12 2025] <STEAM_0:0:219840273> deceased: //  я ему ник не могу поменять
+[Mon Dec 29 23:24:42 2025] <STEAM_0:1:620808428> Soldier Boy ran command "ammo Дубровин"
+[Mon Dec 29 23:24:51 2025] Лысый аптекарь has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Mon Dec 29 23:24:52 2025] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Mon Dec 29 23:24:58 2025] Worshiper of God has killed deceased.
+[Mon Dec 29 23:24:59 2025] deceased has killed deceased.
+[Mon Dec 29 23:25:01 2025] <STEAM_0:0:219840273> deceased ran command "respawn Павлов"
+[Mon Dec 29 23:25:18 2025] <STEAM_0:1:601998882> Лысый аптекарь: /ooc вы хули на крышах забыли?
+[Mon Dec 29 23:25:30 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // магия\
+[Mon Dec 29 23:25:46 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "goto RCT P. B. Parker"
+[Mon Dec 29 23:25:49 2025] Soldier Boy has killed deceased.
+[Mon Dec 29 23:25:53 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "send RCT P. B. Parker"
+[Mon Dec 29 23:25:54 2025] <STEAM_0:0:219840273> deceased ran command "respawn Павлов"
+[Mon Dec 29 23:25:59 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "ammo CPT A.E. Evergarden"
+[Mon Dec 29 23:26:23 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "ladder"
+[Mon Dec 29 23:26:23 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "ladder"
+[Mon Dec 29 23:26:24 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "ladder"
+[Mon Dec 29 23:26:24 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "ladder"
+[Mon Dec 29 23:26:25 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "ladder"
+[Mon Dec 29 23:26:25 2025] deceased has killed Soldier Boy.
+[Mon Dec 29 23:26:26 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "ladder"
+[Mon Dec 29 23:26:26 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "ladder"
+[Mon Dec 29 23:26:27 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "ladder"
+[Mon Dec 29 23:26:27 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "ladder"
+[Mon Dec 29 23:26:27 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "ladder"
+[Mon Dec 29 23:26:27 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "ladder"
+[Mon Dec 29 23:26:28 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "ladder"
+[Mon Dec 29 23:26:28 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "ladder"
+[Mon Dec 29 23:26:28 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "ladder"
+[Mon Dec 29 23:26:28 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "ladder"
+[Mon Dec 29 23:26:30 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "ladder"
+[Mon Dec 29 23:26:31 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "ladder"
+[Mon Dec 29 23:26:31 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "ladder"
+[Mon Dec 29 23:26:31 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "ladder"
+[Mon Dec 29 23:26:33 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "ladder"
+[Mon Dec 29 23:26:37 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "ladder"
+[Mon Dec 29 23:26:37 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "ladder"
+[Mon Dec 29 23:26:38 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "ladder"
+[Mon Dec 29 23:26:45 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "ladder"
+[Mon Dec 29 23:26:45 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "ladder"
+[Mon Dec 29 23:26:45 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "ladder"
+[Mon Dec 29 23:26:46 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "ladder"
+[Mon Dec 29 23:26:47 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "ladder"
+[Mon Dec 29 23:26:47 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "ladder"
+[Mon Dec 29 23:26:49 2025] deceased has killed Лысый аптекарь.
+[Mon Dec 29 23:26:50 2025] Лысый аптекарь has killed Лысый аптекарь.
+[Mon Dec 29 23:26:52 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "ladder"
+[Mon Dec 29 23:26:52 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "ladder"
+[Mon Dec 29 23:26:52 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "ladder"
+[Mon Dec 29 23:26:53 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "ladder"
+[Mon Dec 29 23:26:53 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "ladder"
+[Mon Dec 29 23:26:53 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "ladder"
+[Mon Dec 29 23:26:53 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "ladder"
+[Mon Dec 29 23:26:53 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "ladder"
+[Mon Dec 29 23:26:54 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "ladder"
+[Mon Dec 29 23:26:54 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "ladder"
+[Mon Dec 29 23:26:54 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "ladder"
+[Mon Dec 29 23:26:54 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "ladder"
+[Mon Dec 29 23:26:55 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "ladder"
+[Mon Dec 29 23:26:55 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "ladder"
+[Mon Dec 29 23:26:55 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "ladder"
+[Mon Dec 29 23:26:58 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "witchergate"
+[Mon Dec 29 23:26:59 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "witchergate"
+[Mon Dec 29 23:26:59 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "witchergate"
+[Mon Dec 29 23:27:00 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "witchergate"
+[Mon Dec 29 23:27:00 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "witchergate"
+[Mon Dec 29 23:27:00 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "witchergate"
+[Mon Dec 29 23:27:00 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "witchergate"
+[Mon Dec 29 23:27:01 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "witchergate"
+[Mon Dec 29 23:27:01 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "witchergate"
+[Mon Dec 29 23:27:02 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "witchergate"
+[Mon Dec 29 23:27:02 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "witchergate"
+[Mon Dec 29 23:27:02 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "witchergate"
+[Mon Dec 29 23:27:04 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "witchergate"
+[Mon Dec 29 23:27:04 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "witchergate"
+[Mon Dec 29 23:27:04 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "witchergate"
+[Mon Dec 29 23:27:09 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "ledscreen"
+[Mon Dec 29 23:27:09 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "ledscreen"
+[Mon Dec 29 23:27:09 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "ledscreen"
+[Mon Dec 29 23:27:09 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "ledscreen"
+[Mon Dec 29 23:27:10 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ used tool "ledscreen"
+[Mon Dec 29 23:27:23 2025] <STEAM_0:1:620808428> Soldier Boy ran command "ammo Дубровин"
+[Mon Dec 29 23:27:43 2025] deceased has killed Лысый аптекарь.
+[Mon Dec 29 23:28:17 2025] Centaurus has killed deceased.
+[Mon Dec 29 23:28:18 2025] deceased has killed deceased.
+[Mon Dec 29 23:28:20 2025] <STEAM_0:0:219840273> deceased ran command "respawn Павлов"
+[Mon Dec 29 23:28:32 2025] Centaurus has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Mon Dec 29 23:28:32 2025] <STEAM_0:0:219840273> deceased: /event [РФ] Снайпер был убит, так держать!
+[Mon Dec 29 23:28:32 2025] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Mon Dec 29 23:28:49 2025] saxaroza has killed Soldier Boy.
+[Mon Dec 29 23:28:50 2025] Soldier Boy has killed Soldier Boy.
+[Mon Dec 29 23:29:14 2025] deceased has killed Лысый аптекарь.
+[Mon Dec 29 23:29:14 2025] deceased has killed Soldier Boy.
+[Mon Dec 29 23:29:15 2025] Лысый аптекарь has killed Лысый аптекарь.
+[Mon Dec 29 23:29:21 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "ammo CPT A.E. Evergarden"
+[Mon Dec 29 23:29:26 2025] <STEAM_0:1:620808428> Soldier Boy ran command "respawn Дубровин"
+[Mon Dec 29 23:29:27 2025] <STEAM_0:0:219840273> deceased: РУКИ
+[Mon Dec 29 23:29:32 2025] <STEAM_0:0:219840273> deceased: НА КОЛЕНИ
+[Mon Dec 29 23:29:48 2025] <STEAM_0:0:219840273> deceased: /event [NATO] У меня заложник вс рпф
+[Mon Dec 29 23:29:48 2025] saxaroza has killed deceased.
+[Mon Dec 29 23:29:50 2025] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Worshiper of God.
+[Mon Dec 29 23:29:50 2025] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Centaurus.
+[Mon Dec 29 23:29:51 2025] <STEAM_0:0:219840273> deceased: // бля
+[Mon Dec 29 23:29:54 2025] <STEAM_0:1:176906490> Centaurus: // -2
+[Mon Dec 29 23:29:56 2025] <STEAM_0:0:219840273> deceased: // реально гении на нато
+[Mon Dec 29 23:29:58 2025] <STEAM_0:1:176906490> Centaurus: // кто стрельнул?
+[Mon Dec 29 23:30:00 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // 1 патроном...
+[Mon Dec 29 23:30:02 2025] <STEAM_0:0:219840273> deceased ran command "respawn Павлов"
+[Mon Dec 29 23:30:08 2025] <STEAM_0:1:620808428> Soldier Boy ran command "ammo Дубровин"
+[Mon Dec 29 23:30:10 2025] <STEAM_0:0:74235942> Worshiper of God: // ебать дал
+[Mon Dec 29 23:30:13 2025] <STEAM_0:1:601998882> Лысый аптекарь: /ooc да ты ахуел сука? хуле так быстро
+[Mon Dec 29 23:30:19 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // хех
+[Mon Dec 29 23:30:22 2025] <STEAM_0:1:620808428> Soldier Boy: // Как в ПДА писать?
+[Mon Dec 29 23:30:42 2025] deceased has killed Soldier Boy.
+[Mon Dec 29 23:30:43 2025] Soldier Boy has killed Soldier Boy.
+[Mon Dec 29 23:30:46 2025] <STEAM_0:1:620808428> Soldier Boy: // Как в ПДА писать?
+[Mon Dec 29 23:30:48 2025] <STEAM_0:1:620808428> Soldier Boy ran command "respawn Дубровин"
+[Mon Dec 29 23:31:01 2025] <STEAM_0:1:620808428> Soldier Boy ran command "ammo Дубровин"
+[Mon Dec 29 23:31:06 2025] <STEAM_0:0:219840273> deceased spawned SENT "Entity [790][sw_mine_pfm1_v3]"
+[Mon Dec 29 23:31:13 2025] <STEAM_0:1:620808428> Soldier Boy ran command "respawn Жнецов"
+[Mon Dec 29 23:31:16 2025] <STEAM_0:0:219840273> deceased spawned SENT "Entity [721][sw_mine_ozm72_v3]"
+[Mon Dec 29 23:31:16 2025] <STEAM_0:1:620808428> Soldier Boy ran command "send Жнецов"
+[Mon Dec 29 23:31:20 2025] <STEAM_0:0:219840273> deceased spawned SENT "Entity [815][sw_mine_ozm72_v3]"
+[Mon Dec 29 23:31:24 2025] <STEAM_0:1:620808428> Soldier Boy ran command "respawn Баранов"
+[Mon Dec 29 23:31:26 2025] <STEAM_0:1:620808428> Soldier Boy ran command "send Баранов"
+[Mon Dec 29 23:31:28 2025] <STEAM_0:0:219840273> deceased spawned SENT "Entity [706][sw_mine_ozm72_v3]"
+[Mon Dec 29 23:31:34 2025] <STEAM_0:0:219840273> deceased spawned SENT "Entity [815][sw_mine_pfm1_v3]"
+[Mon Dec 29 23:31:36 2025] <STEAM_0:1:620808428> Soldier Boy ran command "ammo @"
+[Mon Dec 29 23:31:42 2025] saxaroza has killed deceased.
+[Mon Dec 29 23:31:43 2025] <STEAM_0:1:620808428> Soldier Boy ran command "respawn Жнецов"
+[Mon Dec 29 23:32:00 2025] <STEAM_0:0:219840273> deceased: // ловушки джокера расставленны)
+[Mon Dec 29 23:32:03 2025] Лысый аптекарь has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Mon Dec 29 23:32:06 2025] saxaroza has killed Soldier Boy.
+[Mon Dec 29 23:32:22 2025] saxaroza has killed Лысый аптекарь.
+[Mon Dec 29 23:32:22 2025] Лысый аптекарь has killed Лысый аптекарь.
+[Mon Dec 29 23:32:23 2025] <STEAM_0:0:219840273> deceased: /event [РФ] Следите за каждым шагом! Многие здания заминированы! Конец связи.
+[Mon Dec 29 23:32:30 2025] <STEAM_0:0:219840273> deceased ran command "invisible Павлов"
+[Mon Dec 29 23:32:37 2025] <STEAM_0:1:620808428> Soldier Boy ran command "ammo Дубровин"
+[Mon Dec 29 23:32:53 2025] <STEAM_0:1:620808428> Soldier Boy ran command "ammo Дубровин"
+[Mon Dec 29 23:32:55 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "ammo CPT A.E. Evergarden"
+[Mon Dec 29 23:32:58 2025] <STEAM_0:0:219840273> deceased spawned SENT "Entity [561][sw_mine_pfm1_v3]"
+[Mon Dec 29 23:33:09 2025] <STEAM_0:0:219840273> deceased spawned SENT "Entity [815][sw_mine_ozm72_v3]"
+[Mon Dec 29 23:33:21 2025] <STEAM_0:1:620808428> Soldier Boy ran command "send Жнецов"
+[Mon Dec 29 23:33:23 2025] <STEAM_0:1:620808428> Soldier Boy ran command "send Баранов"
+[Mon Dec 29 23:33:30 2025] <STEAM_0:1:620808428> Soldier Boy ran command "send Жнецов"
+[Mon Dec 29 23:33:32 2025] <STEAM_0:0:219840273> deceased spawned SENT "Entity [706][sw_mine_ozm72_v3]"
+[Mon Dec 29 23:33:35 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "respawn CPT A.E. Evergarden"
+[Mon Dec 29 23:33:44 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "ammo CPT A.E. Evergarden"
+[Mon Dec 29 23:33:51 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "goto RCT P. B. Parker"
+[Mon Dec 29 23:34:23 2025] saxaroza has killed Worshiper of God.
+[Mon Dec 29 23:34:27 2025] Centaurus has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Mon Dec 29 23:34:38 2025] saxaroza has killed Soldier Boy.
+[Mon Dec 29 23:34:38 2025] Soldier Boy has killed Soldier Boy.
+[Mon Dec 29 23:34:51 2025] <STEAM_0:1:620808428> Soldier Boy ran command "respawn Дубровин"
+[Mon Dec 29 23:34:53 2025] <STEAM_0:0:219840273> deceased spawned SENT "Entity [494][sw_mine_ozm72_v3]"
+[Mon Dec 29 23:34:54 2025] <STEAM_0:0:219840273> deceased spawned SENT "Entity [819][sw_mine_ozm72_v3]"
+[Mon Dec 29 23:35:01 2025] <STEAM_0:0:219840273> deceased spawned SENT "Entity [494][sw_mine_ozm72_v3]"
+[Mon Dec 29 23:35:03 2025] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Centaurus.
+[Mon Dec 29 23:35:04 2025] Centaurus has killed Centaurus.
+[Mon Dec 29 23:35:09 2025] saxaroza has killed Лысый аптекарь.
+[Mon Dec 29 23:35:10 2025] Лысый аптекарь has killed Лысый аптекарь.
+[Mon Dec 29 23:35:16 2025] <STEAM_0:1:176906490> Centaurus: // в нато реально пидоры сидят
+[Mon Dec 29 23:35:19 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "ammo CPT A.E. Evergarden"
+[Mon Dec 29 23:35:27 2025] <STEAM_0:1:176906490> Centaurus: // в плен не берем, сразу рпк с обнулением звания
+[Mon Dec 29 23:35:34 2025] <STEAM_0:1:620808428> Soldier Boy ran command "send Жнецов"
+[Mon Dec 29 23:35:38 2025] <STEAM_0:1:176906490> Centaurus: // откат
+[Mon Dec 29 23:35:50 2025] <STEAM_0:0:219840273> deceased spawned SENT "Entity [494][sw_mine_ozm72_v3]"
+[Mon Dec 29 23:36:07 2025] saxaroza has killed Soldier Boy.
+[Mon Dec 29 23:36:08 2025] Soldier Boy has killed Soldier Boy.
+[Mon Dec 29 23:36:11 2025] <STEAM_0:1:620808428> Soldier Boy ran command "respawn Дубровин"
+[Mon Dec 29 23:36:12 2025] Centaurus has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Mon Dec 29 23:36:24 2025] <STEAM_0:1:620808428> Soldier Boy ran command "invisible RCT P. B. Parker"
+[Mon Dec 29 23:36:30 2025] deceased has killed Worshiper of God.
+[Mon Dec 29 23:36:31 2025] <STEAM_0:1:620808428> Soldier Boy ran command "invisible RCT P. B. Parker"
+[Mon Dec 29 23:36:44 2025] <STEAM_0:0:219840273> deceased spawned SENT "Entity [561][sw_mine_ozm72_v3]"
+[Mon Dec 29 23:36:45 2025] <STEAM_0:0:219840273> deceased spawned SENT "Entity [661][sw_mine_ozm72_v3]"
+[Mon Dec 29 23:36:47 2025] <STEAM_0:1:620808428> Soldier Boy ran command "send Баранов"
+[Mon Dec 29 23:37:03 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "ammo CPT A.E. Evergarden"
+[Mon Dec 29 23:37:03 2025] <STEAM_0:0:219840273> deceased: // ни чему жизнь не учит..
+[Mon Dec 29 23:37:06 2025] deceased has killed Soldier Boy.
+[Mon Dec 29 23:37:07 2025] Soldier Boy has killed Soldier Boy.
+[Mon Dec 29 23:37:09 2025] <STEAM_0:1:620808428> Soldier Boy ran command "respawn Дубровин"
+[Mon Dec 29 23:37:10 2025] <STEAM_0:0:219840273> deceased: // говорю же под ноги смотреть
+[Mon Dec 29 23:37:24 2025] <STEAM_0:1:620808428> Soldier Boy ran command "ammo Дубровин"
+[Mon Dec 29 23:37:27 2025] <STEAM_0:0:219840273> deceased spawned SENT "Entity [792][sw_mine_ozm72_v3]"
+[Mon Dec 29 23:37:49 2025] <STEAM_0:0:219840273> deceased ran command "invisible Павлов"
+[Mon Dec 29 23:37:52 2025] Soldier Boy has killed saxaroza.
+[Mon Dec 29 23:37:54 2025] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Centaurus.
+[Mon Dec 29 23:37:55 2025] Centaurus has killed Centaurus.
+[Mon Dec 29 23:37:57 2025] deceased has killed Soldier Boy.
+[Mon Dec 29 23:38:02 2025] Лысый аптекарь has killed deceased.
+[Mon Dec 29 23:38:07 2025] <STEAM_0:0:219840273> deceased ran command "respawn Павлов"
+[Mon Dec 29 23:38:11 2025] <STEAM_0:1:620808428> Soldier Boy ran command "respawn Дубровин"
+[Mon Dec 29 23:38:21 2025] Лысый аптекарь has killed Worshiper of God.
+[Mon Dec 29 23:38:22 2025] Worshiper of God has killed Worshiper of God.
+[Mon Dec 29 23:38:23 2025] <STEAM_0:0:219840273> deceased: // а вы что мины не ставите?)
+[Mon Dec 29 23:38:33 2025] <STEAM_0:1:620808428> Soldier Boy ran command "ammo Дубровин"
+[Mon Dec 29 23:38:37 2025] <STEAM_0:0:219840273> deceased spawned SENT "Entity [575][sw_mine_pfm1_v3]"
+[Mon Dec 29 23:38:38 2025] <STEAM_0:1:601998882> Лысый аптекарь: /ooc пальцами? у меня нету их
+[Mon Dec 29 23:38:49 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [818][sw_mine_tm62_v3]"
+[Mon Dec 29 23:38:59 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "send RCT P. B. Parker"
+[Mon Dec 29 23:39:00 2025] Лысый аптекарь has killed deceased.
+[Mon Dec 29 23:39:02 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ ran command "ammo RCT P. B. Parker"
+[Mon Dec 29 23:39:10 2025] <STEAM_0:0:219840273> deceased: оу фак
+[Mon Dec 29 23:39:18 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [551][sw_mine_tm62_v3]"
+[Mon Dec 29 23:39:19 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [568][sw_mine_tm62_v3]"
+[Mon Dec 29 23:39:19 2025] <STEAM_0:1:620808428> Soldier Boy: /me изъял средства связи
+[Mon Dec 29 23:39:20 2025] <STEAM_0:1:620808428> Soldier Boy: /me изъял оружие
+[Mon Dec 29 23:39:25 2025] <STEAM_0:1:620808428> Soldier Boy ran command "ammo @"
+[Mon Dec 29 23:39:40 2025] <STEAM_0:0:219840273> deceased: /me Истекает кровью
+[Mon Dec 29 23:39:44 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [46][sw_mine_tm62_v3]"
+[Mon Dec 29 23:39:48 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [489][sw_mine_tm62_v3]"
+[Mon Dec 29 23:39:53 2025] <STEAM_0:0:219840273> deceased: ми вас истребить
+[Mon Dec 29 23:40:04 2025] <STEAM_0:0:219840273> deceased: мы стоим до последнего
+[Mon Dec 29 23:40:12 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [496][sw_mine_tm62_v3]"
+[Mon Dec 29 23:40:13 2025] <STEAM_0:0:219840273> deceased: много..
+[Mon Dec 29 23:40:18 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [496][sw_mine_tm62_v3]"
+[Mon Dec 29 23:40:23 2025] <STEAM_0:0:219840273> deceased: до правды еще вам далеко
+[Mon Dec 29 23:40:37 2025] <STEAM_0:1:620808428> Soldier Boy: // Вы спать хотите?
+[Mon Dec 29 23:40:41 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // да
+[Mon Dec 29 23:40:43 2025] <STEAM_0:0:219840273> deceased: мы воюем из-за вас чертовы россияне
+[Mon Dec 29 23:40:44 2025] <STEAM_0:1:601998882> Лысый аптекарь: /ooc нет
+[Mon Dec 29 23:40:44 2025] <STEAM_0:1:773566500> saxaroza: нlf
+[Mon Dec 29 23:40:49 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // скучно уже
+[Mon Dec 29 23:40:49 2025] <STEAM_0:1:773566500> saxaroza: да
+[Mon Dec 29 23:40:50 2025] <STEAM_0:0:219840273> deceased: вы все умретее
+[Mon Dec 29 23:40:54 2025] <STEAM_0:0:74235942> Worshiper of God: // спать нельзя
+[Mon Dec 29 23:40:55 2025] <STEAM_0:0:219840273> deceased: // хз\
+[Mon Dec 29 23:41:02 2025] <STEAM_0:0:219840273> deceased: // за рф зайдите вы оба
+[Mon Dec 29 23:41:04 2025] <STEAM_0:0:219840273> deceased: // тогда
+[Mon Dec 29 23:41:09 2025] <STEAM_0:0:219840273> deceased: // я в соло придумаю
+[Mon Dec 29 23:41:10 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [46][sw_mine_tm62_v3]"
+[Mon Dec 29 23:41:15 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [46][sw_mine_tm62_v3]"
+[Mon Dec 29 23:41:19 2025] <STEAM_0:0:219840273> deceased: // чтоб вас повеселить
+[Mon Dec 29 23:41:32 2025] <STEAM_0:0:219840273> deceased: NOO
+[Mon Dec 29 23:41:34 2025] <STEAM_0:0:219840273> deceased: НЕТ
+[Mon Dec 29 23:41:41 2025] <STEAM_0:1:773566500> saxaroza: не я последняя смерть и спать
+[Mon Dec 29 23:41:41 2025] Лысый аптекарь has killed Centaurus.
+[Mon Dec 29 23:41:42 2025] Centaurus has killed Centaurus.
+[Mon Dec 29 23:41:45 2025] saxaroza has killed deceased.
+[Mon Dec 29 23:41:46 2025] saxaroza has killed Soldier Boy.
+[Mon Dec 29 23:41:46 2025] Soldier Boy has killed Soldier Boy.
+[Mon Dec 29 23:41:53 2025] <STEAM_0:0:219840273> deceased: // гадэм чувак
+[Mon Dec 29 23:41:56 2025] <STEAM_0:0:219840273> deceased ran command "respawn Павлов"
+[Mon Dec 29 23:42:04 2025] saxaroza has killed Worshiper of God.
+[Mon Dec 29 23:42:05 2025] Worshiper of God has killed Worshiper of God.
+[Mon Dec 29 23:42:08 2025] <STEAM_0:1:620808428> Soldier Boy ran command "respawn Дубровин"
+[Mon Dec 29 23:42:13 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [513][sw_mine_tm62_v3]"
+[Mon Dec 29 23:42:16 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ spawned SENT "Entity [553][sw_mine_tm62_v3]"
+[Mon Dec 29 23:42:23 2025] saxaroza has killed Лысый аптекарь.
+[Mon Dec 29 23:42:24 2025] Лысый аптекарь has killed Лысый аптекарь.
+[Mon Dec 29 23:42:24 2025] <STEAM_0:0:219840273> deceased spawned SENT "Entity [512][lvs_trailer_flak]"
+[Mon Dec 29 23:42:28 2025] Soldier Boy has killed saxaroza.
+[Mon Dec 29 23:42:41 2025] <STEAM_0:1:601998882> Лысый аптекарь: /ooc ебаный глушитель, ебать я его слышу за 3 км
+[Mon Dec 29 23:42:41 2025] <STEAM_0:1:620808428> Soldier Boy ran command "ammo Дубровин"
+[Mon Dec 29 23:42:57 2025] <STEAM_0:0:219840273> deceased spawned SENT "Entity [512][lvs_wheeldrive_m3a3]"
+[Mon Dec 29 23:43:06 2025] <STEAM_0:1:773566500> saxaroza: я спать,всем бб
+[Mon Dec 29 23:43:13 2025] <STEAM_0:1:620808428> Soldier Boy ran command "send Жнецов"
+[Mon Dec 29 23:43:17 2025] Player "saxaroza" <STEAM_0:1:773566500> has left the server
+[Mon Dec 29 23:43:20 2025] <STEAM_0:1:620808428> Soldier Boy: /rf Кузьмин ты где?
+[Mon Dec 29 23:43:22 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // он спать ушёл
+[Mon Dec 29 23:43:26 2025] <STEAM_0:1:620808428> Soldier Boy ran command "send Баранов"
+[Mon Dec 29 23:43:31 2025] ༒︎シ︎ʰᵉⁿᵗᵃⁱシ has killed Soldier Boy.
+[Mon Dec 29 23:43:39 2025] Centaurus has killed ༒︎シ︎ʰᵉⁿᵗᵃⁱシ.
+[Mon Dec 29 23:43:58 2025] Worshiper of God has killed deceased.
+[Mon Dec 29 23:43:59 2025] <STEAM_0:0:851601344> ༒︎シ︎ʰᵉⁿᵗᵃⁱシ: // ну я тоже спать удачи а то одному против 5 рыл не хочеться
+[Mon Dec 29 23:44:03 2025] <STEAM_0:0:219840273> deceased ran command "respawn Павлов"
+[Mon Dec 29 23:44:06 2025] Player "༒︎シ︎ʰᵉⁿᵗᵃⁱシ" <STEAM_0:0:851601344> has left the server
+[Mon Dec 29 23:44:15 2025] <STEAM_0:1:620808428> Soldier Boy: /rf Кузьмин ты где?
+[Mon Dec 29 23:44:26 2025] <STEAM_0:1:620808428> Soldier Boy ran command "ammo @"
+[Mon Dec 29 23:44:30 2025] Centaurus has killed deceased.
+[Mon Dec 29 23:44:36 2025] <STEAM_0:0:219840273> deceased ran command "respawn Павлов"
+[Mon Dec 29 23:44:42 2025] <STEAM_0:1:620808428> Soldier Boy ran command "ammo Дубровин"
+[Mon Dec 29 23:44:44 2025] Centaurus has killed Worshiper of God.
+[Mon Dec 29 23:44:55 2025] Soldier Boy has killed Centaurus.
+[Mon Dec 29 23:44:56 2025] Centaurus has killed Centaurus.
+[Mon Dec 29 23:44:57 2025] <STEAM_0:0:219840273> deceased spawned SENT "Entity [505][lvs_wheeldrive_m3a3]"
+[Mon Dec 29 23:45:04 2025] <STEAM_0:1:176906490> Centaurus: // cerf
+[Mon Dec 29 23:46:08 2025] <STEAM_0:1:620808428> Soldier Boy ran command "ammo @"
+[Mon Dec 29 23:46:12 2025] Centaurus has killed deceased.
+[Mon Dec 29 23:46:17 2025] <STEAM_0:0:219840273> deceased ran command "respawn Павлов"
+[Mon Dec 29 23:46:38 2025] <STEAM_0:0:219840273> deceased spawned SENT "Entity [505][lvs_wheeldrive_m3a3]"
+[Mon Dec 29 23:47:01 2025] <STEAM_0:0:219840273> deceased: /event [РФ] Вы в кольце бойцы, удачи парни..
+[Mon Dec 29 23:47:09 2025] <STEAM_0:1:620808428> Soldier Boy ran command "ammo @"
+[Mon Dec 29 23:47:15 2025] <STEAM_0:1:601998882> Лысый аптекарь: /ooc в кольце из одного человека?
+[Mon Dec 29 23:47:16 2025] deceased has killed Лысый аптекарь.
+[Mon Dec 29 23:47:17 2025] deceased has killed Worshiper of God.
+[Mon Dec 29 23:47:19 2025] deceased has killed Centaurus.
+[Mon Dec 29 23:47:50 2025] deceased has killed Soldier Boy.
+[Mon Dec 29 23:47:53 2025] deceased has killed Worshiper of God.
+[Mon Dec 29 23:48:04 2025] <STEAM_0:0:74235942> Worshiper of God: // ну с есп не честно слегка
+[Mon Dec 29 23:48:26 2025] deceased has killed Лысый аптекарь.
+[Mon Dec 29 23:48:33 2025] <STEAM_0:1:601998882> Лысый аптекарь: /OOC сука блять
+[Mon Dec 29 23:49:03 2025] <STEAM_0:1:620808428> Soldier Boy ran command "send Жнецов"
+[Mon Dec 29 23:49:25 2025] <STEAM_0:1:620808428> Soldier Boy ran command "send Кузьмин"
+[Mon Dec 29 23:49:35 2025] <STEAM_0:1:620808428> Soldier Boy ran command "ammo Дубровин"
+[Mon Dec 29 23:49:39 2025] Soldier Boy has killed deceased.
+[Mon Dec 29 23:49:42 2025] <STEAM_0:0:219840273> deceased ran command "respawn Павлов"
+[Mon Dec 29 23:49:44 2025] <STEAM_0:1:601998882> Лысый аптекарь: /ooc на сука
+[Mon Dec 29 23:50:11 2025] deceased has killed Лысый аптекарь.
+[Mon Dec 29 23:50:40 2025] deceased has killed Soldier Boy.
+[Mon Dec 29 23:50:57 2025] deceased has killed Centaurus.
+[Mon Dec 29 23:50:58 2025] Centaurus has killed Centaurus.
+[Mon Dec 29 23:51:18 2025] <STEAM_0:1:620808428> Soldier Boy ran command "ammo Дубровин"
+[Mon Dec 29 23:51:28 2025] deceased has killed Worshiper of God.
+[Mon Dec 29 23:52:03 2025] Лысый аптекарь has killed deceased.
+[Mon Dec 29 23:52:04 2025] deceased has killed deceased.
+[Mon Dec 29 23:52:25 2025] <STEAM_0:0:219840273> deceased: /me достал пистолет
+[Mon Dec 29 23:52:30 2025] <STEAM_0:0:219840273> deceased: /me направил себе в голову
+[Mon Dec 29 23:52:35 2025] <STEAM_0:1:601998882> Лысый аптекарь: /me Прервал
+[Mon Dec 29 23:52:40 2025] <STEAM_0:0:219840273> deceased: /me отрубился
+[Mon Dec 29 23:52:40 2025] <STEAM_0:1:620808428> Soldier Boy: /me изъял средства связи
+[Mon Dec 29 23:52:41 2025] <STEAM_0:1:620808428> Soldier Boy: /me изъял оружие
+[Mon Dec 29 23:53:01 2025] <STEAM_0:1:620808428> Soldier Boy ran command "send Жнецов"
+[Mon Dec 29 23:53:04 2025] <STEAM_0:0:219840273> deceased ran command "hp Павлов 100"
+[Mon Dec 29 23:53:05 2025] <STEAM_0:1:620808428> Soldier Boy ran command "send Кузьмин"
+[Mon Dec 29 23:53:18 2025] Worshiper of God has killed Centaurus.
+[Mon Dec 29 23:54:03 2025] <STEAM_0:0:219840273> deceased: /event [NATO] ВНИМАНИЕ БОЙЦЫ, ОТСТУПАЕМ! ВСЕ КТО СЛЫШИТ, ПОВТОРЯЮ - ОТСТУПАЕМ!
+[Mon Dec 29 23:54:47 2025] <STEAM_0:0:219840273> deceased: /event [NATO] БОЙЦЫ NATO, сбор на базе. Готовим штурм базы ВС РФ.
+[Mon Dec 29 23:55:33 2025] <STEAM_0:1:601998882> Лысый аптекарь: /ooc можна нам танк снять
+[Mon Dec 29 23:55:39 2025] <STEAM_0:0:219840273> deceased: Наша задача уничтожить врагов, и мы ее выполняем
+[Mon Dec 29 23:55:44 2025] <STEAM_0:0:219840273> deceased: Мы ренджеры
+[Mon Dec 29 23:56:10 2025] <STEAM_0:0:219840273> deceased: Ми убьем всех вас
+[Mon Dec 29 23:56:17 2025] <STEAM_0:0:219840273> deceased: за мной еще прийдут..
+[Mon Dec 29 23:56:50 2025] <STEAM_0:0:219840273> deceased: /me пнул
+[Mon Dec 29 23:57:40 2025] <STEAM_0:0:219840273> deceased: fuck you
+[Mon Dec 29 23:57:51 2025] <STEAM_0:0:219840273> deceased: fucking russia
+[Mon Dec 29 23:57:57 2025] <STEAM_0:0:219840273> deceased: kurwa
+[Mon Dec 29 23:58:26 2025] <STEAM_0:0:219840273> deceased: kill me fucking russian kids
+[Mon Dec 29 23:58:45 2025] <STEAM_0:0:219840273> deceased: yra
+[Mon Dec 29 23:58:52 2025] <STEAM_0:0:219840273> deceased: mne 24 января будет
+[Mon Dec 29 23:58:57 2025] <STEAM_0:1:601998882> Лысый аптекарь: /ooc короче я сьебываю спать
+[Mon Dec 29 23:59:09 2025] <STEAM_0:1:601998882> Лысый аптекарь: /ooc всем бб дж дж и тд
+[Mon Dec 29 23:59:11 2025] Player "Лысый аптекарь" <STEAM_0:1:601998882> has left the server
+[Mon Dec 29 23:59:20 2025] <STEAM_0:0:219840273> deceased: /me харкнул в лицо военному
+[Mon Dec 29 23:59:25 2025] <STEAM_0:0:219840273> deceased: /looc забей просто
+[Mon Dec 29 23:59:45 2025] <STEAM_0:0:219840273> deceased: kak mi?

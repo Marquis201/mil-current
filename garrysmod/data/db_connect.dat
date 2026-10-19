@@ -1,0 +1,7 @@
+{
+        "Host": "Host",
+        "Database": "Database",
+        "Username": "Username",
+        "Port": 3306,
+        "Password": "Password"
+}
