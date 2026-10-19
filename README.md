@@ -19,3 +19,4 @@
 ### II. Памятка
 * **Настройка БД:** garrysmod\data\db_connect.dat
 * **Настройка фракций:** garrysmod\gamemodes\militaryrp\gamemode\config\sh_config.lua
+* **Контент сервера:** [Нажми на меня](https://steamcommunity.com/sharedfiles/filedetails/?id=3605141517)
